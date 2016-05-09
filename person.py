@@ -57,9 +57,11 @@ class Person(ndb.Model):
 ## --- end of class Person
 
 def addPerson(chat_id, name):
-    p = Person.get_or_insert(str(chat_id))
-    p.name = name
-    p.chat_id = chat_id
+    p = Person(
+        id=str(chat_id),
+        name=name,
+        chat_id=chat_id,
+    )
     p.put()
     return p
 

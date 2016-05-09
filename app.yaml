@@ -1,10 +1,10 @@
 # REAL
-#application: emojiworldbot
-#version: 'v0-91'
+application: emojiworldbot
+version: 'v0-92'
 
 # TEST
-application: emojiworlddevbot
-version: 'v0-92'
+#application: emojiworlddevbot
+#version: 'v0-93'
 
 runtime: python27
 api_version: 1

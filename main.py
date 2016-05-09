@@ -19,10 +19,16 @@ from collections import defaultdict
 from random import randint
 
 import key
+
 import person
-import search
-import util
 from person import Person
+
+import search
+
+import translation
+from translation import Tmp_UserTranslationTag, TranslationTag
+
+import util
 import emojiUtil
 import string
 import unicodedata
@@ -66,6 +72,8 @@ BUTTON_START = "🌎 START 🌍"
 BUTTON_ALL_LANGUAGES = "🌏 ALL LANGUAGES 🌍"
 BUTTON_INVITE_FRIEND = '👪 INVITE A FRIEND'
 
+BUTTON_MATCHING_GAME = 'MATCHING GAME'
+
 INFO = \
 """
 @EmojiWorldBot is a multilingual dictionary that uses Emoji as a pivot for contributors among dozens of diverse languages.
@@ -80,7 +88,7 @@ Future releases will enable you to help us:
 
 EmojiWorldBot is a free public service produced by Federico Sangati (Netherlands), Martin Benjamin and Sina Mansour at Kamusi Project International and EPFL (Switzerland), Francesca Chiusaroli at University of Macerata (Italy), and Johanna Monti at University of Naples “L’Orientale” (Italy).
 
-@EmojiWorldBot version 0.91
+@EmojiWorldBot version 0.92
 """
 
 TERMS_OF_SERVICE = \
@@ -263,13 +271,13 @@ def init_user(p, name, last_name, username):
     p.put()
 
 
-def broadcast(msg, reset_user=False):
+def broadcast(msg, restart_user=False):
     qry = Person.query()
     count = 0
     for p in qry:
         if (p.enabled):
             count += 1
-            if reset_user:
+            if restart_user:
                 restart(p)
             tell(p.chat_id, msg)
     logging.debug('broadcasted to people ' + str(count))
@@ -389,6 +397,11 @@ def goToState1(p, input=None, setState=True):
                     deferred.defer(broadcast, msg, restart_user=True)
                 elif input.startswith('/normalize') and len(input) > 10:
                     tell(p.chat_id, 'Normalized: ' + normalizeString(input[10:]))
+                elif input == '/fixInlineQueryValues':
+                    deferred.defer(search.fixInlineQueryValues)
+                    tell(p.chat_id, "FixInlineQuryValues procedure activated")
+                elif input == '/getInfoCount':
+                    tell(p.chat_id, getInfoCount())
                 else:
                     tell(p.chat_id, FROWNING_FACE + " Sorry Master, I don't understand.")
             else:
@@ -408,7 +421,10 @@ def goToState2(p, input=None, setState=True):
         reply_txt = 'Ok, you have chosen ' + p.getLanguage() + ".\n"
         reply_txt += 'Please insert a single emoji, e.g., ' + randomEmoji + ' '
         reply_txt += 'or a term (one or more words), e.g., ' + randomTerm
-        tell(p.chat_id, reply_txt, kb=[[BUTTON_BACK_CHANGE_LANGUAGE]])
+        kb = [[BUTTON_BACK_CHANGE_LANGUAGE]]
+        #if not p.getLanguage().startswith('English'):
+        #    kb.insert(0, [BUTTON_MATCHING_GAME])
+        tell(p.chat_id, reply_txt, kb)
         if setState:
             p.setState(2)
     else:
@@ -416,6 +432,9 @@ def goToState2(p, input=None, setState=True):
             tell(p.chat_id, "Sorry, I don't understand what you input")
         elif input == BUTTON_BACK_CHANGE_LANGUAGE:
             goToState1(p)
+        #elif input == BUTTON_MATCHING_GAME and not p.getLanguage().startswith('English'):
+        #    p.setState(3)
+        #    goToState3(p, firstCall=True)
         else:
             input_norm = input
             if input not in emoji_text_dict.keys():
@@ -447,6 +466,89 @@ def goToState2(p, input=None, setState=True):
                     logging.info(str(p.chat_id) + " searching term '" + input + "' and getting #no_emojis#")
                     search.addSearch(p.chat_id, p.language, input_norm, is_searched_emoji=False, inline_query=False, found_translation=False)
 
+# ================================
+# GO TO STATE 3: trnslation matching game
+# ================================
+
+BUTTON_ZERO_NONE = '0 (NONE)'
+BUTTON_EXIT_GAME = LEFT_ARROW + ' EXIT GAME'
+
+def goToState3(p, input=None, firstCall = False):
+    emoji_text_dict_eng = EMOJI_TO_TEXT_DICTIONARIES['English']
+    emoji_text_dict = EMOJI_TO_TEXT_DICTIONARIES[p.getLanguage()]
+    giveInstruction = input is None
+    if giveInstruction:
+        if firstCall:
+            emoji, en_tag, language_tags = getEmojiTag(p, emoji_text_dict_eng, emoji_text_dict)
+            language_tags.insert(0, 'NONE')
+            selected_tags = [False] * len(language_tags)
+            translation.addTmpUserTranslationTag(p.chat_id, en_tag, emoji, language_tags, selected_tags)
+        else:
+            tmp_t = translation.getTmpUserTranslationTag(p.chat_id)
+            emoji = tmp_t.emoji.encode('utf-8')
+            en_tag = tmp_t.en_tag.encode('utf-8')
+            language_tags = [x.encode('utf-8') for x in tmp_t.language_tags]
+            selected_tags = tmp_t.selected_tags
+        reply_txt = 'Thanks for playing with us and helping matching English terms associated to emojis into ' + p.getLanguage() + ".\n\n"
+        reply_txt += 'We have selected the following emoji ' + emoji + " and the associated English term '" + en_tag + "'\n\n"
+        reply_txt += 'Please select all the ' + p.getLanguage() + " terms that are correct translations of '" + en_tag + "' or press on 'NONE' if none applies.\n\n"
+        options = ['/' + str(n) + ' ' + x + ' ' + getActivationMark(selected_tags, n) for n, x in enumerate(language_tags, 0)]
+        logging.debug('options: ' + str(options))
+        reply_txt += '\n'.join(options)
+        kb = util.distributeElementMaxSize([str(x) + ' ' + getActivationMark(selected_tags, x) for x in range(1,len(language_tags))])
+        kb.insert(0, [BUTTON_ZERO_NONE + ' ' + getActivationMark(selected_tags, 0)])
+        if (sum(selected_tags)>0):
+            kb.append([BUTTON_CONFIRM])
+        kb.append([BUTTON_EXIT_GAME])
+        tell(p.chat_id, reply_txt, kb)
+    else:
+        if input == '':
+            tell(p.chat_id, "Sorry, I don't understand what you input")
+        elif input == BUTTON_EXIT_GAME:
+            translation.deleteTmpUserTranslationTag(p.chat_id)
+            goToState1(p)
+        elif input == BUTTON_CONFIRM:
+            tmp_t = translation.getTmpUserTranslationTag(p.chat_id)
+            translation_tags = [tmp_t.language_tags[i] for i in range(0,len(tmp_t.language_tags)) if tmp_t.selected_tags[i]]
+            translation.addTranslation(p.chat_id, p.getLanguage(), tmp_t.emoji, tmp_t.en_tag, translation_tags)
+            translation.deleteTmpUserTranslationTag(p.chat_id)
+        else:
+            if input.startswith(BUTTON_ZERO_NONE):
+                input = str(0)
+            if input.startswith('/'):
+                numberStr = input[1:]
+            else:
+                numberStr = input.split(' ')[0]
+            tmp_t = translation.getTmpUserTranslationTag(p.chat_id)
+            if util.representsIntBetween(numberStr, 0, len(tmp_t.language_tags)):
+                number = int(numberStr)
+                if number == 0:
+                    tmp_t.selected_tags = [False] * len(tmp_t.language_tags)
+                else:
+                    tmp_t.selected_tags[0] = False
+                tmp_t.selected_tags[number] = not tmp_t.selected_tags[number]
+                tmp_t.put()
+                goToState3(p, firstCall=False)
+            else:
+                tell(p.chat_id, "Not a valid index. The number should be between 0 and " + str(len(tmp_t.language_tags)))
+
+
+def getEmojiTag(p, emoji_text_dict_eng, emoji_text_dict):
+    while(True):
+        randomEmoji = getRandomEmoji(emoji_text_dict_eng)
+        lang_tag_set = emoji_text_dict[randomEmoji]
+        if not lang_tag_set:
+            continue # language doesn't have tags for that emoji
+        if translation.wasEmojiTranslatedByPerson(p.chat_id, emoji, p.getLanguage()):
+            continue
+        en_tags = [x.encode('utf-8') for x in emoji_text_dict_eng[randomEmoji]]
+        chosen_en_tag = en_tags[randint(0, len(en_tags)-1)].encode('utf-8')
+        return randomEmoji, chosen_en_tag, lang_tag_set
+
+def getActivationMark(bool_list, num):
+    #return CHECK if bool_list[num] else CANCEL
+    return CHECK if bool_list[num] else ''
+    #return 'V' if bool_list[num] else 'X'
 
 # ================================
 # ================================
@@ -478,14 +580,19 @@ def getEmojiThumbnailUrl(e):
     codePoints = '_'.join([str(hex(ord(c)))[2:] for c in e.decode('utf-8')])
     return EMOJI_PNG_URL + codePoints + ".png"
 
-def createInlineQueryResultArticle(p, id, input_norm):
+def createInlineQueryResultArticle(p, id, input_norm, query_offset):
     language = p.getLanguage() if p.language else 'English'
     text_emoji_dict = TEXT_TO_EMOJI_DICTIONARIES[language]
     #logging.debug('Replying to inline query for tag ' + tag)
     if input_norm in text_emoji_dict.keys():
+        emojiList = list(set(text_emoji_dict[input_norm]))
         result = []
-        emojiList = list(set(text_emoji_dict[input_norm]))[:50]
         i = 0
+        query_offset_int = int(query_offset) if query_offset else 0
+        start_index = 50 * query_offset_int
+        end_index = start_index + 50
+        hasMore = len(emojiList) > end_index
+        emojiList = emojiList[start_index:end_index]
         for e in emojiList:
             result.append(
                 {
@@ -498,7 +605,8 @@ def createInlineQueryResultArticle(p, id, input_norm):
                 }
             )
             i += 1
-        return True, result
+        next_offset = str(query_offset_int + 1) if hasMore else ''
+        return next_offset, True, result
     else:
         result = [{
             'type': "article",
@@ -507,15 +615,16 @@ def createInlineQueryResultArticle(p, id, input_norm):
             'message_text': 'No emoji found for this tag in ' + language,
             'hide_url': True,
         }]
-        return False, result
+        return '', False, result
 
 
-def answerInlineQuery(query_id, inlineQueryResults):
+def answerInlineQuery(query_id, inlineQueryResults, next_offset):
     my_data = {
         'inline_query_id': query_id,
         'results': json.dumps(inlineQueryResults),
         'is_personal': True,
-        #'cache_time': 300 #default 300
+        'cache_time': 0, #default 300
+        'next_offset': next_offset
     }
     resp = urllib2.urlopen(BASE_URL + 'answerInlineQuery',
                            urllib.urlencode(my_data)).read()
@@ -526,18 +635,17 @@ def answerInlineQuery(query_id, inlineQueryResults):
 def dealWithInlineQuery(body):
     inline_query = body['inline_query']
     query_text = inline_query['query'].encode('utf-8').strip()
-    query_id = inline_query['id']
-    #query_offset = inline_query['offset']
     if len(query_text)>0:
+        query_id = inline_query['id']
+        query_offset = inline_query['offset']
         chat_id = inline_query['from']['id']
         p = person.getPersonByChatId(chat_id)
         input_norm = normalizeString(query_text)
-        validQry, query_results = createInlineQueryResultArticle(p, query_id, input_norm)
-        answerInlineQuery(query_id, query_results)
-        if validQry:
+        next_offset, validQry, query_results = createInlineQueryResultArticle(p, query_id, input_norm, query_offset)
+        answerInlineQuery(query_id, query_results, next_offset)
+        if validQry and not query_offset:
             search.addSearch(p.chat_id, p.language, input_norm, is_searched_emoji=False,
                              inline_query=True, found_translation=True)
-
 
 
 # ================================
@@ -616,6 +724,8 @@ class WebhookHandler(webapp2.RequestHandler):
                 goToState1(p, input=text)
             elif p.state == 2:
                 goToState2(p, input=text)
+            elif p.state == 3:
+                goToState3(p, input=text)
             else:
                 reply("There has been a problem (" + str(p.state).encode('utf-8') +
                       "). Please send a message to @kercos" + '\n' +
