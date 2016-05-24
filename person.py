@@ -12,7 +12,8 @@ class Person(ndb.Model):
     username = ndb.StringProperty()
     enabled = ndb.BooleanProperty(default=True)
     #language_family = ndb.StringProperty() # to delete
-    language = ndb.StringProperty()
+    language = ndb.StringProperty(default='English')
+    last_seen = ndb.DateTimeProperty(auto_now=True)
 
     def getName(self):
         return self.name.encode('utf-8')
@@ -52,7 +53,6 @@ class Person(ndb.Model):
             self.username = username
             if put:
                 self.put()
-
 
 ## --- end of class Person
 

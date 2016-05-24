@@ -1,6 +1,59 @@
 # -*- coding: utf-8 -*-
-import re
-import logging
+
+import string
+import unicodedata
+
+# ================================
+# AUXILIARY FUNCTIONS for strings
+# ================================
+
+def char_range(c1, c2):
+    """Generates the characters from `c1` to `c2`, inclusive."""
+    for c in xrange(ord(c1), ord(c2)+1):
+        yield chr(c)
+
+latin_letters= {}
+
+def is_latin(uchr):
+    try: return latin_letters[uchr]
+    except KeyError:
+         return latin_letters.setdefault(uchr, 'LATIN' in unicodedata.name(uchr))
+
+def only_roman_chars(unistr):
+    return all(is_latin(uchr)
+           for uchr in unistr
+           if uchr.isalpha()) # isalpha suggested by John Machin
+
+manualNormChar = {
+    u'ß': u'ss',
+    u'æ': u'ae',
+    u'Æ': u'ae',
+    u'œ': u'oe',
+    u'Œ': u'oe',
+    u'ð': u'd',
+    u'Ð': u'd',
+    u'đ': u'd',
+    u'ø': u'o',
+    u'Ø': u'o',
+    u'þ': u'th',
+    u'Þ': u'th',
+    u'ƒ': u'f',
+    u'ı': u'i',
+}
+
+def replaceManualChars(text):
+    return ''.join(manualNormChar[x] if x in manualNormChar.keys() else x for x in text)
+
+def remove_accents_roman_chars(text):
+    text_uni = text.decode('utf-8')
+    if not only_roman_chars(text_uni):
+        return text
+    text_uni = replaceManualChars(text_uni)
+    msg = ''.join(x for x in unicodedata.normalize('NFKD', text_uni) if (x in [' ','_'] or x in string.ascii_letters))
+    return msg.encode('utf-8')
+
+def normalizeString(text):
+    return remove_accents_roman_chars(text.lower()).lower()
 
 def representsInt(s):
     try:
@@ -16,6 +69,22 @@ def representsIntBetween(s, low, high):
     if sInt>=low and sInt<=high:
         return True
     return False
+
+def escapeMarkdown(text):
+    for char in '*_`[':
+        text = text.replace(char, '\\'+char)
+    return text
+
+def containsMarkdown(text):
+    for char in '*_`[':
+        if char in text:
+            return True
+    return False
+
+
+# ================================
+# AUXILIARY FUNCTIONS for array (keyboard)
+# ================================
 
 def makeArray2D(data_list, length=2):
     return [data_list[i:i+length] for i in range(0, len(data_list), length)]
@@ -58,18 +127,3 @@ def segmentArrayOnMaxChars(array, maxChar=20, ignoreString=None):
         result.append(currentLine)
     return result
 
-reSplitSpace = re.compile("\s")
-
-def splitTextOnSpaces(text):
-    return reSplitSpace.split(text)
-
-def escapeMarkdown(text):
-    for char in '*_`[':
-        text = text.replace(char, '\\'+char)
-    return text
-
-def containsMarkdown(text):
-    for char in '*_`[':
-        if char in text:
-            return True
-    return False
