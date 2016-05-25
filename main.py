@@ -28,9 +28,9 @@ from person import Person
 
 import search
 
-import translation_old
 import translation
 import tagging
+import parameters
 
 import webapp2
 
@@ -75,16 +75,6 @@ BUTTON_CHANGE_LANGUAGE = "🌏 CHANGE LANGUAGE 🌍"
 BUTTON_BACK_HOME_SCREEN = "⬅️ Back to 🏠🖥 home screen"
 
 BULLET_POINT = '🔸'
-
-SELECTED_EMOJIS_FOR_TEST = ['😼','📊','🌻','😂','🤖','🖌','🕓','🌩','🙅','🚅','🏆','🍯','🎉','🚧','🤘','📒','🌀','☝️','🐃','🎢']
-MAX_TRANSLATION_PER_PERSON_PER_LANGAUGE = len(SELECTED_EMOJIS_FOR_TEST) if key.TEST_MODE else 500
-
-MAX_TAGGING_PER_PERSON_PER_LANGAUGE = len(SELECTED_EMOJIS_FOR_TEST) if key.TEST_MODE else 500
-
-def getMaxTaggingPerPersonPerLanguage(test=False):
-    if test:
-        return len(SELECTED_EMOJIS_FOR_TEST)
-    return 500
 
 INFO = \
 """
@@ -160,9 +150,7 @@ def getRandomTerm(emoji_text_dict):
     else:
         return terms[randint(0, len(terms) - 1)]
 
-def getRandomEmoji(emoji_text_dict, test=False):
-    if test:
-        return SELECTED_EMOJIS_FOR_TEST[randint(0, len(SELECTED_EMOJIS_FOR_TEST)-1)]
+def getRandomEmoji(emoji_text_dict):
     return emoji_text_dict.keys()[randint(0, len(emoji_text_dict) - 1)]
 
 
@@ -309,7 +297,6 @@ def goToState1(p, input=None, setState=True):
             p.setState(3)
             logging.debug("Sending user to state 3")
             goToState3(p)
-            #goToState3(p, firstCall=True) # for old version
         elif input == BUTTON_TAGGING_GAME and p.getLanguage():
             p.setState(4)
             goToState4(p)
@@ -544,7 +531,7 @@ def goToState3(p, input=None, inlineButtonText=None, userTranslationTagEntry = N
             numTranslations = 0
         else:
             numTranslations = userTranslationTagEntry.getNumberOfTranslatedEmoji()
-        if (numTranslations >= getMaxTaggingPerPersonPerLanguage(test=False)):
+        if (numTranslations >= parameters.MAX_EMOJI_FOR_ANNOTATION_PER_PERSON_PER_LANGUAGE):
             msg = "You have provided all the tagging we needed for {0}!\n" \
                   "Thanks a lot for your help! 🙏\n".format(p.getLanguage())
             tell(p.chat_id, msg)
@@ -622,7 +609,7 @@ def goToState3(p, input=None, inlineButtonText=None, userTranslationTagEntry = N
 def getNextEmojiForTranslation(emoji_text_dict_src, emoji_text_dict_dst, userTranslationTagEntry, forceRandom=False):
     emoji = ''
     if not forceRandom and not userTranslationTagEntry.hasSeenEnoughKnownEmoji():
-        emoji = translation.getPrioritizedEmojiForUser(userTranslationTagEntry)
+        emoji, chosen_src_tag = translation.getPrioritizedEmojiSrcTagForUser(userTranslationTagEntry)
         if emoji is None:
             return getNextEmojiForTranslation(
                 emoji_text_dict_src, emoji_text_dict_dst, userTranslationTagEntry, forceRandom=True)
@@ -630,108 +617,17 @@ def getNextEmojiForTranslation(emoji_text_dict_src, emoji_text_dict_dst, userTra
     else:
         random = True
         while True:
-            emoji = getRandomEmoji(emoji_text_dict_dst, test=False)
+            emoji = getRandomEmoji(emoji_text_dict_dst)
             alreadyTranslated = userTranslationTagEntry.wasEmojiTranslated(emoji)
             if not alreadyTranslated:
+                src_tag_set = emoji_text_dict_src[emoji]
+                chosen_src_tag = src_tag_set[randint(0, len(src_tag_set) - 1)]
                 break
     dst_tag_set = emoji_text_dict_dst[emoji]
-    src_tag_set = emoji_text_dict_src[emoji]
-    chosen_src_tag = src_tag_set[0] if key.TEST_MODE else src_tag_set[randint(0, len(src_tag_set) - 1)]
+    if not dst_tag_set:
+        return getNextEmojiForTranslation(
+            emoji_text_dict_src, emoji_text_dict_dst, userTranslationTagEntry, forceRandom=True)
     return emoji, chosen_src_tag, dst_tag_set, random
-
-
-"""
-def goToState3(p, input=None, inlineButtonText=None, firstCall = False, tmp_t = None, resend=False):
-    emoji_text_dict_eng = emojiTables.EMOJI_TO_TEXT_DICTIONARIES['English']
-    emoji_text_dict = emojiTables.EMOJI_TO_TEXT_DICTIONARIES[p.getLanguage()]
-    giveInstruction = input is None and inlineButtonText is None
-    newMessage = tmp_t == None
-    if giveInstruction:
-        if newMessage and not resend:
-            numTranslations = translation_old.getNumberOfTranslationByPersonLanguage(p)
-            if (numTranslations >= MAX_TRANSLATION_PER_PERSON_PER_LANGAUGE):
-                msg = "You have provided all the translations we needed for {0}!\n" \
-                      "Thanks a lot for your help! 🙏\n".format(p.getLanguage())
-                tell(p.chat_id, msg)
-                tmp_t.key.delete()
-                sleep(1)
-                goToState1(p)
-                return
-        if resend:
-            emoji = tmp_t.emoji.encode('utf-8')
-            en_tag = tmp_t.en_tag.encode('utf-8')
-            language_tags = [x.encode('utf-8') for x in tmp_t.language_tags]
-        else:
-            emoji, en_tag, language_tags = getEmojiTagForTranslation(p, emoji_text_dict_eng, emoji_text_dict)
-            shuffle(language_tags)
-        markdown = '*' not in emoji and '*' not in en_tag
-        reply_txt = TRANSLATION_GAME_INSTRUCTIONS.format(p.getLanguage(), emoji, en_tag)
-        options = [BULLET_POINT + ' ' + str(n) + ': ' + x for n, x in enumerate(language_tags, 1)]
-        #logging.debug('options: ' + str(options))
-        reply_txt += '\n'.join(options)
-        kb = util.distributeElementMaxSize([str(x) for x in range(1,len(language_tags)+1)])
-        kb.insert(0, [BUTTON_NONE])
-        kb.append([BUTTON_SKIP_GAME])
-        kb_inline = convertKeyboardToInlineKeyboard(kb)
-        if firstCall:
-            tell(p.chat_id, "Preparing the game...", kb=[[BUTTON_EXIT_GAME]])
-        if newMessage or resend:
-            last_message_id = tell(p.chat_id, reply_txt, kb_inline, inlineKeyboardMarkup=True, markdown=markdown)
-            translation_old.addTmpUserTranslationTag(p.chat_id, en_tag, emoji, language_tags, [], last_message_id)
-        else:
-            tell_update(p.chat_id, reply_txt, tmp_t.last_message_id, kb_inline, markdown=markdown)
-    else:
-        tmp_t = translation_old.getTmpUserTranslationTag(p.chat_id)
-        if not tmp_t:
-            tell(p.chat_id, "Sorry, something went wrong, if the problem persists contact @kercos")
-            return
-        elif inlineButtonText:
-            logging.debug('Receiving inlineButtonText')
-            if inlineButtonText == BUTTON_SKIP_GAME:
-                translation_tag = translation_old.SKIPPED_CONST_VALUE
-                translation_old.addTranslation(p.chat_id, p.getLanguage(), tmp_t.emoji, tmp_t.en_tag, [translation_tag])
-                goToState3(p, tmp_t=tmp_t)
-            else:
-                if inlineButtonText == BUTTON_NONE:
-                    inlineButtonText = str(0)
-                number = int(inlineButtonText)
-                if number>0:
-                    translation_tag = tmp_t.language_tags[number - 1].encode('utf-8')
-                else:
-                    translation_tag = ''
-                #msg = "Thanks for your input! 🙏\n" + \
-                #      getStatsFeedbackForTranslation(p, tmp_t, translation_tag)
-                msg = "Thanks for your input! "
-                translation_old.addTranslation(p.chat_id, p.getLanguage(), tmp_t.emoji, tmp_t.en_tag, [translation_tag])
-                tell_update(p.chat_id, msg, tmp_t.last_message_id)
-                sleep(1)
-                goToState3(p) #, last_message_id=tmp_t.last_message_id
-        elif input == BUTTON_EXIT_GAME:
-            tell_update(p.chat_id, "Thanks for your help!", tmp_t.last_message_id)
-            tmp_t.key.delete()
-            sleep(1)
-            goToState1(p)
-        else:
-            tell_update(p.chat_id, "Game interrupted", tmp_t.last_message_id)
-            tell(p.chat_id, "Not a valid input, please use only the buttons.")
-            sleep(1)
-            goToState3(p, resend=True)
-
-
-def getEmojiTagForTranslation(p, emoji_text_dict_eng, emoji_text_dict):
-    while(True):
-        randomEmoji = getRandomEmoji(emoji_text_dict_eng, test=key.TEST_MODE)
-        if randomEmoji not in emoji_text_dict:
-            continue
-        lang_tag_set = emoji_text_dict[randomEmoji]
-        if not lang_tag_set:
-            continue # language doesn't have tags for that emoji
-        if translation_old.wasEmojiTranslatedByPerson(p, randomEmoji):
-            continue
-        en_tags = emoji_text_dict_eng[randomEmoji]
-        chosen_en_tag = en_tags[0] if key.TEST_MODE else en_tags[randint(0, len(en_tags)-1)]
-        return randomEmoji, chosen_en_tag, lang_tag_set
-"""
 
 def makeCallbackQueryButton(text):
     return {
@@ -761,7 +657,7 @@ def goToState4(p, input=None, userTaggingEntry=None):
             numTagging = 0
         else:
             numTagging = userTaggingEntry.getNumberOfTaggedEmoji()
-        if (numTagging >= getMaxTaggingPerPersonPerLanguage(test=False)):
+        if (numTagging >= parameters.MAX_EMOJI_FOR_ANNOTATION_PER_PERSON_PER_LANGUAGE):
             msg = "You have provided all the tagging we needed for {0}!\n" \
                   "Thanks a lot for your help! 🙏\n".format(p.getLanguage())
             tell(p.chat_id, msg)
@@ -849,7 +745,7 @@ def getNextEmojiForTagging(emoji_text_dict, userTaggingEntry):
         if emoji:
             return emoji, False
     while True:
-        randomEmoji = getRandomEmoji(emoji_text_dict, test=False)
+        randomEmoji = getRandomEmoji(emoji_text_dict)
         if userTaggingEntry.wasEmojiTagged(randomEmoji):
             continue
         return randomEmoji, True

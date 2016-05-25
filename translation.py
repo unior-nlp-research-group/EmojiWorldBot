@@ -2,6 +2,7 @@
 
 from google.appengine.ext import ndb
 
+from random import randint
 import logging
 import key
 
@@ -139,7 +140,7 @@ def addInAggregatedEmojiTranslations(userTranslationsEntry):
         emoji_uni.encode('utf-8'), str(aggregatedEmojiTranslations.translationsCountTable)))
     return aggregatedEmojiTranslations
 
-def getPrioritizedEmojiForUser(userTranslationsEntry):
+def getPrioritizedEmojiSrcTagForUser(userTranslationsEntry):
     emoji_esclusion_list = userTranslationsEntry.emojiSrcTagTranslationTable.keys()
     src_language = userTranslationsEntry.src_language
     dst_language = userTranslationsEntry.dst_language
@@ -147,12 +148,15 @@ def getPrioritizedEmojiForUser(userTranslationsEntry):
         AggregatedEmojiTranslations.src_language == src_language,
         AggregatedEmojiTranslations.dst_language == dst_language,
         AggregatedEmojiTranslations.annotators_count <= parameters.MAX_ANNOTATORS_PER_PRIORITIZED_EMOJI,
-    ).order(AggregatedEmojiTranslations.annotators_count).iter(projection=[AggregatedEmojiTranslations.emoji])
-    for e in entries:
-        emoji_utf = e.emoji.encode('utf-8')
+    ).order(AggregatedEmojiTranslations.annotators_count).iter(
+        projection=[AggregatedEmojiTranslations.emoji, AggregatedEmojiTranslations.translationsCountTable])
+    for entry in entries:
+        emoji_utf = entry.emoji.encode('utf-8')
         if emoji_utf not in emoji_esclusion_list:
-            return emoji_utf
-    return None
+            #srcTag = entry.translationsCountTable.keys()[randint(0, len(entry.translationsCountTable) - 1)]
+            srcTag = min(entry.translationsCountTable, key=lambda k:sum([x for x in entry.translationsCountTable[k].values()]))
+            return emoji_utf, srcTag
+    return None, None
 
 
 def getUserTagsForEmoji(emoji_utf, dst_language_utf, src_language_utf="English"):
