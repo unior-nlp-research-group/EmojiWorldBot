@@ -19,7 +19,7 @@ class UserTagging(ndb.Model):
     language = ndb.StringProperty()
     ongoingAlreadyTaggedEmojis = ndb.IntegerProperty(default=0) #number of emoji given to user already tagged by other useres
     last_emoji = ndb.StringProperty()
-    emojiTagsTable = ndb.PickleProperty(default = {})
+    emojiTagsTable = ndb.PickleProperty() #{}
     # emoji -> tag
 
     def wasEmojiTagged(self, emoji_utf):
@@ -65,6 +65,7 @@ def getOrInsertUserTaggingEntry(person):
             id=unique_id,
             chat_id = person.chat_id,
             language = person.language,
+            emojiTagsTable = {}
         )
         userTagginEntry.put()
     return userTagginEntry
@@ -80,7 +81,7 @@ class AggregatedEmojiTags(ndb.Model):
     emoji = ndb.StringProperty()
     annotators_count = ndb.IntegerProperty(default=0)
     tags_count = ndb.IntegerProperty(default=0)
-    tagsCountTable = ndb.PickleProperty(default=defaultdict(int))
+    tagsCountTable = ndb.PickleProperty() #defaultdict(int)
 
 def getAggregatedEmojiTagsId(language_uni, emoji_uni):
     return language_uni.encode('utf-8') + ' ' + emoji_uni.encode('utf-8')
@@ -98,8 +99,14 @@ def addInAggregatedEmojiTags(userTaggingEntry):
     unique_id = getAggregatedEmojiTagsId(language_uni, emoji_uni)
     aggregatedEmojiTags = AggregatedEmojiTags.get_by_id(unique_id)
     if not aggregatedEmojiTags:
-        aggregatedEmojiTags = AggregatedEmojiTags(id=unique_id, parent=None, namespace=None,
-                                                  language=language_uni, emoji=emoji_uni)
+        aggregatedEmojiTags = AggregatedEmojiTags(
+            id=unique_id,
+            parent=None,
+            namespace=None,
+            language=language_uni,
+            emoji=emoji_uni,
+            tagsCountTable=defaultdict(int)
+        )
     logging.debug('addInAggregatedEmojiTags {0}. Old stats: {1}'.format(
         emoji_uni.encode('utf-8'), str(aggregatedEmojiTags.tagsCountTable)))
     for t in tags:
@@ -186,8 +193,7 @@ class AggregatedTagEmojis(ndb.Model):
     # id = language tag
     language = ndb.StringProperty()
     tag = ndb.StringProperty()
-    emojiCountTable = ndb.PickleProperty(default=defaultdict(int))
-
+    emojiCountTable = ndb.PickleProperty() # defaultdict(int)
 
 def getAggregatedTagEmojisId(language_utf, tag_utf):
     return language_utf + ' ' + tag_utf
@@ -206,8 +212,13 @@ def addInAggregatedTagEmojis(userTaggingEntry):
         unique_id = getAggregatedTagEmojisId(language_utf, t)
         aggregatedEmojisTags = AggregatedTagEmojis.get_by_id(unique_id)
         if not aggregatedEmojisTags:
-            aggregatedEmojisTags = AggregatedTagEmojis(id=unique_id, parent=None,
-                                                       namespace=None, language=language_utf)
+            aggregatedEmojisTags = AggregatedTagEmojis(
+                id=unique_id,
+                parent=None,
+                namespace=None,
+                language=language_utf,
+                emojiCountTable = defaultdict(int)
+            )
         emoji_utf = userTaggingEntry.last_emoji.encode('utf-8')
         aggregatedEmojisTags.emojiCountTable[emoji_utf] +=1
         aggregatedEmojisTags.put()

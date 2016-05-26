@@ -26,7 +26,7 @@ class UserTranslationTag(ndb.Model):
     last_emoji = ndb.StringProperty()
     last_src_tag = ndb.StringProperty()
     dst_tag_set = ndb.PickleProperty(default=[])
-    emojiSrcTagTranslationTable = ndb.PickleProperty(default={})
+    emojiSrcTagTranslationTable = ndb.PickleProperty() #{}
     #tmp_emojiSrcTagTranslationTable = ndb.StringProperty()
     #emoji -> (last_src_tag, translation)
     # "None of the options" -> ''
@@ -44,6 +44,7 @@ class UserTranslationTag(ndb.Model):
         return len(self.emojiSrcTagTranslationTable)
 
     def setLastEmojiAndSrcTag(self, emoji, last_src_tag, random):
+        logging.debug("Setting last emoji {0} and src_tag {1}".format(emoji, last_src_tag))
         self.last_emoji = emoji
         self.last_src_tag = last_src_tag
         if random:
@@ -61,6 +62,7 @@ class UserTranslationTag(ndb.Model):
         # translation == None if skipped, translation == '' if none of the options apply
         last_emoji_utf = self.last_emoji.encode('utf-8')
         last_src_tag_utf = self.last_src_tag.encode('utf-8')
+        logging.debug("Addding translation {0} to last emoji {1} and src_tag {2}".format(str(translation), last_emoji_utf, last_src_tag_utf))
         self.emojiSrcTagTranslationTable[last_emoji_utf] = (last_src_tag_utf, translation)
         #self.tmp_emojiSrcTagTranslationTable = str(self.emojiSrcTagTranslationTable)
         if put:
@@ -89,6 +91,7 @@ def getOrInsertUserTranslationTagEntry(person, src_language):
             chat_id = person.chat_id,
             src_language = src_language,
             dst_language = person.language,
+            emojiSrcTagTranslationTable = {}
         )
         userTranslationTagEntry.put()
     return userTranslationTagEntry
@@ -109,8 +112,9 @@ class AggregatedEmojiTranslations(ndb.Model):
     dst_language = ndb.StringProperty()
     emoji = ndb.StringProperty()
     annotators_count = ndb.IntegerProperty(default=0)
-    translationsCountTable = ndb.PickleProperty(default=KeyKeyIntDict())
-    # src_tag, translation_tag -> count
+    translationsCountTable = ndb.PickleProperty() #default=KeyKeyIntDict()
+    # src_tag -> translation_tag -> count
+    #tmp_translationsCountTable = ndb.StringProperty()
 
 def getAggregatedEmojiTranslationsId(emoji_uni, dst_language_uni, src_language_uni):
     return src_language_uni.encode('utf-8') + ' ' + dst_language_uni.encode('utf-8') + ' ' + emoji_uni.encode('utf-8')
@@ -129,14 +133,17 @@ def addInAggregatedEmojiTranslations(userTranslationsEntry):
     if not aggregatedEmojiTranslations:
         aggregatedEmojiTranslations = AggregatedEmojiTranslations(id=unique_id, parent=None, namespace=None,
                                                   src_language=src_language_uni, dst_language=dst_language_uni, emoji=emoji_uni)
-    logging.debug('addInAggregatedEmojiTranslations {0}. Old stats: {1}'.format(
+        aggregatedEmojiTranslations.translationsCountTable = KeyKeyIntDict()
+    logging.debug('addInAggregatedEmojiTranslations emoji: {0} Old stats: {1}'.format(
         emoji_uni.encode('utf-8'), str(aggregatedEmojiTranslations.translationsCountTable)))
     userLastSrcTag_utf, lastTranslation_utf = userTranslationsEntry.getLastSrcTagLastTranslation()
+    logging.debug('last emoji: {0} last src_tag: {1} last translation: {2}'.format(emoji_uni.encode('utf-8'), userLastSrcTag_utf, lastTranslation_utf))
     if lastTranslation_utf!=None: #None is uses when skipped
         aggregatedEmojiTranslations.translationsCountTable[userLastSrcTag_utf][lastTranslation_utf] +=1
+    #aggregatedEmojiTranslations.tmp_translationsCountTable = str(aggregatedEmojiTranslations.translationsCountTable)
     aggregatedEmojiTranslations.annotators_count += 1
     aggregatedEmojiTranslations.put()
-    logging.debug('addInAggregatedEmojiTranslations {0}. New stats: {1}'.format(
+    logging.debug('addInAggregatedEmojiTranslations emoji: {0} New stats: {1}'.format(
         emoji_uni.encode('utf-8'), str(aggregatedEmojiTranslations.translationsCountTable)))
     return aggregatedEmojiTranslations
 
@@ -148,8 +155,8 @@ def getPrioritizedEmojiSrcTagForUser(userTranslationsEntry):
         AggregatedEmojiTranslations.src_language == src_language,
         AggregatedEmojiTranslations.dst_language == dst_language,
         AggregatedEmojiTranslations.annotators_count <= parameters.MAX_ANNOTATORS_PER_PRIORITIZED_EMOJI,
-    ).order(AggregatedEmojiTranslations.annotators_count).iter(
-        projection=[AggregatedEmojiTranslations.emoji, AggregatedEmojiTranslations.translationsCountTable])
+    ).order(AggregatedEmojiTranslations.annotators_count)
+        #.iter(projection=[AggregatedEmojiTranslations.emoji)
     for entry in entries:
         emoji_utf = entry.emoji.encode('utf-8')
         if emoji_utf not in emoji_esclusion_list:
