@@ -27,7 +27,7 @@ class UserTranslationTag(ndb.Model):
     last_src_tag = ndb.StringProperty()
     dst_tag_set = ndb.PickleProperty(default=[])
     emojiSrcTagTranslationTable = ndb.PickleProperty() #{}
-    #tmp_emojiSrcTagTranslationTable = ndb.StringProperty()
+    tmp_emojiSrcTagTranslationTable = ndb.StringProperty()
     #emoji -> (last_src_tag, translation)
     # "None of the options" -> ''
     # SKIP -> None
@@ -64,7 +64,7 @@ class UserTranslationTag(ndb.Model):
         last_src_tag_utf = self.last_src_tag.encode('utf-8')
         logging.debug("Addding translation {0} to last emoji {1} and src_tag {2}".format(str(translation), last_emoji_utf, last_src_tag_utf))
         self.emojiSrcTagTranslationTable[last_emoji_utf] = (last_src_tag_utf, translation)
-        #self.tmp_emojiSrcTagTranslationTable = str(self.emojiSrcTagTranslationTable)
+        self.tmp_emojiSrcTagTranslationTable = str(self.emojiSrcTagTranslationTable)
         if put:
             self.put()
 
@@ -114,7 +114,7 @@ class AggregatedEmojiTranslations(ndb.Model):
     annotators_count = ndb.IntegerProperty(default=0)
     translationsCountTable = ndb.PickleProperty() #default=KeyKeyIntDict()
     # src_tag -> translation_tag -> count
-    #tmp_translationsCountTable = ndb.StringProperty()
+    tmp_translationsCountTable = ndb.StringProperty()
 
 def getAggregatedEmojiTranslationsId(emoji_uni, dst_language_uni, src_language_uni):
     return src_language_uni.encode('utf-8') + ' ' + dst_language_uni.encode('utf-8') + ' ' + emoji_uni.encode('utf-8')
@@ -140,7 +140,7 @@ def addInAggregatedEmojiTranslations(userTranslationsEntry):
     logging.debug('last emoji: {0} last src_tag: {1} last translation: {2}'.format(emoji_uni.encode('utf-8'), userLastSrcTag_utf, lastTranslation_utf))
     if lastTranslation_utf!=None: #None is uses when skipped
         aggregatedEmojiTranslations.translationsCountTable[userLastSrcTag_utf][lastTranslation_utf] +=1
-    #aggregatedEmojiTranslations.tmp_translationsCountTable = str(aggregatedEmojiTranslations.translationsCountTable)
+    aggregatedEmojiTranslations.tmp_translationsCountTable = str(aggregatedEmojiTranslations.translationsCountTable)
     aggregatedEmojiTranslations.annotators_count += 1
     aggregatedEmojiTranslations.put()
     logging.debug('addInAggregatedEmojiTranslations emoji: {0} New stats: {1}'.format(

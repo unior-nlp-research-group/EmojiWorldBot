@@ -584,7 +584,7 @@ def goToState3(p, input=None, inlineButtonText=None, userTranslationTagEntry = N
                     inlineButtonText = str(0)
                 number = int(inlineButtonText)
                 if number>0:
-                    translation_tag = userTranslationTagEntry.dst_tag_set[number - 1].encode('utf-8')
+                    translation_tag = userTranslationTagEntry.dst_tag_set[number - 1] #.encode('utf-8')
                 else:
                     translation_tag = ''
                 msg = "Thanks for your input! 🙏\n" + \
