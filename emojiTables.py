@@ -1,10 +1,30 @@
 # -*- coding: utf-8 -*-
 
+from google.appengine.ext import ndb
 import json
 import os
 from collections import defaultdict
 
 import util
+
+
+class EmojiFileId(ndb.Model):
+    # id = emoji
+    file_id = ndb.StringProperty()
+
+def addEmojiFileId(emoji_utf, file_id):
+    emoji_uni = emoji_utf.decode('utf-8')
+    p = EmojiFileId(
+        id=emoji_uni,
+        file_id=file_id,
+    )
+    p.put()
+    return p
+
+def getEmojiFileIdEntry(emoji_utf):
+    emoji_uni = emoji_utf.decode('utf-8')
+    return EmojiFileId.get_by_id(emoji_uni)
+
 
 # ================================
 # BUILDING DICTIONARIES FROM FILES
@@ -58,7 +78,7 @@ for lang, dict in EMOJI_TO_TEXT_DICTIONARIES.iteritems():
 
 KAMUSI_SERVER = "http://lsir-kamusi.epfl.ch:3000"
 KAMUSI_SERVER_LANGUAGES = KAMUSI_SERVER + "/emojibot/languages"
-KAMUSI_SERVER_LANG_DICT = KAMUSI_SERVER + "/emojibot/getall/" # + *language name* (as in KAMUSI_SERVER_LANGUAGES)
+KAMUSI_SERVER_LANG_DICT = KAMUSI_SERVER + "/emojibot/getall/" # + *language_code*
 
 """
 kamusi_languages_json = json.loads(urllib2.urlopen(KAMUSI_SERVER_LANGUAGES).read())

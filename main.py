@@ -18,6 +18,7 @@ from random import randint, shuffle
 
 import key
 
+import multipart
 import util
 import emojiUtil
 import emojiTables
@@ -27,7 +28,6 @@ import person
 from person import Person
 
 import search
-
 import translation
 import tagging
 import parameters
@@ -244,6 +244,46 @@ def tell_update(chat_id, msg, update_message_id, inline_kb=None, markdown=False)
             p.setEnabled(False)
             # logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
 
+def sendEmojiImage(chat_id, emoji):
+    emojiFileIdEntry = emojiTables.getEmojiFileIdEntry(emoji)
+    if emojiFileIdEntry:
+        file_id = emojiFileIdEntry.file_id
+        sendImageFile(chat_id, file_id = file_id)
+    else:
+        img_url = getEmojiImageUrl(emoji)
+        file_id = sendImageFile(chat_id, img_url = img_url)
+        emojiTables.addEmojiFileId(emoji, file_id)
+
+def sendImageFile(chat_id, img_url = None, file_id = None):
+    try:
+        if img_url:
+            img = urllib2.urlopen(img_url).read()
+            resp = multipart.post_multipart(
+                BASE_URL + 'sendPhoto',
+                [('chat_id', str(chat_id)), ],
+                [('photo', 'image.jpg', img), ]
+            )
+            respParsed = json.loads(resp)
+            file_id = respParsed['result']['photo'][-1]['file_id']
+            logging.debug('file id: ' + str(file_id))
+            return file_id
+        else: #file_id
+            logging.info('sending image via file_id ' + file_id)
+            resp = urllib2.urlopen(
+                BASE_URL + 'sendPhoto', urllib.urlencode({
+                'chat_id': chat_id,
+                'photo': file_id
+            })).read()
+        logging.info('send response: ')
+        logging.info(resp)
+    except urllib2.HTTPError, err:
+        if err.code == 403:
+            p = Person.query(Person.chat_id == chat_id).get()
+            p.enabled = False
+            p.put()
+            logging.info('Disabled user: ' + p.name.encode('utf-8') + _(' ') + str(chat_id))
+
+
 ##################################
 # START OF STATE FUNCTIONS
 ##################################
@@ -332,6 +372,9 @@ def dealWithMasterCommands(p, input):
         tell(p.chat_id, "FixInlineQuryValues procedure activated")
     elif input == '/getInfoCount':
         tell(p.chat_id, getInfoCount())
+    elif input == '/testEmojiImg':
+        sendEmojiImage(p.chat_id, '⭐')
+        #sendImageFile(p.chat_id, file_id="AgADBAADwqcxG6KeCwt2serQEgVDNMkyQxkABOArQTl-gzb0cb8BAAEC")
     else:
         dealWithInputWordOrEmoji(p, input)
 
@@ -679,10 +722,16 @@ def goToState4(p, input=None, userTaggingEntry=None):
         markdown = '*' not in emoji and '*' not in language_tags_str and '*' not in english_tags_str
         if p.getLanguage()=='English':
             english_tags_markeddown_str = None
-        reply_txt = getTaggingGameInstruction(p.getLanguage(), emoji,
+
+        # SENDING INSTRUCTIONS
+        msg1, msg2 = getTaggingGameInstruction(p.getLanguage(), emoji,
                                               language_tags_markeddown_str, english_tags_markeddown_str)
+        tell(p.chat_id, msg1, markdown=markdown)
+
+        sendEmojiImage(p.chat_id, emoji)
+
         kb= [[BUTTON_OR_TYPE_SKIP_GAME],[BUTTON_EXIT_GAME]]
-        tell(p.chat_id, reply_txt, kb, markdown=markdown)
+        tell(p.chat_id, msg2, kb, markdown=markdown)
     else:
         userTaggingEntry = tagging.getUserTaggingEntry(p)
         if not userTaggingEntry:
@@ -725,19 +774,20 @@ def goToState4(p, input=None, userTaggingEntry=None):
                 goToState4(p, userTaggingEntry=userTaggingEntry)
 
 def getTaggingGameInstruction(language, emoji, language_tags_markeddown_str, english_tags_markeddown_str):
-    msg = "⭐⭐⭐⭐⭐\n"
-    msg += "Thanks for playing with us and helping to tag emoji in {0}.\n\n".format(language)
-    msg += "We have selected the following emoji {0}.\n".format(emoji)
+    msg1 = "⭐⭐⭐⭐⭐\n"
+    msg1 += "Thanks for playing with us and helping to tag emoji in {0}.\n\n".format(language)
+    msg1 += "We have selected the following emoji {0}.\n".format(emoji)
     if language_tags_markeddown_str:
-        msg += "It is currently associated with the following {0} terms: {1}, " \
-               "which you cannot reuse.\n".format(language, language_tags_markeddown_str)
+        msg1 += "It is currently associated with the following {0} terms: {1}, " \
+               "which you cannot reuse. ".format(language, language_tags_markeddown_str)
     else:
-        msg += "Currently, there are no official terms associated with this emoji.\n"
+        msg1 += "Currently, there are no official terms associated with this emoji. "
     if english_tags_markeddown_str:
-        msg += "You can get inspired by the English terms: {0}\n".format(english_tags_markeddown_str)
-    msg += "\nCan you think of new {0} terms that other people would associate to {1}? ".format(language, emoji)
-    msg += "Please type your suggested terms separated by comma [,] e.g., *term1*, *term2*, *term3*."
-    return msg
+        msg1 += "You can get inspired by the English terms: {0}\n".format(english_tags_markeddown_str)
+    msg2 = ""
+    msg2 += "\nCan you think of new {0} terms that other people would associate to {1}? ".format(language, emoji)
+    msg2 += "Please type your suggested terms separated by comma [,] e.g., *term1*, *term2*, *term3*."
+    return msg1, msg2
 
 def getNextEmojiForTagging(emoji_text_dict, userTaggingEntry):
     if not userTaggingEntry.hasSeenEnoughKnownEmoji():
@@ -777,7 +827,7 @@ class SetWebhookHandler(webapp2.RequestHandler):
 
 EMOJI_PNG_URL = 'https://dl.dropboxusercontent.com/u/12016006/Emoji/png_one/'
 
-def getEmojiThumbnailUrl(e):
+def getEmojiImageUrl(e):
     codePoints = '_'.join([str(hex(ord(c)))[2:] for c in e.decode('utf-8')])
     return EMOJI_PNG_URL + codePoints + ".png"
 
@@ -802,7 +852,7 @@ def createInlineQueryResultArticle(p, id, input_norm, query_offset):
                     'title': e,
                     'message_text': e,
                     'hide_url': True,
-                    'thumb_url': getEmojiThumbnailUrl(e),
+                    'thumb_url': getEmojiImageUrl(e),
                 }
             )
             i += 1
