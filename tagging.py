@@ -1,9 +1,15 @@
 # -*- coding: utf-8 -*-
 
+
 from google.appengine.ext import ndb
+from google.appengine.api import urlfetch
+import webapp2
+
+import json
 
 import logging
 import parameters
+import person
 
 from collections import defaultdict
 
@@ -39,7 +45,14 @@ class UserTagging(ndb.Model):
         self.put()
 
     def getLastEmoji(self):
-        return self.last_emoji.encode('utf-8')
+        if self.last_emoji:
+            return self.last_emoji.encode('utf-8')
+        return None
+
+    def removeLastEmoji(self, put=False):
+        self.last_emoji = ''
+        if put:
+            self.put()
 
     def addTagsToLastEmoji(self, tags):
         last_emoji_utf = self.last_emoji.encode('utf-8')
@@ -149,10 +162,14 @@ def getStatsFeedbackForTagging(userTaggingEntry, newTags):
     if tagsCount == 0:
         msg += "🏅 You are the first annotator of this term for this emoji!"
     else:
-        msg += "There were {0} other people who provided terms for this emoji:\n".format(str(annotatorsCount))
+        if annotatorsCount==1:
+            msg += "{0} person has provided new terms for this emoji:\n".format(str(annotatorsCount))
+        else:
+            msg += "{0} people have provided new terms for this emoji:\n".format(str(annotatorsCount))
         intersection = list(set(newTags) & set(tagsCountDict.keys()))
-        if len(intersection)==0:
-            msg += "🤔 So far, no other person has suggested any of the terms you have provided.\n"
+        agreement_size = len(intersection)
+        if agreement_size==0:
+            msg += "🤔 So far, no one agrees with you.\n"
             selected_stats = {
                 tag: count
                 for tag, count in tagsCountDict.iteritems() if count >= parameters.MIN_COUNT_FOR_TAGS_SUGGESTED_BY_OTHER_USERS
@@ -160,8 +177,7 @@ def getStatsFeedbackForTagging(userTaggingEntry, newTags):
             for k, v in sorted(selected_stats.items(), key=lambda x: x[1], reverse=True):
                 msg += "  - {0} suggested: {1}\n".format(str(v), k)
         else:
-            msg += "😊 Some of the terms you have proposed are matching with other people, " \
-                   "and they will become available in the search!\n"
+            msg += "😊 Someone agrees with your terms!\n"
             selected_stats = {
                 tag: count
                 for tag, count in tagsCountDict.iteritems() if tag in intersection
@@ -231,3 +247,38 @@ def getUserEmojisForTag(language_utf, tag_utf):
             for emoji, count in aggregatedTagEmojis.emojiCountTable.iteritems()
             if count >= parameters.MIN_COUNT_FOR_TAGS_SUGGESTED_BY_OTHER_USERS
     }
+
+#####################
+# REQUEST HANDLERS
+#####################
+class TaggingUserTableHandler(webapp2.RequestHandler):
+    def get(self, language):
+        urlfetch.set_default_fetch_deadline(60)
+        qry = UserTagging.query(UserTagging.language == language)
+        full = self.request.get('full') == 'true'
+        result = {}
+        for entry in qry:
+            name = person.getPersonByChatId(entry.chat_id).getName()
+            result[entry.chat_id] = {
+                "name": name,
+                "total taggings": len(entry.emojiTagsTable),
+            }
+            if full:
+                result[entry.chat_id]["translation table"] = entry.emojiTagsTable
+        self.response.headers['Content-Type'] = 'application/json; charset=utf-8'
+        self.response.out.write(json.dumps(result, indent=4, ensure_ascii=False))
+
+class TaggingAggregatedTableHandler(webapp2.RequestHandler):
+    def get(self, language):
+        urlfetch.set_default_fetch_deadline(60)
+        qry = AggregatedEmojiTags.query(AggregatedEmojiTags.language==language)
+        result = {}
+        for entry in qry:
+            result[entry.emoji.encode('utf-8')] = {
+                "annotators count": entry.annotators_count,
+                "tagging table": entry.tagsCountTable
+            }
+        self.response.headers['Content-Type'] = 'application/json; charset=utf-8'
+        self.response.out.write(json.dumps(result, indent=4, ensure_ascii=False))
+
+

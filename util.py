@@ -2,6 +2,11 @@
 
 import string
 import unicodedata
+from google.appengine.ext import ndb
+
+import translation
+import tagging
+
 
 # ================================
 # AUXILIARY FUNCTIONS for strings
@@ -81,6 +86,37 @@ def containsMarkdown(text):
             return True
     return False
 
+# ================================
+# comma and semicolun delimiter
+# see:
+# #http://unicode-search.net/unicode-namesearch.pl?term=COMMA
+# #http://unicode-search.net/unicode-namesearch.pl?term=SEMICOLON
+# ================================
+
+ALL_DELIMITERS_UNI = [
+    u'\u002C', #COMMA
+    u'\u055D', #ARMENIAN COMMA
+    u'\u060C', #ARABIC COMMA
+    u'\u07F8', #NKO COMMA
+    u'\u1363', #ETHIOPIC COMMA
+    u'\u1802', #MONGOLIAN COMMA
+    u'\u1808', #MONGOLIAN MANCHU COM­MA
+    u'\u236A', #APL FUNCTIONAL SYMBOL COMMA BAR
+    u'\uFE50', #SMALL COM­MA
+    u'\uFE51', #SMALL IDEO­GRAPHIC COM­MA
+    u'\uFF0C', #FULLWIDTH COM­MA
+    u'\uFF64', #HALFWIDTH IDEO­GRAPHIC COM­MA
+    u'\u003B', #SEMICOLON
+    u'\u061B', #ARABIC SEMICOLON
+    u'\u1364', #ET­HI­O­PIC SEMICOLON
+    u'\u204F', #RE­VER­SED SEMICOLON
+    u'\u236E', #APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR
+    u'\uFE14', #PRE­SEN­TA­TI­ON FORM FOR VER­TI­CAL SEMICOLON
+    u'\uFE54', #SMALL SEMICOLON
+    u'\uFF1B', #FULLWIDTH SEMICOLON
+]
+
+ALL_DELIMITERS_UTF = [x.encode('utf-8') for x in ALL_DELIMITERS_UNI]
 
 # ================================
 # AUXILIARY FUNCTIONS for array (keyboard)
@@ -126,4 +162,18 @@ def segmentArrayOnMaxChars(array, maxChar=20, ignoreString=None):
         #logging.debug('Line ' + str(len(result) + 1) + " " + str(currentLine) + " tot char: " + str(lineCharCount))
         result.append(currentLine)
     return result
+
+
+
+#####################
+# VERY DANGEREOUS OPERATIONS
+#####################
+
+def deleteData():
+    ndb.delete_multi(tagging.UserTagging.query().fetch(keys_only=True))
+    ndb.delete_multi(tagging.AggregatedEmojiTags.query().fetch(keys_only=True))
+    ndb.delete_multi(tagging.AggregatedTagEmojis.query().fetch(keys_only=True))
+    ndb.delete_multi(translation.UserTranslationTag.query().fetch(keys_only=True))
+    ndb.delete_multi(translation.AggregatedEmojiTranslations.query().fetch(keys_only=True))
+
 

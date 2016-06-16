@@ -13,6 +13,7 @@ from google.appengine.api import urlfetch
 from google.appengine.ext import ndb
 from google.appengine.ext import deferred
 
+import re
 import json
 from random import randint, shuffle
 
@@ -56,6 +57,10 @@ FROWNING_FACE = u'\U0001F641'.encode('utf-8')
 LETTERS = u'\U0001F520'.encode('utf-8')
 SMILY = u'\U0001F60A'.encode('utf-8')
 INFO = u'\U00002139'.encode('utf-8')
+INVISIBLE_CHAR = u"\u2063".encode('utf-8')
+#INVISIBLE_CHAR = b'\xE2\x81\xA3'
+BULLET_BLUE = '🔹'
+BULLET_ORANGE = '🔸'
 
 BUTTON_TEXT_TOFROM_EMOJI = '🔠 ↔ 😊'
 
@@ -68,8 +73,13 @@ BUTTON_INFO = INFO + " Info"
 BUTTON_START = "🌎 START 🌍"
 BUTTON_INVITE_FRIEND = '👪 INVITE A FRIEND'
 
-BUTTON_TRANSLATION_GAME = '🕹 TRANSLATION'
+BUTTON_TAGGING_GAME = 'Play 🐣'
+BUTTON_TRANSLATION_GAME = 'Play 🐥🐥🐥'
+
+"""
+BUTTON_TRANSLATION_GAME = '🕹 '
 BUTTON_TAGGING_GAME = '🕹 TAGGING'
+"""
 
 BUTTON_CHANGE_LANGUAGE = "🌏 CHANGE LANGUAGE 🌍"
 BUTTON_BACK_HOME_SCREEN = "⬅️ Back to 🏠🖥 home screen"
@@ -190,10 +200,11 @@ def tell_masters(msg, markdown=False):
     for id in key.MASTER_CHAT_ID:
         tell(id, msg, markdown=markdown)
 
-def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False, hide_keyboard = False):
-    replyMarkup = {}
-    replyMarkup['resize_keyboard'] = True
-    replyMarkup['hide_keyboard'] = hide_keyboard
+def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False, one_time_keyboard = True):
+    replyMarkup = {
+        'resize_keyboard': True,
+        'one_time_keyboard': one_time_keyboard
+    }
     if kb:
         if inlineKeyboardMarkup:
             replyMarkup['inline_keyboard'] = kb
@@ -245,14 +256,27 @@ def tell_update(chat_id, msg, update_message_id, inline_kb=None, markdown=False)
             # logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
 
 def sendEmojiImage(chat_id, emoji):
+    img_url = emojiUtil.getEmojiImageUrl(emoji)
+    file_id = sendImageFile(chat_id, img_url=img_url)
+    """
     emojiFileIdEntry = emojiTables.getEmojiFileIdEntry(emoji)
     if emojiFileIdEntry:
         file_id = emojiFileIdEntry.file_id
         sendImageFile(chat_id, file_id = file_id)
     else:
-        img_url = getEmojiImageUrl(emoji)
+        img_url = emojiUtil.getEmojiImageUrl(emoji)
         file_id = sendImageFile(chat_id, img_url = img_url)
         emojiTables.addEmojiFileId(emoji, file_id)
+    """
+
+
+
+def sendTextImage(chat_id, text):
+    text = text.replace(' ','+')
+    # see https://developers.google.com/chart/image/docs/gallery/dynamic_icons
+    #img_url = "http://chart.apis.google.com/chart?chst=d_text_outline&chld=000000|40|h|FFFFFF|_|" + text
+    img_url = "http://chart.apis.google.com/chart?chst=d_fnote&chld=sticky_y|2|0088FF|h|" + text
+    sendImageFile(chat_id, img_url=img_url)
 
 def sendImageFile(chat_id, img_url = None, file_id = None):
     try:
@@ -268,7 +292,7 @@ def sendImageFile(chat_id, img_url = None, file_id = None):
             logging.debug('file id: ' + str(file_id))
             return file_id
         else: #file_id
-            logging.info('sending image via file_id ' + file_id)
+            logging.info('sending image via file_id ' + str(file_id))
             resp = urllib2.urlopen(
                 BASE_URL + 'sendPhoto', urllib.urlencode({
                 'chat_id': chat_id,
@@ -303,8 +327,9 @@ def restart(p, msg=None):
 INTRO_INSTRUCTIONS = \
 """
 Your current language is set to *{0}*
-Press on 🕹 for fun quizzes that will help grow the dictionary for your language!
-Please insert a single emoji, e.g., {1} or a term (one or more words), e.g., *{2}*
+Try to insert a term (one or more words), e.g., *{2}* to get all emojis with that tag, \
+or insert a single emoji, e.g., {1} to get its tags.
+Press on 🐣 or 🐥🐥🐥 for fun quizzes that will help grow the dictionary for your language!
 """
 
 def goToState1(p, input=None, setState=True):
@@ -375,6 +400,8 @@ def dealWithMasterCommands(p, input):
     elif input == '/testEmojiImg':
         sendEmojiImage(p.chat_id, '⭐')
         #sendImageFile(p.chat_id, file_id="AgADBAADwqcxG6KeCwt2serQEgVDNMkyQxkABOArQTl-gzb0cb8BAAEC")
+    elif input == '/testTextImg':
+        sendTextImage(p.chat_id, 'text example')
     else:
         dealWithInputWordOrEmoji(p, input)
 
@@ -539,7 +566,7 @@ def dealWithInputWordOrEmoji(p, input):
 
 
 # ================================
-# GO TO STATE 3: trnslation matching game updatede mode single answer
+# GO TO STATE 3: translation matching game updatede mode single answer
 # ================================
 
 BUTTON_NONE = '✖️ NONE of the options'
@@ -547,26 +574,31 @@ BUTTON_EXIT_GAME = LEFT_ARROW + ' EXIT GAME'
 BUTTON_SKIP_GAME = RIGHT_ARROW + " SKIP"
 BUTTON_PLAY_AGAIN = 'PLAY AGAIN'
 
-TRANSLATION_GAME_INSTRUCTIONS = \
+TRANSLATION_GAME_INSTRUCTIONS_1 = \
 """
 ⭐⭐⭐⭐⭐
 Thanks for playing with us and helping to translate English terms associated with emojis into {0}.
+"""
 
+TRANSLATION_GAME_INSTRUCTIONS_2 = \
+"""
 We have selected the following emoji {1} and the associated English term *{2}*.
 
 Please select the {0} term that is the EXACT TRANSLATION of *{2}* or 'NONE of the options' if you \
 think that none of them is correct. If you think there are more equally correct answers, choose one of them.
 
-What is the correct translation of *{2}*?
 """
 
-def goToState3(p, input=None, inlineButtonText=None, userTranslationTagEntry = None, resend=False, newMessage = False):
-    #logging.debug("goToState3 input={0} inlinebuttonText={1} userTranslationTagEntry={2} resend={3}".
-    #              format(input, inlineButtonText, str(userTranslationTagEntry), str(resend)))
-    giveInstruction = input is None and inlineButtonText is None
-    #logging.debug("goToState3 giveInstruction={0}".format(str(giveInstruction)))
+TRANSLATION_GAME_INSTRUCTIONS_3 = \
+"""
+What is the correct translation of *{0}*?
+"""
+
+
+
+def goToState3(p, input=None, userTranslationTagEntry = None, resend=False):
+    giveInstruction = input is None
     if giveInstruction:
-        newMessage = newMessage or userTranslationTagEntry is None
         emoji_text_dict_src = emojiTables.EMOJI_TO_TEXT_DICTIONARIES['English']
         emoji_text_dict_dst = emojiTables.EMOJI_TO_TEXT_DICTIONARIES[p.getLanguage()]
         if not userTranslationTagEntry:
@@ -581,72 +613,77 @@ def goToState3(p, input=None, inlineButtonText=None, userTranslationTagEntry = N
             sleep(2)
             goToState1(p)
             return
-        if resend:
-            emoji = userTranslationTagEntry.last_emoji.encode('utf-8')
-            chosen_src_tag = userTranslationTagEntry.last_src_tag.encode('utf-8')
+        emoji = userTranslationTagEntry.getLastEmoji()
+        if resend or emoji:
+            chosen_src_tag = userTranslationTagEntry.getLastSrcTag()
             dst_tag_set = emoji_text_dict_dst[emoji]
         else:
             emoji, chosen_src_tag, dst_tag_set, random = getNextEmojiForTranslation(
                 emoji_text_dict_src, emoji_text_dict_dst, userTranslationTagEntry)
-            #logging.debug("Emoji: {0} src_tag: {1} dst_tag: {2} random: {3}".
-            #            format(emoji, chosen_src_tag, str(dst_tag_set), str(random)))
             userTranslationTagEntry.setLastEmojiAndSrcTag(emoji, chosen_src_tag, random)
         shuffle(dst_tag_set)
         userTranslationTagEntry.dst_tag_set = dst_tag_set # set destination tag set
         markdown = '*' not in emoji and '*' not in chosen_src_tag
-        reply_txt = TRANSLATION_GAME_INSTRUCTIONS.format(p.getLanguage(), emoji, chosen_src_tag)
+
+        msg1 = TRANSLATION_GAME_INSTRUCTIONS_1.format(p.getLanguage())
+        tell(p.chat_id, msg1, markdown=markdown)
+
+        sendEmojiImage(p.chat_id, emoji)
+
+        msg2 = TRANSLATION_GAME_INSTRUCTIONS_2.format(p.getLanguage(), emoji, chosen_src_tag)
+        tell(p.chat_id, msg2, markdown=markdown)
+
+        sendTextImage(p.chat_id, chosen_src_tag)
+
+        msg3 = TRANSLATION_GAME_INSTRUCTIONS_3.format(chosen_src_tag)
+
         options = [BULLET_POINT + ' ' + str(n) + ': ' + x for n, x in enumerate(dst_tag_set, 1)]
-        #logging.debug('options: ' + str(options))
-        reply_txt += '\n'.join(options)
-        kb = util.distributeElementMaxSize([str(x) for x in range(1,len(dst_tag_set)+1)])
-        kb.insert(0, [BUTTON_NONE])
-        kb.append([BUTTON_SKIP_GAME])
-        kb_inline = convertKeyboardToInlineKeyboard(kb)
-        if newMessage:
-            tell(p.chat_id, "Preparing the game...", kb=[[BUTTON_EXIT_GAME]])
-        if newMessage or resend:
-            last_message_id = tell(p.chat_id, reply_txt, kb_inline, inlineKeyboardMarkup=True, markdown=markdown)
-            userTranslationTagEntry.last_message_id = last_message_id # set last message id
-        else:
-            last_message_id = userTranslationTagEntry.last_message_id
-            tell_update(p.chat_id, reply_txt, last_message_id, kb_inline, markdown=markdown)
+        msg3 += '\n'.join(options)
+        number_buttons = [str(x) for x in range(1,len(dst_tag_set)+1)]
+        kb = util.distributeElementMaxSize(number_buttons)
+        kb.insert(0, [BUTTON_NONE, BUTTON_SKIP_GAME])
+        kb.append([BUTTON_EXIT_GAME])
+        tell(p.chat_id, msg3, kb, markdown=markdown)
+
         userTranslationTagEntry.put()
     else:
         userTranslationTagEntry = translation.getUserTranslationEntry(p)
         if not userTranslationTagEntry:
             tell(p.chat_id, "Sorry, something went wrong, if the problem persists contact @kercos")
             return
-        elif inlineButtonText:
-            logging.debug('Receiving inlineButtonText')
-            if inlineButtonText == BUTTON_SKIP_GAME:
-                userTranslationTagEntry.addTranslationToLastEmojiSrcTag(None)
-                translation.addInAggregatedEmojiTranslations(userTranslationTagEntry)
-                goToState3(p, userTranslationTagEntry=userTranslationTagEntry)
-            else:
-                if inlineButtonText == BUTTON_NONE:
-                    inlineButtonText = str(0)
-                number = int(inlineButtonText)
-                if number>0:
-                    translation_tag = userTranslationTagEntry.dst_tag_set[number - 1] #.encode('utf-8')
-                else:
-                    translation_tag = ''
+        if input == BUTTON_EXIT_GAME:
+            tell(p.chat_id, "Thanks for your help!")
+            userTranslationTagEntry.removeLastEmoji(True)
+            sleep(2)
+            goToState1(p)
+        elif input == BUTTON_SKIP_GAME:
+            userTranslationTagEntry.addTranslationToLastEmojiSrcTag(None)
+            translation.addInAggregatedEmojiTranslations(userTranslationTagEntry)
+            userTranslationTagEntry.removeLastEmoji(True)
+            goToState3(p, userTranslationTagEntry=userTranslationTagEntry)
+        else:
+            translation_tag = None
+            if input == BUTTON_NONE:
+                translation_tag = ''
+            elif util.representsIntBetween(input, 0, len(userTranslationTagEntry.dst_tag_set)):
+                number = int(input)
+                translation_tag = userTranslationTagEntry.dst_tag_set[number - 1]  # .encode('utf-8')
+            if translation_tag != None:
                 msg = "Thanks for your input! 🙏\n" + \
                       translation.getStatsFeedbackForTranslation(userTranslationTagEntry, translation_tag)
-                userTranslationTagEntry.addTranslationToLastEmojiSrcTag(translation_tag)
-                translation.addInAggregatedEmojiTranslations(userTranslationTagEntry)
-                tell_update(p.chat_id, msg, userTranslationTagEntry.last_message_id)
-                sleep(3)
-                goToState3(p, userTranslationTagEntry=userTranslationTagEntry, newMessage= True)
-        elif input == BUTTON_EXIT_GAME:
-            tell_update(p.chat_id, "Thanks for your help!", userTranslationTagEntry.last_message_id)
-            sleep(2)
-            goToState1(p)
-        else:
-            tell_update(p.chat_id, "Game interrupted", userTranslationTagEntry.last_message_id)
-            tell(p.chat_id, "Not a valid input, please use only the buttons.")
-            sleep(2)
-            goToState1(p)
-            #goToState3(p, userTranslationTagEntry=userTranslationTagEntry, resend=True)
+                if userTranslationTagEntry.addTranslationToLastEmojiSrcTag(translation_tag):
+                    translation.addInAggregatedEmojiTranslations(userTranslationTagEntry)
+                    userTranslationTagEntry.removeLastEmoji(True)
+                    tell(p.chat_id, msg)
+                    sleep(3)
+                    goToState3(p, userTranslationTagEntry=userTranslationTagEntry)
+                else:
+                    tell(p.chat_id, "You have already answered!")
+            else:
+                tell(p.chat_id, "Not a valid input, try again.")
+                #sleep(2)
+                #goToState1(p)
+                #goToState3(p, userTranslationTagEntry=userTranslationTagEntry, resend=True)
 
 
 def getNextEmojiForTranslation(emoji_text_dict_src, emoji_text_dict_dst, userTranslationTagEntry, forceRandom=False):
@@ -707,8 +744,10 @@ def goToState4(p, input=None, userTaggingEntry=None):
             sleep(1)
             goToState1(p)
             return
-        emoji, random = getNextEmojiForTagging(emoji_text_dict, userTaggingEntry)
-        userTaggingEntry.setLastEmoji(emoji, random)
+        emoji = userTaggingEntry.getLastEmoji()
+        if not emoji:
+            emoji, random = getNextEmojiForTagging(emoji_text_dict, userTaggingEntry)
+            userTaggingEntry.setLastEmoji(emoji, random)
         language_tags = emoji_text_dict[emoji]
         english_tags = emojiTables.ENGLISH_EMOJI_TO_TEXT_DICTIONARY[emoji]
         language_tags_str = ', '.join(language_tags)
@@ -740,38 +779,56 @@ def goToState4(p, input=None, userTaggingEntry=None):
         if input==BUTTON_OR_TYPE_SKIP_GAME or input.lower()=="/skip":
             userTaggingEntry.addTagsToLastEmoji([])
             tagging.addInAggregatedEmojiTags(userTaggingEntry)
+            userTaggingEntry.removeLastEmoji(True)
             tell(p.chat_id, "🤔 Sending you a new emoji ...")
             sleep(1)
             goToState4(p, userTaggingEntry=userTaggingEntry)
         elif input == BUTTON_EXIT_GAME:
+            userTaggingEntry.removeLastEmoji()
             tell(p.chat_id, "Thanks for your help 🙏, hope you had a good time! 🎉")
             sleep(1)
             goToState1(p)
         else:
-            proposedTags = [i.strip() for i in input.split(',')]
+            proposedTags = [i.strip() for i in re.split('[, ﹐ ，]',input)]
+            #proposedTags = [x.replace('[_]',' ') for x in re.split(' ', input)]  # re.split('[,/ ]',input)]
             currentTags = emoji_text_dict[userTaggingEntry.getLastEmoji()]
             newTags = list(set(proposedTags) - set(currentTags))
             if '' in newTags:
                 newTags.remove('')
             if newTags:
                 newTagsStr = ', '.join(newTags)
-                newTagsStrMarkdown = ', '.join(["*{0}*".format(t) for t in newTags])
+                newTagsStrMarkdown = '\n'.join([BULLET_BLUE + " *{0}*".format(t) for t in newTags])
                 markdown = '*' not in newTagsStr
-                msg = "You proposed the following new terms: {0}\n".format(newTagsStrMarkdown)
+                msg = "You proposed the following new terms:\n{0}\n".format(newTagsStrMarkdown)
                 msg += "Thanks for your input! 🙏\n" + \
                       tagging.getStatsFeedbackForTagging(userTaggingEntry, newTags)
                 tell(p.chat_id, msg, markdown=markdown)
                 userTaggingEntry.addTagsToLastEmoji(newTags)
                 tagging.addInAggregatedEmojiTags(userTaggingEntry)
                 tagging.addInAggregatedTagEmojis(userTaggingEntry)
+                userTaggingEntry.removeLastEmoji(True)
                 sleep(1)
                 goToState4(p, userTaggingEntry=userTaggingEntry)
             else:
                 userTaggingEntry.addTagsToLastEmoji([])
                 tagging.addInAggregatedEmojiTags(userTaggingEntry)
                 tell(p.chat_id, "😒 You input doesn't contain any new term.")
+                userTaggingEntry.removeLastEmoji(True)
                 sleep(1)
                 goToState4(p, userTaggingEntry=userTaggingEntry)
+
+
+MORE_INFO_INSTRUCTIONS = \
+"""
+*IMPORTANT INSTRUCTIONS*: please type you terms separated by a COMMA (,)
+E.g., if the emoji is ❌, for English you could insert:
+*x*, *multiplication*, *multiply*, *cross mark*
+and you would receive the following confirmation:
+🔹 x
+🔹 multiplication
+🔹 multiply
+🔹 cross mark
+"""
 
 def getTaggingGameInstruction(language, emoji, language_tags_markeddown_str, english_tags_markeddown_str):
     msg1 = "⭐⭐⭐⭐⭐\n"
@@ -785,8 +842,10 @@ def getTaggingGameInstruction(language, emoji, language_tags_markeddown_str, eng
     if english_tags_markeddown_str:
         msg1 += "You can get inspired by the English terms: {0}\n".format(english_tags_markeddown_str)
     msg2 = ""
-    msg2 += "\nCan you think of new {0} terms that other people would associate to {1}? ".format(language, emoji)
-    msg2 += "Please type your suggested terms separated by comma [,] e.g., *term1*, *term2*, *term3*."
+    msg2 += "\nCan you think of new {0} terms that other people would associate with {1}?\n".format(language, emoji)
+    msg2 += MORE_INFO_INSTRUCTIONS
+    #"slashes (/) e.g., *term1* / *term2* / *term3*."
+    # commas (,) e.g., *term1*, *term2*, *term3*
     return msg1, msg2
 
 def getNextEmojiForTagging(emoji_text_dict, userTaggingEntry):
@@ -825,11 +884,6 @@ class SetWebhookHandler(webapp2.RequestHandler):
 # INLINE QUERY
 # ================================
 
-EMOJI_PNG_URL = 'https://dl.dropboxusercontent.com/u/12016006/Emoji/png_one/'
-
-def getEmojiImageUrl(e):
-    codePoints = '_'.join([str(hex(ord(c)))[2:] for c in e.decode('utf-8')])
-    return EMOJI_PNG_URL + codePoints + ".png"
 
 def createInlineQueryResultArticle(p, id, input_norm, query_offset):
     language = p.getLanguage() if p.language else 'English'
@@ -852,7 +906,7 @@ def createInlineQueryResultArticle(p, id, input_norm, query_offset):
                     'title': e,
                     'message_text': e,
                     'hide_url': True,
-                    'thumb_url': getEmojiImageUrl(e),
+                    'thumb_url': emojiUtil.getEmojiImageUrl(e),
                 }
             )
             i += 1
@@ -877,6 +931,7 @@ def answerInlineQuery(query_id, inlineQueryResults, next_offset):
         'cache_time': 0, #default 300
         'next_offset': next_offset
     }
+    logging.debug('send inline query data: ' + str(my_data))
     resp = urllib2.urlopen(BASE_URL + 'answerInlineQuery',
                            urllib.urlencode(my_data)).read()
     logging.info('send response: ')
@@ -907,7 +962,7 @@ def dealWithCallbackQuery(body):
     data = callback_query['data'].encode('utf-8')
     chat_id = callback_query['from']['id']
     p = person.getPersonByChatId(chat_id)
-    goToState3(p, inlineButtonText=data)
+    #goToState3(p, inlineButtonText=data)
 
 # ================================
 # ================================
@@ -924,8 +979,8 @@ class WebhookHandler(webapp2.RequestHandler):
         # update_id = body['update_id']
         if 'inline_query' in body:
             dealWithInlineQuery(body)
-        if 'callback_query' in body:
-            dealWithCallbackQuery(body)
+        #if 'callback_query' in body:
+        #    dealWithCallbackQuery(body)
         if 'message' not in body:
             return
         message = body['message']
@@ -1007,5 +1062,9 @@ app = webapp2.WSGIApplication([
     #    ('/_ah/channel/connected/', DashboardConnectedHandler),
     #    ('/_ah/channel/disconnected/', DashboardDisconnectedHandler),
     ('/set_webhook', SetWebhookHandler),
+    ('/translationUserTable/([^/]+)?', translation.TranslationUserTableHandler),
+    ('/translationAggregatedTable/([^/]+)?', translation.TranslationAggregatedTableHandler),
+    ('/taggingUserTable/([^/]+)?', tagging.TaggingUserTableHandler),
+    ('/taggingAggregatedTable/([^/]+)?', tagging.TaggingAggregatedTableHandler),
     ('/webhook', WebhookHandler),
 ], debug=True)

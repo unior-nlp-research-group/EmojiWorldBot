@@ -77,8 +77,16 @@ for lang, dict in EMOJI_TO_TEXT_DICTIONARIES.iteritems():
 
 
 KAMUSI_SERVER = "http://lsir-kamusi.epfl.ch:3000"
+
 KAMUSI_SERVER_LANGUAGES = KAMUSI_SERVER + "/emojibot/languages"
+#[ {"name":"Amharic","lang_code":"amh"}, {"name":"Arabic","lang_code":"ara"}, ... ]
+
 KAMUSI_SERVER_LANG_DICT = KAMUSI_SERVER + "/emojibot/getall/" # + *language_code*
+#{"emoji1":["tag1","tag2", ...], "emoji2":["tag1", ... ], ... }
+
+KAMUSI_SERVER_EMOJI_TAG_WORDNETDEF = KAMUSI_SERVER + "emojibot/getdef"
+#[ ['tag1','def1',[<emoji_set1>]], ['tag2','def2',[<emoji_set2>]], ... ]
+
 
 """
 kamusi_languages_json = json.loads(urllib2.urlopen(KAMUSI_SERVER_LANGUAGES).read())
