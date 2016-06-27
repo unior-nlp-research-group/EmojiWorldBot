@@ -1,16 +1,42 @@
 indexes:
 
+- kind: LanguageEmojiTag
+  properties:
+  - name: has_tags
+  - name: lang_code
+  - name: random_id
+
+- kind: LanguageEmojiTag
+  properties:
+  - name: lang_code
+  - name: default_tags
+  - name: emoji
+
+- kind: LanguageEmojiTag
+  properties:
+  - name: lang_code
+  - name: users_tags
+  - name: emoji
+
 - kind: AggregatedEmojiTags
   properties:
-    - name: language
+    - name: lang_code
     - name: annotators_count
     - name: emoji
 
-- kind: AggregatedEmojiTranslations
+- kind: LanguageEmojiTag
   properties:
-  - name: dst_language
-  - name: src_language
-  - name: annotators_count
+  - name: has_users_tags
+  - name: lang_code
+
+
+
+
+#- kind: AggregatedEmojiTranslations
+#  properties:
+#  - name: dst_language
+#  - name: src_language
+#  - name: annotators_count
 
 # This index.yaml is automatically updated whenever the dev_appserver
 # detects that a new type of query is run.  If you want to manage the

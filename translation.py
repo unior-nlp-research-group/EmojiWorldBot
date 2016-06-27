@@ -89,7 +89,7 @@ class UserTranslationTag(ndb.Model):
         return self.emojiSrcTagTranslationTable[last_emoji_utf]  # (lastSrctag, translation)
 
 def getUserTranslationsId(person):
-    return person.getLanguage() + ' ' + str(person.chat_id)
+    return person.getLanguageCode() + ' ' + str(person.chat_id)
 
 def getUserTranslationEntry(person):
     unique_id = getUserTranslationsId(person)
@@ -194,7 +194,7 @@ def getUserTagsForEmoji(emoji_utf, dst_language_utf, src_language_utf="English")
         return None
     return {tag: count
             for tag, count in aggregatedEmojiTranslations.translationsCountTable.iteritems()
-            if count >= parameters.MIN_COUNT_FOR_TAGS_SUGGESTED_BY_OTHER_USERS
+            if count >= parameters.MIN_COUNT_FOR_USER_TAG_TO_BE_PUBLIC
     }
 
 # returns annotatorsCount, stats
@@ -242,7 +242,7 @@ def getStatsFeedbackForTranslation(userTranslationsEntry, proposedTranslation):
         other_stats = {
             translation: count
             for translation, count in termTranslationsDict.iteritems()
-            if translation!=proposedTranslation and count >= parameters.MIN_COUNT_FOR_TAGS_SUGGESTED_BY_OTHER_USERS
+            if translation!=proposedTranslation and count >= parameters.MIN_COUNT_FOR_USER_TAG_TO_BE_PUBLIC
         }
         if other_stats:
             msg += "Other answers:\n"
@@ -261,7 +261,7 @@ class TranslationUserTableHandler(webapp2.RequestHandler):
         full = self.request.get('full') == 'true'
         result = {}
         for entry in qry:
-            name = person.getPersonByChatId(entry.chat_id).getName()
+            name = person.getPersonByChatId(entry.chat_id).getLanguageName()
             result[entry.chat_id] = {
                 "name": name,
                 "total translations": len(entry.emojiSrcTagTranslationTable),

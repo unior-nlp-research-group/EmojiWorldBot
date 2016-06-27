@@ -4,10 +4,6 @@ import string
 import unicodedata
 from google.appengine.ext import ndb
 
-import translation
-import tagging
-
-
 # ================================
 # AUXILIARY FUNCTIONS for strings
 # ================================
@@ -28,6 +24,12 @@ def only_roman_chars(unistr):
     return all(is_latin(uchr)
            for uchr in unistr
            if uchr.isalpha()) # isalpha suggested by John Machin
+
+def contains_roman_chars(unistr):
+    return any(is_latin(uchr)
+           for uchr in unistr
+           if uchr.isalpha()) # isalpha suggested by John Machin
+
 
 manualNormChar = {
     u'ß': u'ss',
@@ -57,6 +59,7 @@ def remove_accents_roman_chars(text):
     msg = ''.join(x for x in unicodedata.normalize('NFKD', text_uni) if (x in [' ','_'] or x in string.ascii_letters))
     return msg.encode('utf-8')
 
+# remove accents and make lower
 def normalizeString(text):
     return remove_accents_roman_chars(text.lower()).lower()
 
@@ -85,6 +88,16 @@ def containsMarkdown(text):
         if char in text:
             return True
     return False
+
+def markdownSafe(text):
+    return not containsMarkdown(text)
+
+def markdownSafeList(list):
+    return all(markdownSafe(x) for x in list)
+
+def containsMarkdownList(list):
+    return any(containsMarkdown(x) for x in list)
+
 
 # ================================
 # comma and semicolun delimiter
@@ -169,11 +182,53 @@ def segmentArrayOnMaxChars(array, maxChar=20, ignoreString=None):
 # VERY DANGEREOUS OPERATIONS
 #####################
 
-def deleteData():
+def deleteData(language=None):
+    deleteTagging(language)
+    #deleteTranslation(language)
+
+def deleteTagging(language=None):
+    import tagging
     ndb.delete_multi(tagging.UserTagging.query().fetch(keys_only=True))
     ndb.delete_multi(tagging.AggregatedEmojiTags.query().fetch(keys_only=True))
-    ndb.delete_multi(tagging.AggregatedTagEmojis.query().fetch(keys_only=True))
-    ndb.delete_multi(translation.UserTranslationTag.query().fetch(keys_only=True))
-    ndb.delete_multi(translation.AggregatedEmojiTranslations.query().fetch(keys_only=True))
+
+
+def deleteProperty(model, prop_name):
+    toUpdate = model.query().fetch()
+    for ent in toUpdate:
+        if prop_name in ent._properties:
+            del ent._properties[prop_name]
+    ndb.put_multi(toUpdate)
+
+
+"""
+def deleteTagging(language=None):
+    import tagging
+    if language:
+        ndb.delete_multi(
+            tagging.UserTagging.query(tagging.UserTagging.language==language).fetch(keys_only=True))
+        ndb.delete_multi(
+            tagging.AggregatedEmojiTags.query(tagging.AggregatedEmojiTags.language==language).fetch(keys_only=True))
+        ndb.delete_multi(
+            tagging.AggregatedTagEmojis.query(tagging.AggregatedTagEmojis.language==language).fetch(keys_only=True))
+    else:
+        ndb.delete_multi(tagging.UserTagging.query().fetch(keys_only=True))
+        ndb.delete_multi(tagging.AggregatedEmojiTags.query().fetch(keys_only=True))
+        ndb.delete_multi(tagging.AggregatedTagEmojis.query().fetch(keys_only=True))
+"""
+
+"""
+def deleteTranslation(language=None):
+    import translation
+    if language:
+        ndb.delete_multi(
+            translation.UserTranslationTag.query(
+                translation.UserTranslationTag.dst_language==language).fetch(keys_only=True))
+        ndb.delete_multi(
+            translation.AggregatedEmojiTranslations.query(
+                translation.AggregatedEmojiTranslations.dst_language==language).fetch(keys_only=True))
+    else:
+        ndb.delete_multi(translation.UserTranslationTag.query().fetch(keys_only=True))
+        ndb.delete_multi(translation.AggregatedEmojiTranslations.query().fetch(keys_only=True))
+"""
 
 

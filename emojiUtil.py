@@ -1,19 +1,20 @@
 # -*- coding: utf-8 -*-
 
-
+"""
 import sys
 sys.path.append('/usr/local/google_appengine/')
 sys.path.append('/usr/local/google_appengine/lib/yaml/lib/')
 if 'google' in sys.modules:
     del sys.modules['google']
-
+import os.path
+"""
 
 import logging
 from emoji_unicode import Emoji
 from emoji_unicode.utils import code_point_to_unicode, unicode_to_code_point
 from emojiTables import ALL_EMOJIS
 import urllib2
-import os.path
+
 
 def getNormalizedEmoji(text):
     textuni = text.decode('utf-8')
@@ -40,6 +41,11 @@ def getEmojiImageUrl(e):
     emojiUrl = EMOJI_PNG_URL + codePoints + ".png"
     logging.debug('Requesting emoj url: ' + emojiUrl)
     return emojiUrl
+
+def getEmojiImageFilePath(e):
+    codePoints = getCodePoint(e)
+    return 'png_one_64/{0}.png'.format(codePoints)
+
 
 """
 emojiFileIdEntry = emojiTables.getEmojiFileIdEntry(emoji)
