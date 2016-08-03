@@ -22,12 +22,15 @@ class Person(ndb.Model):
     def getLastName(self):
         return self.last_name.encode('utf-8')
 
+    def getUsername(self):
+        return self.username.encode('utf-8')
+
     def getUserInfoString(self):
         info = self.getFirstName()
         if self.last_name:
             info += ' ' + self.getLastName()
         if self.username:
-            info += ' @' + self.username
+            info += ' @' + self.getUsername()
         info += ' ({0})'.format(str(self.chat_id))
         return info
 
@@ -90,9 +93,9 @@ def exportAllToJson(file):
     for e in Person.query().fetch():
         structure.append({
             "chat_id": e.chat_id,
-            "name": e.name.encode('utf-8'),
-            "last_name": e.last_name.encode('utf-8') if e.last_name else None,
-            "username": e.username.encode('utf-8') if e.username else None
+            "name": e.getFirstName(),
+            "last_name": e.getLastName() if e.last_name else None,
+            "username": e.getUsername() if e.username else None
         })
     with open(file, 'w') as f:
         json.dump(structure, f, indent=4, ensure_ascii=False)

@@ -195,7 +195,8 @@ class LanguageUserTagsStatsHandler(webapp2.RequestHandler):
     def get(self):
         urlfetch.set_default_fetch_deadline(60)
         full = self.request.get('full') == 'true'
-        languages = tagging.getLanguagesWithProposedTags()
+        lang = self.request.get('lang')
+        languages = tagging.getLanguagesWithProposedTags() if lang=='' else [lang]
         result = {}
         for lang_code in languages:
             qry = LanguageEmojiTag.query(

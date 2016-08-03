@@ -234,15 +234,16 @@ def getStatsFeedbackForTagging(userTaggingEntry, proposedTag):
         sortedTagsInDict = sorted(tagsCountDict.keys(), key=tagsCountDict.get, reverse=True)
         if agreement:
             agreementCount = tagsCountDict[proposedTag]
-            if agreementCount == 1:
-                msg += "🎉 1 person agrees with your term! 😊 \n"
-            else:
-                msg += "🎉 {0} people agree with your term! 😊 \n".format(str(agreementCount))
-
             # CHECK IF TO GO PUBLIC
-            if agreementCount+1 == parameters.MIN_COUNT_FOR_USER_TAG_TO_BE_PUBLIC:
+            if agreementCount + 1 == parameters.MIN_COUNT_FOR_USER_TAG_TO_BE_PUBLIC:
                 msg += "\n🎉🎉🎉 This tag has reached the required number of votes and will be added in the dictionary!\n"
                 emojiTables.addUserDefinedTag(userTaggingEntry.getLanguageCode(), userTaggingEntry.getLastEmoji(), proposedTag)
+            else:
+                if agreementCount == 1:
+                    msg += "🎉 1 person agrees with your term! 😊 \n"
+                else:
+                    msg += "🎉 {0} people agree with your term! 😊 \n".format(str(agreementCount))
+
             sortedTagsInDict.remove(proposedTag)
         else:
             msg += "🤔 So far, no one agrees with you.\n"

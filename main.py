@@ -12,6 +12,7 @@ import re
 from google.appengine.api import urlfetch
 from google.appengine.ext import ndb
 from google.appengine.ext import deferred
+from google.appengine.ext.db import datastore_errors
 
 import re
 import json
@@ -34,6 +35,7 @@ import tagging
 import parameters
 
 import webapp2
+import sys
 
 # ================================
 WORK_IN_PROGRESS = False
@@ -99,7 +101,7 @@ BULLET_POINT = '🔸'
 
 INFO = \
 """
-@EmojiWorldBot version 0.95
+@EmojiWorldBot version 1.0
 
 @EmojiWorldBot is a *multilingual emoji dictionary* that uses
 emojis as a pivot for contributors among dozens of diverse languages.
@@ -179,22 +181,51 @@ I think you’ll love 😎 it too.
 Just click on @EmojiWorldBot to start!
 """
 
+BROADCAST_COUNT_REPORT = \
+"""
+Mesage sent to {} people
+Enabled: {}
+Disabled: {}
+"""
 
 # ================================
 # AUXILIARY FUNCTIONS
 # ================================
 
-def broadcast(msg, restart_user=False):
-    qry = Person.query()
-    count = 0
-    for p in qry:
-        if (p.enabled):
-            count += 1
-            if restart_user:
-                restart(p)
-            tell(p.chat_id, msg, sleepDelay=True)
-    logging.debug('broadcasted to people ' + str(count))
+# def broadcast(msg, restart_user=False):
+#     #return
+#     qry = Person.query()
+#     count = 0
+#     for p in qry:
+#         if (p.enabled):
+#             count += 1
+#             if restart_user:
+#                 restart(p)
+#             tell(p.chat_id, msg, sleepDelay=True)
+#     logging.debug('broadcasted to people ' + str(count))
 
+def broadcast(sender, msg, restart_user=False, curs=None, enabledCount = 0):
+    #return
+    users, next_curs, more = Person.query().fetch_page(50, start_cursor=curs)
+    try:
+        for p in users:
+            if (p.enabled):
+                enabledCount += 1
+                if restart_user:
+                    restart(p)
+                tell(p.chat_id, msg, sleepDelay=True)
+    except datastore_errors.Timeout:
+        sleep(1)
+        deferred.defer(broadcast, sender, msg, restart_user, curs, enabledCount)
+        return
+    if more:
+        deferred.defer(broadcast, sender, msg, restart_user, next_curs, enabledCount)
+    else:
+        #logging.debug('broadcasted to people ' + str(count))
+        total = Person.query().count()
+        disabled = total - enabledCount
+        msg_debug = BROADCAST_COUNT_REPORT.format(str(total), str(enabledCount), str(disabled))
+        tell(sender.chat_id, msg_debug)
 
 def getInfoCount():
     c = Person.query().count()
@@ -263,6 +294,13 @@ def tell_update(chat_id, msg, update_message_id, inline_kb=None, markdown=False)
             p = person.getPersonByChatId(chat_id)
             p.setEnabled(False)
             # logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
+
+def tell_person(chat_id, msg, markdown=False):
+    tell(chat_id, msg, markdown=markdown)
+    p = person.getPersonByChatId(chat_id)
+    if p and p.enabled:
+        return True
+    return False
 
 def sendEmojiImage(chat_id, emoji, sleepDelay=False, viaUrl = True):
     if viaUrl:
@@ -440,11 +478,13 @@ def dealWithMasterCommands(p, input):
     if input.startswith('/broadcast ') and len(input) > commandBodyStartIndex:
         msg = input[commandBodyStartIndex:]
         logging.debug("Starting to broadcast " + msg)
-        deferred.defer(broadcast, msg, restart_user=False)
+        deferred.defer(broadcast, p, msg, restart_user=False)
     elif input.startswith('/restartBroadcast ') and len(input) > commandBodyStartIndex:
         msg = input[commandBodyStartIndex:]
         logging.debug("Starting to broadcast " + msg)
-        deferred.defer(broadcast, msg, restart_user=True)
+        deferred.defer(broadcast, p, msg, restart_user=True)
+    elif input=='/generateException':
+        tell(p.chat_id, "è".encode('utf-8'))
     #elif input.startswith('/addLanguageNameVariation ') and len(input) > commandBodyStartIndex:
     #    if len(splitCommandOnSpace)==3:
     #        success, msg = languages.addLanguageVariation(splitCommandOnSpace[1], splitCommandOnSpace[2])
@@ -459,9 +499,6 @@ def dealWithMasterCommands(p, input):
     #        tell(p.chat_id, "Wrong command format. Please type /addLanguageNameVariation  [lang_code] [new variation]")
     elif input.startswith('/testNormalize') and len(input) > commandBodyStartIndex:
         tell(p.chat_id, 'Normalized: ' + utility.normalizeString(input[commandBodyStartIndex:]))
-    elif input == '/fixInlineQueryValues':
-        deferred.defer(search.fixInlineQueryValues)
-        tell(p.chat_id, "FixInlineQuryValues procedure activated")
     elif input == '/getInfoCount':
         tell(p.chat_id, getInfoCount())
     elif input == '/testEmojiImg':
@@ -469,15 +506,35 @@ def dealWithMasterCommands(p, input):
         #sendImageFile(p.chat_id, file_id="AgADBAADwqcxG6KeCwt2serQEgVDNMkyQxkABOArQTl-gzb0cb8BAAEC")
     elif input == '/testTextImg':
         sendTextImage(p.chat_id, 'text example')
+    elif input.startswith('/sendText'):
+        dealWithsendTextCommand(p, input, markdown=False)
     else:
         dealWithInputTagOrEmoji(p, input)
 
+def dealWithsendTextCommand(p, sendTextCommand, markdown=False):
+    split = sendTextCommand.split()
+    if len(split)<3:
+        tell(p.chat_id, 'Commands should have at least 2 spaces')
+        return
+    if not split[1].isdigit():
+        tell(p.chat_id, 'Second argumnet should be a valid chat_id')
+        return
+    id = int(split[1])
+    sendTextCommand = ' '.join(split[2:])
+    if tell_person(id, sendTextCommand, markdown=markdown):
+        user = person.getPersonByChatId(id)
+        tell(p.chat_id, 'Successfully sent text to ' + user.getFirstName())
+    else:
+        tell(p.chat_id, 'Problems in sending text')
 
 ####
 # DEAL WITH INPUT TAG OR EMOJI
 ####
 
 def dealWithInputTagOrEmoji(p, input):
+    if len(input)>200:
+        tell(p.chat_id, "Sorry, your input is too long.")
+        return
     lang_code = p.getLanguageCode()
     input_norm = input
     if input_norm not in emojiTables.ALL_EMOJIS:
@@ -493,20 +550,20 @@ def dealWithInputTagOrEmoji(p, input):
             search.addSearch(p.chat_id, lang_code, input_norm, is_searched_emoji=True, inline_query=False,
                              found_translation=True)
         else:
-            tell(p.chat_id, "🤔  *No tags found* for the given emoji.")
+            tell(p.chat_id, "🤔  *No tags found* for the given emoji.", markdown=True)
             # logging.info(str(p.chat_id) + " searching emoji" + input_norm + " and getting #no_tags#")
             search.addSearch(p.chat_id, lang_code, input_norm, is_searched_emoji=True, inline_query=False,
                              found_translation=False)
     else:
         # input is a tag
-        input_norm = utility.normalizeString(input)
-        emojiList = emojiTables.getEmojiList(lang_code, input_norm)
+        #input_norm = utility.normalizeString(input)
+        emojiList = emojiTables.getEmojiList(lang_code, input)
         if len(emojiList)>0:
             emojis = " ".join(emojiList)
             tell(p.chat_id, "Found the following emojis for *{0}*:\n{1}".format(
                 input, emojis), markdown=utility.markdownSafeList([input, emojis]))
             # logging.info(str(p.chat_id) + " searching tag '" + input + "' and getting emojis " + emojis)
-            search.addSearch(p.chat_id, lang_code, input_norm, is_searched_emoji=False, inline_query=False,
+            search.addSearch(p.chat_id, lang_code, input, is_searched_emoji=False, inline_query=False,
                              found_translation=True)
         else:
             msg = "🤔  *No emojis found for the given tag*, try again " \
@@ -514,7 +571,7 @@ def dealWithInputTagOrEmoji(p, input):
                   "if you have entered an emoji it is a flag or a non-standard one)."
             tell(p.chat_id, msg, markdown=True)
             # logging.info(str(p.chat_id) + " searching tag '" + input + "' and getting #no_emojis#")
-            search.addSearch(p.chat_id, lang_code, input_norm, is_searched_emoji=False, inline_query=False,
+            search.addSearch(p.chat_id, lang_code, input, is_searched_emoji=False, inline_query=False,
                              found_translation=False)
 
 
@@ -837,29 +894,32 @@ def goToState4(p, input=None, userTaggingEntry=None):
             tell(p.chat_id, "😒  The input is not valid, try again.")
         else:
             proposedTag = input.strip()
-            emoji = userTaggingEntry.getLastEmoji()
-            currentTags = emojiTables.getTagList(p.getLanguageCode(), emoji)
-            currentTagsLower = [x.lower() for x in currentTags]
-            oldTag = proposedTag.lower() in currentTagsLower
-            useMarkdown = not utility.containsMarkdown(proposedTag)
-            msg = "You proposed *{0}* as a new tag.\n".format(proposedTag)
-            if oldTag:
-                langShuffledTagMarkdownStr = getShuffledTagsMarkdownStr(currentTags, useMarkdown)
-                msg += "😒 The tag you have input is already present in the list: {0}. " \
-                       "Please try again or press SKIP.".format(langShuffledTagMarkdownStr)
-                tell(p.chat_id, msg, markdown= useMarkdown)
+            if proposedTag == '':
+                tell(p.chat_id, "😒  The input is not valid, try again.")
             else:
-                msg += "Thanks for your input! 🙏\n" + \
-                       tagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTag)
-                useMarkdown = not utility.containsMarkdownList(proposedTag)
-                tell(p.chat_id, msg, markdown=useMarkdown)
-                userTaggingEntry.updateUpperCounts(proposedTag)
-                userTaggingEntry.addTagsToLastEmoji([proposedTag])
-                #tagging.addInAggregatedTagEmojis(userTaggingEntry)
-                tagging.addInAggregatedEmojiTags(userTaggingEntry)
-                userTaggingEntry.removeLastEmoji(put = True)
-                sleep(1)
-                repeatState(p, userTaggingEntry=userTaggingEntry)
+                emoji = userTaggingEntry.getLastEmoji()
+                currentTags = emojiTables.getTagList(p.getLanguageCode(), emoji)
+                currentTagsLower = [x.lower() for x in currentTags]
+                oldTag = proposedTag.lower() in currentTagsLower
+                useMarkdown = not utility.containsMarkdown(proposedTag)
+                msg = "You proposed *{0}* as a new tag.\n".format(proposedTag)
+                if oldTag:
+                    langShuffledTagMarkdownStr = getShuffledTagsMarkdownStr(currentTags, useMarkdown)
+                    msg += "😒 The tag you have input is already present in the list: {0}. " \
+                           "Please try again or press SKIP.".format(langShuffledTagMarkdownStr)
+                    tell(p.chat_id, msg, markdown= useMarkdown)
+                else:
+                    msg += "Thanks for your input! 🙏\n" + \
+                           tagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTag)
+                    useMarkdown = not utility.containsMarkdownList(proposedTag)
+                    tell(p.chat_id, msg, markdown=useMarkdown)
+                    userTaggingEntry.updateUpperCounts(proposedTag)
+                    userTaggingEntry.addTagsToLastEmoji([proposedTag])
+                    #tagging.addInAggregatedTagEmojis(userTaggingEntry)
+                    tagging.addInAggregatedEmojiTags(userTaggingEntry)
+                    userTaggingEntry.removeLastEmoji(put = True)
+                    sleep(1)
+                    repeatState(p, userTaggingEntry=userTaggingEntry)
 
 def getShuffledTagsMarkdownStr(tags, useMarkdown):
     tagsMarkDown = ["*{0}*".format(t) for t in tags] if useMarkdown else [t for t in tags]
@@ -956,10 +1016,11 @@ class SetWebhookHandler(webapp2.RequestHandler):
 # ================================
 
 
-def createInlineQueryResultArticle(p, id, input_norm, query_offset):
+def createInlineQueryResultArticle(p, id, query_text, query_offset):
     lang_code = p.getLanguageCode() if p.lang_code else 'eng'
     language = p.getLanguageName() if p.lang_code else 'English'
-    emojiList = emojiTables.getEmojiList(lang_code, input_norm)
+    #query_text = utility.normalizeString(query_text)
+    emojiList = emojiTables.getEmojiList(lang_code, query_text)
     if len(emojiList) > 0:
         #logging.debug('Replying to inline query for tag ' + tag)
         result = []
@@ -972,9 +1033,9 @@ def createInlineQueryResultArticle(p, id, input_norm, query_offset):
         for e in emojiList:
             msg = e
             if parameters.ADD_TEXT_TO_EMOJI_IN_INLINE_QUERY:
-                msg += ' ({0} in {1})'.format(input_norm, language) \
+                msg += ' ({0} in {1})'.format(query_text, language) \
                     if parameters.ADD_LANGUAGE_TO_TEXT_IN_INLINE_QUERY \
-                    else ' ({0})'.format(input_norm)
+                    else ' ({0})'.format(query_text)
             result.append(
                 {
                     'type': "article",
@@ -989,7 +1050,7 @@ def createInlineQueryResultArticle(p, id, input_norm, query_offset):
         next_offset = str(query_offset_int + 1) if hasMore else ''
         return next_offset, True, result
     else:
-        msg = 'No emoji found for {0} in {1}'.format(input_norm, language)
+        msg = 'No emoji found for {0} in {1}'.format(query_text, language)
         result = [{
             'type': "article",
             'id': str(id) + '/0',
@@ -1023,12 +1084,12 @@ def dealWithInlineQuery(body):
         query_offset = inline_query['offset']
         chat_id = inline_query['from']['id']
         p = person.getPersonByChatId(chat_id)
-        input_norm = utility.normalizeString(query_text)
-        next_offset, validQry, query_results = createInlineQueryResultArticle(p, query_id, input_norm, query_offset)
-        answerInlineQuery(query_id, query_results, next_offset)
-        if validQry and not query_offset:
-            search.addSearch(p.chat_id, p.getLanguageCode(), input_norm, is_searched_emoji=False,
-                             inline_query=True, found_translation=True)
+        if p:
+            next_offset, validQry, query_results = createInlineQueryResultArticle(p, query_id, query_text, query_offset)
+            answerInlineQuery(query_id, query_results, next_offset)
+            if validQry and not query_offset:
+                search.addSearch(p.chat_id, p.getLanguageCode(), query_text, is_searched_emoji=False,
+                                 inline_query=True, found_translation=True)
 
 # ================================
 # CALLBACK QUERY
@@ -1046,6 +1107,7 @@ def dealWithCallbackQuery(body):
 # ================================
 
 class WebhookHandler(webapp2.RequestHandler):
+
     def post(self):
         urlfetch.set_default_fetch_deadline(60)
         body = json.loads(self.request.body)
@@ -1117,8 +1179,18 @@ class WebhookHandler(webapp2.RequestHandler):
                     p.setEnabled(True, put=False)
                 restart(p)
             else:
-                logging.debug("Sending {0} to state {1}".format(p.getFirstName(), str(p.state)))
+                logging.debug("Sending {0} to state {1} with input '{2}'".format(p.getFirstName(), str(p.state), text))
                 repeatState(p, input=text)
+
+    def handle_exception(self, exception, debug_mode):
+        #if debug_mode:
+        #    webapp.RequestHandler.handle_exception(self, exception, debug_mode)
+        #else:
+        logging.exception(exception)
+        tell(key.FEDE_CHAT_ID, "❗ Detected Exception: " + str(exception))
+        #self.error(500)
+        #self.response.out.write(template.render('templdir/error.html', {}))
+
 
 
 app = webapp2.WSGIApplication([
@@ -1132,7 +1204,7 @@ app = webapp2.WSGIApplication([
     ('/taggingAggregatedTable/([^/]+)?', tagging.TaggingAggregatedTableHandler),
     ('/taggingLanguagageStats', emojiTables.LanguageUserTagsStatsHandler),
     ('/webhook', WebhookHandler),
-], debug=True)
+], debug=False)
 
 possibles = globals().copy()
 possibles.update(locals())

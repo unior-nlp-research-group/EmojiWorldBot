@@ -29,7 +29,12 @@ indexes:
   - name: has_users_tags
   - name: lang_code
 
-
+- kind: LanguageEmojiTag
+  properties:
+  - name: has_tags
+  - name: lang_code
+  - name: random_id
+    direction: desc
 
 
 #- kind: AggregatedEmojiTranslations
