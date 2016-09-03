@@ -3,6 +3,8 @@
 import string
 import unicodedata
 from google.appengine.ext import ndb
+import re
+import textwrap
 
 # ================================
 # AUXILIARY FUNCTIONS for strings
@@ -176,7 +178,8 @@ def segmentArrayOnMaxChars(array, maxChar=20, ignoreString=None):
         result.append(currentLine)
     return result
 
-
+def unindent(s):
+    return re.sub('[ ]+', ' ', textwrap.dedent(s))
 
 #####################
 # VERY DANGEREOUS OPERATIONS

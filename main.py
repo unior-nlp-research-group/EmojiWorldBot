@@ -181,35 +181,25 @@ I think you’ll love 😎 it too.
 Just click on @EmojiWorldBot to start!
 """
 
-BROADCAST_COUNT_REPORT = \
-"""
-Mesage sent to {} people
-Enabled: {}
-Disabled: {}
-"""
-
 # ================================
 # AUXILIARY FUNCTIONS
 # ================================
 
-# def broadcast(msg, restart_user=False):
-#     #return
-#     qry = Person.query()
-#     count = 0
-#     for p in qry:
-#         if (p.enabled):
-#             count += 1
-#             if restart_user:
-#                 restart(p)
-#             tell(p.chat_id, msg, sleepDelay=True)
-#     logging.debug('broadcasted to people ' + str(count))
-
 def broadcast(sender, msg, restart_user=False, curs=None, enabledCount = 0):
     #return
+
+    BROADCAST_COUNT_REPORT = utility.unindent(
+        """
+        Mesage sent to {} people
+        Enabled: {}
+        Disabled: {}
+        """
+    )
+
     users, next_curs, more = Person.query().fetch_page(50, start_cursor=curs)
     try:
         for p in users:
-            if (p.enabled):
+            if p.enabled:
                 enabledCount += 1
                 if restart_user:
                     restart(p)
@@ -221,7 +211,6 @@ def broadcast(sender, msg, restart_user=False, curs=None, enabledCount = 0):
     if more:
         deferred.defer(broadcast, sender, msg, restart_user, next_curs, enabledCount)
     else:
-        #logging.debug('broadcasted to people ' + str(count))
         total = Person.query().count()
         disabled = total - enabledCount
         msg_debug = BROADCAST_COUNT_REPORT.format(str(total), str(enabledCount), str(disabled))
@@ -248,7 +237,6 @@ def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
             replyMarkup['inline_keyboard'] = kb
         else:
             replyMarkup['keyboard'] = kb
-
     try:
         resp = urllib2.urlopen(BASE_URL + 'sendMessage', urllib.urlencode({
             'chat_id': chat_id,
@@ -265,8 +253,11 @@ def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
     except urllib2.HTTPError, err:
         if err.code == 403:
             p = person.getPersonByChatId(chat_id)
-            p.setEnabled(False)
+            p.setEnabled(False, put=True)
             #logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
+        else:
+            logging.debug('Raising unknown err in tell() with msg = ' + msg)
+            raise err
     if sleepDelay:
         sleep(0.1)
 
@@ -305,10 +296,10 @@ def tell_person(chat_id, msg, markdown=False):
 def sendEmojiImage(chat_id, emoji, sleepDelay=False, viaUrl = True):
     if viaUrl:
         img_url = emojiUtil.getEmojiImageUrl(emoji)
-        file_id = sendImageFile(chat_id, img_url=img_url)
+        sendImageFile(chat_id, img_url=img_url)
     else:
         img_file_path = emojiUtil.getEmojiImageFilePath(emoji)
-        file_id = sendImageFile(chat_id, img_file_path=img_file_path)
+        sendImageFile(chat_id, img_file_path=img_file_path)
     """
     emojiFileIdEntry = emojiTables.getEmojiFileIdEntry(emoji)
     if emojiFileIdEntry:
@@ -340,10 +331,10 @@ def sendImageFile(chat_id, img_file_path = None, img_url = None, file_id = None)
                 [('chat_id', str(chat_id)), ],
                 [('photo', 'image.jpg', img), ]
             )
-            respParsed = json.loads(resp)
-            file_id = respParsed['result']['photo'][-1]['file_id']
-            logging.debug('file id: ' + str(file_id))
-            return file_id
+            #respParsed = json.loads(resp)
+            #file_id = respParsed['result']['photo'][-1]['file_id']
+            #logging.debug('file id: ' + str(file_id))
+            #return file_id
         else: #file_id
             logging.info('sending image via file_id ' + str(file_id))
             resp = urllib2.urlopen(
@@ -499,7 +490,7 @@ def dealWithMasterCommands(p, input):
     #        tell(p.chat_id, "Wrong command format. Please type /addLanguageNameVariation  [lang_code] [new variation]")
     elif input.startswith('/testNormalize') and len(input) > commandBodyStartIndex:
         tell(p.chat_id, 'Normalized: ' + utility.normalizeString(input[commandBodyStartIndex:]))
-    elif input == '/getInfoCount':
+    elif input == '/getInfoCounts':
         tell(p.chat_id, getInfoCount())
     elif input == '/testEmojiImg':
         sendEmojiImage(p.chat_id, '⭐', viaUrl=True)
@@ -1143,8 +1134,8 @@ class WebhookHandler(webapp2.RequestHandler):
         #             u'user_id': 130870321}
         # logging.debug('location: ' + str(location))
 
-        def reply(msg=None, kb=None, markdown=False, inlineKeyboardMarkup=False):
-            tell(chat_id, msg, kb, markdown, inlineKeyboardMarkup)
+        def reply(msg=None, kb=None, markdown=True, inlineKeyboardMarkup=False):
+            tell(chat_id, msg, kb=kb, markdown=markdown, inlineKeyboardMarkup=inlineKeyboardMarkup)
 
         p = person.getPersonByChatId(chat_id)
         #ndb.Key(Person, str(chat_id)).get()
@@ -1157,8 +1148,8 @@ class WebhookHandler(webapp2.RequestHandler):
             elif text.startswith("/start"):
                 p = person.addPerson(chat_id, name, last_name, username)
                 reply("Hi {0},  welcome to EmojiWorldBot!\n".format(name) + TERMS_OF_SERVICE)
-                tell_masters("New user: " + p.getUserInfoString())
                 restart(p)
+                tell_masters("New user: " + p.getUserInfoString())
             else:
                 reply("Please press START or type /start or contact @kercos for support")
                 #reply("Something didn't work... please press START or type /startcontact @kercos")
@@ -1183,15 +1174,8 @@ class WebhookHandler(webapp2.RequestHandler):
                 repeatState(p, input=text)
 
     def handle_exception(self, exception, debug_mode):
-        #if debug_mode:
-        #    webapp.RequestHandler.handle_exception(self, exception, debug_mode)
-        #else:
         logging.exception(exception)
-        tell(key.FEDE_CHAT_ID, "❗ Detected Exception: " + str(exception))
-        #self.error(500)
-        #self.response.out.write(template.render('templdir/error.html', {}))
-
-
+        tell(key.FEDE_CHAT_ID, "❗ Detected Exception: " + str(exception), markdown=False)
 
 app = webapp2.WSGIApplication([
     ('/me', MeHandler),

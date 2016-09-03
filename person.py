@@ -17,13 +17,13 @@ class Person(ndb.Model):
     last_seen = ndb.DateTimeProperty(auto_now=True)
 
     def getFirstName(self):
-        return self.name.encode('utf-8')
+        return self.name.encode('utf-8') if self.name else None
 
     def getLastName(self):
-        return self.last_name.encode('utf-8')
+        return self.last_name.encode('utf-8') if self.last_name else None
 
     def getUsername(self):
-        return self.username.encode('utf-8')
+        return self.username.encode('utf-8') if self.username else None
 
     def getUserInfoString(self):
         info = self.getFirstName()
