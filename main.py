@@ -99,87 +99,92 @@ BULLET_POINT = '🔸'
 #2. Add new tags for current languages (including country names for national flags)
 #3. Match language-to-language: using this bot to crowdsource (via gamification techniques) very accurate bilingual dictionaries between any two languages
 
-INFO = \
-"""
-@EmojiWorldBot version 1.0
+INFO = utility.unindent(
+    """
+    @EmojiWorldBot version 1.0
 
-@EmojiWorldBot is a *multilingual emoji dictionary* that uses
-emojis as a pivot for contributors among dozens of diverse languages.
+    @EmojiWorldBot is a *multilingual emoji dictionary* that uses
+    emojis as a pivot for contributors among dozens of diverse languages.
 
-Currently we support *emoji-to-word* and *word-to-emoji* for more than 70 languages.
-The bot features a *tagging game* 🐣 for people to contribute to the expansion of these dictionaries \
-or the creation of new ones for any additional language.
+    Currently we support *emoji-to-word* and *word-to-emoji* for more than 70 languages.
+    The bot features a *tagging game* 🐣 for people to contribute to the expansion of these dictionaries \
+    or the creation of new ones for any additional language.
 
-@EmojiWorldBot is a free public service produced by \
-Federico Sangati (Netherlands), Martin Benjamin and Sina Mansour \
-at Kamusi Project International and EPFL (Switzerland), \
-Francesca Chiusaroli at University of Macerata (Italy), \
-and Johanna Monti at University of Naples “L’Orientale” (Italy). \
-If you need to get in touch with us, please send a message to @kercos.
+    @EmojiWorldBot is a free public service produced by \
+    Federico Sangati (Netherlands), Martin Benjamin and Sina Mansour \
+    at Kamusi Project International and EPFL (Switzerland), \
+    Francesca Chiusaroli at University of Macerata (Italy), \
+    and Johanna Monti at University of Naples “L’Orientale” (Italy). \
+    If you need to get in touch with us, please send a message to @kercos.
 
-*Acknowledgements*:
-🔹 Default tags for 72 languages were obtained from the [Unicode Consortium](http://www.unicode.org/cldr/charts/29/annotations)
-🔹 Emoji images are freely provided by [Emoji One](http://emojione.com)
-"""
+    *Acknowledgements*:
+    🔹 Default tags for 72 languages were obtained from the [Unicode Consortium](http://www.unicode.org/cldr/charts/29/annotations)
+    🔹 Emoji images are freely provided by [Emoji One](http://emojione.com)
+    """
+)
 
-TERMS_OF_SERVICE = \
-"""
-TERMS OF SERVICE:
+TERMS_OF_SERVICE = utility.unindent(
+    """
+    TERMS OF SERVICE:
 
-You are invited to use and share @EmojiWorldBot at your pleasure. \
-Through your use of the service, you agree that:
+    You are invited to use and share @EmojiWorldBot at your pleasure. \
+    Through your use of the service, you agree that:
 
-1. We make no guarantees about the accuracy of the data, and we are not liable \
-for any problems you encounter from using the words you find here. \
-We hope we are giving you good information, but you use it at your own risk.
+    1. We make no guarantees about the accuracy of the data, and we are not liable \
+    for any problems you encounter from using the words you find here. \
+    We hope we are giving you good information, but you use it at your own risk.
 
-2. We may keep records of your searches and contributions. \
-We understand privacy and value it as highly as you do. \
-We promise not to sell or share information that can be associated with your name, \
-other than acknowledging any contributions you make to improving our data. \
-We use the log files to learn from you and produce the best possible service. \
-For example, if you search for a tag that we don’t have, \
-the log files let us know that we should consider adding it.
+    2. We may keep records of your searches and contributions. \
+    We understand privacy and value it as highly as you do. \
+    We promise not to sell or share information that can be associated with your name, \
+    other than acknowledging any contributions you make to improving our data. \
+    We use the log files to learn from you and produce the best possible service. \
+    For example, if you search for a tag that we don’t have, \
+    the log files let us know that we should consider adding it.
 
-3. This is an interactive application that may send you messages from time to time. \
-Messages might include service alerts such as feature updates, \
-or contributor queries such as asking you to translate a new word to your language. \
-We will do our best not to be annoying.
+    3. This is an interactive application that may send you messages from time to time. \
+    Messages might include service alerts such as feature updates, \
+    or contributor queries such as asking you to translate a new word to your language. \
+    We will do our best not to be annoying.
 
-4. Any information you provide about your favorite languages is given freely and voluntarily, \
-with no claims of copyright or ownership on your part, and no expectation of payment. \
-We are free to use the data you share in any way we see fit (and thank you for it!).
+    4. Any information you provide about your favorite languages is given freely and voluntarily, \
+    with no claims of copyright or ownership on your part, and no expectation of payment. \
+    We are free to use the data you share in any way we see fit (and thank you for it!).
 
-If you don’t agree to our terms of service, please delete the bot from your telegram contacts \
-and you’ll never hear from us again (unless you decide to come back 😉). \
-If you are cool with the conditions stated above, please enjoy!
+    If you don’t agree to our terms of service, please delete the bot from your telegram contacts \
+    and you’ll never hear from us again (unless you decide to come back 😉). \
+    If you are cool with the conditions stated above, please enjoy!
 
-"""
+    """
+)
 
-INVITE_FRIEND_INSTRUCTION = \
-"""
-To invite your friends, please copy the following short note🗒and paste it into your chats, or forward ⏩ it directly (for instructions click on /howToForward):
-"""
+INVITE_FRIEND_INSTRUCTION = utility.unindent(
+    """
+    To invite your friends, please copy the following short note🗒and paste it into your chats, or forward ⏩ it directly (for instructions click on /howToForward):
+    """
+)
 
-HOW_TO_FORWARD_A_MESSAGE = \
-"""
-How to forward a message on Telegram:
+HOW_TO_FORWARD_A_MESSAGE = utility.unindent(
+    """
+    How to forward a message on Telegram:
 
-1 (Browser): left click on message and press 'forward' at screen bottom
-1 (Desktop): right click on timestamp next to message and press 'forward'
-1 (Mobile): long tap on a message
+    1 (Browser): left click on message and press 'forward' at screen bottom
+    1 (Desktop): right click on timestamp next to message and press 'forward'
+    1 (Mobile): long tap on a message
 
-2: select the user you want to forward it to
+    2: select the user you want to forward it to
 
-"""
+    """
+)
 
-MESSAGE_FOR_FRIENDS = \
-"""
-Hi, I’ve been enjoying a cool new tool that helps me find emoji in *{0}* \
-and more than 120 other languages.
-I think you’ll love 😎 it too.
-Just click on @EmojiWorldBot to start!
-"""
+MESSAGE_FOR_FRIENDS = utility.unindent(
+    """
+    Hi, I’ve been enjoying a cool new tool that helps me find emoji in *{0}* \
+    and more than 120 other languages.
+    I think you’ll love 😎 it too.
+    Just click on @EmojiWorldBot to start!
+    """
+)
 
 # ================================
 # AUXILIARY FUNCTIONS
@@ -196,18 +201,20 @@ def broadcast(sender, msg, restart_user=False, curs=None, enabledCount = 0):
         """
     )
 
-    users, next_curs, more = Person.query().fetch_page(50, start_cursor=curs)
     try:
-        for p in users:
-            if p.enabled:
-                enabledCount += 1
-                if restart_user:
-                    restart(p)
-                tell(p.chat_id, msg, sleepDelay=True)
+        users, next_curs, more = Person.query().fetch_page(50, start_cursor=curs)
     except datastore_errors.Timeout:
         sleep(1)
         deferred.defer(broadcast, sender, msg, restart_user, curs, enabledCount)
         return
+
+    for p in users:
+        if p.enabled:
+            enabledCount += 1
+            if restart_user:
+                restart(p)
+            tell(p.chat_id, msg, sleepDelay=True)
+
     if more:
         deferred.defer(broadcast, sender, msg, restart_user, next_curs, enabledCount)
     else:
@@ -228,6 +235,7 @@ def tell_masters(msg, markdown=False, one_time_keyboard=False):
 
 def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
          one_time_keyboard = True, sleepDelay=False):
+
     replyMarkup = {
         'resize_keyboard': True,
         'one_time_keyboard': one_time_keyboard
@@ -262,6 +270,7 @@ def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
         sleep(0.1)
 
 def tell_update(chat_id, msg, update_message_id, inline_kb=None, markdown=False):
+
     replyMarkup = {}
 
     if inline_kb:
@@ -321,6 +330,7 @@ def sendTextImage(chat_id, text):
     #img_url = "http://chart.apis.google.com/chart?chst=d_text_outline&chld=000000|40|h|FFFFFF|_|" + text
     img_url = "http://chart.apis.google.com/chart?chst=d_fnote&chld=sticky_y|2|0088FF|h|" + text
     sendImageFile(chat_id, img_url=img_url)
+
 
 def sendImageFile(chat_id, img_file_path = None, img_url = None, file_id = None):
     try:
@@ -394,29 +404,31 @@ def repeatState(p, **kwargs):
 # GO TO STATE 1: initial state (select language family)
 # ================================
 
-INTRO_INSTRUCTIONS_WITH_TAG_AND_EMOJI = \
-"""
-Your current language is set to *{0}*. This is what you can do:
+INTRO_INSTRUCTIONS_WITH_TAG_AND_EMOJI = utility.unindent(
+    """
+    Your current language is set to *{0}*. This is what you can do:
 
-🔹 *Ask me a tag* (one or more words), e.g., type *{2}* to get all emojis with that tag, \
-or *give me a single emoji*, e.g., {1} to get its tags.
+    🔹 *Ask me a tag* (one or more words), e.g., type *{2}* to get all emojis with that tag, \
+    or *give me a single emoji*, e.g., {1} to get its tags.
 
-🔹 Press on 🐣 for a *fun quiz-game* that will help grow the dictionary for your language! 😀
+    🔹 Press on 🐣 for a *fun quiz-game* that will help grow the dictionary for your language! 😀
 
-🔹 I'm also an *inline 🤖  bot*! In your other Telegram chats with your friends, \
-*type my name and an emoji tag* in {0}. I'll send them the emoji you choose.
-📲 For instance, try to type this: @EmojiWorldBot {2}
-"""
+    🔹 I'm also an *inline 🤖  bot*! In your other Telegram chats with your friends, \
+    *type my name and an emoji tag* in {0}. I'll send them the emoji you choose.
+    📲 For instance, try to type this: @EmojiWorldBot {2}
+    """
+)
 
-INTRO_INSTRUCTIONS_SIMPLE = \
-"""
-Your current language is set to *{0}*.
+INTRO_INSTRUCTIONS_SIMPLE = utility.unindent(
+    """
+    Your current language is set to *{0}*.
 
-We are just getting started with {0} - we need your 🤔 tags.
-Please press on 🐣  for a *fun quiz-game* \
-that will help introduce new tags for your language! \
-Don't forget to invite your friends to help grow the dictionary for your language! 😀
-"""
+    We are just getting started with {0} - we need your 🤔 tags.
+    Please press on 🐣  for a *fun quiz-game* \
+    that will help introduce new tags for your language! \
+    Don't forget to invite your friends to help grow the dictionary for your language! 😀
+    """
+)
 
 def goToState1(p, input=None):
     giveInstruction = input is None
@@ -573,23 +585,25 @@ def dealWithInputTagOrEmoji(p, input):
 BUTTON_ACTIVE_LANGUAGES = "ACTIVE LANGUAGES"
 BUTTON_ADD_LANGUAGES = "ADD LANGUAGE"
 
-ADD_LANGUAGE_INSTRUCTIONS = \
-"""
-Can you help build the dictionary for a language you don't see on our list? \
-Please type:
+ADD_LANGUAGE_INSTRUCTIONS = utility.unindent(
+    """
+    Can you help build the dictionary for a language you don't see on our list? \
+    Please type:
 
-*/activate [language]*
+    */activate [language]*
 
-For example, if your language is "Zuni", type */activate Zuni*, \
-and we will get back to you with more information.
-"""
+    For example, if your language is "Zuni", type */activate Zuni*, \
+    and we will get back to you with more information.
+    """
+)
 
-CHANGE_LANGUAGE_INSTRUCTIONS = \
-"""
-Your current language is *{0}*.
+CHANGE_LANGUAGE_INSTRUCTIONS = utility.unindent(
+    """
+    Your current language is *{0}*.
 
-Press on a button to list the available languages, or be adventurous and type a language name (e.g., Swahili).
-"""
+    Press on a button to list the available languages, or be adventurous and type a language name (e.g., Swahili).
+    """
+)
 
 def goToState0(p, input=None):
     giveInstruction = input is None
@@ -891,9 +905,10 @@ def goToState4(p, input=None, userTaggingEntry=None):
                 emoji = userTaggingEntry.getLastEmoji()
                 currentTags = emojiTables.getTagList(p.getLanguageCode(), emoji)
                 currentTagsLower = [x.lower() for x in currentTags]
-                oldTag = proposedTag.lower() in currentTagsLower
-                useMarkdown = not utility.containsMarkdown(proposedTag)
-                msg = "You proposed *{0}* as a new tag.\n".format(proposedTag)
+                proposedTagLower = proposedTag.lower()
+                oldTag = proposedTagLower in currentTagsLower
+                useMarkdown = not utility.containsMarkdown(proposedTagLower)
+                msg = "You proposed *{0}* as a new tag.\n".format(proposedTagLower)
                 if oldTag:
                     langShuffledTagMarkdownStr = getShuffledTagsMarkdownStr(currentTags, useMarkdown)
                     msg += "😒 The tag you have input is already present in the list: {0}. " \
@@ -901,11 +916,11 @@ def goToState4(p, input=None, userTaggingEntry=None):
                     tell(p.chat_id, msg, markdown= useMarkdown)
                 else:
                     msg += "Thanks for your input! 🙏\n" + \
-                           tagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTag)
-                    useMarkdown = not utility.containsMarkdownList(proposedTag)
+                           tagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTagLower)
+                    useMarkdown = not utility.containsMarkdownList(proposedTagLower)
                     tell(p.chat_id, msg, markdown=useMarkdown)
-                    userTaggingEntry.updateUpperCounts(proposedTag)
-                    userTaggingEntry.addTagsToLastEmoji([proposedTag])
+                    userTaggingEntry.updateUpperCounts(proposedTagLower)
+                    userTaggingEntry.addTagsToLastEmoji([proposedTagLower])
                     #tagging.addInAggregatedTagEmojis(userTaggingEntry)
                     tagging.addInAggregatedEmojiTags(userTaggingEntry)
                     userTaggingEntry.removeLastEmoji(put = True)
@@ -918,33 +933,36 @@ def getShuffledTagsMarkdownStr(tags, useMarkdown):
     tagsMarkDownStr = ', '.join(tagsMarkDown)
     return tagsMarkDownStr
 
-UPPER_CASE_SOFT_MESSAGE = \
-"""
-❗  Please be aware that 'car' ≠ 'Car', so use upper case letters only if needed.\
-"""
+UPPER_CASE_SOFT_MESSAGE = utility.unindent(
+    """
+    ❗  Please be aware that 'car' ≠ 'Car', so use upper case letters only if needed.\
+    """
+)
 
-UPPER_CASE_SHOCK_MESSAGE = \
-"""
-❗⚠ It looks like your phone automatically capitalized your word. \
-Please make sure to use upper case letters only when needed (e.g. 🐠 fish,  but 🗻 Mount Fuji) \
-"""
+UPPER_CASE_SHOCK_MESSAGE = utility.unindent(
+    """
+    ❗⚠ It looks like your phone automatically capitalized your word. \
+    Please make sure to use upper case letters only when needed (e.g. 🐠 fish,  but 🗻 Mount Fuji) \
+    """
+)
 
 UPPER_CASE_MESSAGE_LEVELS = ['',UPPER_CASE_SOFT_MESSAGE, UPPER_CASE_SHOCK_MESSAGE]
 
-DIACRITICS_MESSAGE = \
-"""
-❗  Your language contains special characters (e.g., accents), \
-it is VERY important that you use the settings on your device \
-to select the correct keyboard for your language. \
-To disable this message press on {0}
-""".format(DISABLE_DIACRITIC_WARNING_MSG)
+DIACRITICS_MESSAGE = utility.unindent(
+    """
+    Your language contains special characters (e.g., accents), \
+    it is VERY important that you use the settings on your device \
+    to select the correct keyboard for your language. \
+    To disable this message press on {0}
+    """.format(DISABLE_DIACRITIC_WARNING_MSG)
+)
 
 def getTaggingGameInstruction(p, userTaggingEntry, language_tags_markeddown_str,
                               english_tags_markeddown_str, useMarkdown):
     language = p.getLanguageName()
     emoji = userTaggingEntry.getLastEmoji()
-    tagUpperCountLevel = userTaggingEntry.tagUpperCountLevel()
-    showDiacriticWarning = not userTaggingEntry.disableDiacriticsWarning and userTaggingEntry.currentLanguageHasDiacritics()
+    #tagUpperCountLevel = userTaggingEntry.tagUpperCountLevel()
+    #showDiacriticWarning = not userTaggingEntry.disableDiacriticsWarning and userTaggingEntry.currentLanguageHasDiacritics()
     msg1 = "⭐⭐⭐⭐⭐\n"
     msg1 += "Thanks for playing and helping tag emojis in *{0}*.\n\n".format(language)
     msg1 += "We have a new emoji for you: {0}\n".format(emoji)
@@ -962,9 +980,9 @@ def getTaggingGameInstruction(p, userTaggingEntry, language_tags_markeddown_str,
         msg2 += "\nYou can get inspired by the English tags: {0}.".format(english_tags_markeddown_str)
 
     msg2 += '\n'
-    msg2 += UPPER_CASE_MESSAGE_LEVELS[tagUpperCountLevel]
-    if showDiacriticWarning:
-        msg2 += DIACRITICS_MESSAGE
+    #msg2 += UPPER_CASE_MESSAGE_LEVELS[tagUpperCountLevel]
+    #if showDiacriticWarning:
+    #    msg2 += DIACRITICS_MESSAGE
     return msg1, msg2.strip()
 
 def getNextEmojiForTagging(userTaggingEntry):
