@@ -22,6 +22,12 @@ class Person(ndb.Model):
     def getLastName(self):
         return self.last_name.encode('utf-8') if self.last_name else None
 
+    def getFirstLastName(self):
+        result = self.getFirstName()
+        if self.last_name:
+            result = ' ' + self.getLastName()
+        return result
+
     def getUsername(self):
         return self.username.encode('utf-8') if self.username else None
 
@@ -64,6 +70,8 @@ class Person(ndb.Model):
             if put:
                 self.put()
 
+    def isAdmin(self):
+        return self.chat_id in key.MASTER_CHAT_ID
 
 ## --- end of class Person
 
@@ -111,3 +119,6 @@ def importAllFromJson(file):
                 toAdd.append(addPerson(e['chat_id'], e['name'], e['last_name'], e['username'], put = False))
     ndb.put_multi(toAdd)
     print "Added elements: " + str(len(toAdd))
+
+def getPeopleCountInState(state):
+    return Person.query(Person.state == state).count()
