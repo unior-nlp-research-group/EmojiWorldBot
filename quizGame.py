@@ -97,7 +97,7 @@ def getUserAnswersTableSorted(top_N = 5):
         summary += "Nobody has answered correctly to any question."
     else:
         summary += '\n'.join([
-            '{} - {} - Correct: {} - Ellapsed: {}'.format(
+            '{} - {} - Correct: {} - Ellapsed: {} sec'.format(
                 pos,
                 name_chat_id,
                 userAnswersTable[name_chat_id]['correct'],
@@ -117,17 +117,17 @@ def getUserScoreEllapsed(person, userAnswersTable):
 ############################################
 ############################################
 
-class UserAnswer(ndb.Model):
+class UserQuizAnswer(ndb.Model):
     # id = chat_id questionIndex
     chat_id = ndb.IntegerProperty()
     questionIndex = ndb.IntegerProperty()
-    name = ndb.StringProperty()
+    firstLastName = ndb.StringProperty()
     answer = ndb.StringProperty()
     correct = ndb.BooleanProperty()
     ellapsedSeconds = ndb.IntegerProperty()
 
-    def getName(self):
-        return self.name.encode('utf-8')
+    def getFirstLastName(self):
+        return self.firstLastName.encode('utf-8')
 
 def getAnswerID(chat_id, questionIndex):
     return "{} {}".format(chat_id, questionIndex)
@@ -145,14 +145,14 @@ def addAnswer(person, answer, answerTimestamp):
     if not quizManager.acceptingAnswers:
         return questionNumber, -1
     answerID = getAnswerID(person.chat_id, questionIndex)
-    if UserAnswer.get_by_id(answerID)!=None:
+    if UserQuizAnswer.get_by_id(answerID)!=None:
         return questionNumber, -2
     questionTimestamp = quizManager.questionStartTimestamps[quizManager.questionIndex]
     ellapsedSeconds = answerTimestamp-questionTimestamp
     assert ellapsedSeconds >= 0
-    answerEntry = UserAnswer(
+    answerEntry = UserQuizAnswer(
         chat_id = person.chat_id,
-        name = person.name,
+        firstLastName = person.getFirstLastName(),
         questionIndex = questionIndex,
         id=answerID,
         answer=answer,
@@ -165,17 +165,17 @@ def validateAnswers(correctAnswer):
     logging.debug("Validating answers")
     quizManager = getQuizManager()
     questionIndex = quizManager.questionIndex
-    answers = UserAnswer.query(UserAnswer.questionIndex==questionIndex).fetch()
+    answers = UserQuizAnswer.query(UserQuizAnswer.questionIndex == questionIndex).fetch()
     userAnswersTable = quizManager.userAnswersTable
     resultTable = {} # chat_id: true|false
     correctNamesTime = {}
     for a in answers:
         a.correct = a.answer == correctAnswer
-        logging.debug("{} {}".format(a.getName(), a.correct))
+        logging.debug("{} {}".format(a.getFirstLastName(), a.correct))
         resultTable[a.chat_id] = a.correct
         if a.correct:
-            correctNamesTime[a.getName()] = a.ellapsedSeconds
-            tableKey = getUserAnswersTableKey(a.getName(), a.chat_id)
+            correctNamesTime[a.getFirstLastName()] = a.ellapsedSeconds
+            tableKey = getUserAnswersTableKey(a.getFirstLastName(), a.chat_id)
             if tableKey in userAnswersTable.keys():
                 userTotalCounts = userAnswersTable[tableKey]
             else:
@@ -193,7 +193,7 @@ def validateAnswers(correctAnswer):
 
 def deleteAllAnswers():
     delete_futures = ndb.delete_multi_async(
-        UserAnswer.query().fetch(keys_only=True)
+        UserQuizAnswer.query().fetch(keys_only=True)
     )
     ndb.Future.wait_all(delete_futures)
     #assert UserAnswer.query().count()==0

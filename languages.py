@@ -72,7 +72,6 @@ def getLanguageStructureFromUrl():
 #LANG_STRUCTURE = getLanguageStructureFromFile()
 LANG_STRUCTURE = getLanguageStructureFromUrl()
 
-
 def getLanguageName(lang_code):
     return LANG_STRUCTURE[lang_code]['lang_name']
 

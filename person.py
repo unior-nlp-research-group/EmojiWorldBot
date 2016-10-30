@@ -25,7 +25,7 @@ class Person(ndb.Model):
     def getFirstLastName(self):
         result = self.getFirstName()
         if self.last_name:
-            result = ' ' + self.getLastName()
+            result += ' ' + self.getLastName()
         return result
 
     def getUsername(self):

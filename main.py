@@ -41,7 +41,7 @@ import sys
 
 # ================================
 WORK_IN_PROGRESS = False
-FUTURO_REMOTO_ON = True
+FUTURO_REMOTO_ON = False and key.TEST_MODE == False
 # ================================
 
 BASE_URL = 'https://api.telegram.org/bot' + key.TOKEN + '/'
@@ -372,21 +372,6 @@ def sendImageFile(chat_id, img_file_path = None, img_url = None, file_id = None)
             p.put()
             logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
 
-# ================================
-# SEND GAME
-# ================================
-
-def sendGame(chat_id):
-    try:
-        data = {
-            'chat_id': chat_id,
-            'game_short_name': 'EmojiGame',
-        }
-        resp = requests.post(BASE_URL + 'sendGame', data)
-        logging.info('Response: {}'.format(resp.text))
-    except:
-        report_exception()
-
 
 ##################################
 # START OF STATE FUNCTIONS
@@ -539,8 +524,6 @@ def dealWithMasterCommands(p, input):
         sendTextImage(p.chat_id, 'text example')
     elif input.startswith('/sendText'):
         dealWithsendTextCommand(p, input, markdown=False)
-    elif input.startswith('/testGame'):
-        sendGame(p.chat_id)
     else:
         dealWithInputTagOrEmoji(p, input)
 
