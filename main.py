@@ -653,7 +653,10 @@ def goToState0(p, input=None, **kwargs):
         elif input.startswith("/activate"):
             new_language_code = input[9:].strip()
             if len(new_language_code)<3:
-                tell(p.chat_id, "Sorry the language should be at least 3 letters long.", markdown=True)
+                tell(p.chat_id, "Sorry the language should be at least 3 characters long.", markdown=True)
+            elif changeLanguageFromString(p, new_language_code):
+                tell(p.chat_id, "The language you have requested is already present, switching to it now.")
+                redirectToState(p, 1)
             else:
                 msg_user = "Thanks {0} for your help, will be back to you with " \
                       "more info about the language you would like to see in @EmojiWorldBot".format(p.getFirstName())

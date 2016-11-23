@@ -108,10 +108,16 @@ def getTagList(lang_code, emoji_utf):
     return []
 
 def getEmojiList(lang_code, tag):
+    tagLower = tag.lower()
     entries = LanguageEmojiTag.query(
         ndb.AND(LanguageEmojiTag.lang_code == lang_code,
-                ndb.OR(LanguageEmojiTag.default_tags == tag, LanguageEmojiTag.users_tags == tag)
+                ndb.OR(
+                    LanguageEmojiTag.default_tags == tag,
+                    LanguageEmojiTag.default_tags == tagLower,
+                    LanguageEmojiTag.users_tags == tag,
+                    LanguageEmojiTag.users_tags == tagLower
                 )
+        )
     ).fetch(projection=[LanguageEmojiTag.emoji])
     return [e.getEmoji() for e in entries]
 
