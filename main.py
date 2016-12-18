@@ -1224,14 +1224,31 @@ class MeHandler(webapp2.RequestHandler):
         urlfetch.set_default_fetch_deadline(60)
         self.response.write(json.dumps(json.load(urllib2.urlopen(BASE_URL + 'getMe'))))
 
-
 class SetWebhookHandler(webapp2.RequestHandler):
     def get(self):
         urlfetch.set_default_fetch_deadline(60)
-        url = self.request.get('url')
-        if url:
-            self.response.write(
-                json.dumps(json.load(urllib2.urlopen(BASE_URL + 'setWebhook', urllib.urlencode({'url': url})))))
+        allowed_updates = ["message", "inline_query", "chosen_inline_result", "callback_query"]
+        data = {
+            'url': key.WEBHOOK_URL,
+            'allowed_updates': json.dumps(allowed_updates),
+        }
+        resp = requests.post(key.BASE_URL + 'setWebhook', data)
+        logging.info('SetWebhook Response: {}'.format(resp.text))
+        self.response.write(resp.text)
+
+class GetWebhookInfo(webapp2.RequestHandler):
+    def get(self):
+        urlfetch.set_default_fetch_deadline(60)
+        resp = requests.post(key.BASE_URL + 'getWebhookInfo')
+        logging.info('GetWebhookInfo Response: {}'.format(resp.text))
+        self.response.write(resp.text)
+
+class DeleteWebhook(webapp2.RequestHandler):
+    def get(self):
+        urlfetch.set_default_fetch_deadline(60)
+        resp = requests.post(key.BASE_URL + 'deleteWebhook')
+        logging.info('DeleteWebhook Response: {}'.format(resp.text))
+        self.response.write(resp.text)
 
 
 # ================================
@@ -1439,12 +1456,14 @@ app = webapp2.WSGIApplication([
     #    ('/_ah/channel/connected/', DashboardConnectedHandler),
     #    ('/_ah/channel/disconnected/', DashboardDisconnectedHandler),
     ('/set_webhook', SetWebhookHandler),
+    ('/get_webhook_info', GetWebhookInfo),
+    ('/delete_webhook', DeleteWebhook),
+    (key.WEBHOOK_PATH, WebhookHandler),
     ('/translationUserTable/([^/]+)?', translation.TranslationUserTableHandler),
     ('/translationAggregatedTable/([^/]+)?', translation.TranslationAggregatedTableHandler),
     ('/taggingUserTable/([^/]+)?', tagging.TaggingUserTableHandler),
     ('/taggingAggregatedTable/([^/]+)?', tagging.TaggingAggregatedTableHandler),
     ('/taggingLanguagageStats', emojiTables.LanguageUserTagsStatsHandler),
-    ('/webhook', WebhookHandler),
 ], debug=False)
 
 possibles = globals().copy()
