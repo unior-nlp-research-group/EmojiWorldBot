@@ -28,7 +28,8 @@ def getNormalizedEmoji(text):
 # Emoji image Url
 # =============================
 
-EMOJI_PNG_URL = 'https://dl.dropboxusercontent.com/u/12016006/Emoji/png_one_64/'
+#EMOJI_PNG_URL = 'https://dl.dropboxusercontent.com/u/12016006/Emoji/png_one_64/'
+EMOJI_PNG_URL = 'https://s3.eu-central-1.amazonaws.com/kercos/png_one_64/'
 
 def getCodePoint(e):
     codePoints = [str(hex(ord(c)))[2:] for c in e.decode('utf-8')]
@@ -37,7 +38,7 @@ def getCodePoint(e):
     return result
 
 def getEmojiImageUrl(e):
-    codePoints = getCodePoint(e)
+    codePoints = getCodePoint(e).upper()
     emojiUrl = EMOJI_PNG_URL + codePoints + ".png"
     logging.debug('Requesting emoj url: ' + emojiUrl)
     return emojiUrl
