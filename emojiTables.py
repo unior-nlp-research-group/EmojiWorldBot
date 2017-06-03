@@ -199,7 +199,7 @@ KAMUSI_SERVER_EMOJI_TAG_WORDNETDEF_URL = "http://lsir-kamusi.epfl.ch:3000/emojib
 
 class LanguageUserTagsStatsHandler(webapp2.RequestHandler):
     def get(self):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         full = self.request.get('full') == 'true'
         lang = self.request.get('lang')
         languages = tagging.getLanguagesWithProposedTags() if lang=='' else [lang]

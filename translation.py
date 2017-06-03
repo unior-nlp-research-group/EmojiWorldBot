@@ -256,7 +256,7 @@ def getStatsFeedbackForTranslation(userTranslationsEntry, proposedTranslation):
 #####################
 class TranslationUserTableHandler(webapp2.RequestHandler):
     def get(self, language):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         qry = UserTranslationTag.query(UserTranslationTag.dst_language == language)
         full = self.request.get('full') == 'true'
         result = {}
@@ -273,7 +273,7 @@ class TranslationUserTableHandler(webapp2.RequestHandler):
 
 class TranslationAggregatedTableHandler(webapp2.RequestHandler):
     def get(self, language):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         qry = AggregatedEmojiTranslations.query(AggregatedEmojiTranslations.dst_language==language)
         result = {}
         for entry in qry:

@@ -235,10 +235,7 @@ def broadcast(sender, msg, restart_user=False, curs=None, enabledCount = 0):
         tell(sender.chat_id, msg_debug)
 
 def getInfoCount():
-    c = Person.query().count()
-    msg = "We are {0} people subscribed to EmojiWorldBot! ".format(str(c))
-    return msg
-
+    return Person.query().count()
 
 def tell_masters(msg, markdown=False, one_time_keyboard=False):
     for id in key.MASTER_CHAT_ID:
@@ -931,9 +928,9 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
                            "Please try again or press SKIP.".format(langShuffledTagMarkdownStr)
                     tell(p.chat_id, msg, markdown= useMarkdown)
                 else:
-                    msg += "Thanks for your input! 🙏\n" + \
-                           tagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTagLower)
-                    useMarkdown = not utility.containsMarkdownList(proposedTagLower)
+                    statsFeedback = tagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTagLower)
+                    msg += "Thanks for your input! 🙏\n" + statsFeedback
+                    useMarkdown = not utility.containsMarkdownList(proposedTagLower) and not utility.containsMarkdownList(statsFeedback)
                     tell(p.chat_id, msg, markdown=useMarkdown)
                     userTaggingEntry.updateUpperCounts(proposedTagLower)
                     userTaggingEntry.addTagsToLastEmoji([proposedTagLower])
@@ -1221,12 +1218,12 @@ def broadcast_quiz_final_msg(sender_id, state, userAnswersTable, restart_user=Fa
 
 class MeHandler(webapp2.RequestHandler):
     def get(self):
-        urlfetch.set_default_fetch_deadline(60)
+        ##urlfetch.set_default_fetch_deadline(60)
         self.response.write(json.dumps(json.load(urllib2.urlopen(BASE_URL + 'getMe'))))
 
 class SetWebhookHandler(webapp2.RequestHandler):
     def get(self):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         allowed_updates = ["message", "inline_query", "chosen_inline_result", "callback_query"]
         data = {
             'url': key.WEBHOOK_URL,
@@ -1238,14 +1235,14 @@ class SetWebhookHandler(webapp2.RequestHandler):
 
 class GetWebhookInfo(webapp2.RequestHandler):
     def get(self):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         resp = requests.post(key.BASE_URL + 'getWebhookInfo')
         logging.info('GetWebhookInfo Response: {}'.format(resp.text))
         self.response.write(resp.text)
 
 class DeleteWebhook(webapp2.RequestHandler):
     def get(self):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         resp = requests.post(key.BASE_URL + 'deleteWebhook')
         logging.info('DeleteWebhook Response: {}'.format(resp.text))
         self.response.write(resp.text)
@@ -1371,7 +1368,7 @@ def updateUser(p, name, last_name, username):
 class WebhookHandler(SafeRequestHandler):
 
     def post(self):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         body = json.loads(self.request.body)
         logging.info('request body:')
         logging.info(body)
@@ -1420,7 +1417,7 @@ class WebhookHandler(SafeRequestHandler):
                 p = person.addPerson(chat_id, name, last_name, username)
                 reply("Hi {0},  welcome to EmojiWorldBot!\n".format(name) + TERMS_OF_SERVICE)
                 restart(p)
-                tell_masters("New user: " + p.getUserInfoString())
+                tell_masters("New user #{} : {}".format(getInfoCount(), p.getUserInfoString()))
             else:
                 reply("Please press START or type /start or contact @kercos for support")
                 #reply("Something didn't work... please press START or type /startcontact @kercos")

@@ -319,7 +319,7 @@ def getUserEmojisForTag(lang_code_utf, tag_utf):
 #==============================
 class TaggingUserTableHandler(webapp2.RequestHandler):
     def get(self, lang_code):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         full = self.request.get('full') == 'true'
         qry = UserTagging.query(UserTagging.lang_code == lang_code)
         result = {}
@@ -336,7 +336,7 @@ class TaggingUserTableHandler(webapp2.RequestHandler):
 
 class TaggingAggregatedTableHandler(webapp2.RequestHandler):
     def get(self, lang_code):
-        urlfetch.set_default_fetch_deadline(60)
+        #urlfetch.set_default_fetch_deadline(60)
         qry = AggregatedEmojiTags.query(AggregatedEmojiTags.lang_code==lang_code)
         result = {}
         for entry in qry:
