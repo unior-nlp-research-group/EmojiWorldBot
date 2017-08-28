@@ -2,7 +2,6 @@
 
 import string
 import unicodedata
-from google.appengine.ext import ndb
 import re
 import textwrap
 
@@ -190,12 +189,14 @@ def deleteData(language=None):
     #deleteTranslation(language)
 
 def deleteTagging(language=None):
+    from google.appengine.ext import ndb
     import tagging
     ndb.delete_multi(tagging.UserTagging.query().fetch(keys_only=True))
     ndb.delete_multi(tagging.AggregatedEmojiTags.query().fetch(keys_only=True))
 
 
 def deleteProperty(model, prop_name):
+    from google.appengine.ext import ndb
     toUpdate = model.query().fetch()
     for ent in toUpdate:
         if prop_name in ent._properties:
@@ -205,6 +206,7 @@ def deleteProperty(model, prop_name):
 
 """
 def deleteTagging(language=None):
+    from google.appengine.ext import ndb
     import tagging
     if language:
         ndb.delete_multi(
@@ -221,6 +223,7 @@ def deleteTagging(language=None):
 
 """
 def deleteTranslation(language=None):
+    from google.appengine.ext import ndb
     import translation
     if language:
         ndb.delete_multi(

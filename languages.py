@@ -10,12 +10,10 @@ if 'google' in sys.modules:
 
 import logging
 import utility
-from google.appengine.ext import ndb
 
 import re
 import urllib2
 
-import urllib
 import jsonUtil
 
 import json
@@ -51,12 +49,13 @@ def getLanguageStructureFromUrl():
             lang_code = row[2].strip()
             if lang_code:
                 langItem = {}
-                langItem["lang_name"] = row[3].strip()
-                langItem["alt_names"] = [x.strip().lower() for x in row[4].split(',')]
-                langItem["roman_script"] = True if row[5].upper() == 'TRUE' else False
-                langItem["has_diacritics"] = True if row[6].upper() == 'TRUE' else False
-                langItem["user_ids"] = [int(x) for x in row[4].split(',') if utility.representsInt(x)]
-                languageStructure[row[2]] = langItem
+                langItem["cldr_code"] = row[3].strip()
+                langItem["lang_name"] = row[4].strip()
+                langItem["alt_names"] = [x.strip().lower() for x in row[5].split(',')]
+                langItem["roman_script"] = True if row[6].upper() == 'TRUE' else False
+                langItem["has_diacritics"] = True if row[7].upper() == 'TRUE' else False
+                langItem["user_ids"] = [int(x) for x in row[8].split(',') if utility.representsInt(x)]
+                languageStructure[lang_code] = langItem
     except Exception, e:
         logging.debug("Problem retreiving language structure from url: " + str(e))
         return getLanguageStructureFromFile()

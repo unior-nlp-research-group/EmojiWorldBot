@@ -3,20 +3,14 @@
 import logging
 import urllib
 import urllib2
-import datetime
-from datetime import datetime
 from time import sleep
-import re
 
 # standard app engine imports
-from google.appengine.api import urlfetch
-from google.appengine.ext import ndb
 from google.appengine.ext import deferred
 from google.appengine.ext.db import datastore_errors
 
-import re
 import json
-from random import randint, shuffle
+from random import shuffle
 import requests
 
 import key
@@ -37,7 +31,6 @@ import parameters
 import quizGame
 
 import webapp2
-import sys
 
 # ================================
 WORK_IN_PROGRESS = False
@@ -234,8 +227,6 @@ def broadcast(sender, msg, restart_user=False, curs=None, enabledCount = 0):
         msg_debug = BROADCAST_COUNT_REPORT.format(str(total), str(enabledCount), str(disabled))
         tell(sender.chat_id, msg_debug)
 
-def getInfoCount():
-    return Person.query().count()
 
 def tell_masters(msg, markdown=False, one_time_keyboard=False):
     for id in key.MASTER_CHAT_ID:
@@ -272,7 +263,7 @@ def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
             p.setEnabled(False, put=True)
             #logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
         else:
-            logging.debug('Raising unknown err in tell() with msg = ' + msg)
+            logging.debug('Raising unknown err (code: {}) in tell() with msg = {}'.format(err.code, msg))
             raise err
     if sleepDelay:
         sleep(0.1)
@@ -512,8 +503,8 @@ def dealWithMasterCommands(p, input):
     #        tell(p.chat_id, "Wrong command format. Please type /addLanguageNameVariation  [lang_code] [new variation]")
     elif input.startswith('/testNormalize') and len(input) > commandBodyStartIndex:
         tell(p.chat_id, 'Normalized: ' + utility.normalizeString(input[commandBodyStartIndex:]))
-    elif input == '/getInfoCounts':
-        tell(p.chat_id, getInfoCount())
+    elif input == '/getPeopleCount':
+        tell(p.chat_id, person.getPeopleCount())
     elif input == '/testEmojiImg':
         sendEmojiImage(p.chat_id, '⭐', viaUrl=True)
         #sendImageFile(p.chat_id, file_id="AgADBAADwqcxG6KeCwt2serQEgVDNMkyQxkABOArQTl-gzb0cb8BAAEC")
@@ -1414,10 +1405,11 @@ class WebhookHandler(SafeRequestHandler):
             if text == '/help':
                 reply(INFO)
             elif text.startswith("/start"):
+                new_count = person.getPeopleCount(increment=True)
                 p = person.addPerson(chat_id, name, last_name, username)
                 reply("Hi {0},  welcome to EmojiWorldBot!\n".format(name) + TERMS_OF_SERVICE)
                 restart(p)
-                tell_masters("New user #{} : {}".format(getInfoCount(), p.getUserInfoString()))
+                tell_masters("New user #{} : {}".format(new_count, p.getUserInfoString()))
             else:
                 reply("Please press START or type /start or contact @kercos for support")
                 #reply("Something didn't work... please press START or type /startcontact @kercos")

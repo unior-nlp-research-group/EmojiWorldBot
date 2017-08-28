@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from google.appengine.ext import ndb
-import logging
+from google.appengine.api import memcache
 import key
 import languages
 import json, jsonUtil
@@ -95,6 +95,15 @@ def updateLanguageToDefault():
     for ent in toUpdate:
         ent.language = 'English'
     ndb.put_multi(toUpdate)
+
+def getPeopleCount(increment=False):
+    count = memcache.get("people_counter")
+    if count is None:
+        count = Person.query().count()
+        memcache.add('people_counter', count)
+    if increment:
+        count = memcache.incr("people_counter")
+    return count
 
 def exportAllToJson(file):
     structure = []
