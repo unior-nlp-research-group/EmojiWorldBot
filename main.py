@@ -849,7 +849,7 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
         else:
             numTagging = userTaggingEntry.getNumberOfTaggedEmoji()
         if (numTagging >= parameters.MAX_EMOJI_FOR_ANNOTATION_PER_PERSON_PER_LANGUAGE):
-            msg = "You have provided all the tagging we needed for {0}!\n" \
+            msg = "You have provided all the tags we needed for {0}!\n" \
                   "Thanks a lot for your help! 🙏\n".format(p.getLanguageCode())
             tell(p.chat_id, msg)
             sleep(1)
@@ -873,7 +873,7 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
                                                engShuffledTagMarkdownStr, useMarkdown)
         tell(p.chat_id, msg1, markdown=useMarkdown)
 
-        sendEmojiImage(p.chat_id, emoji)
+        sendEmojiImage(p.chat_id, emoji, viaUrl=True )
 
         kb= [[BUTTON_OR_TYPE_SKIP_GAME],[BUTTON_EXIT_GAME]]
         tell(p.chat_id, msg2, kb, markdown=useMarkdown)
