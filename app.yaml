@@ -61,8 +61,8 @@ handlers:
   static_dir: EmojiLanguages
   application_readable: true
 
-- url: /png_one_64
-  static_dir: png_one_64
+- url: /EmojiData
+  static_dir: EmojiData
   application_readable: true
 
 
@@ -70,8 +70,6 @@ libraries:
 - name: webapp2
   version: latest
 - name: PIL
-  version: latest
-- name: jinja2
   version: latest
 - name: ssl
   version: latest

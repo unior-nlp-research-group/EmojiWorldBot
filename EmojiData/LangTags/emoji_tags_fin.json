@@ -1,0 +1,7238 @@
+{
+    "⌚": [
+        "rannekello", 
+        "kello"
+    ], 
+    "⌛": [
+        "tiimalasi", 
+        "ajanotto", 
+        "hiekka"
+    ], 
+    "⏩": [
+        "eteen", 
+        "nuoli", 
+        "nappi", 
+        "kelaa eteenpäin", 
+        "2", 
+        "kelaus"
+    ], 
+    "⏪": [
+        "kelaa taaksepäin", 
+        "nuoli", 
+        "nappi", 
+        "2", 
+        "kelaus", 
+        "taakse"
+    ], 
+    "⏫": [
+        "nopeasti ylös", 
+        "ylös", 
+        "2", 
+        "kolmio", 
+        "nappi"
+    ], 
+    "⏬": [
+        "nopeasti alas", 
+        "alas", 
+        "2", 
+        "kolmio", 
+        "nappi"
+    ], 
+    "⏰": [
+        "herätyskello", 
+        "herätys", 
+        "kello"
+    ], 
+    "⏳": [
+        "tiimalasi", 
+        "valuva tiimalasi", 
+        "ajanotto", 
+        "hiekka"
+    ], 
+    "◽": [
+        "neliö", 
+        "pienehkö valkoinen neliö", 
+        "muoto"
+    ], 
+    "◾": [
+        "pienehkö musta neliö", 
+        "neliö", 
+        "muoto"
+    ], 
+    "☔": [
+        "sateenvarjo ja pisarat", 
+        "asuste", 
+        "sade", 
+        "sateenvarjo", 
+        "sää", 
+        "pisara"
+    ], 
+    "☕": [
+        "höyryävä", 
+        "kuuma juoma", 
+        "kahvi", 
+        "kuuma", 
+        "tee", 
+        "juoda", 
+        "juoma"
+    ], 
+    "♈": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "oinas", 
+        "oinas-merkki"
+    ], 
+    "♉": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "härkä-merkki", 
+        "härkä"
+    ], 
+    "♊": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "kaksoset", 
+        "kaksonen-merkki", 
+        "kaksonen"
+    ], 
+    "♋": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "rapu-merkki", 
+        "rapu"
+    ], 
+    "♌": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "leijona", 
+        "leijona-merkki"
+    ], 
+    "♍": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "neitsyt", 
+        "neitsyt-merkki"
+    ], 
+    "♎": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "vaaka-merkki", 
+        "vaaka"
+    ], 
+    "♏": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "skorpioni-merkki", 
+        "skorpioni"
+    ], 
+    "♐": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "jousimies-merkki", 
+        "jousimies"
+    ], 
+    "♑": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "kauris-merkki", 
+        "kauris"
+    ], 
+    "♒": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "vesimies", 
+        "vesimies-merkki"
+    ], 
+    "♓": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "kalat-merkki", 
+        "kalat"
+    ], 
+    "♿": [
+        "pyörätuoli", 
+        "esteettömyys"
+    ], 
+    "⚓": [
+        "ankkuri", 
+        "laiva", 
+        "meri", 
+        "merenkulku", 
+        "alus"
+    ], 
+    "⚡": [
+        "sähkö", 
+        "korkeajännite", 
+        "virta", 
+        "vaara", 
+        "sähköisku"
+    ], 
+    "⚪": [
+        "valkoinen ympyrä", 
+        "ympyrä", 
+        "muoto"
+    ], 
+    "⚫": [
+        "ympyrä", 
+        "musta ympyrä", 
+        "muoto"
+    ], 
+    "⚽": [
+        "pallo", 
+        "jalkapallo", 
+        "urheilu"
+    ], 
+    "⚾": [
+        "pallo", 
+        "baseball", 
+        "pesäpallo", 
+        "urheilu"
+    ], 
+    "⛄": [
+        "lumiukko ilman lunta", 
+        "kylmä", 
+        "lumiukko", 
+        "sää", 
+        "lumi"
+    ], 
+    "⛅": [
+        "aurinko pilvessä", 
+        "aurinko", 
+        "pilvi", 
+        "sää"
+    ], 
+    "⛎": [
+        "ophiuchus", 
+        "tähtikuvio", 
+        "käärmeenkantaja", 
+        "käärme", 
+        "horoskooppi", 
+        "horoskooppimerkki"
+    ], 
+    "⛔": [
+        "liikenne", 
+        "ei", 
+        "kielletty", 
+        "kielletty ajosuunta", 
+        "ajosuunta", 
+        "sallittu"
+    ], 
+    "⛪": [
+        "rakennus", 
+        "uskonto", 
+        "kirkko", 
+        "kristinusko"
+    ], 
+    "⛲": [
+        "suihku", 
+        "vesi", 
+        "suihkulähde"
+    ], 
+    "⛳": [
+        "lippu reiän päällä", 
+        "golf", 
+        "reikä", 
+        "lippu"
+    ], 
+    "⛵": [
+        "meri", 
+        "jahti", 
+        "purjevene", 
+        "vene", 
+        "ajoneuvo", 
+        "alus"
+    ], 
+    "⛺": [
+        "teltta", 
+        "telttailu", 
+        "leirintä"
+    ], 
+    "⛽": [
+        "polttoaine", 
+        "asema", 
+        "bensapumppu", 
+        "bensiini"
+    ], 
+    "✅": [
+        "oikein", 
+        "merkki", 
+        "valkoinen valintamerkki", 
+        "rasti", 
+        "laatikko", 
+        "V"
+    ], 
+    "✊": [
+        "isku", 
+        "nostettu nyrkki", 
+        "puristettu", 
+        "nyrkki", 
+        "käsi", 
+        "vartalo"
+    ], 
+    "✋": [
+        "nostettu käsi", 
+        "käsi", 
+        "vartalo"
+    ], 
+    "✨": [
+        "tähti", 
+        "loiste", 
+        "säihke"
+    ], 
+    "❌": [
+        "kertolasku", 
+        "punainen rastimerkki", 
+        "merkki", 
+        "X", 
+        "peruuta"
+    ], 
+    "❎": [
+        "kertolasku", 
+        "merkki", 
+        "rastimerkki", 
+        "laatikko", 
+        "peruuta", 
+        "X"
+    ], 
+    "❓": [
+        "välimerkki", 
+        "merkki", 
+        "kysymysmerkki"
+    ], 
+    "❔": [
+        "välimerkki", 
+        "merkki", 
+        "valkoinen kysymysmerkki", 
+        "kysymysmerkki"
+    ], 
+    "❕": [
+        "huutomerkki", 
+        "välimerkki", 
+        "valkoinen huutomerkki", 
+        "merkki"
+    ], 
+    "❗": [
+        "huutomerkki", 
+        "välimerkki", 
+        "merkki"
+    ], 
+    "➕": [
+        "matematiikka", 
+        "plusmerkki", 
+        "+", 
+        "plus"
+    ], 
+    "➖": [
+        "matematiikka", 
+        "miinusmerkki", 
+        "vähennys", 
+        "-", 
+        "miinus"
+    ], 
+    "➗": [
+        "matematiikka", 
+        "jako", 
+        "jakomerkki", 
+        "/", 
+        "jakoviiva"
+    ], 
+    "➰": [
+        "silmukka", 
+        "kaareva silmukka"
+    ], 
+    "➿": [
+        "silmukka", 
+        "2", 
+        "nauhuri", 
+        "vastaaja", 
+        "kaksoissilmukka"
+    ], 
+    "⬛": [
+        "iso musta neliö", 
+        "neliö", 
+        "muoto"
+    ], 
+    "⬜": [
+        "neliö", 
+        "iso valkoinen neliö", 
+        "muoto"
+    ], 
+    "⭐": [
+        "tähti", 
+        "valkoinen tähti"
+    ], 
+    "⭕": [
+        "ympyrä", 
+        "suuri ympyrä", 
+        "O"
+    ], 
+    "🀄": [
+        "punainen", 
+        "keskusta", 
+        "peli", 
+        "mahjong", 
+        "lohikäärme"
+    ], 
+    "🃏": [
+        "jokeri", 
+        "korttipeli", 
+        "kortti"
+    ], 
+    "🆎": [
+        "AB-veriryhmä", 
+        "ab", 
+        "veriryhmä"
+    ], 
+    "🆑": [
+        "kumita", 
+        "pyyhi-näppäin", 
+        "pyyhi", 
+        "cl"
+    ], 
+    "🆒": [
+        "laatikko", 
+        "siistiä", 
+        "teksti", 
+        "COOL"
+    ], 
+    "🆓": [
+        "laatikko", 
+        "ilmainen", 
+        "teksti", 
+        "FREE"
+    ], 
+    "🆔": [
+        "henkilöllisyystodistus", 
+        "identiteetti", 
+        "id", 
+        "ID"
+    ], 
+    "🆕": [
+        "laatikko", 
+        "NEW", 
+        "uusi", 
+        "uutta", 
+        "teksti"
+    ], 
+    "🆖": [
+        "good", 
+        "no", 
+        "teksti", 
+        "NG", 
+        "ng", 
+        "moka"
+    ], 
+    "🆗": [
+        "laatikko", 
+        "okay", 
+        "okei", 
+        "OK", 
+        "selvä"
+    ], 
+    "🆘": [
+        "apua", 
+        "SOS", 
+        "hätämerkki", 
+        "merkki"
+    ], 
+    "🆙": [
+        "merkki", 
+        "up", 
+        "UP!", 
+        "huutomerkki", 
+        "päivitys", 
+        "uutta"
+    ], 
+    "🆚": [
+        "versus", 
+        "VS", 
+        "merkki"
+    ], 
+    "🇦🇨": [
+        "Ascension-saari", 
+        "lippu"
+    ], 
+    "🇦🇩": [
+        "Andorra", 
+        "lippu"
+    ], 
+    "🇦🇪": [
+        "Arabiemiirikunnat", 
+        "lippu"
+    ], 
+    "🇦🇫": [
+        "Afganistan", 
+        "lippu"
+    ], 
+    "🇦🇬": [
+        "Antigua ja Barbuda", 
+        "lippu"
+    ], 
+    "🇦🇮": [
+        "Anguilla", 
+        "lippu"
+    ], 
+    "🇦🇱": [
+        "Albania", 
+        "lippu"
+    ], 
+    "🇦🇲": [
+        "Armenia", 
+        "lippu"
+    ], 
+    "🇦🇴": [
+        "Angola", 
+        "lippu"
+    ], 
+    "🇦🇶": [
+        "Antarktis", 
+        "lippu"
+    ], 
+    "🇦🇷": [
+        "Argentiina", 
+        "lippu"
+    ], 
+    "🇦🇸": [
+        "Amerikan Samoa", 
+        "lippu"
+    ], 
+    "🇦🇹": [
+        "Itävalta", 
+        "lippu"
+    ], 
+    "🇦🇺": [
+        "Australia", 
+        "lippu"
+    ], 
+    "🇦🇼": [
+        "Aruba", 
+        "lippu"
+    ], 
+    "🇦🇽": [
+        "Ahvenanmaa", 
+        "lippu"
+    ], 
+    "🇦🇿": [
+        "Azerbaidžan", 
+        "lippu"
+    ], 
+    "🇧🇦": [
+        "Bosnia ja Hertsegovina", 
+        "lippu"
+    ], 
+    "🇧🇧": [
+        "Barbados", 
+        "lippu"
+    ], 
+    "🇧🇩": [
+        "Bangladesh", 
+        "lippu"
+    ], 
+    "🇧🇪": [
+        "Belgia", 
+        "lippu"
+    ], 
+    "🇧🇫": [
+        "Burkina Faso", 
+        "lippu"
+    ], 
+    "🇧🇬": [
+        "Bulgaria", 
+        "lippu"
+    ], 
+    "🇧🇭": [
+        "Bahrain", 
+        "lippu"
+    ], 
+    "🇧🇮": [
+        "Burundi", 
+        "lippu"
+    ], 
+    "🇧🇯": [
+        "Benin", 
+        "lippu"
+    ], 
+    "🇧🇱": [
+        "Saint-Barthélemy", 
+        "lippu"
+    ], 
+    "🇧🇲": [
+        "Bermuda", 
+        "lippu"
+    ], 
+    "🇧🇳": [
+        "Brunei", 
+        "lippu"
+    ], 
+    "🇧🇴": [
+        "Bolivia", 
+        "lippu"
+    ], 
+    "🇧🇶": [
+        "Karibian Alankomaat", 
+        "lippu"
+    ], 
+    "🇧🇷": [
+        "Brasilia", 
+        "lippu"
+    ], 
+    "🇧🇸": [
+        "Bahama", 
+        "lippu"
+    ], 
+    "🇧🇹": [
+        "Bhutan", 
+        "lippu"
+    ], 
+    "🇧🇻": [
+        "Bouvet’nsaari", 
+        "lippu"
+    ], 
+    "🇧🇼": [
+        "Botswana", 
+        "lippu"
+    ], 
+    "🇧🇾": [
+        "Valko-Venäjä", 
+        "lippu"
+    ], 
+    "🇧🇿": [
+        "Belize", 
+        "lippu"
+    ], 
+    "🇨🇦": [
+        "Kanada", 
+        "lippu"
+    ], 
+    "🇨🇨": [
+        "Kookossaaret (Keelingsaaret)", 
+        "lippu"
+    ], 
+    "🇨🇩": [
+        "Kongon demokraattinen tasavalta", 
+        "lippu"
+    ], 
+    "🇨🇫": [
+        "Keski-Afrikan tasavalta", 
+        "lippu"
+    ], 
+    "🇨🇬": [
+        "Kongon tasavalta", 
+        "lippu"
+    ], 
+    "🇨🇭": [
+        "Sveitsi", 
+        "lippu"
+    ], 
+    "🇨🇮": [
+        "Norsunluurannikko", 
+        "lippu"
+    ], 
+    "🇨🇰": [
+        "Cookinsaaret", 
+        "lippu"
+    ], 
+    "🇨🇱": [
+        "Chile", 
+        "lippu"
+    ], 
+    "🇨🇲": [
+        "Kamerun", 
+        "lippu"
+    ], 
+    "🇨🇳": [
+        "Kiina", 
+        "lippu"
+    ], 
+    "🇨🇴": [
+        "Kolumbia", 
+        "lippu"
+    ], 
+    "🇨🇵": [
+        "Clippertoninsaari", 
+        "lippu"
+    ], 
+    "🇨🇷": [
+        "Costa Rica", 
+        "lippu"
+    ], 
+    "🇨🇺": [
+        "Kuuba", 
+        "lippu"
+    ], 
+    "🇨🇻": [
+        "Kap Verde", 
+        "lippu"
+    ], 
+    "🇨🇼": [
+        "Curaçao", 
+        "lippu"
+    ], 
+    "🇨🇽": [
+        "Joulusaari", 
+        "lippu"
+    ], 
+    "🇨🇾": [
+        "Kypros", 
+        "lippu"
+    ], 
+    "🇨🇿": [
+        "Tšekki", 
+        "lippu"
+    ], 
+    "🇩🇪": [
+        "Saksa", 
+        "lippu"
+    ], 
+    "🇩🇬": [
+        "Diego Garcia", 
+        "lippu"
+    ], 
+    "🇩🇯": [
+        "Djibouti", 
+        "lippu"
+    ], 
+    "🇩🇰": [
+        "Tanska", 
+        "lippu"
+    ], 
+    "🇩🇲": [
+        "Dominica", 
+        "lippu"
+    ], 
+    "🇩🇴": [
+        "Dominikaaninen tasavalta", 
+        "lippu"
+    ], 
+    "🇩🇿": [
+        "Algeria", 
+        "lippu"
+    ], 
+    "🇪🇦": [
+        "Ceuta ja Melilla", 
+        "lippu"
+    ], 
+    "🇪🇨": [
+        "Ecuador", 
+        "lippu"
+    ], 
+    "🇪🇪": [
+        "Viro", 
+        "lippu"
+    ], 
+    "🇪🇬": [
+        "Egypti", 
+        "lippu"
+    ], 
+    "🇪🇭": [
+        "Länsi-Sahara", 
+        "lippu"
+    ], 
+    "🇪🇷": [
+        "Eritrea", 
+        "lippu"
+    ], 
+    "🇪🇸": [
+        "Espanja", 
+        "lippu"
+    ], 
+    "🇪🇹": [
+        "Etiopia", 
+        "lippu"
+    ], 
+    "🇪🇺": [
+        "Euroopan unioni", 
+        "lippu"
+    ], 
+    "🇫🇮": [
+        "Suomi", 
+        "lippu"
+    ], 
+    "🇫🇯": [
+        "Fidži", 
+        "lippu"
+    ], 
+    "🇫🇰": [
+        "Falklandinsaaret", 
+        "lippu"
+    ], 
+    "🇫🇲": [
+        "Mikronesian liittovaltio", 
+        "lippu"
+    ], 
+    "🇫🇴": [
+        "Färsaaret", 
+        "lippu"
+    ], 
+    "🇫🇷": [
+        "Ranska", 
+        "lippu"
+    ], 
+    "🇬🇦": [
+        "Gabon", 
+        "lippu"
+    ], 
+    "🇬🇧": [
+        "Iso-Britannia", 
+        "lippu"
+    ], 
+    "🇬🇩": [
+        "Grenada", 
+        "lippu"
+    ], 
+    "🇬🇪": [
+        "Georgia", 
+        "lippu"
+    ], 
+    "🇬🇫": [
+        "Ranskan Guayana", 
+        "lippu"
+    ], 
+    "🇬🇬": [
+        "Guernsey", 
+        "lippu"
+    ], 
+    "🇬🇭": [
+        "Ghana", 
+        "lippu"
+    ], 
+    "🇬🇮": [
+        "Gibraltar", 
+        "lippu"
+    ], 
+    "🇬🇱": [
+        "Grönlanti", 
+        "lippu"
+    ], 
+    "🇬🇲": [
+        "Gambia", 
+        "lippu"
+    ], 
+    "🇬🇳": [
+        "Guinea", 
+        "lippu"
+    ], 
+    "🇬🇵": [
+        "Guadeloupe", 
+        "lippu"
+    ], 
+    "🇬🇶": [
+        "Päiväntasaajan Guinea", 
+        "lippu"
+    ], 
+    "🇬🇷": [
+        "Kreikka", 
+        "lippu"
+    ], 
+    "🇬🇸": [
+        "Etelä-Georgia ja Eteläiset Sandwichsaaret", 
+        "lippu"
+    ], 
+    "🇬🇹": [
+        "Guatemala", 
+        "lippu"
+    ], 
+    "🇬🇺": [
+        "Guam", 
+        "lippu"
+    ], 
+    "🇬🇼": [
+        "Guinea-Bissau", 
+        "lippu"
+    ], 
+    "🇬🇾": [
+        "Guyana", 
+        "lippu"
+    ], 
+    "🇭🇰": [
+        "Hongkong – Kiinan e.h.a.", 
+        "lippu"
+    ], 
+    "🇭🇲": [
+        "Heard ja McDonaldinsaaret", 
+        "lippu"
+    ], 
+    "🇭🇳": [
+        "Honduras", 
+        "lippu"
+    ], 
+    "🇭🇷": [
+        "Kroatia", 
+        "lippu"
+    ], 
+    "🇭🇹": [
+        "Haiti", 
+        "lippu"
+    ], 
+    "🇭🇺": [
+        "Unkari", 
+        "lippu"
+    ], 
+    "🇮🇨": [
+        "Kanariansaaret", 
+        "lippu"
+    ], 
+    "🇮🇩": [
+        "Indonesia", 
+        "lippu"
+    ], 
+    "🇮🇪": [
+        "Irlanti", 
+        "lippu"
+    ], 
+    "🇮🇱": [
+        "Israel", 
+        "lippu"
+    ], 
+    "🇮🇲": [
+        "Mansaari", 
+        "lippu"
+    ], 
+    "🇮🇳": [
+        "Intia", 
+        "lippu"
+    ], 
+    "🇮🇴": [
+        "Brittiläinen Intian valtameren alue", 
+        "lippu"
+    ], 
+    "🇮🇶": [
+        "Irak", 
+        "lippu"
+    ], 
+    "🇮🇷": [
+        "Iran", 
+        "lippu"
+    ], 
+    "🇮🇸": [
+        "Islanti", 
+        "lippu"
+    ], 
+    "🇮🇹": [
+        "Italia", 
+        "lippu"
+    ], 
+    "🇯🇪": [
+        "Jersey", 
+        "lippu"
+    ], 
+    "🇯🇲": [
+        "Jamaika", 
+        "lippu"
+    ], 
+    "🇯🇴": [
+        "Jordania", 
+        "lippu"
+    ], 
+    "🇯🇵": [
+        "Japani", 
+        "lippu"
+    ], 
+    "🇰🇪": [
+        "Kenia", 
+        "lippu"
+    ], 
+    "🇰🇬": [
+        "Kirgisia", 
+        "lippu"
+    ], 
+    "🇰🇭": [
+        "Kambodža", 
+        "lippu"
+    ], 
+    "🇰🇮": [
+        "Kiribati", 
+        "lippu"
+    ], 
+    "🇰🇲": [
+        "Komorit", 
+        "lippu"
+    ], 
+    "🇰🇳": [
+        "Saint Kitts ja Nevis", 
+        "lippu"
+    ], 
+    "🇰🇵": [
+        "Pohjois-Korea", 
+        "lippu"
+    ], 
+    "🇰🇷": [
+        "Etelä-Korea", 
+        "lippu"
+    ], 
+    "🇰🇼": [
+        "Kuwait", 
+        "lippu"
+    ], 
+    "🇰🇾": [
+        "Caymansaaret", 
+        "lippu"
+    ], 
+    "🇰🇿": [
+        "Kazakstan", 
+        "lippu"
+    ], 
+    "🇱🇦": [
+        "Laos", 
+        "lippu"
+    ], 
+    "🇱🇧": [
+        "Libanon", 
+        "lippu"
+    ], 
+    "🇱🇨": [
+        "Saint Lucia", 
+        "lippu"
+    ], 
+    "🇱🇮": [
+        "Liechtenstein", 
+        "lippu"
+    ], 
+    "🇱🇰": [
+        "Sri Lanka", 
+        "lippu"
+    ], 
+    "🇱🇷": [
+        "Liberia", 
+        "lippu"
+    ], 
+    "🇱🇸": [
+        "Lesotho", 
+        "lippu"
+    ], 
+    "🇱🇹": [
+        "Liettua", 
+        "lippu"
+    ], 
+    "🇱🇺": [
+        "Luxemburg", 
+        "lippu"
+    ], 
+    "🇱🇻": [
+        "Latvia", 
+        "lippu"
+    ], 
+    "🇱🇾": [
+        "Libya", 
+        "lippu"
+    ], 
+    "🇲🇦": [
+        "Marokko", 
+        "lippu"
+    ], 
+    "🇲🇨": [
+        "Monaco", 
+        "lippu"
+    ], 
+    "🇲🇩": [
+        "Moldova", 
+        "lippu"
+    ], 
+    "🇲🇪": [
+        "Montenegro", 
+        "lippu"
+    ], 
+    "🇲🇫": [
+        "Saint-Martin", 
+        "lippu"
+    ], 
+    "🇲🇬": [
+        "Madagaskar", 
+        "lippu"
+    ], 
+    "🇲🇭": [
+        "Marshallinsaaret", 
+        "lippu"
+    ], 
+    "🇲🇰": [
+        "Makedonia", 
+        "lippu"
+    ], 
+    "🇲🇱": [
+        "Mali", 
+        "lippu"
+    ], 
+    "🇲🇲": [
+        "Myanmar (Burma)", 
+        "lippu"
+    ], 
+    "🇲🇳": [
+        "Mongolia", 
+        "lippu"
+    ], 
+    "🇲🇴": [
+        "Macao – Kiinan e.h.a.", 
+        "lippu"
+    ], 
+    "🇲🇵": [
+        "Pohjois-Mariaanit", 
+        "lippu"
+    ], 
+    "🇲🇶": [
+        "Martinique", 
+        "lippu"
+    ], 
+    "🇲🇷": [
+        "Mauritania", 
+        "lippu"
+    ], 
+    "🇲🇸": [
+        "Montserrat", 
+        "lippu"
+    ], 
+    "🇲🇹": [
+        "Malta", 
+        "lippu"
+    ], 
+    "🇲🇺": [
+        "Mauritius", 
+        "lippu"
+    ], 
+    "🇲🇻": [
+        "Malediivit", 
+        "lippu"
+    ], 
+    "🇲🇼": [
+        "Malawi", 
+        "lippu"
+    ], 
+    "🇲🇽": [
+        "Meksiko", 
+        "lippu"
+    ], 
+    "🇲🇾": [
+        "Malesia", 
+        "lippu"
+    ], 
+    "🇲🇿": [
+        "Mosambik", 
+        "lippu"
+    ], 
+    "🇳🇦": [
+        "Namibia", 
+        "lippu"
+    ], 
+    "🇳🇨": [
+        "Uusi-Kaledonia", 
+        "lippu"
+    ], 
+    "🇳🇪": [
+        "Niger", 
+        "lippu"
+    ], 
+    "🇳🇫": [
+        "Norfolkinsaari", 
+        "lippu"
+    ], 
+    "🇳🇬": [
+        "Nigeria", 
+        "lippu"
+    ], 
+    "🇳🇮": [
+        "Nicaragua", 
+        "lippu"
+    ], 
+    "🇳🇱": [
+        "Alankomaat", 
+        "lippu"
+    ], 
+    "🇳🇴": [
+        "Norja", 
+        "lippu"
+    ], 
+    "🇳🇵": [
+        "Nepal", 
+        "lippu"
+    ], 
+    "🇳🇷": [
+        "Nauru", 
+        "lippu"
+    ], 
+    "🇳🇺": [
+        "Niue", 
+        "lippu"
+    ], 
+    "🇳🇿": [
+        "Uusi-Seelanti", 
+        "lippu"
+    ], 
+    "🇴🇲": [
+        "Oman", 
+        "lippu"
+    ], 
+    "🇵🇦": [
+        "Panama", 
+        "lippu"
+    ], 
+    "🇵🇪": [
+        "Peru", 
+        "lippu"
+    ], 
+    "🇵🇫": [
+        "Ranskan Polynesia", 
+        "lippu"
+    ], 
+    "🇵🇬": [
+        "Papua-Uusi-Guinea", 
+        "lippu"
+    ], 
+    "🇵🇭": [
+        "Filippiinit", 
+        "lippu"
+    ], 
+    "🇵🇰": [
+        "Pakistan", 
+        "lippu"
+    ], 
+    "🇵🇱": [
+        "Puola", 
+        "lippu"
+    ], 
+    "🇵🇲": [
+        "Saint-Pierre ja Miquelon", 
+        "lippu"
+    ], 
+    "🇵🇳": [
+        "Pitcairn", 
+        "lippu"
+    ], 
+    "🇵🇷": [
+        "Puerto Rico", 
+        "lippu"
+    ], 
+    "🇵🇸": [
+        "Palestiinalaisalueet", 
+        "lippu"
+    ], 
+    "🇵🇹": [
+        "Portugali", 
+        "lippu"
+    ], 
+    "🇵🇼": [
+        "Palau", 
+        "lippu"
+    ], 
+    "🇵🇾": [
+        "Paraguay", 
+        "lippu"
+    ], 
+    "🇶🇦": [
+        "Qatar", 
+        "lippu"
+    ], 
+    "🇷🇪": [
+        "Réunion", 
+        "lippu"
+    ], 
+    "🇷🇴": [
+        "Romania", 
+        "lippu"
+    ], 
+    "🇷🇸": [
+        "Serbia", 
+        "lippu"
+    ], 
+    "🇷🇺": [
+        "Venäjä", 
+        "lippu"
+    ], 
+    "🇷🇼": [
+        "Ruanda", 
+        "lippu"
+    ], 
+    "🇸🇦": [
+        "Saudi-Arabia", 
+        "lippu"
+    ], 
+    "🇸🇧": [
+        "Salomonsaaret", 
+        "lippu"
+    ], 
+    "🇸🇨": [
+        "Seychellit", 
+        "lippu"
+    ], 
+    "🇸🇩": [
+        "Sudan", 
+        "lippu"
+    ], 
+    "🇸🇪": [
+        "Ruotsi", 
+        "lippu"
+    ], 
+    "🇸🇬": [
+        "Singapore", 
+        "lippu"
+    ], 
+    "🇸🇭": [
+        "Saint Helena", 
+        "lippu"
+    ], 
+    "🇸🇮": [
+        "Slovenia", 
+        "lippu"
+    ], 
+    "🇸🇯": [
+        "Huippuvuoret ja Jan Mayen", 
+        "lippu"
+    ], 
+    "🇸🇰": [
+        "Slovakia", 
+        "lippu"
+    ], 
+    "🇸🇱": [
+        "Sierra Leone", 
+        "lippu"
+    ], 
+    "🇸🇲": [
+        "San Marino", 
+        "lippu"
+    ], 
+    "🇸🇳": [
+        "Senegal", 
+        "lippu"
+    ], 
+    "🇸🇴": [
+        "Somalia", 
+        "lippu"
+    ], 
+    "🇸🇷": [
+        "Suriname", 
+        "lippu"
+    ], 
+    "🇸🇸": [
+        "Etelä-Sudan", 
+        "lippu"
+    ], 
+    "🇸🇹": [
+        "São Tomé ja Príncipe", 
+        "lippu"
+    ], 
+    "🇸🇻": [
+        "El Salvador", 
+        "lippu"
+    ], 
+    "🇸🇽": [
+        "Sint Maarten", 
+        "lippu"
+    ], 
+    "🇸🇾": [
+        "Syyria", 
+        "lippu"
+    ], 
+    "🇸🇿": [
+        "Swazimaa", 
+        "lippu"
+    ], 
+    "🇹🇦": [
+        "Tristan da Cunha", 
+        "lippu"
+    ], 
+    "🇹🇨": [
+        "Turks- ja Caicossaaret", 
+        "lippu"
+    ], 
+    "🇹🇩": [
+        "Tšad", 
+        "lippu"
+    ], 
+    "🇹🇫": [
+        "Ranskan eteläiset alueet", 
+        "lippu"
+    ], 
+    "🇹🇬": [
+        "Togo", 
+        "lippu"
+    ], 
+    "🇹🇭": [
+        "Thaimaa", 
+        "lippu"
+    ], 
+    "🇹🇯": [
+        "Tadžikistan", 
+        "lippu"
+    ], 
+    "🇹🇰": [
+        "Tokelau", 
+        "lippu"
+    ], 
+    "🇹🇱": [
+        "Itä-Timor", 
+        "lippu"
+    ], 
+    "🇹🇲": [
+        "Turkmenistan", 
+        "lippu"
+    ], 
+    "🇹🇳": [
+        "Tunisia", 
+        "lippu"
+    ], 
+    "🇹🇴": [
+        "Tonga", 
+        "lippu"
+    ], 
+    "🇹🇷": [
+        "Turkki", 
+        "lippu"
+    ], 
+    "🇹🇹": [
+        "Trinidad ja Tobago", 
+        "lippu"
+    ], 
+    "🇹🇻": [
+        "Tuvalu", 
+        "lippu"
+    ], 
+    "🇹🇼": [
+        "Taiwan", 
+        "lippu"
+    ], 
+    "🇹🇿": [
+        "Tansania", 
+        "lippu"
+    ], 
+    "🇺🇦": [
+        "Ukraina", 
+        "lippu"
+    ], 
+    "🇺🇬": [
+        "Uganda", 
+        "lippu"
+    ], 
+    "🇺🇲": [
+        "Yhdysvaltain erillissaaret", 
+        "lippu"
+    ], 
+    "🇺🇳": [
+        "Yhdistyneet kansakunnat", 
+        "lippu"
+    ], 
+    "🇺🇸": [
+        "Yhdysvallat", 
+        "lippu"
+    ], 
+    "🇺🇾": [
+        "Uruguay", 
+        "lippu"
+    ], 
+    "🇺🇿": [
+        "Uzbekistan", 
+        "lippu"
+    ], 
+    "🇻🇦": [
+        "Vatikaani", 
+        "lippu"
+    ], 
+    "🇻🇨": [
+        "Saint Vincent ja Grenadiinit", 
+        "lippu"
+    ], 
+    "🇻🇪": [
+        "Venezuela", 
+        "lippu"
+    ], 
+    "🇻🇬": [
+        "Brittiläiset Neitsytsaaret", 
+        "lippu"
+    ], 
+    "🇻🇮": [
+        "Yhdysvaltain Neitsytsaaret", 
+        "lippu"
+    ], 
+    "🇻🇳": [
+        "Vietnam", 
+        "lippu"
+    ], 
+    "🇻🇺": [
+        "Vanuatu", 
+        "lippu"
+    ], 
+    "🇼🇫": [
+        "Wallis ja Futuna", 
+        "lippu"
+    ], 
+    "🇼🇸": [
+        "Samoa", 
+        "lippu"
+    ], 
+    "🇽🇰": [
+        "Kosovo", 
+        "lippu"
+    ], 
+    "🇾🇪": [
+        "Jemen", 
+        "lippu"
+    ], 
+    "🇾🇹": [
+        "Mayotte", 
+        "lippu"
+    ], 
+    "🇿🇦": [
+        "Etelä-Afrikka", 
+        "lippu"
+    ], 
+    "🇿🇲": [
+        "Sambia", 
+        "lippu"
+    ], 
+    "🇿🇼": [
+        "Zimbabwe", 
+        "lippu"
+    ], 
+    "🈁": [
+        "katakana", 
+        "japani", 
+        "kirjoitusmerkki", 
+        "täällä-kirjainmerkki"
+    ], 
+    "🈚": [
+        "japani", 
+        "kirjoitusmerkki", 
+        "maksuton-kirjainmerkki"
+    ], 
+    "🈯": [
+        "varattu-kirjainmerkki", 
+        "japani", 
+        "kirjoitusmerkki"
+    ], 
+    "🈲": [
+        "kielletty-kirjoitusmerkki", 
+        "japani", 
+        "kirjoitusmerkki"
+    ], 
+    "🈳": [
+        "tyhjä-kirjoitusmerkki", 
+        "kiina", 
+        "kirjoitusmerkki"
+    ], 
+    "🈴": [
+        "kirjoitusmerkki", 
+        "kiina", 
+        "hyväksytty arvosana -kirjoitusmerkki"
+    ], 
+    "🈵": [
+        "täynnä-kirjoitusmerkki", 
+        "kiina", 
+        "kirjoitusmerkki"
+    ], 
+    "🈶": [
+        "maksullinen-kirjainmerkki", 
+        "japani", 
+        "kirjoitusmerkki"
+    ], 
+    "🈸": [
+        "kiina", 
+        "kirjoitusmerkki", 
+        "hakemus-kirjoitusmerkki"
+    ], 
+    "🈹": [
+        "japani", 
+        "kirjoitusmerkki", 
+        "alennus-kirjoitusmerkki"
+    ], 
+    "🈺": [
+        "kiina", 
+        "kirjoitusmerkki", 
+        "avoinna-kirjoitusmerkki"
+    ], 
+    "🉐": [
+        "hyvä ostos -kirjainmerkki", 
+        "japani", 
+        "kirjoitusmerkki"
+    ], 
+    "🉑": [
+        "hyväksyttävä-kirjoitusmerkki", 
+        "kiina", 
+        "kirjoitusmerkki"
+    ], 
+    "🌀": [
+        "sykloni", 
+        "pyörremyrsky", 
+        "hirmumyrsky", 
+        "pyörre", 
+        "sää"
+    ], 
+    "🌁": [
+        "sumu", 
+        "sumuinen", 
+        "sää"
+    ], 
+    "🌂": [
+        "sateenvarjo", 
+        "suljettu sateenvarjo", 
+        "asuste", 
+        "sade", 
+        "sää"
+    ], 
+    "🌃": [
+        "tähti", 
+        "tähtitaivas", 
+        "sää", 
+        "yö"
+    ], 
+    "🌄": [
+        "aamu", 
+        "auringonnousu vuorten takaa", 
+        "aurinko", 
+        "sää"
+    ], 
+    "🌅": [
+        "aamu", 
+        "aurinko", 
+        "sää", 
+        "auringonnousu"
+    ], 
+    "🌆": [
+        "kaupunki", 
+        "sää", 
+        "aurinko", 
+        "kaupunkimaisema illanhämärässä", 
+        "ilta"
+    ], 
+    "🌇": [
+        "auringonlasku", 
+        "aurinko", 
+        "sää", 
+        "ilta"
+    ], 
+    "🌈": [
+        "aurinko", 
+        "sade", 
+        "sää", 
+        "sateenkaari"
+    ], 
+    "🌉": [
+        "silta yöllä", 
+        "silta", 
+        "yö", 
+        "sää"
+    ], 
+    "🌊": [
+        "meri", 
+        "tyrsky", 
+        "aalto", 
+        "valtameri", 
+        "vesi"
+    ], 
+    "🌋": [
+        "tulivuori", 
+        "vuori", 
+        "tulivuorenpurkaus", 
+        "sää"
+    ], 
+    "🌌": [
+        "linnunrata", 
+        "avaruus", 
+        "sää", 
+        "galaksi"
+    ], 
+    "🌍": [
+        "maapallo", 
+        "Eurooppa", 
+        "maailma", 
+        "Afrikka", 
+        "maapallo jossa näkyy Eurooppa ja Afrikka"
+    ], 
+    "🌎": [
+        "maapallo", 
+        "Amerikka", 
+        "maapallo jossa näkyy Amerikka", 
+        "maailma"
+    ], 
+    "🌏": [
+        "maapallo", 
+        "Australia", 
+        "maailma", 
+        "Aasia", 
+        "maapallo jossa näkyy Aasia ja Australia"
+    ], 
+    "🌐": [
+        "maapallo", 
+        "pituuspiirit", 
+        "maapallo jossa näkyy pituuspiirit", 
+        "maailma"
+    ], 
+    "🌑": [
+        "pimeä", 
+        "uusikuu", 
+        "kuu", 
+        "taivaankappale", 
+        "sää"
+    ], 
+    "🌒": [
+        "kuu", 
+        "kasvava", 
+        "kasvava kuunsirppi", 
+        "sää", 
+        "sirppi", 
+        "taivaankappale"
+    ], 
+    "🌓": [
+        "taivaankappale", 
+        "kuu", 
+        "sää", 
+        "ensimmäinen neljänneskuu", 
+        "puolikuu"
+    ], 
+    "🌔": [
+        "kasvava", 
+        "kuu", 
+        "kasvava puolikuu", 
+        "taivaankappale", 
+        "sää"
+    ], 
+    "🌕": [
+        "täysi", 
+        "täysikuu", 
+        "kuu", 
+        "taivaankappale", 
+        "sää"
+    ], 
+    "🌖": [
+        "vähenevä puolikuu", 
+        "kuu", 
+        "vähenevä", 
+        "taivaankappale", 
+        "sää"
+    ], 
+    "🌗": [
+        "viimeinen neljänneskuu", 
+        "kuu", 
+        "taivaankappale", 
+        "sää", 
+        "puolikuu"
+    ], 
+    "🌘": [
+        "vähenevä kuunsirppi", 
+        "kuu", 
+        "sää", 
+        "sirppi", 
+        "taivaankappale", 
+        "vähenevä"
+    ], 
+    "🌙": [
+        "sirppi", 
+        "kuu", 
+        "kuunsirppi", 
+        "taivaankappale", 
+        "sää"
+    ], 
+    "🌚": [
+        "uudenkuun kasvot", 
+        "kuu", 
+        "kasvot", 
+        "taivaankappale", 
+        "sää"
+    ], 
+    "🌛": [
+        "kuu", 
+        "puolikuu", 
+        "kasvava puolikuu kasvoilla", 
+        "kasvot", 
+        "sää", 
+        "taivaankappale"
+    ], 
+    "🌜": [
+        "vähenevä puolikuu kasvoilla", 
+        "kuu", 
+        "puolikuu", 
+        "kasvot", 
+        "sää", 
+        "taivaankappale"
+    ], 
+    "🌝": [
+        "täysikuu kasvoilla", 
+        "kuu", 
+        "valo", 
+        "kasvot", 
+        "sää"
+    ], 
+    "🌞": [
+        "valo", 
+        "paiste", 
+        "kasvot", 
+        "sää", 
+        "kuu", 
+        "aurinko kasvoilla"
+    ], 
+    "🌟": [
+        "tähti", 
+        "valo", 
+        "loiste", 
+        "säihke", 
+        "loistava tähti"
+    ], 
+    "🌠": [
+        "tähti", 
+        "avaruus", 
+        "toive", 
+        "tähdenlento"
+    ], 
+    "🌭": [
+        "hot dog", 
+        "nakki", 
+        "sämpylä", 
+        "hodari", 
+        "makkara"
+    ], 
+    "🌮": [
+        "meksikolainen", 
+        "taco"
+    ], 
+    "🌯": [
+        "meksikolainen", 
+        "burrito"
+    ], 
+    "🌰": [
+        "kasvi", 
+        "kastanja"
+    ], 
+    "🌱": [
+        "verso", 
+        "kasvi", 
+        "taimi"
+    ], 
+    "🌲": [
+        "kasvi", 
+        "ikivihreä", 
+        "puu"
+    ], 
+    "🌳": [
+        "palmu", 
+        "kasvi", 
+        "lehtipuu", 
+        "puu"
+    ], 
+    "🌴": [
+        "palmu", 
+        "kasvi", 
+        "puu"
+    ], 
+    "🌵": [
+        "kasvi", 
+        "kaktus"
+    ], 
+    "🌷": [
+        "kasvi", 
+        "tulppaani", 
+        "kukka"
+    ], 
+    "🌸": [
+        "kasvi", 
+        "kukka", 
+        "kirsikankukka", 
+        "kirsikka"
+    ], 
+    "🌹": [
+        "kasvi", 
+        "ruusu", 
+        "kukka"
+    ], 
+    "🌺": [
+        "kasvi", 
+        "kukka", 
+        "kiinanruusu"
+    ], 
+    "🌻": [
+        "kasvi", 
+        "auringonkukka", 
+        "aurinko", 
+        "kukka"
+    ], 
+    "🌼": [
+        "kukinta", 
+        "kasvi", 
+        "kukka"
+    ], 
+    "🌽": [
+        "maissi", 
+        "kasvi", 
+        "tähkä", 
+        "maissintähkä"
+    ], 
+    "🌾": [
+        "kasvi", 
+        "riisikasvi", 
+        "tähkä", 
+        "riisi"
+    ], 
+    "🌿": [
+        "kasvi", 
+        "lehti", 
+        "yrtti"
+    ], 
+    "🍀": [
+        "kasvi", 
+        "neliapila", 
+        "lehti", 
+        "neljä", 
+        "nelilehtinen"
+    ], 
+    "🍁": [
+        "vaahteranlehti", 
+        "kasvi", 
+        "vaahtera", 
+        "lehti", 
+        "putoava"
+    ], 
+    "🍂": [
+        "kasvi", 
+        "lehti", 
+        "putoava", 
+        "pudonnut lehti"
+    ], 
+    "🍃": [
+        "kasvi", 
+        "lehti tuulessa", 
+        "lehti", 
+        "tuuli", 
+        "puhaltaa"
+    ], 
+    "🍄": [
+        "rihmasto", 
+        "sieni"
+    ], 
+    "🍅": [
+        "kasvi", 
+        "tomaatti", 
+        "vihannes", 
+        "kasvis"
+    ], 
+    "🍆": [
+        "kasvi", 
+        "munakoiso", 
+        "vihannes", 
+        "kasvis"
+    ], 
+    "🍇": [
+        "hedelmä", 
+        "kasvi", 
+        "viinirypäle", 
+        "rypäle", 
+        "viinirypäleet"
+    ], 
+    "🍈": [
+        "hedelmä", 
+        "kasvi", 
+        "meloni"
+    ], 
+    "🍉": [
+        "hedelmä", 
+        "kasvi", 
+        "vesimeloni"
+    ], 
+    "🍊": [
+        "hedelmä", 
+        "kasvi", 
+        "appelsiini", 
+        "mandariini"
+    ], 
+    "🍋": [
+        "hedelmä", 
+        "kasvi", 
+        "sitruuna", 
+        "sitrus"
+    ], 
+    "🍌": [
+        "hedelmä", 
+        "banaani", 
+        "kasvi"
+    ], 
+    "🍍": [
+        "hedelmä", 
+        "kasvi", 
+        "ananas"
+    ], 
+    "🍎": [
+        "hedelmä", 
+        "kasvi", 
+        "punainen", 
+        "punainen omena", 
+        "omena"
+    ], 
+    "🍏": [
+        "hedelmä", 
+        "kasvi", 
+        "vihreä", 
+        "vihreä omena", 
+        "omena"
+    ], 
+    "🍐": [
+        "hedelmä", 
+        "kasvi", 
+        "päärynä"
+    ], 
+    "🍑": [
+        "hedelmä", 
+        "kasvi", 
+        "persikka"
+    ], 
+    "🍒": [
+        "hedelmä", 
+        "kasvi", 
+        "kirsikat", 
+        "kirsikka"
+    ], 
+    "🍓": [
+        "hedelmä", 
+        "kasvi", 
+        "marja", 
+        "mansikka"
+    ], 
+    "🍔": [
+        "hampurilainen", 
+        "jauhelihapihvi"
+    ], 
+    "🍕": [
+        "juusto", 
+        "siivu", 
+        "pizza"
+    ], 
+    "🍖": [
+        "liha", 
+        "lihaa luineen", 
+        "luu"
+    ], 
+    "🍗": [
+        "siipikarja", 
+        "luu", 
+        "koipi", 
+        "kanankoipi", 
+        "kana"
+    ], 
+    "🍘": [
+        "riisi", 
+        "riisikakku", 
+        "keksi"
+    ], 
+    "🍙": [
+        "pallo", 
+        "riisipallo", 
+        "japanilainen", 
+        "riisi"
+    ], 
+    "🍚": [
+        "riisi", 
+        "keitetty riisi", 
+        "keitetty"
+    ], 
+    "🍛": [
+        "riisi", 
+        "curry", 
+        "curry-riisi"
+    ], 
+    "🍜": [
+        "kulho", 
+        "höyryävä", 
+        "kuuma", 
+        "nuudeli", 
+        "ramen", 
+        "höyryävä kulho"
+    ], 
+    "🍝": [
+        "pasta", 
+        "spagetti"
+    ], 
+    "🍞": [
+        "pala", 
+        "leipä"
+    ], 
+    "🍟": [
+        "tikkuperunat", 
+        "ranskalaiset"
+    ], 
+    "🍠": [
+        "paahdettu", 
+        "bataatti", 
+        "paahdettu bataatti", 
+        "uunipaahdettu", 
+        "paistettu bataatti"
+    ], 
+    "🍡": [
+        "jälkiruoka", 
+        "japanilainen", 
+        "makea", 
+        "dango", 
+        "tikku"
+    ], 
+    "🍢": [
+        "oden", 
+        "merenelävät", 
+        "tikku", 
+        "kebab"
+    ], 
+    "🍣": [
+        "riisi", 
+        "raaka kala", 
+        "sushi"
+    ], 
+    "🍤": [
+        "paistettu", 
+        "tempura", 
+        "paistettu katkarapu", 
+        "katkarapu"
+    ], 
+    "🍥": [
+        "leivonnainen", 
+        "kala", 
+        "kakku", 
+        "kalakakku"
+    ], 
+    "🍦": [
+        "jäätelö", 
+        "kerma", 
+        "pehmis", 
+        "jälkiruoka", 
+        "makea", 
+        "jää", 
+        "pehmeä"
+    ], 
+    "🍧": [
+        "jäähilejälkiruoka", 
+        "herkku", 
+        "jälkiruoka", 
+        "jäähile", 
+        "makea", 
+        "jää"
+    ], 
+    "🍨": [
+        "jäätelö", 
+        "kerma", 
+        "jälkiruoka", 
+        "makea"
+    ], 
+    "🍩": [
+        "jälkiruoka", 
+        "munkkirinkeli", 
+        "makea", 
+        "donitsi"
+    ], 
+    "🍪": [
+        "jälkiruoka", 
+        "makea", 
+        "keksi"
+    ], 
+    "🍫": [
+        "patukka", 
+        "suklaa", 
+        "jälkiruoka", 
+        "makea", 
+        "suklaapatukka"
+    ], 
+    "🍬": [
+        "jälkiruoka", 
+        "karkki", 
+        "makea"
+    ], 
+    "🍭": [
+        "jälkiruoka", 
+        "karkki", 
+        "tikkari", 
+        "makea"
+    ], 
+    "🍮": [
+        "jälkiruoka", 
+        "vanukas", 
+        "makea"
+    ], 
+    "🍯": [
+        "hunaja", 
+        "makea"
+    ], 
+    "🍰": [
+        "kakkupala", 
+        "jälkiruoka", 
+        "makea", 
+        "pala", 
+        "kakku", 
+        "leivonnainen"
+    ], 
+    "🍱": [
+        "bento-rasia", 
+        "bento", 
+        "rasia"
+    ], 
+    "🍲": [
+        "pata", 
+        "ruokakulho"
+    ], 
+    "🍳": [
+        "paistinpannu", 
+        "kokkaus", 
+        "ruoka"
+    ], 
+    "🍴": [
+        "haarukka", 
+        "aterimet", 
+        "veitsi", 
+        "ruokailu", 
+        "haarukka ja veitsi"
+    ], 
+    "🍵": [
+        "korvaton teekuppi", 
+        "tee", 
+        "juoda", 
+        "kuppi", 
+        "juoma", 
+        "teekuppi"
+    ], 
+    "🍶": [
+        "pullo", 
+        "baari", 
+        "sake", 
+        "riisiviini", 
+        "kuppi", 
+        "juoma"
+    ], 
+    "🍷": [
+        "viinilasi", 
+        "baari", 
+        "viini", 
+        "juoma", 
+        "juoda", 
+        "lasi"
+    ], 
+    "🍸": [
+        "juoda", 
+        "lasi", 
+        "cocktaillasi", 
+        "cocktail", 
+        "baari"
+    ], 
+    "🍹": [
+        "trooppinen drinkki", 
+        "lasi", 
+        "juoda", 
+        "baari"
+    ], 
+    "🍺": [
+        "olut", 
+        "tuoppi", 
+        "juoda", 
+        "baari", 
+        "oluttuoppi"
+    ], 
+    "🍻": [
+        "baari", 
+        "kippis", 
+        "kilisevät oluttuopit", 
+        "juoda", 
+        "olut", 
+        "tuoppi"
+    ], 
+    "🍼": [
+        "tuttipullo", 
+        "vauva", 
+        "maito", 
+        "juoda", 
+        "pullo"
+    ], 
+    "🍾": [
+        "pullo", 
+        "baari", 
+        "korkki", 
+        "juoda", 
+        "poksauttaa", 
+        "pullo ja korkin poksautus"
+    ], 
+    "🍿": [
+        "maissi", 
+        "popcorn"
+    ], 
+    "🎀": [
+        "juhla", 
+        "rusetti", 
+        "ruusuke", 
+        "lahjanaru"
+    ], 
+    "🎁": [
+        "juhla", 
+        "käärepaperi", 
+        "paketti", 
+        "lahjapaketti", 
+        "lahja"
+    ], 
+    "🎂": [
+        "juhla", 
+        "jälkiruoka", 
+        "makea", 
+        "syntymäpäiväkakku", 
+        "kakku", 
+        "leivonnainen", 
+        "syntymäpäivä"
+    ], 
+    "🎃": [
+        "kurpitsalyhty", 
+        "juhla", 
+        "kaivertaa", 
+        "halloween", 
+        "kurpitsa"
+    ], 
+    "🎄": [
+        "juhla", 
+        "joulu", 
+        "kuusi", 
+        "joulukuusi"
+    ], 
+    "🎅": [
+        "juhla", 
+        "joulu", 
+        "fantasia", 
+        "satu", 
+        "joulupukki"
+    ], 
+    "🎆": [
+        "juhla", 
+        "ilotulitus"
+    ], 
+    "🎇": [
+        "juhla", 
+        "tähtisadetikku", 
+        "ilotulite", 
+        "tähtisade"
+    ], 
+    "🎈": [
+        "juhla", 
+        "ilmapallo"
+    ], 
+    "🎉": [
+        "yllätys", 
+        "juhla", 
+        "paukkuserpentiini"
+    ], 
+    "🎊": [
+        "konfetti", 
+        "juhla", 
+        "koristepaperi", 
+        "konfettipallo"
+    ], 
+    "🎋": [
+        "juhla", 
+        "tanabata", 
+        "bambu", 
+        "tanabatapuu", 
+        "puu", 
+        "Japani"
+    ], 
+    "🎌": [
+        "juhla", 
+        "Japani", 
+        "ristityt", 
+        "liput ristissä"
+    ], 
+    "🎍": [
+        "juhla", 
+        "Japani", 
+        "havu", 
+        "bambu", 
+        "puukoriste"
+    ], 
+    "🎎": [
+        "japanilaiset nuket", 
+        "Japani", 
+        "nukke", 
+        "juhlinta"
+    ], 
+    "🎏": [
+        "juhla", 
+        "viiri", 
+        "karppiviiri", 
+        "koinobori", 
+        "karppi"
+    ], 
+    "🎐": [
+        "juhla", 
+        "tuulikello", 
+        "tuuli", 
+        "kello"
+    ], 
+    "🎑": [
+        "juhla", 
+        "kuu", 
+        "kuuseremonia", 
+        "juhlamenot"
+    ], 
+    "🎒": [
+        "koulureppu", 
+        "koulu", 
+        "koululaukku", 
+        "laukku"
+    ], 
+    "🎓": [
+        "juhla", 
+        "valmistujaiset", 
+        "hattu", 
+        "vaatteet", 
+        "valmistujaislakki", 
+        "lakki"
+    ], 
+    "🎠": [
+        "hevonen", 
+        "karuselli", 
+        "karusellihevonen"
+    ], 
+    "🎡": [
+        "maailmanpyörä", 
+        "huvipuisto"
+    ], 
+    "🎢": [
+        "vuoristorata", 
+        "huvipuisto"
+    ], 
+    "🎣": [
+        "onkivapa", 
+        "virveli", 
+        "onki", 
+        "kalastus"
+    ], 
+    "🎤": [
+        "mikki", 
+        "karaoke", 
+        "mikrofoni"
+    ], 
+    "🎥": [
+        "elokuva", 
+        "kamera", 
+        "kuvaukset", 
+        "elokuvakamera"
+    ], 
+    "🎦": [
+        "video", 
+        "elokuva", 
+        "kamera", 
+        "kuvata", 
+        "videokuva"
+    ], 
+    "🎧": [
+        "nappikuuloke", 
+        "kuuloke", 
+        "nappi", 
+        "korvanappi"
+    ], 
+    "🎨": [
+        "taide", 
+        "maali", 
+        "taiteilijan paletti", 
+        "maalari"
+    ], 
+    "🎩": [
+        "vaatteet", 
+        "hattu", 
+        "silinteri"
+    ], 
+    "🎪": [
+        "teltta", 
+        "sirkus", 
+        "sirkusteltta"
+    ], 
+    "🎫": [
+        "sisäänpääsylippu", 
+        "lippu"
+    ], 
+    "🎬": [
+        "klaffi", 
+        "elokuva", 
+        "kuvaukset", 
+        "klaffitaulu"
+    ], 
+    "🎭": [
+        "naamio", 
+        "näyttämö", 
+        "teatteri", 
+        "näyttämötaiteet", 
+        "taide", 
+        "näytelmä"
+    ], 
+    "🎮": [
+        "videopeli", 
+        "ohjain", 
+        "peli"
+    ], 
+    "🎯": [
+        "tikka", 
+        "tikkataulu", 
+        "häränsilmä", 
+        "kymmenen", 
+        "darts", 
+        "napakymppi"
+    ], 
+    "🎰": [
+        "pelikone", 
+        "rahapeli", 
+        "kolikko"
+    ], 
+    "🎱": [
+        "biljardi", 
+        "biljardipallo", 
+        "peli", 
+        "kasipallo", 
+        "pallo"
+    ], 
+    "🎲": [
+        "noppakuutio", 
+        "noppa", 
+        "peli"
+    ], 
+    "🎳": [
+        "keilailu", 
+        "pallo", 
+        "peli", 
+        "keila", 
+        "keilapallo"
+    ], 
+    "🎴": [
+        "korttipeli", 
+        "hanafuda", 
+        "kortti", 
+        "kukkapelikortit", 
+        "Japani", 
+        "kukat"
+    ], 
+    "🎵": [
+        "nuotti", 
+        "musiikki"
+    ], 
+    "🎶": [
+        "nuotteja", 
+        "nuotti", 
+        "musiikki"
+    ], 
+    "🎷": [
+        "instrumentti", 
+        "saksofoni", 
+        "musiikki"
+    ], 
+    "🎸": [
+        "kitara", 
+        "instrumentti", 
+        "musiikki"
+    ], 
+    "🎹": [
+        "syntikka", 
+        "instrumentti", 
+        "piano", 
+        "musiikki", 
+        "koskettimet"
+    ], 
+    "🎺": [
+        "torvi", 
+        "instrumentti", 
+        "musiikki", 
+        "trumpetti"
+    ], 
+    "🎻": [
+        "viulu", 
+        "instrumentti", 
+        "musiikki", 
+        "jousi"
+    ], 
+    "🎼": [
+        "nuotti", 
+        "nuottiviivasto", 
+        "musiikki", 
+        "nuottiavain"
+    ], 
+    "🎽": [
+        "nauha", 
+        "juokseminen", 
+        "paita", 
+        "juoksupaita"
+    ], 
+    "🎾": [
+        "tennispallo", 
+        "pallo", 
+        "tennis", 
+        "urheilu"
+    ], 
+    "🎿": [
+        "sukset", 
+        "hiihto", 
+        "sauvat", 
+        "lumi"
+    ], 
+    "🏀": [
+        "pallo", 
+        "koripallo", 
+        "urheilu"
+    ], 
+    "🏁": [
+        "kilpa-ajot", 
+        "ruutulippu", 
+        "ruutukuvio"
+    ], 
+    "🏂": [
+        "lumilautailija", 
+        "lumilauta", 
+        "laskettelu", 
+        "lumi"
+    ], 
+    "🏃": [
+        "juokseminen", 
+        "juoksija", 
+        "maratoni"
+    ], 
+    "🏄": [
+        "lauta", 
+        "surffaus", 
+        "surffaaja"
+    ], 
+    "🏅": [
+        "mitali", 
+        "urheilumitali"
+    ], 
+    "🏆": [
+        "pokaali", 
+        "palkinto"
+    ], 
+    "🏇": [
+        "hevonen", 
+        "kilparatsastus", 
+        "jockey", 
+        "ravit", 
+        "ratsastus"
+    ], 
+    "🏈": [
+        "pallo", 
+        "amerikkalainen jalkapallo", 
+        "jalkapallo", 
+        "urheilu"
+    ], 
+    "🏉": [
+        "pallo", 
+        "urheilu", 
+        "rugby", 
+        "jalkapallo", 
+        "rugby-pallo"
+    ], 
+    "🏊": [
+        "uinti", 
+        "uimari"
+    ], 
+    "🏏": [
+        "pallo", 
+        "maila", 
+        "kriketti", 
+        "ottelu"
+    ], 
+    "🏐": [
+        "lentopallo", 
+        "ottelu"
+    ], 
+    "🏑": [
+        "pallo", 
+        "ottelu", 
+        "maila", 
+        "hockey", 
+        "maahockey"
+    ], 
+    "🏒": [
+        "jääkiekko ja maila", 
+        "maila", 
+        "kiekko", 
+        "ottelu", 
+        "jää"
+    ], 
+    "🏓": [
+        "pingis", 
+        "pöytätennis", 
+        "maila", 
+        "pingispallo", 
+        "pallo", 
+        "ottelu"
+    ], 
+    "🏠": [
+        "talo", 
+        "rakennus"
+    ], 
+    "🏡": [
+        "talo ja puutarha", 
+        "talo", 
+        "rakennus", 
+        "puutarha"
+    ], 
+    "🏢": [
+        "toimistorakennus", 
+        "toimisto", 
+        "rakennus"
+    ], 
+    "🏣": [
+        "rakennus", 
+        "Japani", 
+        "posti", 
+        "japanilainen postitoimisto"
+    ], 
+    "🏤": [
+        "rakennus", 
+        "postitoimisto", 
+        "posti"
+    ], 
+    "🏥": [
+        "ensiapu", 
+        "hoito", 
+        "lääkäri", 
+        "sairaala", 
+        "rakennus"
+    ], 
+    "🏦": [
+        "pankki", 
+        "rakennus"
+    ], 
+    "🏧": [
+        "pankkiautomaatti", 
+        "pankki", 
+        "otto", 
+        "automaatti"
+    ], 
+    "🏨": [
+        "majoitus", 
+        "rakennus", 
+        "hotelli"
+    ], 
+    "🏩": [
+        "rakennus", 
+        "hotelli", 
+        "tunti", 
+        "tuntihotelli"
+    ], 
+    "🏪": [
+        "kauppa", 
+        "rakennus", 
+        "lähikauppa"
+    ], 
+    "🏫": [
+        "oppi", 
+        "koulu", 
+        "rakennus"
+    ], 
+    "🏬": [
+        "kauppa", 
+        "tavaratalo", 
+        "rakennus"
+    ], 
+    "🏭": [
+        "rakennus", 
+        "tuotanto", 
+        "tehdas"
+    ], 
+    "🏮": [
+        "punainen", 
+        "valo", 
+        "baari", 
+        "lyhty", 
+        "punainen paperilyhty", 
+        "Japani"
+    ], 
+    "🏯": [
+        "linna", 
+        "Japani", 
+        "japanilainen linna", 
+        "rakennus"
+    ], 
+    "🏰": [
+        "linna", 
+        "länsimainen", 
+        "rakennus"
+    ], 
+    "🏴": [
+        "musta lippu", 
+        "lippu", 
+        "musta", 
+        "liehuva"
+    ], 
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "Englanti", 
+        "lippu"
+    ], 
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "Skotlanti", 
+        "lippu"
+    ], 
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "Wales", 
+        "lippu"
+    ], 
+    "🏸": [
+        "maila", 
+        "sulkapallomaila", 
+        "sulka", 
+        "sulkapallo", 
+        "ottelu"
+    ], 
+    "🏹": [
+        "jousimies", 
+        "jousiammunta", 
+        "työkalu", 
+        "jousi ja nuoli", 
+        "ase", 
+        "jousipyssy", 
+        "horoskooppi", 
+        "horoskooppimerkki"
+    ], 
+    "🏺": [
+        "ruoanlaitto", 
+        "vesimies", 
+        "kokkaus", 
+        "juoma", 
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "kannu", 
+        "amfora"
+    ], 
+    "🏻": [
+        "fitzpatrick", 
+        "emojin muokkaus", 
+        "sävy", 
+        "iho", 
+        "vaalea iho"
+    ], 
+    "🏼": [
+        "sävy", 
+        "fitzpatrick", 
+        "emojin muokkaus", 
+        "keskivaalea iho", 
+        "iho"
+    ], 
+    "🏽": [
+        "keskisävyinen iho", 
+        "fitzpatrick", 
+        "emojin muokkaus", 
+        "sävy", 
+        "iho"
+    ], 
+    "🏾": [
+        "fitzpatrick", 
+        "emojin muokkaus", 
+        "sävy", 
+        "iho", 
+        "keskitumma iho"
+    ], 
+    "🏿": [
+        "tumma iho", 
+        "fitzpatrick", 
+        "emojin muokkaus", 
+        "sävy", 
+        "iho"
+    ], 
+    "🐀": [
+        "harmaa", 
+        "rotta"
+    ], 
+    "🐁": [
+        "hiiri", 
+        "valkoinen"
+    ], 
+    "🐂": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "härkä"
+    ], 
+    "🐃": [
+        "vesipuhveli", 
+        "puhveli", 
+        "vesi"
+    ], 
+    "🐄": [
+        "läikikäs", 
+        "lehmä"
+    ], 
+    "🐅": [
+        "tiikeri"
+    ], 
+    "🐆": [
+        "leopardi"
+    ], 
+    "🐇": [
+        "lemmikki", 
+        "pupu", 
+        "kani"
+    ], 
+    "🐈": [
+        "kissa", 
+        "lemmikki"
+    ], 
+    "🐉": [
+        "satu", 
+        "lohikäärme"
+    ], 
+    "🐊": [
+        "krokotiili"
+    ], 
+    "🐋": [
+        "valas"
+    ], 
+    "🐌": [
+        "etana"
+    ], 
+    "🐍": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "viestintuoja", 
+        "käärmeenkantaja", 
+        "käärme"
+    ], 
+    "🐎": [
+        "hevonen", 
+        "kilpahevonen", 
+        "ravihevonen", 
+        "ravit"
+    ], 
+    "🐏": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "pässi", 
+        "oinas", 
+        "lammas"
+    ], 
+    "🐐": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "vuohi", 
+        "kauris"
+    ], 
+    "🐑": [
+        "uuhi", 
+        "lammas", 
+        "naispuolinen"
+    ], 
+    "🐒": [
+        "seisova", 
+        "apina"
+    ], 
+    "🐓": [
+        "kukko", 
+        "lintu"
+    ], 
+    "🐔": [
+        "lintu", 
+        "kana"
+    ], 
+    "🐕": [
+        "lemmikki", 
+        "koira"
+    ], 
+    "🐖": [
+        "emakko", 
+        "sika"
+    ], 
+    "🐗": [
+        "villisika", 
+        "sika"
+    ], 
+    "🐘": [
+        "elefantti", 
+        "norsu"
+    ], 
+    "🐙": [
+        "mustekala"
+    ], 
+    "🐚": [
+        "kuori", 
+        "kotilo"
+    ], 
+    "🐛": [
+        "ötökkä", 
+        "hyönteinen"
+    ], 
+    "🐜": [
+        "muurahainen", 
+        "hyönteinen"
+    ], 
+    "🐝": [
+        "mehiläinen", 
+        "hyönteinen"
+    ], 
+    "🐞": [
+        "hyönteinen", 
+        "leppäkerttu"
+    ], 
+    "🐟": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "kalat", 
+        "kala"
+    ], 
+    "🐠": [
+        "kala", 
+        "trooppinen", 
+        "trooppinen kala"
+    ], 
+    "🐡": [
+        "pallokala", 
+        "kala"
+    ], 
+    "🐢": [
+        "kilpikonna"
+    ], 
+    "🐣": [
+        "kuoriutuva tipu", 
+        "kananpoika", 
+        "tipu", 
+        "kuoriutuva", 
+        "lintu"
+    ], 
+    "🐤": [
+        "kananpoika", 
+        "tipu", 
+        "lintu"
+    ], 
+    "🐥": [
+        "tipu edestäpäin", 
+        "kananpoika", 
+        "tipu", 
+        "lintu"
+    ], 
+    "🐦": [
+        "lintu", 
+        "pikkulintu", 
+        "turkoosi"
+    ], 
+    "🐧": [
+        "pingviini", 
+        "lintu"
+    ], 
+    "🐨": [
+        "karhu", 
+        "koala"
+    ], 
+    "🐩": [
+        "villakoira", 
+        "koira"
+    ], 
+    "🐪": [
+        "kameli", 
+        "dromedaari", 
+        "kyttyrä", 
+        "yksikyttyräinen"
+    ], 
+    "🐫": [
+        "kameli", 
+        "kaksikyttyräinen", 
+        "kyttyrä", 
+        "kaksikyttyräinen kameli"
+    ], 
+    "🐬": [
+        "flipper", 
+        "delfiini"
+    ], 
+    "🐭": [
+        "hiiri", 
+        "naama", 
+        "hiiren naama"
+    ], 
+    "🐮": [
+        "naama", 
+        "lehmän naama", 
+        "lehmä"
+    ], 
+    "🐯": [
+        "naama", 
+        "tiikerin naama", 
+        "tiikeri"
+    ], 
+    "🐰": [
+        "lemmikki", 
+        "kani", 
+        "jäniksen naama", 
+        "pupu", 
+        "jänis", 
+        "naama"
+    ], 
+    "🐱": [
+        "kissan naama", 
+        "kissa", 
+        "lemmikki", 
+        "naama"
+    ], 
+    "🐲": [
+        "lohikäärmeen naama", 
+        "naama", 
+        "satu", 
+        "lohikäärme"
+    ], 
+    "🐳": [
+        "naama", 
+        "valas", 
+        "suihkuttava valas", 
+        "suihkuttaa"
+    ], 
+    "🐴": [
+        "hevonen", 
+        "naama", 
+        "hevosen naama"
+    ], 
+    "🐵": [
+        "naama", 
+        "apinan naama", 
+        "apina"
+    ], 
+    "🐶": [
+        "lemmikki", 
+        "koiran naama", 
+        "koira", 
+        "naama"
+    ], 
+    "🐷": [
+        "sian naama", 
+        "naama", 
+        "sika"
+    ], 
+    "🐸": [
+        "sammakon naama", 
+        "naama", 
+        "sammakko"
+    ], 
+    "🐹": [
+        "hamsterin naama", 
+        "lemmikki", 
+        "naama", 
+        "hamsteri"
+    ], 
+    "🐺": [
+        "susi", 
+        "naama", 
+        "suden naama"
+    ], 
+    "🐻": [
+        "karhun naama", 
+        "karhu", 
+        "naama"
+    ], 
+    "🐼": [
+        "naama", 
+        "pandan naama", 
+        "panda"
+    ], 
+    "🐽": [
+        "kärsä", 
+        "naama", 
+        "sika", 
+        "sian kärsä", 
+        "nenä"
+    ], 
+    "🐾": [
+        "tassunjäljet", 
+        "jälki", 
+        "jalka", 
+        "käpälä", 
+        "tassu"
+    ], 
+    "👀": [
+        "silmä", 
+        "naama", 
+        "vartalo", 
+        "silmät"
+    ], 
+    "👂": [
+        "vartalo", 
+        "pää", 
+        "korva"
+    ], 
+    "👃": [
+        "vartalo", 
+        "tuoksu", 
+        "haju", 
+        "pää", 
+        "nenä"
+    ], 
+    "👄": [
+        "vartalo", 
+        "suu", 
+        "huulet", 
+        "pää"
+    ], 
+    "👅": [
+        "vartalo", 
+        "uhma", 
+        "suu", 
+        "kieli", 
+        "pää"
+    ], 
+    "👆": [
+        "osoittaa", 
+        "etusormi", 
+        "ylös", 
+        "kämmenselkä", 
+        "käsi", 
+        "vartalo", 
+        "sormi", 
+        "ylös osoittava etusormi kämmenselkä katsojaan päin"
+    ], 
+    "👇": [
+        "osoittaa", 
+        "etusormi", 
+        "kämmenselkä", 
+        "alas osoittava etusormi kämmenselkä katsojaan päin", 
+        "alas", 
+        "käsi", 
+        "sormi", 
+        "vartalo"
+    ], 
+    "👈": [
+        "osoittaa", 
+        "etusormi", 
+        "kämmenselkä", 
+        "käsi", 
+        "vasemmalle osoittava etusormi kämmenselkä katsojaan päin", 
+        "vartalo", 
+        "sormi"
+    ], 
+    "👉": [
+        "osoittaa", 
+        "etusormi", 
+        "kämmenselkä", 
+        "oikealle osoittava etusormi kämmenselkä katsojaan päin", 
+        "käsi", 
+        "vartalo", 
+        "sormi"
+    ], 
+    "👊": [
+        "isku", 
+        "puristettu", 
+        "nyrkki", 
+        "käsi", 
+        "vartalo", 
+        "kohti tuleva nyrkki"
+    ], 
+    "👋": [
+        "vartalo", 
+        "käsi", 
+        "käden heilautus", 
+        "heilautus", 
+        "vilkuttaa"
+    ], 
+    "👌": [
+        "ok-sormiele", 
+        "käsi", 
+        "ok", 
+        "vartalo"
+    ], 
+    "👍": [
+        "ylös", 
+        "peukalo ylös", 
+        "+1", 
+        "käsi", 
+        "vartalo", 
+        "peukalo"
+    ], 
+    "👎": [
+        "peukalo", 
+        "peukalo alas", 
+        "käsi", 
+        "-1", 
+        "vartalo", 
+        "alas"
+    ], 
+    "👏": [
+        "taputtaa", 
+        "käsi", 
+        "käsien taputus", 
+        "vartalo"
+    ], 
+    "👐": [
+        "avoin", 
+        "vartalo", 
+        "käsi", 
+        "avoimet kädet"
+    ], 
+    "👑": [
+        "kuningas", 
+        "asuste", 
+        "kruunu", 
+        "kuningatar"
+    ], 
+    "👒": [
+        "vaatteet", 
+        "hattu", 
+        "naisen hattu", 
+        "nainen"
+    ], 
+    "👓": [
+        "silmä", 
+        "silmälasit", 
+        "vaatteet"
+    ], 
+    "👔": [
+        "kravatti", 
+        "vaatteet", 
+        "asuste", 
+        "solmio"
+    ], 
+    "👕": [
+        "paita", 
+        "t-paita", 
+        "vaatteet"
+    ], 
+    "👖": [
+        "vaatteet", 
+        "farkut", 
+        "housut"
+    ], 
+    "👗": [
+        "vaatteet", 
+        "leninki", 
+        "mekko"
+    ], 
+    "👘": [
+        "vaatteet", 
+        "kimono", 
+        "japanilainen"
+    ], 
+    "👙": [
+        "vaatteet", 
+        "uida", 
+        "uimapuku", 
+        "bikinit"
+    ], 
+    "👚": [
+        "vaatteet", 
+        "nainen", 
+        "naistenvaatteet"
+    ], 
+    "👛": [
+        "rahakukkaro", 
+        "asuste", 
+        "kolikko"
+    ], 
+    "👜": [
+        "asuste", 
+        "käsilaukku", 
+        "laukku"
+    ], 
+    "👝": [
+        "iltalaukku", 
+        "kirjekuorilaukku", 
+        "asuste", 
+        "laukku"
+    ], 
+    "👞": [
+        "mies", 
+        "vaatteet", 
+        "miehen kenkä", 
+        "kenkä"
+    ], 
+    "👟": [
+        "vaatteet", 
+        "lenkkarit", 
+        "juoksukenkä", 
+        "kenkä", 
+        "urheilu"
+    ], 
+    "👠": [
+        "vaatteet", 
+        "korko", 
+        "korkokenkä", 
+        "kenkä", 
+        "nainen"
+    ], 
+    "👡": [
+        "vaatteet", 
+        "naisen sandaali", 
+        "nainen", 
+        "kenkä", 
+        "sandaali"
+    ], 
+    "👢": [
+        "vaatteet", 
+        "naisen saapas", 
+        "nainen", 
+        "kenkä", 
+        "saapas"
+    ], 
+    "👣": [
+        "jalanjäljki", 
+        "vaatteet", 
+        "jälki", 
+        "vartalo", 
+        "jalanjäljet"
+    ], 
+    "👤": [
+        "rintasiluetti", 
+        "siluetti", 
+        "rintakuva"
+    ], 
+    "👥": [
+        "siluetti", 
+        "rintakuva", 
+        "kaksi rintasiluettia"
+    ], 
+    "👦": [
+        "nuori", 
+        "poika", 
+        "miespuolinen"
+    ], 
+    "👧": [
+        "nuori", 
+        "neito", 
+        "neiti", 
+        "neitsyt", 
+        "tyttö", 
+        "horoskooppi", 
+        "horoskooppimerkki"
+    ], 
+    "👨": [
+        "mies", 
+        "miespuolinen"
+    ], 
+    "👨‍🌾": [
+        "miesmaanviljelijä", 
+        "mies", 
+        "puutarhuri", 
+        "sato", 
+        "maanviljelijä"
+    ], 
+    "👨‍🍳": [
+        "paistinpannu", 
+        "mies", 
+        "kokki", 
+        "mieskokki", 
+        "ruoka"
+    ], 
+    "👨‍🎓": [
+        "lakki", 
+        "mies", 
+        "miesopiskelija", 
+        "opiskelu", 
+        "valmistujaiset"
+    ], 
+    "👨‍🎤": [
+        "mieslaulaja", 
+        "mies", 
+        "laulaja", 
+        "mikki", 
+        "karaoke"
+    ], 
+    "👨‍🎨": [
+        "taiteilija", 
+        "mies", 
+        "taide", 
+        "maalari", 
+        "miesartisti"
+    ], 
+    "👨‍🏫": [
+        "mies", 
+        "koulu", 
+        "opettaja", 
+        "miesopettaja"
+    ], 
+    "👨‍🏭": [
+        "työntekijä", 
+        "mies", 
+        "tehdas", 
+        "miestehdastyöntekijä", 
+        "hitsaaja"
+    ], 
+    "👨‍👦": [
+        "poika", 
+        "perhe: mies, poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "mies"
+    ], 
+    "👨‍👦‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe: mies, poika, poika", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "mies"
+    ], 
+    "👨‍👧": [
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "mies", 
+        "perhe: mies, tyttö"
+    ], 
+    "👨‍👧‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe: mies, tyttö, poika", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "mies"
+    ], 
+    "👨‍👧‍👧": [
+        "lapsi", 
+        "perhe: mies, tyttö, tyttö", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "mies"
+    ], 
+    "👨‍👨‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "mies", 
+        "perhe: mies, mies, poika"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "poika", 
+        "perhe: mies, mies, poika, poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "mies"
+    ], 
+    "👨‍👨‍👧": [
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "perhe: mies, mies, tyttö", 
+        "mies"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe: mies, mies, tyttö, poika", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "mies"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "perhe: mies, mies, tyttö, tyttö", 
+        "mies"
+    ], 
+    "👨‍👩‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "mies", 
+        "nainen", 
+        "perhe: mies, nainen, poika"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "poika", 
+        "perhe: mies, nainen, poika, poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "mies", 
+        "nainen"
+    ], 
+    "👨‍👩‍👧": [
+        "lapsi", 
+        "perhe", 
+        "perhe: mies, nainen, tyttö", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "mies", 
+        "nainen"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "perhe: mies, nainen, tyttö, poika", 
+        "äiti", 
+        "mies", 
+        "nainen"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "lapsi", 
+        "perhe", 
+        "perhe: mies, nainen, tyttö, tyttö", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "mies", 
+        "nainen"
+    ], 
+    "👨‍💻": [
+        "IT-mies", 
+        "mies", 
+        "koodaus", 
+        "IT", 
+        "tietokone"
+    ], 
+    "👨‍💼": [
+        "miestoimistotyöntekijä", 
+        "työntekijä", 
+        "mies", 
+        "valkokaulus", 
+        "toimisto"
+    ], 
+    "👨‍🔧": [
+        "miesmekaanikko", 
+        "mies", 
+        "työkalu", 
+        "jakoavain", 
+        "mekaanikko"
+    ], 
+    "👨‍🔬": [
+        "miestutkija", 
+        "mies", 
+        "tiede", 
+        "tutkija"
+    ], 
+    "👨‍🚀": [
+        "avaruus", 
+        "astronautti", 
+        "mies", 
+        "miesastronautti"
+    ], 
+    "👨‍🚒": [
+        "tulitaistelija", 
+        "mies", 
+        "palomies", 
+        "tulipalo"
+    ], 
+    "👩": [
+        "nainen", 
+        "naispuolinen"
+    ], 
+    "👩‍🌾": [
+        "naismaanviljelijä", 
+        "sato", 
+        "puutarhuri", 
+        "nainen", 
+        "maanviljelijä"
+    ], 
+    "👩‍🍳": [
+        "naiskokki", 
+        "paistinpannu", 
+        "kokki", 
+        "nainen", 
+        "ruoka"
+    ], 
+    "👩‍🎓": [
+        "lakki", 
+        "opiskelu", 
+        "nainen", 
+        "naisopiskelija", 
+        "valmistujaiset"
+    ], 
+    "👩‍🎤": [
+        "laulaja", 
+        "mikki", 
+        "karaoke", 
+        "naislaulaja", 
+        "nainen"
+    ], 
+    "👩‍🎨": [
+        "naisartisti", 
+        "taiteilija", 
+        "taide", 
+        "nainen", 
+        "maalari"
+    ], 
+    "👩‍🏫": [
+        "naisopettaja", 
+        "koulu", 
+        "opettaja", 
+        "nainen"
+    ], 
+    "👩‍🏭": [
+        "naistehdastyöntekijä", 
+        "työntekijä", 
+        "tehdas", 
+        "nainen", 
+        "hitsaaja"
+    ], 
+    "👩‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe: nainen, poika", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👦‍👦": [
+        "poika", 
+        "perhe: nainen, poika, poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👧": [
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "nainen", 
+        "perhe: nainen, tyttö"
+    ], 
+    "👩‍👧‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe", 
+        "perhe: nainen, tyttö, poika", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👧‍👧": [
+        "lapsi", 
+        "perhe: nainen, tyttö, tyttö", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👩‍👦": [
+        "poika", 
+        "perhe: nainen, nainen, poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe", 
+        "isä", 
+        "perhe: nainen, nainen, poika, poika", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👩‍👧": [
+        "lapsi", 
+        "perhe: nainen, nainen, tyttö", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "poika", 
+        "lapsi", 
+        "perhe", 
+        "perhe: nainen, nainen, tyttö, poika", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "lapsi", 
+        "perhe: nainen, nainen, tyttö, tyttö", 
+        "perhe", 
+        "isä", 
+        "tyttö", 
+        "äiti", 
+        "nainen"
+    ], 
+    "👩‍💻": [
+        "tietokone", 
+        "IT-nainen", 
+        "koodaus", 
+        "IT", 
+        "nainen"
+    ], 
+    "👩‍💼": [
+        "työntekijä", 
+        "naistoimistotyöntekijä", 
+        "toimisto", 
+        "valkokaulus", 
+        "nainen"
+    ], 
+    "👩‍🔧": [
+        "naismekaanikko", 
+        "työkalu", 
+        "jakoavain", 
+        "nainen", 
+        "mekaanikko"
+    ], 
+    "👩‍🔬": [
+        "naistutkija", 
+        "nainen", 
+        "tiede", 
+        "tutkija"
+    ], 
+    "👩‍🚀": [
+        "avaruus", 
+        "astronautti", 
+        "naisastronautti", 
+        "nainen"
+    ], 
+    "👩‍🚒": [
+        "palonainen", 
+        "tulitaistelija", 
+        "nainen", 
+        "tulipalo"
+    ], 
+    "👪": [
+        "isä", 
+        "lapsi", 
+        "äiti", 
+        "perhe"
+    ], 
+    "👫": [
+        "pariskunta", 
+        "mies ja nainen käsi kädessä", 
+        "nainen", 
+        "käsi", 
+        "kädestä pitäminen", 
+        "mies"
+    ], 
+    "👬": [
+        "pariskunta", 
+        "kaksi miestä käsi kädessä", 
+        "kaksonen", 
+        "käsi", 
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "kädestä pitäminen", 
+        "kaksoset", 
+        "mies"
+    ], 
+    "👭": [
+        "kaksi naista käsi kädessä", 
+        "kädestä pitäminen", 
+        "käsi", 
+        "pariskunta", 
+        "nainen"
+    ], 
+    "👮": [
+        "kyttä", 
+        "poliisi"
+    ], 
+    "👯": [
+        "puputytöt", 
+        "pupu", 
+        "tanssija", 
+        "tyttö", 
+        "nainen", 
+        "korva"
+    ], 
+    "👰": [
+        "huntupäinen morsian", 
+        "morsian", 
+        "häät", 
+        "huntu"
+    ], 
+    "👱": [
+        "vaalea", 
+        "hiukset", 
+        "vaaleahiuksinen henkilö", 
+        "blondi"
+    ], 
+    "👲": [
+        "gua pi mao", 
+        "mies", 
+        "hattu", 
+        "mies ja kiinalainen hattu"
+    ], 
+    "👳": [
+        "turbaani", 
+        "mies", 
+        "turbaanipäinen henkilö"
+    ], 
+    "👴": [
+        "mies", 
+        "vanha", 
+        "vanha mies"
+    ], 
+    "👵": [
+        "vanha", 
+        "nainen", 
+        "vanha nainen"
+    ], 
+    "👶": [
+        "nuori", 
+        "vauva", 
+        "lapsi"
+    ], 
+    "👷": [
+        "rakennustyöläinen", 
+        "hattu", 
+        "työmies", 
+        "rakennus"
+    ], 
+    "👸": [
+        "fantasia", 
+        "satu", 
+        "prinsessa"
+    ], 
+    "👹": [
+        "naama", 
+        "satu", 
+        "hirviö", 
+        "olio", 
+        "peikko", 
+        "fantasia", 
+        "japanilainen"
+    ], 
+    "👺": [
+        "naama", 
+        "satu", 
+        "menninkäinen", 
+        "hirviö", 
+        "olio", 
+        "fantasia", 
+        "japanilainen"
+    ], 
+    "👻": [
+        "naama", 
+        "satu", 
+        "kummitus", 
+        "hirviö", 
+        "olio", 
+        "fantasia"
+    ], 
+    "👼": [
+        "vauva", 
+        "naama", 
+        "enkelivauva", 
+        "satu", 
+        "fantasia", 
+        "enkeli"
+    ], 
+    "👽": [
+        "avaruus", 
+        "avaruusolio", 
+        "satu", 
+        "ufo", 
+        "alien", 
+        "hirviö", 
+        "naama", 
+        "olio", 
+        "fantasia"
+    ], 
+    "👾": [
+        "avaruus", 
+        "avaruusolio", 
+        "satu", 
+        "ufo", 
+        "alien", 
+        "hirviö", 
+        "naama", 
+        "olio", 
+        "fantasia", 
+        "avaruushirviö"
+    ], 
+    "👿": [
+        "pikkupaholainen", 
+        "naama", 
+        "satu", 
+        "demoni", 
+        "piru", 
+        "fantasia"
+    ], 
+    "💀": [
+        "naama", 
+        "satu", 
+        "kuolema", 
+        "hirviö", 
+        "ruumis", 
+        "pääkallo"
+    ], 
+    "💁": [
+        "info", 
+        "käsi", 
+        "kämmentä ylöspäin näyttävä henkilö", 
+        "nenäkäs", 
+        "apu"
+    ], 
+    "💂": [
+        "vartija"
+    ], 
+    "💃": [
+        "tanssiva nainen", 
+        "tanssija", 
+        "nainen", 
+        "juhlat", 
+        "tanssi"
+    ], 
+    "💄": [
+        "huulipuna", 
+        "kosmetiikkaa", 
+        "meikki", 
+        "meikit"
+    ], 
+    "💅": [
+        "kynsihuolto", 
+        "kynsilakka", 
+        "kynsi", 
+        "manikyyri", 
+        "kosmetiikka", 
+        "vartalo"
+    ], 
+    "💆": [
+        "hieroja", 
+        "hieronta"
+    ], 
+    "💇": [
+        "hiustenleikkaus", 
+        "kauneus", 
+        "parturi", 
+        "salonki"
+    ], 
+    "💈": [
+        "parturi", 
+        "raidat", 
+        "punasiniraitainen pylväs", 
+        "kampaaja"
+    ], 
+    "💉": [
+        "ruisku", 
+        "lääke", 
+        "rokote", 
+        "piikki", 
+        "lääkäri", 
+        "työkalu", 
+        "tauti"
+    ], 
+    "💊": [
+        "tauti", 
+        "lääkäri", 
+        "lääketiede", 
+        "pilleri", 
+        "lääke"
+    ], 
+    "💋": [
+        "pusu", 
+        "pusuhuulijälki", 
+        "sydän", 
+        "huulet", 
+        "jälki", 
+        "romantiikka"
+    ], 
+    "💌": [
+        "rakkauskirje", 
+        "rakkaus", 
+        "sydän", 
+        "posti", 
+        "romantiikka", 
+        "kirje"
+    ], 
+    "💍": [
+        "timantti", 
+        "romantiikka", 
+        "sormus"
+    ], 
+    "💎": [
+        "timantti", 
+        "romantiikka", 
+        "jalokivi"
+    ], 
+    "💏": [
+        "romantiikka", 
+        "pariskunta", 
+        "pusu"
+    ], 
+    "💐": [
+        "kasvi", 
+        "kukkakimppu", 
+        "kukka", 
+        "romantiikka"
+    ], 
+    "💑": [
+        "romantiikka", 
+        "pariskunta", 
+        "sydän", 
+        "pariskunta ja sydän", 
+        "rakkaus"
+    ], 
+    "💒": [
+        "romantiikka", 
+        "häät", 
+        "vihkiminen", 
+        "kappeli"
+    ], 
+    "💓": [
+        "syke", 
+        "sykkiä", 
+        "sykkivä", 
+        "sydän", 
+        "sykkivä sydän"
+    ], 
+    "💔": [
+        "särkynyt", 
+        "särkyä", 
+        "särkynyt sydän", 
+        "sydän"
+    ], 
+    "💕": [
+        "sydän", 
+        "rakkaus", 
+        "kaksi sydäntä"
+    ], 
+    "💖": [
+        "kimalle", 
+        "kimaltava sydän", 
+        "sydän", 
+        "innostunut"
+    ], 
+    "💗": [
+        "sydämen syke", 
+        "innostunut", 
+        "kasvava sydän", 
+        "kasvava", 
+        "sydän", 
+        "hermostunut"
+    ], 
+    "💘": [
+        "amor", 
+        "nuoli", 
+        "sydän", 
+        "sydän ja nuoli", 
+        "romantiikka"
+    ], 
+    "💙": [
+        "sininen", 
+        "sydän", 
+        "sininen sydän"
+    ], 
+    "💚": [
+        "vihreä", 
+        "sydän", 
+        "vihreä sydän"
+    ], 
+    "💛": [
+        "sydän", 
+        "keltainen", 
+        "keltainen sydän"
+    ], 
+    "💜": [
+        "sydän", 
+        "violetti", 
+        "violetti sydän"
+    ], 
+    "💝": [
+        "nauha", 
+        "sydän ja lahjanauha", 
+        "sydän", 
+        "ystävänpäivä"
+    ], 
+    "💞": [
+        "pyörivä", 
+        "sydän", 
+        "toisiaan kiertävät sydämet"
+    ], 
+    "💟": [
+        "sydän", 
+        "sydänkoriste"
+    ], 
+    "💠": [
+        "vinoneliö/kukka", 
+        "vinoneliö", 
+        "kukka", 
+        "muoto"
+    ], 
+    "💡": [
+        "sähkö", 
+        "valo", 
+        "ajatus", 
+        "lamppu", 
+        "hehkulamppu"
+    ], 
+    "💢": [
+        "vihainen", 
+        "viha", 
+        "sarjakuva"
+    ], 
+    "💣": [
+        "pommi", 
+        "sarjakuva"
+    ], 
+    "💤": [
+        "uni", 
+        "zzz", 
+        "sarjakuva"
+    ], 
+    "💥": [
+        "pum", 
+        "törmäys", 
+        "sarjakuva"
+    ], 
+    "💦": [
+        "hikipisarat", 
+        "vesi", 
+        "hiki", 
+        "sarjakuva"
+    ], 
+    "💧": [
+        "tippa", 
+        "pisara", 
+        "hiki", 
+        "sää", 
+        "vesi"
+    ], 
+    "💨": [
+        "pikalähtö", 
+        "juoksu", 
+        "sarjakuva"
+    ], 
+    "💩": [
+        "lanta", 
+        "naama", 
+        "kakkakasa", 
+        "sarjakuva", 
+        "hirviö", 
+        "sonta", 
+        "kakka"
+    ], 
+    "💪": [
+        "pullistaa", 
+        "pullistettu hauis", 
+        "sarjakuva", 
+        "hauis", 
+        "lihas", 
+        "vartalo"
+    ], 
+    "💫": [
+        "tähti", 
+        "sarjakuva", 
+        "pyörryttävä"
+    ], 
+    "💬": [
+        "puhekupla", 
+        "sarjakuva", 
+        "ilmapallo", 
+        "puhe", 
+        "keskustelu", 
+        "kupla"
+    ], 
+    "💭": [
+        "ajatuskupla", 
+        "kupla", 
+        "ajatus", 
+        "ilmapallo", 
+        "sarjakuva"
+    ], 
+    "💮": [
+        "valkoinen kukka", 
+        "kukka"
+    ], 
+    "💯": [
+        "pisteet", 
+        "100", 
+        "sata pistettä", 
+        "täydet"
+    ], 
+    "💰": [
+        "rahasäkki", 
+        "raha", 
+        "säkki", 
+        "rahapussi"
+    ], 
+    "💱": [
+        "valuutta", 
+        "valuutanvaihto", 
+        "pankki", 
+        "raha", 
+        "vaihto"
+    ], 
+    "💲": [
+        "dollari", 
+        "valuutta", 
+        "raha", 
+        "paksu dollarimerkki"
+    ], 
+    "💳": [
+        "raha", 
+        "pankki", 
+        "luotto", 
+        "luottokortti", 
+        "kortti"
+    ], 
+    "💴": [
+        "raha", 
+        "yen-seteli", 
+        "seteli", 
+        "yen", 
+        "pankki", 
+        "valuutta"
+    ], 
+    "💵": [
+        "raha", 
+        "seteli", 
+        "dollari", 
+        "pankki", 
+        "valuutta", 
+        "dollariseteli"
+    ], 
+    "💶": [
+        "raha", 
+        "seteli", 
+        "euroseteli", 
+        "pankki", 
+        "valuutta", 
+        "euro"
+    ], 
+    "💷": [
+        "punta", 
+        "raha", 
+        "seteli", 
+        "pankki", 
+        "valuutta", 
+        "puntaseteli"
+    ], 
+    "💸": [
+        "rahalla on siivet", 
+        "raha", 
+        "siivet", 
+        "seteli", 
+        "pankki", 
+        "valuutta"
+    ], 
+    "💹": [
+        "raha", 
+        "nousu", 
+        "käyrä", 
+        "yen", 
+        "yen ja nouseva käyrä", 
+        "markkinat", 
+        "pankki", 
+        "valuutta", 
+        "kasvu"
+    ], 
+    "💺": [
+        "tuoli", 
+        "istuin"
+    ], 
+    "💻": [
+        "kannettava tietokone", 
+        "läppäri", 
+        "tietokone", 
+        "kannetava"
+    ], 
+    "💼": [
+        "salkku"
+    ], 
+    "💽": [
+        "minidisk", 
+        "levy", 
+        "minidisc", 
+        "tietokone"
+    ], 
+    "💾": [
+        "levyke", 
+        "disketti", 
+        "korppu", 
+        "tietokone"
+    ], 
+    "💿": [
+        "dvd", 
+        "levy", 
+        "CD", 
+        "tietokone", 
+        "blu-ray"
+    ], 
+    "📀": [
+        "DVD", 
+        "levy", 
+        "cd", 
+        "tietokone", 
+        "blu-ray"
+    ], 
+    "📁": [
+        "tiedosto", 
+        "tiedostokansio", 
+        "kansio"
+    ], 
+    "📂": [
+        "avoin", 
+        "tiedosto", 
+        "avoin tiedostokansio", 
+        "kansio"
+    ], 
+    "📃": [
+        "käännetty sivu", 
+        "sivu", 
+        "dokumentti", 
+        "asiakirja"
+    ], 
+    "📄": [
+        "sivu", 
+        "dokumentti", 
+        "asiakirja"
+    ], 
+    "📅": [
+        "kalenteri", 
+        "päivämäärä"
+    ], 
+    "📆": [
+        "kalenteri", 
+        "päiväkalenteri"
+    ], 
+    "📇": [
+        "kortti", 
+        "rolodex", 
+        "kortisto"
+    ], 
+    "📈": [
+        "nousu", 
+        "käyrä", 
+        "kaavio", 
+        "nouseva käyrä", 
+        "suuntaus", 
+        "kasvu"
+    ], 
+    "📉": [
+        "käyrä", 
+        "laskeva käyrä", 
+        "kaavio", 
+        "suuntaus", 
+        "lasku"
+    ], 
+    "📊": [
+        "pylväs", 
+        "kaavio", 
+        "pylväskaavio", 
+        "tilasto"
+    ], 
+    "📋": [
+        "levy", 
+        "leikepöytä", 
+        "paperinpidike"
+    ], 
+    "📌": [
+        "nuppineula"
+    ], 
+    "📍": [
+        "pyöreä nasta", 
+        "nasta", 
+        "karttanaula"
+    ], 
+    "📎": [
+        "paperiliitin", 
+        "liitin", 
+        "klemmari"
+    ], 
+    "📏": [
+        "viivain", 
+        "suora", 
+        "viivoitin"
+    ], 
+    "📐": [
+        "viivain", 
+        "viivotin", 
+        "kolmio", 
+        "kolmioviivain"
+    ], 
+    "📑": [
+        "välilehti", 
+        "kirjanmerkkivälilehdet", 
+        "kirjanmerkki", 
+        "merkki"
+    ], 
+    "📒": [
+        "kirja", 
+        "kirjanpito", 
+        "lehtiö", 
+        "tilikirja"
+    ], 
+    "📓": [
+        "kirja", 
+        "muistio", 
+        "lehtiö", 
+        "muistikirja"
+    ], 
+    "📔": [
+        "koristeellinen muistikirja", 
+        "kansi", 
+        "muistio", 
+        "lehtiö", 
+        "kirja", 
+        "muistikirja"
+    ], 
+    "📕": [
+        "kirja", 
+        "suljettu", 
+        "suljettu kirja"
+    ], 
+    "📖": [
+        "avoin", 
+        "kirja", 
+        "avoin kirja"
+    ], 
+    "📗": [
+        "kirja", 
+        "vihreä", 
+        "vihreä kirja"
+    ], 
+    "📘": [
+        "kirja", 
+        "sininen", 
+        "sininen kirja"
+    ], 
+    "📙": [
+        "kirja", 
+        "oranssi", 
+        "oranssi kirja"
+    ], 
+    "📚": [
+        "kirja", 
+        "kirjapino", 
+        "kirjat", 
+        "kirjoja"
+    ], 
+    "📛": [
+        "nimi", 
+        "nimikyltti", 
+        "kyltti", 
+        "lappu"
+    ], 
+    "📜": [
+        "käärö", 
+        "kirjakäärö", 
+        "paperi"
+    ], 
+    "📝": [
+        "muistio", 
+        "lyijykynä"
+    ], 
+    "📞": [
+        "luuri", 
+        "kuuloke", 
+        "puhelin"
+    ], 
+    "📟": [
+        "hakulaite"
+    ], 
+    "📠": [
+        "faksi", 
+        "faksilaite"
+    ], 
+    "📡": [
+        "lautanen", 
+        "lautasantenni", 
+        "antenni", 
+        "satelliittiantenni"
+    ], 
+    "📢": [
+        "keskusradio", 
+        "kova", 
+        "huomio", 
+        "kovaääninen", 
+        "ääni"
+    ], 
+    "📣": [
+        "megafoni", 
+        "suosionosoitus", 
+        "huomio", 
+        "kovaääninen", 
+        "ääni"
+    ], 
+    "📤": [
+        "sähköposti", 
+        "e-mail", 
+        "postilaatikko", 
+        "lähtevät", 
+        "lähettää"
+    ], 
+    "📥": [
+        "vastaanottaa", 
+        "e-mail", 
+        "postilaatikko", 
+        "sähköposti", 
+        "saapuvat"
+    ], 
+    "📦": [
+        "laatikko", 
+        "lähetys", 
+        "pakkaus", 
+        "paketti"
+    ], 
+    "📧": [
+        "e-mail", 
+        "viesti", 
+        "sähköpostiviesti", 
+        "sähköposti"
+    ], 
+    "📨": [
+        "sähköpostiviesti", 
+        "saapuva kirjekuori", 
+        "e-mail", 
+        "viesti", 
+        "saapuva", 
+        "sähköposti"
+    ], 
+    "📩": [
+        "lähetetty", 
+        "sähköpostiviesti", 
+        "e-mail", 
+        "viesti", 
+        "kirjekuori ja nuoli", 
+        "sähköposti", 
+        "lähtevä"
+    ], 
+    "📪": [
+        "alhaalla", 
+        "postilaatikko", 
+        "suljettu", 
+        "suljettu postilaatikko, lippu alhaalla"
+    ], 
+    "📫": [
+        "suljettu", 
+        "postilaatikko", 
+        "lähtevä", 
+        "suljettu postilaatikko, lippu ylhäällä"
+    ], 
+    "📬": [
+        "avoin postilaatikko, lippu ylhäällä", 
+        "postilaatikko", 
+        "auki"
+    ], 
+    "📭": [
+        "alhaalla", 
+        "postilaatikko", 
+        "auki", 
+        "avoin postilaatikko, lippu alhaalla"
+    ], 
+    "📮": [
+        "postilaatikko", 
+        "posti"
+    ], 
+    "📯": [
+        "torvi", 
+        "postitorvi", 
+        "posti"
+    ], 
+    "📰": [
+        "lehti", 
+        "sanomalehti", 
+        "uutiset"
+    ], 
+    "📱": [
+        "mobiililaite", 
+        "kännykkä", 
+        "puhelin", 
+        "mobiili", 
+        "matkapuhelin"
+    ], 
+    "📲": [
+        "nuoli", 
+        "kännykkä ja nuoli", 
+        "puhelu", 
+        "matkapuhelin", 
+        "saapuva", 
+        "puhelin"
+    ], 
+    "📳": [
+        "äänetön", 
+        "värinä", 
+        "värinätila", 
+        "hiljainen", 
+        "matkapuhelin", 
+        "puhelin"
+    ], 
+    "📴": [
+        "puhelin", 
+        "pois", 
+        "matkapuhelin suljettava", 
+        "kielletty", 
+        "matkapuhelin"
+    ], 
+    "📵": [
+        "ei matkapuhelimia", 
+        "puhelin", 
+        "kielletty", 
+        "matkapuhelin"
+    ], 
+    "📶": [
+        "signaali", 
+        "kenttä", 
+        "matkapuhelin", 
+        "kuuluvuuspalkit", 
+        "palkki", 
+        "kuuluvuus", 
+        "puhelin"
+    ], 
+    "📷": [
+        "kamera", 
+        "video"
+    ], 
+    "📸": [
+        "kamera ja salama", 
+        "kamera", 
+        "video", 
+        "salama"
+    ], 
+    "📹": [
+        "kamera", 
+        "video", 
+        "videokamera"
+    ], 
+    "📺": [
+        "tv", 
+        "televisio", 
+        "video", 
+        "telkkari"
+    ], 
+    "📻": [
+        "vastaanotin", 
+        "radio"
+    ], 
+    "📼": [
+        "nauha", 
+        "videonauha", 
+        "videokasetti", 
+        "video", 
+        "VHS"
+    ], 
+    "📿": [
+        "helmet", 
+        "asuste", 
+        "uskonto", 
+        "helminauha", 
+        "rukoushelmet", 
+        "rukous"
+    ], 
+    "🔀": [
+        "ristissä", 
+        "nuoli", 
+        "nappi", 
+        "sekoitus"
+    ], 
+    "🔁": [
+        "myötäpäivään", 
+        "nuoli", 
+        "uudestaan", 
+        "nappi", 
+        "toista uudelleen"
+    ], 
+    "🔂": [
+        "myötäpäivään", 
+        "nuoli", 
+        "kerran", 
+        "nappi", 
+        "toista kerran"
+    ], 
+    "🔃": [
+        "myötäpäivään", 
+        "nuoli", 
+        "päivitä", 
+        "pystynuolet myötäpäivään"
+    ], 
+    "🔄": [
+        "nuolet vastapäivään", 
+        "nuoli", 
+        "vastapäivään"
+    ], 
+    "🔅": [
+        "himmennä", 
+        "kirkkaus", 
+        "vähennä", 
+        "nappi"
+    ], 
+    "🔆": [
+        "lisää", 
+        "kirkasta", 
+        "kirkkaus", 
+        "nappi"
+    ], 
+    "🔇": [
+        "mykistys", 
+        "mykistetty kaiutin", 
+        "äänetön", 
+        "äänenvoimakkuus", 
+        "hiljaa", 
+        "kaiutin"
+    ], 
+    "🔈": [
+        "äänenvoimakkuus", 
+        "hiljainen kaiutin", 
+        "alhainen"
+    ], 
+    "🔉": [
+        "kaiutin", 
+        "äänenvoimakkuus", 
+        "äänet", 
+        "kaiutin normaalilla äänenvoimakkuudella"
+    ], 
+    "🔊": [
+        "kaiutin", 
+        "äänenvoimakkuus", 
+        "lisää", 
+        "kovempaa", 
+        "äänekäs kaiutin"
+    ], 
+    "🔋": [
+        "akku", 
+        "paristo", 
+        "akkuvirta"
+    ], 
+    "🔌": [
+        "töpseli", 
+        "sähkö", 
+        "pistoke", 
+        "sähkötöpseli", 
+        "sähköpistoke"
+    ], 
+    "🔍": [
+        "etsi", 
+        "suurennuslasi vasemmalle", 
+        "haku", 
+        "suurennuslasi", 
+        "työkalu", 
+        "lasi"
+    ], 
+    "🔎": [
+        "etsi", 
+        "suurennuslasi", 
+        "haku", 
+        "työkalu", 
+        "lasi", 
+        "suurennuslasi oikealle"
+    ], 
+    "🔏": [
+        "kirjoittaa", 
+        "lukko ja kynä", 
+        "lukko", 
+        "suojaus", 
+        "mustekynä"
+    ], 
+    "🔐": [
+        "avain", 
+        "lukko", 
+        "kiinni", 
+        "turva", 
+        "avain ja lukko kiinni"
+    ], 
+    "🔑": [
+        "lukittu", 
+        "avain", 
+        "salasana"
+    ], 
+    "🔒": [
+        "lukko", 
+        "kiinni"
+    ], 
+    "🔓": [
+        "lukko auki", 
+        "lukko", 
+        "avata", 
+        "auki"
+    ], 
+    "🔔": [
+        "sointi", 
+        "kirkonkello", 
+        "ääni", 
+        "kello"
+    ], 
+    "🔕": [
+        "kielto", 
+        "äänetön", 
+        "mykistetty kello", 
+        "mykistys", 
+        "kello", 
+        "hiljaisuus"
+    ], 
+    "🔖": [
+        "merkki", 
+        "kirjanmerkki"
+    ], 
+    "🔗": [
+        "lenkki", 
+        "ketju"
+    ], 
+    "🔘": [
+        "ympyrä", 
+        "valintaruutu", 
+        "valintanappi", 
+        "valinta", 
+        "muoto"
+    ], 
+    "🔙": [
+        "takaisin", 
+        "nuoli", 
+        "BACK-nuoli"
+    ], 
+    "🔚": [
+        "nuoli", 
+        "lopeta", 
+        "END-nuoli"
+    ], 
+    "🔛": [
+        "ON!-nuoli", 
+        "nuoli", 
+        "päällä"
+    ], 
+    "🔜": [
+        "nuoli", 
+        "SOON-nuoli", 
+        "tulossa"
+    ], 
+    "🔝": [
+        "alkuun", 
+        "TOP-nuoli", 
+        "nuoli"
+    ], 
+    "🔞": [
+        "kielletty alaikäisiltä", 
+        "kielletty", 
+        "ikärajoitus", 
+        "18", 
+        "ikäraja", 
+        "täysi-ikäinen"
+    ], 
+    "🔟": [
+        "näppäin", 
+        "näppäin: 10"
+    ], 
+    "🔠": [
+        "ABCD", 
+        "syötä isoja kirjaimia", 
+        "aakkoset", 
+        "latinalaiset", 
+        "syötä", 
+        "isot", 
+        "kirjaimet"
+    ], 
+    "🔡": [
+        "abcd", 
+        "aakkoset", 
+        "latinalaiset", 
+        "syötä", 
+        "pienet", 
+        "syötä pieniä kirjaimia", 
+        "kirjaimet"
+    ], 
+    "🔢": [
+        "1234", 
+        "syötä", 
+        "numerot", 
+        "syötä numeroja"
+    ], 
+    "🔣": [
+        "syötä", 
+        "symbolit", 
+        "syötä merkkejä", 
+        "merkit"
+    ], 
+    "🔤": [
+        "syötä kirjaimia", 
+        "latinalaiset", 
+        "syötä", 
+        "aakkoset", 
+        "kirjaimet"
+    ], 
+    "🔥": [
+        "tuli", 
+        "lieska", 
+        "liekki", 
+        "nuotio"
+    ], 
+    "🔦": [
+        "taskulamppu", 
+        "sähkö", 
+        "valo", 
+        "lamppu"
+    ], 
+    "🔧": [
+        "jakoavain", 
+        "työkalu"
+    ], 
+    "🔨": [
+        "vasara", 
+        "työkalu"
+    ], 
+    "🔩": [
+        "ruuvi", 
+        "työkalu", 
+        "ruuvi ja mutteri", 
+        "mutteri"
+    ], 
+    "🔪": [
+        "ruoanlaitto", 
+        "teräase", 
+        "keittiöveitsi", 
+        "leikkuuveitsi", 
+        "veitsi", 
+        "työkalu"
+    ], 
+    "🔫": [
+        "pistooli", 
+        "vesipyssy", 
+        "pyssy", 
+        "revolveri"
+    ], 
+    "🔬": [
+        "mikroskooppi", 
+        "työkalu"
+    ], 
+    "🔭": [
+        "kaukoputki", 
+        "teleskooppi", 
+        "työkalu"
+    ], 
+    "🔮": [
+        "tulevaisuus", 
+        "ennustaja", 
+        "ennustus", 
+        "povaus", 
+        "kristallipallo", 
+        "kristalli", 
+        "taika"
+    ], 
+    "🔯": [
+        "tähti", 
+        "onnentähti", 
+        "uskonto", 
+        "kuusisakarainen tähti pisteellä"
+    ], 
+    "🔰": [
+        "shoshinsha", 
+        "aloittelija", 
+        "auto", 
+        "ajokortti", 
+        "japanilainen symboli aloittelijalle", 
+        "Japani"
+    ], 
+    "🔱": [
+        "ankkuri", 
+        "atrain", 
+        "laiva", 
+        "meri", 
+        "kolmikärki", 
+        "kolme"
+    ], 
+    "🔲": [
+        "valintaruutu", 
+        "musta neliöruutu", 
+        "neliö", 
+        "valinta", 
+        "muoto"
+    ], 
+    "🔳": [
+        "valintaruutu", 
+        "neliö", 
+        "valkoinen neliöruutu", 
+        "valinta", 
+        "muoto"
+    ], 
+    "🔴": [
+        "punainen ympyrä", 
+        "ympyrä", 
+        "punainen", 
+        "muoto"
+    ], 
+    "🔵": [
+        "sininen", 
+        "ympyrä", 
+        "sininen ympyrä", 
+        "muoto"
+    ], 
+    "🔶": [
+        "oranssi", 
+        "muoto", 
+        "vinoneliö", 
+        "iso oranssi vinoneliö"
+    ], 
+    "🔷": [
+        "sininen", 
+        "iso sininen vinoneliö", 
+        "vinoneliö", 
+        "muoto"
+    ], 
+    "🔸": [
+        "oranssi", 
+        "pieni oranssi vinoneliö", 
+        "vinoneliö", 
+        "muoto"
+    ], 
+    "🔹": [
+        "sininen", 
+        "vinoneliö", 
+        "pieni sininen vinoneliö", 
+        "muoto"
+    ], 
+    "🔺": [
+        "punainen", 
+        "punainen kolmio kärki ylös", 
+        "kolmio", 
+        "muoto"
+    ], 
+    "🔻": [
+        "punainen kolmio kärki alas", 
+        "punainen", 
+        "kolmio", 
+        "muoto"
+    ], 
+    "🔼": [
+        "ylös", 
+        "kolmio", 
+        "nappi"
+    ], 
+    "🔽": [
+        "alas", 
+        "kolmio", 
+        "nappi"
+    ], 
+    "🕋": [
+        "muslimi", 
+        "Kaaba", 
+        "uskonto", 
+        "rakennus", 
+        "islam"
+    ], 
+    "🕌": [
+        "muslimi", 
+        "moskeija", 
+        "uskonto", 
+        "rakennus", 
+        "islam"
+    ], 
+    "🕍": [
+        "synagoga", 
+        "temppeli", 
+        "rakennus", 
+        "uskonto", 
+        "juutalaisuus"
+    ], 
+    "🕎": [
+        "seitsenhaarainen", 
+        "kynttilä", 
+        "menora", 
+        "uskonto", 
+        "juutalaisuus"
+    ], 
+    "🕐": [
+        "1.00", 
+        "13", 
+        "kello", 
+        "kellonaika", 
+        "1", 
+        "kello yksi", 
+        "aika", 
+        "13.00"
+    ], 
+    "🕑": [
+        "14", 
+        "kello", 
+        "kellonaika", 
+        "2", 
+        "14.00", 
+        "aika", 
+        "kello kaksi", 
+        "2.00"
+    ], 
+    "🕒": [
+        "15", 
+        "3.00", 
+        "kello kolme", 
+        "kello", 
+        "kellonaika", 
+        "3", 
+        "15.00", 
+        "aika"
+    ], 
+    "🕓": [
+        "4.00", 
+        "16", 
+        "16.00", 
+        "kello", 
+        "kellonaika", 
+        "4", 
+        "aika", 
+        "kello neljä"
+    ], 
+    "🕔": [
+        "17", 
+        "kello", 
+        "kellonaika", 
+        "5", 
+        "17.00", 
+        "kello viisi", 
+        "aika", 
+        "5.00"
+    ], 
+    "🕕": [
+        "18.00", 
+        "6.00", 
+        "18", 
+        "kello kuusi", 
+        "kello", 
+        "kellonaika", 
+        "6", 
+        "aika"
+    ], 
+    "🕖": [
+        "7.00", 
+        "19", 
+        "kello", 
+        "kellonaika", 
+        "kello seitsemän", 
+        "7", 
+        "aika"
+    ], 
+    "🕗": [
+        "20", 
+        "kello", 
+        "kellonaika", 
+        "8.00", 
+        "kello kahdeksan", 
+        "8", 
+        "20.00", 
+        "aika"
+    ], 
+    "🕘": [
+        "21", 
+        "9.00", 
+        "kello", 
+        "kellonaika", 
+        "21.00", 
+        "9", 
+        "aika", 
+        "kello yhdeksän"
+    ], 
+    "🕙": [
+        "10", 
+        "22", 
+        "kello", 
+        "kello kymmenen", 
+        "22.00", 
+        "10.00", 
+        "kellonaika", 
+        "aika"
+    ], 
+    "🕚": [
+        "11", 
+        "23", 
+        "kello yksitoista", 
+        "23.00", 
+        "11.00", 
+        "kello", 
+        "kellonaika", 
+        "aika"
+    ], 
+    "🕛": [
+        "12", 
+        "24.00", 
+        "kello", 
+        "kellonaika", 
+        "12.00", 
+        "kello kaksitoista", 
+        "aika", 
+        "00.00"
+    ], 
+    "🕜": [
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "puoli kaksi", 
+        "1.30", 
+        "aika", 
+        "13.30"
+    ], 
+    "🕝": [
+        "2.30", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "puoli kolme", 
+        "14.30", 
+        "aika"
+    ], 
+    "🕞": [
+        "15.30", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "3.30", 
+        "aika", 
+        "puoli neljä"
+    ], 
+    "🕟": [
+        "16.30", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "aika", 
+        "4.30", 
+        "puoli viisi"
+    ], 
+    "🕠": [
+        "17.30", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "puoli kuusi", 
+        "5.30", 
+        "aika"
+    ], 
+    "🕡": [
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "6.30", 
+        "aika", 
+        "18.30", 
+        "puoli seitsemän"
+    ], 
+    "🕢": [
+        "7.30", 
+        "puoli kahdeksan", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "aika", 
+        "19.30"
+    ], 
+    "🕣": [
+        "20.30", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "8.30", 
+        "aika", 
+        "puoli yhdeksän"
+    ], 
+    "🕤": [
+        "9.30", 
+        "30", 
+        "puoli kymmenen", 
+        "kello", 
+        "kellonaika", 
+        "21.30", 
+        "aika"
+    ], 
+    "🕥": [
+        "10.30", 
+        "22.30", 
+        "30", 
+        "puoli yksitoista", 
+        "kello", 
+        "kellonaika", 
+        "aika"
+    ], 
+    "🕦": [
+        "23.30", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "11.30", 
+        "puoli kaksitoista", 
+        "aika"
+    ], 
+    "🕧": [
+        "12.30", 
+        "30", 
+        "kello", 
+        "kellonaika", 
+        "puoli yksi", 
+        "aika", 
+        "00.30"
+    ], 
+    "🕺": [
+        "mies", 
+        "tanssiva mies", 
+        "tanssi", 
+        "mies tanssii"
+    ], 
+    "🖕": [
+        "keskisormi", 
+        "vartalo", 
+        "käsi", 
+        "sormi"
+    ], 
+    "🖖": [
+        "käsi", 
+        "vulkanilainen", 
+        "spock", 
+        "vulkanilaisten tervehdys", 
+        "sormi", 
+        "vartalo"
+    ], 
+    "🖤": [
+        "musta sydän", 
+        "sydän", 
+        "musta"
+    ], 
+    "🗻": [
+        "Fuji", 
+        "Fuji-vuori", 
+        "vuori"
+    ], 
+    "🗼": [
+        "Tokio", 
+        "Japani", 
+        "torni", 
+        "Tokyo Tower", 
+        "rakennus"
+    ], 
+    "🗽": [
+        "Vapaudenpatsas", 
+        "New York", 
+        "patsas", 
+        "vapaus", 
+        "USA"
+    ], 
+    "🗾": [
+        "kartta", 
+        "Japanin kartta", 
+        "Japani"
+    ], 
+    "🗿": [
+        "moai", 
+        "kivipatsas", 
+        "patsas", 
+        "kasvot", 
+        "Pääsiäissaari", 
+        "moait"
+    ], 
+    "😀": [
+        "virnistys", 
+        "naama", 
+        "kasvot", 
+        "leveä hymy", 
+        "hymy"
+    ], 
+    "😁": [
+        "naama", 
+        "virnistys", 
+        "virnistys ja hymyilevät silmät", 
+        "kasvot", 
+        "hymy", 
+        "silmä"
+    ], 
+    "😂": [
+        "naama", 
+        "ilo", 
+        "itkunauru", 
+        "repiö", 
+        "nauru", 
+        "kyynel", 
+        "naurunkyyneleet", 
+        "kasvot naurunkyynelissä"
+    ], 
+    "😃": [
+        "naama", 
+        "hymy suu auki", 
+        "suu", 
+        "kasvot", 
+        "auki", 
+        "hymy"
+    ], 
+    "😄": [
+        "naama", 
+        "hymyilevät silmät ja suu", 
+        "suu", 
+        "kasvot", 
+        "auki", 
+        "hymy", 
+        "silmä"
+    ], 
+    "😅": [
+        "kylmä", 
+        "naama", 
+        "hiki", 
+        "hymy ja kylmänhiki", 
+        "auki", 
+        "hymy"
+    ], 
+    "😆": [
+        "naama", 
+        "hymy ja tiukasti suljetut silmät", 
+        "tyytyväinen", 
+        "suu", 
+        "auki", 
+        "hymy", 
+        "nauru"
+    ], 
+    "😇": [
+        "hymy ja sädekehä", 
+        "naama", 
+        "satu", 
+        "viaton", 
+        "tarina", 
+        "sädekehä", 
+        "hymy", 
+        "enkeli"
+    ], 
+    "😈": [
+        "naama", 
+        "satu", 
+        "sarvet", 
+        "pirullinen hymy ja sarvet", 
+        "hymy", 
+        "fantasia"
+    ], 
+    "😉": [
+        "naama", 
+        "flirtti", 
+        "kasvot", 
+        "silmänisku", 
+        "huumori", 
+        "salaisuus", 
+        "silmä"
+    ], 
+    "😊": [
+        "punastunut", 
+        "silmä", 
+        "naama", 
+        "punastunut hymy", 
+        "hymy"
+    ], 
+    "😋": [
+        "naama", 
+        "nautiskeleva", 
+        "nami", 
+        "herkullista ruokaa nauttinut", 
+        "nam", 
+        "herkullinen", 
+        "hymy"
+    ], 
+    "😌": [
+        "helpottunut", 
+        "naama", 
+        "helpotus"
+    ], 
+    "😍": [
+        "naama", 
+        "rakkaus", 
+        "sydän", 
+        "hymy", 
+        "hymy ja sydänsilmät", 
+        "silmä"
+    ], 
+    "😎": [
+        "naama", 
+        "aurinko", 
+        "lasit", 
+        "aurinkolasihymy", 
+        "silmälasit", 
+        "kirkas", 
+        "sää", 
+        "hymy", 
+        "silmä", 
+        "aurinkolasit", 
+        "cool"
+    ], 
+    "😏": [
+        "naama", 
+        "virnistys", 
+        "virne", 
+        "huvittunut", 
+        "hymy"
+    ], 
+    "😐": [
+        "tunteeton", 
+        "naama", 
+        "neutraali", 
+        "naama peruslukemilla"
+    ], 
+    "😑": [
+        "tyhjä", 
+        "kasvot", 
+        "naama", 
+        "ilmeetön", 
+        "tunteeton"
+    ], 
+    "😒": [
+        "onneton", 
+        "naama", 
+        "ei naurata"
+    ], 
+    "😓": [
+        "kylmä", 
+        "naama", 
+        "kylmänhiki", 
+        "hiki"
+    ], 
+    "😔": [
+        "mietteliäs", 
+        "lannistunut", 
+        "ajatteleva", 
+        "naama", 
+        "pohdiskeleva"
+    ], 
+    "😕": [
+        "hämmentynyt", 
+        "hämmennys", 
+        "naama", 
+        "häkeltynyt"
+    ], 
+    "😖": [
+        "hämmentynyt", 
+        "pöyristynyt", 
+        "naama", 
+        "tyrmistynyt"
+    ], 
+    "😗": [
+        "suukko", 
+        "suudelma", 
+        "naama", 
+        "pusunaama", 
+        "pusu"
+    ], 
+    "😘": [
+        "sydän", 
+        "naama", 
+        "pusu", 
+        "lentosuukko"
+    ], 
+    "😙": [
+        "pusunaama ja hymyilevät silmät", 
+        "silmä", 
+        "naama", 
+        "pusu", 
+        "hymy"
+    ], 
+    "😚": [
+        "suljettu", 
+        "silmä", 
+        "naama", 
+        "pusunaama ja suljetut silmät", 
+        "pusu"
+    ], 
+    "😛": [
+        "kieli ulkona", 
+        "naama", 
+        "kieli"
+    ], 
+    "😜": [
+        "naama", 
+        "vitsi", 
+        "silmänisku", 
+        "silmä", 
+        "kieli ulkona ja silmänisku", 
+        "kieli"
+    ], 
+    "😝": [
+        "naama", 
+        "kieli ulkona ja silmät tiukasti kiinni", 
+        "kamala", 
+        "kieli", 
+        "silmä", 
+        "maku"
+    ], 
+    "😞": [
+        "pettynyt", 
+        "naama", 
+        "pettymys"
+    ], 
+    "😟": [
+        "huoli", 
+        "huolestunut", 
+        "naama"
+    ], 
+    "😠": [
+        "vihainen", 
+        "naama", 
+        "raivo", 
+        "viha", 
+        "kiukku"
+    ], 
+    "😡": [
+        "punainen", 
+        "naama", 
+        "mököttävä", 
+        "suuttunut", 
+        "vihainen", 
+        "raivo"
+    ], 
+    "😢": [
+        "surullinen", 
+        "itku", 
+        "kyynel", 
+        "itkevä", 
+        "naama"
+    ], 
+    "😣": [
+        "peräänantamaton", 
+        "sisukas", 
+        "kärsivä", 
+        "naama", 
+        "hellittämätön"
+    ], 
+    "😤": [
+        "voittaja", 
+        "voitto", 
+        "höyryä nenästä", 
+        "naama"
+    ], 
+    "😥": [
+        "pettynyt", 
+        "helpottunut", 
+        "naama", 
+        "huh", 
+        "pettynyt mutta helpottunut"
+    ], 
+    "😦": [
+        "surullinen ja suu auki", 
+        "suu", 
+        "naama", 
+        "surullinen", 
+        "auki"
+    ], 
+    "😧": [
+        "ahdistunut", 
+        "hätä", 
+        "ahdistus", 
+        "naama"
+    ], 
+    "😨": [
+        "pelokas", 
+        "naama", 
+        "pelko", 
+        "pelästynyt"
+    ], 
+    "😩": [
+        "väsynyt", 
+        "uupumus", 
+        "naama", 
+        "poikki", 
+        "uupunut"
+    ], 
+    "😪": [
+        "uni", 
+        "naama", 
+        "unelias"
+    ], 
+    "😫": [
+        "väsynyt", 
+        "uupumus", 
+        "naama", 
+        "väsymys"
+    ], 
+    "😬": [
+        "irvistävä", 
+        "naama", 
+        "irvistys"
+    ], 
+    "😭": [
+        "itku", 
+        "nyyhky", 
+        "naama", 
+        "ääneen itkevä", 
+        "surullinen", 
+        "kyynel"
+    ], 
+    "😮": [
+        "yllättynyt", 
+        "suu", 
+        "naama", 
+        "empatia", 
+        "auki"
+    ], 
+    "😯": [
+        "sanaton", 
+        "naama", 
+        "järkyttynyt", 
+        "yllättynyt"
+    ], 
+    "😰": [
+        "kylmä", 
+        "naama", 
+        "hiki", 
+        "sininen", 
+        "avoin suu ja kylmänhiki", 
+        "suu", 
+        "auki"
+    ], 
+    "😱": [
+        "naama", 
+        "huuto", 
+        "Munch", 
+        "pelokas huuto", 
+        "pelokas", 
+        "pelko"
+    ], 
+    "😲": [
+        "ihmetys", 
+        "ällistynyt", 
+        "naama", 
+        "tosi", 
+        "järkyttynyt"
+    ], 
+    "😳": [
+        "punastunut naama", 
+        "naama", 
+        "tyrmistynyt", 
+        "punastunut"
+    ], 
+    "😴": [
+        "uni", 
+        "nukkuva", 
+        "naama", 
+        "zzz"
+    ], 
+    "😵": [
+        "naama", 
+        "tuupertuva", 
+        "pyörtyvä", 
+        "huimaus"
+    ], 
+    "😶": [
+        "naama ilman suuta", 
+        "hiljaa", 
+        "naama", 
+        "hiljainen", 
+        "suu"
+    ], 
+    "😷": [
+        "sairas", 
+        "naama", 
+        "suoja", 
+        "lääke", 
+        "flunssa", 
+        "lääkäri", 
+        "naama ja hengityssuoja"
+    ], 
+    "😸": [
+        "naama", 
+        "virnistys", 
+        "kissa", 
+        "hymy", 
+        "silmä", 
+        "virnistävä kissa ja hymyilevät silmät"
+    ], 
+    "😹": [
+        "ilo", 
+        "kissa", 
+        "naama", 
+        "nauru", 
+        "kissanaama ja naurunkyyneleet"
+    ], 
+    "😺": [
+        "naama", 
+        "leveästi hymyilevä kissa", 
+        "suu", 
+        "kissa", 
+        "auki", 
+        "hymy"
+    ], 
+    "😻": [
+        "naama", 
+        "rakkaus", 
+        "kissanaama ja sydänsilmät", 
+        "kissa", 
+        "sydän", 
+        "hymy", 
+        "silmä"
+    ], 
+    "😼": [
+        "naama", 
+        "vino", 
+        "hymy", 
+        "kissa", 
+        "ironinen", 
+        "vinosti hymyilevä kissa"
+    ], 
+    "😽": [
+        "silmä", 
+        "kissa", 
+        "naama", 
+        "kissan pusunaama ja suljetut silmät", 
+        "pusu"
+    ], 
+    "😾": [
+        "kissa", 
+        "mököttävä", 
+        "naama", 
+        "mököttävä kissa"
+    ], 
+    "😿": [
+        "itkevä kissa", 
+        "itku", 
+        "kissa", 
+        "naama", 
+        "surullinen", 
+        "kyynel"
+    ], 
+    "🙀": [
+        "yllättynyt", 
+        "kissa", 
+        "naama", 
+        "oho", 
+        "yllättynyt kissa"
+    ], 
+    "🙁": [
+        "naama", 
+        "hieman surullinen", 
+        "surullinen"
+    ], 
+    "🙂": [
+        "naama", 
+        "pieni hymy", 
+        "hymy"
+    ], 
+    "🙃": [
+        "väärinpäin", 
+        "naama", 
+        "ylösalainen", 
+        "ylösalainen naama"
+    ], 
+    "🙄": [
+        "pyörivä", 
+        "naama", 
+        "silmien pyöritys", 
+        "silmät"
+    ], 
+    "🙅": [
+        "käsi", 
+        "ele", 
+        "ei", 
+        "kielletty", 
+        "ei-ele"
+    ], 
+    "🙆": [
+        "ok-ele", 
+        "käsi", 
+        "ok", 
+        "ele"
+    ], 
+    "🙇": [
+        "anteeksi", 
+        "kumartava henkilö", 
+        "anteeksipyyntö", 
+        "kumarrus", 
+        "ele"
+    ], 
+    "🙈": [
+        "naama", 
+        "ei", 
+        "kielletty", 
+        "ele", 
+        "en näe pahaa", 
+        "paha", 
+        "näe", 
+        "apina"
+    ], 
+    "🙉": [
+        "naama", 
+        "ei", 
+        "kuule", 
+        "kielletty", 
+        "en kuule pahaa", 
+        "ele", 
+        "paha", 
+        "apina"
+    ], 
+    "🙊": [
+        "naama", 
+        "ei", 
+        "kielletty", 
+        "en puhu pahaa", 
+        "ele", 
+        "paha", 
+        "puhu", 
+        "apina"
+    ], 
+    "🙋": [
+        "iloinen henkilö viittaa", 
+        "nostettu", 
+        "käsi", 
+        "iloinen", 
+        "ele"
+    ], 
+    "🙌": [
+        "juhla", 
+        "ele", 
+        "nostettu", 
+        "käsi", 
+        "hurraa", 
+        "nousevat kädet", 
+        "vartalo"
+    ], 
+    "🙍": [
+        "surullinen henkilö", 
+        "surullinen", 
+        "ele"
+    ], 
+    "🙎": [
+        "mököttävä henkilö", 
+        "mököttävä", 
+        "ele"
+    ], 
+    "🙏": [
+        "kämmenet yhdessä", 
+        "kysy", 
+        "ele", 
+        "käsi", 
+        "pliis", 
+        "kumarrus", 
+        "vartalo", 
+        "kiitos", 
+        "rukous"
+    ], 
+    "🚀": [
+        "ajoneuvo", 
+        "avaruus", 
+        "raketti"
+    ], 
+    "🚁": [
+        "ajoneuvo", 
+        "helikopteri"
+    ], 
+    "🚂": [
+        "juna", 
+        "ajoneuvo", 
+        "rautatie", 
+        "veturi"
+    ], 
+    "🚃": [
+        "juna", 
+        "ajoneuvo", 
+        "raitiovaunu", 
+        "rautatie", 
+        "junavaunu"
+    ], 
+    "🚄": [
+        "pikajuna", 
+        "juna", 
+        "shinkansen", 
+        "ajoneuvo", 
+        "luotijuna", 
+        "rautatie"
+    ], 
+    "🚅": [
+        "juna", 
+        "luotipikajuna", 
+        "shinkansen", 
+        "ajoneuvo", 
+        "luotijuna", 
+        "rautatie"
+    ], 
+    "🚆": [
+        "juna", 
+        "ajoneuvo", 
+        "rautatie"
+    ], 
+    "🚇": [
+        "ajoneuvo", 
+        "maanalainen", 
+        "metro"
+    ], 
+    "🚈": [
+        "juna", 
+        "ajoneuvo", 
+        "kevytraidejuna", 
+        "rautatie"
+    ], 
+    "🚉": [
+        "juna", 
+        "ajoneuvo", 
+        "asema", 
+        "rautatie"
+    ], 
+    "🚊": [
+        "ajoneuvo", 
+        "raiteet", 
+        "raitioliikenne"
+    ], 
+    "🚋": [
+        "ajoneuvo", 
+        "ratikka", 
+        "raitiovaunu", 
+        "raiteet"
+    ], 
+    "🚌": [
+        "ajoneuvo", 
+        "bussi", 
+        "linja-auto", 
+        "auto"
+    ], 
+    "🚍": [
+        "saapuva bussi", 
+        "ajoneuvo", 
+        "bussi", 
+        "linja-auto", 
+        "auto"
+    ], 
+    "🚎": [
+        "johdinbussi", 
+        "ajoneuvo", 
+        "johdinauto", 
+        "auto"
+    ], 
+    "🚏": [
+        "asema", 
+        "pysäkki", 
+        "bussipysäkki"
+    ], 
+    "🚐": [
+        "auto", 
+        "bussi", 
+        "ajoneuvo", 
+        "linja-auto", 
+        "pikkubussi", 
+        "minibussi"
+    ], 
+    "🚑": [
+        "ajoneuvo", 
+        "ambulanssi", 
+        "auto"
+    ], 
+    "🚒": [
+        "ajoneuvo", 
+        "paloauto", 
+        "tulipalo", 
+        "auto"
+    ], 
+    "🚓": [
+        "ajoneuvo", 
+        "poliisi", 
+        "poliisiauto", 
+        "auto"
+    ], 
+    "🚔": [
+        "ajoneuvo", 
+        "saapuva poliisiauto", 
+        "poliisi", 
+        "vastaantuleva", 
+        "auto"
+    ], 
+    "🚕": [
+        "ajoneuvo", 
+        "taksi", 
+        "auto"
+    ], 
+    "🚖": [
+        "ajoneuvo", 
+        "saapuva taksi", 
+        "taksi", 
+        "auto"
+    ], 
+    "🚗": [
+        "ajoneuvo", 
+        "auto"
+    ], 
+    "🚘": [
+        "saapuva auto", 
+        "ajoneuvo", 
+        "auto"
+    ], 
+    "🚙": [
+        "ajoneuvo", 
+        "katumaasturi", 
+        "auto"
+    ], 
+    "🚚": [
+        "kuljetusauto", 
+        "ajoneuvo", 
+        "rekka", 
+        "auto"
+    ], 
+    "🚛": [
+        "rekka-auto", 
+        "ajoneuvo", 
+        "rekka", 
+        "auto"
+    ], 
+    "🚜": [
+        "ajoneuvo", 
+        "traktori", 
+        "auto"
+    ], 
+    "🚝": [
+        "raide", 
+        "ajoneuvo", 
+        "yksiraidejuna", 
+        "monorail"
+    ], 
+    "🚞": [
+        "juna", 
+        "ajoneuvo", 
+        "rinnerata", 
+        "rautatie", 
+        "funikulaari"
+    ], 
+    "🚟": [
+        "riippurata", 
+        "juna", 
+        "ajoneuvo", 
+        "kisko", 
+        "rata", 
+        "rautatie"
+    ], 
+    "🚠": [
+        "gondoli", 
+        "gondolihissi", 
+        "kaapeli", 
+        "kabiini", 
+        "vuori", 
+        "ajoneuvo", 
+        "hissi"
+    ], 
+    "🚡": [
+        "ajoneuvo", 
+        "rata", 
+        "köysirata", 
+        "kaapeli", 
+        "gondoli"
+    ], 
+    "🚢": [
+        "laiva", 
+        "ajoneuvo", 
+        "meri", 
+        "alus"
+    ], 
+    "🚣": [
+        "vene", 
+        "meri", 
+        "soutaja", 
+        "soutuvene", 
+        "soutaa"
+    ], 
+    "🚤": [
+        "vene", 
+        "ajoneuvo", 
+        "pikavene", 
+        "moottorivene", 
+        "meri"
+    ], 
+    "🚥": [
+        "vaakasuuntaiset liikennevalot", 
+        "liikenne", 
+        "valo", 
+        "liikennevalo"
+    ], 
+    "🚦": [
+        "pystysuuntaiset liikennevalot", 
+        "liikenne", 
+        "valo", 
+        "liikennevalo"
+    ], 
+    "🚧": [
+        "este", 
+        "rakennustyömaan merkki"
+    ], 
+    "🚨": [
+        "poliisi", 
+        "valo", 
+        "hälytys", 
+        "poliisiauton valo"
+    ], 
+    "🚩": [
+        "kolmiolippu", 
+        "lippu"
+    ], 
+    "🚪": [
+        "ovi"
+    ], 
+    "🚫": [
+        "liikenne", 
+        "pääsy kielletty", 
+        "kielletty", 
+        "pääsy"
+    ], 
+    "🚬": [
+        "tupakointi", 
+        "savuke"
+    ], 
+    "🚭": [
+        "tupakka", 
+        "tupakointi", 
+        "kielletty", 
+        "tupakointi kielletty"
+    ], 
+    "🚮": [
+        "roskakori", 
+        "roska", 
+        "roskat-merkki"
+    ], 
+    "🚯": [
+        "roskaaminen kielletty", 
+        "roska", 
+        "kielletty"
+    ], 
+    "🚰": [
+        "juoma", 
+        "juotava", 
+        "juomakelpoista vettä", 
+        "vesi"
+    ], 
+    "🚱": [
+        "vesi ei juomakelpoista", 
+        "vesi", 
+        "juomakelpoinen", 
+        "kielletty", 
+        "juominen"
+    ], 
+    "🚲": [
+        "ajoneuvo", 
+        "pyörä", 
+        "polkupyörä"
+    ], 
+    "🚳": [
+        "pyörä", 
+        "ei polkupyörille", 
+        "liikenne", 
+        "polkupyörä", 
+        "kielletty"
+    ], 
+    "🚴": [
+        "pyörä", 
+        "polkupyörä", 
+        "pyöräilijä"
+    ], 
+    "🚵": [
+        "pyörä", 
+        "pyöräilijä", 
+        "polkupyörä", 
+        "maastopyöräilijä", 
+        "maasto"
+    ], 
+    "🚶": [
+        "kävely", 
+        "kävelijä", 
+        "jalankulkija", 
+        "patikointi", 
+        "kävellä"
+    ], 
+    "🚷": [
+        "jalankulkija", 
+        "kielletty", 
+        "jalankulku kielletty"
+    ], 
+    "🚸": [
+        "liikenne", 
+        "suojatie", 
+        "jalankulkija", 
+        "lapsia liikenteessä", 
+        "lapsi"
+    ], 
+    "🚹": [
+        "miestenhuone", 
+        "wc", 
+        "miesten wc", 
+        "vessa"
+    ], 
+    "🚺": [
+        "wc", 
+        "naistenhuone", 
+        "naisten wc", 
+        "vessa"
+    ], 
+    "🚻": [
+        "saniteetti", 
+        "wc", 
+        "vessa"
+    ], 
+    "🚼": [
+        "vauva", 
+        "lapsenhoito", 
+        "vauva-merkki"
+    ], 
+    "🚽": [
+        "vessanpönttö", 
+        "vessa"
+    ], 
+    "🚾": [
+        "käymälä", 
+        "vesssa", 
+        "wc", 
+        "vessa"
+    ], 
+    "🚿": [
+        "suihku", 
+        "vesi"
+    ], 
+    "🛀": [
+        "kylpijä", 
+        "kylpy", 
+        "kylpyamme"
+    ], 
+    "🛁": [
+        "kylpy", 
+        "kylpyamme"
+    ], 
+    "🛂": [
+        "passintarkastus", 
+        "passi", 
+        "tarkastus"
+    ], 
+    "🛃": [
+        "tulli"
+    ], 
+    "🛄": [
+        "hihna", 
+        "luovutus", 
+        "matkatavarat"
+    ], 
+    "🛅": [
+        "tavarasäilytys", 
+        "säilytyslokero", 
+        "matkatavarat", 
+        "säilytys"
+    ], 
+    "🛌": [
+        "uni", 
+        "hotelli", 
+        "nukkua", 
+        "nukkuja"
+    ], 
+    "🛐": [
+        "palvonta", 
+        "pyhäkkö", 
+        "pyhä rakennus", 
+        "uskonto", 
+        "palvontapaikka"
+    ], 
+    "🛑": [
+        "pysähtyä", 
+        "merkki", 
+        "pysähtymismerkki"
+    ], 
+    "🛒": [
+        "kärryt", 
+        "ostokset", 
+        "ostaminen", 
+        "ostoskärryt"
+    ], 
+    "🛫": [
+        "ajoneuvo", 
+        "lentokone", 
+        "lähtevä", 
+        "lähtö", 
+        "lähtevä lentokone"
+    ], 
+    "🛬": [
+        "saapuva", 
+        "ajoneuvo", 
+        "lentokone", 
+        "laskeutuminen", 
+        "saapuva lentokone"
+    ], 
+    "🛴": [
+        "potku", 
+        "lauta", 
+        "potkulauta"
+    ], 
+    "🛵": [
+        "ajoneuvo", 
+        "skootteri"
+    ], 
+    "🛶": [
+        "vene", 
+        "kanootti"
+    ], 
+    "🛷": [
+        "kelkka", 
+        "kouru", 
+        "lasku"
+    ], 
+    "🛸": [
+        "UFO", 
+        "lentävä lautanen"
+    ], 
+    "🤐": [
+        "suu", 
+        "naama", 
+        "vetoketjusuu", 
+        "vetoketju"
+    ], 
+    "🤑": [
+        "dollarisilmät ja rahasuu", 
+        "naama", 
+        "raha", 
+        "suu"
+    ], 
+    "🤒": [
+        "kuume", 
+        "naama", 
+        "lämpö", 
+        "naama ja kuumemittari", 
+        "sairas", 
+        "kasvot", 
+        "lämpömittari", 
+        "kipeä"
+    ], 
+    "🤓": [
+        "nörtti", 
+        "naama", 
+        "silmälasit", 
+        "jänöhammas"
+    ], 
+    "🤔": [
+        "mietteliäs", 
+        "naama"
+    ], 
+    "🤕": [
+        "vamma", 
+        "naama", 
+        "naama ja pääside", 
+        "kipeä", 
+        "side"
+    ], 
+    "🤖": [
+        "hirviö", 
+        "naama", 
+        "robotti", 
+        "robottinaama"
+    ], 
+    "🤗": [
+        "hali", 
+        "halaava naama", 
+        "naama", 
+        "halaus"
+    ], 
+    "🤘": [
+        "rock", 
+        "käsi", 
+        "sarvet", 
+        "sarviele", 
+        "vartalo", 
+        "sormi"
+    ], 
+    "🤙": [
+        "käsi", 
+        "soita", 
+        "soita minulle"
+    ], 
+    "🤚": [
+        "kämmenselkä koholla", 
+        "kädenselkä", 
+        "kädenselkä koholla", 
+        "kohotettu"
+    ], 
+    "🤛": [
+        "nyrkki", 
+        "vasen", 
+        "nyrkki vasemmalle"
+    ], 
+    "🤜": [
+        "nyrkki", 
+        "oikea", 
+        "nyrkki oikealle"
+    ], 
+    "🤝": [
+        "kätellä", 
+        "tapaaminen", 
+        "kädenpuristus", 
+        "käsi", 
+        "sopimus"
+    ], 
+    "🤞": [
+        "onni", 
+        "sormi", 
+        "käsi", 
+        "sormet ristissä", 
+        "risti"
+    ], 
+    "🤟": [
+        "rakastan sinua -ele", 
+        "käsi", 
+        "fanitus", 
+        "rakkaus"
+    ], 
+    "🤠": [
+        "kasvot", 
+        "hattu", 
+        "cowboy-hattu", 
+        "cowboy"
+    ], 
+    "🤡": [
+        "klovni", 
+        "kasvot", 
+        "pelle"
+    ], 
+    "🤢": [
+        "oksentaa", 
+        "kasvot", 
+        "pahoinvoida", 
+        "pahoinvoiva"
+    ], 
+    "🤣": [
+        "nauraa kippurassa", 
+        "kippura", 
+        "naama", 
+        "kasvot", 
+        "nauraa"
+    ], 
+    "🤤": [
+        "kuolaava", 
+        "kuola", 
+        "kasvot", 
+        "kuolata", 
+        "naama"
+    ], 
+    "🤥": [
+        "valehtelija", 
+        "kasvot", 
+        "valehteleva", 
+        "valehdella"
+    ], 
+    "🤦": [
+        "peittää kasvot kädellä", 
+        "epätoivo", 
+        "käsi", 
+        "kasvot", 
+        "pettymys"
+    ], 
+    "🤧": [
+        "terveydeksi", 
+        "naama", 
+        "aivastava", 
+        "kasvot", 
+        "aivastaa", 
+        "aivastus"
+    ], 
+    "🤨": [
+        "kohotetut kulmakarvat", 
+        "kasvot", 
+        "skeptinen", 
+        "naama", 
+        "epäilevä"
+    ], 
+    "🤩": [
+        "naama", 
+        "virnistys", 
+        "silmät", 
+        "kasvot", 
+        "tähdet", 
+        "tähtisilmä"
+    ], 
+    "🤪": [
+        "virne", 
+        "eripari", 
+        "mielipuoli", 
+        "silmät"
+    ], 
+    "🤫": [
+        "hyssyttää", 
+        "hiljentää", 
+        "hyssyttelevä"
+    ], 
+    "🤬": [
+        "sensuroitu suu", 
+        "kiroilu"
+    ], 
+    "🤭": [
+        "käsi suun edessä", 
+        "lipsahdus"
+    ], 
+    "🤮": [
+        "oksentaa", 
+        "naama", 
+        "yrjötä", 
+        "pahoinvointi", 
+        "oksentava"
+    ], 
+    "🤯": [
+        "naama", 
+        "sokki", 
+        "paukku", 
+        "järkytys", 
+        "raju", 
+        "räjähdys päässä"
+    ], 
+    "🤰": [
+        "raskaana", 
+        "nainen", 
+        "raskaana oleva nainen"
+    ], 
+    "🤱": [
+        "vauva", 
+        "rintamaito", 
+        "imettää", 
+        "syöttää", 
+        "äiti", 
+        "imetys", 
+        "ruokkia"
+    ], 
+    "🤲": [
+        "kämmenet vierekkäin", 
+        "anelu"
+    ], 
+    "🤳": [
+        "selfie", 
+        "kamera", 
+        "omakuva", 
+        "puhelin"
+    ], 
+    "🤴": [
+        "prinssi", 
+        "kuninkaallinen"
+    ], 
+    "🤵": [
+        "smokki", 
+        "sulhanen", 
+        "mies", 
+        "smokkipukuinen mies"
+    ], 
+    "🤶": [
+        "joulu", 
+        "joulupukin muori", 
+        "muori"
+    ], 
+    "🤷": [
+        "epäilys", 
+        "ei välitä", 
+        "kohauttaa", 
+        "olkapäitään kohauttava henkilö", 
+        "kohauttaa olkapäitään"
+    ], 
+    "🤸": [
+        "liikunta", 
+        "voimistelu", 
+        "kärrynpyörä", 
+        "urheilu"
+    ], 
+    "🤹": [
+        "taito", 
+        "jongleeraaja", 
+        "jongleeraus", 
+        "tasapainoilu"
+    ], 
+    "🤺": [
+        "liikunta", 
+        "urheilu", 
+        "miekka", 
+        "miekkailija", 
+        "miekkailu"
+    ], 
+    "🤼": [
+        "liikunta", 
+        "painijat", 
+        "painia", 
+        "painija", 
+        "urheilu"
+    ], 
+    "🤽": [
+        "liikunta", 
+        "vesipalloilija", 
+        "urheilu", 
+        "vesi", 
+        "pallo"
+    ], 
+    "🤾": [
+        "käsipallo", 
+        "liikunta", 
+        "käsipalloilija", 
+        "urheilu", 
+        "pallo"
+    ], 
+    "🥀": [
+        "nuutunut", 
+        "kukka", 
+        "nuutunut kukka"
+    ], 
+    "🥁": [
+        "rumpukapula", 
+        "rumpu", 
+        "musiikki"
+    ], 
+    "🥂": [
+        "lasi", 
+        "kilistää", 
+        "juhlia", 
+        "juoda", 
+        "kilisevät lasit"
+    ], 
+    "🥃": [
+        "juomalasi", 
+        "juoma", 
+        "lasi"
+    ], 
+    "🥄": [
+        "aterimet", 
+        "ruokailu", 
+        "lusikka"
+    ], 
+    "🥅": [
+        "liikunta", 
+        "maali", 
+        "maaliverkko", 
+        "urheilu"
+    ], 
+    "🥇": [
+        "kulta", 
+        "mitali", 
+        "ensimmäinen", 
+        "kultamitali"
+    ], 
+    "🥈": [
+        "mitali", 
+        "hopea", 
+        "hopeamitali", 
+        "toinen"
+    ], 
+    "🥉": [
+        "mitali", 
+        "kolmas", 
+        "pronssi", 
+        "pronssimitali"
+    ], 
+    "🥊": [
+        "liikunta", 
+        "hanska", 
+        "nyrkkeily", 
+        "nyrkkeilyhanska", 
+        "urheilu"
+    ], 
+    "🥋": [
+        "taekwondo", 
+        "judo", 
+        "asu", 
+        "urheilu", 
+        "karate", 
+        "kamppailulajit", 
+        "liikunta", 
+        "kamppailulajiasu"
+    ], 
+    "🥌": [
+        "kivi", 
+        "curling-kivi", 
+        "jää"
+    ], 
+    "🥐": [
+        "ruoka", 
+        "croissant", 
+        "ranskalainen", 
+        "voisarvi", 
+        "leipä"
+    ], 
+    "🥑": [
+        "hedelmä", 
+        "avokado", 
+        "ruoka"
+    ], 
+    "🥒": [
+        "kurkku", 
+        "vihannes", 
+        "ruoka"
+    ], 
+    "🥓": [
+        "liha", 
+        "pekoni", 
+        "ruoka"
+    ], 
+    "🥔": [
+        "ruoka", 
+        "vihannes", 
+        "peruna"
+    ], 
+    "🥕": [
+        "porkkana", 
+        "vihannes", 
+        "ruoka"
+    ], 
+    "🥖": [
+        "ruoka", 
+        "leipä", 
+        "ranskalainen", 
+        "patonki"
+    ], 
+    "🥗": [
+        "vihreä", 
+        "vihreä salaatti", 
+        "salaatti", 
+        "ruoka"
+    ], 
+    "🥘": [
+        "pata", 
+        "ruoka", 
+        "paellapannu", 
+        "paella", 
+        "pataruoka"
+    ], 
+    "🥙": [
+        "täytetty pita", 
+        "täyte", 
+        "kebab", 
+        "ruoka", 
+        "pita", 
+        "falafel", 
+        "leipä"
+    ], 
+    "🥚": [
+        "kananmuna", 
+        "ruoka"
+    ], 
+    "🥛": [
+        "juoma", 
+        "maitolasi", 
+        "maito", 
+        "lasi"
+    ], 
+    "🥜": [
+        "ruoka", 
+        "pähkinä", 
+        "maapähkinä"
+    ], 
+    "🥝": [
+        "hedelmä", 
+        "kiivi", 
+        "ruoka"
+    ], 
+    "🥞": [
+        "ruoka", 
+        "letut", 
+        "pannukakku", 
+        "lettu", 
+        "ohukainen"
+    ], 
+    "🥟": [
+        "pelmeni", 
+        "taikinanyytti", 
+        "myky"
+    ], 
+    "🥠": [
+        "onnenkeksi", 
+        "ennustus"
+    ], 
+    "🥡": [
+        "noutoruoka", 
+        "ateriarasia"
+    ], 
+    "🥢": [
+        "aterimet", 
+        "syömäpuikot", 
+        "ruokailu"
+    ], 
+    "🥣": [
+        "aamiainen", 
+        "murot", 
+        "kulho ja lusikka"
+    ], 
+    "🥤": [
+        "juoma", 
+        "lasi ja pilli", 
+        "mehu"
+    ], 
+    "🥥": [
+        "palmu", 
+        "kookospähkinä"
+    ], 
+    "🥦": [
+        "broccoli", 
+        "parsakaali"
+    ], 
+    "🥧": [
+        "leivonnainen", 
+        "piirakka", 
+        "täyte"
+    ], 
+    "🥨": [
+        "rinkilä", 
+        "pretzel", 
+        "kierretty"
+    ], 
+    "🥩": [
+        "lampaankyljys", 
+        "pihvi", 
+        "kyljys", 
+        "porsaankyljys", 
+        "lihanpala"
+    ], 
+    "🥪": [
+        "voileipä", 
+        "leipä", 
+        "kerrosleipä", 
+        "täyte"
+    ], 
+    "🥫": [
+        "purkki", 
+        "säilyketölkki"
+    ], 
+    "🦀": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "rapu"
+    ], 
+    "🦁": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "leijonan naama", 
+        "leijona", 
+        "naama"
+    ], 
+    "🦂": [
+        "horoskooppi", 
+        "horoskooppimerkki", 
+        "skorpioni"
+    ], 
+    "🦃": [
+        "kalkkuna", 
+        "lintu"
+    ], 
+    "🦄": [
+        "naama", 
+        "yksisarvinen", 
+        "yksisarvisen naama"
+    ], 
+    "🦅": [
+        "lintu", 
+        "kotka"
+    ], 
+    "🦆": [
+        "lintu", 
+        "sorsa"
+    ], 
+    "🦇": [
+        "vampyyri", 
+        "eläin", 
+        "lepakko"
+    ], 
+    "🦈": [
+        "hai", 
+        "kala"
+    ], 
+    "🦉": [
+        "pöllö", 
+        "lintu", 
+        "viisas"
+    ], 
+    "🦊": [
+        "ketun naama", 
+        "kettu", 
+        "eläin"
+    ], 
+    "🦋": [
+        "perhonen", 
+        "sievä", 
+        "hyönteinen"
+    ], 
+    "🦌": [
+        "peura", 
+        "hirvi", 
+        "eläin"
+    ], 
+    "🦍": [
+        "gorilla", 
+        "eläin"
+    ], 
+    "🦎": [
+        "matelija", 
+        "lisko"
+    ], 
+    "🦏": [
+        "eläin", 
+        "sarvikuono"
+    ], 
+    "🦐": [
+        "ruoka", 
+        "äyriäiset", 
+        "katkarapu"
+    ], 
+    "🦑": [
+        "mustekala", 
+        "kalmari", 
+        "ruoka"
+    ], 
+    "🦒": [
+        "läikät", 
+        "kirahvi"
+    ], 
+    "🦓": [
+        "raidat", 
+        "raidallinen", 
+        "nisäkäs", 
+        "seepra", 
+        "valkomusta"
+    ], 
+    "🦔": [
+        "siili", 
+        "piikikäs"
+    ], 
+    "🦕": [
+        "dinosaurus", 
+        "brontosaurus", 
+        "sauropodi"
+    ], 
+    "🦖": [
+        "hirmulisko", 
+        "dinosaurus", 
+        "tyrannosaurus rex"
+    ], 
+    "🦗": [
+        "sirkka", 
+        "heinäsirkka"
+    ], 
+    "🧀": [
+        "juusto", 
+        "juustopala"
+    ], 
+    "🧐": [
+        "vanhanaikainen", 
+        "monokkeli silmässä", 
+        "kalkkis"
+    ], 
+    "🧑": [
+        "sukupuolineutraali", 
+        "aikaihminen", 
+        "täysikasvuinen", 
+        "aikuisuus", 
+        "keski-ikäinen", 
+        "aikuinen"
+    ], 
+    "🧒": [
+        "nuori", 
+        "sukupuolineutraali", 
+        "lapsuus", 
+        "lapsi"
+    ], 
+    "🧓": [
+        "ikäihminen", 
+        "sukupuolineutraali", 
+        "seniori", 
+        "vanha", 
+        "vanhus"
+    ], 
+    "🧔": [
+        "parta", 
+        "viikset", 
+        "parrakas henkilö", 
+        "pulisongit", 
+        "karvainen", 
+        "sänki"
+    ], 
+    "🧕": [
+        "mantilja", 
+        "khimār", 
+        "tichel", 
+        "hijab", 
+        "huivipäinen nainen", 
+        "silkkihuivi", 
+        "pääliina"
+    ], 
+    "🧖": [
+        "henkilö saunassa", 
+        "löyly", 
+        "kiuas", 
+        "höyry", 
+        "sauna"
+    ], 
+    "🧗": [
+        "kiipeilijä", 
+        "kiipeily", 
+        "kallio", 
+        "seinä", 
+        "vuori"
+    ], 
+    "🧘": [
+        "henkilö lootusasennossa", 
+        "mietiskely", 
+        "jooga"
+    ], 
+    "🧙": [
+        "velho", 
+        "maagi", 
+        "sauva", 
+        "taikavoima", 
+        "taikasauva", 
+        "taikuri", 
+        "tietäjä", 
+        "noita"
+    ], 
+    "🧚": [
+        "ilmatar", 
+        "Oberon", 
+        "siivet", 
+        "luonnotar", 
+        "metsänneito", 
+        "Puck", 
+        "Titania", 
+        "keijukainen", 
+        "hyönteismäinen", 
+        "impi", 
+        "sinipiika", 
+        "keiju"
+    ], 
+    "🧛": [
+        "Dracula", 
+        "torahammas", 
+        "hampaat", 
+        "verenhimo", 
+        "epäkuollut", 
+        "vampyyri", 
+        "elävä kuollut", 
+        "verenimijä"
+    ], 
+    "🧜": [
+        "merenmies", 
+        "pyrstö", 
+        "merenneito", 
+        "kalanpyrstö", 
+        "merenhaltija", 
+        "vedenväki", 
+        "Ahti", 
+        "vedenhaltija", 
+        "merenväki"
+    ], 
+    "🧝": [
+        "suippokorva", 
+        "alf", 
+        "keijukainen", 
+        "haltia", 
+        "Legolas", 
+        "keiju"
+    ], 
+    "🧞": [
+        "genius", 
+        "henki", 
+        "lamppu", 
+        "juno", 
+        "jinni"
+    ], 
+    "🧟": [
+        "voodoo", 
+        "zombie", 
+        "elävä kuollut", 
+        "tahdoton", 
+        "zombi"
+    ], 
+    "🧠": [
+        "äly", 
+        "vartalo", 
+        "aivot", 
+        "pää", 
+        "viisas"
+    ], 
+    "🧡": [
+        "oranssi sydän", 
+        "oranssi", 
+        "sydän"
+    ], 
+    "🧢": [
+        "lakki", 
+        "vaatteet", 
+        "hattu", 
+        "lippalakki"
+    ], 
+    "🧣": [
+        "huivi", 
+        "asuste", 
+        "kaula", 
+        "kaulaliina"
+    ], 
+    "🧤": [
+        "hansikkaat", 
+        "kädet", 
+        "asuste", 
+        "käsineet"
+    ], 
+    "🧥": [
+        "takki", 
+        "pusero", 
+        "vaatteet", 
+        "päällysvaate"
+    ], 
+    "🧦": [
+        "villasukka", 
+        "vaatteet", 
+        "sukat"
+    ]
+}

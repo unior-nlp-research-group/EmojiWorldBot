@@ -1,0 +1,6965 @@
+{
+    "⌚": [
+        "óra", 
+        "karóra"
+    ], 
+    "⌛": [
+        "óra", 
+        "homok", 
+        "idő", 
+        "homokóra"
+    ], 
+    "⏩": [
+        "dupla nyíl", 
+        "gyors tekerés", 
+        "előretekerés gomb", 
+        "előre"
+    ], 
+    "⏪": [
+        "dupla nyíl", 
+        "vissza", 
+        "gyors tekerés", 
+        "visszatekerés gomb"
+    ], 
+    "⏫": [
+        "gyors felfelé gomb", 
+        "nyíl", 
+        "dupla", 
+        "gomb"
+    ], 
+    "⏬": [
+        "nyíl", 
+        "gyors lefelé gomb", 
+        "piros", 
+        "lefelé", 
+        "gomb"
+    ], 
+    "⏰": [
+        "óra", 
+        "ébresztés", 
+        "ébresztőóra", 
+        "vekker"
+    ], 
+    "⏳": [
+        "homok", 
+        "homokóra csordogáló homokkal", 
+        "homokóra", 
+        "idő"
+    ], 
+    "◽": [
+        "geometria", 
+        "kis-közepes fehér négyzet", 
+        "négyzet"
+    ], 
+    "◾": [
+        "geometria", 
+        "kis-közepes fekete négyzet", 
+        "négyzet"
+    ], 
+    "☔": [
+        "csepp", 
+        "eső", 
+        "kiegészítő", 
+        "időjárás", 
+        "ernyő", 
+        "esernyő esőcseppekkel"
+    ], 
+    "☕": [
+        "tea", 
+        "ital", 
+        "kávé", 
+        "gőzölgő", 
+        "forró ital", 
+        "forró"
+    ], 
+    "♈": [
+        "horoszkóp", 
+        "kos", 
+        "kos csillagjegy"
+    ], 
+    "♉": [
+        "horoszkóp", 
+        "bika csillagjegy", 
+        "bika"
+    ], 
+    "♊": [
+        "horoszkóp", 
+        "ikrek csillagjegy", 
+        "ikrek"
+    ], 
+    "♋": [
+        "horoszkóp", 
+        "rák csillagjegy", 
+        "rák"
+    ], 
+    "♌": [
+        "horoszkóp", 
+        "oroszlán", 
+        "oroszlán csillagjegy"
+    ], 
+    "♍": [
+        "horoszkóp", 
+        "szűz", 
+        "szűz csillagjegy"
+    ], 
+    "♎": [
+        "horoszkóp", 
+        "mérleg csillagjegy", 
+        "mérleg"
+    ], 
+    "♏": [
+        "horoszkóp", 
+        "skorpió", 
+        "skorpió csillagjegy"
+    ], 
+    "♐": [
+        "horoszkóp", 
+        "nyilas", 
+        "nyilas csillagjegy"
+    ], 
+    "♑": [
+        "horoszkóp", 
+        "bak", 
+        "bak csillagjegy"
+    ], 
+    "♒": [
+        "horoszkóp", 
+        "vízöntő", 
+        "vízöntő csillagjegy"
+    ], 
+    "♓": [
+        "horoszkóp", 
+        "halak", 
+        "halak csillagjegy"
+    ], 
+    "♿": [
+        "kerekesszék", 
+        "akadálymentesség"
+    ], 
+    "⚓": [
+        "vasmacska", 
+        "kikötés", 
+        "hajózás"
+    ], 
+    "⚡": [
+        "nagyfeszültség", 
+        "magasfeszültség", 
+        "veszély", 
+        "villám"
+    ], 
+    "⚪": [
+        "kör", 
+        "fehér kör", 
+        "alakzat"
+    ], 
+    "⚫": [
+        "fekete kör", 
+        "kör", 
+        "alakzat"
+    ], 
+    "⚽": [
+        "foci", 
+        "futball", 
+        "labda"
+    ], 
+    "⚾": [
+        "baseball", 
+        "labda"
+    ], 
+    "⛄": [
+        "hó", 
+        "hideg", 
+        "időjárás", 
+        "hóember hó nélkül", 
+        "hóember"
+    ], 
+    "⛅": [
+        "időjárás", 
+        "felhő", 
+        "nap", 
+        "nap egy felhő mögött"
+    ], 
+    "⛎": [
+        "horoszkóp", 
+        "kígyótartó", 
+        "csillagjegy"
+    ], 
+    "⛔": [
+        "nincs behajtás", 
+        "behajtani tilos", 
+        "behajtás", 
+        "tilos", 
+        "tiltott", 
+        "közlekedési tábla"
+    ], 
+    "⛪": [
+        "épület", 
+        "templom", 
+        "kereszt", 
+        "keresztény", 
+        "vallás"
+    ], 
+    "⛲": [
+        "szökőkút"
+    ], 
+    "⛳": [
+        "lyuk", 
+        "golf", 
+        "zászló a lyuknál"
+    ], 
+    "⛵": [
+        "tenger", 
+        "jacht", 
+        "hajó", 
+        "vitorlás", 
+        "vitorlás hajó", 
+        "vízi jármű"
+    ], 
+    "⛺": [
+        "sátor", 
+        "kempingezés", 
+        "szállás"
+    ], 
+    "⛽": [
+        "töltőállomás", 
+        "tank", 
+        "benzin", 
+        "dízel", 
+        "kút", 
+        "benzinkút"
+    ], 
+    "✅": [
+        "pipa", 
+        "jel", 
+        "vastag fehér pipa"
+    ], 
+    "✊": [
+        "felemelt", 
+        "test", 
+        "felemelt ököl", 
+        "ököl", 
+        "ütés"
+    ], 
+    "✋": [
+        "test", 
+        "fel", 
+        "kéz", 
+        "felemelt kéz"
+    ], 
+    "✨": [
+        "csillag", 
+        "szikrák", 
+        "szikra"
+    ], 
+    "❌": [
+        "szorzás", 
+        "áthúzásjel", 
+        "mégse", 
+        "jel", 
+        "x"
+    ], 
+    "❎": [
+        "áthúzásjel gomb", 
+        "jel", 
+        "bekeretezett"
+    ], 
+    "❓": [
+        "kérdés", 
+        "kérdőjel", 
+        "írásjel", 
+        "központozás"
+    ], 
+    "❔": [
+        "kérdés", 
+        "fehér kérdőjel", 
+        "fehér", 
+        "írásjel", 
+        "központozás"
+    ], 
+    "❕": [
+        "fehér felkiáltójel", 
+        "fehér", 
+        "felkiáltás", 
+        "központozás", 
+        "írásjel"
+    ], 
+    "❗": [
+        "központozás", 
+        "írásjel", 
+        "felkiáltás", 
+        "felkiáltójel"
+    ], 
+    "➕": [
+        "vastag pluszjel", 
+        "matematika", 
+        "plusz"
+    ], 
+    "➖": [
+        "mínusz", 
+        "vastag mínuszjel", 
+        "matematika"
+    ], 
+    "➗": [
+        "osztás", 
+        "vastag osztásjel", 
+        "matematika"
+    ], 
+    "➰": [
+        "hurok"
+    ], 
+    "➿": [
+        "dupla", 
+        "dupla hurok", 
+        "hurok"
+    ], 
+    "⬛": [
+        "geometria", 
+        "nagy fekete négyzet", 
+        "négyzet"
+    ], 
+    "⬜": [
+        "geometria", 
+        "négyzet", 
+        "nagy fehér négyzet"
+    ], 
+    "⭐": [
+        "csillag", 
+        "közepes fehér csillag"
+    ], 
+    "⭕": [
+        "nagy, vastag kör", 
+        "o", 
+        "kör"
+    ], 
+    "🀄": [
+        "madzsong vörös sárkány", 
+        "játék", 
+        "madzsong", 
+        "vörös"
+    ], 
+    "🃏": [
+        "játék", 
+        "dzsóker", 
+        "francia kártya"
+    ], 
+    "🆎": [
+        "ab gomb", 
+        "ab", 
+        "vértípus"
+    ], 
+    "🆑": [
+        "bekeretezett „cl” rövidítés", 
+        "cl"
+    ], 
+    "🆒": [
+        "bekeretezett „cool” szó", 
+        "laza"
+    ], 
+    "🆓": [
+        "bekeretezett „free” szó", 
+        "szabad"
+    ], 
+    "🆔": [
+        "bekeretezett „id” rövidítés", 
+        "id", 
+        "azonosítás"
+    ], 
+    "🆕": [
+        "új", 
+        "gomb", 
+        "bekeretezett „new” szó"
+    ], 
+    "🆖": [
+        "bekeretezett „ng” rövidítés", 
+        "ng", 
+        "gomb"
+    ], 
+    "🆗": [
+        "rendben", 
+        "ok", 
+        "bekeretezett „ok” szó"
+    ], 
+    "🆘": [
+        "segítség", 
+        "segélykérés", 
+        "bekeretezett „sos” rövidítés", 
+        "sos"
+    ], 
+    "🆙": [
+        "jelölés", 
+        "fel", 
+        "„up!” gomb"
+    ], 
+    "🆚": [
+        "versus", 
+        "ellenfél", 
+        "vs", 
+        "bekeretezett „vs” rövidítés"
+    ], 
+    "🇦🇨": [
+        "zászló", 
+        "Ascension-sziget"
+    ], 
+    "🇦🇩": [
+        "Andorra", 
+        "zászló"
+    ], 
+    "🇦🇪": [
+        "zászló", 
+        "Egyesült Arab Emírségek"
+    ], 
+    "🇦🇫": [
+        "zászló", 
+        "Afganisztán"
+    ], 
+    "🇦🇬": [
+        "zászló", 
+        "Antigua és Barbuda"
+    ], 
+    "🇦🇮": [
+        "zászló", 
+        "Anguilla"
+    ], 
+    "🇦🇱": [
+        "zászló", 
+        "Albánia"
+    ], 
+    "🇦🇲": [
+        "zászló", 
+        "Örményország"
+    ], 
+    "🇦🇴": [
+        "zászló", 
+        "Angola"
+    ], 
+    "🇦🇶": [
+        "zászló", 
+        "Antarktisz"
+    ], 
+    "🇦🇷": [
+        "zászló", 
+        "Argentína"
+    ], 
+    "🇦🇸": [
+        "zászló", 
+        "Amerikai Szamoa"
+    ], 
+    "🇦🇹": [
+        "zászló", 
+        "Ausztria"
+    ], 
+    "🇦🇺": [
+        "Ausztrália", 
+        "zászló"
+    ], 
+    "🇦🇼": [
+        "zászló", 
+        "Aruba"
+    ], 
+    "🇦🇽": [
+        "zászló", 
+        "Åland-szigetek"
+    ], 
+    "🇦🇿": [
+        "zászló", 
+        "Azerbajdzsán"
+    ], 
+    "🇧🇦": [
+        "zászló", 
+        "Bosznia-Hercegovina"
+    ], 
+    "🇧🇧": [
+        "zászló", 
+        "Barbados"
+    ], 
+    "🇧🇩": [
+        "zászló", 
+        "Banglades"
+    ], 
+    "🇧🇪": [
+        "Belgium", 
+        "zászló"
+    ], 
+    "🇧🇫": [
+        "zászló", 
+        "Burkina Faso"
+    ], 
+    "🇧🇬": [
+        "zászló", 
+        "Bulgária"
+    ], 
+    "🇧🇭": [
+        "zászló", 
+        "Bahrein"
+    ], 
+    "🇧🇮": [
+        "Burundi", 
+        "zászló"
+    ], 
+    "🇧🇯": [
+        "zászló", 
+        "Benin"
+    ], 
+    "🇧🇱": [
+        "zászló", 
+        "Saint-Barthélemy"
+    ], 
+    "🇧🇲": [
+        "zászló", 
+        "Bermuda"
+    ], 
+    "🇧🇳": [
+        "zászló", 
+        "Brunei"
+    ], 
+    "🇧🇴": [
+        "zászló", 
+        "Bolívia"
+    ], 
+    "🇧🇶": [
+        "zászló", 
+        "Holland Karib-térség"
+    ], 
+    "🇧🇷": [
+        "zászló", 
+        "Brazília"
+    ], 
+    "🇧🇸": [
+        "zászló", 
+        "Bahama-szigetek"
+    ], 
+    "🇧🇹": [
+        "zászló", 
+        "Bhután"
+    ], 
+    "🇧🇻": [
+        "zászló", 
+        "Bouvet-sziget"
+    ], 
+    "🇧🇼": [
+        "zászló", 
+        "Botswana"
+    ], 
+    "🇧🇾": [
+        "zászló", 
+        "Belarusz"
+    ], 
+    "🇧🇿": [
+        "zászló", 
+        "Belize"
+    ], 
+    "🇨🇦": [
+        "Kanada", 
+        "zászló"
+    ], 
+    "🇨🇨": [
+        "zászló", 
+        "Kókusz (Keeling)-szigetek"
+    ], 
+    "🇨🇩": [
+        "zászló", 
+        "Kongó - Kinshasa"
+    ], 
+    "🇨🇫": [
+        "zászló", 
+        "Közép-afrikai Köztársaság"
+    ], 
+    "🇨🇬": [
+        "zászló", 
+        "Kongó - Brazzaville"
+    ], 
+    "🇨🇭": [
+        "zászló", 
+        "Svájc"
+    ], 
+    "🇨🇮": [
+        "zászló", 
+        "Elefántcsontpart"
+    ], 
+    "🇨🇰": [
+        "Cook-szigetek", 
+        "zászló"
+    ], 
+    "🇨🇱": [
+        "zászló", 
+        "Chile"
+    ], 
+    "🇨🇲": [
+        "zászló", 
+        "Kamerun"
+    ], 
+    "🇨🇳": [
+        "zászló", 
+        "Kína"
+    ], 
+    "🇨🇴": [
+        "zászló", 
+        "Kolumbia"
+    ], 
+    "🇨🇵": [
+        "zászló", 
+        "Clipperton-sziget"
+    ], 
+    "🇨🇷": [
+        "zászló", 
+        "Costa Rica"
+    ], 
+    "🇨🇺": [
+        "zászló", 
+        "Kuba"
+    ], 
+    "🇨🇻": [
+        "zászló", 
+        "Zöld-foki Köztársaság"
+    ], 
+    "🇨🇼": [
+        "zászló", 
+        "Curaçao"
+    ], 
+    "🇨🇽": [
+        "Karácsony-sziget", 
+        "zászló"
+    ], 
+    "🇨🇾": [
+        "zászló", 
+        "Ciprus"
+    ], 
+    "🇨🇿": [
+        "zászló", 
+        "Csehország"
+    ], 
+    "🇩🇪": [
+        "zászló", 
+        "Németország"
+    ], 
+    "🇩🇬": [
+        "zászló", 
+        "Diego Garcia"
+    ], 
+    "🇩🇯": [
+        "zászló", 
+        "Dzsibuti"
+    ], 
+    "🇩🇰": [
+        "zászló", 
+        "Dánia"
+    ], 
+    "🇩🇲": [
+        "zászló", 
+        "Dominika"
+    ], 
+    "🇩🇴": [
+        "zászló", 
+        "Dominikai Köztársaság"
+    ], 
+    "🇩🇿": [
+        "zászló", 
+        "Algéria"
+    ], 
+    "🇪🇦": [
+        "zászló", 
+        "Ceuta és Melilla"
+    ], 
+    "🇪🇨": [
+        "zászló", 
+        "Ecuador"
+    ], 
+    "🇪🇪": [
+        "zászló", 
+        "Észtország"
+    ], 
+    "🇪🇬": [
+        "zászló", 
+        "Egyiptom"
+    ], 
+    "🇪🇭": [
+        "zászló", 
+        "Nyugat-Szahara"
+    ], 
+    "🇪🇷": [
+        "zászló", 
+        "Eritrea"
+    ], 
+    "🇪🇸": [
+        "zászló", 
+        "Spanyolország"
+    ], 
+    "🇪🇹": [
+        "Etiópia", 
+        "zászló"
+    ], 
+    "🇪🇺": [
+        "zászló", 
+        "Európai Unió"
+    ], 
+    "🇫🇮": [
+        "zászló", 
+        "Finnország"
+    ], 
+    "🇫🇯": [
+        "zászló", 
+        "Fidzsi"
+    ], 
+    "🇫🇰": [
+        "zászló", 
+        "Falkland-szigetek"
+    ], 
+    "🇫🇲": [
+        "zászló", 
+        "Mikronézia"
+    ], 
+    "🇫🇴": [
+        "zászló", 
+        "Feröer-szigetek"
+    ], 
+    "🇫🇷": [
+        "zászló", 
+        "Franciaország"
+    ], 
+    "🇬🇦": [
+        "zászló", 
+        "Gabon"
+    ], 
+    "🇬🇧": [
+        "zászló", 
+        "Egyesült Királyság"
+    ], 
+    "🇬🇩": [
+        "zászló", 
+        "Grenada"
+    ], 
+    "🇬🇪": [
+        "zászló", 
+        "Grúzia"
+    ], 
+    "🇬🇫": [
+        "zászló", 
+        "Francia Guyana"
+    ], 
+    "🇬🇬": [
+        "zászló", 
+        "Guernsey"
+    ], 
+    "🇬🇭": [
+        "zászló", 
+        "Ghána"
+    ], 
+    "🇬🇮": [
+        "zászló", 
+        "Gibraltár"
+    ], 
+    "🇬🇱": [
+        "zászló", 
+        "Grönland"
+    ], 
+    "🇬🇲": [
+        "zászló", 
+        "Gambia"
+    ], 
+    "🇬🇳": [
+        "zászló", 
+        "Guinea"
+    ], 
+    "🇬🇵": [
+        "zászló", 
+        "Guadeloupe"
+    ], 
+    "🇬🇶": [
+        "Egyenlítői-Guinea", 
+        "zászló"
+    ], 
+    "🇬🇷": [
+        "zászló", 
+        "Görögország"
+    ], 
+    "🇬🇸": [
+        "zászló", 
+        "Déli-Georgia és Déli-Sandwich-szigetek"
+    ], 
+    "🇬🇹": [
+        "zászló", 
+        "Guatemala"
+    ], 
+    "🇬🇺": [
+        "zászló", 
+        "Guam"
+    ], 
+    "🇬🇼": [
+        "zászló", 
+        "Bissau-Guinea"
+    ], 
+    "🇬🇾": [
+        "zászló", 
+        "Guyana"
+    ], 
+    "🇭🇰": [
+        "zászló", 
+        "Hongkong KKT"
+    ], 
+    "🇭🇲": [
+        "zászló", 
+        "Heard-sziget és McDonald-szigetek"
+    ], 
+    "🇭🇳": [
+        "zászló", 
+        "Honduras"
+    ], 
+    "🇭🇷": [
+        "zászló", 
+        "Horvátország"
+    ], 
+    "🇭🇹": [
+        "zászló", 
+        "Haiti"
+    ], 
+    "🇭🇺": [
+        "zászló", 
+        "Magyarország"
+    ], 
+    "🇮🇨": [
+        "zászló", 
+        "Kanári-szigetek"
+    ], 
+    "🇮🇩": [
+        "zászló", 
+        "Indonézia"
+    ], 
+    "🇮🇪": [
+        "zászló", 
+        "Írország"
+    ], 
+    "🇮🇱": [
+        "zászló", 
+        "Izrael"
+    ], 
+    "🇮🇲": [
+        "zászló", 
+        "Man-sziget"
+    ], 
+    "🇮🇳": [
+        "zászló", 
+        "India"
+    ], 
+    "🇮🇴": [
+        "zászló", 
+        "Brit Indiai-óceáni Terület"
+    ], 
+    "🇮🇶": [
+        "zászló", 
+        "Irak"
+    ], 
+    "🇮🇷": [
+        "Irán", 
+        "zászló"
+    ], 
+    "🇮🇸": [
+        "zászló", 
+        "Izland"
+    ], 
+    "🇮🇹": [
+        "zászló", 
+        "Olaszország"
+    ], 
+    "🇯🇪": [
+        "zászló", 
+        "Jersey"
+    ], 
+    "🇯🇲": [
+        "zászló", 
+        "Jamaica"
+    ], 
+    "🇯🇴": [
+        "zászló", 
+        "Jordánia"
+    ], 
+    "🇯🇵": [
+        "zászló", 
+        "Japán"
+    ], 
+    "🇰🇪": [
+        "zászló", 
+        "Kenya"
+    ], 
+    "🇰🇬": [
+        "zászló", 
+        "Kirgizisztán"
+    ], 
+    "🇰🇭": [
+        "zászló", 
+        "Kambodzsa"
+    ], 
+    "🇰🇮": [
+        "zászló", 
+        "Kiribati"
+    ], 
+    "🇰🇲": [
+        "zászló", 
+        "Comore-szigetek"
+    ], 
+    "🇰🇳": [
+        "zászló", 
+        "Saint Kitts és Nevis"
+    ], 
+    "🇰🇵": [
+        "zászló", 
+        "Észak-Korea"
+    ], 
+    "🇰🇷": [
+        "zászló", 
+        "Dél-Korea"
+    ], 
+    "🇰🇼": [
+        "zászló", 
+        "Kuvait"
+    ], 
+    "🇰🇾": [
+        "zászló", 
+        "Kajmán-szigetek"
+    ], 
+    "🇰🇿": [
+        "zászló", 
+        "Kazahsztán"
+    ], 
+    "🇱🇦": [
+        "zászló", 
+        "Laosz"
+    ], 
+    "🇱🇧": [
+        "Libanon", 
+        "zászló"
+    ], 
+    "🇱🇨": [
+        "zászló", 
+        "Saint Lucia"
+    ], 
+    "🇱🇮": [
+        "zászló", 
+        "Liechtenstein"
+    ], 
+    "🇱🇰": [
+        "zászló", 
+        "Srí Lanka"
+    ], 
+    "🇱🇷": [
+        "zászló", 
+        "Libéria"
+    ], 
+    "🇱🇸": [
+        "zászló", 
+        "Lesotho"
+    ], 
+    "🇱🇹": [
+        "zászló", 
+        "Litvánia"
+    ], 
+    "🇱🇺": [
+        "zászló", 
+        "Luxemburg"
+    ], 
+    "🇱🇻": [
+        "zászló", 
+        "Lettország"
+    ], 
+    "🇱🇾": [
+        "zászló", 
+        "Líbia"
+    ], 
+    "🇲🇦": [
+        "zászló", 
+        "Marokkó"
+    ], 
+    "🇲🇨": [
+        "zászló", 
+        "Monaco"
+    ], 
+    "🇲🇩": [
+        "zászló", 
+        "Moldova"
+    ], 
+    "🇲🇪": [
+        "zászló", 
+        "Montenegró"
+    ], 
+    "🇲🇫": [
+        "Saint Martin", 
+        "zászló"
+    ], 
+    "🇲🇬": [
+        "zászló", 
+        "Madagaszkár"
+    ], 
+    "🇲🇭": [
+        "zászló", 
+        "Marshall-szigetek"
+    ], 
+    "🇲🇰": [
+        "zászló", 
+        "Macedónia"
+    ], 
+    "🇲🇱": [
+        "zászló", 
+        "Mali"
+    ], 
+    "🇲🇲": [
+        "zászló", 
+        "Mianmar (Burma)"
+    ], 
+    "🇲🇳": [
+        "zászló", 
+        "Mongólia"
+    ], 
+    "🇲🇴": [
+        "zászló", 
+        "Makaó KKT"
+    ], 
+    "🇲🇵": [
+        "zászló", 
+        "Északi Mariana-szigetek"
+    ], 
+    "🇲🇶": [
+        "zászló", 
+        "Martinique"
+    ], 
+    "🇲🇷": [
+        "zászló", 
+        "Mauritánia"
+    ], 
+    "🇲🇸": [
+        "zászló", 
+        "Montserrat"
+    ], 
+    "🇲🇹": [
+        "Málta", 
+        "zászló"
+    ], 
+    "🇲🇺": [
+        "Mauritius", 
+        "zászló"
+    ], 
+    "🇲🇻": [
+        "zászló", 
+        "Maldív-szigetek"
+    ], 
+    "🇲🇼": [
+        "zászló", 
+        "Malawi"
+    ], 
+    "🇲🇽": [
+        "zászló", 
+        "Mexikó"
+    ], 
+    "🇲🇾": [
+        "zászló", 
+        "Malajzia"
+    ], 
+    "🇲🇿": [
+        "zászló", 
+        "Mozambik"
+    ], 
+    "🇳🇦": [
+        "zászló", 
+        "Namíbia"
+    ], 
+    "🇳🇨": [
+        "zászló", 
+        "Új-Kaledónia"
+    ], 
+    "🇳🇪": [
+        "zászló", 
+        "Niger"
+    ], 
+    "🇳🇫": [
+        "zászló", 
+        "Norfolk-sziget"
+    ], 
+    "🇳🇬": [
+        "zászló", 
+        "Nigéria"
+    ], 
+    "🇳🇮": [
+        "zászló", 
+        "Nicaragua"
+    ], 
+    "🇳🇱": [
+        "zászló", 
+        "Hollandia"
+    ], 
+    "🇳🇴": [
+        "zászló", 
+        "Norvégia"
+    ], 
+    "🇳🇵": [
+        "zászló", 
+        "Nepál"
+    ], 
+    "🇳🇷": [
+        "zászló", 
+        "Nauru"
+    ], 
+    "🇳🇺": [
+        "zászló", 
+        "Niue"
+    ], 
+    "🇳🇿": [
+        "zászló", 
+        "Új-Zéland"
+    ], 
+    "🇴🇲": [
+        "zászló", 
+        "Omán"
+    ], 
+    "🇵🇦": [
+        "zászló", 
+        "Panama"
+    ], 
+    "🇵🇪": [
+        "zászló", 
+        "Peru"
+    ], 
+    "🇵🇫": [
+        "zászló", 
+        "Francia Polinézia"
+    ], 
+    "🇵🇬": [
+        "Pápua Új-Guinea", 
+        "zászló"
+    ], 
+    "🇵🇭": [
+        "zászló", 
+        "Fülöp-szigetek"
+    ], 
+    "🇵🇰": [
+        "zászló", 
+        "Pakisztán"
+    ], 
+    "🇵🇱": [
+        "zászló", 
+        "Lengyelország"
+    ], 
+    "🇵🇲": [
+        "zászló", 
+        "Saint-Pierre és Miquelon"
+    ], 
+    "🇵🇳": [
+        "Pitcairn-szigetek", 
+        "zászló"
+    ], 
+    "🇵🇷": [
+        "zászló", 
+        "Puerto Rico"
+    ], 
+    "🇵🇸": [
+        "zászló", 
+        "Palesztin Terület"
+    ], 
+    "🇵🇹": [
+        "zászló", 
+        "Portugália"
+    ], 
+    "🇵🇼": [
+        "zászló", 
+        "Palau"
+    ], 
+    "🇵🇾": [
+        "Paraguay", 
+        "zászló"
+    ], 
+    "🇶🇦": [
+        "Katar", 
+        "zászló"
+    ], 
+    "🇷🇪": [
+        "zászló", 
+        "Réunion"
+    ], 
+    "🇷🇴": [
+        "zászló", 
+        "Románia"
+    ], 
+    "🇷🇸": [
+        "zászló", 
+        "Szerbia"
+    ], 
+    "🇷🇺": [
+        "zászló", 
+        "Oroszország"
+    ], 
+    "🇷🇼": [
+        "zászló", 
+        "Ruanda"
+    ], 
+    "🇸🇦": [
+        "zászló", 
+        "Szaúd-Arábia"
+    ], 
+    "🇸🇧": [
+        "zászló", 
+        "Salamon-szigetek"
+    ], 
+    "🇸🇨": [
+        "zászló", 
+        "Seychelle-szigetek"
+    ], 
+    "🇸🇩": [
+        "zászló", 
+        "Szudán"
+    ], 
+    "🇸🇪": [
+        "zászló", 
+        "Svédország"
+    ], 
+    "🇸🇬": [
+        "zászló", 
+        "Szingapúr"
+    ], 
+    "🇸🇭": [
+        "Szent Ilona", 
+        "zászló"
+    ], 
+    "🇸🇮": [
+        "Szlovénia", 
+        "zászló"
+    ], 
+    "🇸🇯": [
+        "zászló", 
+        "Svalbard és Jan Mayen"
+    ], 
+    "🇸🇰": [
+        "zászló", 
+        "Szlovákia"
+    ], 
+    "🇸🇱": [
+        "zászló", 
+        "Sierra Leone"
+    ], 
+    "🇸🇲": [
+        "zászló", 
+        "San Marino"
+    ], 
+    "🇸🇳": [
+        "zászló", 
+        "Szenegál"
+    ], 
+    "🇸🇴": [
+        "zászló", 
+        "Szomália"
+    ], 
+    "🇸🇷": [
+        "zászló", 
+        "Suriname"
+    ], 
+    "🇸🇸": [
+        "zászló", 
+        "Dél-Szudán"
+    ], 
+    "🇸🇹": [
+        "zászló", 
+        "São Tomé és Príncipe"
+    ], 
+    "🇸🇻": [
+        "zászló", 
+        "Salvador"
+    ], 
+    "🇸🇽": [
+        "zászló", 
+        "Sint Maarten"
+    ], 
+    "🇸🇾": [
+        "zászló", 
+        "Szíria"
+    ], 
+    "🇸🇿": [
+        "zászló", 
+        "Szváziföld"
+    ], 
+    "🇹🇦": [
+        "zászló", 
+        "Tristan da Cunha"
+    ], 
+    "🇹🇨": [
+        "zászló", 
+        "Turks- és Caicos-szigetek"
+    ], 
+    "🇹🇩": [
+        "zászló", 
+        "Csád"
+    ], 
+    "🇹🇫": [
+        "zászló", 
+        "Francia Déli Területek"
+    ], 
+    "🇹🇬": [
+        "zászló", 
+        "Togo"
+    ], 
+    "🇹🇭": [
+        "zászló", 
+        "Thaiföld"
+    ], 
+    "🇹🇯": [
+        "zászló", 
+        "Tádzsikisztán"
+    ], 
+    "🇹🇰": [
+        "Tokelau", 
+        "zászló"
+    ], 
+    "🇹🇱": [
+        "zászló", 
+        "Kelet-Timor"
+    ], 
+    "🇹🇲": [
+        "zászló", 
+        "Türkmenisztán"
+    ], 
+    "🇹🇳": [
+        "zászló", 
+        "Tunézia"
+    ], 
+    "🇹🇴": [
+        "zászló", 
+        "Tonga"
+    ], 
+    "🇹🇷": [
+        "zászló", 
+        "Törökország"
+    ], 
+    "🇹🇹": [
+        "zászló", 
+        "Trinidad és Tobago"
+    ], 
+    "🇹🇻": [
+        "zászló", 
+        "Tuvalu"
+    ], 
+    "🇹🇼": [
+        "zászló", 
+        "Tajvan"
+    ], 
+    "🇹🇿": [
+        "zászló", 
+        "Tanzánia"
+    ], 
+    "🇺🇦": [
+        "zászló", 
+        "Ukrajna"
+    ], 
+    "🇺🇬": [
+        "zászló", 
+        "Uganda"
+    ], 
+    "🇺🇲": [
+        "zászló", 
+        "Az USA lakatlan külbirtokai"
+    ], 
+    "🇺🇳": [
+        "zászló", 
+        "Egyesült Nemzetek Szervezete"
+    ], 
+    "🇺🇸": [
+        "zászló", 
+        "Egyesült Államok"
+    ], 
+    "🇺🇾": [
+        "zászló", 
+        "Uruguay"
+    ], 
+    "🇺🇿": [
+        "zászló", 
+        "Üzbegisztán"
+    ], 
+    "🇻🇦": [
+        "zászló", 
+        "Vatikán"
+    ], 
+    "🇻🇨": [
+        "Saint Vincent és a Grenadine-szigetek", 
+        "zászló"
+    ], 
+    "🇻🇪": [
+        "zászló", 
+        "Venezuela"
+    ], 
+    "🇻🇬": [
+        "zászló", 
+        "Brit Virgin-szigetek"
+    ], 
+    "🇻🇮": [
+        "zászló", 
+        "Amerikai Virgin-szigetek"
+    ], 
+    "🇻🇳": [
+        "zászló", 
+        "Vietnam"
+    ], 
+    "🇻🇺": [
+        "zászló", 
+        "Vanuatu"
+    ], 
+    "🇼🇫": [
+        "zászló", 
+        "Wallis és Futuna"
+    ], 
+    "🇼🇸": [
+        "zászló", 
+        "Szamoa"
+    ], 
+    "🇽🇰": [
+        "zászló", 
+        "Koszovó"
+    ], 
+    "🇾🇪": [
+        "Jemen", 
+        "zászló"
+    ], 
+    "🇾🇹": [
+        "Mayotte", 
+        "zászló"
+    ], 
+    "🇿🇦": [
+        "zászló", 
+        "Dél-afrikai Köztársaság"
+    ], 
+    "🇿🇲": [
+        "zászló", 
+        "Zambia"
+    ], 
+    "🇿🇼": [
+        "zászló", 
+        "Zimbabwe"
+    ], 
+    "🈁": [
+        "bekeretezett „koko” katakana", 
+        "japán"
+    ], 
+    "🈚": [
+        "bekeretezett „kivonás” képírásjel", 
+        "japán"
+    ], 
+    "🈯": [
+        "japán", 
+        "bekeretezett „ujj” képírásjel"
+    ], 
+    "🈲": [
+        "bekeretezett „tiltás” képírásjel", 
+        "japán"
+    ], 
+    "🈳": [
+        "bekeretezett „üres” képírásjel", 
+        "kínai"
+    ], 
+    "🈴": [
+        "bekeretezett „együtt” képírásjel", 
+        "kínai"
+    ], 
+    "🈵": [
+        "bekeretezett „teli” képírásjel", 
+        "kínai"
+    ], 
+    "🈶": [
+        "bekeretezett „létezik” képírásjel", 
+        "japán"
+    ], 
+    "🈸": [
+        "kínai", 
+        "bekeretezett „alkalmazás” képírásjel"
+    ], 
+    "🈹": [
+        "bekeretezett „osztás” képírásjel", 
+        "japán"
+    ], 
+    "🈺": [
+        "kínai", 
+        "bekeretezett „működik” képírásjel"
+    ], 
+    "🉐": [
+        "bekarikázott „előny” képírásjel", 
+        "japán"
+    ], 
+    "🉑": [
+        "kínai", 
+        "bekarikázott „elfogadás” képírásjel"
+    ], 
+    "🌀": [
+        "ciklon", 
+        "tájfun", 
+        "időjárás", 
+        "hurrikán"
+    ], 
+    "🌁": [
+        "köd", 
+        "időjárás", 
+        "ködös"
+    ], 
+    "🌂": [
+        "eső", 
+        "kiegészítő", 
+        "időjárás", 
+        "ernyő", 
+        "becsukott esernyő"
+    ], 
+    "🌃": [
+        "éjszaka csillagokkal", 
+        "derült idő", 
+        "éjszaka", 
+        "csillag"
+    ], 
+    "🌄": [
+        "napfelkelte", 
+        "nap", 
+        "hegyek mögött felkelő nap", 
+        "hegyek"
+    ], 
+    "🌅": [
+        "napfelkelte", 
+        "reggel", 
+        "nap", 
+        "felkelő nap"
+    ], 
+    "🌆": [
+        "este", 
+        "naplemente", 
+        "város", 
+        "városkép", 
+        "nap", 
+        "épület", 
+        "alkonyat", 
+        "városkép alkonyatkor"
+    ], 
+    "🌇": [
+        "alkonyat", 
+        "nap", 
+        "lemenő nap", 
+        "naplemente", 
+        "épületek"
+    ], 
+    "🌈": [
+        "szivárvány", 
+        "időjárás", 
+        "eső"
+    ], 
+    "🌉": [
+        "éjszaka", 
+        "híd", 
+        "híd éjszaka"
+    ], 
+    "🌊": [
+        "óceán", 
+        "időjárás", 
+        "hullám a vízen", 
+        "hullám", 
+        "tenger", 
+        "víz"
+    ], 
+    "🌋": [
+        "vulkán", 
+        "tűzhányó", 
+        "kitörés"
+    ], 
+    "🌌": [
+        "világűr", 
+        "csillagrendszer", 
+        "tejút", 
+        "űr"
+    ], 
+    "🌍": [
+        "Európát és Afrikát mutató földgömb", 
+        "világ", 
+        "föld", 
+        "európa", 
+        "afrika", 
+        "földgömb"
+    ], 
+    "🌎": [
+        "amerika", 
+        "világ", 
+        "föld", 
+        "földrajz", 
+        "földgömb", 
+        "Amerikát mutató földgömb"
+    ], 
+    "🌏": [
+        "földrajz", 
+        "ázsia", 
+        "világ", 
+        "föld", 
+        "Ázsiát és Ausztráliát mutató földgömb", 
+        "ausztrália", 
+        "földgömb"
+    ], 
+    "🌐": [
+        "földgömb délkörökkel", 
+        "világ", 
+        "föld", 
+        "délkörök", 
+        "földrajz", 
+        "földgömb"
+    ], 
+    "🌑": [
+        "holdfázisok", 
+        "hold", 
+        "ég", 
+        "újhold", 
+        "sötétség"
+    ], 
+    "🌒": [
+        "növő, kifli alakú hold", 
+        "holdfázisok", 
+        "ég", 
+        "növő hold", 
+        "kifli"
+    ], 
+    "🌓": [
+        "holdfázisok", 
+        "negyed", 
+        "hold", 
+        "ég", 
+        "első negyedben lévő hold"
+    ], 
+    "🌔": [
+        "holdfázisok", 
+        "növő domború hold", 
+        "hold", 
+        "ég", 
+        "domború"
+    ], 
+    "🌕": [
+        "holdfázisok", 
+        "hold", 
+        "ég", 
+        "telihold"
+    ], 
+    "🌖": [
+        "holdfázisok", 
+        "fogyó domború hold", 
+        "hold", 
+        "ég", 
+        "homorú"
+    ], 
+    "🌗": [
+        "holdfázisok", 
+        "utolsó negyedben lévő hold", 
+        "hold", 
+        "ég", 
+        "utolsó negyed"
+    ], 
+    "🌘": [
+        "fogyó, kifli alakú hold", 
+        "holdfázisok", 
+        "ég", 
+        "kifli", 
+        "hold", 
+        "fogyó"
+    ], 
+    "🌙": [
+        "holdfázisok", 
+        "hold", 
+        "ég", 
+        "kifli alakú hold", 
+        "kifli"
+    ], 
+    "🌚": [
+        "holdfázisok", 
+        "ég", 
+        "újhold", 
+        "újhold arccal", 
+        "arc", 
+        "hold"
+    ], 
+    "🌛": [
+        "holdfázisok", 
+        "ég", 
+        "első negyed", 
+        "első negyedben lévő hold arccal", 
+        "arc", 
+        "hold"
+    ], 
+    "🌜": [
+        "holdfázisok", 
+        "ég", 
+        "utolsó negyed", 
+        "arc", 
+        "hold", 
+        "utolsó negyedben lévő hold arccal"
+    ], 
+    "🌝": [
+        "holdfázisok", 
+        "telihold arccal", 
+        "arc", 
+        "ég", 
+        "telihold"
+    ], 
+    "🌞": [
+        "égitest", 
+        "nap arccal", 
+        "időjárás", 
+        "arc", 
+        "nap"
+    ], 
+    "🌟": [
+        "fény", 
+        "csillogás", 
+        "csillag", 
+        "fénylő csillag"
+    ], 
+    "🌠": [
+        "ég", 
+        "csillaghullás", 
+        "csillag", 
+        "hullócsillag"
+    ], 
+    "🌭": [
+        "kolbász", 
+        "hot dog", 
+        "kifli", 
+        "mustár", 
+        "virsli", 
+        "hotdog"
+    ], 
+    "🌮": [
+        "étel", 
+        "mexikói", 
+        "taco"
+    ], 
+    "🌯": [
+        "étel", 
+        "burrito", 
+        "mexikói"
+    ], 
+    "🌰": [
+        "növény", 
+        "gesztenye"
+    ], 
+    "🌱": [
+        "palánta", 
+        "növény"
+    ], 
+    "🌲": [
+        "fa", 
+        "növény", 
+        "örökzöld"
+    ], 
+    "🌳": [
+        "fa", 
+        "lombhullató", 
+        "lombhullató fa", 
+        "növény"
+    ], 
+    "🌴": [
+        "fa", 
+        "pálma", 
+        "növény", 
+        "pálmafa"
+    ], 
+    "🌵": [
+        "kaktusz", 
+        "növény"
+    ], 
+    "🌷": [
+        "tulipán", 
+        "virág", 
+        "növény"
+    ], 
+    "🌸": [
+        "cseresznyevirág", 
+        "virág", 
+        "cseresznye"
+    ], 
+    "🌹": [
+        "virág", 
+        "rózsa", 
+        "növény"
+    ], 
+    "🌺": [
+        "hibiszkusz", 
+        "virág", 
+        "növény"
+    ], 
+    "🌻": [
+        "nap", 
+        "virág", 
+        "növény", 
+        "napraforgó"
+    ], 
+    "🌼": [
+        "virág", 
+        "virágzás", 
+        "növény"
+    ], 
+    "🌽": [
+        "cső", 
+        "kukorica", 
+        "növény", 
+        "kukoricacső"
+    ], 
+    "🌾": [
+        "rizs", 
+        "növény"
+    ], 
+    "🌿": [
+        "gyógynövény", 
+        "levél", 
+        "növény"
+    ], 
+    "🍀": [
+        "szerencse", 
+        "lóhere", 
+        "négylevelű lóhere", 
+        "négylevelű"
+    ], 
+    "🍁": [
+        "juhar", 
+        "juharlevél", 
+        "levél", 
+        "növény"
+    ], 
+    "🍂": [
+        "lehullott", 
+        "levél", 
+        "növény", 
+        "lehullott levél"
+    ], 
+    "🍃": [
+        "szél", 
+        "szélfútta levél", 
+        "lebegő", 
+        "hulló", 
+        "levél", 
+        "növény"
+    ], 
+    "🍄": [
+        "gomba", 
+        "növény"
+    ], 
+    "🍅": [
+        "paradicsom", 
+        "zöldség", 
+        "növény"
+    ], 
+    "🍆": [
+        "zöldség", 
+        "padlizsán", 
+        "növény"
+    ], 
+    "🍇": [
+        "szőlő", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍈": [
+        "sárgadinnye", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍉": [
+        "görögdinnye", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍊": [
+        "mandarin", 
+        "narancs", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍋": [
+        "citrom", 
+        "növény", 
+        "citrusféle", 
+        "gyümölcs"
+    ], 
+    "🍌": [
+        "banán", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍍": [
+        "gyümölcs", 
+        "növény", 
+        "ananász"
+    ], 
+    "🍎": [
+        "piros", 
+        "piros alma", 
+        "alma", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍏": [
+        "zöld alma", 
+        "zöld", 
+        "alma", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍐": [
+        "körte", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍑": [
+        "őszibarack", 
+        "növény", 
+        "gyümölcs"
+    ], 
+    "🍒": [
+        "gyümölcs", 
+        "növény", 
+        "cseresznye"
+    ], 
+    "🍓": [
+        "szamóca", 
+        "növény", 
+        "eper", 
+        "gyümölcs"
+    ], 
+    "🍔": [
+        "burger", 
+        "hamburger", 
+        "hambi"
+    ], 
+    "🍕": [
+        "szelet", 
+        "sajtos", 
+        "pizza"
+    ], 
+    "🍖": [
+        "csontos hús", 
+        "hús", 
+        "csont"
+    ], 
+    "🍗": [
+        "csontos", 
+        "csirke", 
+        "baromfi", 
+        "csirkecomb", 
+        "comb"
+    ], 
+    "🍘": [
+        "rizs", 
+        "rizskeksz", 
+        "keksz", 
+        "japán"
+    ], 
+    "🍙": [
+        "rizs", 
+        "japán", 
+        "rizsgolyó", 
+        "golyó"
+    ], 
+    "🍚": [
+        "főtt rizs", 
+        "rizs", 
+        "főzött"
+    ], 
+    "🍛": [
+        "rizs", 
+        "curry", 
+        "currys rizs"
+    ], 
+    "🍜": [
+        "forró", 
+        "gőzölög", 
+        "tál", 
+        "tészta", 
+        "gőzölgő tál"
+    ], 
+    "🍝": [
+        "spagetti", 
+        "tészta"
+    ], 
+    "🍞": [
+        "vekni", 
+        "kenyér"
+    ], 
+    "🍟": [
+        "sültkrumpli", 
+        "krumpli", 
+        "sült krumpli"
+    ], 
+    "🍠": [
+        "édesburgonya", 
+        "étel", 
+        "sült édesburgonya", 
+        "burgonya"
+    ], 
+    "🍡": [
+        "étel", 
+        "édesség", 
+        "pálca", 
+        "desszert", 
+        "dango"
+    ], 
+    "🍢": [
+        "oden", 
+        "étel", 
+        "japán kebab"
+    ], 
+    "🍣": [
+        "szusi", 
+        "étel"
+    ], 
+    "🍤": [
+        "sült garnélarák", 
+        "tenger gyümölcsei", 
+        "rák", 
+        "sült"
+    ], 
+    "🍥": [
+        "csavart haltorta", 
+        "étel", 
+        "haltorta", 
+        "csavart"
+    ], 
+    "🍦": [
+        "lágyfagylalt", 
+        "gépi fagylalt", 
+        "édesség", 
+        "fagyi", 
+        "desszert"
+    ], 
+    "🍧": [
+        "édesség", 
+        "öntet", 
+        "fagyi", 
+        "desszert", 
+        "fagylalt öntettel"
+    ], 
+    "🍨": [
+        "fagylalt", 
+        "édesség", 
+        "fagyi", 
+        "desszert"
+    ], 
+    "🍩": [
+        "édesség", 
+        "fánk", 
+        "desszert"
+    ], 
+    "🍪": [
+        "süti", 
+        "édesség", 
+        "keksz", 
+        "desszert", 
+        "sütemény"
+    ], 
+    "🍫": [
+        "csokoládé", 
+        "édesség", 
+        "csoki", 
+        "táblás csokoládé", 
+        "desszert"
+    ], 
+    "🍬": [
+        "cukorka", 
+        "édesség", 
+        "desszert"
+    ], 
+    "🍭": [
+        "nyalóka", 
+        "cukorka", 
+        "édesség", 
+        "desszert"
+    ], 
+    "🍮": [
+        "puding", 
+        "édesség", 
+        "desszert"
+    ], 
+    "🍯": [
+        "csupor", 
+        "méz", 
+        "mézes csupor", 
+        "bödön", 
+        "mézes bödön"
+    ], 
+    "🍰": [
+        "tortaszelet", 
+        "édesség", 
+        "süti", 
+        "gyümölcstorta", 
+        "sütemény", 
+        "desszert", 
+        "torta"
+    ], 
+    "🍱": [
+        "bento", 
+        "japán ételdoboz", 
+        "ételdoboz"
+    ], 
+    "🍲": [
+        "tál", 
+        "egy tál étel", 
+        "ennivaló", 
+        "étel"
+    ], 
+    "🍳": [
+        "sütés-főzés", 
+        "tojás", 
+        "serpenyő"
+    ], 
+    "🍴": [
+        "kés", 
+        "kés és villa", 
+        "villa", 
+        "tálalás"
+    ], 
+    "🍵": [
+        "fül nélküli teáscsésze", 
+        "teáscsésze", 
+        "ital", 
+        "tea"
+    ], 
+    "🍶": [
+        "ital", 
+        "csésze", 
+        "bár", 
+        "üveg", 
+        "szaké"
+    ], 
+    "🍷": [
+        "ital", 
+        "borospohár", 
+        "bor", 
+        "pohár", 
+        "bár"
+    ], 
+    "🍸": [
+        "koktélos pohár", 
+        "ital", 
+        "koktél", 
+        "pohár", 
+        "bár"
+    ], 
+    "🍹": [
+        "ital", 
+        "koktél", 
+        "trópusi ital", 
+        "bár", 
+        "trópusi"
+    ], 
+    "🍺": [
+        "söröskorsó", 
+        "ital", 
+        "korsó", 
+        "bár", 
+        "sör"
+    ], 
+    "🍻": [
+        "korsó", 
+        "ital", 
+        "összekoccanó söröskorsók", 
+        "koccintás", 
+        "bár", 
+        "sör"
+    ], 
+    "🍼": [
+        "baba", 
+        "cumisüveg", 
+        "tej", 
+        "cumi"
+    ], 
+    "🍾": [
+        "kupak", 
+        "ital", 
+        "üveg kiugró dugóval", 
+        "bár", 
+        "kiugrik"
+    ], 
+    "🍿": [
+        "pattogatott kukorica", 
+        "kukorica"
+    ], 
+    "🎀": [
+        "ünnep", 
+        "ünnepi hangulat", 
+        "masni", 
+        "szalag", 
+        "ünneplés"
+    ], 
+    "🎁": [
+        "ünnep", 
+        "becsomagolt ajándék", 
+        "becsomagolt", 
+        "doboz", 
+        "ünnepi hangulat", 
+        "ajándék", 
+        "ünneplés"
+    ], 
+    "🎂": [
+        "édesség", 
+        "születésnapi torta", 
+        "süti", 
+        "sütemény", 
+        "desszert", 
+        "szülinap", 
+        "torta"
+    ], 
+    "🎃": [
+        "töklámpás", 
+        "ünnep", 
+        "halloween", 
+        "töklámpa", 
+        "ünnepi hangulat", 
+        "ünneplés"
+    ], 
+    "🎄": [
+        "ünnep", 
+        "karácsony", 
+        "fenyőfa", 
+        "fenyő", 
+        "fa", 
+        "karácsonyfa", 
+        "ünnepi hangulat", 
+        "ünneplés"
+    ], 
+    "🎅": [
+        "ünnep", 
+        "télapó", 
+        "fej", 
+        "arc", 
+        "mikulás", 
+        "ünneplés"
+    ], 
+    "🎆": [
+        "ünnep", 
+        "ünnepi hangulat", 
+        "tűzijáték", 
+        "ünneplés"
+    ], 
+    "🎇": [
+        "ünnep", 
+        "ünnepi hangulat", 
+        "tűzijáték", 
+        "csillagszóró", 
+        "ünneplés"
+    ], 
+    "🎈": [
+        "ünnep", 
+        "ünnepi hangulat", 
+        "léggömb", 
+        "ünneplés"
+    ], 
+    "🎉": [
+        "ünnep", 
+        "partikellékek", 
+        "buli", 
+        "ünneplés", 
+        "ünnepi hangulat"
+    ], 
+    "🎊": [
+        "konfetti", 
+        "ünnep", 
+        "ünneplés", 
+        "ünnepi hangulat"
+    ], 
+    "🎋": [
+        "ünnep", 
+        "tanabata ünnepi fa", 
+        "japán", 
+        "fa", 
+        "ünnepi hangulat", 
+        "ünneplés"
+    ], 
+    "🎌": [
+        "ünnep", 
+        "keresztbe tett zászlók", 
+        "japán", 
+        "zászlók", 
+        "ünnepi hangulat", 
+        "keresztbe tett", 
+        "ünneplés"
+    ], 
+    "🎍": [
+        "ünnep", 
+        "bambusz", 
+        "japán", 
+        "fenyő", 
+        "fenyődekoráció", 
+        "ünnepi hangulat", 
+        "növény", 
+        "ünneplés"
+    ], 
+    "🎎": [
+        "baba", 
+        "ünnep", 
+        "japán babák", 
+        "japán", 
+        "ünnepi hangulat", 
+        "ünneplés"
+    ], 
+    "🎏": [
+        "ünnep", 
+        "rizspapír", 
+        "rizspapír pontyok", 
+        "ünnepi hangulat", 
+        "ponty", 
+        "ünneplés"
+    ], 
+    "🎐": [
+        "ünnep", 
+        "harang", 
+        "ünnepi hangulat", 
+        "ünneplés", 
+        "harangjáték"
+    ], 
+    "🎑": [
+        "ünnep", 
+        "ünnepi hangulat", 
+        "hold", 
+        "holdünnep", 
+        "ünneplés"
+    ], 
+    "🎒": [
+        "iskolatáska", 
+        "táska", 
+        "hátizsák", 
+        "iskola"
+    ], 
+    "🎓": [
+        "ruházat", 
+        "ruha", 
+        "diplomaosztón használt kalap", 
+        "diplomaosztó", 
+        "kalap", 
+        "ünneplés"
+    ], 
+    "🎠": [
+        "ló a körhintáról", 
+        "vidámpark", 
+        "játék", 
+        "körhinta"
+    ], 
+    "🎡": [
+        "vidámpark", 
+        "játék", 
+        "óriáskerék"
+    ], 
+    "🎢": [
+        "hullámvasút", 
+        "vidámpark", 
+        "játék", 
+        "hullámnvasút"
+    ], 
+    "🎣": [
+        "hal", 
+        "horgászbot", 
+        "bot", 
+        "pecabot"
+    ], 
+    "🎤": [
+        "zene", 
+        "mikrofon", 
+        "hangjegyek", 
+        "karaoke"
+    ], 
+    "🎥": [
+        "mozi", 
+        "kamera", 
+        "film", 
+        "felvevő"
+    ], 
+    "🎦": [
+        "mozi", 
+        "kamera", 
+        "film"
+    ], 
+    "🎧": [
+        "zenehallgatás", 
+        "fülhallgató"
+    ], 
+    "🎨": [
+        "festőpaletta", 
+        "művészet", 
+        "galéria", 
+        "múzeum", 
+        "paletta"
+    ], 
+    "🎩": [
+        "cilinder", 
+        "ruházat", 
+        "kalap", 
+        "ruha"
+    ], 
+    "🎪": [
+        "sátor", 
+        "cirkusz", 
+        "cirkuszsátor"
+    ], 
+    "🎫": [
+        "belépő", 
+        "jegy"
+    ], 
+    "🎬": [
+        "csapó", 
+        "film"
+    ], 
+    "🎭": [
+        "maszkok", 
+        "előadóművészetek", 
+        "előadás", 
+        "színház"
+    ], 
+    "🎮": [
+        "játék", 
+        "kontroller", 
+        "videojáték"
+    ], 
+    "🎯": [
+        "telitalálat", 
+        "játék", 
+        "bullseye", 
+        "találat"
+    ], 
+    "🎰": [
+        "pénzbedobós", 
+        "játékgép", 
+        "nyerőgép"
+    ], 
+    "🎱": [
+        "biliárdgolyó", 
+        "biliárd", 
+        "8-as", 
+        "golyó"
+    ], 
+    "🎲": [
+        "kocka", 
+        "játék", 
+        "dobókocka"
+    ], 
+    "🎳": [
+        "játék", 
+        "golyó", 
+        "bowling"
+    ], 
+    "🎴": [
+        "kártya", 
+        "játék", 
+        "virágos kártyajáték", 
+        "virág", 
+        "japán"
+    ], 
+    "🎵": [
+        "hangjegy", 
+        "zene"
+    ], 
+    "🎶": [
+        "hangjegy", 
+        "zene", 
+        "hangjegyek"
+    ], 
+    "🎷": [
+        "szaxofon", 
+        "zene", 
+        "szaxi", 
+        "hangszer"
+    ], 
+    "🎸": [
+        "zene", 
+        "gitár", 
+        "hangszer"
+    ], 
+    "🎹": [
+        "zenei billentyűzet", 
+        "zongora", 
+        "zene", 
+        "hangszer", 
+        "billentyűzet"
+    ], 
+    "🎺": [
+        "trombita", 
+        "zene", 
+        "hangszer"
+    ], 
+    "🎻": [
+        "hegedű", 
+        "zene", 
+        "hangszer"
+    ], 
+    "🎼": [
+        "zenei kotta", 
+        "zene", 
+        "kotta"
+    ], 
+    "🎽": [
+        "futómez", 
+        "trikó", 
+        "futás", 
+        "mez"
+    ], 
+    "🎾": [
+        "labda", 
+        "tenisz"
+    ], 
+    "🎿": [
+        "hó", 
+        "síelés", 
+        "téli sportok", 
+        "sílécek"
+    ], 
+    "🏀": [
+        "kosárlabda", 
+        "labda", 
+        "kosár"
+    ], 
+    "🏁": [
+        "kockás zászló", 
+        "kockás", 
+        "versenyzés", 
+        "autóverseny"
+    ], 
+    "🏂": [
+        "hó", 
+        "snowboard", 
+        "téli sportok", 
+        "hódeszka", 
+        "snowboardozó"
+    ], 
+    "🏃": [
+        "futó", 
+        "futás", 
+        "maraton"
+    ], 
+    "🏄": [
+        "szörföző", 
+        "szörf"
+    ], 
+    "🏅": [
+        "medál", 
+        "érem", 
+        "sportérem"
+    ], 
+    "🏆": [
+        "kupa", 
+        "díj"
+    ], 
+    "🏇": [
+        "lóverseny", 
+        "zsoké", 
+        "versenyló", 
+        "ló"
+    ], 
+    "🏈": [
+        "amerikai futball", 
+        "labda", 
+        "amerikai foci"
+    ], 
+    "🏉": [
+        "labda", 
+        "rögbi"
+    ], 
+    "🏊": [
+        "úszás", 
+        "úszó"
+    ], 
+    "🏏": [
+        "ütő", 
+        "játék", 
+        "krikett", 
+        "labda"
+    ], 
+    "🏐": [
+        "játék", 
+        "sport", 
+        "röplabda", 
+        "labda"
+    ], 
+    "🏑": [
+        "ütő", 
+        "sport", 
+        "gyeplabda", 
+        "labda", 
+        "hoki"
+    ], 
+    "🏒": [
+        "hokiütő és korong", 
+        "hoki", 
+        "labda", 
+        "korong", 
+        "jéghoki", 
+        "ütő", 
+        "sport"
+    ], 
+    "🏓": [
+        "ütő", 
+        "asztalitenisz", 
+        "sport", 
+        "labda", 
+        "pingpong"
+    ], 
+    "🏠": [
+        "épület", 
+        "lakóház", 
+        "otthon", 
+        "ház"
+    ], 
+    "🏡": [
+        "épület", 
+        "otthon", 
+        "kert", 
+        "ház", 
+        "ház kerttel"
+    ], 
+    "🏢": [
+        "épület", 
+        "irodaépület"
+    ], 
+    "🏣": [
+        "épület", 
+        "japán postahivatal", 
+        "posta", 
+        "japán"
+    ], 
+    "🏤": [
+        "épület", 
+        "postahivatal", 
+        "európai", 
+        "posta"
+    ], 
+    "🏥": [
+        "épület", 
+        "gyógyítás", 
+        "kórház", 
+        "orvos", 
+        "doktor"
+    ], 
+    "🏦": [
+        "épület", 
+        "bank"
+    ], 
+    "🏧": [
+        "atm", 
+        "bankautomata", 
+        "ATM-jel"
+    ], 
+    "🏨": [
+        "épület", 
+        "hotel"
+    ], 
+    "🏩": [
+        "épület", 
+        "szálló szerelmeseknek", 
+        "love hotel", 
+        "szerelmi fészek", 
+        "szálloda"
+    ], 
+    "🏪": [
+        "épület", 
+        "kisbolt", 
+        "éjjel-nappali", 
+        "bolt", 
+        "non-stop"
+    ], 
+    "🏫": [
+        "épület", 
+        "iskola"
+    ], 
+    "🏬": [
+        "épület", 
+        "áruház", 
+        "boltok"
+    ], 
+    "🏭": [
+        "épület", 
+        "gyár"
+    ], 
+    "🏮": [
+        "piros papírlámpa", 
+        "piros", 
+        "bár", 
+        "lámpa", 
+        "japán"
+    ], 
+    "🏯": [
+        "épület", 
+        "kastély", 
+        "japán kastély", 
+        "japán"
+    ], 
+    "🏰": [
+        "épület", 
+        "vár", 
+        "európai"
+    ], 
+    "🏴": [
+        "lengő", 
+        "lengő fekete zászló"
+    ], 
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "Anglia", 
+        "zászló"
+    ], 
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "zászló", 
+        "Skócia"
+    ], 
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "zászló", 
+        "Wales"
+    ], 
+    "🏸": [
+        "ütő", 
+        "játék", 
+        "labda", 
+        "tollaslabda", 
+        "tollas"
+    ], 
+    "🏹": [
+        "nyíl", 
+        "fegyver", 
+        "nyilas", 
+        "íj", 
+        "íj és nyíl"
+    ], 
+    "🏺": [
+        "váza", 
+        "edény", 
+        "amfora", 
+        "vízöntő"
+    ], 
+    "🏻": [
+        "1–2-es típus", 
+        "bőrtónus", 
+        "világos bőrtónus"
+    ], 
+    "🏼": [
+        "bőrtónus", 
+        "3-as típus", 
+        "közepesen világos bőrtónus"
+    ], 
+    "🏽": [
+        "bőrtónus", 
+        "közepes bőrtónus", 
+        "4-es típus"
+    ], 
+    "🏾": [
+        "5-ös típus", 
+        "bőrtónus", 
+        "közepesen sötét bőrtónus"
+    ], 
+    "🏿": [
+        "6-os típus", 
+        "bőrtónus", 
+        "sötét bőrtónus"
+    ], 
+    "🐀": [
+        "patkány"
+    ], 
+    "🐁": [
+        "egér"
+    ], 
+    "🐂": [
+        "ökör", 
+        "bika"
+    ], 
+    "🐃": [
+        "víz", 
+        "bölény", 
+        "vízibölény"
+    ], 
+    "🐄": [
+        "állat", 
+        "tehén"
+    ], 
+    "🐅": [
+        "tigris", 
+        "állat"
+    ], 
+    "🐆": [
+        "állat", 
+        "leopárd"
+    ], 
+    "🐇": [
+        "kisállat", 
+        "nyuszi", 
+        "kedvenc", 
+        "nyúl"
+    ], 
+    "🐈": [
+        "kisállat", 
+        "kedvenc", 
+        "macska"
+    ], 
+    "🐉": [
+        "sárkány", 
+        "mese"
+    ], 
+    "🐊": [
+        "krokodil"
+    ], 
+    "🐋": [
+        "bálna"
+    ], 
+    "🐌": [
+        "csiga"
+    ], 
+    "🐍": [
+        "kígyó", 
+        "állatöv", 
+        "zodiákus"
+    ], 
+    "🐎": [
+        "lóverseny", 
+        "versenyló", 
+        "ló"
+    ], 
+    "🐏": [
+        "állat", 
+        "kos"
+    ], 
+    "🐐": [
+        "kecske", 
+        "bak", 
+        "bakkecske"
+    ], 
+    "🐑": [
+        "juh", 
+        "anyajuh", 
+        "birka", 
+        "bárány"
+    ], 
+    "🐒": [
+        "kismajom", 
+        "majom"
+    ], 
+    "🐓": [
+        "kakas"
+    ], 
+    "🐔": [
+        "tyúk"
+    ], 
+    "🐕": [
+        "kisállat", 
+        "kutya"
+    ], 
+    "🐖": [
+        "állat", 
+        "malac", 
+        "koca", 
+        "disznó"
+    ], 
+    "🐗": [
+        "disznó", 
+        "vaddisznó"
+    ], 
+    "🐘": [
+        "elefánt", 
+        "ormány"
+    ], 
+    "🐙": [
+        "oktopusz", 
+        "polip"
+    ], 
+    "🐚": [
+        "spirális", 
+        "tengeri csiga", 
+        "kagyló"
+    ], 
+    "🐛": [
+        "bogár", 
+        "rovar"
+    ], 
+    "🐜": [
+        "hangya", 
+        "rovar"
+    ], 
+    "🐝": [
+        "méhecske", 
+        "méh", 
+        "rovar"
+    ], 
+    "🐞": [
+        "bogár", 
+        "katica", 
+        "rovar", 
+        "katicabogár"
+    ], 
+    "🐟": [
+        "halak", 
+        "állatöv", 
+        "hal", 
+        "zodiákus"
+    ], 
+    "🐠": [
+        "trópusi hal", 
+        "díszhal", 
+        "hal", 
+        "trópusi"
+    ], 
+    "🐡": [
+        "hal", 
+        "gömbhal"
+    ], 
+    "🐢": [
+        "teknőc", 
+        "teknős", 
+        "teknősbéka"
+    ], 
+    "🐣": [
+        "kikelő kiscsibe", 
+        "kikelés", 
+        "kiscsirke"
+    ], 
+    "🐤": [
+        "naposcsibe", 
+        "kiscsibe"
+    ], 
+    "🐥": [
+        "kiscsibe", 
+        "előre néző kiscsibe"
+    ], 
+    "🐦": [
+        "madár", 
+        "fej"
+    ], 
+    "🐧": [
+        "pingvin", 
+        "fej"
+    ], 
+    "🐨": [
+        "medve", 
+        "koala", 
+        "fej", 
+        "maci"
+    ], 
+    "🐩": [
+        "kisállat", 
+        "pudli", 
+        "kedvenc", 
+        "kutya"
+    ], 
+    "🐪": [
+        "púposteve", 
+        "dromedár", 
+        "teve"
+    ], 
+    "🐫": [
+        "púposteve", 
+        "kétpúpú teve", 
+        "teve"
+    ], 
+    "🐬": [
+        "delfin"
+    ], 
+    "🐭": [
+        "fej", 
+        "egérfej", 
+        "egér"
+    ], 
+    "🐮": [
+        "tehénfej", 
+        "fej", 
+        "tehén"
+    ], 
+    "🐯": [
+        "tigris", 
+        "tigrisfej", 
+        "fej"
+    ], 
+    "🐰": [
+        "kisállat", 
+        "fej", 
+        "kedvenc", 
+        "nyuszi", 
+        "nyúl", 
+        "nyúlfej"
+    ], 
+    "🐱": [
+        "kisállat", 
+        "macska", 
+        "macskafej", 
+        "cica", 
+        "fej", 
+        "kedvenc"
+    ], 
+    "🐲": [
+        "sárkány", 
+        "fantasy", 
+        "sárkányfej", 
+        "fej", 
+        "mese"
+    ], 
+    "🐳": [
+        "fröcskölő bálna", 
+        "bálna", 
+        "fej", 
+        "fröcskölés"
+    ], 
+    "🐴": [
+        "fej", 
+        "ló", 
+        "lófej"
+    ], 
+    "🐵": [
+        "állat", 
+        "fej", 
+        "majom", 
+        "majomfej"
+    ], 
+    "🐶": [
+        "kisállat", 
+        "kutyafej", 
+        "fej", 
+        "kedvenc", 
+        "kutya"
+    ], 
+    "🐷": [
+        "disznó", 
+        "fej", 
+        "malacfej", 
+        "malac"
+    ], 
+    "🐸": [
+        "fej", 
+        "békafej", 
+        "béka"
+    ], 
+    "🐹": [
+        "hörcsög", 
+        "kisállat", 
+        "fej", 
+        "hörcsögfej", 
+        "kedvenc"
+    ], 
+    "🐺": [
+        "farkas", 
+        "farkasfej", 
+        "fej"
+    ], 
+    "🐻": [
+        "medve", 
+        "medvefej", 
+        "fej", 
+        "maci"
+    ], 
+    "🐼": [
+        "fej", 
+        "panda", 
+        "maci", 
+        "pandafej"
+    ], 
+    "🐽": [
+        "disznó", 
+        "orr", 
+        "malacorr"
+    ], 
+    "🐾": [
+        "mancsnyomok", 
+        "lábnyomok", 
+        "lábak"
+    ], 
+    "👀": [
+        "test", 
+        "arc", 
+        "szem", 
+        "szemek"
+    ], 
+    "👂": [
+        "test", 
+        "testrész", 
+        "fej", 
+        "fül"
+    ], 
+    "👃": [
+        "test", 
+        "orr", 
+        "testrész", 
+        "fej"
+    ], 
+    "👄": [
+        "test", 
+        "száj", 
+        "ajkak"
+    ], 
+    "👅": [
+        "test", 
+        "nyelv"
+    ], 
+    "👆": [
+        "felfelé", 
+        "mutatóujj", 
+        "tenyér", 
+        "tenyér felfelé mutató ujjal", 
+        "kéz", 
+        "ujj", 
+        "test"
+    ], 
+    "👇": [
+        "ujj", 
+        "mutatóujj", 
+        "tenyér", 
+        "lefelé", 
+        "kéz", 
+        "tenyér lefelé mutató ujjal", 
+        "test"
+    ], 
+    "👈": [
+        "mutatóujj", 
+        "tenyér", 
+        "test", 
+        "kéz", 
+        "ujj", 
+        "kéz balra mutató ujjal"
+    ], 
+    "👉": [
+        "mutatóujj", 
+        "tenyér", 
+        "kéz jobbra mutató ujjal", 
+        "ujj", 
+        "kéz", 
+        "test"
+    ], 
+    "👊": [
+        "felemelt", 
+        "test", 
+        "ütésre emelt ököl", 
+        "ököl", 
+        "ütés"
+    ], 
+    "👋": [
+        "test", 
+        "integetés", 
+        "integető kéz", 
+        "kéz"
+    ], 
+    "👌": [
+        "test", 
+        "ok jel", 
+        "kéz", 
+        "oké", 
+        "rendben"
+    ], 
+    "👍": [
+        "felfelé mutató hüvelykujj", 
+        "hüvelykujj felfelé", 
+        "kéz", 
+        "test", 
+        "rendben", 
+        "oké"
+    ], 
+    "👎": [
+        "test", 
+        "lefelé mutató hüvelykujj", 
+        "hüvelykujj lefelé", 
+        "kéz"
+    ], 
+    "👏": [
+        "test", 
+        "tapsoló kéz", 
+        "taps", 
+        "kéz"
+    ], 
+    "👐": [
+        "széttárt kéz", 
+        "test", 
+        "kéz", 
+        "kitárva"
+    ], 
+    "👑": [
+        "kiegészítő", 
+        "királynő", 
+        "király", 
+        "korona"
+    ], 
+    "👒": [
+        "női kalap", 
+        "kalap", 
+        "nők", 
+        "ruházat", 
+        "ruha"
+    ], 
+    "👓": [
+        "szem", 
+        "szemüveg"
+    ], 
+    "👔": [
+        "nyakkendő", 
+        "ruházat", 
+        "elegancia"
+    ], 
+    "👕": [
+        "póló", 
+        "ruházat", 
+        "ruha"
+    ], 
+    "👖": [
+        "farmernadrág", 
+        "nadrág", 
+        "ruházat", 
+        "ruha", 
+        "farmer"
+    ], 
+    "👗": [
+        "ruházat", 
+        "ruha"
+    ], 
+    "👘": [
+        "ruházat", 
+        "ruha", 
+        "kimonó"
+    ], 
+    "👙": [
+        "úszás", 
+        "bikini", 
+        "fürdő", 
+        "ruházat", 
+        "ruha"
+    ], 
+    "👚": [
+        "női ruha", 
+        "ruházat", 
+        "nők", 
+        "ruha"
+    ], 
+    "👛": [
+        "pénztárca", 
+        "kiegészítő", 
+        "pénz"
+    ], 
+    "👜": [
+        "kiegészítő", 
+        "női táska", 
+        "táska"
+    ], 
+    "👝": [
+        "kiegészítő", 
+        "táska"
+    ], 
+    "👞": [
+        "férfi", 
+        "ruházat", 
+        "cipő", 
+        "férfi cipő", 
+        "ruha"
+    ], 
+    "👟": [
+        "tornacipő", 
+        "atlétika", 
+        "cipő", 
+        "edzőcipő", 
+        "futás", 
+        "futócipő"
+    ], 
+    "👠": [
+        "magassarkú", 
+        "ruházat", 
+        "nők", 
+        "magas sarkú cipő", 
+        "ruha"
+    ], 
+    "👡": [
+        "ruházat", 
+        "nők", 
+        "női szandál", 
+        "szandál", 
+        "ruha"
+    ], 
+    "👢": [
+        "lábbeli", 
+        "ruházat", 
+        "ruha", 
+        "csizma", 
+        "női csizma", 
+        "nők"
+    ], 
+    "👣": [
+        "lábnyomok", 
+        "nyomok", 
+        "lábnyom"
+    ], 
+    "👤": [
+        "ember", 
+        "sziluett", 
+        "ember sziluettje melltől felfelé"
+    ], 
+    "👥": [
+        "két ember sziluettje melltől felfelé", 
+        "ember", 
+        "sziluett"
+    ], 
+    "👦": [
+        "fiú", 
+        "kisfiú", 
+        "srác"
+    ], 
+    "👧": [
+        "kislány", 
+        "lányka", 
+        "lány"
+    ], 
+    "👨": [
+        "férfi"
+    ], 
+    "👨‍🌾": [
+        "férfi", 
+        "földműves", 
+        "gazda", 
+        "kertész"
+    ], 
+    "👨‍🍳": [
+        "férfi", 
+        "szakács", 
+        "séf"
+    ], 
+    "👨‍🎓": [
+        "diák", 
+        "tanuló", 
+        "férfi tanuló", 
+        "egyetemista", 
+        "férfi"
+    ], 
+    "👨‍🎤": [
+        "művész", 
+        "sztár", 
+        "férfi énekes", 
+        "előadó", 
+        "énekes", 
+        "rock", 
+        "férfi"
+    ], 
+    "👨‍🎨": [
+        "művész", 
+        "férfi", 
+        "festő", 
+        "férfi művész", 
+        "paletta"
+    ], 
+    "👨‍🏫": [
+        "oktató", 
+        "férfi", 
+        "tanár", 
+        "professzor"
+    ], 
+    "👨‍🏭": [
+        "dolgozó", 
+        "munkás", 
+        "férfi munkás", 
+        "gyári", 
+        "férfi"
+    ], 
+    "👨‍👦": [
+        "család", 
+        "család: férfi és fiú", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👦‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "család: férfi és fiú és fiú", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👧": [
+        "család", 
+        "család: férfi és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👧‍👦": [
+        "család", 
+        "család: férfi és lány és fiú", 
+        "fiú", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👧‍👧": [
+        "család", 
+        "család: férfi és lány és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👨‍👦": [
+        "család", 
+        "család: férfi és férfi és fiú", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "család: férfi és férfi és fiú és fiú", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👨‍👧": [
+        "család", 
+        "család: férfi és férfi és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "lány", 
+        "család: férfi és férfi és lány és fiú", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "család", 
+        "család: férfi és férfi és lány és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "anya"
+    ], 
+    "👨‍👩‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "család: férfi és nő és fiú", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "család", 
+        "család: férfi és nő és fiú és fiú", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👨‍👩‍👧": [
+        "család", 
+        "család: férfi és nő és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "apa", 
+        "család: férfi és nő és lány és fiú", 
+        "nő", 
+        "anya"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "család", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "férfi", 
+        "család: férfi és nő és lány és lány", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👨‍💻": [
+        "programozó férfi", 
+        "programozó", 
+        "fejlesztő", 
+        "szoftver", 
+        "kódoló", 
+        "férfi", 
+        "feltaláló"
+    ], 
+    "👨‍💼": [
+        "alkalmazott", 
+        "férfi irodista", 
+        "irodai", 
+        "férfi"
+    ], 
+    "👨‍🔧": [
+        "férfi", 
+        "szerelő", 
+        "villanyszerelő", 
+        "vízszerelő"
+    ], 
+    "👨‍🔬": [
+        "férfi tudós", 
+        "férfi", 
+        "matematikus", 
+        "kémikus", 
+        "fizikus"
+    ], 
+    "👨‍🚀": [
+        "rakéta", 
+        "férfi", 
+        "űrhajós", 
+        "űr"
+    ], 
+    "👨‍🚒": [
+        "tűz", 
+        "férfi", 
+        "tűzoltó"
+    ], 
+    "👩": [
+        "nő"
+    ], 
+    "👩‍🌾": [
+        "női gazda", 
+        "nő", 
+        "földműves", 
+        "gazda", 
+        "kertész"
+    ], 
+    "👩‍🍳": [
+        "séf", 
+        "szakácsnő", 
+        "nő"
+    ], 
+    "👩‍🎓": [
+        "női tanuló", 
+        "diák", 
+        "tanuló", 
+        "egyetemista", 
+        "nő"
+    ], 
+    "👩‍🎤": [
+        "művész", 
+        "sztár", 
+        "előadó", 
+        "énekes", 
+        "rock", 
+        "női énekes", 
+        "nő"
+    ], 
+    "👩‍🎨": [
+        "művész", 
+        "festő", 
+        "női művész", 
+        "paletta", 
+        "nő"
+    ], 
+    "👩‍🏫": [
+        "oktató", 
+        "professzorasszony", 
+        "tanárnő", 
+        "nő"
+    ], 
+    "👩‍🏭": [
+        "dolgozó", 
+        "nő", 
+        "gyári", 
+        "női munkás", 
+        "munkás"
+    ], 
+    "👩‍👦": [
+        "család", 
+        "család: nő és fiú", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👦‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "család: nő és fiú és fiú", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👧": [
+        "család", 
+        "család: nő és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👧‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "lány", 
+        "család: nő és lány és fiú", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👧‍👧": [
+        "család", 
+        "család: nő és lány és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👩‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "család: nő és nő és fiú", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "család", 
+        "fiú", 
+        "apuka", 
+        "család: nő és nő és fiú és fiú", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👩‍👧": [
+        "család", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "család: nő és nő és lány", 
+        "anya"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "család", 
+        "család: nő és nő és lány és fiú", 
+        "fiú", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "család", 
+        "család: nő és nő és lány és lány", 
+        "apuka", 
+        "lány", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "nő", 
+        "anya"
+    ], 
+    "👩‍💻": [
+        "programozó nő", 
+        "programozó", 
+        "fejlesztő", 
+        "szoftver", 
+        "kódoló", 
+        "feltaláló", 
+        "nő"
+    ], 
+    "👩‍💼": [
+        "alkalmazott", 
+        "női irodista", 
+        "irodai", 
+        "női"
+    ], 
+    "👩‍🔧": [
+        "szerelőnő", 
+        "szerelő", 
+        "villanyszerelő", 
+        "vízszerelő", 
+        "nő"
+    ], 
+    "👩‍🔬": [
+        "fizikus", 
+        "matematikus", 
+        "női tudós", 
+        "kémikus", 
+        "nő"
+    ], 
+    "👩‍🚀": [
+        "rakéta", 
+        "űrhajós", 
+        "űr", 
+        "űrhajósnő", 
+        "nő"
+    ], 
+    "👩‍🚒": [
+        "tűz", 
+        "tűzoltónő", 
+        "tűzoltó", 
+        "nő"
+    ], 
+    "👪": [
+        "család", 
+        "apuka", 
+        "gyermek", 
+        "anyuka", 
+        "apa", 
+        "anya"
+    ], 
+    "👫": [
+        "kézen fogva álló férfi és nő", 
+        "pár", 
+        "kéz a kézben"
+    ], 
+    "👬": [
+        "kézen fogva álló férfiak", 
+        "ikrek", 
+        "kézen fogva", 
+        "pár", 
+        "férfiak"
+    ], 
+    "👭": [
+        "kézen fogva álló nők", 
+        "nők", 
+        "kézen fogva", 
+        "pár"
+    ], 
+    "👮": [
+        "zsaru", 
+        "rendőrség"
+    ], 
+    "👯": [
+        "bulizó emberek", 
+        "parti", 
+        "lányok", 
+        "nyuszi", 
+        "buli", 
+        "nyuszifül", 
+        "nő"
+    ], 
+    "👰": [
+        "menyasszony", 
+        "esküvő", 
+        "lakodalom", 
+        "fátyol", 
+        "menyasszony fátyollal"
+    ], 
+    "👱": [
+        "szőke hajú ember", 
+        "szőke"
+    ], 
+    "👲": [
+        "ember", 
+        "sapka", 
+        "kínai sapkás ember"
+    ], 
+    "👳": [
+        "turbán", 
+        "ember", 
+        "turbános ember"
+    ], 
+    "👴": [
+        "idős férfi", 
+        "öregember"
+    ], 
+    "👵": [
+        "idős nő", 
+        "öreg néni"
+    ], 
+    "👶": [
+        "baba", 
+        "kisbaba"
+    ], 
+    "👷": [
+        "védősisak", 
+        "építkezés", 
+        "sisak", 
+        "építőmunkás"
+    ], 
+    "👸": [
+        "fantasy", 
+        "mesehős", 
+        "mese", 
+        "hercegnő"
+    ], 
+    "👹": [
+        "óriás", 
+        "ogre", 
+        "szörny", 
+        "japán", 
+        "lény", 
+        "arc", 
+        "mese"
+    ], 
+    "👺": [
+        "szörny", 
+        "japán", 
+        "fantasy", 
+        "lény", 
+        "arc", 
+        "kobold", 
+        "mese"
+    ], 
+    "👻": [
+        "szellem", 
+        "kísértet", 
+        "szörny", 
+        "lény", 
+        "arc", 
+        "mese"
+    ], 
+    "👼": [
+        "baba", 
+        "babaangyal", 
+        "arc", 
+        "angyal", 
+        "mese"
+    ], 
+    "👽": [
+        "idegen", 
+        "űrlény", 
+        "földönkívüli", 
+        "ufó"
+    ], 
+    "👾": [
+        "földönkívüli szörny", 
+        "űrlény", 
+        "földönkívüli", 
+        "szörny", 
+        "ufó", 
+        "idegen"
+    ], 
+    "👿": [
+        "fantasy", 
+        "ördög", 
+        "arc", 
+        "démon", 
+        "mese"
+    ], 
+    "💀": [
+        "halál", 
+        "koponya", 
+        "szörny", 
+        "csont"
+    ], 
+    "💁": [
+        "segítség", 
+        "kéz", 
+        "információ", 
+        "ember az információs pultnál"
+    ], 
+    "💂": [
+        "gárdista", 
+        "őrség"
+    ], 
+    "💃": [
+        "tánc", 
+        "táncoló", 
+        "táncoló nő", 
+        "nő"
+    ], 
+    "💄": [
+        "ajakrúzs", 
+        "kozmetikum", 
+        "szépségápolás", 
+        "smink"
+    ], 
+    "💅": [
+        "köröm", 
+        "lakk", 
+        "manikűr", 
+        "körömlakk", 
+        "kéz", 
+        "test", 
+        "körömápolás", 
+        "kifestés"
+    ], 
+    "💆": [
+        "masszázs", 
+        "arcmasszázs"
+    ], 
+    "💇": [
+        "fodrász", 
+        "hajvágás", 
+        "fodrászat", 
+        "szépségápolás"
+    ], 
+    "💈": [
+        "fodrász", 
+        "hajvágás", 
+        "fodrászcégér", 
+        "borbély", 
+        "cégér"
+    ], 
+    "💉": [
+        "fecskendő", 
+        "orvos", 
+        "vérvétel", 
+        "injekciós tű", 
+        "eszköz"
+    ], 
+    "💊": [
+        "pirula", 
+        "betegség", 
+        "gyógyszer", 
+        "tabletta", 
+        "orvos", 
+        "doktor"
+    ], 
+    "💋": [
+        "szenvedély", 
+        "csóknyom", 
+        "csók", 
+        "ajkak", 
+        "romantika"
+    ], 
+    "💌": [
+        "szív", 
+        "szerelem", 
+        "levél", 
+        "szerelmes levél", 
+        "romantika"
+    ], 
+    "💍": [
+        "gyémánt", 
+        "gyűrű", 
+        "ékszer", 
+        "romantika"
+    ], 
+    "💎": [
+        "gyémánt", 
+        "ékszer", 
+        "ékkő", 
+        "romantika"
+    ], 
+    "💏": [
+        "csók", 
+        "pár", 
+        "romantika"
+    ], 
+    "💐": [
+        "csokor", 
+        "virág", 
+        "virágcsokor", 
+        "romantika"
+    ], 
+    "💑": [
+        "szerelem", 
+        "szív", 
+        "romantika", 
+        "pár", 
+        "pár szívvel"
+    ], 
+    "💒": [
+        "épület", 
+        "esküvő", 
+        "romantika", 
+        "kápolna"
+    ], 
+    "💓": [
+        "dobogó szív", 
+        "szív", 
+        "szívdobogás"
+    ], 
+    "💔": [
+        "összetört", 
+        "összetört szív", 
+        "szív"
+    ], 
+    "💕": [
+        "szerelmes szívek", 
+        "szív", 
+        "két szív", 
+        "szívek", 
+        "szerelem"
+    ], 
+    "💖": [
+        "ragyogás", 
+        "szív", 
+        "ragyogó szív", 
+        "izgatott"
+    ], 
+    "💗": [
+        "izgalom", 
+        "szív", 
+        "növekvő szív", 
+        "szívdobogás", 
+        "idegesség"
+    ], 
+    "💘": [
+        "Cupido", 
+        "nyíl", 
+        "szerelem", 
+        "nyíllal átlőtt szív", 
+        "romantika"
+    ], 
+    "💙": [
+        "kék", 
+        "szív", 
+        "kék szív"
+    ], 
+    "💚": [
+        "szív", 
+        "zöld", 
+        "zöld szív"
+    ], 
+    "💛": [
+        "sárga szív", 
+        "sárga", 
+        "szív"
+    ], 
+    "💜": [
+        "szív", 
+        "lila", 
+        "lila szív"
+    ], 
+    "💝": [
+        "szív szalaggal", 
+        "szív", 
+        "valentin-nap", 
+        "szalag", 
+        "ajándék"
+    ], 
+    "💞": [
+        "szív", 
+        "forgás", 
+        "forgó szívek"
+    ], 
+    "💟": [
+        "dekoráció", 
+        "szív formájú dekoráció", 
+        "szív", 
+        "dísz"
+    ], 
+    "💠": [
+        "rombusz", 
+        "rombusz ponttal", 
+        "képregény", 
+        "alakzat"
+    ], 
+    "💡": [
+        "ötlet", 
+        "fény", 
+        "képregény", 
+        "villanykörte", 
+        "világítás"
+    ], 
+    "💢": [
+        "mérges", 
+        "dühös", 
+        "képregény", 
+        "a düh szimbóluma"
+    ], 
+    "💣": [
+        "bomba", 
+        "képregény"
+    ], 
+    "💤": [
+        "alvás", 
+        "képregény"
+    ], 
+    "💥": [
+        "ütközés", 
+        "bumm", 
+        "képregény"
+    ], 
+    "💦": [
+        "izzadság", 
+        "képregény", 
+        "izzadságcseppek"
+    ], 
+    "💧": [
+        "izzadság", 
+        "hideg", 
+        "időjárás", 
+        "képregény", 
+        "csepp"
+    ], 
+    "💨": [
+        "képregény", 
+        "futás", 
+        "rohanás"
+    ], 
+    "💩": [
+        "kaki", 
+        "kakihalom", 
+        "kaka", 
+        "képregény", 
+        "kakiarc"
+    ], 
+    "💪": [
+        "bicepsz", 
+        "karizom", 
+        "befeszített bicepsz", 
+        "izom", 
+        "képregény"
+    ], 
+    "💫": [
+        "szédülés", 
+        "csillagokat lát", 
+        "képregény"
+    ], 
+    "💬": [
+        "párbeszéd", 
+        "szövegbuborék", 
+        "buborék", 
+        "képregény", 
+        "beszéd"
+    ], 
+    "💭": [
+        "gondolatbuborék", 
+        "buborék", 
+        "képregény", 
+        "gondolat"
+    ], 
+    "💮": [
+        "fehér virág", 
+        "virág", 
+        "növény"
+    ], 
+    "💯": [
+        "teljes pontszám", 
+        "100", 
+        "száz", 
+        "száz pont"
+    ], 
+    "💰": [
+        "dollár", 
+        "zsák", 
+        "pénzeszsák", 
+        "pénz"
+    ], 
+    "💱": [
+        "pénz", 
+        "pénzváltó", 
+        "valuta", 
+        "átváltás", 
+        "pénzváltás", 
+        "bank"
+    ], 
+    "💲": [
+        "dollár", 
+        "pénznem", 
+        "vastag dollárjel", 
+        "pénz"
+    ], 
+    "💳": [
+        "kártya", 
+        "bankkártya", 
+        "bank", 
+        "hitelkártya"
+    ], 
+    "💴": [
+        "bankjegy", 
+        "pénznem", 
+        "jen bankjegy", 
+        "bankó", 
+        "bank", 
+        "jen", 
+        "papírpénz", 
+        "pénz"
+    ], 
+    "💵": [
+        "dollár bankjegy", 
+        "bankjegy", 
+        "dollár", 
+        "pénznem", 
+        "bankó", 
+        "bank", 
+        "papírpénz", 
+        "pénz"
+    ], 
+    "💶": [
+        "pénz", 
+        "pénznem", 
+        "euró bankjegy", 
+        "bankó", 
+        "euró", 
+        "papírpénz", 
+        "bank", 
+        "bankjegy"
+    ], 
+    "💷": [
+        "pénz", 
+        "pénznem", 
+        "font bankjegy", 
+        "bankó", 
+        "papírpénz", 
+        "font", 
+        "bank", 
+        "bankjegy"
+    ], 
+    "💸": [
+        "bankjegy", 
+        "pénz szárnyakkal", 
+        "dollár", 
+        "repülés", 
+        "szárnyak", 
+        "bankó", 
+        "bank", 
+        "papírpénz", 
+        "pénz"
+    ], 
+    "💹": [
+        "emelkedés", 
+        "pénz", 
+        "felfelé", 
+        "pénznem", 
+        "diagram", 
+        "trend", 
+        "növekvő jendiagram", 
+        "növekedés", 
+        "piac", 
+        "jen", 
+        "bank"
+    ], 
+    "💺": [
+        "ülés", 
+        "szék"
+    ], 
+    "💻": [
+        "laptop", 
+        "notebook", 
+        "számítógép"
+    ], 
+    "💼": [
+        "aktatáska"
+    ], 
+    "💽": [
+        "lemez", 
+        "minidisk", 
+        "optikai", 
+        "számítógép"
+    ], 
+    "💾": [
+        "floppy", 
+        "hajlékonylemez", 
+        "lemez", 
+        "floppylemez", 
+        "számítógép"
+    ], 
+    "💿": [
+        "számítógép", 
+        "dvd", 
+        "optikai lemez", 
+        "optikai", 
+        "lemez", 
+        "blu-ray"
+    ], 
+    "📀": [
+        "számítógép", 
+        "dvd", 
+        "optikai", 
+        "cd", 
+        "lemez", 
+        "blu-ray"
+    ], 
+    "📁": [
+        "fájlmappa", 
+        "fájl", 
+        "mappa"
+    ], 
+    "📂": [
+        "nyitott fájlmappa", 
+        "nyitott", 
+        "fájl", 
+        "mappa"
+    ], 
+    "📃": [
+        "lap", 
+        "dokumentum", 
+        "kunkorodó lap", 
+        "kunkorodik"
+    ], 
+    "📄": [
+        "dokumentum", 
+        "lap", 
+        "felfelé néző oldal"
+    ], 
+    "📅": [
+        "naptár", 
+        "dátum"
+    ], 
+    "📆": [
+        "fali naptár", 
+        "naptár"
+    ], 
+    "📇": [
+        "kártya", 
+        "forgó névjegykártyatartó", 
+        "tartó", 
+        "forgó", 
+        "rolodex"
+    ], 
+    "📈": [
+        "diagram", 
+        "trend", 
+        "növekedés", 
+        "felfelé", 
+        "növekvő diagram"
+    ], 
+    "📉": [
+        "diagram", 
+        "lefelé", 
+        "csökkenés", 
+        "csökkenő diagram", 
+        "trend"
+    ], 
+    "📊": [
+        "diagram", 
+        "sáv", 
+        "oszlopdiagram", 
+        "oszlop"
+    ], 
+    "📋": [
+        "írótábla"
+    ], 
+    "📌": [
+        "rajzszög"
+    ], 
+    "📍": [
+        "rajzszög", 
+        "kerek rajzszög"
+    ], 
+    "📎": [
+        "gemkapocs", 
+        "papírkapocs"
+    ], 
+    "📏": [
+        "egyenes vonalzó", 
+        "vonalzó", 
+        "egyenes"
+    ], 
+    "📐": [
+        "háromszögvonalzó", 
+        "derékszögű", 
+        "vonalzó", 
+        "háromszög"
+    ], 
+    "📑": [
+        "könyvjelző", 
+        "könyvjelzők", 
+        "jelzés", 
+        "fülek"
+    ], 
+    "📒": [
+        "könyv", 
+        "főkönyv"
+    ], 
+    "📓": [
+        "jegyzetfüzet", 
+        "füzet", 
+        "jegyzetek"
+    ], 
+    "📔": [
+        "jegyzetfüzet", 
+        "jegyzetfüzet díszkötésben", 
+        "díszkötés", 
+        "borító", 
+        "díszes", 
+        "füzet"
+    ], 
+    "📕": [
+        "könyv", 
+        "csukott", 
+        "becsukott könyv"
+    ], 
+    "📖": [
+        "nyitott könyv", 
+        "könyv", 
+        "nyitott"
+    ], 
+    "📗": [
+        "zöld könyv", 
+        "könyv", 
+        "zöld"
+    ], 
+    "📘": [
+        "könyv", 
+        "kék", 
+        "kék könyv"
+    ], 
+    "📙": [
+        "könyv", 
+        "narancssárga", 
+        "narancssárga könyv"
+    ], 
+    "📚": [
+        "könyv", 
+        "könyvek"
+    ], 
+    "📛": [
+        "kitűző", 
+        "név", 
+        "jelvény"
+    ], 
+    "📜": [
+        "tekercs", 
+        "papírtekercs", 
+        "papír"
+    ], 
+    "📝": [
+        "feljegyzés", 
+        "ceruza", 
+        "lap"
+    ], 
+    "📞": [
+        "telefonkagyló", 
+        "kagyló", 
+        "telefon"
+    ], 
+    "📟": [
+        "személyhívó"
+    ], 
+    "📠": [
+        "fax", 
+        "faxkészülék"
+    ], 
+    "📡": [
+        "parabolaantenna", 
+        "tányér", 
+        "antenna", 
+        "műhold"
+    ], 
+    "📢": [
+        "hangos", 
+        "közlemények", 
+        "hangosbeszélő"
+    ], 
+    "📣": [
+        "szurkolás", 
+        "megafon"
+    ], 
+    "📤": [
+        "elküldött", 
+        "kimenő tálca", 
+        "tálca", 
+        "kimenő", 
+        "levél", 
+        "posta"
+    ], 
+    "📥": [
+        "fogadás", 
+        "tálca", 
+        "beérkező tálca", 
+        "beérkező", 
+        "levél", 
+        "posta"
+    ], 
+    "📦": [
+        "csomag", 
+        "doboz"
+    ], 
+    "📧": [
+        "e-mail", 
+        "levél"
+    ], 
+    "📨": [
+        "fogadás", 
+        "e-mail", 
+        "beérkező boríték", 
+        "beérkező", 
+        "levél", 
+        "posta", 
+        "boríték"
+    ], 
+    "📩": [
+        "nyíl", 
+        "elküldött", 
+        "boríték nyíllal", 
+        "e-mail", 
+        "kimenő", 
+        "levél", 
+        "posta", 
+        "boríték"
+    ], 
+    "📪": [
+        "csukott levelesláda leengedett zászlóval", 
+        "levelesláda", 
+        "postaláda", 
+        "csukott", 
+        "levél", 
+        "leengedett"
+    ], 
+    "📫": [
+        "postaláda", 
+        "csukott levelesláda felemelt zászlóval", 
+        "levél", 
+        "csukott", 
+        "levelesláda"
+    ], 
+    "📬": [
+        "nyitott", 
+        "levelesláda", 
+        "postaláda", 
+        "felemelt", 
+        "nyitott levelesláda felemelt zászlóval", 
+        "levél"
+    ], 
+    "📭": [
+        "nyitott", 
+        "levelesláda", 
+        "postaláda", 
+        "levél", 
+        "nyitott levelesláda leengedett zászlóval", 
+        "leengedett"
+    ], 
+    "📮": [
+        "postaláda", 
+        "doboz", 
+        "levelesláda"
+    ], 
+    "📯": [
+        "postai", 
+        "kürt", 
+        "posta", 
+        "postakürt"
+    ], 
+    "📰": [
+        "újság", 
+        "újságos"
+    ], 
+    "📱": [
+        "rádiótelefon", 
+        "mobiltelefon", 
+        "mobil", 
+        "telefon"
+    ], 
+    "📲": [
+        "nyíl", 
+        "mobiltelefon", 
+        "telefon", 
+        "rádiótelefon", 
+        "mobiltelefon nyíllal", 
+        "mobil", 
+        "hívás"
+    ], 
+    "📳": [
+        "rezgés", 
+        "rezgő mód", 
+        "mobiltelefon", 
+        "telefon", 
+        "rádiótelefon", 
+        "tiltott", 
+        "mobil"
+    ], 
+    "📴": [
+        "kikapcsolva", 
+        "mobiltelefon kikapcsolva", 
+        "mobiltelefon", 
+        "telefon", 
+        "rádiótelefon", 
+        "tiltott", 
+        "mobil"
+    ], 
+    "📵": [
+        "mobiltelefon", 
+        "telefon", 
+        "mobiltelefon használata tilos", 
+        "tilos", 
+        "tiltott", 
+        "mobil"
+    ], 
+    "📶": [
+        "antennasávok", 
+        "mobiltelefon", 
+        "mobil", 
+        "antenna", 
+        "térerő"
+    ], 
+    "📷": [
+        "kamera", 
+        "fényképezőgép"
+    ], 
+    "📸": [
+        "fényképező vakuval", 
+        "fényképezőgép", 
+        "videó", 
+        "vaku"
+    ], 
+    "📹": [
+        "videók", 
+        "kamera", 
+        "videokamera"
+    ], 
+    "📺": [
+        "televízió", 
+        "tévé", 
+        "tévékészülék"
+    ], 
+    "📻": [
+        "rádió", 
+        "rádiókészülék"
+    ], 
+    "📼": [
+        "videó", 
+        "videokazetta", 
+        "szalag", 
+        "kazetta"
+    ], 
+    "📿": [
+        "ima", 
+        "imafüzér", 
+        "gyöngyök", 
+        "vallás", 
+        "nyaklánc"
+    ], 
+    "🔀": [
+        "véletlenszerű lejátszás gomb", 
+        "egymást keresztező nyilak"
+    ], 
+    "🔁": [
+        "ismétlés gomb", 
+        "nyilak", 
+        "ismétlés"
+    ], 
+    "🔂": [
+        "egy szám ismétlése gomb", 
+        "nyilak", 
+        "ismétlés egyszer"
+    ], 
+    "🔃": [
+        "nyíl", 
+        "újratöltés", 
+        "óramutató járásával megegyező irányú függőleges nyilak", 
+        "óramutató járásával megegyező"
+    ], 
+    "🔄": [
+        "nyíl", 
+        "óramutató járásával ellentétes irányú nyilak gombja", 
+        "óramutató járásával ellentétes"
+    ], 
+    "🔅": [
+        "sötétítés gomb", 
+        "sötétítés", 
+        "fényerő"
+    ], 
+    "🔆": [
+        "világosítás", 
+        "világosítás gomb", 
+        "fényerő"
+    ], 
+    "🔇": [
+        "némított", 
+        "hangszóró", 
+        "hangerő", 
+        "csendes", 
+        "néma", 
+        "elnémított hangszóró"
+    ], 
+    "🔈": [
+        "hangszóró", 
+        "hangerő"
+    ], 
+    "🔉": [
+        "alacsony hangerő", 
+        "bekapcsolt hangszóró", 
+        "hangszóró"
+    ], 
+    "🔊": [
+        "hangos", 
+        "hangos hangszóró", 
+        "hangszóró", 
+        "nagy hangerő"
+    ], 
+    "🔋": [
+        "akkumulátor", 
+        "elem"
+    ], 
+    "🔌": [
+        "elektronika", 
+        "villamosság", 
+        "dugó", 
+        "elektromos dugó"
+    ], 
+    "🔍": [
+        "nagyító", 
+        "balra mutató nagyító", 
+        "keresés", 
+        "lencse"
+    ], 
+    "🔎": [
+        "nagyító", 
+        "lencse", 
+        "keresés", 
+        "jobbra mutató nagyító"
+    ], 
+    "🔏": [
+        "tinta", 
+        "toll", 
+        "zár", 
+        "lakat tollal", 
+        "adatvédelem"
+    ], 
+    "🔐": [
+        "zárt", 
+        "biztonságos", 
+        "zárt lakat kulccsal", 
+        "zárva", 
+        "kulcs"
+    ], 
+    "🔑": [
+        "kulcs", 
+        "jelszó"
+    ], 
+    "🔒": [
+        "zárt", 
+        "zárva", 
+        "lakat"
+    ], 
+    "🔓": [
+        "nyitva", 
+        "lakat", 
+        "kinyitás", 
+        "nyitott lakat"
+    ], 
+    "🔔": [
+        "harang"
+    ], 
+    "🔕": [
+        "némított", 
+        "áthúzott harang", 
+        "harang", 
+        "tilos", 
+        "néma", 
+        "némítás", 
+        "tiltott"
+    ], 
+    "🔖": [
+        "könyvjelző"
+    ], 
+    "🔗": [
+        "láncszem", 
+        "kapocs"
+    ], 
+    "🔘": [
+        "rádiógomb", 
+        "választógomb", 
+        "választó", 
+        "gomb"
+    ], 
+    "🔙": [
+        "nyíl", 
+        "visszafelé", 
+        "vissza nyíl"
+    ], 
+    "🔚": [
+        "nyíl", 
+        "vége nyíl", 
+        "vége"
+    ], 
+    "🔛": [
+        "nyíl", 
+        "bekapcsolva", 
+        "jelzés", 
+        "bekapcsolva nyíl"
+    ], 
+    "🔜": [
+        "nyíl", 
+        "hamarosan", 
+        "hamarosan nyíl", 
+        "jön"
+    ], 
+    "🔝": [
+        "nyíl", 
+        "top", 
+        "felfelé", 
+        "csúcsra nyíl"
+    ], 
+    "🔞": [
+        "korhatár", 
+        "18 év alatt tilos", 
+        "tiltás", 
+        "tilos", 
+        "tiltott", 
+        "18-as karika", 
+        "tizennyolc"
+    ], 
+    "🔟": [
+        "gombfej: 10", 
+        "gombfej"
+    ], 
+    "🔠": [
+        "abcd", 
+        "latin nagybetűs bevitel", 
+        "latin", 
+        "nagybetűs", 
+        "betűk", 
+        "bevitel"
+    ], 
+    "🔡": [
+        "abcd", 
+        "latin", 
+        "kisbetűs", 
+        "latin kisbetűs bevitel", 
+        "betűk", 
+        "bevitel"
+    ], 
+    "🔢": [
+        "1234", 
+        "számok", 
+        "bevitel", 
+        "számbevitel"
+    ], 
+    "🔣": [
+        "bevitel", 
+        "szimbólumok bevitele"
+    ], 
+    "🔤": [
+        "betűk", 
+        "latin betűk bevitele", 
+        "abc", 
+        "bevitel", 
+        "latin"
+    ], 
+    "🔥": [
+        "tűz", 
+        "láng"
+    ], 
+    "🔦": [
+        "elektronikus", 
+        "világítás", 
+        "fény", 
+        "zseblámpa", 
+        "elemlámpa"
+    ], 
+    "🔧": [
+        "szerszám", 
+        "villáskulcs", 
+        "csavarkulcs"
+    ], 
+    "🔨": [
+        "kalapács", 
+        "szerszám"
+    ], 
+    "🔩": [
+        "csavar és anya", 
+        "csavar", 
+        "szerszám", 
+        "anya"
+    ], 
+    "🔪": [
+        "konyhakés", 
+        "kés", 
+        "felszerelés", 
+        "konyha", 
+        "eszköz"
+    ], 
+    "🔫": [
+        "fegyver", 
+        "pisztoly", 
+        "revolver"
+    ], 
+    "🔬": [
+        "felszerelés", 
+        "mikroszkóp", 
+        "eszköz"
+    ], 
+    "🔭": [
+        "távcső", 
+        "felszerelés", 
+        "eszköz"
+    ], 
+    "🔮": [
+        "jövendő", 
+        "jövendőmondás", 
+        "mese", 
+        "kristálygömb"
+    ], 
+    "🔯": [
+        "hatágú csillag ponttal", 
+        "szerencse", 
+        "csillag"
+    ], 
+    "🔰": [
+        "sárga", 
+        "kezdő", 
+        "a kezdő japán szimbóluma", 
+        "levél", 
+        "japán"
+    ], 
+    "🔱": [
+        "embléma", 
+        "vasmacska", 
+        "jel", 
+        "hajó", 
+        "háromágú szigony", 
+        "szigony"
+    ], 
+    "🔲": [
+        "négyzet", 
+        "fekete, négyzet alakú gomb", 
+        "gomb"
+    ], 
+    "🔳": [
+        "négyzet", 
+        "fehér, négyzet alakú gomb", 
+        "bekeretezett", 
+        "gomb"
+    ], 
+    "🔴": [
+        "piros kör", 
+        "piros", 
+        "kör", 
+        "alakzat"
+    ], 
+    "🔵": [
+        "kék", 
+        "kék kör", 
+        "kör", 
+        "alakzat"
+    ], 
+    "🔶": [
+        "geometria", 
+        "rombusz", 
+        "nagy narancssárga rombusz", 
+        "narancs"
+    ], 
+    "🔷": [
+        "geometria", 
+        "nagy kék rombusz", 
+        "kék", 
+        "rombusz"
+    ], 
+    "🔸": [
+        "geometria", 
+        "rombusz", 
+        "narancs", 
+        "kis narancssárga rombusz"
+    ], 
+    "🔹": [
+        "geometria", 
+        "kis kék rombusz", 
+        "kék", 
+        "rombusz"
+    ], 
+    "🔺": [
+        "fölfelé mutató piros háromszög", 
+        "piros", 
+        "felfelé", 
+        "alakzat"
+    ], 
+    "🔻": [
+        "lefelé", 
+        "piros", 
+        "lefelé mutató piros háromszög", 
+        "alakzat"
+    ], 
+    "🔼": [
+        "nyíl", 
+        "piros", 
+        "felfelé gomb", 
+        "gomb"
+    ], 
+    "🔽": [
+        "nyíl", 
+        "lefelé", 
+        "piros", 
+        "lefelé gomb", 
+        "gomb"
+    ], 
+    "🕋": [
+        "iszlám", 
+        "kába", 
+        "muszlim", 
+        "vallás", 
+        "mohamedán"
+    ], 
+    "🕌": [
+        "iszlám", 
+        "mecset", 
+        "muszlim", 
+        "vallás", 
+        "mohamedán"
+    ], 
+    "🕍": [
+        "zsinagóga", 
+        "templom", 
+        "szentély", 
+        "zsidó", 
+        "vallás"
+    ], 
+    "🕎": [
+        "gyertyatartó", 
+        "menóra", 
+        "vallás"
+    ], 
+    "🕐": [
+        "egy", 
+        "egész óra", 
+        "00", 
+        "1", 
+        "óra", 
+        "1:00", 
+        "egy óra"
+    ], 
+    "🕑": [
+        "00", 
+        "kettő", 
+        "2:00", 
+        "egész óra", 
+        "két óra", 
+        "óra", 
+        "2"
+    ], 
+    "🕒": [
+        "00", 
+        "egész óra", 
+        "három", 
+        "óra", 
+        "3", 
+        "három óra", 
+        "3:00"
+    ], 
+    "🕓": [
+        "00", 
+        "négy óra", 
+        "egész óra", 
+        "négy", 
+        "óra", 
+        "4:00", 
+        "4"
+    ], 
+    "🕔": [
+        "00", 
+        "5:00", 
+        "öt", 
+        "egész óra", 
+        "óra", 
+        "5", 
+        "öt óra"
+    ], 
+    "🕕": [
+        "00", 
+        "6:00", 
+        "egész óra", 
+        "óra", 
+        "hat óra", 
+        "6", 
+        "hat"
+    ], 
+    "🕖": [
+        "hét óra", 
+        "00", 
+        "egész óra", 
+        "óra", 
+        "7:00", 
+        "7", 
+        "hét"
+    ], 
+    "🕗": [
+        "00", 
+        "8:00", 
+        "egész óra", 
+        "nyolc", 
+        "óra", 
+        "8", 
+        "nyolc óra"
+    ], 
+    "🕘": [
+        "00", 
+        "kilenc", 
+        "egész óra", 
+        "óra", 
+        "kilenc óra", 
+        "9", 
+        "9:00"
+    ], 
+    "🕙": [
+        "10", 
+        "00", 
+        "tíz óra", 
+        "egész óra", 
+        "tíz", 
+        "óra", 
+        "10:00"
+    ], 
+    "🕚": [
+        "11", 
+        "00", 
+        "tizenegy óra", 
+        "egész óra", 
+        "óra", 
+        "tizenegy", 
+        "11:00"
+    ], 
+    "🕛": [
+        "00", 
+        "12", 
+        "12:00", 
+        "egész óra", 
+        "óra", 
+        "tizenkét óra", 
+        "tizenkettő"
+    ], 
+    "🕜": [
+        "egy", 
+        "30", 
+        "1:30", 
+        "1", 
+        "óra", 
+        "fél kettő", 
+        "harminc"
+    ], 
+    "🕝": [
+        "30", 
+        "kettő", 
+        "óra", 
+        "fél három", 
+        "2:30", 
+        "2", 
+        "harminc"
+    ], 
+    "🕞": [
+        "30", 
+        "három", 
+        "óra", 
+        "3", 
+        "harminc", 
+        "fél négy", 
+        "3:30"
+    ], 
+    "🕟": [
+        "30", 
+        "négy", 
+        "óra", 
+        "fél öt", 
+        "4", 
+        "4:30", 
+        "harminc"
+    ], 
+    "🕠": [
+        "5:30", 
+        "óra", 
+        "öt", 
+        "30", 
+        "fél hat", 
+        "5", 
+        "harminc"
+    ], 
+    "🕡": [
+        "6", 
+        "6:30", 
+        "30", 
+        "óra", 
+        "fél hét", 
+        "harminc", 
+        "hat"
+    ], 
+    "🕢": [
+        "30", 
+        "óra", 
+        "fél nyolc", 
+        "7", 
+        "hét", 
+        "harminc", 
+        "7:30"
+    ], 
+    "🕣": [
+        "30", 
+        "nyolc", 
+        "óra", 
+        "fél kilenc", 
+        "harminc", 
+        "8", 
+        "8:30"
+    ], 
+    "🕤": [
+        "fél tíz", 
+        "kilenc", 
+        "30", 
+        "óra", 
+        "9:30", 
+        "9", 
+        "harminc"
+    ], 
+    "🕥": [
+        "10", 
+        "30", 
+        "10:30", 
+        "tíz", 
+        "óra", 
+        "harminc", 
+        "fél tizenegy"
+    ], 
+    "🕦": [
+        "11", 
+        "11:30", 
+        "fél tizenkettő", 
+        "30", 
+        "óra", 
+        "tizenegy", 
+        "harminc"
+    ], 
+    "🕧": [
+        "12", 
+        "tizenkettő", 
+        "30", 
+        "óra", 
+        "fél egy", 
+        "harminc", 
+        "12:30"
+    ], 
+    "🕺": [
+        "tánc", 
+        "férfi", 
+        "táncoló férfi"
+    ], 
+    "🖕": [
+        "középső ujj", 
+        "test", 
+        "kéz", 
+        "ujj"
+    ], 
+    "🖖": [
+        "star trek-üdvözlet", 
+        "vulcan", 
+        "star trek", 
+        "spock", 
+        "ujj", 
+        "kéz", 
+        "test"
+    ], 
+    "🖤": [
+        "fekete", 
+        "fekete szív", 
+        "szív", 
+        "gonosz"
+    ], 
+    "🗻": [
+        "Fudzsi-hegy", 
+        "hegy", 
+        "fudzsi"
+    ], 
+    "🗼": [
+        "torony", 
+        "tokiói torony", 
+        "tokió"
+    ], 
+    "🗽": [
+        "szobor", 
+        "szabadság", 
+        "Szabadság-szobor"
+    ], 
+    "🗾": [
+        "japán térképe", 
+        "földrajz", 
+        "térkép", 
+        "japán"
+    ], 
+    "🗿": [
+        "szobor", 
+        "arc", 
+        "moai", 
+        "japán"
+    ], 
+    "😀": [
+        "arc", 
+        "nevető arc", 
+        "nevetés"
+    ], 
+    "😁": [
+        "mosolygó szemmel nevető arc", 
+        "arc", 
+        "mosoly", 
+        "szem"
+    ], 
+    "😂": [
+        "öröm", 
+        "arc", 
+        "arc örömkönnyekkel", 
+        "nevetés", 
+        "könnyek"
+    ], 
+    "😃": [
+        "vidámság", 
+        "nyitott szájjal mosolygó arc", 
+        "arc", 
+        "mosoly", 
+        "nyitott száj"
+    ], 
+    "😄": [
+        "nyitott szájjal mosolygó arc mosolygó szemmel", 
+        "arc", 
+        "vidám szem", 
+        "mosoly", 
+        "nyitott száj"
+    ], 
+    "😅": [
+        "hideg verejték", 
+        "arc", 
+        "mosoly", 
+        "nyitott szájjal mosolygó arc verejtékkel", 
+        "nyitott száj"
+    ], 
+    "😆": [
+        "arc", 
+        "nyitott szájjal és lehunyt szemmel mosolygó arc", 
+        "nyitott száj", 
+        "nevetés"
+    ], 
+    "😇": [
+        "mosoly", 
+        "arc", 
+        "angyal", 
+        "ártatlanság", 
+        "glória", 
+        "mosolygó arc glóriával", 
+        "mese"
+    ], 
+    "😈": [
+        "ördög", 
+        "arc", 
+        "mosolygó arc szarvakkal", 
+        "mosoly", 
+        "szarvak"
+    ], 
+    "😉": [
+        "arc", 
+        "kacsintó arc", 
+        "kacsintás"
+    ], 
+    "😊": [
+        "elpirul", 
+        "vidám szemek", 
+        "mosoly", 
+        "mosolygó arc mosolygó szemmel", 
+        "elvörösödik"
+    ], 
+    "😋": [
+        "finom ételt élvező arc", 
+        "nyami", 
+        "arc", 
+        "mosoly", 
+        "finom"
+    ], 
+    "😌": [
+        "megkönnyebbült arc", 
+        "arc", 
+        "megkönnyebbült"
+    ], 
+    "😍": [
+        "szem", 
+        "mosolygó arc szív alakú szemmel", 
+        "mosoly", 
+        "szerelem", 
+        "arc", 
+        "szívek"
+    ], 
+    "😎": [
+        "laza", 
+        "arc", 
+        "mosoly", 
+        "napszemüveg", 
+        "mosolygó arc napszemüveggel"
+    ], 
+    "😏": [
+        "önelégült vigyor", 
+        "önelégült", 
+        "arc", 
+        "vigyor"
+    ], 
+    "😐": [
+        "semleges", 
+        "semleges arc", 
+        "arc", 
+        "pókerarc"
+    ], 
+    "😑": [
+        "semleges", 
+        "kifejezéstelen", 
+        "arc", 
+        "érzéketlen", 
+        "kifejezéstelen arc"
+    ], 
+    "😒": [
+        "arc", 
+        "szomorú arc", 
+        "szomorú"
+    ], 
+    "😓": [
+        "hideg verejték", 
+        "arc", 
+        "arc verejtékkel"
+    ], 
+    "😔": [
+        "elgondolkodó", 
+        "arc", 
+        "tűnődő", 
+        "elgondolkodó arc"
+    ], 
+    "😕": [
+        "zavart arc", 
+        "arc", 
+        "zavart"
+    ], 
+    "😖": [
+        "összezavarodott arc", 
+        "arc", 
+        "összezavarodott"
+    ], 
+    "😗": [
+        "csókoló arc", 
+        "csók", 
+        "arc", 
+        "puszi"
+    ], 
+    "😘": [
+        "csók", 
+        "arc", 
+        "szív", 
+        "csókot dobó arc", 
+        "puszi"
+    ], 
+    "😙": [
+        "csók", 
+        "arc", 
+        "csókoló arc mosolygó szemmel", 
+        "puszi", 
+        "szem"
+    ], 
+    "😚": [
+        "puszi", 
+        "csók", 
+        "arc", 
+        "csókoló arc lehunyt szemmel", 
+        "lehunyt szem"
+    ], 
+    "😛": [
+        "arc kinyújtott nyelvvel", 
+        "arc", 
+        "nyelv"
+    ], 
+    "😜": [
+        "vicc", 
+        "szem", 
+        "mosoly", 
+        "arc", 
+        "kacsintás", 
+        "nyelv", 
+        "arc kinyújtott nyelvvel és kacsintó szemmel"
+    ], 
+    "😝": [
+        "szörnyű íz", 
+        "arc kilógó nyelvvel és erősen behunyt szemmel", 
+        "kiöltött nyelv", 
+        "arc", 
+        "lehunyt szem"
+    ], 
+    "😞": [
+        "csalódott", 
+        "arc", 
+        "csalódott arc"
+    ], 
+    "😟": [
+        "arc", 
+        "aggodalmas", 
+        "aggódó arc"
+    ], 
+    "😠": [
+        "arc", 
+        "dühös", 
+        "mérges", 
+        "mérges arc"
+    ], 
+    "😡": [
+        "mérges", 
+        "duzzogó arc", 
+        "arc", 
+        "dühös", 
+        "vörös", 
+        "duzzog"
+    ], 
+    "😢": [
+        "sírás", 
+        "síró arc", 
+        "arc", 
+        "szomorúság", 
+        "könnycsepp"
+    ], 
+    "😣": [
+        "állhatatos arc", 
+        "állhatatosság", 
+        "arc"
+    ], 
+    "😤": [
+        "arc", 
+        "győzelem", 
+        "siker", 
+        "orrából gőzt fújtató arc"
+    ], 
+    "😥": [
+        "csalódott, de megkönnyebbült arc", 
+        "huhh", 
+        "csalódott", 
+        "arc", 
+        "megkönnyebbült"
+    ], 
+    "😦": [
+        "rosszallás", 
+        "arc", 
+        "rosszalló arc nyitott szájjal", 
+        "nyitott száj"
+    ], 
+    "😧": [
+        "elkínzott", 
+        "arc", 
+        "elkínzott arc", 
+        "elgyötört"
+    ], 
+    "😨": [
+        "félelemmel teli arc", 
+        "arc", 
+        "rémült", 
+        "félelem"
+    ], 
+    "😩": [
+        "kimerült", 
+        "kimerült arc", 
+        "fáradt", 
+        "arc", 
+        "megviselt"
+    ], 
+    "😪": [
+        "álmos", 
+        "arc", 
+        "ásít", 
+        "álmos arc"
+    ], 
+    "😫": [
+        "fáradtság", 
+        "fáradt arc", 
+        "arc"
+    ], 
+    "😬": [
+        "grimaszoló arc", 
+        "grimasz", 
+        "arc"
+    ], 
+    "😭": [
+        "zokogó arc", 
+        "zokogás", 
+        "szomorúság", 
+        "sírás", 
+        "arc", 
+        "könnyek"
+    ], 
+    "😮": [
+        "csodálkozás", 
+        "arc", 
+        "arc nyitott szájjal", 
+        "nyitott száj"
+    ], 
+    "😯": [
+        "meglepődött", 
+        "meglepődött arc", 
+        "döbbent", 
+        "arc", 
+        "meglepett"
+    ], 
+    "😰": [
+        "hideg verejték", 
+        "aggódó arc nyitott szájjal és verejtékkel", 
+        "arc", 
+        "nyitott száj", 
+        "rohanás"
+    ], 
+    "😱": [
+        "munch", 
+        "rémület", 
+        "félelemtől sikoltó arc", 
+        "arc", 
+        "félelem", 
+        "sikoly"
+    ], 
+    "😲": [
+        "csodálkozó", 
+        "arc", 
+        "lenyűgözött arc", 
+        "lenyűgözött"
+    ], 
+    "😳": [
+        "elpirul", 
+        "elpirult arc", 
+        "arc", 
+        "elvörösödik"
+    ], 
+    "😴": [
+        "alvás", 
+        "alvó arc", 
+        "arc", 
+        "zzz"
+    ], 
+    "😵": [
+        "szédülés", 
+        "szédülő arc", 
+        "arc"
+    ], 
+    "😶": [
+        "száj nélküli arc", 
+        "arc", 
+        "néma", 
+        "csendes", 
+        "nincs szája"
+    ], 
+    "😷": [
+        "arc egészségügyi maszkkal", 
+        "betegség", 
+        "egészségügyi maszk", 
+        "gyógyszer", 
+        "arc", 
+        "orvos"
+    ], 
+    "😸": [
+        "arc", 
+        "macska", 
+        "nevető macskaarc mosolygó szemmel", 
+        "mosoly", 
+        "szem", 
+        "nevetés"
+    ], 
+    "😹": [
+        "örömkönny", 
+        "macskaarc örömkönnyekkel", 
+        "arc", 
+        "mosoly", 
+        "macska"
+    ], 
+    "😺": [
+        "arc", 
+        "nyitott száj", 
+        "mosoly", 
+        "macska", 
+        "mosolygó macskaarc nyitott szájjal"
+    ], 
+    "😻": [
+        "mosolygó macskaarc szív alakú szemmel", 
+        "macska", 
+        "szív", 
+        "mosoly", 
+        "szerelem", 
+        "arc"
+    ], 
+    "😼": [
+        "macska", 
+        "macskaarc fanyar mosollyal", 
+        "fanyar", 
+        "mosoly", 
+        "arc", 
+        "irónia"
+    ], 
+    "😽": [
+        "csókoló macskaarc lehunyt szemmel", 
+        "csók", 
+        "arc", 
+        "csukott szem", 
+        "macska"
+    ], 
+    "😾": [
+        "arc", 
+        "duzzogó macskaarc", 
+        "macska", 
+        "duzzogás"
+    ], 
+    "😿": [
+        "szomorú", 
+        "sírás", 
+        "arc", 
+        "macska", 
+        "síró macskaarc"
+    ], 
+    "🙀": [
+        "kimerült", 
+        "hűha", 
+        "arc", 
+        "macska", 
+        "kimerült macskaarc"
+    ], 
+    "🙁": [
+        "rosszallás", 
+        "kissé komor arc", 
+        "arc"
+    ], 
+    "🙂": [
+        "finoman mosolygó arc", 
+        "arc", 
+        "mosoly"
+    ], 
+    "🙃": [
+        "fejjel lefelé fordult arc", 
+        "arc", 
+        "fejjel lefelé"
+    ], 
+    "🙄": [
+        "arc", 
+        "szemét forgató arc", 
+        "forgó szemek"
+    ], 
+    "🙅": [
+        "tiltás mutatása", 
+        "nem szabad", 
+        "kézjel", 
+        "tilos", 
+        "tiltott"
+    ], 
+    "🙆": [
+        "rendben", 
+        "beleegyezés mutatása", 
+        "kézjel", 
+        "oké"
+    ], 
+    "🙇": [
+        "meghajló ember", 
+        "meghajlás", 
+        "sajnálat", 
+        "bocsánatkérés"
+    ], 
+    "🙈": [
+        "nem lát semmit", 
+        "nem", 
+        "tilos", 
+        "majom", 
+        "nem láttam semmit"
+    ], 
+    "🙉": [
+        "nem", 
+        "tilos", 
+        "majom", 
+        "nem hallottam semmit", 
+        "nem hall semmit"
+    ], 
+    "🙊": [
+        "nem szólok semmit", 
+        "tilos", 
+        "nem", 
+        "nem szól semmit", 
+        "majom"
+    ], 
+    "🙋": [
+        "vidáman intő ember", 
+        "vidám", 
+        "boldog", 
+        "integet"
+    ], 
+    "🙌": [
+        "test", 
+        "vidámság", 
+        "kéz", 
+        "ünneplés", 
+        "kezét felemelő ember"
+    ], 
+    "🙍": [
+        "rosszallás", 
+        "rosszalló ember", 
+        "rosszalló tekintet"
+    ], 
+    "🙎": [
+        "duzzogó ember", 
+        "duzzogás"
+    ], 
+    "🙏": [
+        "ima", 
+        "összetett kéz", 
+        "köszönet", 
+        "kérés", 
+        "test"
+    ], 
+    "🚀": [
+        "jármű", 
+        "rakéta", 
+        "űr"
+    ], 
+    "🚁": [
+        "helikopter", 
+        "légi jármű"
+    ], 
+    "🚂": [
+        "jármű", 
+        "mozdony", 
+        "gőz", 
+        "vasút"
+    ], 
+    "🚃": [
+        "villamos", 
+        "vasút", 
+        "kocsi", 
+        "vasúti kocsi", 
+        "elektromos", 
+        "vonat"
+    ], 
+    "🚄": [
+        "jármű", 
+        "gyorsvonat", 
+        "gyorsvasút", 
+        "vasút"
+    ], 
+    "🚅": [
+        "golyóorrú", 
+        "golyóorrú gyorsvasút", 
+        "jármű", 
+        "nagysebességű", 
+        "gyorsvonat"
+    ], 
+    "🚆": [
+        "jármű", 
+        "vasút", 
+        "vonat"
+    ], 
+    "🚇": [
+        "jármű", 
+        "metró", 
+        "földalatti"
+    ], 
+    "🚈": [
+        "jármű", 
+        "hév", 
+        "vasút"
+    ], 
+    "🚉": [
+        "jármű", 
+        "állomás", 
+        "vasút", 
+        "vonat"
+    ], 
+    "🚊": [
+        "jármű", 
+        "villamos", 
+        "nagyvárosi közlekedés"
+    ], 
+    "🚋": [
+        "jármű", 
+        "villamos", 
+        "kocsi", 
+        "villamoskocsi"
+    ], 
+    "🚌": [
+        "busz", 
+        "jármű"
+    ], 
+    "🚍": [
+        "busz", 
+        "jármű", 
+        "érkező busz", 
+        "érkezés"
+    ], 
+    "🚎": [
+        "busz", 
+        "jármű", 
+        "troli", 
+        "trolibusz"
+    ], 
+    "🚏": [
+        "busz", 
+        "buszmegálló", 
+        "megálló"
+    ], 
+    "🚐": [
+        "busz", 
+        "jármű", 
+        "minibusz", 
+        "mikrobusz"
+    ], 
+    "🚑": [
+        "jármű", 
+        "mentő"
+    ], 
+    "🚒": [
+        "jármű", 
+        "tűzoltóautó", 
+        "tűzoltóság"
+    ], 
+    "🚓": [
+        "jármű", 
+        "rendőrautó", 
+        "járőrautó", 
+        "autó", 
+        "rendőrség"
+    ], 
+    "🚔": [
+        "jármű", 
+        "érkező rendőrautó", 
+        "járőrautó", 
+        "autó", 
+        "érkező", 
+        "rendőrség"
+    ], 
+    "🚕": [
+        "jármű", 
+        "személyszállítás", 
+        "taxi"
+    ], 
+    "🚖": [
+        "jármű", 
+        "személyszállítás", 
+        "érkező", 
+        "taxi", 
+        "érkező taxi"
+    ], 
+    "🚗": [
+        "jármű", 
+        "autó"
+    ], 
+    "🚘": [
+        "jármű", 
+        "érkező autó", 
+        "érkező", 
+        "kocsi", 
+        "autó"
+    ], 
+    "🚙": [
+        "jármű", 
+        "lakókocsi", 
+        "szabadidőautó"
+    ], 
+    "🚚": [
+        "jármű", 
+        "teherautó", 
+        "autó", 
+        "teherfuvarozás"
+    ], 
+    "🚛": [
+        "jármű", 
+        "billenős teherautó", 
+        "autó", 
+        "teherfuvarozás"
+    ], 
+    "🚜": [
+        "jármű", 
+        "traktor"
+    ], 
+    "🚝": [
+        "jármű", 
+        "egysínű vasút"
+    ], 
+    "🚞": [
+        "jármű", 
+        "kocsi", 
+        "hegyi vasút"
+    ], 
+    "🚟": [
+        "jármű", 
+        "függővasút", 
+        "függő", 
+        "vasút"
+    ], 
+    "🚠": [
+        "hegyi felvonó", 
+        "jármű", 
+        "hegyi"
+    ], 
+    "🚡": [
+        "jármű", 
+        "levegő", 
+        "kötélpálya", 
+        "kötélpályás felvonó"
+    ], 
+    "🚢": [
+        "vízi jármű", 
+        "hajó"
+    ], 
+    "🚣": [
+        "evező ember", 
+        "vízi jármű"
+    ], 
+    "🚤": [
+        "csónak", 
+        "motoros siklócsónak", 
+        "vízi jármű"
+    ], 
+    "🚥": [
+        "közlekedési", 
+        "vízszintes közlekedési lámpa", 
+        "lámpa"
+    ], 
+    "🚦": [
+        "közlekedési", 
+        "függőleges közlekedési lámpa", 
+        "lámpa"
+    ], 
+    "🚧": [
+        "sorompó", 
+        "útépítés"
+    ], 
+    "🚨": [
+        "jármű", 
+        "rendőrautó villogója", 
+        "lámpa", 
+        "autó", 
+        "villogó", 
+        "forgó"
+    ], 
+    "🚩": [
+        "posta", 
+        "háromszög alakú zászló"
+    ], 
+    "🚪": [
+        "ajtó"
+    ], 
+    "🚫": [
+        "nincs behajtás", 
+        "behajtás", 
+        "tilos", 
+        "tiltott"
+    ], 
+    "🚬": [
+        "dohányzás", 
+        "cigaretta"
+    ], 
+    "🚭": [
+        "dohányzás", 
+        "dohányozni tilos", 
+        "tilos", 
+        "cigaretta", 
+        "tiltott"
+    ], 
+    "🚮": [
+        "szemét", 
+        "környezettudatosság", 
+        "szemetes", 
+        "szemét a kukában szimbólum"
+    ], 
+    "🚯": [
+        "szemét", 
+        "tiltott", 
+        "szemetelés", 
+        "tilos", 
+        "szemetelni tilos"
+    ], 
+    "🚰": [
+        "iható", 
+        "ivóvíz", 
+        "fogyasztható víz"
+    ], 
+    "🚱": [
+        "nem", 
+        "tiltott", 
+        "ivás", 
+        "ivóvíz", 
+        "tilos", 
+        "nem ivóvíz"
+    ], 
+    "🚲": [
+        "bicikli", 
+        "jármű", 
+        "kerékpár"
+    ], 
+    "🚳": [
+        "bicikli", 
+        "kerékpár", 
+        "kerékpározni tilos", 
+        "tilos", 
+        "tiltott"
+    ], 
+    "🚴": [
+        "bicikli", 
+        "biciklista", 
+        "sportoló", 
+        "kerékpáros", 
+        "kerékpár"
+    ], 
+    "🚵": [
+        "kerékpár", 
+        "biciklista", 
+        "hegyikerékpáros", 
+        "hegy", 
+        "bicikli", 
+        "sportoló"
+    ], 
+    "🚶": [
+        "gyalogos", 
+        "gyaloglás", 
+        "séta"
+    ], 
+    "🚷": [
+        "gyalog", 
+        "tilos", 
+        "gyalogos", 
+        "nem gyalogos zóna", 
+        "tiltott"
+    ], 
+    "🚸": [
+        "átkelő gyermekek", 
+        "gyalogosok", 
+        "gyermekek"
+    ], 
+    "🚹": [
+        "mosdó", 
+        "férfi mosdó", 
+        "vécé", 
+        "WC", 
+        "férfiak"
+    ], 
+    "🚺": [
+        "mosdó", 
+        "női mosdó", 
+        "vécé", 
+        "WC", 
+        "férfiak"
+    ], 
+    "🚻": [
+        "mosdó", 
+        "vécé", 
+        "toalett"
+    ], 
+    "🚼": [
+        "kisbaba", 
+        "pelenkázó", 
+        "baba szimbólum"
+    ], 
+    "🚽": [
+        "mosdó", 
+        "vécé", 
+        "toalett"
+    ], 
+    "🚾": [
+        "mellékhelyiség", 
+        "mosdó", 
+        "vécé", 
+        "WC", 
+        "toalett"
+    ], 
+    "🚿": [
+        "zuhanyzó", 
+        "víz", 
+        "vízsugár"
+    ], 
+    "🛀": [
+        "fürdés", 
+        "fürdőkád", 
+        "fürdő ember"
+    ], 
+    "🛁": [
+        "fürdés", 
+        "fürdőkád"
+    ], 
+    "🛂": [
+        "útlevél-ellenőrzés", 
+        "ellenőrzés", 
+        "útlevél"
+    ], 
+    "🛃": [
+        "ellenőrzés", 
+        "vám"
+    ], 
+    "🛄": [
+        "poggyász", 
+        "felvétel", 
+        "poggyászfelvétel"
+    ], 
+    "🛅": [
+        "csomag", 
+        "megőrzés", 
+        "csomagmegőrző", 
+        "poggyász"
+    ], 
+    "🛌": [
+        "alvás", 
+        "ember az ágyban", 
+        "szálloda"
+    ], 
+    "🛐": [
+        "ima", 
+        "vallás", 
+        "imahely"
+    ], 
+    "🛑": [
+        "stoptábla", 
+        "nyolcszög"
+    ], 
+    "🛒": [
+        "shopping", 
+        "bevásárló", 
+        "kocsi", 
+        "bevásárlókocsi", 
+        "vásárlás"
+    ], 
+    "🛫": [
+        "felszállás", 
+        "indulás", 
+        "repülőgép", 
+        "repülőgép indulása", 
+        "légi jármű", 
+        "utasfelvétel"
+    ], 
+    "🛬": [
+        "repülőgép érkezése", 
+        "légi jármű", 
+        "repülőgép", 
+        "leszállás", 
+        "érkezés"
+    ], 
+    "🛴": [
+        "roller"
+    ], 
+    "🛵": [
+        "robogó", 
+        "motor"
+    ], 
+    "🛶": [
+        "csónak", 
+        "kenu"
+    ], 
+    "🛷": [
+        "szánkó", 
+        "szán"
+    ], 
+    "🛸": [
+        "ufó", 
+        "repülő csészealj", 
+        "UFO"
+    ], 
+    "🤐": [
+        "arc összecipzározott szájjal", 
+        "száj", 
+        "arc", 
+        "cipzár"
+    ], 
+    "🤑": [
+        "dollár", 
+        "száj", 
+        "arc", 
+        "arc dollárjelekkel", 
+        "pénz"
+    ], 
+    "🤒": [
+        "lázmérő", 
+        "arc", 
+        "beteg", 
+        "arc lázmérővel"
+    ], 
+    "🤓": [
+        "kocka", 
+        "arc", 
+        "gépmániás", 
+        "kocka arc"
+    ], 
+    "🤔": [
+        "elgondolkodó", 
+        "arc", 
+        "gondolkodó arc"
+    ], 
+    "🤕": [
+        "kötés", 
+        "arc", 
+        "arc bekötött fejjel", 
+        "sérülés"
+    ], 
+    "🤖": [
+        "robotarc", 
+        "arc", 
+        "robot", 
+        "szörny"
+    ], 
+    "🤗": [
+        "arc", 
+        "ölelés"
+    ], 
+    "🤘": [
+        "ördögvilla", 
+        "szarvak", 
+        "metál", 
+        "kéz", 
+        "metálvilla", 
+        "ujj", 
+        "rock", 
+        "test"
+    ], 
+    "🤙": [
+        "kéz", 
+        "hívás", 
+        "„hívj fel” kézjel"
+    ], 
+    "🤚": [
+        "felemelt", 
+        "kézfej"
+    ], 
+    "🤛": [
+        "bal szélső", 
+        "balra néző ököl", 
+        "ököl"
+    ], 
+    "🤜": [
+        "jobb szélső", 
+        "jobbra néző ököl", 
+        "ököl"
+    ], 
+    "🤝": [
+        "megállapodás", 
+        "üdvözlés", 
+        "találkozás", 
+        "kézfogás"
+    ], 
+    "🤞": [
+        "keresztezett ujjak", 
+        "keresztezett", 
+        "szerencse", 
+        "ujj"
+    ], 
+    "🤟": [
+        "szeretlek", 
+        "kéz", 
+        "szeretlek kézmozdulat"
+    ], 
+    "🤠": [
+        "cowboy kalapos fej", 
+        "kalap", 
+        "fej", 
+        "cowboy"
+    ], 
+    "🤡": [
+        "bohóc", 
+        "fej", 
+        "bohócfej"
+    ], 
+    "🤢": [
+        "émelygő", 
+        "émelygő fej", 
+        "fej", 
+        "hányás"
+    ], 
+    "🤣": [
+        "gurul", 
+        "gurul a nevetéstől", 
+        "nevetés", 
+        "fej", 
+        "nevet"
+    ], 
+    "🤤": [
+        "nyál", 
+        "nyáladzó fej", 
+        "fej", 
+        "nyáladzó"
+    ], 
+    "🤥": [
+        "pinokkió", 
+        "hazudós", 
+        "hazudik", 
+        "arc", 
+        "hazudó fej", 
+        "hazudó"
+    ], 
+    "🤦": [
+        "nem hiszem el", 
+        "kézbe temetett arc", 
+        "arc", 
+        "kéz", 
+        "elkeseredés"
+    ], 
+    "🤧": [
+        "tüsszentő fej", 
+        "hapci", 
+        "tüsszent", 
+        "fej", 
+        "tüsszentő"
+    ], 
+    "🤨": [
+        "felhúzott szemöldökű arc", 
+        "bizalmatlan", 
+        "kételkedő"
+    ], 
+    "🤩": [
+        "vigyorgó", 
+        "csillagszemű", 
+        "arc", 
+        "csillag", 
+        "szemek"
+    ], 
+    "🤪": [
+        "kicsi", 
+        "őrült fej", 
+        "szem", 
+        "nagy"
+    ], 
+    "🤫": [
+        "csitt", 
+        "csitító fej", 
+        "csend"
+    ], 
+    "🤬": [
+        "káromkodás", 
+        "arc jelekkel a száján"
+    ], 
+    "🤭": [
+        "fej szájra tett kézzel", 
+        "hoppá"
+    ], 
+    "🤮": [
+        "hányó arc", 
+        "beteg", 
+        "hány"
+    ], 
+    "🤯": [
+        "megdöbbent", 
+        "felrobbanó fej"
+    ], 
+    "🤰": [
+        "terhes nő", 
+        "terhes", 
+        "várandós", 
+        "nő"
+    ], 
+    "🤱": [
+        "baba", 
+        "szoptatás", 
+        "mell"
+    ], 
+    "🤲": [
+        "ima", 
+        "felfelé fordított tenyerek"
+    ], 
+    "🤳": [
+        "fényképező", 
+        "szelfi", 
+        "telefon"
+    ], 
+    "🤴": [
+        "herceg"
+    ], 
+    "🤵": [
+        "férfi", 
+        "szmokingos férfi", 
+        "szmoking", 
+        "vőlegény"
+    ], 
+    "🤶": [
+        "karácsony", 
+        "anyó", 
+        "mikulás ruhás anyó"
+    ], 
+    "🤷": [
+        "rándít", 
+        "nem érdekel", 
+        "közömbös", 
+        "vállrándítás", 
+        "váll"
+    ], 
+    "🤸": [
+        "sportoló", 
+        "sport", 
+        "cigánykerék", 
+        "torna"
+    ], 
+    "🤹": [
+        "ügyes", 
+        "zsonglőr", 
+        "egyszerre", 
+        "egyensúly"
+    ], 
+    "🤺": [
+        "vívó", 
+        "vívás", 
+        "sportoló", 
+        "kard", 
+        "vív", 
+        "sport"
+    ], 
+    "🤼": [
+        "sportoló", 
+        "birkózás", 
+        "sport", 
+        "birkózó", 
+        "birkózók"
+    ], 
+    "🤽": [
+        "vízilabda", 
+        "póló", 
+        "sport", 
+        "víz"
+    ], 
+    "🤾": [
+        "sport", 
+        "sportoló", 
+        "labda", 
+        "kézilabda"
+    ], 
+    "🥀": [
+        "virág", 
+        "hervadt", 
+        "hervadt virág"
+    ], 
+    "🥁": [
+        "dob", 
+        "dobverő", 
+        "zene"
+    ], 
+    "🥂": [
+        "koccintó", 
+        "pohár", 
+        "ivás", 
+        "koccintó poharak", 
+        "koccintás", 
+        "ünneplés"
+    ], 
+    "🥃": [
+        "feles pohár", 
+        "whisky", 
+        "feles", 
+        "alkohol", 
+        "tömény"
+    ], 
+    "🥄": [
+        "kanál", 
+        "evőeszköz"
+    ], 
+    "🥅": [
+        "háló", 
+        "kapu", 
+        "sport"
+    ], 
+    "🥇": [
+        "érem", 
+        "arany", 
+        "aranyérem", 
+        "első"
+    ], 
+    "🥈": [
+        "ezüstérem", 
+        "érem", 
+        "ezüst", 
+        "második"
+    ], 
+    "🥉": [
+        "érem", 
+        "bronz", 
+        "bronzérem", 
+        "harmadik"
+    ], 
+    "🥊": [
+        "box", 
+        "boxkesztyű", 
+        "sport", 
+        "kesztyű"
+    ], 
+    "🥋": [
+        "judo", 
+        "ruha", 
+        "karate", 
+        "harcművészet", 
+        "sport", 
+        "dzsúdó", 
+        "karateruha"
+    ], 
+    "🥌": [
+        "játék", 
+        "curlingkő", 
+        "kő"
+    ], 
+    "🥐": [
+        "reggeli", 
+        "croissant", 
+        "étel", 
+        "francia"
+    ], 
+    "🥑": [
+        "avokádó", 
+        "étel", 
+        "gyümölcs"
+    ], 
+    "🥒": [
+        "uborka", 
+        "étel", 
+        "zöldség"
+    ], 
+    "🥓": [
+        "szalonna", 
+        "étel", 
+        "bacon", 
+        "hús"
+    ], 
+    "🥔": [
+        "krumpli", 
+        "étel", 
+        "zöldség"
+    ], 
+    "🥕": [
+        "sárgarépa", 
+        "étel", 
+        "zöldség"
+    ], 
+    "🥖": [
+        "francia", 
+        "étel", 
+        "kenyér", 
+        "bagett"
+    ], 
+    "🥗": [
+        "zöld saláta", 
+        "étel", 
+        "zöld", 
+        "saláta"
+    ], 
+    "🥘": [
+        "étel", 
+        "serpenyő", 
+        "serpenyős étel"
+    ], 
+    "🥙": [
+        "étel", 
+        "kebab", 
+        "töltött", 
+        "pita", 
+        "gírosz", 
+        "falafel"
+    ], 
+    "🥚": [
+        "tojás", 
+        "étel"
+    ], 
+    "🥛": [
+        "tej", 
+        "pohár", 
+        "ital", 
+        "egy pohár tej"
+    ], 
+    "🥜": [
+        "étel", 
+        "földimogyoró", 
+        "mogyoró"
+    ], 
+    "🥝": [
+        "étel", 
+        "kivi", 
+        "gyümölcs"
+    ], 
+    "🥞": [
+        "palacsinta", 
+        "étel"
+    ], 
+    "🥟": [
+        "gombóc", 
+        "töltött tészta"
+    ], 
+    "🥠": [
+        "szerencsesüti", 
+        "jóslat"
+    ], 
+    "🥡": [
+        "elviteles doboz", 
+        "elviteles papírdoboz"
+    ], 
+    "🥢": [
+        "hashi", 
+        "evőpálcikák"
+    ], 
+    "🥣": [
+        "reggeli", 
+        "rizskása", 
+        "gabonapehely", 
+        "tál kanállal"
+    ], 
+    "🥤": [
+        "pohár szívószállal", 
+        "dszúz", 
+        "szóda", 
+        "ivólé"
+    ], 
+    "🥥": [
+        "piña colada", 
+        "kókuszdió", 
+        "pálma"
+    ], 
+    "🥦": [
+        "brokkoli", 
+        "vadkáposzta"
+    ], 
+    "🥧": [
+        "töltelék", 
+        "pite", 
+        "sütemény"
+    ], 
+    "🥨": [
+        "perec", 
+        "csavart"
+    ], 
+    "🥩": [
+        "sertésszelet", 
+        "steak", 
+        "bárányszelet", 
+        "hússzelet", 
+        "húsdarab"
+    ], 
+    "🥪": [
+        "szendvics", 
+        "kenyér"
+    ], 
+    "🥫": [
+        "konzerv", 
+        "konzervdoboz"
+    ], 
+    "🦀": [
+        "zodiákus", 
+        "állatöv", 
+        "rák"
+    ], 
+    "🦁": [
+        "oroszlán", 
+        "fej", 
+        "oroszlánfej"
+    ], 
+    "🦂": [
+        "skorpió", 
+        "állatöv", 
+        "zodiákus"
+    ], 
+    "🦃": [
+        "pulyka"
+    ], 
+    "🦄": [
+        "unikornis", 
+        "unikornisfej", 
+        "fej", 
+        "egyszarvú"
+    ], 
+    "🦅": [
+        "sas", 
+        "madár"
+    ], 
+    "🦆": [
+        "kacsa", 
+        "madár"
+    ], 
+    "🦇": [
+        "állat", 
+        "denevér", 
+        "vámpír", 
+        "drakula"
+    ], 
+    "🦈": [
+        "cápa", 
+        "hal"
+    ], 
+    "🦉": [
+        "bagoly", 
+        "madár", 
+        "bölcs"
+    ], 
+    "🦊": [
+        "állat", 
+        "rókafej", 
+        "fej", 
+        "róka"
+    ], 
+    "🦋": [
+        "pillangó", 
+        "szép", 
+        "rovar"
+    ], 
+    "🦌": [
+        "állat", 
+        "agancs", 
+        "szarvas"
+    ], 
+    "🦍": [
+        "állat", 
+        "gorilla"
+    ], 
+    "🦎": [
+        "hüllő", 
+        "gyík"
+    ], 
+    "🦏": [
+        "állat", 
+        "orrszarvú"
+    ], 
+    "🦐": [
+        "étel", 
+        "garnélarák", 
+        "kicsi"
+    ], 
+    "🦑": [
+        "étel", 
+        "tintahal"
+    ], 
+    "🦒": [
+        "folt", 
+        "foltok", 
+        "zsiráf"
+    ], 
+    "🦓": [
+        "csík", 
+        "zebra"
+    ], 
+    "🦔": [
+        "sün", 
+        "tüskés"
+    ], 
+    "🦕": [
+        "brachiosaurus", 
+        "sauropoda", 
+        "diplodocus", 
+        "brontosaurus"
+    ], 
+    "🦖": [
+        "T. rex", 
+        "Tyrannosaurus rex"
+    ], 
+    "🦗": [
+        "szöcske", 
+        "tücsök"
+    ], 
+    "🧀": [
+        "lyukas sajt", 
+        "sajt", 
+        "sajtdarab"
+    ], 
+    "🧐": [
+        "mérges", 
+        "fej monoklival"
+    ], 
+    "🧑": [
+        "felnőtt"
+    ], 
+    "🧒": [
+        "gyermek", 
+        "gyerek"
+    ], 
+    "🧓": [
+        "nemi szempontból semleges", 
+        "idős", 
+        "idősebb felnőtt"
+    ], 
+    "🧔": [
+        "szakállas ember", 
+        "szakáll"
+    ], 
+    "🧕": [
+        "nő fejkendővel", 
+        "mantilla", 
+        "hidzsáb", 
+        "fejkendő", 
+        "tichel"
+    ], 
+    "🧖": [
+        "ember a gőzfürdőben", 
+        "gőzfürdő", 
+        "szauna"
+    ], 
+    "🧗": [
+        "mászó ember", 
+        "mászó"
+    ], 
+    "🧘": [
+        "meditáció", 
+        "ember lótuszülésben", 
+        "jóga"
+    ], 
+    "🧙": [
+        "boszorkány", 
+        "boszorkánymester", 
+        "mágus", 
+        "varázsló"
+    ], 
+    "🧚": [
+        "Puck", 
+        "tündér", 
+        "Oberon", 
+        "Titánia"
+    ], 
+    "🧛": [
+        "Drakula", 
+        "élőhalott", 
+        "vámpír"
+    ], 
+    "🧜": [
+        "hableány", 
+        "sellő", 
+        "hablegény"
+    ], 
+    "🧝": [
+        "tünde", 
+        "mágikus"
+    ], 
+    "🧞": [
+        "dzsinn"
+    ], 
+    "🧟": [
+        "sétáló halott", 
+        "élőhalott", 
+        "élőholt", 
+        "zombi"
+    ], 
+    "🧠": [
+        "intelligens", 
+        "agy"
+    ], 
+    "🧡": [
+        "narancssárga", 
+        "narancssárga szív"
+    ], 
+    "🧢": [
+        "sildes sapka", 
+        "baseball sapka"
+    ], 
+    "🧣": [
+        "sál", 
+        "nyak"
+    ], 
+    "🧤": [
+        "kesztyű", 
+        "kéz"
+    ], 
+    "🧥": [
+        "kabát", 
+        "dzseki"
+    ], 
+    "🧦": [
+        "zokni", 
+        "harisnya"
+    ]
+}

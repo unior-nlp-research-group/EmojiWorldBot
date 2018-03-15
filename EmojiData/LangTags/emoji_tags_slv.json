@@ -1,0 +1,7016 @@
+{
+    "⌚": [
+        "ročna ura", 
+        "ura"
+    ], 
+    "⌛": [
+        "peščena ura", 
+        "časovnik", 
+        "pesek"
+    ], 
+    "⏩": [
+        "puščica", 
+        "gumb za hitro previjanje naprej", 
+        "naprej", 
+        "dvojno", 
+        "hitro"
+    ], 
+    "⏪": [
+        "puščica", 
+        "gumb za hitro previjanje nazaj", 
+        "previjanje nazaj", 
+        "dvojno"
+    ], 
+    "⏫": [
+        "puščica", 
+        "dvojno", 
+        "gumb za hitro gor"
+    ], 
+    "⏬": [
+        "puščica", 
+        "gumb za hitro dol", 
+        "dvojno", 
+        "navzdol"
+    ], 
+    "⏰": [
+        "alarm", 
+        "budilka", 
+        "ura"
+    ], 
+    "⏳": [
+        "peščena ura", 
+        "peščena ura, ki teče", 
+        "časovnik", 
+        "pesek"
+    ], 
+    "◽": [
+        "geometrično", 
+        "srednje mali beli kvadrat", 
+        "kvadrat"
+    ], 
+    "◾": [
+        "črn srednje majhen kvadrat", 
+        "geometrično", 
+        "kvadrat"
+    ], 
+    "☔": [
+        "dež", 
+        "dežnik", 
+        "dežnik z dežnimi kapljami", 
+        "oblačila", 
+        "vreme", 
+        "kaplja"
+    ], 
+    "☕": [
+        "vroč napitek", 
+        "kava", 
+        "čaj", 
+        "napitek", 
+        "piti", 
+        "vroče", 
+        "vrelo"
+    ], 
+    "♈": [
+        "zodiak", 
+        "astrološki znak ovna", 
+        "oven"
+    ], 
+    "♉": [
+        "vol", 
+        "zodiak", 
+        "bik"
+    ], 
+    "♊": [
+        "dvojčka", 
+        "zodiak"
+    ], 
+    "♋": [
+        "zodiak", 
+        "rak"
+    ], 
+    "♌": [
+        "zodiak", 
+        "lev"
+    ], 
+    "♍": [
+        "deva", 
+        "devica", 
+        "zodiak"
+    ], 
+    "♎": [
+        "tehtnica", 
+        "zodiak", 
+        "tehnica", 
+        "ravnovesje", 
+        "pravičnost"
+    ], 
+    "♏": [
+        "astrološki znak škorpijona", 
+        "škorpijon", 
+        "zodiak"
+    ], 
+    "♐": [
+        "zodiak", 
+        "strelec"
+    ], 
+    "♑": [
+        "zodiak", 
+        "koza", 
+        "kozorog"
+    ], 
+    "♒": [
+        "vodnar", 
+        "zodiak", 
+        "voda", 
+        "nosec"
+    ], 
+    "♓": [
+        "riba", 
+        "ribi", 
+        "zodiak"
+    ], 
+    "♿": [
+        "invalidski voziček", 
+        "dostop"
+    ], 
+    "⚓": [
+        "sidro", 
+        "ladja", 
+        "orodje"
+    ], 
+    "⚡": [
+        "napetost", 
+        "strela", 
+        "električno", 
+        "elektrika", 
+        "nevarnost", 
+        "visoka napetost", 
+        "sunek"
+    ], 
+    "⚪": [
+        "krog", 
+        "bel krog", 
+        "geometrično"
+    ], 
+    "⚫": [
+        "krog", 
+        "črn krog", 
+        "geometrično"
+    ], 
+    "⚽": [
+        "nogometna žoga", 
+        "nogomet", 
+        "žoga"
+    ], 
+    "⚾": [
+        "žogica za baseball", 
+        "žoga"
+    ], 
+    "⛄": [
+        "snežak brez snega", 
+        "sneg", 
+        "snežak", 
+        "mrzlo", 
+        "vreme"
+    ], 
+    "⛅": [
+        "oblak", 
+        "sonce za oblakom", 
+        "sonce", 
+        "vreme"
+    ], 
+    "⛎": [
+        "kačenosec", 
+        "zodiak", 
+        "nosec", 
+        "kača"
+    ], 
+    "⛔": [
+        "promet", 
+        "prepovedano", 
+        "ne", 
+        "ni prehoda", 
+        "vstop", 
+        "ni dovoljeno"
+    ], 
+    "⛪": [
+        "vera", 
+        "zgradba", 
+        "cerkev", 
+        "križ", 
+        "krščansko"
+    ], 
+    "⛲": [
+        "fontana", 
+        "vodnjak"
+    ], 
+    "⛳": [
+        "zastavica v luknji", 
+        "golf", 
+        "luknja"
+    ], 
+    "⛵": [
+        "jahta", 
+        "vozilo", 
+        "letovišče", 
+        "čoln", 
+        "jadrnica", 
+        "morje"
+    ], 
+    "⛺": [
+        "taborjenje", 
+        "šotor"
+    ], 
+    "⛽": [
+        "bencin", 
+        "gorivo", 
+        "črpalka", 
+        "servis", 
+        "črpalka za gorivo"
+    ], 
+    "✅": [
+        "bela kljukica", 
+        "kljukica", 
+        "znak"
+    ], 
+    "✊": [
+        "dvignjena pest", 
+        "dlan", 
+        "udarec", 
+        "pokrčeno", 
+        "pest", 
+        "telo"
+    ], 
+    "✋": [
+        "dlan", 
+        "telo", 
+        "dvignjena dlan"
+    ], 
+    "✨": [
+        "iskrenje", 
+        "iskrice", 
+        "zvezda"
+    ], 
+    "❌": [
+        "preklic", 
+        "množiti", 
+        "znak", 
+        "množenje", 
+        "križec", 
+        "x"
+    ], 
+    "❎": [
+        "kvadratno", 
+        "gumb s križcem", 
+        "znak"
+    ], 
+    "❓": [
+        "ločilo", 
+        "znak", 
+        "vprašaj", 
+        "vprašanje"
+    ], 
+    "❔": [
+        "obrobljeno", 
+        "ločilo", 
+        "znak", 
+        "bel vprašaj", 
+        "vprašanje"
+    ], 
+    "❕": [
+        "obrobljeno", 
+        "klicaj", 
+        "ločilo", 
+        "znak", 
+        "bel klicaj"
+    ], 
+    "❗": [
+        "klicaj", 
+        "ločilo", 
+        "znak"
+    ], 
+    "➕": [
+        "plus", 
+        "znak za plus", 
+        "matematika"
+    ], 
+    "➖": [
+        "znak za minus", 
+        "minus", 
+        "matematika"
+    ], 
+    "➗": [
+        "znak za deljenje", 
+        "deljenje", 
+        "matematika"
+    ], 
+    "➰": [
+        "zavita pentlja", 
+        "zanka", 
+        "pentlja", 
+        "spirala"
+    ], 
+    "➿": [
+        "zanka", 
+        "dvojna zavita pentlja", 
+        "pentlja", 
+        "dvojno", 
+        "spirala"
+    ], 
+    "⬛": [
+        "črn velik kvadrat", 
+        "geometrično", 
+        "kvadrat"
+    ], 
+    "⬜": [
+        "bel velik kvadrat", 
+        "geometrično", 
+        "kvadrat"
+    ], 
+    "⭐": [
+        "zvezda", 
+        "bela srednja zvezda"
+    ], 
+    "⭕": [
+        "velik krog", 
+        "krog", 
+        "o"
+    ], 
+    "🀄": [
+        "rdeče", 
+        "mahjong", 
+        "rdeči zmaj v mahjongu", 
+        "igra"
+    ], 
+    "🃏": [
+        "joker", 
+        "karta", 
+        "igranje", 
+        "igra"
+    ], 
+    "🆎": [
+        "ab", 
+        "gumb AB (krvna skupina)", 
+        "kri"
+    ], 
+    "🆑": [
+        "gumb CL", 
+        "cl"
+    ], 
+    "🆒": [
+        "frajersko", 
+        "gumb COOL"
+    ], 
+    "🆓": [
+        "gumb FREE", 
+        "prosto"
+    ], 
+    "🆔": [
+        "identiteta", 
+        "id", 
+        "gumb ID"
+    ], 
+    "🆕": [
+        "novo", 
+        "gumb NEW"
+    ], 
+    "🆖": [
+        "gumb NG", 
+        "ng"
+    ], 
+    "🆗": [
+        "gumb OK", 
+        "v redu"
+    ], 
+    "🆘": [
+        "na pomoč", 
+        "gumb SOS", 
+        "sos"
+    ], 
+    "🆙": [
+        "znak", 
+        "gumb z besedo up in klicajem", 
+        "navzgor"
+    ], 
+    "🆚": [
+        "proti", 
+        "gumb VS"
+    ], 
+    "🇦🇨": [
+        "zastava", 
+        "Otok Ascension"
+    ], 
+    "🇦🇩": [
+        "zastava", 
+        "Andora"
+    ], 
+    "🇦🇪": [
+        "Združeni arabski emirati", 
+        "zastava"
+    ], 
+    "🇦🇫": [
+        "Afganistan", 
+        "zastava"
+    ], 
+    "🇦🇬": [
+        "Antigva in Barbuda", 
+        "zastava"
+    ], 
+    "🇦🇮": [
+        "Angvila", 
+        "zastava"
+    ], 
+    "🇦🇱": [
+        "zastava", 
+        "Albanija"
+    ], 
+    "🇦🇲": [
+        "zastava", 
+        "Armenija"
+    ], 
+    "🇦🇴": [
+        "zastava", 
+        "Angola"
+    ], 
+    "🇦🇶": [
+        "Antarktika", 
+        "zastava"
+    ], 
+    "🇦🇷": [
+        "Argentina", 
+        "zastava"
+    ], 
+    "🇦🇸": [
+        "Ameriška Samoa", 
+        "zastava"
+    ], 
+    "🇦🇹": [
+        "zastava", 
+        "Avstrija"
+    ], 
+    "🇦🇺": [
+        "zastava", 
+        "Avstralija"
+    ], 
+    "🇦🇼": [
+        "zastava", 
+        "Aruba"
+    ], 
+    "🇦🇽": [
+        "Ålandski otoki", 
+        "zastava"
+    ], 
+    "🇦🇿": [
+        "zastava", 
+        "Azerbajdžan"
+    ], 
+    "🇧🇦": [
+        "zastava", 
+        "Bosna in Hercegovina"
+    ], 
+    "🇧🇧": [
+        "zastava", 
+        "Barbados"
+    ], 
+    "🇧🇩": [
+        "Bangladeš", 
+        "zastava"
+    ], 
+    "🇧🇪": [
+        "zastava", 
+        "Belgija"
+    ], 
+    "🇧🇫": [
+        "zastava", 
+        "Burkina Faso"
+    ], 
+    "🇧🇬": [
+        "Bolgarija", 
+        "zastava"
+    ], 
+    "🇧🇭": [
+        "Bahrajn", 
+        "zastava"
+    ], 
+    "🇧🇮": [
+        "Burundi", 
+        "zastava"
+    ], 
+    "🇧🇯": [
+        "zastava", 
+        "Benin"
+    ], 
+    "🇧🇱": [
+        "Saint Barthélemy", 
+        "zastava"
+    ], 
+    "🇧🇲": [
+        "zastava", 
+        "Bermudi"
+    ], 
+    "🇧🇳": [
+        "Brunej", 
+        "zastava"
+    ], 
+    "🇧🇴": [
+        "zastava", 
+        "Bolivija"
+    ], 
+    "🇧🇶": [
+        "zastava", 
+        "Nizozemski Karibi"
+    ], 
+    "🇧🇷": [
+        "Brazilija", 
+        "zastava"
+    ], 
+    "🇧🇸": [
+        "Bahami", 
+        "zastava"
+    ], 
+    "🇧🇹": [
+        "Butan", 
+        "zastava"
+    ], 
+    "🇧🇻": [
+        "Bouvetov otok", 
+        "zastava"
+    ], 
+    "🇧🇼": [
+        "Bocvana", 
+        "zastava"
+    ], 
+    "🇧🇾": [
+        "zastava", 
+        "Belorusija"
+    ], 
+    "🇧🇿": [
+        "Belize", 
+        "zastava"
+    ], 
+    "🇨🇦": [
+        "Kanada", 
+        "zastava"
+    ], 
+    "🇨🇨": [
+        "Kokosovi otoki", 
+        "zastava"
+    ], 
+    "🇨🇩": [
+        "zastava", 
+        "Demokratična republika Kongo"
+    ], 
+    "🇨🇫": [
+        "Centralnoafriška republika", 
+        "zastava"
+    ], 
+    "🇨🇬": [
+        "Kongo - Brazzaville", 
+        "zastava"
+    ], 
+    "🇨🇭": [
+        "zastava", 
+        "Švica"
+    ], 
+    "🇨🇮": [
+        "Slonokoščena obala", 
+        "zastava"
+    ], 
+    "🇨🇰": [
+        "zastava", 
+        "Cookovi otoki"
+    ], 
+    "🇨🇱": [
+        "zastava", 
+        "Čile"
+    ], 
+    "🇨🇲": [
+        "Kamerun", 
+        "zastava"
+    ], 
+    "🇨🇳": [
+        "zastava", 
+        "Kitajska"
+    ], 
+    "🇨🇴": [
+        "zastava", 
+        "Kolumbija"
+    ], 
+    "🇨🇵": [
+        "Otok Clipperton", 
+        "zastava"
+    ], 
+    "🇨🇷": [
+        "zastava", 
+        "Kostarika"
+    ], 
+    "🇨🇺": [
+        "zastava", 
+        "Kuba"
+    ], 
+    "🇨🇻": [
+        "zastava", 
+        "Zelenortski otoki"
+    ], 
+    "🇨🇼": [
+        "Curaçao", 
+        "zastava"
+    ], 
+    "🇨🇽": [
+        "zastava", 
+        "Božični otok"
+    ], 
+    "🇨🇾": [
+        "Ciper", 
+        "zastava"
+    ], 
+    "🇨🇿": [
+        "zastava", 
+        "Češka"
+    ], 
+    "🇩🇪": [
+        "zastava", 
+        "Nemčija"
+    ], 
+    "🇩🇬": [
+        "zastava", 
+        "Diego Garcia"
+    ], 
+    "🇩🇯": [
+        "Džibuti", 
+        "zastava"
+    ], 
+    "🇩🇰": [
+        "zastava", 
+        "Danska"
+    ], 
+    "🇩🇲": [
+        "zastava", 
+        "Dominika"
+    ], 
+    "🇩🇴": [
+        "zastava", 
+        "Dominikanska republika"
+    ], 
+    "🇩🇿": [
+        "zastava", 
+        "Alžirija"
+    ], 
+    "🇪🇦": [
+        "zastava", 
+        "Ceuta in Melilla"
+    ], 
+    "🇪🇨": [
+        "Ekvador", 
+        "zastava"
+    ], 
+    "🇪🇪": [
+        "zastava", 
+        "Estonija"
+    ], 
+    "🇪🇬": [
+        "Egipt", 
+        "zastava"
+    ], 
+    "🇪🇭": [
+        "zastava", 
+        "Zahodna Sahara"
+    ], 
+    "🇪🇷": [
+        "zastava", 
+        "Eritreja"
+    ], 
+    "🇪🇸": [
+        "zastava", 
+        "Španija"
+    ], 
+    "🇪🇹": [
+        "Etiopija", 
+        "zastava"
+    ], 
+    "🇪🇺": [
+        "Evropska unija", 
+        "zastava"
+    ], 
+    "🇫🇮": [
+        "zastava", 
+        "Finska"
+    ], 
+    "🇫🇯": [
+        "zastava", 
+        "Fidži"
+    ], 
+    "🇫🇰": [
+        "zastava", 
+        "Falklandski otoki"
+    ], 
+    "🇫🇲": [
+        "zastava", 
+        "Mikronezija"
+    ], 
+    "🇫🇴": [
+        "zastava", 
+        "Ferski otoki"
+    ], 
+    "🇫🇷": [
+        "zastava", 
+        "Francija"
+    ], 
+    "🇬🇦": [
+        "zastava", 
+        "Gabon"
+    ], 
+    "🇬🇧": [
+        "zastava", 
+        "Združeno kraljestvo"
+    ], 
+    "🇬🇩": [
+        "Grenada", 
+        "zastava"
+    ], 
+    "🇬🇪": [
+        "zastava", 
+        "Gruzija"
+    ], 
+    "🇬🇫": [
+        "zastava", 
+        "Francoska Gvajana"
+    ], 
+    "🇬🇬": [
+        "zastava", 
+        "Guernsey"
+    ], 
+    "🇬🇭": [
+        "Gana", 
+        "zastava"
+    ], 
+    "🇬🇮": [
+        "zastava", 
+        "Gibraltar"
+    ], 
+    "🇬🇱": [
+        "zastava", 
+        "Grenlandija"
+    ], 
+    "🇬🇲": [
+        "Gambija", 
+        "zastava"
+    ], 
+    "🇬🇳": [
+        "Gvineja", 
+        "zastava"
+    ], 
+    "🇬🇵": [
+        "zastava", 
+        "Guadeloupe"
+    ], 
+    "🇬🇶": [
+        "zastava", 
+        "Ekvatorialna Gvineja"
+    ], 
+    "🇬🇷": [
+        "zastava", 
+        "Grčija"
+    ], 
+    "🇬🇸": [
+        "Južna Georgia in Južni Sandwichevi otoki", 
+        "zastava"
+    ], 
+    "🇬🇹": [
+        "zastava", 
+        "Gvatemala"
+    ], 
+    "🇬🇺": [
+        "Guam", 
+        "zastava"
+    ], 
+    "🇬🇼": [
+        "Gvineja Bissau", 
+        "zastava"
+    ], 
+    "🇬🇾": [
+        "zastava", 
+        "Gvajana"
+    ], 
+    "🇭🇰": [
+        "zastava", 
+        "Posebno administrativno območje LR Kitajske Hongkong"
+    ], 
+    "🇭🇲": [
+        "Heardov otok in McDonaldovi otoki", 
+        "zastava"
+    ], 
+    "🇭🇳": [
+        "zastava", 
+        "Honduras"
+    ], 
+    "🇭🇷": [
+        "zastava", 
+        "Hrvaška"
+    ], 
+    "🇭🇹": [
+        "Haiti", 
+        "zastava"
+    ], 
+    "🇭🇺": [
+        "zastava", 
+        "Madžarska"
+    ], 
+    "🇮🇨": [
+        "Kanarski otoki", 
+        "zastava"
+    ], 
+    "🇮🇩": [
+        "zastava", 
+        "Indonezija"
+    ], 
+    "🇮🇪": [
+        "zastava", 
+        "Irska"
+    ], 
+    "🇮🇱": [
+        "zastava", 
+        "Izrael"
+    ], 
+    "🇮🇲": [
+        "Otok Man", 
+        "zastava"
+    ], 
+    "🇮🇳": [
+        "Indija", 
+        "zastava"
+    ], 
+    "🇮🇴": [
+        "Britansko ozemlje v Indijskem oceanu", 
+        "zastava"
+    ], 
+    "🇮🇶": [
+        "Irak", 
+        "zastava"
+    ], 
+    "🇮🇷": [
+        "zastava", 
+        "Iran"
+    ], 
+    "🇮🇸": [
+        "Islandija", 
+        "zastava"
+    ], 
+    "🇮🇹": [
+        "zastava", 
+        "Italija"
+    ], 
+    "🇯🇪": [
+        "zastava", 
+        "Jersey"
+    ], 
+    "🇯🇲": [
+        "zastava", 
+        "Jamajka"
+    ], 
+    "🇯🇴": [
+        "zastava", 
+        "Jordanija"
+    ], 
+    "🇯🇵": [
+        "Japonska", 
+        "zastava"
+    ], 
+    "🇰🇪": [
+        "Kenija", 
+        "zastava"
+    ], 
+    "🇰🇬": [
+        "zastava", 
+        "Kirgizistan"
+    ], 
+    "🇰🇭": [
+        "zastava", 
+        "Kambodža"
+    ], 
+    "🇰🇮": [
+        "Kiribati", 
+        "zastava"
+    ], 
+    "🇰🇲": [
+        "zastava", 
+        "Komori"
+    ], 
+    "🇰🇳": [
+        "Saint Kitts in Nevis", 
+        "zastava"
+    ], 
+    "🇰🇵": [
+        "zastava", 
+        "Severna Koreja"
+    ], 
+    "🇰🇷": [
+        "zastava", 
+        "Južna Koreja"
+    ], 
+    "🇰🇼": [
+        "zastava", 
+        "Kuvajt"
+    ], 
+    "🇰🇾": [
+        "Kajmanski otoki", 
+        "zastava"
+    ], 
+    "🇰🇿": [
+        "zastava", 
+        "Kazahstan"
+    ], 
+    "🇱🇦": [
+        "zastava", 
+        "Laos"
+    ], 
+    "🇱🇧": [
+        "Libanon", 
+        "zastava"
+    ], 
+    "🇱🇨": [
+        "Saint Lucia", 
+        "zastava"
+    ], 
+    "🇱🇮": [
+        "zastava", 
+        "Lihtenštajn"
+    ], 
+    "🇱🇰": [
+        "zastava", 
+        "Šrilanka"
+    ], 
+    "🇱🇷": [
+        "zastava", 
+        "Liberija"
+    ], 
+    "🇱🇸": [
+        "Lesoto", 
+        "zastava"
+    ], 
+    "🇱🇹": [
+        "Litva", 
+        "zastava"
+    ], 
+    "🇱🇺": [
+        "zastava", 
+        "Luksemburg"
+    ], 
+    "🇱🇻": [
+        "zastava", 
+        "Latvija"
+    ], 
+    "🇱🇾": [
+        "zastava", 
+        "Libija"
+    ], 
+    "🇲🇦": [
+        "zastava", 
+        "Maroko"
+    ], 
+    "🇲🇨": [
+        "zastava", 
+        "Monako"
+    ], 
+    "🇲🇩": [
+        "Moldavija", 
+        "zastava"
+    ], 
+    "🇲🇪": [
+        "zastava", 
+        "Črna gora"
+    ], 
+    "🇲🇫": [
+        "Saint Martin", 
+        "zastava"
+    ], 
+    "🇲🇬": [
+        "Madagaskar", 
+        "zastava"
+    ], 
+    "🇲🇭": [
+        "zastava", 
+        "Marshallovi otoki"
+    ], 
+    "🇲🇰": [
+        "zastava", 
+        "Makedonija"
+    ], 
+    "🇲🇱": [
+        "zastava", 
+        "Mali"
+    ], 
+    "🇲🇲": [
+        "zastava", 
+        "Mjanmar (Burma)"
+    ], 
+    "🇲🇳": [
+        "zastava", 
+        "Mongolija"
+    ], 
+    "🇲🇴": [
+        "Posebno administrativno območje LR Kitajske Macao", 
+        "zastava"
+    ], 
+    "🇲🇵": [
+        "zastava", 
+        "Severni Marianski otoki"
+    ], 
+    "🇲🇶": [
+        "zastava", 
+        "Martinik"
+    ], 
+    "🇲🇷": [
+        "Mavretanija", 
+        "zastava"
+    ], 
+    "🇲🇸": [
+        "zastava", 
+        "Montserrat"
+    ], 
+    "🇲🇹": [
+        "zastava", 
+        "Malta"
+    ], 
+    "🇲🇺": [
+        "Mauritius", 
+        "zastava"
+    ], 
+    "🇲🇻": [
+        "zastava", 
+        "Maldivi"
+    ], 
+    "🇲🇼": [
+        "Malavi", 
+        "zastava"
+    ], 
+    "🇲🇽": [
+        "Mehika", 
+        "zastava"
+    ], 
+    "🇲🇾": [
+        "zastava", 
+        "Malezija"
+    ], 
+    "🇲🇿": [
+        "zastava", 
+        "Mozambik"
+    ], 
+    "🇳🇦": [
+        "Namibija", 
+        "zastava"
+    ], 
+    "🇳🇨": [
+        "zastava", 
+        "Nova Kaledonija"
+    ], 
+    "🇳🇪": [
+        "Niger", 
+        "zastava"
+    ], 
+    "🇳🇫": [
+        "zastava", 
+        "Norfolški otok"
+    ], 
+    "🇳🇬": [
+        "zastava", 
+        "Nigerija"
+    ], 
+    "🇳🇮": [
+        "zastava", 
+        "Nikaragva"
+    ], 
+    "🇳🇱": [
+        "zastava", 
+        "Nizozemska"
+    ], 
+    "🇳🇴": [
+        "zastava", 
+        "Norveška"
+    ], 
+    "🇳🇵": [
+        "zastava", 
+        "Nepal"
+    ], 
+    "🇳🇷": [
+        "Nauru", 
+        "zastava"
+    ], 
+    "🇳🇺": [
+        "zastava", 
+        "Niue"
+    ], 
+    "🇳🇿": [
+        "zastava", 
+        "Nova Zelandija"
+    ], 
+    "🇴🇲": [
+        "Oman", 
+        "zastava"
+    ], 
+    "🇵🇦": [
+        "Panama", 
+        "zastava"
+    ], 
+    "🇵🇪": [
+        "zastava", 
+        "Peru"
+    ], 
+    "🇵🇫": [
+        "zastava", 
+        "Francoska Polinezija"
+    ], 
+    "🇵🇬": [
+        "zastava", 
+        "Papua Nova Gvineja"
+    ], 
+    "🇵🇭": [
+        "Filipini", 
+        "zastava"
+    ], 
+    "🇵🇰": [
+        "Pakistan", 
+        "zastava"
+    ], 
+    "🇵🇱": [
+        "zastava", 
+        "Poljska"
+    ], 
+    "🇵🇲": [
+        "Saint Pierre in Miquelon", 
+        "zastava"
+    ], 
+    "🇵🇳": [
+        "Pitcairn", 
+        "zastava"
+    ], 
+    "🇵🇷": [
+        "Portoriko", 
+        "zastava"
+    ], 
+    "🇵🇸": [
+        "zastava", 
+        "Palestinsko ozemlje"
+    ], 
+    "🇵🇹": [
+        "Portugalska", 
+        "zastava"
+    ], 
+    "🇵🇼": [
+        "zastava", 
+        "Palau"
+    ], 
+    "🇵🇾": [
+        "Paragvaj", 
+        "zastava"
+    ], 
+    "🇶🇦": [
+        "Katar", 
+        "zastava"
+    ], 
+    "🇷🇪": [
+        "zastava", 
+        "Reunion"
+    ], 
+    "🇷🇴": [
+        "zastava", 
+        "Romunija"
+    ], 
+    "🇷🇸": [
+        "Srbija", 
+        "zastava"
+    ], 
+    "🇷🇺": [
+        "Rusija", 
+        "zastava"
+    ], 
+    "🇷🇼": [
+        "zastava", 
+        "Ruanda"
+    ], 
+    "🇸🇦": [
+        "Saudova Arabija", 
+        "zastava"
+    ], 
+    "🇸🇧": [
+        "zastava", 
+        "Salomonovi otoki"
+    ], 
+    "🇸🇨": [
+        "zastava", 
+        "Sejšeli"
+    ], 
+    "🇸🇩": [
+        "Sudan", 
+        "zastava"
+    ], 
+    "🇸🇪": [
+        "zastava", 
+        "Švedska"
+    ], 
+    "🇸🇬": [
+        "zastava", 
+        "Singapur"
+    ], 
+    "🇸🇭": [
+        "Sveta Helena", 
+        "zastava"
+    ], 
+    "🇸🇮": [
+        "zastava", 
+        "Slovenija"
+    ], 
+    "🇸🇯": [
+        "zastava", 
+        "Svalbard in Jan Mayen"
+    ], 
+    "🇸🇰": [
+        "zastava", 
+        "Slovaška"
+    ], 
+    "🇸🇱": [
+        "zastava", 
+        "Sierra Leone"
+    ], 
+    "🇸🇲": [
+        "zastava", 
+        "San Marino"
+    ], 
+    "🇸🇳": [
+        "Senegal", 
+        "zastava"
+    ], 
+    "🇸🇴": [
+        "Somalija", 
+        "zastava"
+    ], 
+    "🇸🇷": [
+        "zastava", 
+        "Surinam"
+    ], 
+    "🇸🇸": [
+        "Južni Sudan", 
+        "zastava"
+    ], 
+    "🇸🇹": [
+        "zastava", 
+        "Sao Tome in Principe"
+    ], 
+    "🇸🇻": [
+        "zastava", 
+        "Salvador"
+    ], 
+    "🇸🇽": [
+        "Sint Maarten", 
+        "zastava"
+    ], 
+    "🇸🇾": [
+        "Sirija", 
+        "zastava"
+    ], 
+    "🇸🇿": [
+        "zastava", 
+        "Svazi"
+    ], 
+    "🇹🇦": [
+        "zastava", 
+        "Tristan da Cunha"
+    ], 
+    "🇹🇨": [
+        "zastava", 
+        "Otoki Turks in Caicos"
+    ], 
+    "🇹🇩": [
+        "zastava", 
+        "Čad"
+    ], 
+    "🇹🇫": [
+        "zastava", 
+        "Francosko južno ozemlje"
+    ], 
+    "🇹🇬": [
+        "Togo", 
+        "zastava"
+    ], 
+    "🇹🇭": [
+        "Tajska", 
+        "zastava"
+    ], 
+    "🇹🇯": [
+        "zastava", 
+        "Tadžikistan"
+    ], 
+    "🇹🇰": [
+        "Tokelau", 
+        "zastava"
+    ], 
+    "🇹🇱": [
+        "zastava", 
+        "Timor-Leste"
+    ], 
+    "🇹🇲": [
+        "zastava", 
+        "Turkmenistan"
+    ], 
+    "🇹🇳": [
+        "Tunizija", 
+        "zastava"
+    ], 
+    "🇹🇴": [
+        "Tonga", 
+        "zastava"
+    ], 
+    "🇹🇷": [
+        "Turčija", 
+        "zastava"
+    ], 
+    "🇹🇹": [
+        "zastava", 
+        "Trinidad in Tobago"
+    ], 
+    "🇹🇻": [
+        "Tuvalu", 
+        "zastava"
+    ], 
+    "🇹🇼": [
+        "zastava", 
+        "Tajvan"
+    ], 
+    "🇹🇿": [
+        "zastava", 
+        "Tanzanija"
+    ], 
+    "🇺🇦": [
+        "Ukrajina", 
+        "zastava"
+    ], 
+    "🇺🇬": [
+        "zastava", 
+        "Uganda"
+    ], 
+    "🇺🇲": [
+        "zastava", 
+        "Stranski zunanji otoki Združenih držav"
+    ], 
+    "🇺🇳": [
+        "Združeni narodi", 
+        "zastava"
+    ], 
+    "🇺🇸": [
+        "zastava", 
+        "Združene države Amerike"
+    ], 
+    "🇺🇾": [
+        "zastava", 
+        "Urugvaj"
+    ], 
+    "🇺🇿": [
+        "Uzbekistan", 
+        "zastava"
+    ], 
+    "🇻🇦": [
+        "zastava", 
+        "Vatikan"
+    ], 
+    "🇻🇨": [
+        "zastava", 
+        "Saint Vincent in Grenadine"
+    ], 
+    "🇻🇪": [
+        "zastava", 
+        "Venezuela"
+    ], 
+    "🇻🇬": [
+        "zastava", 
+        "Britanski Deviški otoki"
+    ], 
+    "🇻🇮": [
+        "zastava", 
+        "Ameriški Deviški otoki"
+    ], 
+    "🇻🇳": [
+        "zastava", 
+        "Vietnam"
+    ], 
+    "🇻🇺": [
+        "zastava", 
+        "Vanuatu"
+    ], 
+    "🇼🇫": [
+        "zastava", 
+        "Wallis in Futuna"
+    ], 
+    "🇼🇸": [
+        "zastava", 
+        "Samoa"
+    ], 
+    "🇽🇰": [
+        "zastava", 
+        "Kosovo"
+    ], 
+    "🇾🇪": [
+        "Jemen", 
+        "zastava"
+    ], 
+    "🇾🇹": [
+        "Mayotte", 
+        "zastava"
+    ], 
+    "🇿🇦": [
+        "Južnoafriška republika", 
+        "zastava"
+    ], 
+    "🇿🇲": [
+        "zastava", 
+        "Zambija"
+    ], 
+    "🇿🇼": [
+        "zastava", 
+        "Zimbabve"
+    ], 
+    "🈁": [
+        "pisava", 
+        "gumb za »tukaj« v japonščini", 
+        "tukaj", 
+        "katakana", 
+        "japonsko"
+    ], 
+    "🈚": [
+        "pojmovni znak", 
+        "gumb za »brezplačno« v japonščini", 
+        "ideogram", 
+        "brezplačno", 
+        "japonsko"
+    ], 
+    "🈯": [
+        "rezervirano", 
+        "pojmovni znak", 
+        "gumb za »rezervirano« v japonščini", 
+        "ideogram", 
+        "japonsko"
+    ], 
+    "🈲": [
+        "prepovedano", 
+        "pojmovni znak", 
+        "gumb za »prepovedano« v japonščini", 
+        "ideogram", 
+        "japonsko"
+    ], 
+    "🈳": [
+        "prazno", 
+        "ideogram", 
+        "pojmovni znak", 
+        "prosto", 
+        "japonsko", 
+        "gumb za »prosto« v japonščini"
+    ], 
+    "🈴": [
+        "ideogram", 
+        "pojmovni znak za skupaj v kvadratu", 
+        "pojmovni znak", 
+        "japonsko", 
+        "zadostni uspeh", 
+        "zadostna ocena"
+    ], 
+    "🈵": [
+        "ideogram", 
+        "pojmovni znak", 
+        "zasedeno", 
+        "japonsko", 
+        "ni prosto", 
+        "gumb za »ni prosto« v japonščini"
+    ], 
+    "🈶": [
+        "ideogram", 
+        "gumb za »ni brezplačno« v japonščini", 
+        "japonsko", 
+        "plačljivo", 
+        "pojmovni znak", 
+        "ni brezplačno"
+    ], 
+    "🈸": [
+        "uporaba", 
+        "pojmovni znak", 
+        "ideogram", 
+        "gumb za »aplikacija« v japonščini", 
+        "japonsko"
+    ], 
+    "🈹": [
+        "pojmovni znak", 
+        "ideogram", 
+        "gumb za »popust« v japonščini", 
+        "popust", 
+        "japonsko"
+    ], 
+    "🈺": [
+        "pojmovni znak", 
+        "ideogram", 
+        "odprto za poslovanje", 
+        "gumb za »odprto« v japonščini", 
+        "japonsko"
+    ], 
+    "🉐": [
+        "ugoden nakup", 
+        "pojmovni znak", 
+        "ideogram", 
+        "gumb za »ugodno« v japonščini", 
+        "japonsko"
+    ], 
+    "🉑": [
+        "gumb za »sprejemljivo« v japonščini", 
+        "pojmovni znak", 
+        "ideogram", 
+        "sprejemljivo", 
+        "japonsko"
+    ], 
+    "🌀": [
+        "ciklon", 
+        "tornado", 
+        "tajfun", 
+        "vreme", 
+        "vrtoglavica"
+    ], 
+    "🌁": [
+        "megla", 
+        "megleno", 
+        "vreme"
+    ], 
+    "🌂": [
+        "dež", 
+        "dežnik", 
+        "zaprt dežnik", 
+        "oblačila", 
+        "vreme"
+    ], 
+    "🌃": [
+        "noč", 
+        "zvezda", 
+        "vreme", 
+        "zvezdnata noč"
+    ], 
+    "🌄": [
+        "sončni vzhod v gorah", 
+        "sončni vzhod", 
+        "jutro", 
+        "gora", 
+        "sonce", 
+        "vreme"
+    ], 
+    "🌅": [
+        "sončni vzhod", 
+        "jutro", 
+        "vreme", 
+        "sonce"
+    ], 
+    "🌆": [
+        "sončni zahod", 
+        "večer", 
+        "mesto", 
+        "mestna pokrajina v mraku", 
+        "pokrajina", 
+        "zgradba", 
+        "sonce", 
+        "vreme", 
+        "mrak"
+    ], 
+    "🌇": [
+        "zgradba", 
+        "sončni zahod", 
+        "mrak", 
+        "vreme", 
+        "sonce"
+    ], 
+    "🌈": [
+        "dež", 
+        "mavrica", 
+        "vreme"
+    ], 
+    "🌉": [
+        "noč", 
+        "most", 
+        "vreme", 
+        "most ponoči"
+    ], 
+    "🌊": [
+        "vodni val", 
+        "voda", 
+        "morje", 
+        "vreme", 
+        "val"
+    ], 
+    "🌋": [
+        "gora", 
+        "vulkan", 
+        "izbruh", 
+        "vreme"
+    ], 
+    "🌌": [
+        "rimska cesta", 
+        "vesolje", 
+        "vreme"
+    ], 
+    "🌍": [
+        "zemlja", 
+        "globus", 
+        "globus z Evropo in Afriko", 
+        "svet", 
+        "Evropa", 
+        "Afrika"
+    ], 
+    "🌎": [
+        "globus", 
+        "svet", 
+        "Ameriki", 
+        "zemlja", 
+        "globus s Severno in Južno Ameriko"
+    ], 
+    "🌏": [
+        "Azija", 
+        "globus z Azijo in Avstralijo", 
+        "zemlja", 
+        "globus", 
+        "Avstralija", 
+        "svet"
+    ], 
+    "🌐": [
+        "globus", 
+        "globus s poldnevniki", 
+        "poldnevniki", 
+        "svet", 
+        "zemlja"
+    ], 
+    "🌑": [
+        "luna", 
+        "tema", 
+        "vesolje", 
+        "vreme", 
+        "mlada luna"
+    ], 
+    "🌒": [
+        "vreme", 
+        "krajec", 
+        "luna", 
+        "vesolje", 
+        "prvi krajec", 
+        "prvi"
+    ], 
+    "🌓": [
+        "polovično osvetljena luna v prvem krajcu", 
+        "četrt", 
+        "vesolje", 
+        "luna", 
+        "vreme"
+    ], 
+    "🌔": [
+        "polovično", 
+        "luna", 
+        "vesolje", 
+        "vreme", 
+        "več kot polovično osvetljen prvi krajec", 
+        "prvi"
+    ], 
+    "🌕": [
+        "vreme", 
+        "luna", 
+        "vesolje", 
+        "polno", 
+        "polna luna"
+    ], 
+    "🌖": [
+        "polovično", 
+        "več kot polovično osvetljen zadnji krajec", 
+        "zadnji", 
+        "luna", 
+        "vesolje", 
+        "vreme"
+    ], 
+    "🌗": [
+        "četrt", 
+        "vesolje", 
+        "polovično osvetljena luna v zadnjem krajcu", 
+        "luna", 
+        "vreme"
+    ], 
+    "🌘": [
+        "krajec", 
+        "zadnji", 
+        "zadnji krajec", 
+        "luna", 
+        "vesolje", 
+        "vreme"
+    ], 
+    "🌙": [
+        "lunin srp", 
+        "luna", 
+        "vesolje", 
+        "krajec", 
+        "vreme"
+    ], 
+    "🌚": [
+        "mlada luna z obrazom", 
+        "luna", 
+        "obraz", 
+        "vesolje", 
+        "vreme"
+    ], 
+    "🌛": [
+        "obraz", 
+        "vesolje", 
+        "četrt", 
+        "polovično osvetljena luna v prvem krajcu z obrazom", 
+        "vreme", 
+        "luna"
+    ], 
+    "🌜": [
+        "obraz", 
+        "četrt", 
+        "polovično osvetljena luna v zadnjem krajcu z obrazom", 
+        "vesolje", 
+        "vreme", 
+        "luna"
+    ], 
+    "🌝": [
+        "obraz", 
+        "polna luna z obrazom", 
+        "svetlo", 
+        "luna", 
+        "vesolje", 
+        "vreme", 
+        "polno"
+    ], 
+    "🌞": [
+        "obraz", 
+        "svetlo", 
+        "vesolje", 
+        "sonce", 
+        "vreme", 
+        "sonce z obrazom"
+    ], 
+    "🌟": [
+        "lesketanje", 
+        "žar", 
+        "sijanje", 
+        "bleščeče", 
+        "žareča zvezda", 
+        "zvezda"
+    ], 
+    "🌠": [
+        "utrinek", 
+        "zvezda", 
+        "repatica", 
+        "vesolje", 
+        "padanje"
+    ], 
+    "🌭": [
+        "hot dog", 
+        "hrenovka"
+    ], 
+    "🌮": [
+        "mehiški prigrizek", 
+        "taco"
+    ], 
+    "🌯": [
+        "burito", 
+        "mehiški prigrizek"
+    ], 
+    "🌰": [
+        "kostanj", 
+        "rastlina"
+    ], 
+    "🌱": [
+        "sadika", 
+        "rastlina", 
+        "mlado"
+    ], 
+    "🌲": [
+        "drevo", 
+        "rastlina", 
+        "zimzeleno drevo"
+    ], 
+    "🌳": [
+        "listnato", 
+        "listnato drevo", 
+        "drevo", 
+        "rastlina", 
+        "odpadanje"
+    ], 
+    "🌴": [
+        "rastlina", 
+        "drevo", 
+        "palma"
+    ], 
+    "🌵": [
+        "kaktus", 
+        "rastlina"
+    ], 
+    "🌷": [
+        "roža", 
+        "rastlina", 
+        "tulipan"
+    ], 
+    "🌸": [
+        "cvet", 
+        "češnjev cvet", 
+        "rastlina", 
+        "češnja", 
+        "roža"
+    ], 
+    "🌹": [
+        "roža", 
+        "vrtnica", 
+        "rastlina"
+    ], 
+    "🌺": [
+        "hibiskus", 
+        "roža", 
+        "rastlina"
+    ], 
+    "🌻": [
+        "roža", 
+        "rastlina", 
+        "sonce", 
+        "sončnica"
+    ], 
+    "🌼": [
+        "cvet", 
+        "roža", 
+        "rastlina"
+    ], 
+    "🌽": [
+        "koruza", 
+        "koruzni storž", 
+        "rastlina", 
+        "klas"
+    ], 
+    "🌾": [
+        "riž", 
+        "snop riža", 
+        "rastlina", 
+        "klas"
+    ], 
+    "🌿": [
+        "rastlina", 
+        "zelišče", 
+        "list"
+    ], 
+    "🍀": [
+        "detelja", 
+        "list", 
+        "štiri", 
+        "4", 
+        "štiriperesna deteljica", 
+        "rastlina"
+    ], 
+    "🍁": [
+        "rastlina", 
+        "list", 
+        "javor", 
+        "padanje", 
+        "javorov list"
+    ], 
+    "🍂": [
+        "rastlina", 
+        "padlo listje", 
+        "list", 
+        "padanje"
+    ], 
+    "🍃": [
+        "veter", 
+        "listje, ki se vrtinči v vetru", 
+        "pihati", 
+        "list", 
+        "vrtinčiti se", 
+        "rastlina"
+    ], 
+    "🍄": [
+        "goba", 
+        "rastlina"
+    ], 
+    "🍅": [
+        "zelenjava", 
+        "rastlina", 
+        "paradižnik"
+    ], 
+    "🍆": [
+        "zelenjava", 
+        "rastlina", 
+        "jajčevec"
+    ], 
+    "🍇": [
+        "rastlina", 
+        "sadje", 
+        "grozdje", 
+        "grozd"
+    ], 
+    "🍈": [
+        "melona", 
+        "sadje", 
+        "rastlina"
+    ], 
+    "🍉": [
+        "sadje", 
+        "rastlina", 
+        "lubenica"
+    ], 
+    "🍊": [
+        "mandarina", 
+        "pomaranča", 
+        "sadje", 
+        "rastlina"
+    ], 
+    "🍋": [
+        "limona", 
+        "sadje", 
+        "rastlina", 
+        "agrum"
+    ], 
+    "🍌": [
+        "sadje", 
+        "rastlina", 
+        "banana"
+    ], 
+    "🍍": [
+        "ananas", 
+        "rastlina", 
+        "sadje"
+    ], 
+    "🍎": [
+        "rdeče jabolko", 
+        "sadje", 
+        "rastlina", 
+        "rdeče", 
+        "jabolko"
+    ], 
+    "🍏": [
+        "zeleno jabolko", 
+        "zeleno", 
+        "sadje", 
+        "rastlina", 
+        "jabolko"
+    ], 
+    "🍐": [
+        "hruška", 
+        "rastlina", 
+        "sadje"
+    ], 
+    "🍑": [
+        "sadje", 
+        "rastlina", 
+        "breskev"
+    ], 
+    "🍒": [
+        "češnje", 
+        "sadje", 
+        "rastlina", 
+        "češnja"
+    ], 
+    "🍓": [
+        "jagoda", 
+        "rastina", 
+        "sadje"
+    ], 
+    "🍔": [
+        "hamburger"
+    ], 
+    "🍕": [
+        "sir", 
+        "pica", 
+        "rezina"
+    ], 
+    "🍖": [
+        "meso s kostjo", 
+        "kost", 
+        "meso"
+    ], 
+    "🍗": [
+        "piščančje bedro", 
+        "kost", 
+        "piščanec", 
+        "bedro", 
+        "perutnina"
+    ], 
+    "🍘": [
+        "riž", 
+        "kreker", 
+        "rižev kreker"
+    ], 
+    "🍙": [
+        "kroglica", 
+        "riževa kroglica", 
+        "riž", 
+        "japonsko"
+    ], 
+    "🍚": [
+        "kuhano", 
+        "kuhan riž", 
+        "riž"
+    ], 
+    "🍛": [
+        "riž", 
+        "kari", 
+        "riž s karijem"
+    ], 
+    "🍜": [
+        "skleda", 
+        "vrelo", 
+        "ramen", 
+        "rezanci", 
+        "skleda rezancev"
+    ], 
+    "🍝": [
+        "testenine", 
+        "špageti"
+    ], 
+    "🍞": [
+        "kruh", 
+        "štruca"
+    ], 
+    "🍟": [
+        "pomfrit", 
+        "krompirček", 
+        "ocvrt krompirček"
+    ], 
+    "🍠": [
+        "pečeni sladki krompir", 
+        "pečeno", 
+        "sladko", 
+        "krompir"
+    ], 
+    "🍡": [
+        "špila", 
+        "japonsko", 
+        "posladek", 
+        "sladko", 
+        "paličica", 
+        "dango"
+    ], 
+    "🍢": [
+        "oden", 
+        "morska hrana", 
+        "paličica", 
+        "špila", 
+        "kebab"
+    ], 
+    "🍣": [
+        "suši"
+    ], 
+    "🍤": [
+        "ocvrto", 
+        "tempura", 
+        "ocvrt rakec", 
+        "rakec", 
+        "kozica"
+    ], 
+    "🍥": [
+        "riba", 
+        "ribji kolač s spiralo", 
+        "pecivo", 
+        "kolač", 
+        "spirala"
+    ], 
+    "🍦": [
+        "led", 
+        "mehko", 
+        "krema", 
+        "rahel sladoled", 
+        "posladek", 
+        "sladoled", 
+        "sladko"
+    ], 
+    "🍧": [
+        "nastrgan led", 
+        "sladko", 
+        "led", 
+        "posladek", 
+        "nastrgano"
+    ], 
+    "🍨": [
+        "sladoled", 
+        "sladko", 
+        "led", 
+        "posladek", 
+        "krema"
+    ], 
+    "🍩": [
+        "krof", 
+        "sladko", 
+        "posladek"
+    ], 
+    "🍪": [
+        "piškot", 
+        "sladko", 
+        "posladek"
+    ], 
+    "🍫": [
+        "tablica čokolade", 
+        "sladko", 
+        "čokolada", 
+        "posladek", 
+        "tablica"
+    ], 
+    "🍬": [
+        "bonbon", 
+        "sladko", 
+        "posladek"
+    ], 
+    "🍭": [
+        "sladkarija", 
+        "sladko", 
+        "lizika", 
+        "posladek"
+    ], 
+    "🍮": [
+        "vanilijev puding", 
+        "sladko", 
+        "puding", 
+        "posladek"
+    ], 
+    "🍯": [
+        "lonček", 
+        "sladko", 
+        "kozarec za med", 
+        "vrč medu", 
+        "med"
+    ], 
+    "🍰": [
+        "krhek kolač", 
+        "pecivo", 
+        "rezina", 
+        "posladek", 
+        "sladko", 
+        "torta"
+    ], 
+    "🍱": [
+        "malica", 
+        "bento", 
+        "posoda za malico bento", 
+        "posoda", 
+        "japonsko"
+    ], 
+    "🍲": [
+        "skodelica", 
+        "skodelica hrane", 
+        "obara"
+    ], 
+    "🍳": [
+        "cvrtje", 
+        "kuhanje", 
+        "jajce", 
+        "ponev"
+    ], 
+    "🍴": [
+        "vilice", 
+        "kuhanje", 
+        "nož", 
+        "vilice in nož"
+    ], 
+    "🍵": [
+        "čaj", 
+        "napitek", 
+        "piti", 
+        "čajna skodelica brez ročaja", 
+        "skodelica čaja", 
+        "skodelica"
+    ], 
+    "🍶": [
+        "steklenica", 
+        "bar", 
+        "pijača", 
+        "sake", 
+        "napitek", 
+        "skodelica"
+    ], 
+    "🍷": [
+        "steklenica", 
+        "bar", 
+        "vino", 
+        "pijača", 
+        "vinski kozarec", 
+        "napitek"
+    ], 
+    "🍸": [
+        "koktajl", 
+        "kozarec za koktajl", 
+        "bar", 
+        "kozarec", 
+        "pijača"
+    ], 
+    "🍹": [
+        "tropska pijača", 
+        "tropsko", 
+        "bar", 
+        "pijača"
+    ], 
+    "🍺": [
+        "pivo", 
+        "vrček", 
+        "bar", 
+        "vrček za pivo", 
+        "pijača"
+    ], 
+    "🍻": [
+        "bar", 
+        "pijača", 
+        "vrček", 
+        "trkanje", 
+        "nazdravljanje z vrčkoma za pivo", 
+        "pivo"
+    ], 
+    "🍼": [
+        "piti", 
+        "steklenica", 
+        "steklenička", 
+        "dojenček", 
+        "mleko"
+    ], 
+    "🍾": [
+        "steklenica", 
+        "bar", 
+        "pijača", 
+        "zamašek", 
+        "odpiranje penine", 
+        "odleteti"
+    ], 
+    "🍿": [
+        "kokice", 
+        "pokovka"
+    ], 
+    "🎀": [
+        "slavje", 
+        "pentlja"
+    ], 
+    "🎁": [
+        "darilo", 
+        "škatla", 
+        "slavje", 
+        "zavito darilo", 
+        "dar", 
+        "zavito"
+    ], 
+    "🎂": [
+        "rojstnodnevna torta", 
+        "slavje", 
+        "pecivo", 
+        "posladek", 
+        "sladko", 
+        "torta", 
+        "rojstni dan"
+    ], 
+    "🎃": [
+        "noč čarovnic", 
+        "buča", 
+        "izrezljana buča", 
+        "laterna", 
+        "slavje"
+    ], 
+    "🎄": [
+        "jelka", 
+        "slavje", 
+        "božič", 
+        "drevešček"
+    ], 
+    "🎅": [
+        "božiček", 
+        "oče", 
+        "Božiček", 
+        "slavje", 
+        "božič", 
+        "fantazija", 
+        "pravljica"
+    ], 
+    "🎆": [
+        "slavje", 
+        "ognjemet"
+    ], 
+    "🎇": [
+        "slavje", 
+        "iskrenje", 
+        "sibirska lučka", 
+        "ognjemet"
+    ], 
+    "🎈": [
+        "slavje", 
+        "balon"
+    ], 
+    "🎉": [
+        "slavje", 
+        "pokalica", 
+        "pokalica za zabave", 
+        "zabava"
+    ], 
+    "🎊": [
+        "konfeti", 
+        "krogla", 
+        "slavje"
+    ], 
+    "🎋": [
+        "drevo za tanabato", 
+        "slavje", 
+        "pasica", 
+        "drevo", 
+        "japonsko"
+    ], 
+    "🎌": [
+        "slavje", 
+        "prekrižano", 
+        "križ", 
+        "prekrižani zastavi", 
+        "japonsko"
+    ], 
+    "🎍": [
+        "slavje", 
+        "bor", 
+        "japonsko", 
+        "bambus", 
+        "okrasitev bora", 
+        "rastlina"
+    ], 
+    "🎎": [
+        "festival", 
+        "japonski lutki", 
+        "slavje", 
+        "lutka", 
+        "japonsko"
+    ], 
+    "🎏": [
+        "riba", 
+        "slavje", 
+        "zastavni trak z ribama", 
+        "barvno", 
+        "trak"
+    ], 
+    "🎐": [
+        "slavje", 
+        "zvonček", 
+        "vetrni zvončki", 
+        "veter", 
+        "zvonec"
+    ], 
+    "🎑": [
+        "obred", 
+        "luna", 
+        "lunino slavje", 
+        "slavje"
+    ], 
+    "🎒": [
+        "nahrbtnik", 
+        "šolski nahrbtnik", 
+        "šola", 
+        "torba"
+    ], 
+    "🎓": [
+        "maturantska kapa", 
+        "slavje", 
+        "matura", 
+        "oblačila", 
+        "kapa", 
+        "klobuk"
+    ], 
+    "🎠": [
+        "konj na vrtiljaku", 
+        "konj", 
+        "vrtiljak"
+    ], 
+    "🎡": [
+        "panoramsko kolo", 
+        "lunapark"
+    ], 
+    "🎢": [
+        "vlakec smrti", 
+        "lunapark", 
+        "vlak smrti"
+    ], 
+    "🎣": [
+        "riba", 
+        "palica", 
+        "ribiška palica"
+    ], 
+    "🎤": [
+        "karaoke", 
+        "mikrofon"
+    ], 
+    "🎥": [
+        "kino", 
+        "kamera", 
+        "filmska kamera", 
+        "film"
+    ], 
+    "🎦": [
+        "kino", 
+        "kamera", 
+        "film"
+    ], 
+    "🎧": [
+        "slušalka", 
+        "ušesna slušalka"
+    ], 
+    "🎨": [
+        "umetnost", 
+        "slikarska paleta", 
+        "paleta", 
+        "muzej", 
+        "slika"
+    ], 
+    "🎩": [
+        "oblačila", 
+        "cilinder", 
+        "klobuk"
+    ], 
+    "🎪": [
+        "cirkuški šotor", 
+        "cirkus", 
+        "šotor"
+    ], 
+    "🎫": [
+        "vstopnina", 
+        "vstopnica"
+    ], 
+    "🎬": [
+        "klapa", 
+        "film"
+    ], 
+    "🎭": [
+        "umetnost", 
+        "maska", 
+        "scenske umetnosti", 
+        "gledališče", 
+        "nastopanje"
+    ], 
+    "🎮": [
+        "krmilnik", 
+        "videoigra", 
+        "igra"
+    ], 
+    "🎯": [
+        "zadetek", 
+        "tarča", 
+        "zadetek v polno", 
+        "središče", 
+        "igra", 
+        "pikado", 
+        "polno"
+    ], 
+    "🎰": [
+        "igra", 
+        "igralni avtomat", 
+        "avtomat"
+    ], 
+    "🎱": [
+        "8", 
+        "osmica", 
+        "igra", 
+        "krogla", 
+        "biljard"
+    ], 
+    "🎲": [
+        "kocka", 
+        "igralna kocka", 
+        "igra"
+    ], 
+    "🎳": [
+        "krogla", 
+        "kegljanje", 
+        "igra"
+    ], 
+    "🎴": [
+        "karta", 
+        "rožne igralne karte", 
+        "japonsko", 
+        "igra", 
+        "roža", 
+        "igranje"
+    ], 
+    "🎵": [
+        "glasba", 
+        "glasbena nota", 
+        "nota"
+    ], 
+    "🎶": [
+        "glasba", 
+        "note", 
+        "glasbene note", 
+        "nota"
+    ], 
+    "🎷": [
+        "glasba", 
+        "instrument", 
+        "saksofon"
+    ], 
+    "🎸": [
+        "glasba", 
+        "kitara", 
+        "glasbilo"
+    ], 
+    "🎹": [
+        "glasba", 
+        "klavir", 
+        "glasbilo", 
+        "klaviatura"
+    ], 
+    "🎺": [
+        "glasba", 
+        "glasbilo", 
+        "trobenta"
+    ], 
+    "🎻": [
+        "glasba", 
+        "violina", 
+        "glasbilo"
+    ], 
+    "🎼": [
+        "glasba", 
+        "partitura"
+    ], 
+    "🎽": [
+        "tekaška majica", 
+        "tek", 
+        "lenta", 
+        "majica"
+    ], 
+    "🎾": [
+        "lopar", 
+        "tenis", 
+        "žoga"
+    ], 
+    "🎿": [
+        "sneg", 
+        "smučke", 
+        "smučati"
+    ], 
+    "🏀": [
+        "koš", 
+        "obroč", 
+        "košarkarska žoga", 
+        "žoga"
+    ], 
+    "🏁": [
+        "zastava", 
+        "kockasta zastava", 
+        "kockasto", 
+        "dirkanje"
+    ], 
+    "🏂": [
+        "snežna deska", 
+        "sneg", 
+        "smučati", 
+        "deskar na snegu"
+    ], 
+    "🏃": [
+        "tek", 
+        "tekač", 
+        "maraton"
+    ], 
+    "🏄": [
+        "deskanje", 
+        "oseba deska"
+    ], 
+    "🏅": [
+        "športna medalja", 
+        "medalja"
+    ], 
+    "🏆": [
+        "nagrada", 
+        "trofeja"
+    ], 
+    "🏇": [
+        "džokej", 
+        "konj", 
+        "konjske dirke", 
+        "dirkanje", 
+        "dirkalni konj"
+    ], 
+    "🏈": [
+        "ameriško", 
+        "žoga za ameriški nogomet", 
+        "nogomet", 
+        "žoga"
+    ], 
+    "🏉": [
+        "ragbi", 
+        "žoga za ragbi", 
+        "nogomet", 
+        "žoga"
+    ], 
+    "🏊": [
+        "plavati", 
+        "oseba plava"
+    ], 
+    "🏏": [
+        "kij", 
+        "žogica", 
+        "kriket", 
+        "igra"
+    ], 
+    "🏐": [
+        "žoga za odbojko", 
+        "žoga", 
+        "igra"
+    ], 
+    "🏑": [
+        "hokej", 
+        "hokej na travi", 
+        "polje", 
+        "igra", 
+        "palica", 
+        "žogica"
+    ], 
+    "🏒": [
+        "hokej", 
+        "led", 
+        "plošček", 
+        "hokejska palica in plošček", 
+        "igra", 
+        "palica"
+    ], 
+    "🏓": [
+        "žogica", 
+        "kij", 
+        "lopar", 
+        "namizni tenis", 
+        "igra"
+    ], 
+    "🏠": [
+        "zgradba", 
+        "hiša", 
+        "dom"
+    ], 
+    "🏡": [
+        "zgradba", 
+        "hiša z vrtom", 
+        "hiša", 
+        "vrt", 
+        "dom"
+    ], 
+    "🏢": [
+        "zgradba", 
+        "poslovna stavba"
+    ], 
+    "🏣": [
+        "japonska pošta", 
+        "pošta", 
+        "zgradba", 
+        "japonsko"
+    ], 
+    "🏤": [
+        "zgradba", 
+        "pošta", 
+        "evropsko"
+    ], 
+    "🏥": [
+        "zdravilo", 
+        "zgradba", 
+        "bolnišnica", 
+        "zdravnik"
+    ], 
+    "🏦": [
+        "banka", 
+        "zgradba"
+    ], 
+    "🏧": [
+        "znak za bankomat", 
+        "denar", 
+        "bankomat", 
+        "avtomat"
+    ], 
+    "🏨": [
+        "zgradba", 
+        "hotel"
+    ], 
+    "🏩": [
+        "zgradba", 
+        "hotel", 
+        "ljubezenski hotel", 
+        "ljubezen"
+    ], 
+    "🏪": [
+        "komfort", 
+        "hotel", 
+        "trgovina", 
+        "trgovina z mešanim blagom"
+    ], 
+    "🏫": [
+        "zgradba", 
+        "šola"
+    ], 
+    "🏬": [
+        "trgovina", 
+        "veleblagovnica", 
+        "blago", 
+        "zgradba"
+    ], 
+    "🏭": [
+        "tovarna", 
+        "zgradba"
+    ], 
+    "🏮": [
+        "bar", 
+        "rdeči lampijon", 
+        "luč", 
+        "lampijon", 
+        "rdeče", 
+        "japonsko"
+    ], 
+    "🏯": [
+        "japonski grad", 
+        "grad", 
+        "zgradba", 
+        "japonsko"
+    ], 
+    "🏰": [
+        "zgradba", 
+        "grad", 
+        "evropsko"
+    ], 
+    "🏴": [
+        "črna zastava", 
+        "plapolanje"
+    ], 
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "Anglija", 
+        "zastava"
+    ], 
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "zastava", 
+        "Škotska"
+    ], 
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "Wales", 
+        "zastava"
+    ], 
+    "🏸": [
+        "žogica", 
+        "lopar", 
+        "badminton", 
+        "perjanica", 
+        "igra"
+    ], 
+    "🏹": [
+        "lok", 
+        "lok in puščica", 
+        "strelec", 
+        "zodiak", 
+        "orodje", 
+        "lokostrelec", 
+        "puščica", 
+        "orožje"
+    ], 
+    "🏺": [
+        "kuhanje", 
+        "pijača", 
+        "vodnar", 
+        "zodiak", 
+        "vrč", 
+        "orodje", 
+        "amfora", 
+        "orožje"
+    ], 
+    "🏻": [
+        "svetel ten kože", 
+        "modifikator znaka emoji", 
+        "ten", 
+        "fitzpatrick", 
+        "vrsti 1 in 2", 
+        "polt vrst 1 in 2", 
+        "koža"
+    ], 
+    "🏼": [
+        "srednje svetel ten kože", 
+        "modifikator znaka emoji", 
+        "ten", 
+        "fitzpatrick", 
+        "vrsta 3", 
+        "polt vrste 3", 
+        "koža"
+    ], 
+    "🏽": [
+        "srednji ten kože", 
+        "ten", 
+        "fitzpatrick", 
+        "polt vrste 4", 
+        "vrsta 4", 
+        "koža", 
+        "modifikator znaka emoji"
+    ], 
+    "🏾": [
+        "modifikator znaka emoji", 
+        "ten", 
+        "fitzpatrick", 
+        "polt vrste 5", 
+        "vrsta 5", 
+        "srednje temen ten kože", 
+        "koža"
+    ], 
+    "🏿": [
+        "modifikator znaka emoji", 
+        "ten", 
+        "temen ten kože", 
+        "fitzpatrick", 
+        "polt vrste 6", 
+        "vrsta 6", 
+        "koža"
+    ], 
+    "🐀": [
+        "podgana"
+    ], 
+    "🐁": [
+        "miš", 
+        "miška"
+    ], 
+    "🐂": [
+        "vol", 
+        "zodiak", 
+        "bik"
+    ], 
+    "🐃": [
+        "vodni bivol", 
+        "bivol", 
+        "voda"
+    ], 
+    "🐄": [
+        "krava"
+    ], 
+    "🐅": [
+        "tiger"
+    ], 
+    "🐆": [
+        "leopard"
+    ], 
+    "🐇": [
+        "zajček", 
+        "zajec", 
+        "domači ljubljenček"
+    ], 
+    "🐈": [
+        "mačka", 
+        "domači ljubljenček"
+    ], 
+    "🐉": [
+        "pravljica", 
+        "zmaj"
+    ], 
+    "🐊": [
+        "krokodil"
+    ], 
+    "🐋": [
+        "kit"
+    ], 
+    "🐌": [
+        "polž"
+    ], 
+    "🐍": [
+        "kačenosec", 
+        "zodiak", 
+        "prinašalec", 
+        "kača"
+    ], 
+    "🐎": [
+        "konj", 
+        "konjske dirke", 
+        "dirkanje"
+    ], 
+    "🐏": [
+        "zodiak", 
+        "ovca", 
+        "oven"
+    ], 
+    "🐐": [
+        "zodiak", 
+        "koza", 
+        "kozorog"
+    ], 
+    "🐑": [
+        "ovčka", 
+        "ovca"
+    ], 
+    "🐒": [
+        "opica"
+    ], 
+    "🐓": [
+        "petelin"
+    ], 
+    "🐔": [
+        "kokoš", 
+        "kokoška", 
+        "kura"
+    ], 
+    "🐕": [
+        "domači ljubljenček", 
+        "pes"
+    ], 
+    "🐖": [
+        "prašič", 
+        "svinja"
+    ], 
+    "🐗": [
+        "prašič", 
+        "divji", 
+        "divja svinja"
+    ], 
+    "🐘": [
+        "slon"
+    ], 
+    "🐙": [
+        "hobotnica"
+    ], 
+    "🐚": [
+        "spiralno", 
+        "spiralna školjka", 
+        "školjka"
+    ], 
+    "🐛": [
+        "žuželka"
+    ], 
+    "🐜": [
+        "mravlja", 
+        "žuželka"
+    ], 
+    "🐝": [
+        "žuželka", 
+        "čebela"
+    ], 
+    "🐞": [
+        "žuželka", 
+        "pikapolonica", 
+        "hrošč"
+    ], 
+    "🐟": [
+        "riba", 
+        "ribi", 
+        "zodiak"
+    ], 
+    "🐠": [
+        "riba", 
+        "tropsko", 
+        "tropska riba"
+    ], 
+    "🐡": [
+        "riba", 
+        "riba napihovalka", 
+        "tropsko"
+    ], 
+    "🐢": [
+        "želva"
+    ], 
+    "🐣": [
+        "valjenje", 
+        "mladič", 
+        "pišče, ki se izvali", 
+        "piščanček"
+    ], 
+    "🐤": [
+        "valjenje", 
+        "mladič", 
+        "piščanček"
+    ], 
+    "🐥": [
+        "mladič", 
+        "piščanček, gleda naprej", 
+        "piščanček"
+    ], 
+    "🐦": [
+        "ptica", 
+        "ptič", 
+        "ptiček"
+    ], 
+    "🐧": [
+        "pingvin"
+    ], 
+    "🐨": [
+        "koala", 
+        "medved"
+    ], 
+    "🐩": [
+        "pudelj", 
+        "pes"
+    ], 
+    "🐪": [
+        "dromedar", 
+        "grba", 
+        "kamela"
+    ], 
+    "🐫": [
+        "dvogrbo", 
+        "grba", 
+        "dvogrba kamela", 
+        "kamela"
+    ], 
+    "🐬": [
+        "delfin", 
+        "fliper"
+    ], 
+    "🐭": [
+        "miš", 
+        "obraz", 
+        "mišji obraz"
+    ], 
+    "🐮": [
+        "kravji obraz", 
+        "krava", 
+        "obraz"
+    ], 
+    "🐯": [
+        "tiger", 
+        "obraz", 
+        "tigrov obraz"
+    ], 
+    "🐰": [
+        "zajček", 
+        "zajčji obraz", 
+        "obraz", 
+        "zajec", 
+        "domači ljubljenček"
+    ], 
+    "🐱": [
+        "obraz", 
+        "mačji obraz", 
+        "domači ljubljenček", 
+        "mačka"
+    ], 
+    "🐲": [
+        "zmajski obraz", 
+        "obraz", 
+        "pravljica", 
+        "zmaj"
+    ], 
+    "🐳": [
+        "kit, ki brizga vodo", 
+        "brizganje", 
+        "obraz", 
+        "kit"
+    ], 
+    "🐴": [
+        "konj", 
+        "obraz", 
+        "konjev obraz"
+    ], 
+    "🐵": [
+        "obraz", 
+        "opičji obraz", 
+        "opica"
+    ], 
+    "🐶": [
+        "obraz", 
+        "pasji obraz", 
+        "domači ljubljenček", 
+        "pes"
+    ], 
+    "🐷": [
+        "prašič", 
+        "obraz", 
+        "prašičji obraz"
+    ], 
+    "🐸": [
+        "žaba", 
+        "obraz", 
+        "žabji obraz"
+    ], 
+    "🐹": [
+        "hrček", 
+        "obraz", 
+        "hrčkov obraz", 
+        "domači ljubljenček"
+    ], 
+    "🐺": [
+        "obraz", 
+        "volk", 
+        "volčji obraz"
+    ], 
+    "🐻": [
+        "obraz", 
+        "medvedov obraz", 
+        "medved"
+    ], 
+    "🐼": [
+        "pandin obraz", 
+        "obraz", 
+        "panda"
+    ], 
+    "🐽": [
+        "prašič", 
+        "prašičji rilec", 
+        "obraz", 
+        "rilec"
+    ], 
+    "🐾": [
+        "tace", 
+        "odtis", 
+        "odtisi tac", 
+        "šapa"
+    ], 
+    "👀": [
+        "obraz", 
+        "telo", 
+        "oči"
+    ], 
+    "👂": [
+        "uho", 
+        "telo"
+    ], 
+    "👃": [
+        "telo", 
+        "nos"
+    ], 
+    "👄": [
+        "ustnice", 
+        "usta", 
+        "telo"
+    ], 
+    "👅": [
+        "telo", 
+        "jezik"
+    ], 
+    "👆": [
+        "kazati", 
+        "dlan", 
+        "prst", 
+        "hrbtna stran dlani s kazalcem, ki kaže gor", 
+        "hrbtna stran", 
+        "kazalec", 
+        "telo", 
+        "gor"
+    ], 
+    "👇": [
+        "kazati", 
+        "dol", 
+        "dlan", 
+        "prst", 
+        "hrbtna stran", 
+        "kazalec", 
+        "hrbtna stran dlani s kazalcem, ki kaže dol", 
+        "telo"
+    ], 
+    "👈": [
+        "kazati", 
+        "dlan", 
+        "hrbtna stran dlani s kazalcem, ki kaže levo", 
+        "prst", 
+        "hrbtna stran", 
+        "kazalec", 
+        "telo"
+    ], 
+    "👉": [
+        "kazati", 
+        "dlan", 
+        "hrbtna stran dlani s kazalcem, ki kaže desno", 
+        "prst", 
+        "hrbtna stran", 
+        "kazalec", 
+        "telo"
+    ], 
+    "👊": [
+        "pokrčeno", 
+        "bližajoča se pest", 
+        "dlan", 
+        "udarec", 
+        "pest", 
+        "telo"
+    ], 
+    "👋": [
+        "dlan", 
+        "mahanje", 
+        "mahajoča dlan", 
+        "mahati", 
+        "telo"
+    ], 
+    "👌": [
+        "dlan", 
+        "roka, ki kaže V REDU", 
+        "v redu", 
+        "telo"
+    ], 
+    "👍": [
+        "dlan", 
+        "palec gor", 
+        "palec", 
+        "+1", 
+        "telo", 
+        "gor"
+    ], 
+    "👎": [
+        "dol", 
+        "dlan", 
+        "palec dol", 
+        "palec", 
+        "-1", 
+        "telo"
+    ], 
+    "👏": [
+        "ploskajoči dlani", 
+        "dlan", 
+        "ploskati", 
+        "telo"
+    ], 
+    "👐": [
+        "dlan", 
+        "odprti dlani", 
+        "telo", 
+        "odprto"
+    ], 
+    "👑": [
+        "krona", 
+        "kralj", 
+        "oblačila", 
+        "kraljica"
+    ], 
+    "👒": [
+        "oblačila", 
+        "klobuk", 
+        "ženski klobuk", 
+        "ženska"
+    ], 
+    "👓": [
+        "očala", 
+        "oblačila", 
+        "oči"
+    ], 
+    "👔": [
+        "kravata", 
+        "oblačila"
+    ], 
+    "👕": [
+        "kratka majica", 
+        "srajca", 
+        "oblačila", 
+        "majica"
+    ], 
+    "👖": [
+        "kavbojke", 
+        "oblačila", 
+        "hlače"
+    ], 
+    "👗": [
+        "oblačila", 
+        "ženska obleka"
+    ], 
+    "👘": [
+        "kimono", 
+        "oblačila"
+    ], 
+    "👙": [
+        "plavati", 
+        "bikini", 
+        "oblačila"
+    ], 
+    "👚": [
+        "ženska", 
+        "ženska oblačila", 
+        "oblačila"
+    ], 
+    "👛": [
+        "oblačila", 
+        "kovanec", 
+        "drobižnica"
+    ], 
+    "👜": [
+        "ročna torbica", 
+        "oblačila", 
+        "torbica"
+    ], 
+    "👝": [
+        "večerna torbica", 
+        "oblačila", 
+        "torbica"
+    ], 
+    "👞": [
+        "čevelj", 
+        "oblačila", 
+        "moški", 
+        "moški čevelj"
+    ], 
+    "👟": [
+        "čevelj", 
+        "tekaški čevelj", 
+        "superga", 
+        "oblačila", 
+        "športno"
+    ], 
+    "👠": [
+        "čevelj", 
+        "peta", 
+        "oblačila", 
+        "ženska", 
+        "čevelj z visoko peto"
+    ], 
+    "👡": [
+        "čevelj", 
+        "ženska", 
+        "ženski sandali", 
+        "sandal", 
+        "oblačila"
+    ], 
+    "👢": [
+        "čevelj", 
+        "ženska", 
+        "škorenj", 
+        "oblačila", 
+        "ženski škorenj"
+    ], 
+    "👣": [
+        "odtis", 
+        "telo", 
+        "oblačila", 
+        "stopinje", 
+        "stopinja"
+    ], 
+    "👤": [
+        "silhueta doprsja", 
+        "silhueta", 
+        "doprsje"
+    ], 
+    "👥": [
+        "silhueti doprsja", 
+        "silhueta", 
+        "doprsje"
+    ], 
+    "👦": [
+        "deček", 
+        "fant"
+    ], 
+    "👧": [
+        "devica", 
+        "zodiak", 
+        "dekle"
+    ], 
+    "👨": [
+        "moški", 
+        "fant"
+    ], 
+    "👨‍🌾": [
+        "kavboj", 
+        "vrtnar", 
+        "živinorejec", 
+        "kmet", 
+        "moški", 
+        "fant", 
+        "kmetovalec"
+    ], 
+    "👨‍🍳": [
+        "chef", 
+        "kuhar", 
+        "moški", 
+        "fant", 
+        "šef kuhinje"
+    ], 
+    "👨‍🎓": [
+        "študent", 
+        "maturant", 
+        "moški", 
+        "diplomant", 
+        "fant"
+    ], 
+    "👨‍🎤": [
+        "zvezdnik", 
+        "igralec", 
+        "zabavljač", 
+        "moški", 
+        "fant", 
+        "roker", 
+        "komik", 
+        "pevec"
+    ], 
+    "👨‍🎨": [
+        "umetnost", 
+        "paleta", 
+        "moški", 
+        "fant", 
+        "slikar", 
+        "umetnik"
+    ], 
+    "👨‍🏫": [
+        "profesor", 
+        "moški", 
+        "fant", 
+        "učitelj", 
+        "inštruktor"
+    ], 
+    "👨‍🏭": [
+        "tovarna", 
+        "proizvodnja", 
+        "delavec", 
+        "tovarnar", 
+        "tekoči trak", 
+        "delavec v tovarni", 
+        "moški", 
+        "fant", 
+        "industrijski"
+    ], 
+    "👨‍👦": [
+        "otrok", 
+        "oče", 
+        "družina: moški in fant", 
+        "moški", 
+        "fant", 
+        "družina", 
+        "mati"
+    ], 
+    "👨‍👦‍👦": [
+        "otrok", 
+        "oče", 
+        "moški", 
+        "fant", 
+        "družina", 
+        "družina: moški in fant in fant", 
+        "mati"
+    ], 
+    "👨‍👧": [
+        "otrok", 
+        "oče", 
+        "dekle", 
+        "družina", 
+        "moški", 
+        "družina: moški in dekle", 
+        "mati"
+    ], 
+    "👨‍👧‍👦": [
+        "otrok", 
+        "oče", 
+        "družina: moški in dekle in fant", 
+        "dekle", 
+        "fant", 
+        "družina", 
+        "moški", 
+        "mati"
+    ], 
+    "👨‍👧‍👧": [
+        "otrok", 
+        "oče", 
+        "družina: moški in dekle in dekle", 
+        "dekle", 
+        "družina", 
+        "moški", 
+        "mati"
+    ], 
+    "👨‍👨‍👦": [
+        "otrok", 
+        "oče", 
+        "moški", 
+        "fant", 
+        "družina", 
+        "družina: moški in moški in fant", 
+        "mati"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "otrok", 
+        "oče", 
+        "moški", 
+        "fant", 
+        "družina", 
+        "družina: moški in moški in fant in fant", 
+        "mati"
+    ], 
+    "👨‍👨‍👧": [
+        "otrok", 
+        "oče", 
+        "družina: moški in moški in dekle", 
+        "dekle", 
+        "družina", 
+        "moški", 
+        "mati"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "otrok", 
+        "oče", 
+        "družina: moški in moški in dekle in fant", 
+        "dekle", 
+        "fant", 
+        "družina", 
+        "moški", 
+        "mati"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "družina: moški in moški in dekle in dekle", 
+        "otrok", 
+        "oče", 
+        "dekle", 
+        "družina", 
+        "moški", 
+        "mati"
+    ], 
+    "👨‍👩‍👦": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina: moški in ženska in fant", 
+        "moški", 
+        "fant", 
+        "družina", 
+        "mati"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "družina: moški in ženska in fant in fant", 
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "moški", 
+        "fant", 
+        "družina", 
+        "mati"
+    ], 
+    "👨‍👩‍👧": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina: moški in ženska in dekle", 
+        "moški", 
+        "družina", 
+        "dekle", 
+        "mati"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "otrok", 
+        "oče", 
+        "družina: moški in ženska in dekle in fant", 
+        "ženska", 
+        "moški", 
+        "fant", 
+        "družina", 
+        "dekle", 
+        "mati"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "moški", 
+        "družina: moški in ženska in dekle in dekle", 
+        "družina", 
+        "dekle", 
+        "mati"
+    ], 
+    "👨‍💻": [
+        "izumitelj", 
+        "programska oprema", 
+        "računalnik", 
+        "šifrant", 
+        "razvijalec", 
+        "moški", 
+        "fant", 
+        "tehnolog", 
+        "tehnologija"
+    ], 
+    "👨‍💼": [
+        "podjetje", 
+        "pisarniški", 
+        "direktor", 
+        "tajnik", 
+        "moški", 
+        "fant", 
+        "pisarna", 
+        "arhitekt", 
+        "pisarniški delavec"
+    ], 
+    "👨‍🔧": [
+        "mehanik", 
+        "avtomehanik", 
+        "mehanična delavnica", 
+        "vodovodar", 
+        "moški", 
+        "fant", 
+        "orodje", 
+        "električar", 
+        "prodajalec"
+    ], 
+    "👨‍🔬": [
+        "znanstvenik", 
+        "kemik", 
+        "biolog", 
+        "inženir", 
+        "fant", 
+        "fizik", 
+        "moški", 
+        "matematik"
+    ], 
+    "👨‍🚀": [
+        "raketa", 
+        "vesolje", 
+        "moški", 
+        "astronavt", 
+        "fant"
+    ], 
+    "👨‍🚒": [
+        "ogenj", 
+        "gasilec", 
+        "moški", 
+        "fant", 
+        "gasilni avto"
+    ], 
+    "👩": [
+        "ženska", 
+        "dekle"
+    ], 
+    "👩‍🌾": [
+        "živinorejka", 
+        "vrtnarka", 
+        "ženska", 
+        "kmetovalka", 
+        "kmetica", 
+        "dekle"
+    ], 
+    "👩‍🍳": [
+        "chef", 
+        "ženska", 
+        "kuharica", 
+        "šefinja kuhinje", 
+        "dekle"
+    ], 
+    "👩‍🎓": [
+        "maturantka", 
+        "študentka", 
+        "dekle", 
+        "ženska", 
+        "diplomantka"
+    ], 
+    "👩‍🎤": [
+        "rokerica", 
+        "zabavljačica", 
+        "ženska", 
+        "pevka", 
+        "dekle", 
+        "igralka", 
+        "zvezdnica"
+    ], 
+    "👩‍🎨": [
+        "ženska", 
+        "umetnost", 
+        "paleta", 
+        "slikarka", 
+        "umetnica", 
+        "dekle"
+    ], 
+    "👩‍🏫": [
+        "profesorica", 
+        "učiteljica", 
+        "inštruktorica", 
+        "dekle", 
+        "ženska"
+    ], 
+    "👩‍🏭": [
+        "tovarna", 
+        "proizvodnja", 
+        "delavka", 
+        "tekoči trak", 
+        "ženska", 
+        "delavka v tovarni", 
+        "dekle", 
+        "tovarnarka", 
+        "industrijski"
+    ], 
+    "👩‍👦": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina", 
+        "fant", 
+        "družina: ženska in fant", 
+        "mati"
+    ], 
+    "👩‍👦‍👦": [
+        "otrok", 
+        "oče", 
+        "družina: ženska in fant in fant", 
+        "ženska", 
+        "družina", 
+        "fant", 
+        "mati"
+    ], 
+    "👩‍👧": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina: ženska in dekle", 
+        "dekle", 
+        "družina", 
+        "mati"
+    ], 
+    "👩‍👧‍👦": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina: ženska in dekle in fant", 
+        "dekle", 
+        "fant", 
+        "družina", 
+        "mati"
+    ], 
+    "👩‍👧‍👧": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina: ženska in dekle in dekle", 
+        "dekle", 
+        "družina", 
+        "mati"
+    ], 
+    "👩‍👩‍👦": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina", 
+        "fant", 
+        "družina: ženska in ženska in fant", 
+        "mati"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "otrok", 
+        "oče", 
+        "ženska", 
+        "družina", 
+        "fant", 
+        "družina: ženska in ženska in fant in fant", 
+        "mati"
+    ], 
+    "👩‍👩‍👧": [
+        "otrok", 
+        "oče", 
+        "družina: ženska in ženska in dekle", 
+        "ženska", 
+        "dekle", 
+        "družina", 
+        "mati"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "otrok", 
+        "oče", 
+        "družina: ženska in ženska in dekle in fant", 
+        "ženska", 
+        "dekle", 
+        "fant", 
+        "družina", 
+        "mati"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "otrok", 
+        "oče", 
+        "družina: ženska in ženska in dekle in dekle", 
+        "ženska", 
+        "dekle", 
+        "družina", 
+        "mati"
+    ], 
+    "👩‍💻": [
+        "šifrantka", 
+        "programska oprema", 
+        "ženska", 
+        "računalnik", 
+        "tehnologinja", 
+        "dekle", 
+        "razvijalka", 
+        "izumiteljica", 
+        "tehnologija"
+    ], 
+    "👩‍💼": [
+        "direktorica", 
+        "podjetje", 
+        "pisarniški", 
+        "tajnica", 
+        "ženska", 
+        "pisarniška delavka", 
+        "dekle", 
+        "arhitektka", 
+        "pisarna"
+    ], 
+    "👩‍🔧": [
+        "mehanična delavnica", 
+        "vodovodarka", 
+        "ženska", 
+        "mehaničarka", 
+        "orodje", 
+        "dekle", 
+        "avtomehaničarka", 
+        "električarka", 
+        "prodajalka"
+    ], 
+    "👩‍🔬": [
+        "biologinja", 
+        "znanstvenica", 
+        "ženska", 
+        "matematika", 
+        "dekle", 
+        "inženirka", 
+        "kemija", 
+        "fizika"
+    ], 
+    "👩‍🚀": [
+        "raketa", 
+        "vesolje", 
+        "dekle", 
+        "ženska", 
+        "astronavtka"
+    ], 
+    "👩‍🚒": [
+        "ženska", 
+        "ogenj", 
+        "gasilni avto", 
+        "dekle", 
+        "gasilka"
+    ], 
+    "👪": [
+        "otrok", 
+        "oče", 
+        "družina", 
+        "mati"
+    ], 
+    "👫": [
+        "moški in ženska, ki se držita za roke", 
+        "par", 
+        "roka", 
+        "držati", 
+        "ženska", 
+        "moški"
+    ], 
+    "👬": [
+        "par", 
+        "roka", 
+        "zodiak", 
+        "moški", 
+        "dvojčka", 
+        "moška, ki se držita za roke"
+    ], 
+    "👭": [
+        "držati", 
+        "ženski, ki se držita za roke", 
+        "ženska", 
+        "par", 
+        "roka"
+    ], 
+    "👮": [
+        "policija", 
+        "policaj"
+    ], 
+    "👯": [
+        "žur", 
+        "zajčica", 
+        "uho", 
+        "ženska", 
+        "žurerski ženski", 
+        "zabava", 
+        "dekle", 
+        "plesalka"
+    ], 
+    "👰": [
+        "poroka", 
+        "pajčolan", 
+        "nevesta s pajčolanom", 
+        "nevesta"
+    ], 
+    "👱": [
+        "svetlolaso", 
+        "svetlolasa oseba"
+    ], 
+    "👲": [
+        "moški", 
+        "čepica", 
+        "moški s kitajsko čepico", 
+        "kitajska čepica"
+    ], 
+    "👳": [
+        "moški", 
+        "oseba s turbanom", 
+        "turban"
+    ], 
+    "👴": [
+        "starec", 
+        "moški", 
+        "staro"
+    ], 
+    "👵": [
+        "staro", 
+        "ženska", 
+        "starka"
+    ], 
+    "👶": [
+        "dojenček"
+    ], 
+    "👷": [
+        "gradnja", 
+        "čepica", 
+        "delavec", 
+        "gradbenik"
+    ], 
+    "👸": [
+        "pravljica", 
+        "princesa", 
+        "fantazija"
+    ], 
+    "👹": [
+        "bitje", 
+        "pošast", 
+        "pošastni velikan", 
+        "obraz", 
+        "japonsko", 
+        "pravljica", 
+        "fantazija"
+    ], 
+    "👺": [
+        "bitje", 
+        "pošast", 
+        "obraz", 
+        "škratelj", 
+        "japonsko", 
+        "fantazija", 
+        "pravljica"
+    ], 
+    "👻": [
+        "duh", 
+        "bitje", 
+        "pošast", 
+        "obraz", 
+        "fantazija", 
+        "pravljica"
+    ], 
+    "👼": [
+        "angel", 
+        "dojenček", 
+        "obraz", 
+        "fantazija", 
+        "angelček", 
+        "pravljica"
+    ], 
+    "👽": [
+        "nlp", 
+        "bitje", 
+        "pošast", 
+        "obraz", 
+        "vesolje", 
+        "fantazija", 
+        "nezemeljan", 
+        "vesoljec", 
+        "pravljica"
+    ], 
+    "👾": [
+        "nlp", 
+        "bitje", 
+        "nezemljan", 
+        "obraz", 
+        "fantazija", 
+        "vesolje", 
+        "vesoljec", 
+        "vesoljska pošast", 
+        "pravljica"
+    ], 
+    "👿": [
+        "hudič", 
+        "obraz", 
+        "demon", 
+        "vragec", 
+        "fantazija", 
+        "pravljica"
+    ], 
+    "💀": [
+        "pošast", 
+        "obraz", 
+        "mrtvaška glava", 
+        "smrt", 
+        "pravljica", 
+        "telo"
+    ], 
+    "💁": [
+        "pomoč", 
+        "zgovorno", 
+        "živahno", 
+        "roka", 
+        "oseba, ki dela na informacijah", 
+        "informacije"
+    ], 
+    "💂": [
+        "stražar", 
+        "stražar, čuvaj"
+    ], 
+    "💃": [
+        "ženska", 
+        "plesalka", 
+        "ples", 
+        "ženska, ki pleše"
+    ], 
+    "💄": [
+        "šminka", 
+        "kozmetika", 
+        "ličila"
+    ], 
+    "💅": [
+        "noht", 
+        "manikira", 
+        "lak", 
+        "lak za nohte", 
+        "kozmetika", 
+        "nega", 
+        "telo"
+    ], 
+    "💆": [
+        "masaža obraza", 
+        "salon", 
+        "masaža"
+    ], 
+    "💇": [
+        "salon", 
+        "striženje", 
+        "lepota", 
+        "frizura", 
+        "brivec"
+    ], 
+    "💈": [
+        "brivski izvesek", 
+        "striženje", 
+        "izvesek", 
+        "brivec"
+    ], 
+    "💉": [
+        "bolno", 
+        "igla", 
+        "injekcija", 
+        "zdravnik", 
+        "orodje", 
+        "medicina"
+    ], 
+    "💊": [
+        "zdravilo", 
+        "bolno", 
+        "tableta", 
+        "zdravnik"
+    ], 
+    "💋": [
+        "srce", 
+        "ustnice", 
+        "romanca", 
+        "sled šminke po poljubu", 
+        "odtis", 
+        "poljub"
+    ], 
+    "💌": [
+        "pismo", 
+        "srce", 
+        "pošta", 
+        "romanca", 
+        "ljubezensko pismo", 
+        "ljubezen"
+    ], 
+    "💍": [
+        "prstan", 
+        "romanca", 
+        "diamant"
+    ], 
+    "💎": [
+        "dragi kamen", 
+        "romanca", 
+        "diamant", 
+        "dragulj"
+    ], 
+    "💏": [
+        "par", 
+        "romanca", 
+        "poljub"
+    ], 
+    "💐": [
+        "roža", 
+        "romanca", 
+        "rastlina", 
+        "šopek"
+    ], 
+    "💑": [
+        "par", 
+        "srce", 
+        "romanca", 
+        "par s srčkom", 
+        "ljubezen"
+    ], 
+    "💒": [
+        "poročna kapela", 
+        "romanca", 
+        "kapela"
+    ], 
+    "💓": [
+        "srčni utrip", 
+        "bitje", 
+        "utripanje", 
+        "utripajoče srce", 
+        "srce"
+    ], 
+    "💔": [
+        "počeno", 
+        "strto srce", 
+        "zlomiti", 
+        "srce"
+    ], 
+    "💕": [
+        "srce", 
+        "dve srci", 
+        "ljubezen"
+    ], 
+    "💖": [
+        "vznemirjeno", 
+        "lesketati se", 
+        "lesketajoče srce", 
+        "srce"
+    ], 
+    "💗": [
+        "rastoče", 
+        "srčni utrip", 
+        "srce", 
+        "živčno", 
+        "rastoče srce", 
+        "vznemirjeno"
+    ], 
+    "💘": [
+        "srce s puščico", 
+        "romanca", 
+        "puščica", 
+        "kupid", 
+        "srce"
+    ], 
+    "💙": [
+        "modro", 
+        "modro srce", 
+        "srce"
+    ], 
+    "💚": [
+        "zeleno", 
+        "zeleno srce", 
+        "srce"
+    ], 
+    "💛": [
+        "rumeno srce", 
+        "rumeno", 
+        "srce"
+    ], 
+    "💜": [
+        "vijolično srce", 
+        "vijolično", 
+        "srce"
+    ], 
+    "💝": [
+        "valentin", 
+        "srce s pentljo", 
+        "pentlja", 
+        "srce"
+    ], 
+    "💞": [
+        "vrteči se srci", 
+        "vrtenje", 
+        "srce"
+    ], 
+    "💟": [
+        "okrasje s srcem", 
+        "srce"
+    ], 
+    "💠": [
+        "znotraj", 
+        "geometrično", 
+        "karo", 
+        "karo s piko", 
+        "strip"
+    ], 
+    "💡": [
+        "električno", 
+        "žarnica", 
+        "luč", 
+        "zamisel", 
+        "strip"
+    ], 
+    "💢": [
+        "strip", 
+        "divje", 
+        "simbol jeze", 
+        "jezno"
+    ], 
+    "💣": [
+        "bomba", 
+        "strip"
+    ], 
+    "💤": [
+        "zzz", 
+        "spanec", 
+        "spanje", 
+        "strip"
+    ], 
+    "💥": [
+        "eksplozija", 
+        "trk", 
+        "strip", 
+        "bum"
+    ], 
+    "💦": [
+        "pljuskanje", 
+        "pot", 
+        "potne kapljice", 
+        "strip"
+    ], 
+    "💧": [
+        "mrzlo", 
+        "kapljica", 
+        "pot", 
+        "vreme", 
+        "strip", 
+        "kaplja"
+    ], 
+    "💨": [
+        "tek", 
+        "švigniti", 
+        "švigati", 
+        "strip"
+    ], 
+    "💩": [
+        "pošast", 
+        "iztrebki", 
+        "kakec", 
+        "obraz", 
+        "drekec", 
+        "strip", 
+        "kup kakca"
+    ], 
+    "💪": [
+        "biceps", 
+        "napeti bicepsi", 
+        "mišica", 
+        "strip", 
+        "telo", 
+        "napenjati"
+    ], 
+    "💫": [
+        "omotica", 
+        "omotično", 
+        "planeti", 
+        "zvezda", 
+        "strip"
+    ], 
+    "💬": [
+        "govor", 
+        "balon", 
+        "oblaček", 
+        "oblaček z govorom", 
+        "dialog", 
+        "strip"
+    ], 
+    "💭": [
+        "strip", 
+        "oblaček", 
+        "misel", 
+        "oblaček z mislimi", 
+        "balon"
+    ], 
+    "💮": [
+        "roža", 
+        "bela cvetlica"
+    ], 
+    "💯": [
+        "100", 
+        "sto", 
+        "sto točk"
+    ], 
+    "💰": [
+        "vreča denarja", 
+        "vreča", 
+        "denar", 
+        "dolar"
+    ], 
+    "💱": [
+        "valuta", 
+        "banka", 
+        "menjava valut", 
+        "denar", 
+        "menjava"
+    ], 
+    "💲": [
+        "valuta", 
+        "denar", 
+        "znak za dolar", 
+        "dolar"
+    ], 
+    "💳": [
+        "banka", 
+        "kreditna kartica", 
+        "kartica", 
+        "denar", 
+        "kreditno"
+    ], 
+    "💴": [
+        "bankovec za jen", 
+        "bankovec", 
+        "valuta", 
+        "banka", 
+        "denar", 
+        "jen", 
+        "apoen"
+    ], 
+    "💵": [
+        "bankovec", 
+        "valuta", 
+        "banka", 
+        "dolarski bankovec", 
+        "denar", 
+        "dolar", 
+        "apoen"
+    ], 
+    "💶": [
+        "evro", 
+        "evrski bankovec", 
+        "bankovec", 
+        "valuta", 
+        "banka", 
+        "denar", 
+        "apoen"
+    ], 
+    "💷": [
+        "funt", 
+        "bankovec", 
+        "bankovec za funt", 
+        "banka", 
+        "denar", 
+        "valuta", 
+        "apoen"
+    ], 
+    "💸": [
+        "bankovec", 
+        "valuta", 
+        "banka", 
+        "denar", 
+        "denar s krili", 
+        "krila", 
+        "leteti", 
+        "dolar", 
+        "apoen"
+    ], 
+    "💹": [
+        "trend", 
+        "valuta", 
+        "banka", 
+        "denar", 
+        "rasti", 
+        "rast", 
+        "grafikon rasti za jen", 
+        "trg", 
+        "navzgor", 
+        "grafikon", 
+        "jen", 
+        "graf"
+    ], 
+    "💺": [
+        "stol", 
+        "sedež"
+    ], 
+    "💻": [
+        "osebno", 
+        "windows", 
+        "prenosnik", 
+        "računalnik", 
+        "sistem"
+    ], 
+    "💼": [
+        "kovček", 
+        "aktovka"
+    ], 
+    "💽": [
+        "optično", 
+        "minidisk", 
+        "disk", 
+        "računalnik"
+    ], 
+    "💾": [
+        "disketa", 
+        "disk", 
+        "računalnik"
+    ], 
+    "💿": [
+        "optično", 
+        "dvd", 
+        "računalnik", 
+        "cd", 
+        "optični disk", 
+        "blu-ray", 
+        "disk"
+    ], 
+    "📀": [
+        "optično", 
+        "dvd", 
+        "računalnik", 
+        "cd", 
+        "blu-ray", 
+        "disk"
+    ], 
+    "📁": [
+        "spis", 
+        "mapa", 
+        "mapa za spise"
+    ], 
+    "📂": [
+        "spis", 
+        "mapa", 
+        "odprto", 
+        "odprta mapa za spise"
+    ], 
+    "📃": [
+        "zvita stran", 
+        "nagrbančiti se", 
+        "dokument", 
+        "stran"
+    ], 
+    "📄": [
+        "stran", 
+        "dokument", 
+        "list s prikazano popisano stranjo"
+    ], 
+    "📅": [
+        "koledar", 
+        "datum"
+    ], 
+    "📆": [
+        "koledar", 
+        "koledar z odstranljivimi listi"
+    ], 
+    "📇": [
+        "kartoteka", 
+        "kartica", 
+        "organizator vizitk"
+    ], 
+    "📈": [
+        "grafikon rasti", 
+        "trend", 
+        "rast", 
+        "navzgor", 
+        "grafikon", 
+        "graf"
+    ], 
+    "📉": [
+        "grafikon padca", 
+        "grafikon", 
+        "trend", 
+        "graf", 
+        "navzdol"
+    ], 
+    "📊": [
+        "črtno", 
+        "grafikon", 
+        "graf", 
+        "črtni grafikon"
+    ], 
+    "📋": [
+        "podložna mapa"
+    ], 
+    "📌": [
+        "risalni žebljiček"
+    ], 
+    "📍": [
+        "okrogli risalni žebljiček", 
+        "risalni žebljiček"
+    ], 
+    "📎": [
+        "sponka za papir"
+    ], 
+    "📏": [
+        "merilo", 
+        "ravnilo"
+    ], 
+    "📐": [
+        "merilo", 
+        "trikotnik", 
+        "nastaviti", 
+        "trikotno ravnilo"
+    ], 
+    "📑": [
+        "marker", 
+        "zaznamki na straneh", 
+        "zaznamek", 
+        "oznaka", 
+        "zavihki"
+    ], 
+    "📒": [
+        "zvezek", 
+        "zvezek s spiralno vezavo"
+    ], 
+    "📓": [
+        "zvezek"
+    ], 
+    "📔": [
+        "okrašeno", 
+        "zvezek", 
+        "platnica", 
+        "zvezek z okrasno platnico", 
+        "knjiga"
+    ], 
+    "📕": [
+        "zaprto", 
+        "zaprta knjiga", 
+        "knjiga"
+    ], 
+    "📖": [
+        "odprto", 
+        "knjiga", 
+        "odprta knjiga"
+    ], 
+    "📗": [
+        "zeleno", 
+        "zelena knjiga", 
+        "knjiga"
+    ], 
+    "📘": [
+        "modro", 
+        "modra knjiga", 
+        "knjiga"
+    ], 
+    "📙": [
+        "oranžno", 
+        "knjiga", 
+        "oranžna knjiga"
+    ], 
+    "📚": [
+        "knjige", 
+        "knjiga"
+    ], 
+    "📛": [
+        "ime", 
+        "značka za ime", 
+        "značka"
+    ], 
+    "📜": [
+        "zvitek", 
+        "papir"
+    ], 
+    "📝": [
+        "zapisek", 
+        "svinčnik"
+    ], 
+    "📞": [
+        "sprejemnik", 
+        "telefon", 
+        "telefonska slušalka"
+    ], 
+    "📟": [
+        "pozivnik"
+    ], 
+    "📠": [
+        "faks", 
+        "telefaks"
+    ], 
+    "📡": [
+        "satelitsko", 
+        "antena", 
+        "satelitska antena", 
+        "krožnik"
+    ], 
+    "📢": [
+        "glasnost", 
+        "javni zvočnik", 
+        "javna objava"
+    ], 
+    "📣": [
+        "skandiranje", 
+        "megafon"
+    ], 
+    "📤": [
+        "nabiralnik", 
+        "pismo", 
+        "pladenj za odhodno pošto", 
+        "pošta", 
+        "poslano", 
+        "odhodna pošta", 
+        "pladenj"
+    ], 
+    "📥": [
+        "nabiralnik", 
+        "pismo", 
+        "pošta", 
+        "dohodna pošta", 
+        "pladenj za dohodno pošto", 
+        "pladenj", 
+        "prejeti"
+    ], 
+    "📦": [
+        "nabiralnik", 
+        "paket"
+    ], 
+    "📧": [
+        "elektronska pošta", 
+        "e-pošta", 
+        "pismo", 
+        "pošta"
+    ], 
+    "📨": [
+        "dohodno", 
+        "pismo", 
+        "dohodna ovojnica", 
+        "elektronska pošta", 
+        "e-pošta", 
+        "prejeti", 
+        "pošta"
+    ], 
+    "📩": [
+        "pismo", 
+        "navzdol", 
+        "e-pošta", 
+        "poslano", 
+        "kuverta", 
+        "ovojnica s puščico", 
+        "elektronska pošta", 
+        "odhodno", 
+        "pošta", 
+        "puščica"
+    ], 
+    "📪": [
+        "zaprto", 
+        "zaprt poštni nabiralnik s spuščeno zastavico", 
+        "pošta", 
+        "poštni nabiralnik", 
+        "spuščeno"
+    ], 
+    "📫": [
+        "zaprt poštni nabiralnik z dvignjeno zastavico", 
+        "zaprto", 
+        "pošta", 
+        "poštni nabiralnik"
+    ], 
+    "📬": [
+        "pošta", 
+        "poštni nabiralnik", 
+        "odprto", 
+        "odprt poštni nabiralnik z dvignjeno zastavico"
+    ], 
+    "📭": [
+        "odprt poštni nabiralnik s spuščeno zastavico", 
+        "pošta", 
+        "poštni nabiralnik", 
+        "spuščeno", 
+        "odprto"
+    ], 
+    "📮": [
+        "pošta", 
+        "poštni nabiralnik"
+    ], 
+    "📯": [
+        "poštno", 
+        "rog", 
+        "poštni rog"
+    ], 
+    "📰": [
+        "časopis", 
+        "novice"
+    ], 
+    "📱": [
+        "mobilnik", 
+        "mobilni telefon", 
+        "telefon", 
+        "mobilno"
+    ], 
+    "📲": [
+        "sprejeti", 
+        "mobilni telefon s puščico", 
+        "mobilno", 
+        "klic", 
+        "telefon", 
+        "mobilnik", 
+        "puščica"
+    ], 
+    "📳": [
+        "način", 
+        "vibriranje", 
+        "mobilno", 
+        "telefon", 
+        "mobilnik", 
+        "način vibriranja"
+    ], 
+    "📴": [
+        "mobilnik", 
+        "telefon", 
+        "mobilni telefon izklopljen", 
+        "izklopljeno", 
+        "mobilno"
+    ], 
+    "📵": [
+        "mobilno", 
+        "prepovedano", 
+        "ne", 
+        "telefon", 
+        "mobilnik", 
+        "mobilni telefoni prepovedani", 
+        "ni dovoljeno"
+    ], 
+    "📶": [
+        "mobilno", 
+        "antena", 
+        "signal", 
+        "stolpec", 
+        "telefon", 
+        "mobilnik"
+    ], 
+    "📷": [
+        "fotoaparat", 
+        "video"
+    ], 
+    "📸": [
+        "fotoaparat", 
+        "fotoaparat z bliskavico", 
+        "bliskavica", 
+        "video"
+    ], 
+    "📹": [
+        "video", 
+        "videokamera"
+    ], 
+    "📺": [
+        "tv", 
+        "video", 
+        "televizija"
+    ], 
+    "📻": [
+        "glasba", 
+        "radio"
+    ], 
+    "📼": [
+        "videokaseta", 
+        "video", 
+        "vhs", 
+        "kaseta"
+    ], 
+    "📿": [
+        "koralde", 
+        "vera", 
+        "oblačila", 
+        "ogrlica", 
+        "rožni venec", 
+        "molitev"
+    ], 
+    "🔀": [
+        "gumb za naključno predvajanje", 
+        "prekrižano", 
+        "puščica"
+    ], 
+    "🔁": [
+        "ponavljanje", 
+        "gumb za vnovično predvajanje", 
+        "puščica", 
+        "smer urnega kazalca"
+    ], 
+    "🔂": [
+        "enkratno", 
+        "gumb za vnovično posamezno predvajanje", 
+        "puščica", 
+        "smer urnega kazalca"
+    ], 
+    "🔃": [
+        "vnovično nalaganje", 
+        "navpični puščici, ki se ukrivljata v smeri urinega kazalca", 
+        "puščica", 
+        "smer urinega kazalca"
+    ], 
+    "🔄": [
+        "nasprotna smer urinega kazalca", 
+        "nazaj", 
+        "puščica", 
+        "gumb s puščicama, ki se ukrivljata v obratni smeri urinega kazalca"
+    ], 
+    "🔅": [
+        "gumb za zatemnitev", 
+        "nizko", 
+        "svetlost", 
+        "zatemnitev"
+    ], 
+    "🔆": [
+        "svetlo", 
+        "gumb za svetlost", 
+        "svetlost"
+    ], 
+    "🔇": [
+        "glasnost", 
+        "zvočnik", 
+        "brez zvoka", 
+        "ugasnjen zvočnik", 
+        "tiho"
+    ], 
+    "🔈": [
+        "glasnost", 
+        "zvočnik pri nizki glasnosti"
+    ], 
+    "🔉": [
+        "glasnost", 
+        "nizko", 
+        "zvočnik", 
+        "val", 
+        "zvočnik pri zmerni glasnosti"
+    ], 
+    "🔊": [
+        "tri", 
+        "visoko", 
+        "zvočnik na glas", 
+        "glasno", 
+        "glasnost", 
+        "3", 
+        "zvočnik"
+    ], 
+    "🔋": [
+        "baterija"
+    ], 
+    "🔌": [
+        "električni vtikač", 
+        "vtikač", 
+        "elektrika", 
+        "električno"
+    ], 
+    "🔍": [
+        "steklo", 
+        "povečevalno steklo, usmerjeno v levo", 
+        "iskanje", 
+        "povečevalno", 
+        "orodje"
+    ], 
+    "🔎": [
+        "steklo", 
+        "iskanje", 
+        "povečevalno steklo, usmerjeno v desno", 
+        "povečevalno", 
+        "orodje"
+    ], 
+    "🔏": [
+        "konica", 
+        "ključavnica s peresom", 
+        "črnilo", 
+        "pero", 
+        "zasebnost", 
+        "ključavnica"
+    ], 
+    "🔐": [
+        "zaprta ključavnica s ključem", 
+        "ključavnica", 
+        "ključ", 
+        "zaprto", 
+        "varno"
+    ], 
+    "🔑": [
+        "ključavnica", 
+        "geslo", 
+        "ključ"
+    ], 
+    "🔒": [
+        "ključavnica", 
+        "zaklenjena ključavnica"
+    ], 
+    "🔓": [
+        "ključavnica", 
+        "odkleniti", 
+        "odprto", 
+        "odklenjena ključavnica"
+    ], 
+    "🔔": [
+        "zvonec"
+    ], 
+    "🔕": [
+        "molčeče", 
+        "prečrtan zvonec", 
+        "ne", 
+        "tiho", 
+        "prepovedano", 
+        "zvonec", 
+        "brez zvoka", 
+        "ni dovoljeno"
+    ], 
+    "🔖": [
+        "zaznamek", 
+        "oznaka"
+    ], 
+    "🔗": [
+        "člen"
+    ], 
+    "🔘": [
+        "izbirni", 
+        "gumb", 
+        "geometrično", 
+        "izbirni gumb"
+    ], 
+    "🔙": [
+        "puščica nazaj", 
+        "puščica", 
+        "nazaj"
+    ], 
+    "🔚": [
+        "puščica konec", 
+        "konec", 
+        "puščica"
+    ], 
+    "🔛": [
+        "vklop", 
+        "znak", 
+        "puščica", 
+        "puščica NAPREJ!"
+    ], 
+    "🔜": [
+        "kmalu", 
+        "puščica kmalu", 
+        "puščica"
+    ], 
+    "🔝": [
+        "puščica na vrh", 
+        "puščica", 
+        "navzgor", 
+        "zgoraj"
+    ], 
+    "🔞": [
+        "prepovedano za mlajše od 18 let", 
+        "omejitev starosti", 
+        "prepovedano", 
+        "18", 
+        "ne", 
+        "mladoletno", 
+        "osemnajst", 
+        "ni dovoljeno"
+    ], 
+    "🔟": [
+        "keycap: 10", 
+        "keycap"
+    ], 
+    "🔠": [
+        "črke", 
+        "velike črke", 
+        "vnos velikih črk latinice", 
+        "vnos", 
+        "latinica"
+    ], 
+    "🔡": [
+        "abcd", 
+        "črke", 
+        "male črke", 
+        "vnos malih črk latinice", 
+        "vnos", 
+        "latinica"
+    ], 
+    "🔢": [
+        "1234", 
+        "številke", 
+        "vnos številk", 
+        "vnos"
+    ], 
+    "🔣": [
+        "vnos simbolov", 
+        "vnos"
+    ], 
+    "🔤": [
+        "abc", 
+        "vnos črk latinice", 
+        "črke", 
+        "abeceda", 
+        "vnos", 
+        "latinica"
+    ], 
+    "🔥": [
+        "plamen", 
+        "ogenj", 
+        "orodje"
+    ], 
+    "🔦": [
+        "električno", 
+        "svetilka", 
+        "luč", 
+        "orodje"
+    ], 
+    "🔧": [
+        "ključ za matice", 
+        "orodje"
+    ], 
+    "🔨": [
+        "kladivo", 
+        "orodje"
+    ], 
+    "🔩": [
+        "matica in vijak", 
+        "matica", 
+        "vijak", 
+        "orodje"
+    ], 
+    "🔪": [
+        "kuhanje", 
+        "nož", 
+        "kuhinjski nož", 
+        "orodje", 
+        "hocho", 
+        "orožje"
+    ], 
+    "🔫": [
+        "revolver", 
+        "orožje", 
+        "pištola", 
+        "orodje"
+    ], 
+    "🔬": [
+        "mikroskop", 
+        "orodje"
+    ], 
+    "🔭": [
+        "teleskop", 
+        "orodje"
+    ], 
+    "🔮": [
+        "kristalno", 
+        "krogla", 
+        "kristalna krogla", 
+        "fantazija", 
+        "orodje", 
+        "prerokba", 
+        "pravljica"
+    ], 
+    "🔯": [
+        "sreča", 
+        "šestkraka zvezda s piko", 
+        "zvezda"
+    ], 
+    "🔰": [
+        "japonski simbol za začetnika", 
+        "začetnik", 
+        "list", 
+        "japonsko", 
+        "cik-cak", 
+        "zeleno", 
+        "rumeno", 
+        "orodje", 
+        "puščica"
+    ], 
+    "🔱": [
+        "sidro", 
+        "znamenje", 
+        "ladja", 
+        "trizob", 
+        "orodje", 
+        "trizobo znamenje"
+    ], 
+    "🔲": [
+        "gumb", 
+        "geometrično", 
+        "kvadrat", 
+        "gumb s črnim kvadratom"
+    ], 
+    "🔳": [
+        "obrobljeno", 
+        "gumb", 
+        "geometrično", 
+        "kvadrat", 
+        "gumb z belim kvadratom"
+    ], 
+    "🔴": [
+        "krog", 
+        "geometrično", 
+        "rdeče", 
+        "rdeč krog"
+    ], 
+    "🔵": [
+        "modro", 
+        "krog", 
+        "moder krog", 
+        "geometrično"
+    ], 
+    "🔶": [
+        "velik oranžni karo", 
+        "geometrično", 
+        "karo", 
+        "oranžno"
+    ], 
+    "🔷": [
+        "modro", 
+        "velik moder karo", 
+        "geometrično", 
+        "karo"
+    ], 
+    "🔸": [
+        "oranžno", 
+        "geometrično", 
+        "karo", 
+        "majhen oranžen karo"
+    ], 
+    "🔹": [
+        "modro", 
+        "majhen moder karo", 
+        "geometrično", 
+        "karo"
+    ], 
+    "🔺": [
+        "rdeči trikotnik gor", 
+        "geometrično", 
+        "rdeče"
+    ], 
+    "🔻": [
+        "geometrično", 
+        "rdeče", 
+        "rdeči trikotnik dol", 
+        "navzdol"
+    ], 
+    "🔼": [
+        "gumb", 
+        "gumb za gor", 
+        "rdeče", 
+        "puščica"
+    ], 
+    "🔽": [
+        "gumb", 
+        "gumb za dol", 
+        "rdeče", 
+        "puščica", 
+        "navzdol"
+    ], 
+    "🕋": [
+        "vera", 
+        "kaaba", 
+        "muslimansko", 
+        "islam"
+    ], 
+    "🕌": [
+        "vera", 
+        "mošeja", 
+        "muslimansko", 
+        "islam"
+    ], 
+    "🕍": [
+        "vera", 
+        "sinagoga", 
+        "tempelj", 
+        "jud", 
+        "judovsko"
+    ], 
+    "🕎": [
+        "vera", 
+        "svečnik", 
+        "menora", 
+        "namizni svečnik"
+    ], 
+    "🕐": [
+        "1.00", 
+        "00", 
+        "ura je ena", 
+        "ena", 
+        "1", 
+        "ura"
+    ], 
+    "🕑": [
+        "00", 
+        "ura", 
+        "dve", 
+        "ura je dve", 
+        "2", 
+        "2.00"
+    ], 
+    "🕒": [
+        "tri", 
+        "00", 
+        "ura", 
+        "3.00", 
+        "3", 
+        "ura je tri"
+    ], 
+    "🕓": [
+        "00", 
+        "ura", 
+        "4.00", 
+        "štiri", 
+        "4", 
+        "ura je štiri"
+    ], 
+    "🕔": [
+        "00", 
+        "ura je pet", 
+        "ura", 
+        "pet", 
+        "5", 
+        "5.00"
+    ], 
+    "🕕": [
+        "00", 
+        "ura", 
+        "6.00", 
+        "šest", 
+        "ura je šest", 
+        "6"
+    ], 
+    "🕖": [
+        "00", 
+        "ura", 
+        "7.00", 
+        "ura je sedem", 
+        "7", 
+        "sedem"
+    ], 
+    "🕗": [
+        "00", 
+        "ura je osem", 
+        "ura", 
+        "8.00", 
+        "osem", 
+        "8"
+    ], 
+    "🕘": [
+        "00", 
+        "ura", 
+        "9.00", 
+        "devet", 
+        "ura je devet", 
+        "9"
+    ], 
+    "🕙": [
+        "10", 
+        "00", 
+        "deset", 
+        "ura je deset", 
+        "10.00", 
+        "ura"
+    ], 
+    "🕚": [
+        "11", 
+        "00", 
+        "ura", 
+        "ura je enajst", 
+        "11.00", 
+        "enajst"
+    ], 
+    "🕛": [
+        "00", 
+        "12", 
+        "dvanajst", 
+        "poldne", 
+        "ura"
+    ], 
+    "🕜": [
+        "ena", 
+        "ura", 
+        "dve", 
+        "30", 
+        "pol dveh", 
+        "1", 
+        "pol", 
+        "1.30"
+    ], 
+    "🕝": [
+        "tri", 
+        "2.30", 
+        "dve", 
+        "30", 
+        "pol treh", 
+        "pol", 
+        "2", 
+        "ura"
+    ], 
+    "🕞": [
+        "tri", 
+        "ura", 
+        "pol štirih", 
+        "30", 
+        "pol", 
+        "štiri", 
+        "3", 
+        "3.30"
+    ], 
+    "🕟": [
+        "ura", 
+        "pet", 
+        "30", 
+        "štiri", 
+        "pol petih", 
+        "pol", 
+        "4", 
+        "4.30"
+    ], 
+    "🕠": [
+        "šest", 
+        "pol šestih", 
+        "ura", 
+        "pet", 
+        "30", 
+        "pol", 
+        "5.30", 
+        "5"
+    ], 
+    "🕡": [
+        "6", 
+        "šest", 
+        "ura", 
+        "30", 
+        "6.30", 
+        "pol", 
+        "sedem", 
+        "pol sedmih"
+    ], 
+    "🕢": [
+        "7.30", 
+        "ura", 
+        "30", 
+        "pol", 
+        "osem", 
+        "7", 
+        "sedem", 
+        "pol osmih"
+    ], 
+    "🕣": [
+        "pol devetih", 
+        "8.30", 
+        "ura", 
+        "30", 
+        "pol", 
+        "osem", 
+        "devet", 
+        "8"
+    ], 
+    "🕤": [
+        "9.30", 
+        "pol desetih", 
+        "deset", 
+        "30", 
+        "pol", 
+        "devet", 
+        "9", 
+        "ura"
+    ], 
+    "🕥": [
+        "10", 
+        "ura", 
+        "deset", 
+        "10.30", 
+        "30", 
+        "pol", 
+        "pol enajstih", 
+        "enajst"
+    ], 
+    "🕦": [
+        "11", 
+        "ura", 
+        "pol dvanajstih", 
+        "30", 
+        "pol", 
+        "dvanajst", 
+        "11.30", 
+        "enajst"
+    ], 
+    "🕧": [
+        "ena", 
+        "12", 
+        "ura", 
+        "12.30", 
+        "30", 
+        "pol", 
+        "dvanajst", 
+        "pol enih"
+    ], 
+    "🕺": [
+        "ples", 
+        "plesalec", 
+        "moški"
+    ], 
+    "🖕": [
+        "dlan", 
+        "kazati", 
+        "sredinec", 
+        "telo", 
+        "prst"
+    ], 
+    "🖖": [
+        "dlan", 
+        "prst", 
+        "spock", 
+        "vulkanski pozdrav", 
+        "vulkan", 
+        "telo"
+    ], 
+    "🖤": [
+        "črno srce", 
+        "zlobno", 
+        "srce", 
+        "hudobno", 
+        "črno", 
+        "podlo"
+    ], 
+    "🗻": [
+        "Fuji", 
+        "gora", 
+        "gora Fuji"
+    ], 
+    "🗼": [
+        "tokijski stolp", 
+        "stolp", 
+        "Tokio"
+    ], 
+    "🗽": [
+        "kip svobode", 
+        "kip", 
+        "svoboda"
+    ], 
+    "🗾": [
+        "Japonska", 
+        "zemljevid Japonske", 
+        "zemljevid"
+    ], 
+    "🗿": [
+        "kip", 
+        "moai", 
+        "obraz"
+    ], 
+    "😀": [
+        "režeči obraz", 
+        "obraz", 
+        "režanje"
+    ], 
+    "😁": [
+        "nasmeh", 
+        "obraz", 
+        "režanje", 
+        "režeči obraz s smejočimi očmi", 
+        "oči"
+    ], 
+    "😂": [
+        "solze", 
+        "obraz s solzami veselja", 
+        "obraz", 
+        "veselje", 
+        "smeh"
+    ], 
+    "😃": [
+        "smejoči obraz z odprtimi usti", 
+        "nasmeh", 
+        "obraz", 
+        "usta", 
+        "odprto"
+    ], 
+    "😄": [
+        "obraz", 
+        "odprto", 
+        "oči", 
+        "nasmeh", 
+        "usta", 
+        "smejoči obraz z odprtimi usti in smejočimi očmi"
+    ], 
+    "😅": [
+        "mrzlo", 
+        "pot", 
+        "obraz", 
+        "odprto", 
+        "nasmeh", 
+        "smejoči obraz z odprtimi usti in mrzlim potom"
+    ], 
+    "😆": [
+        "zadovoljno", 
+        "smejoči obraz z odprtimi usti in trdno zaprtimi očmi", 
+        "obraz", 
+        "odprto", 
+        "nasmeh", 
+        "usta"
+    ], 
+    "😇": [
+        "nedolžno", 
+        "avra", 
+        "smejoči obraz s svetniškim sijem", 
+        "angel", 
+        "obraz", 
+        "fantazija", 
+        "nasmeh", 
+        "pravljica"
+    ], 
+    "😈": [
+        "rogovi", 
+        "obraz", 
+        "fantazija", 
+        "nasmeh", 
+        "smejoči obraz z rogovi", 
+        "pravljica"
+    ], 
+    "😉": [
+        "pomežik", 
+        "obraz s pomežikom", 
+        "obraz"
+    ], 
+    "😊": [
+        "zardevanje", 
+        "nasmeh", 
+        "obraz", 
+        "smejoči obraz s smejočimi očmi", 
+        "oči"
+    ], 
+    "😋": [
+        "slastno", 
+        "njam", 
+        "obraz", 
+        "obraz, ki z užitkom pomalica okusno hrano", 
+        "nasmeh", 
+        "okušanje"
+    ], 
+    "😌": [
+        "olajšano", 
+        "obraz", 
+        "olajšan obraz"
+    ], 
+    "😍": [
+        "srce", 
+        "smejoči obraz z očmi v obliki srčka", 
+        "obraz", 
+        "oči", 
+        "nasmeh", 
+        "ljubezen"
+    ], 
+    "😎": [
+        "sončna očala", 
+        "očala", 
+        "obraz", 
+        "oči", 
+        "svetlo", 
+        "nasmeh", 
+        "sonce", 
+        "vreme", 
+        "frajersko", 
+        "smejoči obraz s sončnimi očali"
+    ], 
+    "😏": [
+        "obraz", 
+        "obraz s privoščljivim nasmeškom", 
+        "privoščljiv nasmešek"
+    ], 
+    "😐": [
+        "nevtralni obraz", 
+        "nevtralno", 
+        "obraz", 
+        "mrtvo hladno"
+    ], 
+    "😑": [
+        "neprizadeto", 
+        "brezizrazno", 
+        "brezizrazni obraz", 
+        "prazno", 
+        "obraz"
+    ], 
+    "😒": [
+        "nenaklonjeno", 
+        "nezadovoljno", 
+        "obraz", 
+        "obraz s hladnim nasmeškom"
+    ], 
+    "😓": [
+        "pot", 
+        "mrzlo", 
+        "obraz z mrzlim potom", 
+        "obraz"
+    ], 
+    "😔": [
+        "brezvoljen obraz", 
+        "obraz", 
+        "pobito", 
+        "brezvoljno"
+    ], 
+    "😕": [
+        "zmeden obraz", 
+        "obraz", 
+        "zmedeno"
+    ], 
+    "😖": [
+        "zbegan obraz", 
+        "obraz", 
+        "zbegano"
+    ], 
+    "😗": [
+        "obraz, ki poljublja", 
+        "obraz", 
+        "poljub"
+    ], 
+    "😘": [
+        "obraz, ki pošlje ljubčka", 
+        "obraz", 
+        "poljub", 
+        "srce"
+    ], 
+    "😙": [
+        "nasmeh", 
+        "obraz", 
+        "obraz s smejočimi očmi, ki poljublja", 
+        "poljub", 
+        "oči"
+    ], 
+    "😚": [
+        "zaprto", 
+        "obraz z zaprtimi očmi, ki poljublja", 
+        "obraz", 
+        "poljub", 
+        "oči"
+    ], 
+    "😛": [
+        "obraz z molečim jezikom", 
+        "obraz", 
+        "jezik"
+    ], 
+    "😜": [
+        "šala", 
+        "obraz z molečim jezikom in pomežikom", 
+        "mežik", 
+        "obraz", 
+        "oči", 
+        "jezik"
+    ], 
+    "😝": [
+        "okus", 
+        "obraz z molečim jezikom in trdno zaprtimi očmi", 
+        "obraz", 
+        "oči", 
+        "jezik", 
+        "grozno"
+    ], 
+    "😞": [
+        "razočaran obraz", 
+        "obraz", 
+        "razočarano"
+    ], 
+    "😟": [
+        "obraz", 
+        "zaskrbljen obraz", 
+        "zaskrbljeno"
+    ], 
+    "😠": [
+        "besno", 
+        "jezen obraz", 
+        "obraz", 
+        "jezno"
+    ], 
+    "😡": [
+        "jezno", 
+        "besno", 
+        "obraz", 
+        "rdeče", 
+        "gnev", 
+        "obraz, ki kuha mulo", 
+        "kujanje"
+    ], 
+    "😢": [
+        "žalostno", 
+        "jokajoči obraz", 
+        "solza", 
+        "jokanje", 
+        "obraz"
+    ], 
+    "😣": [
+        "obraz", 
+        "vztrajen obraz", 
+        "vztrajanje"
+    ], 
+    "😤": [
+        "zmaga", 
+        "obraz", 
+        "zmagoslavje", 
+        "obraz s paro skozi nos"
+    ], 
+    "😥": [
+        "fiju", 
+        "razočaran, a olajšan obraz", 
+        "obraz", 
+        "razočarano", 
+        "olajšano"
+    ], 
+    "😦": [
+        "namrščen obraz z odprtimi usti", 
+        "namrščenost", 
+        "usta", 
+        "odprto", 
+        "obraz"
+    ], 
+    "😧": [
+        "trpeče", 
+        "obraz", 
+        "trpeč obraz"
+    ], 
+    "😨": [
+        "strah", 
+        "preplašeno", 
+        "obraz", 
+        "bojazljiv obraz", 
+        "prestrašeno"
+    ], 
+    "😩": [
+        "izčrpan obraz", 
+        "utrujeno", 
+        "izčrpano", 
+        "obraz"
+    ], 
+    "😪": [
+        "obraz", 
+        "spanje", 
+        "zaspan obraz"
+    ], 
+    "😫": [
+        "obraz", 
+        "utrujen obraz", 
+        "utrujeno"
+    ], 
+    "😬": [
+        "grimasa", 
+        "obraz", 
+        "spačen obraz"
+    ], 
+    "😭": [
+        "žalostno", 
+        "obraz", 
+        "jokanje", 
+        "solze", 
+        "ihtenje", 
+        "cmerajoči obraz"
+    ], 
+    "😮": [
+        "obraz", 
+        "obraz z odprtimi usti", 
+        "usta", 
+        "odprto", 
+        "sočutje"
+    ], 
+    "😯": [
+        "osuplo", 
+        "obraz", 
+        "tiho", 
+        "osupljen obraz", 
+        "presenečeno"
+    ], 
+    "😰": [
+        "pot", 
+        "obraz", 
+        "hladno", 
+        "odprto", 
+        "naglo", 
+        "obraz z odprtimi usti in mrzlim potom", 
+        "usta", 
+        "modro"
+    ], 
+    "😱": [
+        "prestrašeno", 
+        "obraz", 
+        "munch", 
+        "obraz, ki kriči od strahu", 
+        "strah", 
+        "preplašeno", 
+        "krik"
+    ], 
+    "😲": [
+        "obraz", 
+        "začuden obraz", 
+        "presenečeno", 
+        "začudeno", 
+        "frapirano", 
+        "popolnoma"
+    ], 
+    "😳": [
+        "zmedeno", 
+        "zardelo", 
+        "obraz", 
+        "zardeli obraz"
+    ], 
+    "😴": [
+        "obraz", 
+        "spanje", 
+        "speči obraz", 
+        "zzz"
+    ], 
+    "😵": [
+        "obraz", 
+        "omotično", 
+        "omotičen obraz"
+    ], 
+    "😶": [
+        "usta", 
+        "obraz", 
+        "molčeče", 
+        "tiho", 
+        "obraz brez ust"
+    ], 
+    "😷": [
+        "obraz", 
+        "prehlad", 
+        "bolno", 
+        "zdravnik", 
+        "obraz z medicinsko masko", 
+        "zdravilo", 
+        "maska"
+    ], 
+    "😸": [
+        "obraz", 
+        "oči", 
+        "nasmeh", 
+        "režeči mačji obraz s smejočimi očmi", 
+        "mačka", 
+        "režanje"
+    ], 
+    "😹": [
+        "solze", 
+        "veselje", 
+        "obraz", 
+        "mačji obraz s solzami sreče", 
+        "mačka"
+    ], 
+    "😺": [
+        "režeči mačji obraz", 
+        "obraz", 
+        "odprto", 
+        "nasmeh", 
+        "mačka", 
+        "usta"
+    ], 
+    "😻": [
+        "smejoči mačji obraz z očmi v obliki srčka", 
+        "srce", 
+        "obraz", 
+        "oči", 
+        "nasmeh", 
+        "mačka", 
+        "ljubezen"
+    ], 
+    "😼": [
+        "porogljivo", 
+        "obraz", 
+        "nasmeh", 
+        "ironično", 
+        "mačji obraz s prifrknjenim nasmeškom", 
+        "mačka"
+    ], 
+    "😽": [
+        "mačji obraz z zaprtimi očmi, ki poljublja", 
+        "obraz", 
+        "mačka", 
+        "poljub", 
+        "oči"
+    ], 
+    "😾": [
+        "mačji obraz, ki kuha mulo", 
+        "obraz", 
+        "mačka", 
+        "kujanje"
+    ], 
+    "😿": [
+        "žalostno", 
+        "jokajoči mačji obraz", 
+        "obraz", 
+        "solza", 
+        "mačka", 
+        "jokanje"
+    ], 
+    "🙀": [
+        "presenečeno", 
+        "obraz", 
+        "mačka", 
+        "presenečen mačji obraz", 
+        "naveličano"
+    ], 
+    "🙁": [
+        "obraz", 
+        "nekoliko namrščen obraz", 
+        "mrščenje"
+    ], 
+    "🙂": [
+        "nasmeh", 
+        "obraz", 
+        "rahlo smejoči obraz"
+    ], 
+    "🙃": [
+        "narobe obrnjeno", 
+        "obraz", 
+        "na glavo obrnjen obraz"
+    ], 
+    "🙄": [
+        "obraz z zavijajočimi očmi", 
+        "obraz", 
+        "zavijanje", 
+        "oči"
+    ], 
+    "🙅": [
+        "roka", 
+        "prepovedano", 
+        "ne", 
+        "gesta", 
+        "ni dovoljeno", 
+        "oseba, ki kaže NE"
+    ], 
+    "🙆": [
+        "gesta", 
+        "oseba, ki kaže V REDU", 
+        "roka", 
+        "v redu"
+    ], 
+    "🙇": [
+        "oprosti", 
+        "gesta", 
+        "opravičilo", 
+        "priklon", 
+        "oseba, ki se prikloni"
+    ], 
+    "🙈": [
+        "opica, ki ne vidi ničesar", 
+        "zlobno", 
+        "prepovedano", 
+        "obraz", 
+        "ne", 
+        "opica", 
+        "videti", 
+        "gesta"
+    ], 
+    "🙉": [
+        "zlobno", 
+        "prepovedano", 
+        "obraz", 
+        "ne", 
+        "opica", 
+        "slišati", 
+        "gesta", 
+        "opica, ki ne sliši ničesar"
+    ], 
+    "🙊": [
+        "govoriti", 
+        "zlobno", 
+        "prepovedano", 
+        "obraz", 
+        "ne", 
+        "opica", 
+        "gesta", 
+        "opica, ki ničesar ne govori"
+    ], 
+    "🙋": [
+        "vesela oseba, ki dvigne roko", 
+        "gesta", 
+        "dvignjeno", 
+        "roka", 
+        "veselo"
+    ], 
+    "🙌": [
+        "roka", 
+        "slavje", 
+        "oseba, ki dvigne roke", 
+        "gesta", 
+        "dvignjeno", 
+        "hura", 
+        "telo"
+    ], 
+    "🙍": [
+        "gesta", 
+        "oseba, ki se mršči", 
+        "mrščenje"
+    ], 
+    "🙎": [
+        "gesta", 
+        "oseba, ki kuha mulo", 
+        "kujanje"
+    ], 
+    "🙏": [
+        "hvala", 
+        "staknjeni dlani", 
+        "roka", 
+        "moliti", 
+        "gesta", 
+        "predklon", 
+        "prosim", 
+        "prositi", 
+        "sklenjeno", 
+        "telo"
+    ], 
+    "🚀": [
+        "vozilo", 
+        "vesolje", 
+        "raketa"
+    ], 
+    "🚁": [
+        "helikopter", 
+        "vozilo"
+    ], 
+    "🚂": [
+        "lokomotiva", 
+        "para", 
+        "vozilo", 
+        "vlak", 
+        "železnica", 
+        "stroj"
+    ], 
+    "🚃": [
+        "železniški vagon", 
+        "avtomobil", 
+        "tramvaj", 
+        "električno", 
+        "vozilo", 
+        "vlak", 
+        "železnica", 
+        "trolejbus"
+    ], 
+    "🚄": [
+        "hitrost", 
+        "vozilo", 
+        "vlak", 
+        "shinkansen", 
+        "hitri vlak", 
+        "železnica"
+    ], 
+    "🚅": [
+        "hitrost", 
+        "hitri vlak s koničastim nosom", 
+        "vozilo", 
+        "vlak", 
+        "koničast nos", 
+        "shinkansen", 
+        "železnica"
+    ], 
+    "🚆": [
+        "železnica", 
+        "vozilo", 
+        "vlak"
+    ], 
+    "🚇": [
+        "vozilo", 
+        "podzemna železnica", 
+        "podzemni vlak"
+    ], 
+    "🚈": [
+        "železnica", 
+        "vozilo", 
+        "ozkotirna železnica"
+    ], 
+    "🚉": [
+        "železnica", 
+        "vozilo", 
+        "vlak", 
+        "postaja"
+    ], 
+    "🚊": [
+        "tramvaj", 
+        "vozilo", 
+        "trolejbus"
+    ], 
+    "🚋": [
+        "tramvaj", 
+        "vagon tramvaja", 
+        "avto", 
+        "vozilo", 
+        "trolejbus"
+    ], 
+    "🚌": [
+        "vozilo", 
+        "avtobus"
+    ], 
+    "🚍": [
+        "vozilo", 
+        "avtobus", 
+        "prihajajoči avtobus", 
+        "prihajajoče"
+    ], 
+    "🚎": [
+        "tramvaj", 
+        "vozilo", 
+        "avtobus", 
+        "trolejbus"
+    ], 
+    "🚏": [
+        "avtobusno postajališče", 
+        "postajališče", 
+        "avtobus", 
+        "avtobusna postaja"
+    ], 
+    "🚐": [
+        "vozilo", 
+        "minibus", 
+        "avtobus"
+    ], 
+    "🚑": [
+        "vozilo", 
+        "reševalno vozilo"
+    ], 
+    "🚒": [
+        "gasilsko", 
+        "avto", 
+        "vozilo", 
+        "požar", 
+        "gasilsko vozilo"
+    ], 
+    "🚓": [
+        "policija", 
+        "avto", 
+        "vozilo", 
+        "patruljno", 
+        "policijsko vozilo"
+    ], 
+    "🚔": [
+        "policija", 
+        "avto", 
+        "vozilo", 
+        "prihajajoče policijsko vozilo", 
+        "prihajajoče"
+    ], 
+    "🚕": [
+        "taksi", 
+        "vozilo"
+    ], 
+    "🚖": [
+        "prihajajoči taksi", 
+        "taksi", 
+        "vozilo", 
+        "prihajajoče"
+    ], 
+    "🚗": [
+        "avto", 
+        "vozilo", 
+        "avtomobil"
+    ], 
+    "🚘": [
+        "avto", 
+        "vozilo", 
+        "avtomobil", 
+        "prihajajoče", 
+        "prihajajoči avtomobil"
+    ], 
+    "🚙": [
+        "vozilo", 
+        "cestni terenec", 
+        "prostočasno"
+    ], 
+    "🚚": [
+        "dostavno", 
+        "vozilo", 
+        "dostavno vozilo", 
+        "poltovornjak"
+    ], 
+    "🚛": [
+        "tovornjak s prikolico", 
+        "vozilo", 
+        "polpriklopnik", 
+        "tovornjak", 
+        "kamion"
+    ], 
+    "🚜": [
+        "vozilo", 
+        "traktor"
+    ], 
+    "🚝": [
+        "enotirna železnica", 
+        "vozilo"
+    ], 
+    "🚞": [
+        "gorska železnica", 
+        "gora", 
+        "avto", 
+        "vozilo", 
+        "železnica"
+    ], 
+    "🚟": [
+        "železnica", 
+        "vozilo", 
+        "viseče", 
+        "viseča železnica"
+    ], 
+    "🚠": [
+        "gondola", 
+        "nihalka", 
+        "vozilo", 
+        "jeklena vrv", 
+        "gora"
+    ], 
+    "🚡": [
+        "jeklena vrv", 
+        "vagon", 
+        "zračno", 
+        "tramvaj", 
+        "gondola", 
+        "vozilo", 
+        "žičnica"
+    ], 
+    "🚢": [
+        "vozilo", 
+        "ladja"
+    ], 
+    "🚣": [
+        "vozilo", 
+        "čoln", 
+        "oseba v čolnu na vesla"
+    ], 
+    "🚤": [
+        "vozilo", 
+        "gliser", 
+        "čoln"
+    ], 
+    "🚥": [
+        "semafor", 
+        "vodoravni semafor", 
+        "luč", 
+        "promet"
+    ], 
+    "🚦": [
+        "semafor", 
+        "luč", 
+        "navpični semafor", 
+        "promet"
+    ], 
+    "🚧": [
+        "prepreka", 
+        "zaprto zaradi gradnje"
+    ], 
+    "🚨": [
+        "policija", 
+        "avto", 
+        "vozilo", 
+        "luč", 
+        "vrteče", 
+        "policijska luč", 
+        "rotacijska luč"
+    ], 
+    "🚩": [
+        "trikotna zastava", 
+        "zastavica"
+    ], 
+    "🚪": [
+        "vrata"
+    ], 
+    "🚫": [
+        "prepovedano", 
+        "vstop", 
+        "ne"
+    ], 
+    "🚬": [
+        "cigareta", 
+        "cigara", 
+        "kajenje"
+    ], 
+    "🚭": [
+        "prepovedano", 
+        "ni dovoljeno", 
+        "prepovedano kajenje", 
+        "ne", 
+        "kajenje"
+    ], 
+    "🚮": [
+        "koš", 
+        "smeti", 
+        "znak za smeti v košu"
+    ], 
+    "🚯": [
+        "prepovedano", 
+        "ne", 
+        "smeti", 
+        "prepovedano odlaganje smeti", 
+        "odlagati", 
+        "ni dovoljeno"
+    ], 
+    "🚰": [
+        "piti", 
+        "pitna voda", 
+        "pitno", 
+        "voda"
+    ], 
+    "🚱": [
+        "voda", 
+        "ne", 
+        "piti", 
+        "pitno", 
+        "prepovedati", 
+        "voda ni pitna", 
+        "ni dovoljeno"
+    ], 
+    "🚲": [
+        "kolo", 
+        "vozilo"
+    ], 
+    "🚳": [
+        "prepovedano za kolesa", 
+        "prepovedano", 
+        "vozilo", 
+        "ne", 
+        "kolo", 
+        "ni dovoljeno"
+    ], 
+    "🚴": [
+        "kolo", 
+        "oseba na kolesu"
+    ], 
+    "🚵": [
+        "gora", 
+        "gorski kolesar", 
+        "kolesar", 
+        "kolo"
+    ], 
+    "🚶": [
+        "hoja", 
+        "pohod", 
+        "sprehod", 
+        "pešec"
+    ], 
+    "🚷": [
+        "prepovedano", 
+        "prepovedano za pešce", 
+        "ne", 
+        "pešec", 
+        "ni dovoljeno"
+    ], 
+    "🚸": [
+        "otroci prečkajo cesto", 
+        "otrok", 
+        "pešec", 
+        "prehod", 
+        "promet"
+    ], 
+    "🚹": [
+        "stranišče", 
+        "moški", 
+        "stranišče za moške", 
+        "wc"
+    ], 
+    "🚺": [
+        "wc", 
+        "stranišče za ženske", 
+        "stranišče", 
+        "ženska"
+    ], 
+    "🚻": [
+        "wc", 
+        "javno stranišče"
+    ], 
+    "🚼": [
+        "previjanje", 
+        "simbol dojenčka", 
+        "dojenček"
+    ], 
+    "🚽": [
+        "straniščna školjka", 
+        "stranišče"
+    ], 
+    "🚾": [
+        "voda", 
+        "stranišče", 
+        "wc"
+    ], 
+    "🚿": [
+        "voda", 
+        "tuš"
+    ], 
+    "🛀": [
+        "kopel", 
+        "oseba, ki se kopa", 
+        "kad"
+    ], 
+    "🛁": [
+        "banja", 
+        "kad"
+    ], 
+    "🛂": [
+        "potni list", 
+        "nadzor", 
+        "pregled dokumentov"
+    ], 
+    "🛃": [
+        "carinik", 
+        "carina"
+    ], 
+    "🛄": [
+        "prtljaga", 
+        "prevzem", 
+        "prevzem prtljage"
+    ], 
+    "🛅": [
+        "omarica", 
+        "kovčki", 
+        "prtljaga v garderobi", 
+        "prtljaga"
+    ], 
+    "🛌": [
+        "hotel", 
+        "oseba v postelji", 
+        "spanje"
+    ], 
+    "🛐": [
+        "vera", 
+        "čaščenje", 
+        "božji hram"
+    ], 
+    "🛑": [
+        "znak", 
+        "stop", 
+        "osemkotnik", 
+        "znak stop"
+    ], 
+    "🛒": [
+        "nakupovalni voziček", 
+        "voziček", 
+        "košarica", 
+        "nakupovanje"
+    ], 
+    "🛫": [
+        "odhod", 
+        "letalo", 
+        "vozilo", 
+        "odhod letala", 
+        "prijava", 
+        "odhodi"
+    ], 
+    "🛬": [
+        "prihod", 
+        "letalo", 
+        "vozilo", 
+        "prihodi", 
+        "prihod letala", 
+        "pristanek"
+    ], 
+    "🛴": [
+        "skiro", 
+        "poganjanje"
+    ], 
+    "🛵": [
+        "skuter", 
+        "motor"
+    ], 
+    "🛶": [
+        "čoln", 
+        "kanu"
+    ], 
+    "🛷": [
+        "sanke"
+    ], 
+    "🛸": [
+        "leteči krožnik"
+    ], 
+    "🤐": [
+        "obraz", 
+        "zadrga", 
+        "usta", 
+        "zaprto", 
+        "zapečateno", 
+        "obraz z usti v obliki zadrge"
+    ], 
+    "🤑": [
+        "obraz z denarjem namesto ust", 
+        "obraz", 
+        "denar", 
+        "usta"
+    ], 
+    "🤒": [
+        "slabotno", 
+        "obraz s termometrom", 
+        "bolno", 
+        "termometer", 
+        "obraz"
+    ], 
+    "🤓": [
+        "piflar", 
+        "obraz", 
+        "frik", 
+        "piflarski obraz", 
+        "znalec"
+    ], 
+    "🤔": [
+        "razmišljujoči obraz", 
+        "razmišljanje", 
+        "obraz"
+    ], 
+    "🤕": [
+        "poškodovano", 
+        "obraz", 
+        "obraz, obvezan s povojem", 
+        "povoj", 
+        "poškodba"
+    ], 
+    "🤖": [
+        "obraz", 
+        "pošast", 
+        "robot", 
+        "obraz robota"
+    ], 
+    "🤗": [
+        "objem", 
+        "obraz", 
+        "obraz, ki objema", 
+        "objemanje"
+    ], 
+    "🤘": [
+        "dlan", 
+        "rogovi", 
+        "rock za vedno", 
+        "prst", 
+        "znak za rogove", 
+        "telo"
+    ], 
+    "🤙": [
+        "pokliči me", 
+        "roka", 
+        "pokliči"
+    ], 
+    "🤚": [
+        "dlan", 
+        "hrbtna stran", 
+        "dvignjena", 
+        "dvignjena hrbtna stran dlani"
+    ], 
+    "🤛": [
+        "pest", 
+        "levo", 
+        "pest, obrnjena levo"
+    ], 
+    "🤜": [
+        "desno", 
+        "pest", 
+        "pest, obrnjena desno"
+    ], 
+    "🤝": [
+        "sporazum", 
+        "rokovanje", 
+        "roka", 
+        "srečanje"
+    ], 
+    "🤞": [
+        "sreča", 
+        "roka", 
+        "prsti", 
+        "prekrižani prsti"
+    ], 
+    "🤟": [
+        "znak za ljubim te"
+    ], 
+    "🤠": [
+        "kavboj", 
+        "klobuk", 
+        "obraz s kavbojskim klobukom"
+    ], 
+    "🤡": [
+        "klovnovski obraz", 
+        "klovn", 
+        "klovnesa"
+    ], 
+    "🤢": [
+        "slabost", 
+        "bruhanje", 
+        "obraz, ki se počuti slabo"
+    ], 
+    "🤣": [
+        "tla", 
+        "krohotanje", 
+        "valjanje po tleh", 
+        "smeh"
+    ], 
+    "🤤": [
+        "obraz", 
+        "obraz, ki se slini", 
+        "slinjenje"
+    ], 
+    "🤥": [
+        "lažnivi obraz", 
+        "lažnivec", 
+        "laž", 
+        "ostržek"
+    ], 
+    "🤦": [
+        "oseba z dlanjo na obrazu", 
+        "dvom", 
+        "nejevera", 
+        "skomigniti", 
+        "skepsa"
+    ], 
+    "🤧": [
+        "obraz, ki kiha", 
+        "na zdravje", 
+        "kihanje"
+    ], 
+    "🤨": [
+        "obraz z dvignjenimi obrvmi"
+    ], 
+    "🤩": [
+        "obraz z očmi v obliki zvezdic"
+    ], 
+    "🤪": [
+        "velik", 
+        "nor obraz", 
+        "oko", 
+        "majhen"
+    ], 
+    "🤫": [
+        "obraz s prstom čez usta"
+    ], 
+    "🤬": [
+        "obraz, ki kolne"
+    ], 
+    "🤭": [
+        "obraz z roko čez usta"
+    ], 
+    "🤮": [
+        "obraz, ki bruha"
+    ], 
+    "🤯": [
+        "eksplozija v glavi"
+    ], 
+    "🤰": [
+        "ženska", 
+        "nosečnica"
+    ], 
+    "🤱": [
+        "dojenje"
+    ], 
+    "🤲": [
+        "dvignjeni odprti dlani"
+    ], 
+    "🤳": [
+        "fotoaparat", 
+        "kamera", 
+        "mobilni telefon", 
+        "selfi"
+    ], 
+    "🤴": [
+        "princ"
+    ], 
+    "🤵": [
+        "smoking", 
+        "moški v smokingu", 
+        "moški", 
+        "ženin"
+    ], 
+    "🤶": [
+        "gospa", 
+        "gospa Božiček", 
+        "Božič"
+    ], 
+    "🤷": [
+        "brezbrižnost", 
+        "skomigniti", 
+        "oseba, ki skomiga"
+    ], 
+    "🤸": [
+        "kolo", 
+        "šport", 
+        "gimnastika", 
+        "oseba izvaja kolo"
+    ], 
+    "🤹": [
+        "ravnotežje", 
+        "spretnost", 
+        "žongliranje", 
+        "večopravilnost"
+    ], 
+    "🤺": [
+        "šport", 
+        "sabljanje", 
+        "sabljač", 
+        "meč"
+    ], 
+    "🤼": [
+        "šport", 
+        "rokoborba"
+    ], 
+    "🤽": [
+        "šport", 
+        "bazen", 
+        "žoga", 
+        "vaterpolo"
+    ], 
+    "🤾": [
+        "šport", 
+        "rokomet", 
+        "žoga"
+    ], 
+    "🥀": [
+        "roža", 
+        "ovenela", 
+        "ovenela roža"
+    ], 
+    "🥁": [
+        "glasba", 
+        "boben", 
+        "tolkalo"
+    ], 
+    "🥂": [
+        "nazdravljanje", 
+        "trkanje", 
+        "praznovanje", 
+        "pijača"
+    ], 
+    "🥃": [
+        "žgane pijače", 
+        "merica", 
+        "kozarec žgane pijače", 
+        "viski", 
+        "kozarec"
+    ], 
+    "🥄": [
+        "pribor", 
+        "žlica"
+    ], 
+    "🥅": [
+        "gol", 
+        "mreža", 
+        "šport"
+    ], 
+    "🥇": [
+        "zlato", 
+        "prvo mesto", 
+        "medalja", 
+        "zlata medalja"
+    ], 
+    "🥈": [
+        "drugo mesto", 
+        "srebro", 
+        "srebrna medalja", 
+        "medalja"
+    ], 
+    "🥉": [
+        "bronasta medalja", 
+        "tretje mesto", 
+        "bron", 
+        "medalja"
+    ], 
+    "🥊": [
+        "šport", 
+        "rokavica", 
+        "boksarska rokavica", 
+        "boks"
+    ], 
+    "🥋": [
+        "taekwondo", 
+        "judo", 
+        "šport", 
+        "karate", 
+        "uniforma", 
+        "kimono za borilne športe", 
+        "borilne veščine"
+    ], 
+    "🥌": [
+        "curling"
+    ], 
+    "🥐": [
+        "pecivo", 
+        "hrana", 
+        "rogljič", 
+        "francoski"
+    ], 
+    "🥑": [
+        "sadje", 
+        "avokado", 
+        "hrana"
+    ], 
+    "🥒": [
+        "zelenjava", 
+        "kumara", 
+        "hrana"
+    ], 
+    "🥓": [
+        "meso", 
+        "hrana", 
+        "slanina"
+    ], 
+    "🥔": [
+        "zelenjava", 
+        "hrana", 
+        "krompir"
+    ], 
+    "🥕": [
+        "korenje", 
+        "hrana", 
+        "zelenjava"
+    ], 
+    "🥖": [
+        "bageta", 
+        "kruh", 
+        "hrana", 
+        "francoska"
+    ], 
+    "🥗": [
+        "solata", 
+        "zelena solata", 
+        "hrana", 
+        "zelena"
+    ], 
+    "🥘": [
+        "paella", 
+        "kozica s hrano", 
+        "ponev", 
+        "hrana", 
+        "kozica"
+    ], 
+    "🥙": [
+        "falafel", 
+        "food", 
+        "nadev", 
+        "kebab", 
+        "gyros"
+    ], 
+    "🥚": [
+        "jajce", 
+        "hrana", 
+        "jajca"
+    ], 
+    "🥛": [
+        "kozarec mleka", 
+        "pijača", 
+        "kozarec", 
+        "mleko"
+    ], 
+    "🥜": [
+        "arašid", 
+        "zelenjava", 
+        "arašidi", 
+        "hrana", 
+        "oreški"
+    ], 
+    "🥝": [
+        "sadje", 
+        "hrana", 
+        "kivi"
+    ], 
+    "🥞": [
+        "palačinke", 
+        "hrana"
+    ], 
+    "🥟": [
+        "cmok"
+    ], 
+    "🥠": [
+        "piškotek sreče"
+    ], 
+    "🥡": [
+        "embalaža za hrano", 
+        "kartonska embalaža za hrano"
+    ], 
+    "🥢": [
+        "jedilne paličice"
+    ], 
+    "🥣": [
+        "skodelica z žlico"
+    ], 
+    "🥤": [
+        "kozarec s slamico"
+    ], 
+    "🥥": [
+        "kokos"
+    ], 
+    "🥦": [
+        "brokoli"
+    ], 
+    "🥧": [
+        "pita"
+    ], 
+    "🥨": [
+        "presta"
+    ], 
+    "🥩": [
+        "kos mesa"
+    ], 
+    "🥪": [
+        "sendvič"
+    ], 
+    "🥫": [
+        "konzervirana hrana"
+    ], 
+    "🦀": [
+        "zodiak", 
+        "rak", 
+        "rakovica"
+    ], 
+    "🦁": [
+        "zodiak", 
+        "obraz", 
+        "lev", 
+        "levji obraz"
+    ], 
+    "🦂": [
+        "škorpijon", 
+        "zodiak"
+    ], 
+    "🦃": [
+        "puran"
+    ], 
+    "🦄": [
+        "samorog", 
+        "samorogov obraz", 
+        "obraz"
+    ], 
+    "🦅": [
+        "orel", 
+        "ptica"
+    ], 
+    "🦆": [
+        "ptica", 
+        "raca"
+    ], 
+    "🦇": [
+        "žival", 
+        "netopir"
+    ], 
+    "🦈": [
+        "riba", 
+        "morski pes"
+    ], 
+    "🦉": [
+        "ptica", 
+        "sova", 
+        "pamet"
+    ], 
+    "🦊": [
+        "žival", 
+        "lisica", 
+        "lisičji obraz"
+    ], 
+    "🦋": [
+        "lep", 
+        "insekt", 
+        "metulj"
+    ], 
+    "🦌": [
+        "žival", 
+        "jelen"
+    ], 
+    "🦍": [
+        "žival", 
+        "gorila"
+    ], 
+    "🦎": [
+        "kuščar", 
+        "plazilec"
+    ], 
+    "🦏": [
+        "žival", 
+        "nosorog"
+    ], 
+    "🦐": [
+        "rak", 
+        "morski rakec", 
+        "hrana", 
+        "škamp", 
+        "kozica"
+    ], 
+    "🦑": [
+        "hrana", 
+        "mehkužec", 
+        "ligenj"
+    ], 
+    "🦒": [
+        "žirafa"
+    ], 
+    "🦓": [
+        "zebra"
+    ], 
+    "🦔": [
+        "jež"
+    ], 
+    "🦕": [
+        "zavropod"
+    ], 
+    "🦖": [
+        "tiranozaver"
+    ], 
+    "🦗": [
+        "muren"
+    ], 
+    "🧀": [
+        "sir", 
+        "kos sira"
+    ], 
+    "🧐": [
+        "obraz z monoklom"
+    ], 
+    "🧑": [
+        "odrasla oseba"
+    ], 
+    "🧒": [
+        "otrok"
+    ], 
+    "🧓": [
+        "spolno nevtralen", 
+        "starejši", 
+        "starejši odrasli"
+    ], 
+    "🧔": [
+        "bradat moški"
+    ], 
+    "🧕": [
+        "ženska z naglavno ruto"
+    ], 
+    "🧖": [
+        "oseba v parni savni"
+    ], 
+    "🧗": [
+        "oseba, ki pleza"
+    ], 
+    "🧘": [
+        "oseba v lotusovem položaju"
+    ], 
+    "🧙": [
+        "oseba, ki čara"
+    ], 
+    "🧚": [
+        "vilinsko bitje"
+    ], 
+    "🧛": [
+        "vampirji"
+    ], 
+    "🧜": [
+        "morska ženska", 
+        "morska oseba", 
+        "morska deklica", 
+        "morski mož"
+    ], 
+    "🧝": [
+        "škrati"
+    ], 
+    "🧞": [
+        "duh iz steklenice"
+    ], 
+    "🧟": [
+        "nemrtev", 
+        "zombi", 
+        "živi mrtvec"
+    ], 
+    "🧠": [
+        "možgani"
+    ], 
+    "🧡": [
+        "oranžno srce"
+    ], 
+    "🧢": [
+        "kapa s ščitom"
+    ], 
+    "🧣": [
+        "šal"
+    ], 
+    "🧤": [
+        "rokavice"
+    ], 
+    "🧥": [
+        "plašč"
+    ], 
+    "🧦": [
+        "nogavice"
+    ]
+}

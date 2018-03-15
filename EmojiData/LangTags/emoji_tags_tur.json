@@ -1,0 +1,6707 @@
+{
+    "⌚": [
+        "saat", 
+        "kol saati"
+    ], 
+    "⌛": [
+        "kum saati", 
+        "kum"
+    ], 
+    "⏩": [
+        "sağa çift ok", 
+        "ok", 
+        "ileri sarma düğmesi", 
+        "sağ"
+    ], 
+    "⏪": [
+        "sola çift ok", 
+        "ok", 
+        "sol", 
+        "hızlı geri düğmesi"
+    ], 
+    "⏫": [
+        "hızlı yukarı düğmesi", 
+        "ok", 
+        "yukarı çift ok", 
+        "yukarı"
+    ], 
+    "⏬": [
+        "aşağı", 
+        "aşağı çift ok", 
+        "ok", 
+        "hızlı aşağı düğmesi"
+    ], 
+    "⏰": [
+        "alarm", 
+        "saat", 
+        "çalar saat"
+    ], 
+    "⏳": [
+        "kum akan kum saati", 
+        "zamanlayıcı"
+    ], 
+    "◽": [
+        "geometri", 
+        "küçük-orta beyaz kare", 
+        "kare"
+    ], 
+    "◾": [
+        "geometri", 
+        "küçük-orta siyah kare", 
+        "kare"
+    ], 
+    "☔": [
+        "yağmur", 
+        "yağmur damlalı şemsiye", 
+        "giyim", 
+        "hava durumu"
+    ], 
+    "☕": [
+        "sıcak içecek", 
+        "kahve", 
+        "içecek", 
+        "dumanı tüten", 
+        "sıcak", 
+        "çay"
+    ], 
+    "♈": [
+        "koç burcu", 
+        "burçlar"
+    ], 
+    "♉": [
+        "boğa burcu", 
+        "burçlar"
+    ], 
+    "♊": [
+        "ikizler burcu", 
+        "burçlar"
+    ], 
+    "♋": [
+        "yengeç burcu", 
+        "burçlar"
+    ], 
+    "♌": [
+        "aslan burcu", 
+        "burçlar"
+    ], 
+    "♍": [
+        "başak burcu", 
+        "burçlar"
+    ], 
+    "♎": [
+        "terazi burcu", 
+        "burçlar"
+    ], 
+    "♏": [
+        "akrep burcu", 
+        "burçlar"
+    ], 
+    "♐": [
+        "yay burcu", 
+        "burçlar"
+    ], 
+    "♑": [
+        "burçlar", 
+        "oğlak burcu"
+    ], 
+    "♒": [
+        "kova burcu", 
+        "burçlar"
+    ], 
+    "♓": [
+        "balık burcu", 
+        "burçlar"
+    ], 
+    "♿": [
+        "tekerlekli sandalye simgesi", 
+        "işaret", 
+        "tekerlekli sandalye erişimi", 
+        "tekerlekli sandalye", 
+        "erişim"
+    ], 
+    "⚓": [
+        "işaret", 
+        "çapa"
+    ], 
+    "⚡": [
+        "yüksek voltaj tehlikesi", 
+        "yüksek voltaj", 
+        "tehlike", 
+        "yüksek voltaj işareti", 
+        "işaret", 
+        "voltaj", 
+        "yüksek"
+    ], 
+    "⚪": [
+        "daire", 
+        "geometri", 
+        "beyaz daire"
+    ], 
+    "⚫": [
+        "daire", 
+        "geometri", 
+        "siyah daire"
+    ], 
+    "⚽": [
+        "topu", 
+        "futbol topu", 
+        "futbol"
+    ], 
+    "⚾": [
+        "beyzbol", 
+        "top"
+    ], 
+    "⛄": [
+        "kar", 
+        "kar yağmadan kardan adam", 
+        "karsız kardan adam"
+    ], 
+    "⛅": [
+        "bulutlu güneş", 
+        "güneş", 
+        "bulutlar ardındaki güneş", 
+        "bulut"
+    ], 
+    "⛎": [
+        "Yılancı", 
+        "burçlar"
+    ], 
+    "⛔": [
+        "hayır", 
+        "Girilmez", 
+        "girilmez", 
+        "işaret", 
+        "yasak"
+    ], 
+    "⛪": [
+        "bina", 
+        "kilise"
+    ], 
+    "⛲": [
+        "çeşme", 
+        "fıskiye"
+    ], 
+    "⛳": [
+        "golf", 
+        "delik", 
+        "golf bayrağı", 
+        "delikteki bayrak"
+    ], 
+    "⛵": [
+        "yelkenli tekne", 
+        "yat", 
+        "tekne", 
+        "deniz tatil yeri", 
+        "tatil yeri"
+    ], 
+    "⛺": [
+        "çadır", 
+        "kamp yeri"
+    ], 
+    "⛽": [
+        "yakıt pompası", 
+        "akaryakıt istasyonu", 
+        "benzin", 
+        "yakıt", 
+        "istasyon"
+    ], 
+    "✅": [
+        "kalın onay işareti", 
+        "onay", 
+        "beyaz kalın onay işareti"
+    ], 
+    "✊": [
+        "havada yumruk", 
+        "yumruk kaldırma"
+    ], 
+    "✋": [
+        "el kaldırma", 
+        "havada el"
+    ], 
+    "✨": [
+        "parıldayan yıldızlar", 
+        "yıldızlar", 
+        "parıltılar", 
+        "pırıltı"
+    ], 
+    "❌": [
+        "çarpma", 
+        "çarpı", 
+        "iptal", 
+        "işaret", 
+        "x", 
+        "çarpı işareti"
+    ], 
+    "❎": [
+        "çarpı işareti düğmesi", 
+        "X kare içinde"
+    ], 
+    "❓": [
+        "soru", 
+        "soru işareti"
+    ], 
+    "❔": [
+        "beyaz soru işareti", 
+        "soru"
+    ], 
+    "❕": [
+        "ünlem", 
+        "beyaz ünlem işareti"
+    ], 
+    "❗": [
+        "ünlem işareti", 
+        "ünlem", 
+        "noktalama", 
+        "işaret"
+    ], 
+    "➕": [
+        "koyu renk artı işareti", 
+        "kalın artı işareti", 
+        "işaret"
+    ], 
+    "➖": [
+        "kalın eksi işareti", 
+        "işaret", 
+        "koyu renk eksi işareti"
+    ], 
+    "➗": [
+        "kalın bölü işareti", 
+        "işaret", 
+        "koyu renk bölü işareti"
+    ], 
+    "➰": [
+        "kıvrık döngü", 
+        "dönüş", 
+        "döngü"
+    ], 
+    "➿": [
+        "çift kıvrık döngü", 
+        "kıvrık döngü", 
+        "ücretsiz numara", 
+        "Japonya"
+    ], 
+    "⬛": [
+        "geometri", 
+        "büyük siyah kare", 
+        "kare"
+    ], 
+    "⬜": [
+        "geometri", 
+        "büyük beyaz kare", 
+        "kare"
+    ], 
+    "⭐": [
+        "yıldız", 
+        "beyaz orta yıldız"
+    ], 
+    "⭕": [
+        "kalın çember", 
+        "çember", 
+        "o"
+    ], 
+    "🀄": [
+        "Ejderha", 
+        "kızıl ejder mahjong taşı", 
+        "Kızıl Ejder", 
+        "mahjong", 
+        "taş"
+    ], 
+    "🃏": [
+        "joker", 
+        "kart", 
+        "iskambil kartı"
+    ], 
+    "🆎": [
+        "kan grubu", 
+        "kan grubu AB", 
+        "AB", 
+        "AB grubu kan", 
+        "kan"
+    ], 
+    "🆑": [
+        "sil", 
+        "CL işareti", 
+        "CL"
+    ], 
+    "🆒": [
+        "harika", 
+        "serin", 
+        "hoş", 
+        "serin işareti"
+    ], 
+    "🆓": [
+        "bedelsiz", 
+        "ücretsiz", 
+        "bedava", 
+        "işaret", 
+        "ücretsiz işareti"
+    ], 
+    "🆔": [
+        "işaret", 
+        "kimlik", 
+        "kimlik işareti"
+    ], 
+    "🆕": [
+        "yeni", 
+        "Yeni işareti", 
+        "işaret"
+    ], 
+    "🆖": [
+        "NG işareti", 
+        "işaret", 
+        "ng"
+    ], 
+    "🆗": [
+        "OK işareti", 
+        "tamam", 
+        "tamam işareti"
+    ], 
+    "🆘": [
+        "SOS", 
+        "işaret", 
+        "Yardım", 
+        "SOS işareti"
+    ], 
+    "🆙": [
+        "YUKARI!", 
+        "YUKARI! işareti", 
+        "işaret"
+    ], 
+    "🆚": [
+        "karşılaştırma", 
+        "karşılaştırma işareti", 
+        "vs", 
+        "işaret"
+    ], 
+    "🇦🇨": [
+        "Ascension Adası", 
+        "bayrak"
+    ], 
+    "🇦🇩": [
+        "Andorra", 
+        "bayrak"
+    ], 
+    "🇦🇪": [
+        "bayrak", 
+        "Birleşik Arap Emirlikleri"
+    ], 
+    "🇦🇫": [
+        "Afganistan", 
+        "bayrak"
+    ], 
+    "🇦🇬": [
+        "bayrak", 
+        "Antigua ve Barbuda"
+    ], 
+    "🇦🇮": [
+        "Anguilla", 
+        "bayrak"
+    ], 
+    "🇦🇱": [
+        "Arnavutluk", 
+        "bayrak"
+    ], 
+    "🇦🇲": [
+        "Ermenistan", 
+        "bayrak"
+    ], 
+    "🇦🇴": [
+        "Angola", 
+        "bayrak"
+    ], 
+    "🇦🇶": [
+        "Antarktika", 
+        "bayrak"
+    ], 
+    "🇦🇷": [
+        "Arjantin", 
+        "bayrak"
+    ], 
+    "🇦🇸": [
+        "bayrak", 
+        "Amerikan Samoası"
+    ], 
+    "🇦🇹": [
+        "Avusturya", 
+        "bayrak"
+    ], 
+    "🇦🇺": [
+        "Avustralya", 
+        "bayrak"
+    ], 
+    "🇦🇼": [
+        "Aruba", 
+        "bayrak"
+    ], 
+    "🇦🇽": [
+        "bayrak", 
+        "Åland Adaları"
+    ], 
+    "🇦🇿": [
+        "Azerbaycan", 
+        "bayrak"
+    ], 
+    "🇧🇦": [
+        "Bosna-Hersek", 
+        "bayrak"
+    ], 
+    "🇧🇧": [
+        "bayrak", 
+        "Barbados"
+    ], 
+    "🇧🇩": [
+        "Bangladeş", 
+        "bayrak"
+    ], 
+    "🇧🇪": [
+        "Belçika", 
+        "bayrak"
+    ], 
+    "🇧🇫": [
+        "bayrak", 
+        "Burkina Faso"
+    ], 
+    "🇧🇬": [
+        "bayrak", 
+        "Bulgaristan"
+    ], 
+    "🇧🇭": [
+        "Bahreyn", 
+        "bayrak"
+    ], 
+    "🇧🇮": [
+        "Burundi", 
+        "bayrak"
+    ], 
+    "🇧🇯": [
+        "bayrak", 
+        "Benin"
+    ], 
+    "🇧🇱": [
+        "Saint Barthelemy", 
+        "bayrak"
+    ], 
+    "🇧🇲": [
+        "Bermuda", 
+        "bayrak"
+    ], 
+    "🇧🇳": [
+        "Brunei", 
+        "bayrak"
+    ], 
+    "🇧🇴": [
+        "Bolivya", 
+        "bayrak"
+    ], 
+    "🇧🇶": [
+        "bayrak", 
+        "Karayip Hollandası"
+    ], 
+    "🇧🇷": [
+        "Brezilya", 
+        "bayrak"
+    ], 
+    "🇧🇸": [
+        "Bahamalar", 
+        "bayrak"
+    ], 
+    "🇧🇹": [
+        "Butan", 
+        "bayrak"
+    ], 
+    "🇧🇻": [
+        "Bouvet Adası", 
+        "bayrak"
+    ], 
+    "🇧🇼": [
+        "Botsvana", 
+        "bayrak"
+    ], 
+    "🇧🇾": [
+        "Belarus", 
+        "bayrak"
+    ], 
+    "🇧🇿": [
+        "Belize", 
+        "bayrak"
+    ], 
+    "🇨🇦": [
+        "Kanada", 
+        "bayrak"
+    ], 
+    "🇨🇨": [
+        "Cocos (Keeling) Adaları", 
+        "bayrak"
+    ], 
+    "🇨🇩": [
+        "bayrak", 
+        "Kongo - Kinşasa"
+    ], 
+    "🇨🇫": [
+        "Orta Afrika Cumhuriyeti", 
+        "bayrak"
+    ], 
+    "🇨🇬": [
+        "Kongo - Brazavil", 
+        "bayrak"
+    ], 
+    "🇨🇭": [
+        "İsviçre", 
+        "bayrak"
+    ], 
+    "🇨🇮": [
+        "Fildişi Sahili", 
+        "bayrak"
+    ], 
+    "🇨🇰": [
+        "bayrak", 
+        "Cook Adaları"
+    ], 
+    "🇨🇱": [
+        "Şili", 
+        "bayrak"
+    ], 
+    "🇨🇲": [
+        "Kamerun", 
+        "bayrak"
+    ], 
+    "🇨🇳": [
+        "Çin", 
+        "bayrak"
+    ], 
+    "🇨🇴": [
+        "Kolombiya", 
+        "bayrak"
+    ], 
+    "🇨🇵": [
+        "bayrak", 
+        "Clipperton Adası"
+    ], 
+    "🇨🇷": [
+        "bayrak", 
+        "Kosta Rika"
+    ], 
+    "🇨🇺": [
+        "Küba", 
+        "bayrak"
+    ], 
+    "🇨🇻": [
+        "bayrak", 
+        "Cape Verde"
+    ], 
+    "🇨🇼": [
+        "Curaçao", 
+        "bayrak"
+    ], 
+    "🇨🇽": [
+        "bayrak", 
+        "Christmas Adası"
+    ], 
+    "🇨🇾": [
+        "bayrak", 
+        "Kıbrıs"
+    ], 
+    "🇨🇿": [
+        "bayrak", 
+        "Çekya"
+    ], 
+    "🇩🇪": [
+        "Almanya", 
+        "bayrak"
+    ], 
+    "🇩🇬": [
+        "bayrak", 
+        "Diego Garcia"
+    ], 
+    "🇩🇯": [
+        "Cibuti", 
+        "bayrak"
+    ], 
+    "🇩🇰": [
+        "bayrak", 
+        "Danimarka"
+    ], 
+    "🇩🇲": [
+        "bayrak", 
+        "Dominika"
+    ], 
+    "🇩🇴": [
+        "Dominik Cumhuriyeti", 
+        "bayrak"
+    ], 
+    "🇩🇿": [
+        "bayrak", 
+        "Cezayir"
+    ], 
+    "🇪🇦": [
+        "Septe ve Melilla", 
+        "bayrak"
+    ], 
+    "🇪🇨": [
+        "Ekvador", 
+        "bayrak"
+    ], 
+    "🇪🇪": [
+        "bayrak", 
+        "Estonya"
+    ], 
+    "🇪🇬": [
+        "bayrak", 
+        "Mısır"
+    ], 
+    "🇪🇭": [
+        "Batı Sahra", 
+        "bayrak"
+    ], 
+    "🇪🇷": [
+        "Eritre", 
+        "bayrak"
+    ], 
+    "🇪🇸": [
+        "bayrak", 
+        "İspanya"
+    ], 
+    "🇪🇹": [
+        "bayrak", 
+        "Etiyopya"
+    ], 
+    "🇪🇺": [
+        "Avrupa Birliği", 
+        "bayrak"
+    ], 
+    "🇫🇮": [
+        "Finlandiya", 
+        "bayrak"
+    ], 
+    "🇫🇯": [
+        "Fiji", 
+        "bayrak"
+    ], 
+    "🇫🇰": [
+        "Falkland Adaları", 
+        "bayrak"
+    ], 
+    "🇫🇲": [
+        "Mikronezya", 
+        "bayrak"
+    ], 
+    "🇫🇴": [
+        "Faroe Adaları", 
+        "bayrak"
+    ], 
+    "🇫🇷": [
+        "Fransa", 
+        "bayrak"
+    ], 
+    "🇬🇦": [
+        "Gabon", 
+        "bayrak"
+    ], 
+    "🇬🇧": [
+        "Birleşik Krallık", 
+        "bayrak"
+    ], 
+    "🇬🇩": [
+        "Grenada", 
+        "bayrak"
+    ], 
+    "🇬🇪": [
+        "bayrak", 
+        "Gürcistan"
+    ], 
+    "🇬🇫": [
+        "Fransız Guyanası", 
+        "bayrak"
+    ], 
+    "🇬🇬": [
+        "bayrak", 
+        "Guernsey"
+    ], 
+    "🇬🇭": [
+        "Gana", 
+        "bayrak"
+    ], 
+    "🇬🇮": [
+        "Cebelitarık", 
+        "bayrak"
+    ], 
+    "🇬🇱": [
+        "Grönland", 
+        "bayrak"
+    ], 
+    "🇬🇲": [
+        "Gambiya", 
+        "bayrak"
+    ], 
+    "🇬🇳": [
+        "bayrak", 
+        "Gine"
+    ], 
+    "🇬🇵": [
+        "Guadeloupe", 
+        "bayrak"
+    ], 
+    "🇬🇶": [
+        "Ekvator Ginesi", 
+        "bayrak"
+    ], 
+    "🇬🇷": [
+        "Yunanistan", 
+        "bayrak"
+    ], 
+    "🇬🇸": [
+        "bayrak", 
+        "Güney Georgia ve Güney Sandwich Adaları"
+    ], 
+    "🇬🇹": [
+        "Guatemala", 
+        "bayrak"
+    ], 
+    "🇬🇺": [
+        "Guam", 
+        "bayrak"
+    ], 
+    "🇬🇼": [
+        "Gine-Bissau", 
+        "bayrak"
+    ], 
+    "🇬🇾": [
+        "bayrak", 
+        "Guyana"
+    ], 
+    "🇭🇰": [
+        "bayrak", 
+        "Çin Hong Kong ÖİB"
+    ], 
+    "🇭🇲": [
+        "Heard Adası ve McDonald Adaları", 
+        "bayrak"
+    ], 
+    "🇭🇳": [
+        "Honduras", 
+        "bayrak"
+    ], 
+    "🇭🇷": [
+        "Hırvatistan", 
+        "bayrak"
+    ], 
+    "🇭🇹": [
+        "Haiti", 
+        "bayrak"
+    ], 
+    "🇭🇺": [
+        "bayrak", 
+        "Macaristan"
+    ], 
+    "🇮🇨": [
+        "bayrak", 
+        "Kanarya Adaları"
+    ], 
+    "🇮🇩": [
+        "Endonezya", 
+        "bayrak"
+    ], 
+    "🇮🇪": [
+        "İrlanda", 
+        "bayrak"
+    ], 
+    "🇮🇱": [
+        "İsrail", 
+        "bayrak"
+    ], 
+    "🇮🇲": [
+        "Man Adası", 
+        "bayrak"
+    ], 
+    "🇮🇳": [
+        "bayrak", 
+        "Hindistan"
+    ], 
+    "🇮🇴": [
+        "bayrak", 
+        "Britanya Hint Okyanusu Toprakları"
+    ], 
+    "🇮🇶": [
+        "Irak", 
+        "bayrak"
+    ], 
+    "🇮🇷": [
+        "İran", 
+        "bayrak"
+    ], 
+    "🇮🇸": [
+        "İzlanda", 
+        "bayrak"
+    ], 
+    "🇮🇹": [
+        "İtalya", 
+        "bayrak"
+    ], 
+    "🇯🇪": [
+        "bayrak", 
+        "Jersey"
+    ], 
+    "🇯🇲": [
+        "Jamaika", 
+        "bayrak"
+    ], 
+    "🇯🇴": [
+        "bayrak", 
+        "Ürdün"
+    ], 
+    "🇯🇵": [
+        "bayrak", 
+        "Japonya"
+    ], 
+    "🇰🇪": [
+        "Kenya", 
+        "bayrak"
+    ], 
+    "🇰🇬": [
+        "Kırgızistan", 
+        "bayrak"
+    ], 
+    "🇰🇭": [
+        "Kamboçya", 
+        "bayrak"
+    ], 
+    "🇰🇮": [
+        "Kiribati", 
+        "bayrak"
+    ], 
+    "🇰🇲": [
+        "Komorlar", 
+        "bayrak"
+    ], 
+    "🇰🇳": [
+        "Saint Kitts ve Nevis", 
+        "bayrak"
+    ], 
+    "🇰🇵": [
+        "Kuzey Kore", 
+        "bayrak"
+    ], 
+    "🇰🇷": [
+        "Güney Kore", 
+        "bayrak"
+    ], 
+    "🇰🇼": [
+        "Kuveyt", 
+        "bayrak"
+    ], 
+    "🇰🇾": [
+        "Cayman Adaları", 
+        "bayrak"
+    ], 
+    "🇰🇿": [
+        "Kazakistan", 
+        "bayrak"
+    ], 
+    "🇱🇦": [
+        "bayrak", 
+        "Laos"
+    ], 
+    "🇱🇧": [
+        "Lübnan", 
+        "bayrak"
+    ], 
+    "🇱🇨": [
+        "Saint Lucia", 
+        "bayrak"
+    ], 
+    "🇱🇮": [
+        "Liechtenstein", 
+        "bayrak"
+    ], 
+    "🇱🇰": [
+        "Sri Lanka", 
+        "bayrak"
+    ], 
+    "🇱🇷": [
+        "Liberya", 
+        "bayrak"
+    ], 
+    "🇱🇸": [
+        "Lesotho", 
+        "bayrak"
+    ], 
+    "🇱🇹": [
+        "Litvanya", 
+        "bayrak"
+    ], 
+    "🇱🇺": [
+        "Lüksemburg", 
+        "bayrak"
+    ], 
+    "🇱🇻": [
+        "bayrak", 
+        "Letonya"
+    ], 
+    "🇱🇾": [
+        "bayrak", 
+        "Libya"
+    ], 
+    "🇲🇦": [
+        "Fas", 
+        "bayrak"
+    ], 
+    "🇲🇨": [
+        "bayrak", 
+        "Monako"
+    ], 
+    "🇲🇩": [
+        "bayrak", 
+        "Moldova"
+    ], 
+    "🇲🇪": [
+        "Karadağ", 
+        "bayrak"
+    ], 
+    "🇲🇫": [
+        "Saint Martin", 
+        "bayrak"
+    ], 
+    "🇲🇬": [
+        "Madagaskar", 
+        "bayrak"
+    ], 
+    "🇲🇭": [
+        "bayrak", 
+        "Marshall Adaları"
+    ], 
+    "🇲🇰": [
+        "bayrak", 
+        "Makedonya"
+    ], 
+    "🇲🇱": [
+        "bayrak", 
+        "Mali"
+    ], 
+    "🇲🇲": [
+        "Myanmar (Burma)", 
+        "bayrak"
+    ], 
+    "🇲🇳": [
+        "Moğolistan", 
+        "bayrak"
+    ], 
+    "🇲🇴": [
+        "bayrak", 
+        "Çin Makao ÖİB"
+    ], 
+    "🇲🇵": [
+        "bayrak", 
+        "Kuzey Mariana Adaları"
+    ], 
+    "🇲🇶": [
+        "bayrak", 
+        "Martinik"
+    ], 
+    "🇲🇷": [
+        "Moritanya", 
+        "bayrak"
+    ], 
+    "🇲🇸": [
+        "Montserrat", 
+        "bayrak"
+    ], 
+    "🇲🇹": [
+        "bayrak", 
+        "Malta"
+    ], 
+    "🇲🇺": [
+        "Mauritius", 
+        "bayrak"
+    ], 
+    "🇲🇻": [
+        "Maldivler", 
+        "bayrak"
+    ], 
+    "🇲🇼": [
+        "Malavi", 
+        "bayrak"
+    ], 
+    "🇲🇽": [
+        "Meksika", 
+        "bayrak"
+    ], 
+    "🇲🇾": [
+        "Malezya", 
+        "bayrak"
+    ], 
+    "🇲🇿": [
+        "bayrak", 
+        "Mozambik"
+    ], 
+    "🇳🇦": [
+        "Namibya", 
+        "bayrak"
+    ], 
+    "🇳🇨": [
+        "bayrak", 
+        "Yeni Kaledonya"
+    ], 
+    "🇳🇪": [
+        "Nijer", 
+        "bayrak"
+    ], 
+    "🇳🇫": [
+        "bayrak", 
+        "Norfolk Adası"
+    ], 
+    "🇳🇬": [
+        "bayrak", 
+        "Nijerya"
+    ], 
+    "🇳🇮": [
+        "Nikaragua", 
+        "bayrak"
+    ], 
+    "🇳🇱": [
+        "bayrak", 
+        "Hollanda"
+    ], 
+    "🇳🇴": [
+        "Norveç", 
+        "bayrak"
+    ], 
+    "🇳🇵": [
+        "Nepal", 
+        "bayrak"
+    ], 
+    "🇳🇷": [
+        "Nauru", 
+        "bayrak"
+    ], 
+    "🇳🇺": [
+        "bayrak", 
+        "Niue"
+    ], 
+    "🇳🇿": [
+        "Yeni Zelanda", 
+        "bayrak"
+    ], 
+    "🇴🇲": [
+        "Umman", 
+        "bayrak"
+    ], 
+    "🇵🇦": [
+        "Panama", 
+        "bayrak"
+    ], 
+    "🇵🇪": [
+        "bayrak", 
+        "Peru"
+    ], 
+    "🇵🇫": [
+        "Fransız Polinezyası", 
+        "bayrak"
+    ], 
+    "🇵🇬": [
+        "Papua Yeni Gine", 
+        "bayrak"
+    ], 
+    "🇵🇭": [
+        "bayrak", 
+        "Filipinler"
+    ], 
+    "🇵🇰": [
+        "Pakistan", 
+        "bayrak"
+    ], 
+    "🇵🇱": [
+        "Polonya", 
+        "bayrak"
+    ], 
+    "🇵🇲": [
+        "bayrak", 
+        "Saint Pierre ve Miquelon"
+    ], 
+    "🇵🇳": [
+        "bayrak", 
+        "Pitcairn Adaları"
+    ], 
+    "🇵🇷": [
+        "Porto Riko", 
+        "bayrak"
+    ], 
+    "🇵🇸": [
+        "Filistin Bölgeleri", 
+        "bayrak"
+    ], 
+    "🇵🇹": [
+        "Portekiz", 
+        "bayrak"
+    ], 
+    "🇵🇼": [
+        "Palau", 
+        "bayrak"
+    ], 
+    "🇵🇾": [
+        "Paraguay", 
+        "bayrak"
+    ], 
+    "🇶🇦": [
+        "Katar", 
+        "bayrak"
+    ], 
+    "🇷🇪": [
+        "Réunion", 
+        "bayrak"
+    ], 
+    "🇷🇴": [
+        "Romanya", 
+        "bayrak"
+    ], 
+    "🇷🇸": [
+        "bayrak", 
+        "Sırbistan"
+    ], 
+    "🇷🇺": [
+        "Rusya", 
+        "bayrak"
+    ], 
+    "🇷🇼": [
+        "bayrak", 
+        "Ruanda"
+    ], 
+    "🇸🇦": [
+        "bayrak", 
+        "Suudi Arabistan"
+    ], 
+    "🇸🇧": [
+        "Solomon Adaları", 
+        "bayrak"
+    ], 
+    "🇸🇨": [
+        "bayrak", 
+        "Seyşeller"
+    ], 
+    "🇸🇩": [
+        "Sudan", 
+        "bayrak"
+    ], 
+    "🇸🇪": [
+        "bayrak", 
+        "İsveç"
+    ], 
+    "🇸🇬": [
+        "Singapur", 
+        "bayrak"
+    ], 
+    "🇸🇭": [
+        "bayrak", 
+        "Saint Helena"
+    ], 
+    "🇸🇮": [
+        "Slovenya", 
+        "bayrak"
+    ], 
+    "🇸🇯": [
+        "Svalbard ve Jan Mayen", 
+        "bayrak"
+    ], 
+    "🇸🇰": [
+        "Slovakya", 
+        "bayrak"
+    ], 
+    "🇸🇱": [
+        "bayrak", 
+        "Sierra Leone"
+    ], 
+    "🇸🇲": [
+        "San Marino", 
+        "bayrak"
+    ], 
+    "🇸🇳": [
+        "Senegal", 
+        "bayrak"
+    ], 
+    "🇸🇴": [
+        "bayrak", 
+        "Somali"
+    ], 
+    "🇸🇷": [
+        "bayrak", 
+        "Surinam"
+    ], 
+    "🇸🇸": [
+        "Güney Sudan", 
+        "bayrak"
+    ], 
+    "🇸🇹": [
+        "São Tomé ve Príncipe", 
+        "bayrak"
+    ], 
+    "🇸🇻": [
+        "El Salvador", 
+        "bayrak"
+    ], 
+    "🇸🇽": [
+        "Sint Maarten", 
+        "bayrak"
+    ], 
+    "🇸🇾": [
+        "Suriye", 
+        "bayrak"
+    ], 
+    "🇸🇿": [
+        "Svaziland", 
+        "bayrak"
+    ], 
+    "🇹🇦": [
+        "bayrak", 
+        "Tristan da Cunha"
+    ], 
+    "🇹🇨": [
+        "Turks ve Caicos Adaları", 
+        "bayrak"
+    ], 
+    "🇹🇩": [
+        "Çad", 
+        "bayrak"
+    ], 
+    "🇹🇫": [
+        "Fransız Güney Toprakları", 
+        "bayrak"
+    ], 
+    "🇹🇬": [
+        "Togo", 
+        "bayrak"
+    ], 
+    "🇹🇭": [
+        "bayrak", 
+        "Tayland"
+    ], 
+    "🇹🇯": [
+        "bayrak", 
+        "Tacikistan"
+    ], 
+    "🇹🇰": [
+        "Tokelau", 
+        "bayrak"
+    ], 
+    "🇹🇱": [
+        "Timor-Leste", 
+        "bayrak"
+    ], 
+    "🇹🇲": [
+        "Türkmenistan", 
+        "bayrak"
+    ], 
+    "🇹🇳": [
+        "Tunus", 
+        "bayrak"
+    ], 
+    "🇹🇴": [
+        "Tonga", 
+        "bayrak"
+    ], 
+    "🇹🇷": [
+        "Türkiye", 
+        "bayrak"
+    ], 
+    "🇹🇹": [
+        "bayrak", 
+        "Trinidad ve Tobago"
+    ], 
+    "🇹🇻": [
+        "Tuvalu", 
+        "bayrak"
+    ], 
+    "🇹🇼": [
+        "bayrak", 
+        "Tayvan"
+    ], 
+    "🇹🇿": [
+        "Tanzanya", 
+        "bayrak"
+    ], 
+    "🇺🇦": [
+        "Ukrayna", 
+        "bayrak"
+    ], 
+    "🇺🇬": [
+        "bayrak", 
+        "Uganda"
+    ], 
+    "🇺🇲": [
+        "bayrak", 
+        "ABD Küçük Harici Adaları"
+    ], 
+    "🇺🇳": [
+        "bayrak", 
+        "Birleşmiş Milletler"
+    ], 
+    "🇺🇸": [
+        "Amerika Birleşik Devletleri", 
+        "bayrak"
+    ], 
+    "🇺🇾": [
+        "bayrak", 
+        "Uruguay"
+    ], 
+    "🇺🇿": [
+        "bayrak", 
+        "Özbekistan"
+    ], 
+    "🇻🇦": [
+        "bayrak", 
+        "Vatikan"
+    ], 
+    "🇻🇨": [
+        "Saint Vincent ve Grenadinler", 
+        "bayrak"
+    ], 
+    "🇻🇪": [
+        "Venezuela", 
+        "bayrak"
+    ], 
+    "🇻🇬": [
+        "Britanya Virjin Adaları", 
+        "bayrak"
+    ], 
+    "🇻🇮": [
+        "bayrak", 
+        "ABD Virjin Adaları"
+    ], 
+    "🇻🇳": [
+        "Vietnam", 
+        "bayrak"
+    ], 
+    "🇻🇺": [
+        "bayrak", 
+        "Vanuatu"
+    ], 
+    "🇼🇫": [
+        "Wallis ve Futuna", 
+        "bayrak"
+    ], 
+    "🇼🇸": [
+        "Samoa", 
+        "bayrak"
+    ], 
+    "🇽🇰": [
+        "Kosova", 
+        "bayrak"
+    ], 
+    "🇾🇪": [
+        "Yemen", 
+        "bayrak"
+    ], 
+    "🇾🇹": [
+        "Mayotte", 
+        "bayrak"
+    ], 
+    "🇿🇦": [
+        "Güney Afrika", 
+        "bayrak"
+    ], 
+    "🇿🇲": [
+        "Zambiya", 
+        "bayrak"
+    ], 
+    "🇿🇼": [
+        "Zimbabve", 
+        "bayrak"
+    ], 
+    "🈁": [
+        "japonca", 
+        "Japonca \"burada\" düğmesi"
+    ], 
+    "🈚": [
+        "Japonca \"ücretsiz\" düğmesi", 
+        "japonca"
+    ], 
+    "🈯": [
+        "Japonca \"rezerve\" düğmesi", 
+        "japonca"
+    ], 
+    "🈲": [
+        "Japonca \"yasak\" düğmesi", 
+        "japonca"
+    ], 
+    "🈳": [
+        "çince", 
+        "Japonca \"yer var\" düğmesi"
+    ], 
+    "🈴": [
+        "çince", 
+        "Japonca \"geçer not\" düğmesi"
+    ], 
+    "🈵": [
+        "Japonca \"yer yok\" düğmesi", 
+        "çince"
+    ], 
+    "🈶": [
+        "Japonca \"ücretsiz değil\" düğmesi", 
+        "japonca"
+    ], 
+    "🈸": [
+        "çince", 
+        "Japonca \"uygulama\" düğmesi"
+    ], 
+    "🈹": [
+        "Japonca \"indirim\" düğmesi", 
+        "japonca"
+    ], 
+    "🈺": [
+        "Japonca \"hizmete hazır\" düğmesi", 
+        "çince"
+    ], 
+    "🉐": [
+        "Japonca \"avantaj\" düğmesi", 
+        "japonca"
+    ], 
+    "🉑": [
+        "çince", 
+        "Japonca \"kabul edilebilir\" düğmesi"
+    ], 
+    "🌀": [
+        "siklon", 
+        "hortum", 
+        "tayfun", 
+        "baş dönmesi"
+    ], 
+    "🌁": [
+        "sis", 
+        "sisli"
+    ], 
+    "🌂": [
+        "yağmur", 
+        "kapalı şemsiye", 
+        "yağmurlu"
+    ], 
+    "🌃": [
+        "gece", 
+        "yıldızlı gece", 
+        "yıldızlar"
+    ], 
+    "🌄": [
+        "dağ", 
+        "dağların ardında güneş", 
+        "sabah güneşi", 
+        "dağların arasından güneşin doğuşu"
+    ], 
+    "🌅": [
+        "güneşin doğuşu", 
+        "sabah güneşi"
+    ], 
+    "🌆": [
+        "akşam", 
+        "şehirde alacakaranlık", 
+        "bina", 
+        "gün batımı", 
+        "şehir", 
+        "alacakaranlık", 
+        "manzara"
+    ], 
+    "🌇": [
+        "alacakaranlık", 
+        "bina", 
+        "gün batımı", 
+        "binaların üzerinden gün batımı"
+    ], 
+    "🌈": [
+        "yağmur", 
+        "hava durumu", 
+        "gökkuşağı"
+    ], 
+    "🌉": [
+        "gece", 
+        "gece vakti köprü"
+    ], 
+    "🌊": [
+        "su dalgası", 
+        "okyanus dalgası", 
+        "dalga"
+    ], 
+    "🌋": [
+        "yanardağ", 
+        "yanardağ patlaması"
+    ], 
+    "🌌": [
+        "samanyolu", 
+        "gökyüzü", 
+        "uzay"
+    ], 
+    "🌍": [
+        "Afrika", 
+        "Avrupa", 
+        "yerkürede Avrupa-Afrika", 
+        "dünya"
+    ], 
+    "🌎": [
+        "Amerika", 
+        "dünya", 
+        "yerkürede Amerika", 
+        "Amerika bölgeleri"
+    ], 
+    "🌏": [
+        "Avustralya", 
+        "dünya", 
+        "Asya", 
+        "yerkürede Asya-Avustralya"
+    ], 
+    "🌐": [
+        "boylamlar", 
+        "meridyenli yerküre"
+    ], 
+    "🌑": [
+        "ay", 
+        "yeni", 
+        "karanlık", 
+        "yeni ay"
+    ], 
+    "🌒": [
+        "ay", 
+        "büyüyen ay", 
+        "yükselen"
+    ], 
+    "🌓": [
+        "ay", 
+        "ilk dördün"
+    ], 
+    "🌔": [
+        "ay", 
+        "şişkin", 
+        "yükselen", 
+        "geniş ay"
+    ], 
+    "🌕": [
+        "ay", 
+        "parlak", 
+        "dolunay", 
+        "dolu"
+    ], 
+    "🌖": [
+        "ay", 
+        "şişkin", 
+        "küçülen ay", 
+        "solgun"
+    ], 
+    "🌗": [
+        "ay", 
+        "son dördün", 
+        "dördün"
+    ], 
+    "🌘": [
+        "ay", 
+        "solgun", 
+        "ince ay"
+    ], 
+    "🌙": [
+        "ay", 
+        "hilal"
+    ], 
+    "🌚": [
+        "ay", 
+        "yeni ay", 
+        "yüz", 
+        "yeni ay yüzü", 
+        "yüzü olan yeni ay"
+    ], 
+    "🌛": [
+        "yüzü olan ay", 
+        "ilk dördün ay yüzü", 
+        "ilk dördün", 
+        "yüz", 
+        "dördün", 
+        "ay", 
+        "yüzü olan ilk dördün"
+    ], 
+    "🌜": [
+        "son dördün ay yüzü", 
+        "son dördün", 
+        "yüzü olan ay", 
+        "yüzü olan son dördün", 
+        "yüz", 
+        "dördün", 
+        "ay"
+    ], 
+    "🌝": [
+        "yüzü olan ay", 
+        "dolunay yüzü", 
+        "yüzü olan dolunay", 
+        "yüz", 
+        "ay", 
+        "dolunay", 
+        "dolu"
+    ], 
+    "🌞": [
+        "güneş", 
+        "yüz", 
+        "güneş yüz"
+    ], 
+    "🌟": [
+        "yıldız", 
+        "pırıltı", 
+        "parıldayan yıldız", 
+        "parıldama", 
+        "kıvılcım"
+    ], 
+    "🌠": [
+        "yıldız", 
+        "kayan", 
+        "yıldız kayması"
+    ], 
+    "🌭": [
+        "sosis", 
+        "sosisli sandviç"
+    ], 
+    "🌮": [
+        "meksika sandviçi", 
+        "tako"
+    ], 
+    "🌯": [
+        "meksika dürümü", 
+        "burito"
+    ], 
+    "🌰": [
+        "kestane", 
+        "bitki"
+    ], 
+    "🌱": [
+        "filizlenme", 
+        "fide", 
+        "genç"
+    ], 
+    "🌲": [
+        "yaprak dökmeyen", 
+        "yaprak dökmeyen ağaç", 
+        "ağaç"
+    ], 
+    "🌳": [
+        "yaprak döken ağaç", 
+        "yaprak döken", 
+        "ağaç"
+    ], 
+    "🌴": [
+        "ağaç", 
+        "palmiye", 
+        "palmiye ağacı"
+    ], 
+    "🌵": [
+        "kaktüs", 
+        "bitki"
+    ], 
+    "🌷": [
+        "lale", 
+        "bitki", 
+        "çiçek"
+    ], 
+    "🌸": [
+        "kiraz", 
+        "kiraz çiçeği", 
+        "çiçek", 
+        "çiçek izleme"
+    ], 
+    "🌹": [
+        "gül", 
+        "bitki", 
+        "çiçek"
+    ], 
+    "🌺": [
+        "amber çiçeği", 
+        "bitki", 
+        "çiçek"
+    ], 
+    "🌻": [
+        "güneş", 
+        "ayçiçeği", 
+        "bitki", 
+        "çiçek"
+    ], 
+    "🌼": [
+        "çiçek açma", 
+        "bitki", 
+        "çiçek"
+    ], 
+    "🌽": [
+        "başak", 
+        "mısır koçanı"
+    ], 
+    "🌾": [
+        "başak", 
+        "pirinç bitkisi", 
+        "pirinç başağı", 
+        "pirinç"
+    ], 
+    "🌿": [
+        "ot", 
+        "yaprak"
+    ], 
+    "🍀": [
+        "dört", 
+        "yonca", 
+        "şanslı", 
+        "yaprak", 
+        "dört yapraklı yonca"
+    ], 
+    "🍁": [
+        "akçaağaç yaprağı", 
+        "yaprak", 
+        "düşen yaprak"
+    ], 
+    "🍂": [
+        "düşmüş", 
+        "düşen yapraklar", 
+        "yapraklar", 
+        "yaprak", 
+        "düşen"
+    ], 
+    "🍃": [
+        "rüzgardaki yaprak", 
+        "esen", 
+        "rüzgar", 
+        "yaprak"
+    ], 
+    "🍄": [
+        "bitki", 
+        "mantar"
+    ], 
+    "🍅": [
+        "domates", 
+        "sebze"
+    ], 
+    "🍆": [
+        "sebze", 
+        "patlıcan"
+    ], 
+    "🍇": [
+        "meyve", 
+        "üzüm"
+    ], 
+    "🍈": [
+        "meyve", 
+        "kavun"
+    ], 
+    "🍉": [
+        "karpuz", 
+        "meyve"
+    ], 
+    "🍊": [
+        "meyve", 
+        "portakal", 
+        "mandalina"
+    ], 
+    "🍋": [
+        "limon", 
+        "meyve", 
+        "narenciye"
+    ], 
+    "🍌": [
+        "meyve", 
+        "muz"
+    ], 
+    "🍍": [
+        "meyve", 
+        "ananas"
+    ], 
+    "🍎": [
+        "elma", 
+        "kırmızı elma", 
+        "kırmızı", 
+        "meyve"
+    ], 
+    "🍏": [
+        "elma", 
+        "yeşil", 
+        "yeşil elma", 
+        "meyve"
+    ], 
+    "🍐": [
+        "meyve", 
+        "armut"
+    ], 
+    "🍑": [
+        "meyve", 
+        "şeftali"
+    ], 
+    "🍒": [
+        "meyve", 
+        "kiraz"
+    ], 
+    "🍓": [
+        "meyve", 
+        "yumuşak meyve", 
+        "çilek"
+    ], 
+    "🍔": [
+        "restoran", 
+        "hamburger"
+    ], 
+    "🍕": [
+        "dilim", 
+        "pizza dilimi", 
+        "restoran", 
+        "pizza"
+    ], 
+    "🍖": [
+        "restoran", 
+        "kemikli et"
+    ], 
+    "🍗": [
+        "restoran", 
+        "tavuk", 
+        "but", 
+        "tavuk butu"
+    ], 
+    "🍘": [
+        "pirinç", 
+        "pirinç gevreği"
+    ], 
+    "🍙": [
+        "pirinç topu", 
+        "pirinç", 
+        "onigiri", 
+        "restoran"
+    ], 
+    "🍚": [
+        "restoran", 
+        "pirinç", 
+        "pilav"
+    ], 
+    "🍛": [
+        "restoran", 
+        "pirinç", 
+        "köri", 
+        "körili pilav"
+    ], 
+    "🍜": [
+        "restoran", 
+        "noodle", 
+        "buharda pişmiş", 
+        "tabak", 
+        "erişte", 
+        "noodle tabağı"
+    ], 
+    "🍝": [
+        "makarna", 
+        "restoran", 
+        "spagetti"
+    ], 
+    "🍞": [
+        "restoran", 
+        "ekmek dilimi", 
+        "ekmek"
+    ], 
+    "🍟": [
+        "kızartma patates", 
+        "restoran", 
+        "patates kızartması"
+    ], 
+    "🍠": [
+        "restoran", 
+        "tırınlanmış", 
+        "fırınlanmış tatlı patates", 
+        "fırınlanmış patates", 
+        "tatlı", 
+        "tatlı patates"
+    ], 
+    "🍡": [
+        "restoran", 
+        "pirinç tatlısı", 
+        "çubukta pirinç tatlısı topları", 
+        "dango", 
+        "pirinç tatlısı topları"
+    ], 
+    "🍢": [
+        "oden", 
+        "restoran", 
+        "çubukta deniz ürünleri", 
+        "çubuk"
+    ], 
+    "🍣": [
+        "restoran", 
+        "suşi"
+    ], 
+    "🍤": [
+        "restoran", 
+        "kızarmış karides", 
+        "karides"
+    ], 
+    "🍥": [
+        "restoran", 
+        "balık", 
+        "balık köftesi", 
+        "rulo balık köftesi"
+    ], 
+    "🍦": [
+        "restoran", 
+        "yumuşak dondurma", 
+        "dondurma", 
+        "krema"
+    ], 
+    "🍧": [
+        "buz", 
+        "restoran", 
+        "meyveli buz", 
+        "meyveli"
+    ], 
+    "🍨": [
+        "buz", 
+        "restoran", 
+        "dondurma", 
+        "krema"
+    ], 
+    "🍩": [
+        "restoran", 
+        "donut", 
+        "doughnut"
+    ], 
+    "🍪": [
+        "restoran", 
+        "kurabiye"
+    ], 
+    "🍫": [
+        "çikolata", 
+        "çikolata barı", 
+        "bar", 
+        "restoran"
+    ], 
+    "🍬": [
+        "restoran", 
+        "şekerleme"
+    ], 
+    "🍭": [
+        "restoran", 
+        "şekerleme", 
+        "lolipop"
+    ], 
+    "🍮": [
+        "restoran", 
+        "krem karamel", 
+        "puding"
+    ], 
+    "🍯": [
+        "restoran", 
+        "bal", 
+        "bal kabı", 
+        "kap"
+    ], 
+    "🍰": [
+        "pasta", 
+        "restoran", 
+        "pasta dilimi", 
+        "dilim pasta"
+    ], 
+    "🍱": [
+        "bento paketi", 
+        "bento", 
+        "restoran", 
+        "paket"
+    ], 
+    "🍲": [
+        "restoran", 
+        "yemek tenceresi", 
+        "tencere yemeği"
+    ], 
+    "🍳": [
+        "restoran", 
+        "yemek pişirme", 
+        "pişirme"
+    ], 
+    "🍴": [
+        "çatal", 
+        "çatal ve bıçak", 
+        "restoran", 
+        "bıçak"
+    ], 
+    "🍵": [
+        "içecek", 
+        "çay", 
+        "çay fincanı"
+    ], 
+    "🍶": [
+        "restoran", 
+        "sake şişesi ve fincanı", 
+        "bar", 
+        "sake", 
+        "içecek", 
+        "fincan", 
+        "şişe"
+    ], 
+    "🍷": [
+        "restoran", 
+        "bardak şarap", 
+        "şarap bardağı", 
+        "şarap kadehi", 
+        "bar", 
+        "bardak", 
+        "içedek"
+    ], 
+    "🍸": [
+        "restoran", 
+        "kokteyl bardağı", 
+        "kokteyl kadehi", 
+        "bar"
+    ], 
+    "🍹": [
+        "içecek", 
+        "restoran", 
+        "tropik içecek", 
+        "bar", 
+        "tropik"
+    ], 
+    "🍺": [
+        "restoran", 
+        "bira kupası", 
+        "bar", 
+        "kupa"
+    ], 
+    "🍻": [
+        "restoran", 
+        "kupa", 
+        "bar", 
+        "kupalar", 
+        "bira kupaları tokuşturma", 
+        "bira"
+    ], 
+    "🍼": [
+        "içecek", 
+        "biberon", 
+        "şişe", 
+        "süt"
+    ], 
+    "🍾": [
+        "şişe", 
+        "patlayan mantarlı şişe", 
+        "bar", 
+        "içki", 
+        "mantar"
+    ], 
+    "🍿": [
+        "patlamış mısır", 
+        "mısır"
+    ], 
+    "🎀": [
+        "kutlama", 
+        "kurdele"
+    ], 
+    "🎁": [
+        "kutlama", 
+        "paketli", 
+        "paketli hediye", 
+        "paketlenmiş hediye"
+    ], 
+    "🎂": [
+        "kutlama", 
+        "pasta", 
+        "doğum günü", 
+        "doğum günü pastası"
+    ], 
+    "🎃": [
+        "kabak", 
+        "kutlama", 
+        "Halloween", 
+        "kabak fener", 
+        "jack", 
+        "fener"
+    ], 
+    "🎄": [
+        "kutlama", 
+        "Noel ağacı", 
+        "ağaç"
+    ], 
+    "🎅": [
+        "kutlama", 
+        "Noel Baba", 
+        "santa claus", 
+        "noel"
+    ], 
+    "🎆": [
+        "kutlama", 
+        "havai fişek"
+    ], 
+    "🎇": [
+        "kutlama", 
+        "fişek", 
+        "havai fişek"
+    ], 
+    "🎈": [
+        "kutlama", 
+        "balon"
+    ], 
+    "🎉": [
+        "kutlama", 
+        "konfeti", 
+        "parti konfetisi", 
+        "parti"
+    ], 
+    "🎊": [
+        "konfeti topu", 
+        "konfeti", 
+        "top", 
+        "kutlama"
+    ], 
+    "🎋": [
+        "kağıt şeritler", 
+        "kutlama", 
+        "ağaç", 
+        "Star Festival", 
+        "tanabata ağacı"
+    ], 
+    "🎌": [
+        "kutlama", 
+        "çapraz bayraklar", 
+        "çapraz", 
+        "çapraz Japon bayrakları", 
+        "bayraklar"
+    ], 
+    "🎍": [
+        "çam", 
+        "kutlama", 
+        "Japon", 
+        "Yeni Yıl", 
+        "çam süsleme"
+    ], 
+    "🎎": [
+        "festival", 
+        "kutlama", 
+        "Japon", 
+        "japon oyuncak bebekleri", 
+        "Bebek Festivali"
+    ], 
+    "🎏": [
+        "flama", 
+        "kutlama", 
+        "sazan şekilli flama"
+    ], 
+    "🎐": [
+        "rüzgar çanı", 
+        "çan"
+    ], 
+    "🎑": [
+        "ay", 
+        "kutlama", 
+        "ay izleme töreni", 
+        "izleme", 
+        "ay izleme"
+    ], 
+    "🎒": [
+        "sırt çantası", 
+        "okul", 
+        "okul sırt çantası", 
+        "okul çantası"
+    ], 
+    "🎓": [
+        "kutlama", 
+        "mezuniyet", 
+        "mezuniyet kepi", 
+        "kep"
+    ], 
+    "🎠": [
+        "eğlence", 
+        "atlı karınca atı", 
+        "at", 
+        "atlı karınca"
+    ], 
+    "🎡": [
+        "dönme", 
+        "dönme dolap", 
+        "eğlence parkı", 
+        "eğlence", 
+        "dolap"
+    ], 
+    "🎢": [
+        "tren", 
+        "hız", 
+        "eğlence", 
+        "hız treni", 
+        "eğlence parkı"
+    ], 
+    "🎣": [
+        "dinlenme", 
+        "kamış olta ve balık", 
+        "olta", 
+        "balık", 
+        "eğlence", 
+        "kamış"
+    ], 
+    "🎤": [
+        "eğlence", 
+        "Karaoke", 
+        "mikrofon"
+    ], 
+    "🎥": [
+        "film kamerası", 
+        "eğlence", 
+        "film", 
+        "sinema"
+    ], 
+    "🎦": [
+        "film işareti", 
+        "eğlence", 
+        "sinema"
+    ], 
+    "🎧": [
+        "kulaklık", 
+        "eğlence"
+    ], 
+    "🎨": [
+        "boya", 
+        "sanat", 
+        "boya paleti", 
+        "sanatçı", 
+        "palet", 
+        "sanatçı paleti"
+    ], 
+    "🎩": [
+        "şapka", 
+        "eğlence", 
+        "silindir şapka"
+    ], 
+    "🎪": [
+        "sirk çadırı", 
+        "eğlence", 
+        "çadır"
+    ], 
+    "🎫": [
+        "bilet", 
+        "eğlence"
+    ], 
+    "🎬": [
+        "eğlence", 
+        "tahta", 
+        "film", 
+        "film tahtası"
+    ], 
+    "🎭": [
+        "sanat", 
+        "sahne sanatları", 
+        "eğlence", 
+        "performans sanatı", 
+        "performans"
+    ], 
+    "🎮": [
+        "video oyunu", 
+        "oyun", 
+        "oyun kontrol cihazı", 
+        "kontrol cihazı"
+    ], 
+    "🎯": [
+        "isabet", 
+        "oyun", 
+        "tam isabet", 
+        "hedefe isabet", 
+        "hedef"
+    ], 
+    "🎰": [
+        "kumar", 
+        "oyun", 
+        "kumar makinesi"
+    ], 
+    "🎱": [
+        "bilardo", 
+        "oyun", 
+        "sekiz top"
+    ], 
+    "🎲": [
+        "oyun", 
+        "zar", 
+        "oyun zarı"
+    ], 
+    "🎳": [
+        "oyun", 
+        "bovling", 
+        "top", 
+        "bowling topu"
+    ], 
+    "🎴": [
+        "çiçek", 
+        "kart", 
+        "hanafuda", 
+        "kağıt oyunu", 
+        "oyun", 
+        "çiçekli oyun kağıtları", 
+        "çiçekli kart"
+    ], 
+    "🎵": [
+        "müzik", 
+        "nota", 
+        "müzik notası"
+    ], 
+    "🎶": [
+        "müzik", 
+        "müzik notaları", 
+        "nota", 
+        "notalar"
+    ], 
+    "🎷": [
+        "alet", 
+        "müzik", 
+        "saksafon", 
+        "müzik aleti"
+    ], 
+    "🎸": [
+        "alet", 
+        "müzik", 
+        "gitar", 
+        "müzik aleti"
+    ], 
+    "🎹": [
+        "alet", 
+        "müzik", 
+        "müzik klavyesi", 
+        "klavye", 
+        "müzik aleti"
+    ], 
+    "🎺": [
+        "alet", 
+        "müzik", 
+        "trompet", 
+        "müzik aleti"
+    ], 
+    "🎻": [
+        "alet", 
+        "müzik", 
+        "keman", 
+        "müzik aleti"
+    ], 
+    "🎼": [
+        "müzik", 
+        "sol anahtarı", 
+        "partisyon"
+    ], 
+    "🎽": [
+        "çizgili koşu tişörtü", 
+        "koşu", 
+        "spor", 
+        "koşu tişörtü", 
+        "çizgi", 
+        "tişört"
+    ], 
+    "🎾": [
+        "spor", 
+        "top", 
+        "tenis", 
+        "tenis raketi ve topu", 
+        "tenis topu"
+    ], 
+    "🎿": [
+        "kayak", 
+        "spor", 
+        "bot", 
+        "kayak ve bot"
+    ], 
+    "🏀": [
+        "basketbol", 
+        "spor", 
+        "basketbol potası", 
+        "top", 
+        "pota"
+    ], 
+    "🏁": [
+        "damalı bayrak", 
+        "spor", 
+        "damalı", 
+        "bayrak", 
+        "yarış"
+    ], 
+    "🏂": [
+        "spor", 
+        "snowboard", 
+        "snowbordçu", 
+        "snowboard yapmak"
+    ], 
+    "🏃": [
+        "koşan kişi", 
+        "spor", 
+        "koşu", 
+        "maraton"
+    ], 
+    "🏄": [
+        "spor", 
+        "sörf yapan kişi", 
+        "sörfçü"
+    ], 
+    "🏅": [
+        "spor madalyası", 
+        "madalya"
+    ], 
+    "🏆": [
+        "zafer kupası", 
+        "ödül"
+    ], 
+    "🏇": [
+        "spor", 
+        "at yarışı", 
+        "at", 
+        "yarış atı", 
+        "yarış", 
+        "jokey"
+    ], 
+    "🏈": [
+        "top", 
+        "Amerikan", 
+        "amerikan futbolu", 
+        "spor"
+    ], 
+    "🏉": [
+        "ragbi", 
+        "spor", 
+        "top", 
+        "futbol topu"
+    ], 
+    "🏊": [
+        "spor", 
+        "yüzen kişi", 
+        "yüzme"
+    ], 
+    "🏏": [
+        "maç", 
+        "top", 
+        "sopa", 
+        "kriket"
+    ], 
+    "🏐": [
+        "maç", 
+        "top", 
+        "voleybol"
+    ], 
+    "🏑": [
+        "saha", 
+        "top", 
+        "maç", 
+        "hokey", 
+        "sopa", 
+        "çim hokeyi"
+    ], 
+    "🏒": [
+        "buz", 
+        "buz hokeyi", 
+        "maç", 
+        "hokey", 
+        "sopa", 
+        "disk"
+    ], 
+    "🏓": [
+        "maç", 
+        "top", 
+        "masa tenisi", 
+        "raket", 
+        "pinpon"
+    ], 
+    "🏠": [
+        "ev", 
+        "bina"
+    ], 
+    "🏡": [
+        "bahçeli ev", 
+        "bahçe", 
+        "bina"
+    ], 
+    "🏢": [
+        "ofis binası", 
+        "bina"
+    ], 
+    "🏣": [
+        "Japon postanesi", 
+        "Japon", 
+        "bina", 
+        "posta"
+    ], 
+    "🏤": [
+        "postane", 
+        "bina", 
+        "Avrupa", 
+        "posta", 
+        "Avrupa postanesi"
+    ], 
+    "🏥": [
+        "hastane", 
+        "bina"
+    ], 
+    "🏦": [
+        "banka", 
+        "bina"
+    ], 
+    "🏧": [
+        "vezne", 
+        "ATM işareti", 
+        "otomatik"
+    ], 
+    "🏨": [
+        "otel", 
+        "bina"
+    ], 
+    "🏩": [
+        "aşk", 
+        "otel", 
+        "bina", 
+        "aşk oteli"
+    ], 
+    "🏪": [
+        "sürekli açık market", 
+        "sürekli açık", 
+        "bina", 
+        "market"
+    ], 
+    "🏫": [
+        "okul binası", 
+        "bina", 
+        "okul"
+    ], 
+    "🏬": [
+        "çok katlı", 
+        "çok katlı mağaza", 
+        "mağaza"
+    ], 
+    "🏭": [
+        "bina", 
+        "fabrika"
+    ], 
+    "🏮": [
+        "restoran", 
+        "bar", 
+        "kırmızı", 
+        "izakaya", 
+        "kırmızı kağıt fener", 
+        "fener"
+    ], 
+    "🏯": [
+        "bina", 
+        "kale", 
+        "Japon kalesi"
+    ], 
+    "🏰": [
+        "bina", 
+        "kale", 
+        "şato"
+    ], 
+    "🏴": [
+        "siyah bayrak", 
+        "bayrak"
+    ], 
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "bayrak", 
+        "İngiltere"
+    ], 
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "İskoçya", 
+        "bayrak"
+    ], 
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "bayrak", 
+        "Galler"
+    ], 
+    "🏸": [
+        "maç", 
+        "badminton", 
+        "raket", 
+        "tüylü top"
+    ], 
+    "🏹": [
+        "ok", 
+        "ok ve yay", 
+        "okçu", 
+        "silah", 
+        "yay", 
+        "burç", 
+        "araç"
+    ], 
+    "🏺": [
+        "alet", 
+        "içecek", 
+        "silah", 
+        "kap", 
+        "antika", 
+        "amfora"
+    ], 
+    "🏻": [
+        "ton", 
+        "emoji değiştirici", 
+        "açık cilt tonu", 
+        "deri"
+    ], 
+    "🏼": [
+        "ton", 
+        "emoji değiştirici", 
+        "orta açık cilt tonu", 
+        "deri"
+    ], 
+    "🏽": [
+        "orta cilt tonu", 
+        "ton", 
+        "emoji değiştirici", 
+        "deri"
+    ], 
+    "🏾": [
+        "ton", 
+        "emoji değiştirici", 
+        "orta koyu cilt tonu", 
+        "deri"
+    ], 
+    "🏿": [
+        "ton", 
+        "koyu cilt tonu", 
+        "emoji değiştirici", 
+        "deri"
+    ], 
+    "🐀": [
+        "sıçan"
+    ], 
+    "🐁": [
+        "fare", 
+        "fil"
+    ], 
+    "🐂": [
+        "öküz", 
+        "boğa", 
+        "boğa burcu", 
+        "burçlar"
+    ], 
+    "🐃": [
+        "manda", 
+        "buffalo", 
+        "su"
+    ], 
+    "🐄": [
+        "inek"
+    ], 
+    "🐅": [
+        "kaplan"
+    ], 
+    "🐆": [
+        "leopar"
+    ], 
+    "🐇": [
+        "hayvan", 
+        "tavşan"
+    ], 
+    "🐈": [
+        "hayvan", 
+        "kedi"
+    ], 
+    "🐉": [
+        "ejderha", 
+        "hayvan"
+    ], 
+    "🐊": [
+        "hayvan", 
+        "timsah"
+    ], 
+    "🐋": [
+        "hayvan", 
+        "balina"
+    ], 
+    "🐌": [
+        "salyangoz"
+    ], 
+    "🐍": [
+        "hayvan", 
+        "yılan"
+    ], 
+    "🐎": [
+        "yarış atı", 
+        "yarış", 
+        "at"
+    ], 
+    "🐏": [
+        "koç", 
+        "burç"
+    ], 
+    "🐐": [
+        "keçi", 
+        "burçlar", 
+        "oğlak burcu"
+    ], 
+    "🐑": [
+        "dişi koyun", 
+        "koyun"
+    ], 
+    "🐒": [
+        "hayvan", 
+        "maymun"
+    ], 
+    "🐓": [
+        "horoz", 
+        "hayvan"
+    ], 
+    "🐔": [
+        "hayvan", 
+        "tavuk"
+    ], 
+    "🐕": [
+        "köpek", 
+        "hayvan", 
+        "süs köpeği"
+    ], 
+    "🐖": [
+        "dişi domuz", 
+        "domuz"
+    ], 
+    "🐗": [
+        "domuz", 
+        "yaban domuzu"
+    ], 
+    "🐘": [
+        "fil"
+    ], 
+    "🐙": [
+        "ahtapot", 
+        "hayvan"
+    ], 
+    "🐚": [
+        "deniz kabuğu", 
+        "hayvan", 
+        "spiral deniz kabuğu"
+    ], 
+    "🐛": [
+        "böcek", 
+        "hayvan", 
+        "kırkayak", 
+        "tırtıl"
+    ], 
+    "🐜": [
+        "böcek", 
+        "karınca"
+    ], 
+    "🐝": [
+        "arı", 
+        "bal arısı", 
+        "hayvan"
+    ], 
+    "🐞": [
+        "uğur böceği", 
+        "böcek", 
+        "hanım", 
+        "hanımböceği", 
+        "hayvan"
+    ], 
+    "🐟": [
+        "balık", 
+        "hayvan"
+    ], 
+    "🐠": [
+        "tropikal balık", 
+        "balık", 
+        "hayvan"
+    ], 
+    "🐡": [
+        "balık", 
+        "balon balığı", 
+        "hayvan"
+    ], 
+    "🐢": [
+        "hayvan", 
+        "kaplumbağa"
+    ], 
+    "🐣": [
+        "yumurtadan çıkan civciv", 
+        "piliç", 
+        "hayvan", 
+        "tavuk", 
+        "yavru", 
+        "kuluçka", 
+        "civciv"
+    ], 
+    "🐤": [
+        "tavuk", 
+        "hayvan", 
+        "piliç", 
+        "yavru", 
+        "civciv"
+    ], 
+    "🐥": [
+        "piliç", 
+        "hayvan", 
+        "tavuk", 
+        "yavru", 
+        "önden civciv", 
+        "yüzü dönük civciv"
+    ], 
+    "🐦": [
+        "kuş", 
+        "hayvan"
+    ], 
+    "🐧": [
+        "penguen", 
+        "hayvan"
+    ], 
+    "🐨": [
+        "koala ayısı", 
+        "hayvan", 
+        "koala"
+    ], 
+    "🐩": [
+        "köpek", 
+        "hayvan", 
+        "kaniş"
+    ], 
+    "🐪": [
+        "hörgüç", 
+        "hecin devesi", 
+        "hayvan", 
+        "deve"
+    ], 
+    "🐫": [
+        "hörgüç", 
+        "hayvan", 
+        "iki hörgüçlü deve", 
+        "deve"
+    ], 
+    "🐬": [
+        "hayvan", 
+        "yunus"
+    ], 
+    "🐭": [
+        "fare", 
+        "fare yüzü", 
+        "yüz", 
+        "hayvan"
+    ], 
+    "🐮": [
+        "inek", 
+        "yüz", 
+        "hayvan", 
+        "inek yüzü"
+    ], 
+    "🐯": [
+        "yüz", 
+        "kaplan yüzü", 
+        "kaplan"
+    ], 
+    "🐰": [
+        "yüz", 
+        "hayvan", 
+        "tavşan yüzü", 
+        "tavşan"
+    ], 
+    "🐱": [
+        "yüz", 
+        "hayvan", 
+        "kedi", 
+        "kedi yüzü"
+    ], 
+    "🐲": [
+        "ejderha", 
+        "ejderha yüzü", 
+        "yüz", 
+        "hayvan"
+    ], 
+    "🐳": [
+        "su püskürten balina", 
+        "su püskürten", 
+        "hayvan", 
+        "balina"
+    ], 
+    "🐴": [
+        "yüz", 
+        "hayvan", 
+        "at", 
+        "at yüzü"
+    ], 
+    "🐵": [
+        "maymun yüzü", 
+        "yüz", 
+        "hayvan", 
+        "maymun"
+    ], 
+    "🐶": [
+        "köpek", 
+        "hayvan", 
+        "yüz", 
+        "köpek yüzü"
+    ], 
+    "🐷": [
+        "domuz yüzü", 
+        "yüz", 
+        "hayvan", 
+        "domuz"
+    ], 
+    "🐸": [
+        "kurbağa yüzü", 
+        "yüz", 
+        "hayvan", 
+        "kurbağa"
+    ], 
+    "🐹": [
+        "yüz", 
+        "hayvan", 
+        "hamster", 
+        "hamster yüzü"
+    ], 
+    "🐺": [
+        "kurt", 
+        "hayvan", 
+        "yüz", 
+        "kurt yüzü"
+    ], 
+    "🐻": [
+        "yüz", 
+        "ayı", 
+        "ayı yüzü", 
+        "hayvan"
+    ], 
+    "🐼": [
+        "yüz", 
+        "hayvan", 
+        "panda", 
+        "panda yüzü"
+    ], 
+    "🐽": [
+        "domuz burnu", 
+        "hayvan", 
+        "domuz", 
+        "yüz", 
+        "burun"
+    ], 
+    "🐾": [
+        "pençe izi", 
+        "hayvan", 
+        "iz"
+    ], 
+    "👀": [
+        "gözler", 
+        "yüz"
+    ], 
+    "👂": [
+        "gövde", 
+        "kulak"
+    ], 
+    "👃": [
+        "yüz", 
+        "gövde", 
+        "burun"
+    ], 
+    "👄": [
+        "ağız", 
+        "yüz", 
+        "dudaklar", 
+        "gövde"
+    ], 
+    "👅": [
+        "dil", 
+        "yüz", 
+        "gövde"
+    ], 
+    "👆": [
+        "elinin tersiyle yukarıyı gösteren işaret parmağı", 
+        "elin arkası", 
+        "parmak", 
+        "yukarıyı gösteren parmak", 
+        "işaret parmağı"
+    ], 
+    "👇": [
+        "elinin tersiyle aşağıyı gösteren işaret parmağı", 
+        "elin arkası", 
+        "parmak", 
+        "aşağıyı gösteren parmak", 
+        "işaret parmağı"
+    ], 
+    "👈": [
+        "solu gösteren parmak", 
+        "elin arkası", 
+        "parmak", 
+        "elinin tersiyle solu gösteren işaret parmağı", 
+        "işaret parmağı"
+    ], 
+    "👉": [
+        "sağı gösteren parmak", 
+        "elinin tersiyle sağı gösteren işaret parmağı", 
+        "elin arkası", 
+        "parmak", 
+        "işaret parmağı"
+    ], 
+    "👊": [
+        "el", 
+        "yaklaşan yumruk", 
+        "yumruk"
+    ], 
+    "👋": [
+        "el", 
+        "el sallama", 
+        "sallama"
+    ], 
+    "👌": [
+        "Tamam el işareti", 
+        "el", 
+        "işaret", 
+        "Tamam", 
+        "tamam işareti"
+    ], 
+    "👍": [
+        "el", 
+        "işaret", 
+        "baş parmak", 
+        "yukarı", 
+        "baş parmak yukarıda"
+    ], 
+    "👎": [
+        "aşağı", 
+        "el", 
+        "baş parmak aşağıda", 
+        "işaret", 
+        "baş parmak"
+    ], 
+    "👏": [
+        "el çırpma", 
+        "çırpma", 
+        "işaret", 
+        "eller"
+    ], 
+    "👐": [
+        "el", 
+        "açık", 
+        "işaret", 
+        "eller açık", 
+        "eller açık işareti"
+    ], 
+    "👑": [
+        "giyim", 
+        "taç"
+    ], 
+    "👒": [
+        "şapka", 
+        "giyim", 
+        "kadın şapkası"
+    ], 
+    "👓": [
+        "giyim", 
+        "gözlük"
+    ], 
+    "👔": [
+        "giyim", 
+        "kravat"
+    ], 
+    "👕": [
+        "tişört", 
+        "giyim", 
+        "gömlek"
+    ], 
+    "👖": [
+        "pantolon", 
+        "bluejean", 
+        "giyim"
+    ], 
+    "👗": [
+        "elbise", 
+        "giyim", 
+        "tek parça"
+    ], 
+    "👘": [
+        "elbise", 
+        "kimono", 
+        "giyim"
+    ], 
+    "👙": [
+        "deniz giysisi", 
+        "bikini", 
+        "giyim"
+    ], 
+    "👚": [
+        "giyim", 
+        "kadın giysisi", 
+        "giysiler"
+    ], 
+    "👛": [
+        "bozuk para çantası", 
+        "cüzdan", 
+        "giyim", 
+        "bozuk para"
+    ], 
+    "👜": [
+        "giyim", 
+        "çanta", 
+        "el çantası"
+    ], 
+    "👝": [
+        "para kesesi", 
+        "giyim", 
+        "çanta"
+    ], 
+    "👞": [
+        "ayakkabı", 
+        "giyim", 
+        "erkek ayakkabısı"
+    ], 
+    "👟": [
+        "ayakkabı", 
+        "giyim", 
+        "bez ayakkabı", 
+        "koşu ayakkabısı"
+    ], 
+    "👠": [
+        "ayakkabı", 
+        "giyim", 
+        "yüksek topuklu ayakkabı"
+    ], 
+    "👡": [
+        "giyim", 
+        "kadın", 
+        "sandalet", 
+        "kadın sandaleti"
+    ], 
+    "👢": [
+        "kadın botu", 
+        "giyim", 
+        "kadın", 
+        "bot"
+    ], 
+    "👣": [
+        "ayak", 
+        "iz", 
+        "ayak izi", 
+        "gövde"
+    ], 
+    "👤": [
+        "siluet", 
+        "siluet büst", 
+        "kişiler", 
+        "büst"
+    ], 
+    "👥": [
+        "siluet", 
+        "kişiler", 
+        "siluet büstler", 
+        "büst"
+    ], 
+    "👦": [
+        "kişiler", 
+        "erkek çocuk"
+    ], 
+    "👧": [
+        "kişiler", 
+        "kız çocuk"
+    ], 
+    "👨": [
+        "kişiler", 
+        "erkek"
+    ], 
+    "👨‍🌾": [
+        "çiftlik sahibi", 
+        "erkek çiftçi", 
+        "adam", 
+        "bahçıvan", 
+        "çiftçi", 
+        "erkek"
+    ], 
+    "👨‍🍳": [
+        "şef", 
+        "erkek aşçı", 
+        "yemek yapma", 
+        "adam", 
+        "erkek"
+    ], 
+    "👨‍🎓": [
+        "mezun", 
+        "erkek öğrenci", 
+        "adam", 
+        "öğrenci", 
+        "erkek"
+    ], 
+    "👨‍🎤": [
+        "gösterici", 
+        "star", 
+        "erkek şarkıcı", 
+        "aktör", 
+        "adam", 
+        "rock", 
+        "şarkıcı", 
+        "erkek"
+    ], 
+    "👨‍🎨": [
+        "palet", 
+        "sanatçı", 
+        "adam", 
+        "erkek sanatçı", 
+        "erkek"
+    ], 
+    "👨‍🏫": [
+        "öğretmen", 
+        "profesör", 
+        "erkek öğretmen", 
+        "adam", 
+        "eğitmen", 
+        "erkek"
+    ], 
+    "👨‍🏭": [
+        "montaj", 
+        "işçi", 
+        "fabrika", 
+        "erkek fabrika işçisi", 
+        "sanayi", 
+        "adam", 
+        "erkek"
+    ], 
+    "👨‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "kişiler", 
+        "aile: erkek erkek çocuk", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👦‍👦": [
+        "baba", 
+        "aile: erkek erkek çocuk erkek çocuk", 
+        "erkek çocuk", 
+        "kişiler", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👧": [
+        "baba", 
+        "kişiler", 
+        "kız çocuk", 
+        "aile", 
+        "anne", 
+        "aile: erkek kız çocuk", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👧‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "aile: erkek kız çocuk erkek çocuk", 
+        "kişiler", 
+        "kız çocuk", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👧‍👧": [
+        "baba", 
+        "kişiler", 
+        "kız çocuk", 
+        "aile: erkek kız çocuk kız çocuk", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👨‍👦": [
+        "baba", 
+        "aile: erkek erkek erkek çocuk", 
+        "erkek çocuk", 
+        "kişiler", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "aile: erkek erkek erkek çocuk erkek çocuk", 
+        "kişiler", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👨‍👧": [
+        "baba", 
+        "aile: erkek erkek kız çocuk", 
+        "kişiler", 
+        "kız çocuk", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "aile: erkek erkek kız çocuk erkek çocuk", 
+        "kişiler", 
+        "kız çocuk", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "baba", 
+        "aile: erkek erkek kız çocuk kız çocuk", 
+        "kişiler", 
+        "kız çocuk", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👩‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "aile: erkek kadın erkek çocuk", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "baba", 
+        "aile: erkek kadın erkek çocuk erkek çocuk", 
+        "erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk"
+    ], 
+    "👨‍👩‍👧": [
+        "baba", 
+        "aile: erkek kadın kız çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "baba", 
+        "aile: erkek kadın kız çocuk erkek çocuk", 
+        "erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "baba", 
+        "kişiler", 
+        "kadın", 
+        "aile: erkek kadın kız çocuk kız çocuk", 
+        "aile", 
+        "anne", 
+        "erkek", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👨‍💻": [
+        "erkek teknoloji uzmanı", 
+        "geliştirici", 
+        "yazılım", 
+        "kodlayıcı", 
+        "mucit", 
+        "adam", 
+        "teknoloji uzmanı", 
+        "erkek"
+    ], 
+    "👨‍💼": [
+        "erkek ofis çalışanı", 
+        "beyaz yaka", 
+        "iş", 
+        "mimar", 
+        "yönetici", 
+        "ofis", 
+        "adam", 
+        "erkek"
+    ], 
+    "👨‍🔧": [
+        "elektrikçi", 
+        "tamirci", 
+        "esnaf", 
+        "adam", 
+        "tesisatçı", 
+        "erkek", 
+        "erkek tamirci"
+    ], 
+    "👨‍🔬": [
+        "erkek bilim insanı", 
+        "mühendis", 
+        "kimyacı", 
+        "biyolog", 
+        "bilim adamı", 
+        "adam", 
+        "fizikçi", 
+        "erkek", 
+        "matematikçi"
+    ], 
+    "👨‍🚀": [
+        "astronot", 
+        "adam", 
+        "erkek astronot", 
+        "uzay", 
+        "erkek", 
+        "roket"
+    ], 
+    "👨‍🚒": [
+        "erkek itfaiyeci", 
+        "itfaiye aracı", 
+        "adam", 
+        "itfaiyeci", 
+        "erkek"
+    ], 
+    "👩": [
+        "kişiler", 
+        "kadın"
+    ], 
+    "👩‍🌾": [
+        "bayan", 
+        "çiftlik sahibi", 
+        "kadın çiftçi", 
+        "kadın", 
+        "bahçıvan", 
+        "çiftçi"
+    ], 
+    "👩‍🍳": [
+        "kadın aşçı", 
+        "kadın", 
+        "bayan", 
+        "şef", 
+        "yemek yapma"
+    ], 
+    "👩‍🎓": [
+        "mezun", 
+        "kadın öğrenci", 
+        "kadın", 
+        "bayan", 
+        "öğrenci"
+    ], 
+    "👩‍🎤": [
+        "gösterici", 
+        "bayan", 
+        "kadın şarkıcı", 
+        "kadın", 
+        "rock", 
+        "star", 
+        "şarkıcı", 
+        "aktör"
+    ], 
+    "👩‍🎨": [
+        "kadın sanatçı", 
+        "palet", 
+        "kadın", 
+        "bayan", 
+        "sanatçı"
+    ], 
+    "👩‍🏫": [
+        "öğretmen", 
+        "bayan", 
+        "kadın öğretmen", 
+        "profesör", 
+        "kadın", 
+        "eğitmen"
+    ], 
+    "👩‍🏭": [
+        "bayan", 
+        "montaj", 
+        "işçi", 
+        "fabrika", 
+        "sanayi", 
+        "kadın", 
+        "kadın fabrika işçisi"
+    ], 
+    "👩‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "aile: kadın erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "çocuk"
+    ], 
+    "👩‍👦‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile: kadın erkek çocuk erkek çocuk", 
+        "aile", 
+        "anne", 
+        "çocuk"
+    ], 
+    "👩‍👧": [
+        "baba", 
+        "aile: kadın kız çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👩‍👧‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile: kadın kız çocuk erkek çocuk", 
+        "aile", 
+        "anne", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👩‍👧‍👧": [
+        "baba", 
+        "aile: kadın kız çocuk kız çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👩‍👩‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "aile: kadın kadın erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "çocuk"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "baba", 
+        "erkek çocuk", 
+        "aile: kadın kadın erkek çocuk erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "çocuk"
+    ], 
+    "👩‍👩‍👧": [
+        "baba", 
+        "aile: kadın kadın kız çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "baba", 
+        "aile: kadın kadın kız çocuk erkek çocuk", 
+        "erkek çocuk", 
+        "kişiler", 
+        "kadın", 
+        "aile", 
+        "anne", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "baba", 
+        "kişiler", 
+        "kadın", 
+        "aile: kadın kadın kız çocuk kız çocuk", 
+        "aile", 
+        "anne", 
+        "çocuk", 
+        "kız çocuk"
+    ], 
+    "👩‍💻": [
+        "bayan", 
+        "teknoloji uzmanı", 
+        "geliştirici", 
+        "yazılım", 
+        "kadın", 
+        "kodlayıcı", 
+        "mucit", 
+        "kadın teknoloji uzmanı"
+    ], 
+    "👩‍💼": [
+        "kadın ofis çalışanı", 
+        "mimar", 
+        "bayan", 
+        "iş", 
+        "beyaz yaka", 
+        "yönetici", 
+        "ofis", 
+        "kadın"
+    ], 
+    "👩‍🔧": [
+        "elektrikçi", 
+        "bayan", 
+        "tamirci", 
+        "esnaf", 
+        "kadın", 
+        "kadın tamirci", 
+        "tesisatçı"
+    ], 
+    "👩‍🔬": [
+        "bayan", 
+        "mühendis", 
+        "kimyacı", 
+        "biyolog", 
+        "bilim adamı", 
+        "kadın bilim insanı", 
+        "kadın", 
+        "fizikçi", 
+        "matematikçi"
+    ], 
+    "👩‍🚀": [
+        "bayan", 
+        "astronot", 
+        "kadın", 
+        "uzay", 
+        "kadın astronot", 
+        "roket"
+    ], 
+    "👩‍🚒": [
+        "kadın itfaiyeci", 
+        "kadın", 
+        "bayan", 
+        "itfaiyeci", 
+        "itfaiye aracı"
+    ], 
+    "👪": [
+        "baba", 
+        "anne", 
+        "kişiler", 
+        "çocuk", 
+        "aile"
+    ], 
+    "👫": [
+        "kişiler", 
+        "kadın", 
+        "el ele tutuşan erkek ve kadın", 
+        "çift", 
+        "erkek", 
+        "el ele tutuşan"
+    ], 
+    "👬": [
+        "el ele tutuşan iki erkek", 
+        "kişiler", 
+        "çift", 
+        "erkek", 
+        "el ele tutuşan"
+    ], 
+    "👭": [
+        "el ele tutuşan iki kadın", 
+        "kişiler", 
+        "kadın", 
+        "çift", 
+        "el ele tutuşan"
+    ], 
+    "👮": [
+        "polis", 
+        "polis memuru", 
+        "kişiler", 
+        "görevli"
+    ], 
+    "👯": [
+        "tavşan kulaklar", 
+        "kişiler", 
+        "kadın", 
+        "kız", 
+        "tavşan kulaklı kişi"
+    ], 
+    "👰": [
+        "kişiler", 
+        "duvak", 
+        "duvaklı gelin", 
+        "evlilik"
+    ], 
+    "👱": [
+        "sarışın kişi", 
+        "kişiler", 
+        "sarışın"
+    ], 
+    "👲": [
+        "gua pi mao takan erkek", 
+        "gua pi mao", 
+        "kişiler", 
+        "çinli şapkası olan adam"
+    ], 
+    "👳": [
+        "sarık", 
+        "sarıklı erkek", 
+        "kişiler", 
+        "sarıklı kişi"
+    ], 
+    "👴": [
+        "yaşlı erkek", 
+        "kişiler", 
+        "yaşlı", 
+        "erkek"
+    ], 
+    "👵": [
+        "kişiler", 
+        "kadın", 
+        "yaşlı", 
+        "yaşlı kadın"
+    ], 
+    "👶": [
+        "bebek", 
+        "kişiler"
+    ], 
+    "👷": [
+        "kişiler", 
+        "işçi", 
+        "inşaat", 
+        "inşaat işçisi"
+    ], 
+    "👸": [
+        "prenses", 
+        "kişiler", 
+        "peri masalı"
+    ], 
+    "👹": [
+        "canavar", 
+        "oni", 
+        "japon canavarı", 
+        "peri masalı", 
+        "dev", 
+        "yüz"
+    ], 
+    "👺": [
+        "canavar", 
+        "tengu", 
+        "peri masalı", 
+        "yüz", 
+        "japon cini", 
+        "goblin"
+    ], 
+    "👻": [
+        "hayalet", 
+        "yüz", 
+        "peri masalı"
+    ], 
+    "👼": [
+        "yüz", 
+        "peri masalı", 
+        "bebek melek", 
+        "melek"
+    ], 
+    "👽": [
+        "uzaylı", 
+        "yüz", 
+        "UFO", 
+        "dünya dışı", 
+        "peri masalı"
+    ], 
+    "👾": [
+        "canavar", 
+        "yüz", 
+        "peri masalı", 
+        "uzaylı canavar", 
+        "UFO"
+    ], 
+    "👿": [
+        "şeytan", 
+        "yüz", 
+        "küçük şeytan", 
+        "boynuzlu kızgın yüz"
+    ], 
+    "💀": [
+        "peri masalı", 
+        "yüz", 
+        "gövde", 
+        "kafatası"
+    ], 
+    "💁": [
+        "bilgilendirme", 
+        "elini yana yatırma", 
+        "kişiler", 
+        "yardım"
+    ], 
+    "💂": [
+        "kişiler", 
+        "muhafız", 
+        "bekçi"
+    ], 
+    "💃": [
+        "kişiler", 
+        "dans eden kadın", 
+        "dans"
+    ], 
+    "💄": [
+        "ruj", 
+        "makyaj", 
+        "kozmetik"
+    ], 
+    "💅": [
+        "manikür", 
+        "oje", 
+        "oje sürme", 
+        "tırnak", 
+        "kozmetik"
+    ], 
+    "💆": [
+        "masaj", 
+        "salon", 
+        "yüz masajı"
+    ], 
+    "💇": [
+        "güzellik", 
+        "salon", 
+        "güzellik salonu", 
+        "saç kesimi"
+    ], 
+    "💈": [
+        "berber", 
+        "berber dükkanı", 
+        "işaret", 
+        "berber işareti"
+    ], 
+    "💉": [
+        "iğne", 
+        "ilaç", 
+        "şırınga", 
+        "doktor"
+    ], 
+    "💊": [
+        "hap", 
+        "ilaç", 
+        "doktor"
+    ], 
+    "💋": [
+        "romantizm", 
+        "öpücük", 
+        "dudaklar", 
+        "öpücük izi"
+    ], 
+    "💌": [
+        "kalp", 
+        "romantizm", 
+        "mektup", 
+        "kalpli mektup", 
+        "aşk mektubu"
+    ], 
+    "💍": [
+        "romantizm", 
+        "yüzük"
+    ], 
+    "💎": [
+        "romantizm", 
+        "elmas", 
+        "mücevher taşı", 
+        "mücevher"
+    ], 
+    "💏": [
+        "romantizm", 
+        "kişiler", 
+        "öpüşme", 
+        "öpücük"
+    ], 
+    "💐": [
+        "buket", 
+        "romantizm", 
+        "çiçek"
+    ], 
+    "💑": [
+        "kalp", 
+        "kalpli çift", 
+        "kişiler", 
+        "romantizm"
+    ], 
+    "💒": [
+        "kilisede evlenme", 
+        "romantizm", 
+        "kilise", 
+        "evlenme"
+    ], 
+    "💓": [
+        "aşk", 
+        "çarpan kalp", 
+        "duygu", 
+        "kalp"
+    ], 
+    "💔": [
+        "kalp", 
+        "kırılmış", 
+        "kırma", 
+        "duygu", 
+        "kırık kalp"
+    ], 
+    "💕": [
+        "aşk", 
+        "aşıklar", 
+        "iki kalp", 
+        "duygu"
+    ], 
+    "💖": [
+        "kalp", 
+        "duygu", 
+        "pırıldayan kalp", 
+        "heyecanlı", 
+        "pırıldayan"
+    ], 
+    "💗": [
+        "duygu", 
+        "aşk", 
+        "sinirli", 
+        "büyüyen kalp", 
+        "kalp", 
+        "coşkulu"
+    ], 
+    "💘": [
+        "aşk", 
+        "kalp", 
+        "duygu", 
+        "ok", 
+        "ok saplanmış kalp"
+    ], 
+    "💙": [
+        "kalp", 
+        "mavi", 
+        "duygu", 
+        "mavi kalp"
+    ], 
+    "💚": [
+        "kalp", 
+        "yeşil kalp", 
+        "duygu", 
+        "yeşil"
+    ], 
+    "💛": [
+        "kalp", 
+        "sarı kalp", 
+        "sarı", 
+        "duygu"
+    ], 
+    "💜": [
+        "kalp", 
+        "mor", 
+        "duygu", 
+        "mor kalp"
+    ], 
+    "💝": [
+        "kalp", 
+        "kurdele", 
+        "duygu", 
+        "sevgililer günü", 
+        "kurdeleli kalp"
+    ], 
+    "💞": [
+        "kawaii", 
+        "aşk", 
+        "sevimli", 
+        "döneme", 
+        "kalp", 
+        "dönen kalpler"
+    ], 
+    "💟": [
+        "kalp", 
+        "kalpli dekorasyon"
+    ], 
+    "💠": [
+        "duygu", 
+        "çiçek", 
+        "sevimli", 
+        "elmas", 
+        "elmas biçimli", 
+        "taç yaprak"
+    ], 
+    "💡": [
+        "ampul", 
+        "ışık", 
+        "bir fikrim var", 
+        "çizgi roman", 
+        "elektrik"
+    ], 
+    "💢": [
+        "öfkeli", 
+        "öfke simgesi", 
+        "duygu", 
+        "çizgi roman", 
+        "öfke işareti"
+    ], 
+    "💣": [
+        "çizgi roman", 
+        "duygu", 
+        "bomba"
+    ], 
+    "💤": [
+        "duygu", 
+        "çizgi roman", 
+        "Zzz", 
+        "uyuma", 
+        "horlama", 
+        "zzz"
+    ], 
+    "💥": [
+        "çarpışma", 
+        "çarpışma işareti", 
+        "duygu", 
+        "çizgi roman"
+    ], 
+    "💦": [
+        "ter damlası", 
+        "ter", 
+        "duygu", 
+        "çizgi roman", 
+        "terli"
+    ], 
+    "💧": [
+        "terli", 
+        "ter", 
+        "damlacık", 
+        "çizgi roman"
+    ], 
+    "💨": [
+        "hızla fırlama", 
+        "duygu", 
+        "çizgi roman", 
+        "kaçma", 
+        "koşma"
+    ], 
+    "💩": [
+        "yığın", 
+        "kaka yığını", 
+        "kaka", 
+        "pislik"
+    ], 
+    "💪": [
+        "çizgi roman", 
+        "güçlü", 
+        "pazı", 
+        "esnek", 
+        "kas", 
+        "kas esnetme"
+    ], 
+    "💫": [
+        "yıldızları görme", 
+        "duygu", 
+        "çizgi roman", 
+        "baş dönmesi", 
+        "yıldızlar"
+    ], 
+    "💬": [
+        "konuşma balonu", 
+        "iletişim", 
+        "çizgi roman", 
+        "iletişim balonu", 
+        "balon"
+    ], 
+    "💭": [
+        "düşünce balonu", 
+        "düşünce", 
+        "çizgi roman", 
+        "balon"
+    ], 
+    "💮": [
+        "beyaz çiçek", 
+        "iyi çalışma damgası", 
+        "çiçek", 
+        "damga"
+    ], 
+    "💯": [
+        "100", 
+        "yüz puan", 
+        "skor", 
+        "100 puan"
+    ], 
+    "💰": [
+        "para torbası", 
+        "çanta", 
+        "para", 
+        "dolar çantası"
+    ], 
+    "💱": [
+        "bozdurma", 
+        "döviz", 
+        "döviz bozdurma", 
+        "para"
+    ], 
+    "💲": [
+        "koyu renk dolar işareti", 
+        "para", 
+        "dolar", 
+        "dolar işareti"
+    ], 
+    "💳": [
+        "kredi kartı", 
+        "kredi", 
+        "kart"
+    ], 
+    "💴": [
+        "yen banknot", 
+        "fatura", 
+        "para", 
+        "banknot", 
+        "yen"
+    ], 
+    "💵": [
+        "dolar banknot", 
+        "fatura", 
+        "para", 
+        "dolar", 
+        "banknot"
+    ], 
+    "💶": [
+        "fatura", 
+        "euro banknot", 
+        "para", 
+        "banknot", 
+        "euro"
+    ], 
+    "💷": [
+        "sterlin", 
+        "para", 
+        "banknot", 
+        "sterlin banknot"
+    ], 
+    "💸": [
+        "uçan banknot", 
+        "banka", 
+        "para", 
+        "kanatlı para", 
+        "banknot"
+    ], 
+    "💹": [
+        "grafik", 
+        "yukarı giden grafik", 
+        "yukarı yönlü", 
+        "piyasa", 
+        "yen simgeli artış grafiği"
+    ], 
+    "💺": [
+        "koltuk", 
+        "sandalye"
+    ], 
+    "💻": [
+        "bilgisayar", 
+        "kişisel", 
+        "dizüstü bilgisayar"
+    ], 
+    "💼": [
+        "evrak çantası"
+    ], 
+    "💽": [
+        "disk", 
+        "mini disk"
+    ], 
+    "💾": [
+        "floppy", 
+        "disket"
+    ], 
+    "💿": [
+        "DVD", 
+        "disk", 
+        "optik disk", 
+        "CD"
+    ], 
+    "📀": [
+        "dvd", 
+        "disk", 
+        "DVD disk"
+    ], 
+    "📁": [
+        "dosya", 
+        "dosya klasörü", 
+        "klasör"
+    ], 
+    "📂": [
+        "dosya", 
+        "açık dosya klasörü", 
+        "açık", 
+        "açık klasör", 
+        "klasör"
+    ], 
+    "📃": [
+        "sayfa", 
+        "kenarı kıvrılmış sayfa", 
+        "kıvrık sayfa"
+    ], 
+    "📄": [
+        "doküman", 
+        "ön yüz", 
+        "ön yüzü görünen sayfa", 
+        "sayfa"
+    ], 
+    "📅": [
+        "takvim", 
+        "tarih"
+    ], 
+    "📆": [
+        "takvim", 
+        "koparmalı takvim"
+    ], 
+    "📇": [
+        "kart dizini", 
+        "dizin", 
+        "rolodeks"
+    ], 
+    "📈": [
+        "grafik", 
+        "yükselen grafik", 
+        "yukarı yönlü", 
+        "artış grafiği"
+    ], 
+    "📉": [
+        "grafik", 
+        "alçalan grafik", 
+        "aşağı yönlü", 
+        "iniş grafiği"
+    ], 
+    "📊": [
+        "grafik", 
+        "çubuk grafiği"
+    ], 
+    "📋": [
+        "pano"
+    ], 
+    "📌": [
+        "iğne", 
+        "raptiye"
+    ], 
+    "📍": [
+        "iğne", 
+        "raptiye", 
+        "yuvarlak raptiye"
+    ], 
+    "📎": [
+        "klips", 
+        "ataş"
+    ], 
+    "📏": [
+        "düz cetvel", 
+        "cetvel"
+    ], 
+    "📐": [
+        "üçgen", 
+        "gönye", 
+        "cetvel"
+    ], 
+    "📑": [
+        "işaretçi", 
+        "ayraçlar", 
+        "sayfa ayraçları", 
+        "sayfa işareti"
+    ], 
+    "📒": [
+        "resmi defter", 
+        "not defteri"
+    ], 
+    "📓": [
+        "not defteri"
+    ], 
+    "📔": [
+        "dekorasyonlu not defteri", 
+        "kapak", 
+        "süslü not defteri", 
+        "not defteri"
+    ], 
+    "📕": [
+        "kapalı kitap", 
+        "kitap"
+    ], 
+    "📖": [
+        "kitap", 
+        "açık kitap"
+    ], 
+    "📗": [
+        "kitap", 
+        "yeşil kitap"
+    ], 
+    "📘": [
+        "mavi kitap", 
+        "kitap"
+    ], 
+    "📙": [
+        "kitap", 
+        "turuncu kitap"
+    ], 
+    "📚": [
+        "kitap", 
+        "kitaplar"
+    ], 
+    "📛": [
+        "rozet", 
+        "ad", 
+        "ad rozeti"
+    ], 
+    "📜": [
+        "parşömen", 
+        "kağıt parşömen"
+    ], 
+    "📝": [
+        "not", 
+        "iletişim", 
+        "not defteri"
+    ], 
+    "📞": [
+        "telefon", 
+        "ahize", 
+        "alıcı"
+    ], 
+    "📟": [
+        "iletişim", 
+        "çağrı cihazı"
+    ], 
+    "📠": [
+        "iletişim", 
+        "faks makinesi"
+    ], 
+    "📡": [
+        "uydu anteni", 
+        "çanak", 
+        "iletişim", 
+        "uydu", 
+        "anten"
+    ], 
+    "📢": [
+        "megafon", 
+        "hoparlör", 
+        "halka hitap", 
+        "iletişim"
+    ], 
+    "📣": [
+        "iletişim", 
+        "megafon", 
+        "karşılama"
+    ], 
+    "📤": [
+        "giden kutusu", 
+        "kutu", 
+        "iletişim", 
+        "giden", 
+        "tepsi", 
+        "posta"
+    ], 
+    "📥": [
+        "kutu", 
+        "tepsi", 
+        "gelen kutusu", 
+        "gelen", 
+        "iletişim", 
+        "posta"
+    ], 
+    "📦": [
+        "kutu", 
+        "paket"
+    ], 
+    "📧": [
+        "iletişim", 
+        "posta", 
+        "mektup", 
+        "e-posta"
+    ], 
+    "📨": [
+        "gelen zarf", 
+        "iletişim", 
+        "mektup", 
+        "e-posta", 
+        "gelen", 
+        "alınan posta", 
+        "posta", 
+        "zarf"
+    ], 
+    "📩": [
+        "zarf", 
+        "iletişim", 
+        "mektup", 
+        "giden", 
+        "posta", 
+        "gönderilen posta", 
+        "e-posta", 
+        "oklu zarf"
+    ], 
+    "📪": [
+        "işareti aşağıda kapalı posta kutusu", 
+        "işareti indirilmiş posta kutusu", 
+        "işaret", 
+        "kapalı", 
+        "posta"
+    ], 
+    "📫": [
+        "işareti kaldırılmış posta kutusu", 
+        "işaret", 
+        "işareti yukarıda kapalı posta kutusu", 
+        "posta", 
+        "kapalı"
+    ], 
+    "📬": [
+        "işareti yukarıda açık posta kutusu", 
+        "açık", 
+        "işaret", 
+        "posta", 
+        "işareti kaldırılmış açık posta kutusu"
+    ], 
+    "📭": [
+        "işareti indirilmiş açık posta kutusu", 
+        "açık", 
+        "işaret", 
+        "işareti aşağıda açık posta kutusu", 
+        "posta"
+    ], 
+    "📮": [
+        "posta kutusu", 
+        "posta"
+    ], 
+    "📯": [
+        "posta klaksonu", 
+        "klakson", 
+        "posta"
+    ], 
+    "📰": [
+        "gazete", 
+        "kağıt", 
+        "haber"
+    ], 
+    "📱": [
+        "telefon", 
+        "mobil telefon", 
+        "cep telefonu"
+    ], 
+    "📲": [
+        "ok işaretli cep telefonu", 
+        "çağrı yapmak", 
+        "telefon", 
+        "mobil telefon"
+    ], 
+    "📳": [
+        "titreşim modu", 
+        "mobil", 
+        "telefon", 
+        "cep telefonu", 
+        "mod"
+    ], 
+    "📴": [
+        "mobil", 
+        "telefon", 
+        "cep telefonu kapalı", 
+        "kapalı", 
+        "cep telefonu"
+    ], 
+    "📵": [
+        "cep telefonu yasak", 
+        "çağrı yapılmaz", 
+        "mobil", 
+        "telefon"
+    ], 
+    "📶": [
+        "sinyal gücü", 
+        "telefon", 
+        "sinyal", 
+        "çubuk işaretli anten", 
+        "mobil", 
+        "anten"
+    ], 
+    "📷": [
+        "fotoğraf makinesi", 
+        "video"
+    ], 
+    "📸": [
+        "flaşlı fotoğraf makinesi", 
+        "kamera", 
+        "video", 
+        "flaş"
+    ], 
+    "📹": [
+        "video kamera", 
+        "kamera", 
+        "video"
+    ], 
+    "📺": [
+        "tv", 
+        "televizyon", 
+        "video"
+    ], 
+    "📻": [
+        "video", 
+        "radyo"
+    ], 
+    "📼": [
+        "teyp", 
+        "video", 
+        "video kaseti"
+    ], 
+    "📿": [
+        "kolye", 
+        "din", 
+        "dua", 
+        "tesbih", 
+        "giyim", 
+        "boncuk"
+    ], 
+    "🔀": [
+        "çapraz sağ oklar", 
+        "parça karıştırma düğmesi", 
+        "oklar"
+    ], 
+    "🔁": [
+        "tekrarlama düğmesi", 
+        "saat yönünde", 
+        "oklar"
+    ], 
+    "🔂": [
+        "saat yönünde", 
+        "tek parça tekrarlama düğmesi", 
+        "1 sayısı olan saat yönünde oklar", 
+        "oklar", 
+        "1 sayısı"
+    ], 
+    "🔃": [
+        "saat yönüne dönen oklar", 
+        "yeniden yükle işareti", 
+        "saat yönünde dikey oklar", 
+        "oklar"
+    ], 
+    "🔄": [
+        "saat yönünün tersine", 
+        "saat yönünün tersine dönen oklar", 
+        "oklar"
+    ], 
+    "🔅": [
+        "düşük parlaklık", 
+        "düşük parlaklık işareti", 
+        "düşük", 
+        "karanlık", 
+        "parlaklık"
+    ], 
+    "🔆": [
+        "parlak", 
+        "yüksek parlaklık işareti", 
+        "parlaklık", 
+        "yüksek parlaklık"
+    ], 
+    "🔇": [
+        "lütfen sessiz olun", 
+        "sessiz olun", 
+        "ses kapalı", 
+        "iptal işaretli hoparlör"
+    ], 
+    "🔈": [
+        "kısık ses", 
+        "ses düzeyi"
+    ], 
+    "🔉": [
+        "düşük ses", 
+        "düşük sesli hoparlör", 
+        "düşük", 
+        "ses açık"
+    ], 
+    "🔊": [
+        "yüksek", 
+        "yüksek sesli hoparlör", 
+        "yüksek ses"
+    ], 
+    "🔋": [
+        "pil"
+    ], 
+    "🔌": [
+        "elektrik", 
+        "elektrik fişi"
+    ], 
+    "🔍": [
+        "solu gösteren", 
+        "solu gösteren büyüteç", 
+        "sola dönük büyüteç", 
+        "arama", 
+        "cam"
+    ], 
+    "🔎": [
+        "sağı gösteren büyüteç", 
+        "sağı gösteren", 
+        "arama", 
+        "cam", 
+        "sağa dönük büyüteç"
+    ], 
+    "🔏": [
+        "gizlilik", 
+        "kilit ve kalem", 
+        "mürekkepli kalem", 
+        "mürekkepli kalemli kilit"
+    ], 
+    "🔐": [
+        "güvenli", 
+        "anahtarlı kapalı kilit", 
+        "anahtarlı kilit"
+    ], 
+    "🔑": [
+        "anahtar", 
+        "şifre"
+    ], 
+    "🔒": [
+        "kapalı kilit", 
+        "kilit"
+    ], 
+    "🔓": [
+        "kilidini açma", 
+        "açık kilit", 
+        "açık", 
+        "kilit"
+    ], 
+    "🔔": [
+        "zil", 
+        "kilise"
+    ], 
+    "🔕": [
+        "ses yok", 
+        "çan", 
+        "üzeri çizili zil", 
+        "iptal işaretli çan"
+    ], 
+    "🔖": [
+        "yer işareti", 
+        "işaret"
+    ], 
+    "🔗": [
+        "bağlantı işareti", 
+        "bağlantılar", 
+        "iki halka"
+    ], 
+    "🔘": [
+        "düğme", 
+        "radyo", 
+        "radyo düğmesi"
+    ], 
+    "🔙": [
+        "ok", 
+        "sol geri ok", 
+        "geri oku", 
+        "sol ok"
+    ], 
+    "🔚": [
+        "sol bitiş oku", 
+        "ok", 
+        "sol ok", 
+        "bitiş oku"
+    ], 
+    "🔛": [
+        "açık oku", 
+        "ünlem işareti", 
+        "ünlem", 
+        "ok", 
+        "ünlem işareti ve okla AÇIK"
+    ], 
+    "🔜": [
+        "yakında işareti", 
+        "Yakında", 
+        "sağ okla Yakında", 
+        "ok"
+    ], 
+    "🔝": [
+        "yukarı okla Yukarı", 
+        "yukarı ok", 
+        "Yukarı", 
+        "yukarı", 
+        "yukarı oku"
+    ], 
+    "🔞": [
+        "18 yaş altı yasaktır", 
+        "18", 
+        "18 yaş altı", 
+        "18 yaş altı yasak"
+    ], 
+    "🔟": [
+        "tuş", 
+        "tuş: 10"
+    ], 
+    "🔠": [
+        "Latin", 
+        "Latin büyük harfleri", 
+        "büyük harf", 
+        "Latin büyük harfleriyle giriş", 
+        "büyük harfler"
+    ], 
+    "🔡": [
+        "küçük harfler", 
+        "Latin", 
+        "küçük harf", 
+        "Latin küçük harfleri", 
+        "Latin küçük harfleriyle giriş"
+    ], 
+    "🔢": [
+        "sayı girişi", 
+        "sayılar"
+    ], 
+    "🔣": [
+        "işaret girişi", 
+        "işaretler"
+    ], 
+    "🔤": [
+        "latin alfabesi", 
+        "ABC", 
+        "Latin Alfabesiyle giriş", 
+        "İngilizce", 
+        "Latin"
+    ], 
+    "🔥": [
+        "alev", 
+        "ateş"
+    ], 
+    "🔦": [
+        "ışık", 
+        "elektrik", 
+        "el feneri"
+    ], 
+    "🔧": [
+        "ingiliz anahtarı", 
+        "araç"
+    ], 
+    "🔨": [
+        "araç", 
+        "çekiç"
+    ], 
+    "🔩": [
+        "somun ve vida", 
+        "vida", 
+        "somun", 
+        "araç"
+    ], 
+    "🔪": [
+        "mutfak bıçağı", 
+        "bıçak"
+    ], 
+    "🔫": [
+        "silah", 
+        "tabanca", 
+        "revolver"
+    ], 
+    "🔬": [
+        "alet", 
+        "mikroskop"
+    ], 
+    "🔭": [
+        "alet", 
+        "teleskop"
+    ], 
+    "🔮": [
+        "fal bakma", 
+        "kristal", 
+        "küre", 
+        "kristal küre", 
+        "fal"
+    ], 
+    "🔯": [
+        "fal bakma", 
+        "yıldız", 
+        "altı köşeli", 
+        "altı köşeli yıldız", 
+        "fal"
+    ], 
+    "🔰": [
+        "yeşil ve sarı", 
+        "yeşil ve sarı yaprak", 
+        "Japonca", 
+        "yeni başlayan"
+    ], 
+    "🔱": [
+        "amblem", 
+        "üçlü çatal", 
+        "çıpa", 
+        "üçlü çatal işareti"
+    ], 
+    "🔲": [
+        "düğme", 
+        "siyah kare düğme", 
+        "kare"
+    ], 
+    "🔳": [
+        "düğme", 
+        "beyaz kare düğme", 
+        "kare"
+    ], 
+    "🔴": [
+        "kırmızı daire", 
+        "çember", 
+        "kırmızı", 
+        "büyük kırmızı çember"
+    ], 
+    "🔵": [
+        "mavi", 
+        "mavi daire", 
+        "çember", 
+        "büyük mavi çember"
+    ], 
+    "🔶": [
+        "büyük turuncu karo", 
+        "karo", 
+        "turuncu"
+    ], 
+    "🔷": [
+        "mavi", 
+        "büyük mavi karo", 
+        "karo"
+    ], 
+    "🔸": [
+        "küçük turuncu karo", 
+        "karo", 
+        "turuncu"
+    ], 
+    "🔹": [
+        "küçük mavi karo", 
+        "mavi", 
+        "karo"
+    ], 
+    "🔺": [
+        "yukarı kırmızı üçgen", 
+        "yukarı bakan kırmızı üçgen", 
+        "üçgen", 
+        "kırmızı"
+    ], 
+    "🔻": [
+        "üçgen", 
+        "aşağı kırmızı üçgen", 
+        "aşağı bakan kırmızı üçgen", 
+        "kırmızı"
+    ], 
+    "🔼": [
+        "yukarı düğmesi", 
+        "düğme", 
+        "üçgen", 
+        "yukarı üçgen düğmesi"
+    ], 
+    "🔽": [
+        "düğme", 
+        "üçgen", 
+        "aşağı üçgen düğmesi", 
+        "aşağı düğmesi"
+    ], 
+    "🕋": [
+        "din", 
+        "Kâbe", 
+        "müslüman", 
+        "islam"
+    ], 
+    "🕌": [
+        "cami", 
+        "din", 
+        "müslüman", 
+        "islam"
+    ], 
+    "🕍": [
+        "tapınak", 
+        "din", 
+        "yahudi", 
+        "sinagog"
+    ], 
+    "🕎": [
+        "mum", 
+        "şamdan", 
+        "din", 
+        "yahudi şamdanı"
+    ], 
+    "🕐": [
+        "saat 1", 
+        "saat", 
+        "bir", 
+        "1:00"
+    ], 
+    "🕑": [
+        "2:00", 
+        "saat 2", 
+        "iki", 
+        "saat"
+    ], 
+    "🕒": [
+        "saat 3", 
+        "saat", 
+        "üç", 
+        "3:00"
+    ], 
+    "🕓": [
+        "dört", 
+        "4:00", 
+        "saat", 
+        "saat 4"
+    ], 
+    "🕔": [
+        "5:00", 
+        "saat", 
+        "saat 5", 
+        "beş"
+    ], 
+    "🕕": [
+        "altı", 
+        "saat", 
+        "6:00", 
+        "saat 6"
+    ], 
+    "🕖": [
+        "7:00", 
+        "saat", 
+        "saat 7", 
+        "yedi"
+    ], 
+    "🕗": [
+        "saat 8", 
+        "saat", 
+        "sekiz", 
+        "8:00"
+    ], 
+    "🕘": [
+        "saat 9", 
+        "saat", 
+        "9:00", 
+        "dokuz"
+    ], 
+    "🕙": [
+        "on", 
+        "saat", 
+        "saat 10", 
+        "10:00"
+    ], 
+    "🕚": [
+        "11:00", 
+        "on bir", 
+        "saat", 
+        "saat 11"
+    ], 
+    "🕛": [
+        "on iki", 
+        "saat", 
+        "12:00", 
+        "saat 12"
+    ], 
+    "🕜": [
+        "saat", 
+        "1:30", 
+        "bir buçuk"
+    ], 
+    "🕝": [
+        "iki buçuk", 
+        "2:30", 
+        "saat"
+    ], 
+    "🕞": [
+        "3:30", 
+        "saat", 
+        "üç buçuk"
+    ], 
+    "🕟": [
+        "dört buçuk", 
+        "saat", 
+        "4:30"
+    ], 
+    "🕠": [
+        "5:30", 
+        "beş buçuk", 
+        "saat"
+    ], 
+    "🕡": [
+        "altı buçuk", 
+        "saat", 
+        "6:30"
+    ], 
+    "🕢": [
+        "yedi buçuk", 
+        "saat", 
+        "7:30"
+    ], 
+    "🕣": [
+        "8:30", 
+        "saat", 
+        "sekiz buçuk"
+    ], 
+    "🕤": [
+        "dokuz buçuk", 
+        "saat", 
+        "9:30"
+    ], 
+    "🕥": [
+        "on buçuk", 
+        "10:30", 
+        "saat"
+    ], 
+    "🕦": [
+        "11:30", 
+        "on bir buçuk", 
+        "saat"
+    ], 
+    "🕧": [
+        "saat", 
+        "12:30", 
+        "on iki buçuk"
+    ], 
+    "🕺": [
+        "dans eden adam", 
+        "dans", 
+        "adam"
+    ], 
+    "🖕": [
+        "el", 
+        "orta parmak", 
+        "parmak", 
+        "beden"
+    ], 
+    "🖖": [
+        "el", 
+        "parmak", 
+        "beden", 
+        "volkanlı selamı", 
+        "spock", 
+        "volkan"
+    ], 
+    "🖤": [
+        "kalp", 
+        "siyah kalp", 
+        "siyah", 
+        "fena", 
+        "kötü"
+    ], 
+    "🗻": [
+        "dağ", 
+        "Fuji Dağı"
+    ], 
+    "🗼": [
+        "kule", 
+        "Tokyo kulesi", 
+        "Tokyo"
+    ], 
+    "🗽": [
+        "heykel", 
+        "özgürlük", 
+        "Özgürlük Heykeli"
+    ], 
+    "🗾": [
+        "harita", 
+        "Japonya haritası", 
+        "Japonya"
+    ], 
+    "🗿": [
+        "heykel", 
+        "Moyai", 
+        "moyai heykeli"
+    ], 
+    "😀": [
+        "sırıtan yüz", 
+        "lol", 
+        "gülen yüz", 
+        "yüz", 
+        "gülme", 
+        "neşeli"
+    ], 
+    "😁": [
+        "lol", 
+        "gülen gözlerle sırıtma", 
+        "gülme", 
+        "gülen yüz", 
+        "yüz", 
+        "gülümseyen gözler", 
+        "gülümseme", 
+        "gülen gözlerle sırıtan yüz", 
+        "neşeli"
+    ], 
+    "😂": [
+        "sevinç gözyaşları", 
+        "yüz", 
+        "sevinç gözyaşları olan yüz", 
+        "gözyaşları", 
+        "sevinç"
+    ], 
+    "😃": [
+        "lol", 
+        "gülen yüz", 
+        "ağzı açık sırıtma", 
+        "yüz", 
+        "gülme", 
+        "ağzı açık gülen yüz", 
+        "neşeli", 
+        "gülümseme"
+    ], 
+    "😄": [
+        "ağzı açık gülen gözler", 
+        "lol", 
+        "gülen yüz", 
+        "gülme", 
+        "gülen gözlerle ağzı açık sırıtma", 
+        "neşeli", 
+        "gülümseme"
+    ], 
+    "😅": [
+        "soğuk ter", 
+        "soğuk terli ağzı açık gülümseme"
+    ], 
+    "😆": [
+        "yüz", 
+        "gözler kapalı", 
+        "kapalı gözlerle ağzı açık sırıtma", 
+        "ağız açık", 
+        "kapalı gözlerle gülümseme"
+    ], 
+    "😇": [
+        "yüz", 
+        "gülümseme", 
+        "ışık halkası", 
+        "ışık halkalı gülümseme"
+    ], 
+    "😈": [
+        "yüz", 
+        "boynuzlar", 
+        "gülümseme", 
+        "boynuzlu gülen yüz"
+    ], 
+    "😉": [
+        "göz kırpma", 
+        "yüz", 
+        "göz kırpan yüz"
+    ], 
+    "😊": [
+        "ağzı açık gülme", 
+        "gülümseyen gözler", 
+        "yüz", 
+        "gülümseyen yüz ve gözler", 
+        "gülümseyen yüz"
+    ], 
+    "😋": [
+        "oh oh harika", 
+        "harika yemek", 
+        "lezzetli", 
+        "yüz", 
+        "lezzetli yiyecek beğenen yüz", 
+        "gülümseyen yüz"
+    ], 
+    "😌": [
+        "rahatlamış yüz", 
+        "rahatlamış", 
+        "yüz"
+    ], 
+    "😍": [
+        "aşk", 
+        "yüz", 
+        "kalp gözlü gülümseme", 
+        "kalp", 
+        "gözler", 
+        "değer verme"
+    ], 
+    "😎": [
+        "güneş gözlükleri", 
+        "güneş gözlüklü gülümseme", 
+        "yüz", 
+        "soğukkanlı Jane", 
+        "gülümseme", 
+        "soğukkanlı Joe", 
+        "güneş gözlükleriyle gülümseme"
+    ], 
+    "😏": [
+        "yapmacık gülümseyen", 
+        "yüz", 
+        "imalı gülümseme", 
+        "yapmacık gülümseyen yüz"
+    ], 
+    "😐": [
+        "duygusuz", 
+        "yüz", 
+        "duygusuz yüz", 
+        "yorum yok", 
+        "nötr"
+    ], 
+    "😑": [
+        "yüz", 
+        "yorum yok", 
+        "ifadesiz yüz"
+    ], 
+    "😒": [
+        "mutsuz", 
+        "yüz", 
+        "keyifsiz yüz"
+    ], 
+    "😓": [
+        "soğuk terli yüz", 
+        "soğuk ter", 
+        "yüz"
+    ], 
+    "😔": [
+        "düşünceli yüz", 
+        "karamsar", 
+        "yüz", 
+        "düşünceli"
+    ], 
+    "😕": [
+        "yüz", 
+        "kafası karışmış", 
+        "kafası karışık yüz"
+    ], 
+    "😖": [
+        "kafası çok karışık yüz", 
+        "yüz", 
+        "kafası çok karışmış"
+    ], 
+    "😗": [
+        "öpücük", 
+        "yüz", 
+        "öpen yüz"
+    ], 
+    "😘": [
+        "yüz", 
+        "öpücük gönderen yüz"
+    ], 
+    "😙": [
+        "yüz", 
+        "gülen gözlerle öpen yüz", 
+        "gülümseyen gözler", 
+        "gülümseme", 
+        "gülümseyerek öpen yüz"
+    ], 
+    "😚": [
+        "gözler kapalı", 
+        "yüz", 
+        "gözler kapalı öpüşme", 
+        "kapalı gözlerle öpen yüz"
+    ], 
+    "😛": [
+        "dil dışarıda kalmış", 
+        "yüz", 
+        "dil çıkarmış yüz", 
+        "dil dışarıda"
+    ], 
+    "😜": [
+        "kışkırtma", 
+        "şaka", 
+        "yüz", 
+        "dili dışarda göz kırpma", 
+        "göz kırpma", 
+        "dil dışardayken göz kırpma"
+    ], 
+    "😝": [
+        "gözler kapalı ve dil dışarıda", 
+        "korkunç", 
+        "yüz", 
+        "dil dışarıda ve gözler kapalı", 
+        "gözler kapalı", 
+        "dil dışarıda"
+    ], 
+    "😞": [
+        "yüz", 
+        "kırgın yüz", 
+        "kırgınlık", 
+        "memnuniyetsiz yüz"
+    ], 
+    "😟": [
+        "yüz", 
+        "endişeli yüz"
+    ], 
+    "😠": [
+        "yüz", 
+        "öfkeli yüz", 
+        "deli gibi"
+    ], 
+    "😡": [
+        "öfkeli", 
+        "deli gibi", 
+        "kırmızı yüz", 
+        "yüz", 
+        "somurtkan yüz", 
+        "kırmızı sonurtkan yüz"
+    ], 
+    "😢": [
+        "ağlayan yüz", 
+        "üzüntülü", 
+        "yüz", 
+        "gözyaşları"
+    ], 
+    "😣": [
+        "yüz", 
+        "dayanıklı", 
+        "ben hallettim yüzü", 
+        "kararlı yüz"
+    ], 
+    "😤": [
+        "zafer", 
+        "burnundan soluyan yüz", 
+        "yüz", 
+        "ben kazandım yüzü", 
+        "ben kazandım"
+    ], 
+    "😥": [
+        "rahatlamış", 
+        "üzgün ama rahatlamış yüz", 
+        "yüz", 
+        "canı sıkkın", 
+        "canı sıkkın ama rahatlamış"
+    ], 
+    "😦": [
+        "açık ağızlı hoşnutsuz yüz", 
+        "yüz", 
+        "hoşnutsuz yüz", 
+        "hoşnutsuz", 
+        "ağzı açık"
+    ], 
+    "😧": [
+        "kederli yüz", 
+        "acı çeken", 
+        "yüz"
+    ], 
+    "😨": [
+        "yüz", 
+        "korkmuş", 
+        "korkulu yüz"
+    ], 
+    "😩": [
+        "yüz", 
+        "yorgun yüz", 
+        "yorulmuş", 
+        "çok yorgun"
+    ], 
+    "😪": [
+        "yüz", 
+        "uykulu yüz"
+    ], 
+    "😫": [
+        "yüz", 
+        "yorgun yüz"
+    ], 
+    "😬": [
+        "yüz", 
+        "dişlerini gösteren yüz"
+    ], 
+    "😭": [
+        "avaz avaz ağlayan yüz", 
+        "yüz", 
+        "gözyaşları", 
+        "ağlama"
+    ], 
+    "😮": [
+        "ağız", 
+        "yüz", 
+        "ağzı açık yüz", 
+        "ağzı açık"
+    ], 
+    "😯": [
+        "şok olmuş", 
+        "şaşkın yüz", 
+        "yüz", 
+        "şaşırmış"
+    ], 
+    "😰": [
+        "terli ve endişeli yüz", 
+        "açık ağız", 
+        "soğuk ter", 
+        "yüz", 
+        "soğuk ter döken mavi yüz"
+    ], 
+    "😱": [
+        "korkuyla haykıran yüz", 
+        "korku içinde bağıran yüz", 
+        "korkunç", 
+        "korkuyla çığlık atan yüz", 
+        "yüz", 
+        "korku", 
+        "korkmuş"
+    ], 
+    "😲": [
+        "afallamış yüz", 
+        "yüz", 
+        "şoke olmuş", 
+        "afallamış", 
+        "tamamen şoke olmuş"
+    ], 
+    "😳": [
+        "kızarmış ve şaşkın yüz", 
+        "kızarmış yüz", 
+        "yüz", 
+        "şaşkınlık içinde", 
+        "şaşırmış"
+    ], 
+    "😴": [
+        "yüz", 
+        "uykulu yüz", 
+        "uyuyan yüz"
+    ], 
+    "😵": [
+        "yüz", 
+        "sersemlemiş yüz"
+    ], 
+    "😶": [
+        "ağız", 
+        "yüz", 
+        "sakin", 
+        "sessiz", 
+        "ağzı olmayan yüz"
+    ], 
+    "😷": [
+        "maskeli yüz", 
+        "yüz", 
+        "tıbbi maske", 
+        "maske", 
+        "soğuk", 
+        "rahatsız"
+    ], 
+    "😸": [
+        "sırıtma", 
+        "kedi yüzü", 
+        "yüz", 
+        "sırıtan kedi yüzü", 
+        "kedi", 
+        "sırıtan ve gözleri gülümseyen kedi yüzü"
+    ], 
+    "😹": [
+        "sevinç gözyaşları olan kedi yüzü", 
+        "yüz", 
+        "kedi yüzü", 
+        "sevinç gözyaşları döken kedi yüzü", 
+        "kedi"
+    ], 
+    "😺": [
+        "ağız", 
+        "gülümseyen kedi yüzü", 
+        "açık", 
+        "gülümseyen ve ağzı açık kedi yüzü", 
+        "yüz", 
+        "kedi yüzü", 
+        "kedi"
+    ], 
+    "😻": [
+        "gülümseyen ve kalp şeklinde gözleri olan kedi yüzü", 
+        "aşık", 
+        "aşk", 
+        "kalp gözlü gülümseyen kedi yüzü", 
+        "kalp", 
+        "gözler", 
+        "yüz", 
+        "kedi yüzü", 
+        "kedi"
+    ], 
+    "😼": [
+        "iğneleyici kedi yüzü", 
+        "iğneleyici gülümseme", 
+        "iğneleyici", 
+        "yüz", 
+        "kedi yüzü", 
+        "kedi"
+    ], 
+    "😽": [
+        "gözler", 
+        "öpen", 
+        "yüz", 
+        "öpücük", 
+        "kedi", 
+        "kapalı gözle öpen kedi yüzü", 
+        "kapalı"
+    ], 
+    "😾": [
+        "somurtma", 
+        "yüz", 
+        "somurtan kedi yüzü", 
+        "kedi yüzü", 
+        "kedi"
+    ], 
+    "😿": [
+        "ağlayan kedi yüzü", 
+        "yüz", 
+        "kedi yüzü", 
+        "kedi", 
+        "ağlama"
+    ], 
+    "🙀": [
+        "yüz", 
+        "şaşkın kedi yüzü", 
+        "kedi", 
+        "aman tanrım", 
+        "sahiden şaşırmış"
+    ], 
+    "🙁": [
+        "asık surat", 
+        "yüz", 
+        "biraz asık surat"
+    ], 
+    "🙂": [
+        "yüz", 
+        "hafifçe gülümseyen yüz", 
+        "gülme"
+    ], 
+    "🙃": [
+        "yüz", 
+        "ters yüz"
+    ], 
+    "🙄": [
+        "gözler", 
+        "yüz", 
+        "yuvarlanma", 
+        "gözlerini deviren yüz"
+    ], 
+    "🙅": [
+        "hareket", 
+        "hayır hareketi", 
+        "hayır", 
+        "yüz", 
+        "iyi değil", 
+        "yasak"
+    ], 
+    "🙆": [
+        "hareket", 
+        "yüz", 
+        "oldu", 
+        "tamam hareketi"
+    ], 
+    "🙇": [
+        "hareket", 
+        "üzgünüm", 
+        "eğilme", 
+        "kişi", 
+        "başını öne eğme"
+    ], 
+    "🙈": [
+        "görmeyen maymun", 
+        "görmedim", 
+        "maymun"
+    ], 
+    "🙉": [
+        "duymayan maymun", 
+        "maymun", 
+        "duymadım"
+    ], 
+    "🙊": [
+        "söylemeyen maymun", 
+        "maymun", 
+        "bilmiyorum"
+    ], 
+    "🙋": [
+        "hareket", 
+        "mutlu", 
+        "kalkan el", 
+        "elini kaldırma", 
+        "kişi", 
+        "el kaldıran kişi"
+    ], 
+    "🙌": [
+        "eller havaya", 
+        "kutlama", 
+        "kutlamak için iki eli birden kaldırma", 
+        "her iki el"
+    ], 
+    "🙍": [
+        "somurtan kişi", 
+        "hareket", 
+        "somurtma", 
+        "kişi"
+    ], 
+    "🙎": [
+        "hareket", 
+        "darılan kişi", 
+        "kişi", 
+        "darılma"
+    ], 
+    "🙏": [
+        "el", 
+        "dua", 
+        "hareket", 
+        "birleşen eller", 
+        "dua etme"
+    ], 
+    "🚀": [
+        "roket", 
+        "taşıt"
+    ], 
+    "🚁": [
+        "helikopter", 
+        "taşıt"
+    ], 
+    "🚂": [
+        "tren", 
+        "taşıt", 
+        "buharlı lokomotif", 
+        "lokomotif"
+    ], 
+    "🚃": [
+        "vagon", 
+        "elektrik", 
+        "taşıt", 
+        "elektrikli tren", 
+        "tramvay", 
+        "demiryolu"
+    ], 
+    "🚄": [
+        "yüksek hızlı tren", 
+        "tren", 
+        "shinkansen", 
+        "taşıt"
+    ], 
+    "🚅": [
+        "tren", 
+        "yuvarlak uçlu yüksek hızlı tren", 
+        "mermi burunlu", 
+        "shinkansen", 
+        "mermi burunlu shinkansen", 
+        "taşıt"
+    ], 
+    "🚆": [
+        "tren", 
+        "taşıt", 
+        "demiryolu"
+    ], 
+    "🚇": [
+        "metro", 
+        "taşıt"
+    ], 
+    "🚈": [
+        "hafif", 
+        "taşıt", 
+        "hafif demiryolu", 
+        "demiryolu"
+    ], 
+    "🚉": [
+        "tren istasyonu", 
+        "istasyon", 
+        "tren"
+    ], 
+    "🚊": [
+        "tramvay", 
+        "taşıt"
+    ], 
+    "🚋": [
+        "vagon", 
+        "tramvay", 
+        "tramvay vagonu", 
+        "taşıt"
+    ], 
+    "🚌": [
+        "otobüs", 
+        "taşıt"
+    ], 
+    "🚍": [
+        "otobüs", 
+        "yaklaşan", 
+        "yaklaşan otobüs", 
+        "taşıt"
+    ], 
+    "🚎": [
+        "otobüs", 
+        "troley", 
+        "troleybüs", 
+        "taşıt"
+    ], 
+    "🚏": [
+        "durak", 
+        "otobüs", 
+        "otobüs durağı"
+    ], 
+    "🚐": [
+        "otobüs", 
+        "minibüs", 
+        "taşıt"
+    ], 
+    "🚑": [
+        "ambulans", 
+        "taşıt"
+    ], 
+    "🚒": [
+        "araba", 
+        "yangın", 
+        "itfaiye arabası", 
+        "itfaiye kamyonu", 
+        "taşıt"
+    ], 
+    "🚓": [
+        "polis", 
+        "polis arabası", 
+        "devriye arabası", 
+        "taşıt"
+    ], 
+    "🚔": [
+        "polis", 
+        "polis arabası", 
+        "yaklaşan polis arabası", 
+        "taşıt"
+    ], 
+    "🚕": [
+        "taksi", 
+        "taşıt"
+    ], 
+    "🚖": [
+        "taksi", 
+        "yaklaşan taksi", 
+        "taşıt"
+    ], 
+    "🚗": [
+        "araba", 
+        "otomobil", 
+        "taşıt"
+    ], 
+    "🚘": [
+        "araba", 
+        "yaklaşan araba", 
+        "yaklaşan", 
+        "otomobil", 
+        "taşıt"
+    ], 
+    "🚙": [
+        "araba", 
+        "eğlence taşıtı", 
+        "cip", 
+        "taşıt"
+    ], 
+    "🚚": [
+        "taşıt", 
+        "nakliye kamyonu", 
+        "kamyon"
+    ], 
+    "🚛": [
+        "çekici", 
+        "treyler", 
+        "tır", 
+        "çekici kamyon", 
+        "taşıt"
+    ], 
+    "🚜": [
+        "traktör", 
+        "taşıt"
+    ], 
+    "🚝": [
+        "monoray", 
+        "taşıt"
+    ], 
+    "🚞": [
+        "vagon", 
+        "dağ demiryolu", 
+        "dağ teleferiği", 
+        "dağ", 
+        "taşıt", 
+        "demiryolu"
+    ], 
+    "🚟": [
+        "asma", 
+        "taşıt", 
+        "asma demiryolu", 
+        "demiryolu"
+    ], 
+    "🚠": [
+        "vagon", 
+        "dağ teleferiği", 
+        "dağ", 
+        "kablo", 
+        "taşıt", 
+        "dağ teleferik hattı"
+    ], 
+    "🚡": [
+        "havadan yol", 
+        "gondol", 
+        "hava tramvayı", 
+        "teleferik", 
+        "taşıt", 
+        "tramvay", 
+        "kablo yolu"
+    ], 
+    "🚢": [
+        "gemi", 
+        "taşıt"
+    ], 
+    "🚣": [
+        "sandalda kürek çeken kişi", 
+        "tekne", 
+        "taşıt"
+    ], 
+    "🚤": [
+        "tekne", 
+        "sürat teknesi", 
+        "taşıt"
+    ], 
+    "🚥": [
+        "ışık", 
+        "trafik", 
+        "yatay trafik ışığı", 
+        "trafik sinyalleri", 
+        "yatay trafik ışıkları"
+    ], 
+    "🚦": [
+        "ışık", 
+        "trafik", 
+        "trafik sinyalleri", 
+        "dikey trafik ışığı", 
+        "dikey trafik ışıkları"
+    ], 
+    "🚧": [
+        "inşaat işareti", 
+        "işaret", 
+        "inşaat"
+    ], 
+    "🚨": [
+        "polis arabası", 
+        "polis lambası", 
+        "polis tepe lambası"
+    ], 
+    "🚩": [
+        "konum", 
+        "üçgen konum işareti", 
+        "üçgen işaret", 
+        "üçgen bayrak", 
+        "konum bilgisi işareti", 
+        "işaret"
+    ], 
+    "🚪": [
+        "kapı"
+    ], 
+    "🚫": [
+        "Girilmez", 
+        "işaret", 
+        "girmek yasak"
+    ], 
+    "🚬": [
+        "sigara içme", 
+        "işaret", 
+        "sigara", 
+        "sigara içilebilir"
+    ], 
+    "🚭": [
+        "duman", 
+        "tütün", 
+        "yasak", 
+        "sigara içilmez"
+    ], 
+    "🚮": [
+        "çöp kutusu", 
+        "çöp kutusu işareti", 
+        "işaret", 
+        "çöpü yerine atın"
+    ], 
+    "🚯": [
+        "çöp atmayın", 
+        "çöp atılmaz", 
+        "işaret", 
+        "çöp atmayın işareti"
+    ], 
+    "🚰": [
+        "içilebilir su", 
+        "işaret", 
+        "içme suyu"
+    ], 
+    "🚱": [
+        "içilmeyen", 
+        "su", 
+        "içilmeyen su"
+    ], 
+    "🚲": [
+        "bisiklet", 
+        "taşıt"
+    ], 
+    "🚳": [
+        "bisiklet yasak", 
+        "bisiklet giremez", 
+        "bisiklet", 
+        "taşıt"
+    ], 
+    "🚴": [
+        "bisiklet süren kişi", 
+        "bisiklet"
+    ], 
+    "🚵": [
+        "dağ", 
+        "bisikletçi", 
+        "dağ bisikletçisi", 
+        "bisiklet"
+    ], 
+    "🚶": [
+        "yürüyen", 
+        "yürüyen kişi"
+    ], 
+    "🚷": [
+        "yaya", 
+        "yürüyen", 
+        "işaret", 
+        "yayalara yasak", 
+        "yayalar giremez"
+    ], 
+    "🚸": [
+        "işaret", 
+        "karşıya geçiş", 
+        "çocuklar", 
+        "karşıya geçen çocuklar"
+    ], 
+    "🚹": [
+        "Erkekler tuvaleti", 
+        "işaret", 
+        "erkekler tuvaleti"
+    ], 
+    "🚺": [
+        "işaret", 
+        "Kadınlar tuvaleti", 
+        "kadınlar tuvaleti"
+    ], 
+    "🚻": [
+        "wc", 
+        "lavabo", 
+        "tuvalet"
+    ], 
+    "🚼": [
+        "bebek teknede", 
+        "bebek", 
+        "bebek işareti", 
+        "bebek alt değiştirme yeri"
+    ], 
+    "🚽": [
+        "wc", 
+        "tuvalet"
+    ], 
+    "🚾": [
+        "WC", 
+        "wc", 
+        "lavabo"
+    ], 
+    "🚿": [
+        "duş", 
+        "su"
+    ], 
+    "🛀": [
+        "banyo yapan kişi", 
+        "banyo", 
+        "küvet"
+    ], 
+    "🛁": [
+        "banyo", 
+        "banyo küveti"
+    ], 
+    "🛂": [
+        "kontrol", 
+        "pasaport kontrolü", 
+        "pasaport"
+    ], 
+    "🛃": [
+        "gümrük"
+    ], 
+    "🛄": [
+        "bagaj", 
+        "bagaj teslim"
+    ], 
+    "🛅": [
+        "bagaj hizmeti", 
+        "bagaj", 
+        "eşya emanet"
+    ], 
+    "🛌": [
+        "otel", 
+        "uyuma", 
+        "yatakta yatan kişi"
+    ], 
+    "🛐": [
+        "ibadethane", 
+        "din", 
+        "tapınma"
+    ], 
+    "🛑": [
+        "sekizgen", 
+        "dur", 
+        "işaret", 
+        "dur işareti"
+    ], 
+    "🛒": [
+        "araba", 
+        "alışveriş", 
+        "pazar arabası", 
+        "alışveriş arabası"
+    ], 
+    "🛫": [
+        "uçak", 
+        "chek in", 
+        "kalkan uçak", 
+        "kalkış", 
+        "taşıt"
+    ], 
+    "🛬": [
+        "uçak", 
+        "inen uçak", 
+        "inme", 
+        "iniş", 
+        "varış", 
+        "taşıt"
+    ], 
+    "🛴": [
+        "ayakla sürülen skuter", 
+        "ayak", 
+        "skuter"
+    ], 
+    "🛵": [
+        "motorlu skuter", 
+        "skuter", 
+        "motor"
+    ], 
+    "🛶": [
+        "kano", 
+        "bot"
+    ], 
+    "🛷": [
+        "kızak"
+    ], 
+    "🛸": [
+        "uçan daire"
+    ], 
+    "🤐": [
+        "ağız", 
+        "yüz", 
+        "ağzı fermuarlı yüz", 
+        "fermuar"
+    ], 
+    "🤑": [
+        "ağız", 
+        "yüz", 
+        "para ağızlı yüz", 
+        "para"
+    ], 
+    "🤒": [
+        "hasta", 
+        "termometre", 
+        "yüz", 
+        "ağzında termometre olan yüz"
+    ], 
+    "🤓": [
+        "ukala yüz", 
+        "yüz", 
+        "inek öğrenci", 
+        "ukala", 
+        "bilgili"
+    ], 
+    "🤔": [
+        "düşünme", 
+        "düşünen yüz", 
+        "yüz"
+    ], 
+    "🤕": [
+        "kafası sarılı yüz", 
+        "yara", 
+        "yüz", 
+        "bandaj"
+    ], 
+    "🤖": [
+        "canavar", 
+        "yüz", 
+        "robot yüzü", 
+        "robot"
+    ], 
+    "🤗": [
+        "kucaklayarak gülümseme", 
+        "kucaklama", 
+        "yüz", 
+        "sarılma"
+    ], 
+    "🤘": [
+        "el", 
+        "parmak", 
+        "beden", 
+        "boynuz işareti", 
+        "rock", 
+        "boynuz"
+    ], 
+    "🤙": [
+        "ara", 
+        "beni ara işareti", 
+        "el"
+    ], 
+    "🤚": [
+        "elinin tersini kaldırma", 
+        "kaldırma", 
+        "elinin tersi"
+    ], 
+    "🤛": [
+        "sola doğru", 
+        "sola bakan yumruk", 
+        "yumruk"
+    ], 
+    "🤜": [
+        "sağa bakan yumruk", 
+        "yumruk", 
+        "sağa doğru"
+    ], 
+    "🤝": [
+        "el", 
+        "el sıkışma", 
+        "sallama", 
+        "toplantı", 
+        "anlaşma"
+    ], 
+    "🤞": [
+        "el", 
+        "çapraz", 
+        "parmak", 
+        "şans dileme", 
+        "şans"
+    ], 
+    "🤟": [
+        "SS", 
+        "el", 
+        "seni seviyorum işareti"
+    ], 
+    "🤠": [
+        "kadın kovboy", 
+        "kovboy", 
+        "şapka", 
+        "yüz", 
+        "kovboy şapkalı yüz"
+    ], 
+    "🤡": [
+        "palyaço yüzü", 
+        "yüz", 
+        "palyaço"
+    ], 
+    "🤢": [
+        "kusmak üzere olan yüz", 
+        "yüz", 
+        "kusmak üzere", 
+        "istifra"
+    ], 
+    "🤣": [
+        "yüz", 
+        "yer", 
+        "gülmekten yerlere yatma", 
+        "gülme", 
+        "yatma"
+    ], 
+    "🤤": [
+        "salya akıtan yüz", 
+        "salya akıtma", 
+        "yüz"
+    ], 
+    "🤥": [
+        "pinokyo", 
+        "yüz", 
+        "yalan söyleme", 
+        "yalan söyleyen yüz"
+    ], 
+    "🤦": [
+        "inanmama", 
+        "yüz", 
+        "çileden çıkma", 
+        "avuç", 
+        "yüzünü eliyle kapama"
+    ], 
+    "🤧": [
+        "yüz", 
+        "hapşırma", 
+        "çok yaşa", 
+        "hapşıran yüz"
+    ], 
+    "🤨": [
+        "tek kaşı çatık yüz"
+    ], 
+    "🤩": [
+        "gözler", 
+        "yıldız", 
+        "yüz", 
+        "yıldız çarpmış", 
+        "sırıtan"
+    ], 
+    "🤪": [
+        "göz", 
+        "büyük", 
+        "küçük", 
+        "çılgın surat"
+    ], 
+    "🤫": [
+        "sus işareti yapan yüz", 
+        "sessiz", 
+        "şişt"
+    ], 
+    "🤬": [
+        "küfür eden", 
+        "ağzında semboller olan yüz"
+    ], 
+    "🤭": [
+        "eliyle ağzını kapatan yüz", 
+        "tüh"
+    ], 
+    "🤮": [
+        "hasta", 
+        "istifra", 
+        "kusan yüz", 
+        "kusmak"
+    ], 
+    "🤯": [
+        "şoke", 
+        "patlayan kafa"
+    ], 
+    "🤰": [
+        "kadın", 
+        "hamile", 
+        "hamile kadın"
+    ], 
+    "🤱": [
+        "göğüs", 
+        "bebek", 
+        "emziren kadın", 
+        "emzirme"
+    ], 
+    "🤲": [
+        "iki avuç açık"
+    ], 
+    "🤳": [
+        "selfie", 
+        "kamera", 
+        "telefon"
+    ], 
+    "🤴": [
+        "prens"
+    ], 
+    "🤵": [
+        "simokin", 
+        "damat", 
+        "adam", 
+        "smokinli adam"
+    ], 
+    "🤶": [
+        "anne", 
+        "Noel Anne", 
+        "noel"
+    ], 
+    "🤷": [
+        "bilmeme", 
+        "ilgisizlik", 
+        "kararsız", 
+        "omuz silkme"
+    ], 
+    "🤸": [
+        "spor", 
+        "yanlamasına takla", 
+        "birey", 
+        "perende atan kişi", 
+        "jimnastik"
+    ], 
+    "🤹": [
+        "denge", 
+        "aynı anda birçok iş yapma", 
+        "jonglör", 
+        "hokkabazlık", 
+        "yetenek"
+    ], 
+    "🤺": [
+        "eskrimci", 
+        "spor", 
+        "birey", 
+        "kılıç", 
+        "eskrim"
+    ], 
+    "🤼": [
+        "güreşen kişiler", 
+        "spor", 
+        "birey", 
+        "güreşçi", 
+        "güreş"
+    ], 
+    "🤽": [
+        "spor", 
+        "top", 
+        "birey", 
+        "su topu", 
+        "su"
+    ], 
+    "🤾": [
+        "spor", 
+        "top", 
+        "birey", 
+        "hentbol"
+    ], 
+    "🥀": [
+        "solmuş çiçek", 
+        "çiçek", 
+        "solmuş"
+    ], 
+    "🥁": [
+        "müzik", 
+        "davul", 
+        "tokmak"
+    ], 
+    "🥂": [
+        "içecek", 
+        "kadeh tokuşturma", 
+        "bardak", 
+        "kutlama", 
+        "tokuşturma"
+    ], 
+    "🥃": [
+        "bardak", 
+        "kısa ve geniş bardak", 
+        "kısa ve geniş", 
+        "tek içki", 
+        "viski", 
+        "likör"
+    ], 
+    "🥄": [
+        "yemek takımı", 
+        "kaşık"
+    ], 
+    "🥅": [
+        "ağ", 
+        "spor", 
+        "kale ağı", 
+        "kale"
+    ], 
+    "🥇": [
+        "birinci", 
+        "madalya", 
+        "birincilik madalyası", 
+        "altın"
+    ], 
+    "🥈": [
+        "gümüş", 
+        "ikinci", 
+        "madalya", 
+        "ikincilik madalyası"
+    ], 
+    "🥉": [
+        "üçüncü", 
+        "üçüncülük madalyası", 
+        "bronz", 
+        "madalya"
+    ], 
+    "🥊": [
+        "eldiven", 
+        "spor", 
+        "boks eldiveni", 
+        "boks"
+    ], 
+    "🥋": [
+        "forma", 
+        "dövüş sporu forması", 
+        "judo", 
+        "spor", 
+        "dövüş sporu", 
+        "karate", 
+        "tekvando"
+    ], 
+    "🥌": [
+        "curling taşı"
+    ], 
+    "🥐": [
+        "ay çöreği", 
+        "fransız", 
+        "ekmek", 
+        "yiyecek", 
+        "kruvasan"
+    ], 
+    "🥑": [
+        "yiyecek", 
+        "meyve", 
+        "avokado"
+    ], 
+    "🥒": [
+        "sebze", 
+        "yiyecek", 
+        "salatalık", 
+        "turşu"
+    ], 
+    "🥓": [
+        "yiyecek", 
+        "et", 
+        "domuz pastırması"
+    ], 
+    "🥔": [
+        "sebze", 
+        "yiyecek", 
+        "patates"
+    ], 
+    "🥕": [
+        "sebze", 
+        "yiyecek", 
+        "havuç"
+    ], 
+    "🥖": [
+        "baget", 
+        "fransız", 
+        "baget ekmek", 
+        "ekmek", 
+        "yiyecek"
+    ], 
+    "🥗": [
+        "yiyecek", 
+        "yeşil salata", 
+        "salata", 
+        "yeşil"
+    ], 
+    "🥘": [
+        "güveç", 
+        "yiyecek", 
+        "tava", 
+        "paella", 
+        "küçük", 
+        "sahanda yemek"
+    ], 
+    "🥙": [
+        "yiyecek", 
+        "pide", 
+        "sarma", 
+        "kebap", 
+        "falafel", 
+        "döner", 
+        "dürüm"
+    ], 
+    "🥚": [
+        "yiyecek", 
+        "yumurta"
+    ], 
+    "🥛": [
+        "içecek", 
+        "bardak", 
+        "süt bardağı", 
+        "süt"
+    ], 
+    "🥜": [
+        "sebze", 
+        "yiyecek", 
+        "yer fıstığı", 
+        "fıstık", 
+        "fındık"
+    ], 
+    "🥝": [
+        "yiyecek", 
+        "meyve", 
+        "kivi"
+    ], 
+    "🥞": [
+        "krep", 
+        "yiyecek", 
+        "gözleme", 
+        "pankek"
+    ], 
+    "🥟": [
+        "empanada", 
+        "potsticker", 
+        "jiaozi", 
+        "gyōza", 
+        "pierogi", 
+        "mantı"
+    ], 
+    "🥠": [
+        "kehanet", 
+        "fal kurabiyesi"
+    ], 
+    "🥡": [
+        "yiyecek paketi"
+    ], 
+    "🥢": [
+        "chopstick"
+    ], 
+    "🥣": [
+        "pirinç lapası", 
+        "kaşıklı kase", 
+        "tahıl gevreği", 
+        "kahvaltı"
+    ], 
+    "🥤": [
+        "pipetli bardak"
+    ], 
+    "🥥": [
+        "Hindistan cevizi", 
+        "pina colada", 
+        "palmiye"
+    ], 
+    "🥦": [
+        "brokoli", 
+        "yabani lahana"
+    ], 
+    "🥧": [
+        "pasta", 
+        "poğaça", 
+        "tart"
+    ], 
+    "🥨": [
+        "burgu", 
+        "pretzel"
+    ], 
+    "🥩": [
+        "steak", 
+        "biftek", 
+        "kuşbaşı", 
+        "sote", 
+        "parça et"
+    ], 
+    "🥪": [
+        "sandviç", 
+        "ekmek"
+    ], 
+    "🥫": [
+        "konserve gıda", 
+        "konserve"
+    ], 
+    "🦀": [
+        "burç", 
+        "yengeç", 
+        "ıstakoz"
+    ], 
+    "🦁": [
+        "aslan yüzü", 
+        "yüz", 
+        "aslan", 
+        "burç"
+    ], 
+    "🦂": [
+        "burç", 
+        "akrep", 
+        "akre"
+    ], 
+    "🦃": [
+        "hindi"
+    ], 
+    "🦄": [
+        "yüz", 
+        "unicorn", 
+        "tek boynuzlu at yüzü", 
+        "tek boynuz"
+    ], 
+    "🦅": [
+        "kuş", 
+        "kartal"
+    ], 
+    "🦆": [
+        "kuş", 
+        "ördek"
+    ], 
+    "🦇": [
+        "hayvan", 
+        "vampir", 
+        "yarasa"
+    ], 
+    "🦈": [
+        "kuş", 
+        "köpek balığı"
+    ], 
+    "🦉": [
+        "kuş", 
+        "bilge", 
+        "baykuş"
+    ], 
+    "🦊": [
+        "yüz", 
+        "tilki", 
+        "hayvan", 
+        "tilki yüzü"
+    ], 
+    "🦋": [
+        "böcek", 
+        "kelebek", 
+        "şirin"
+    ], 
+    "🦌": [
+        "geyik", 
+        "hayvan"
+    ], 
+    "🦍": [
+        "hayvan", 
+        "goril"
+    ], 
+    "🦎": [
+        "kertenkele", 
+        "sürüngen"
+    ], 
+    "🦏": [
+        "hayvan", 
+        "gergedan"
+    ], 
+    "🦐": [
+        "yiyecek", 
+        "küçük", 
+        "karides", 
+        "kabuklu deniz hayvanı"
+    ], 
+    "🦑": [
+        "yiyecek", 
+        "yumuşakçalar sınıfı", 
+        "mürekkep balığı"
+    ], 
+    "🦒": [
+        "zürafa", 
+        "puanlar", 
+        "noktalar"
+    ], 
+    "🦓": [
+        "şeritli", 
+        "zebra", 
+        "çizgili"
+    ], 
+    "🦔": [
+        "kirpi", 
+        "dikenli"
+    ], 
+    "🦕": [
+        "brachiosaurus", 
+        "diplodocus", 
+        "soropod", 
+        "brontozor", 
+        "brontosaurus"
+    ], 
+    "🦖": [
+        "Tyrannosaurus Rex", 
+        "T-Rex"
+    ], 
+    "🦗": [
+        "cırcır böceği", 
+        "çekirge"
+    ], 
+    "🧀": [
+        "peynir", 
+        "peynir dilimi"
+    ], 
+    "🧐": [
+        "tek cam gözlüklü yüz", 
+        "burnu tıkalı"
+    ], 
+    "🧑": [
+        "yetişkin", 
+        "kişi"
+    ], 
+    "🧒": [
+        "genç", 
+        "kişi", 
+        "çocuk"
+    ], 
+    "🧓": [
+        "yaşlı", 
+        "kişi", 
+        "yaşlı yetişkin"
+    ], 
+    "🧔": [
+        "sakal", 
+        "sakallı kişi"
+    ], 
+    "🧕": [
+        "başörtülü kadın"
+    ], 
+    "🧖": [
+        "buhar odasındaki kişi"
+    ], 
+    "🧗": [
+        "dağcı kişi"
+    ], 
+    "🧘": [
+        "lotus pozisyonundaki kişi"
+    ], 
+    "🧙": [
+        "büyücü", 
+        "sihirbaz", 
+        "cadı"
+    ], 
+    "🧚": [
+        "Puck", 
+        "peri", 
+        "Oberon", 
+        "Titania"
+    ], 
+    "🧛": [
+        "hortlak", 
+        "Drakula", 
+        "vampir"
+    ], 
+    "🧜": [
+        "balık insan"
+    ], 
+    "🧝": [
+        "sihirli", 
+        "elf"
+    ], 
+    "🧞": [
+        "cin"
+    ], 
+    "🧟": [
+        "hortlak", 
+        "yürüyen ölü", 
+        "zombi"
+    ], 
+    "🧠": [
+        "beyin", 
+        "zeki"
+    ], 
+    "🧡": [
+        "turuncu kalp", 
+        "portakal"
+    ], 
+    "🧢": [
+        "siperli şapka", 
+        "beyzbol şapkası"
+    ], 
+    "🧣": [
+        "yaka", 
+        "atkı"
+    ], 
+    "🧤": [
+        "el", 
+        "eldiven"
+    ], 
+    "🧥": [
+        "kaban"
+    ], 
+    "🧦": [
+        "çorap"
+    ]
+}

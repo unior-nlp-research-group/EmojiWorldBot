@@ -1,0 +1,6817 @@
+{
+    "⌚": [
+        "kell", 
+        "käekell"
+    ], 
+    "⌛": [
+        "kell", 
+        "liiv", 
+        "liivakell"
+    ], 
+    "⏩": [
+        "nool", 
+        "topelt", 
+        "edasikerimisnupp", 
+        "edasi", 
+        "kerimine"
+    ], 
+    "⏪": [
+        "topelt", 
+        "kolmnurk", 
+        "tagasikerimise nupp", 
+        "kerimine", 
+        "tagasi"
+    ], 
+    "⏫": [
+        "nool", 
+        "topelt", 
+        "kiirkerimine üles"
+    ], 
+    "⏬": [
+        "nool", 
+        "topelt", 
+        "kiirkerimine alla", 
+        "alla"
+    ], 
+    "⏰": [
+        "kell", 
+        "äratus", 
+        "äratuskell"
+    ], 
+    "⏳": [
+        "kell", 
+        "liiv", 
+        "voolava liivaga kell"
+    ], 
+    "◽": [
+        "väiksem valge ruut", 
+        "ruut", 
+        "geomeetria"
+    ], 
+    "◾": [
+        "ruut", 
+        "väiksem must ruut", 
+        "geomeetria"
+    ], 
+    "☔": [
+        "riided", 
+        "piiskadega vihmavari", 
+        "ilm", 
+        "vihmavari", 
+        "piist", 
+        "vihm"
+    ], 
+    "☕": [
+        "kuum jook", 
+        "kuum", 
+        "jook", 
+        "kohv", 
+        "tee"
+    ], 
+    "♈": [
+        "Jäär", 
+        "sodiaak"
+    ], 
+    "♉": [
+        "Sõnn", 
+        "sodiaak"
+    ], 
+    "♊": [
+        "Kaksikud", 
+        "sodiaak"
+    ], 
+    "♋": [
+        "Vähk", 
+        "sodiaak"
+    ], 
+    "♌": [
+        "Lõvi", 
+        "sodiaak"
+    ], 
+    "♍": [
+        "Neitsi", 
+        "sodiaak"
+    ], 
+    "♎": [
+        "Kaalud", 
+        "sodiaak"
+    ], 
+    "♏": [
+        "Skorpion", 
+        "sodiaak"
+    ], 
+    "♐": [
+        "Ambur", 
+        "sodiaak"
+    ], 
+    "♑": [
+        "Kaljukits", 
+        "sodiaak"
+    ], 
+    "♒": [
+        "Veevalaja", 
+        "sodiaak"
+    ], 
+    "♓": [
+        "Kalad", 
+        "sodiaak"
+    ], 
+    "♿": [
+        "juurdepääs", 
+        "ratastool"
+    ], 
+    "⚓": [
+        "laev", 
+        "tööriist", 
+        "ankur"
+    ], 
+    "⚡": [
+        "šokk", 
+        "välk", 
+        "kõrgepinge", 
+        "pinge", 
+        "oht", 
+        "elekter"
+    ], 
+    "⚪": [
+        "ring", 
+        "valge ring", 
+        "geomeetria"
+    ], 
+    "⚫": [
+        "ring", 
+        "geomeetria", 
+        "must ring"
+    ], 
+    "⚽": [
+        "jalgpall", 
+        "pall"
+    ], 
+    "⚾": [
+        "pesapall", 
+        "pall"
+    ], 
+    "⛄": [
+        "lumeta lumememm", 
+        "ilm", 
+        "lumememm", 
+        "külm", 
+        "lumi"
+    ], 
+    "⛅": [
+        "päike", 
+        "ilm", 
+        "päike pilve taga", 
+        "pilv"
+    ], 
+    "⛎": [
+        "Maokandja", 
+        "sodiaak"
+    ], 
+    "⛔": [
+        "sisenemine", 
+        "sisenemine keelatud", 
+        "keelatud", 
+        "liiklus"
+    ], 
+    "⛪": [
+        "rist", 
+        "kirik", 
+        "usk", 
+        "maja", 
+        "kristlus"
+    ], 
+    "⛲": [
+        "purskkaev"
+    ], 
+    "⛳": [
+        "auk", 
+        "golf", 
+        "golfilipp"
+    ], 
+    "⛵": [
+        "paat", 
+        "jaht", 
+        "meri", 
+        "purjepaat", 
+        "puhkus", 
+        "sõiduk"
+    ], 
+    "⛺": [
+        "laager", 
+        "telk", 
+        "telkimine"
+    ], 
+    "⛽": [
+        "bensiin", 
+        "pump", 
+        "tankla", 
+        "kütus", 
+        "kütusepump"
+    ], 
+    "✅": [
+        "märge", 
+        "suur valge märge"
+    ], 
+    "✊": [
+        "keha", 
+        "käsi", 
+        "ülestõstetud rusikas", 
+        "löök", 
+        "rusikas"
+    ], 
+    "✋": [
+        "keha", 
+        "ülestõstetud käsi", 
+        "käsi"
+    ], 
+    "✨": [
+        "sära", 
+        "täht", 
+        "säde", 
+        "sädemed"
+    ], 
+    "❌": [
+        "korrutamine", 
+        "x", 
+        "ei", 
+        "korrutusmärk"
+    ], 
+    "❎": [
+        "märk", 
+        "x", 
+        "ruut", 
+        "korrutusmärgiga nupp"
+    ], 
+    "❓": [
+        "küsimärk", 
+        "kirjavahemärk", 
+        "küsimus"
+    ], 
+    "❔": [
+        "valge küsimärk", 
+        "küsimärk", 
+        "kirjavahemärk", 
+        "küsimus"
+    ], 
+    "❕": [
+        "hüüumärk", 
+        "valge hüüumärk"
+    ], 
+    "❗": [
+        "hüüumärk", 
+        "kirjavahemärk"
+    ], 
+    "➕": [
+        "matemaatika", 
+        "suur plussmärk", 
+        "pluss"
+    ], 
+    "➖": [
+        "matemaatika", 
+        "miinus", 
+        "suur miinusmärk"
+    ], 
+    "➗": [
+        "matemaatika", 
+        "jagamine", 
+        "suur jagamismärk"
+    ], 
+    "➰": [
+        "lokk", 
+        "silmus"
+    ], 
+    "➿": [
+        "topelt", 
+        "topeltsilmus", 
+        "silmus"
+    ], 
+    "⬛": [
+        "ruut", 
+        "suur must ruut", 
+        "geomeetria"
+    ], 
+    "⬜": [
+        "ruut", 
+        "geomeetria", 
+        "suur valge ruut"
+    ], 
+    "⭐": [
+        "täht", 
+        "keskmine täht"
+    ], 
+    "⭕": [
+        "rõngas", 
+        "suur ringjoon", 
+        "o"
+    ], 
+    "🀄": [
+        "mäng", 
+        "punane", 
+        "mahjongi punane draakon", 
+        "mahjong"
+    ], 
+    "🃏": [
+        "jokker", 
+        "mäng", 
+        "kaart"
+    ], 
+    "🆎": [
+        "veri", 
+        "nupp AB (veregrupp)", 
+        "ab"
+    ], 
+    "🆑": [
+        "nupp CL", 
+        "cl"
+    ], 
+    "🆒": [
+        "lahe", 
+        "nupp COOL"
+    ], 
+    "🆓": [
+        "tasuta", 
+        "nupp FREE"
+    ], 
+    "🆔": [
+        "nupp ID", 
+        "id", 
+        "identiteet"
+    ], 
+    "🆕": [
+        "nupp NEW", 
+        "uus"
+    ], 
+    "🆖": [
+        "nupp NG", 
+        "ng"
+    ], 
+    "🆗": [
+        "ok", 
+        "nupp OK"
+    ], 
+    "🆘": [
+        "abi", 
+        "nupp SOS", 
+        "sos", 
+        "appi"
+    ], 
+    "🆙": [
+        "märk", 
+        "üles", 
+        "nupp UP!"
+    ], 
+    "🆚": [
+        "versus", 
+        "vs", 
+        "nupp VS"
+    ], 
+    "🇦🇨": [
+        "Ascensioni saar", 
+        "lipp"
+    ], 
+    "🇦🇩": [
+        "Andorra", 
+        "lipp"
+    ], 
+    "🇦🇪": [
+        "lipp", 
+        "Araabia Ühendemiraadid"
+    ], 
+    "🇦🇫": [
+        "Afganistan", 
+        "lipp"
+    ], 
+    "🇦🇬": [
+        "lipp", 
+        "Antigua ja Barbuda"
+    ], 
+    "🇦🇮": [
+        "lipp", 
+        "Anguilla"
+    ], 
+    "🇦🇱": [
+        "lipp", 
+        "Albaania"
+    ], 
+    "🇦🇲": [
+        "Armeenia", 
+        "lipp"
+    ], 
+    "🇦🇴": [
+        "lipp", 
+        "Angola"
+    ], 
+    "🇦🇶": [
+        "lipp", 
+        "Antarktika"
+    ], 
+    "🇦🇷": [
+        "lipp", 
+        "Argentina"
+    ], 
+    "🇦🇸": [
+        "Ameerika Samoa", 
+        "lipp"
+    ], 
+    "🇦🇹": [
+        "lipp", 
+        "Austria"
+    ], 
+    "🇦🇺": [
+        "lipp", 
+        "Austraalia"
+    ], 
+    "🇦🇼": [
+        "lipp", 
+        "Aruba"
+    ], 
+    "🇦🇽": [
+        "lipp", 
+        "Ahvenamaa"
+    ], 
+    "🇦🇿": [
+        "lipp", 
+        "Aserbaidžaan"
+    ], 
+    "🇧🇦": [
+        "Bosnia ja Hertsegoviina", 
+        "lipp"
+    ], 
+    "🇧🇧": [
+        "lipp", 
+        "Barbados"
+    ], 
+    "🇧🇩": [
+        "lipp", 
+        "Bangladesh"
+    ], 
+    "🇧🇪": [
+        "lipp", 
+        "Belgia"
+    ], 
+    "🇧🇫": [
+        "lipp", 
+        "Burkina Faso"
+    ], 
+    "🇧🇬": [
+        "lipp", 
+        "Bulgaaria"
+    ], 
+    "🇧🇭": [
+        "lipp", 
+        "Bahrein"
+    ], 
+    "🇧🇮": [
+        "Burundi", 
+        "lipp"
+    ], 
+    "🇧🇯": [
+        "lipp", 
+        "Benin"
+    ], 
+    "🇧🇱": [
+        "lipp", 
+        "Saint-Barthélemy"
+    ], 
+    "🇧🇲": [
+        "lipp", 
+        "Bermuda"
+    ], 
+    "🇧🇳": [
+        "lipp", 
+        "Brunei"
+    ], 
+    "🇧🇴": [
+        "lipp", 
+        "Boliivia"
+    ], 
+    "🇧🇶": [
+        "lipp", 
+        "Hollandi Kariibi mere saared"
+    ], 
+    "🇧🇷": [
+        "lipp", 
+        "Brasiilia"
+    ], 
+    "🇧🇸": [
+        "lipp", 
+        "Bahama"
+    ], 
+    "🇧🇹": [
+        "lipp", 
+        "Bhutan"
+    ], 
+    "🇧🇻": [
+        "lipp", 
+        "Bouvet’ saar"
+    ], 
+    "🇧🇼": [
+        "lipp", 
+        "Botswana"
+    ], 
+    "🇧🇾": [
+        "Valgevene", 
+        "lipp"
+    ], 
+    "🇧🇿": [
+        "lipp", 
+        "Belize"
+    ], 
+    "🇨🇦": [
+        "Kanada", 
+        "lipp"
+    ], 
+    "🇨🇨": [
+        "lipp", 
+        "Kookossaared"
+    ], 
+    "🇨🇩": [
+        "Kongo DV", 
+        "lipp"
+    ], 
+    "🇨🇫": [
+        "lipp", 
+        "Kesk-Aafrika Vabariik"
+    ], 
+    "🇨🇬": [
+        "lipp", 
+        "Kongo Vabariik"
+    ], 
+    "🇨🇭": [
+        "lipp", 
+        "Šveits"
+    ], 
+    "🇨🇮": [
+        "Côte d’Ivoire", 
+        "lipp"
+    ], 
+    "🇨🇰": [
+        "lipp", 
+        "Cooki saared"
+    ], 
+    "🇨🇱": [
+        "lipp", 
+        "Tšiili"
+    ], 
+    "🇨🇲": [
+        "lipp", 
+        "Kamerun"
+    ], 
+    "🇨🇳": [
+        "lipp", 
+        "Hiina"
+    ], 
+    "🇨🇴": [
+        "lipp", 
+        "Colombia"
+    ], 
+    "🇨🇵": [
+        "Clippertoni saar", 
+        "lipp"
+    ], 
+    "🇨🇷": [
+        "lipp", 
+        "Costa Rica"
+    ], 
+    "🇨🇺": [
+        "lipp", 
+        "Kuuba"
+    ], 
+    "🇨🇻": [
+        "lipp", 
+        "Roheneemesaared"
+    ], 
+    "🇨🇼": [
+        "lipp", 
+        "Curaçao"
+    ], 
+    "🇨🇽": [
+        "lipp", 
+        "Jõulusaar"
+    ], 
+    "🇨🇾": [
+        "lipp", 
+        "Küpros"
+    ], 
+    "🇨🇿": [
+        "lipp", 
+        "Tšehhi"
+    ], 
+    "🇩🇪": [
+        "lipp", 
+        "Saksamaa"
+    ], 
+    "🇩🇬": [
+        "lipp", 
+        "Diego Garcia"
+    ], 
+    "🇩🇯": [
+        "lipp", 
+        "Djibouti"
+    ], 
+    "🇩🇰": [
+        "Taani", 
+        "lipp"
+    ], 
+    "🇩🇲": [
+        "lipp", 
+        "Dominica"
+    ], 
+    "🇩🇴": [
+        "lipp", 
+        "Dominikaani Vabariik"
+    ], 
+    "🇩🇿": [
+        "lipp", 
+        "Alžeeria"
+    ], 
+    "🇪🇦": [
+        "lipp", 
+        "Ceuta ja Melilla"
+    ], 
+    "🇪🇨": [
+        "lipp", 
+        "Ecuador"
+    ], 
+    "🇪🇪": [
+        "lipp", 
+        "Eesti"
+    ], 
+    "🇪🇬": [
+        "lipp", 
+        "Egiptus"
+    ], 
+    "🇪🇭": [
+        "Lääne-Sahara", 
+        "lipp"
+    ], 
+    "🇪🇷": [
+        "lipp", 
+        "Eritrea"
+    ], 
+    "🇪🇸": [
+        "lipp", 
+        "Hispaania"
+    ], 
+    "🇪🇹": [
+        "Etioopia", 
+        "lipp"
+    ], 
+    "🇪🇺": [
+        "lipp", 
+        "Euroopa Liit"
+    ], 
+    "🇫🇮": [
+        "lipp", 
+        "Soome"
+    ], 
+    "🇫🇯": [
+        "lipp", 
+        "Fidži"
+    ], 
+    "🇫🇰": [
+        "lipp", 
+        "Falklandi saared"
+    ], 
+    "🇫🇲": [
+        "lipp", 
+        "Mikroneesia"
+    ], 
+    "🇫🇴": [
+        "lipp", 
+        "Fääri saared"
+    ], 
+    "🇫🇷": [
+        "Prantsusmaa", 
+        "lipp"
+    ], 
+    "🇬🇦": [
+        "lipp", 
+        "Gabon"
+    ], 
+    "🇬🇧": [
+        "Suurbritannia", 
+        "lipp"
+    ], 
+    "🇬🇩": [
+        "lipp", 
+        "Grenada"
+    ], 
+    "🇬🇪": [
+        "lipp", 
+        "Gruusia"
+    ], 
+    "🇬🇫": [
+        "lipp", 
+        "Prantsuse Guajaana"
+    ], 
+    "🇬🇬": [
+        "lipp", 
+        "Guernsey"
+    ], 
+    "🇬🇭": [
+        "Ghana", 
+        "lipp"
+    ], 
+    "🇬🇮": [
+        "lipp", 
+        "Gibraltar"
+    ], 
+    "🇬🇱": [
+        "lipp", 
+        "Gröönimaa"
+    ], 
+    "🇬🇲": [
+        "lipp", 
+        "Gambia"
+    ], 
+    "🇬🇳": [
+        "lipp", 
+        "Guinea"
+    ], 
+    "🇬🇵": [
+        "lipp", 
+        "Guadeloupe"
+    ], 
+    "🇬🇶": [
+        "lipp", 
+        "Ekvatoriaal-Guinea"
+    ], 
+    "🇬🇷": [
+        "lipp", 
+        "Kreeka"
+    ], 
+    "🇬🇸": [
+        "Lõuna-Georgia ja Lõuna-Sandwichi saared", 
+        "lipp"
+    ], 
+    "🇬🇹": [
+        "lipp", 
+        "Guatemala"
+    ], 
+    "🇬🇺": [
+        "lipp", 
+        "Guam"
+    ], 
+    "🇬🇼": [
+        "lipp", 
+        "Guinea-Bissau"
+    ], 
+    "🇬🇾": [
+        "lipp", 
+        "Guyana"
+    ], 
+    "🇭🇰": [
+        "lipp", 
+        "Hongkongi erihalduspiirkond"
+    ], 
+    "🇭🇲": [
+        "lipp", 
+        "Heardi ja McDonaldi saared"
+    ], 
+    "🇭🇳": [
+        "lipp", 
+        "Honduras"
+    ], 
+    "🇭🇷": [
+        "lipp", 
+        "Horvaatia"
+    ], 
+    "🇭🇹": [
+        "lipp", 
+        "Haiti"
+    ], 
+    "🇭🇺": [
+        "Ungari", 
+        "lipp"
+    ], 
+    "🇮🇨": [
+        "lipp", 
+        "Kanaari saared"
+    ], 
+    "🇮🇩": [
+        "lipp", 
+        "Indoneesia"
+    ], 
+    "🇮🇪": [
+        "lipp", 
+        "Iirimaa"
+    ], 
+    "🇮🇱": [
+        "lipp", 
+        "Iisrael"
+    ], 
+    "🇮🇲": [
+        "lipp", 
+        "Mani saar"
+    ], 
+    "🇮🇳": [
+        "lipp", 
+        "India"
+    ], 
+    "🇮🇴": [
+        "lipp", 
+        "Briti India ookeani ala"
+    ], 
+    "🇮🇶": [
+        "lipp", 
+        "Iraak"
+    ], 
+    "🇮🇷": [
+        "lipp", 
+        "Iraan"
+    ], 
+    "🇮🇸": [
+        "lipp", 
+        "Island"
+    ], 
+    "🇮🇹": [
+        "lipp", 
+        "Itaalia"
+    ], 
+    "🇯🇪": [
+        "lipp", 
+        "Jersey"
+    ], 
+    "🇯🇲": [
+        "lipp", 
+        "Jamaica"
+    ], 
+    "🇯🇴": [
+        "lipp", 
+        "Jordaania"
+    ], 
+    "🇯🇵": [
+        "lipp", 
+        "Jaapan"
+    ], 
+    "🇰🇪": [
+        "lipp", 
+        "Keenia"
+    ], 
+    "🇰🇬": [
+        "Kõrgõzstan", 
+        "lipp"
+    ], 
+    "🇰🇭": [
+        "lipp", 
+        "Kambodža"
+    ], 
+    "🇰🇮": [
+        "lipp", 
+        "Kiribati"
+    ], 
+    "🇰🇲": [
+        "lipp", 
+        "Komoorid"
+    ], 
+    "🇰🇳": [
+        "Saint Kitts ja Nevis", 
+        "lipp"
+    ], 
+    "🇰🇵": [
+        "lipp", 
+        "Põhja-Korea"
+    ], 
+    "🇰🇷": [
+        "lipp", 
+        "Lõuna-Korea"
+    ], 
+    "🇰🇼": [
+        "lipp", 
+        "Kuveit"
+    ], 
+    "🇰🇾": [
+        "lipp", 
+        "Kaimanisaared"
+    ], 
+    "🇰🇿": [
+        "lipp", 
+        "Kasahstan"
+    ], 
+    "🇱🇦": [
+        "lipp", 
+        "Laos"
+    ], 
+    "🇱🇧": [
+        "lipp", 
+        "Liibanon"
+    ], 
+    "🇱🇨": [
+        "lipp", 
+        "Saint Lucia"
+    ], 
+    "🇱🇮": [
+        "lipp", 
+        "Liechtenstein"
+    ], 
+    "🇱🇰": [
+        "Sri Lanka", 
+        "lipp"
+    ], 
+    "🇱🇷": [
+        "lipp", 
+        "Libeeria"
+    ], 
+    "🇱🇸": [
+        "lipp", 
+        "Lesotho"
+    ], 
+    "🇱🇹": [
+        "lipp", 
+        "Leedu"
+    ], 
+    "🇱🇺": [
+        "lipp", 
+        "Luksemburg"
+    ], 
+    "🇱🇻": [
+        "lipp", 
+        "Läti"
+    ], 
+    "🇱🇾": [
+        "lipp", 
+        "Liibüa"
+    ], 
+    "🇲🇦": [
+        "lipp", 
+        "Maroko"
+    ], 
+    "🇲🇨": [
+        "lipp", 
+        "Monaco"
+    ], 
+    "🇲🇩": [
+        "lipp", 
+        "Moldova"
+    ], 
+    "🇲🇪": [
+        "lipp", 
+        "Montenegro"
+    ], 
+    "🇲🇫": [
+        "lipp", 
+        "Saint-Martin"
+    ], 
+    "🇲🇬": [
+        "lipp", 
+        "Madagaskar"
+    ], 
+    "🇲🇭": [
+        "lipp", 
+        "Marshalli Saared"
+    ], 
+    "🇲🇰": [
+        "lipp", 
+        "Makedoonia"
+    ], 
+    "🇲🇱": [
+        "lipp", 
+        "Mali"
+    ], 
+    "🇲🇲": [
+        "Myanmar (Birma)", 
+        "lipp"
+    ], 
+    "🇲🇳": [
+        "lipp", 
+        "Mongoolia"
+    ], 
+    "🇲🇴": [
+        "lipp", 
+        "Macau erihalduspiirkond"
+    ], 
+    "🇲🇵": [
+        "Põhja-Mariaanid", 
+        "lipp"
+    ], 
+    "🇲🇶": [
+        "lipp", 
+        "Martinique"
+    ], 
+    "🇲🇷": [
+        "lipp", 
+        "Mauritaania"
+    ], 
+    "🇲🇸": [
+        "lipp", 
+        "Montserrat"
+    ], 
+    "🇲🇹": [
+        "lipp", 
+        "Malta"
+    ], 
+    "🇲🇺": [
+        "Mauritius", 
+        "lipp"
+    ], 
+    "🇲🇻": [
+        "lipp", 
+        "Maldiivid"
+    ], 
+    "🇲🇼": [
+        "lipp", 
+        "Malawi"
+    ], 
+    "🇲🇽": [
+        "lipp", 
+        "Mehhiko"
+    ], 
+    "🇲🇾": [
+        "lipp", 
+        "Malaisia"
+    ], 
+    "🇲🇿": [
+        "lipp", 
+        "Mosambiik"
+    ], 
+    "🇳🇦": [
+        "lipp", 
+        "Namiibia"
+    ], 
+    "🇳🇨": [
+        "lipp", 
+        "Uus-Kaledoonia"
+    ], 
+    "🇳🇪": [
+        "lipp", 
+        "Niger"
+    ], 
+    "🇳🇫": [
+        "lipp", 
+        "Norfolk"
+    ], 
+    "🇳🇬": [
+        "lipp", 
+        "Nigeeria"
+    ], 
+    "🇳🇮": [
+        "lipp", 
+        "Nicaragua"
+    ], 
+    "🇳🇱": [
+        "lipp", 
+        "Holland"
+    ], 
+    "🇳🇴": [
+        "lipp", 
+        "Norra"
+    ], 
+    "🇳🇵": [
+        "lipp", 
+        "Nepal"
+    ], 
+    "🇳🇷": [
+        "lipp", 
+        "Nauru"
+    ], 
+    "🇳🇺": [
+        "lipp", 
+        "Niue"
+    ], 
+    "🇳🇿": [
+        "lipp", 
+        "Uus-Meremaa"
+    ], 
+    "🇴🇲": [
+        "lipp", 
+        "Omaan"
+    ], 
+    "🇵🇦": [
+        "lipp", 
+        "Panama"
+    ], 
+    "🇵🇪": [
+        "lipp", 
+        "Peruu"
+    ], 
+    "🇵🇫": [
+        "lipp", 
+        "Prantsuse Polüneesia"
+    ], 
+    "🇵🇬": [
+        "lipp", 
+        "Paapua Uus-Guinea"
+    ], 
+    "🇵🇭": [
+        "lipp", 
+        "Filipiinid"
+    ], 
+    "🇵🇰": [
+        "lipp", 
+        "Pakistan"
+    ], 
+    "🇵🇱": [
+        "lipp", 
+        "Poola"
+    ], 
+    "🇵🇲": [
+        "lipp", 
+        "Saint-Pierre ja Miquelon"
+    ], 
+    "🇵🇳": [
+        "lipp", 
+        "Pitcairni saared"
+    ], 
+    "🇵🇷": [
+        "lipp", 
+        "Puerto Rico"
+    ], 
+    "🇵🇸": [
+        "lipp", 
+        "Palestiina alad"
+    ], 
+    "🇵🇹": [
+        "lipp", 
+        "Portugal"
+    ], 
+    "🇵🇼": [
+        "lipp", 
+        "Belau"
+    ], 
+    "🇵🇾": [
+        "Paraguay", 
+        "lipp"
+    ], 
+    "🇶🇦": [
+        "Katar", 
+        "lipp"
+    ], 
+    "🇷🇪": [
+        "lipp", 
+        "Réunion"
+    ], 
+    "🇷🇴": [
+        "lipp", 
+        "Rumeenia"
+    ], 
+    "🇷🇸": [
+        "lipp", 
+        "Serbia"
+    ], 
+    "🇷🇺": [
+        "Venemaa", 
+        "lipp"
+    ], 
+    "🇷🇼": [
+        "lipp", 
+        "Rwanda"
+    ], 
+    "🇸🇦": [
+        "Saudi Araabia", 
+        "lipp"
+    ], 
+    "🇸🇧": [
+        "lipp", 
+        "Saalomoni Saared"
+    ], 
+    "🇸🇨": [
+        "lipp", 
+        "Seišellid"
+    ], 
+    "🇸🇩": [
+        "lipp", 
+        "Sudaan"
+    ], 
+    "🇸🇪": [
+        "lipp", 
+        "Rootsi"
+    ], 
+    "🇸🇬": [
+        "lipp", 
+        "Singapur"
+    ], 
+    "🇸🇭": [
+        "lipp", 
+        "Saint Helena"
+    ], 
+    "🇸🇮": [
+        "lipp", 
+        "Sloveenia"
+    ], 
+    "🇸🇯": [
+        "lipp", 
+        "Svalbard ja Jan Mayen"
+    ], 
+    "🇸🇰": [
+        "lipp", 
+        "Slovakkia"
+    ], 
+    "🇸🇱": [
+        "lipp", 
+        "Sierra Leone"
+    ], 
+    "🇸🇲": [
+        "lipp", 
+        "San Marino"
+    ], 
+    "🇸🇳": [
+        "lipp", 
+        "Senegal"
+    ], 
+    "🇸🇴": [
+        "lipp", 
+        "Somaalia"
+    ], 
+    "🇸🇷": [
+        "lipp", 
+        "Suriname"
+    ], 
+    "🇸🇸": [
+        "lipp", 
+        "Lõuna-Sudaan"
+    ], 
+    "🇸🇹": [
+        "lipp", 
+        "São Tomé ja Príncipe"
+    ], 
+    "🇸🇻": [
+        "El Salvador", 
+        "lipp"
+    ], 
+    "🇸🇽": [
+        "lipp", 
+        "Sint Maarten"
+    ], 
+    "🇸🇾": [
+        "lipp", 
+        "Süüria"
+    ], 
+    "🇸🇿": [
+        "lipp", 
+        "Svaasimaa"
+    ], 
+    "🇹🇦": [
+        "lipp", 
+        "Tristan da Cunha"
+    ], 
+    "🇹🇨": [
+        "lipp", 
+        "Turks ja Caicos"
+    ], 
+    "🇹🇩": [
+        "lipp", 
+        "Tšaad"
+    ], 
+    "🇹🇫": [
+        "lipp", 
+        "Prantsuse Lõunaalad"
+    ], 
+    "🇹🇬": [
+        "lipp", 
+        "Togo"
+    ], 
+    "🇹🇭": [
+        "lipp", 
+        "Tai"
+    ], 
+    "🇹🇯": [
+        "lipp", 
+        "Tadžikistan"
+    ], 
+    "🇹🇰": [
+        "Tokelau", 
+        "lipp"
+    ], 
+    "🇹🇱": [
+        "lipp", 
+        "Ida-Timor"
+    ], 
+    "🇹🇲": [
+        "lipp", 
+        "Türkmenistan"
+    ], 
+    "🇹🇳": [
+        "lipp", 
+        "Tuneesia"
+    ], 
+    "🇹🇴": [
+        "lipp", 
+        "Tonga"
+    ], 
+    "🇹🇷": [
+        "lipp", 
+        "Türgi"
+    ], 
+    "🇹🇹": [
+        "lipp", 
+        "Trinidad ja Tobago"
+    ], 
+    "🇹🇻": [
+        "lipp", 
+        "Tuvalu"
+    ], 
+    "🇹🇼": [
+        "lipp", 
+        "Taiwan"
+    ], 
+    "🇹🇿": [
+        "lipp", 
+        "Tansaania"
+    ], 
+    "🇺🇦": [
+        "lipp", 
+        "Ukraina"
+    ], 
+    "🇺🇬": [
+        "lipp", 
+        "Uganda"
+    ], 
+    "🇺🇲": [
+        "lipp", 
+        "Ühendriikide hajasaared"
+    ], 
+    "🇺🇳": [
+        "Ühendatud Rahvaste Organisatsioon", 
+        "lipp"
+    ], 
+    "🇺🇸": [
+        "lipp", 
+        "Ameerika Ühendriigid"
+    ], 
+    "🇺🇾": [
+        "lipp", 
+        "Uruguay"
+    ], 
+    "🇺🇿": [
+        "lipp", 
+        "Usbekistan"
+    ], 
+    "🇻🇦": [
+        "lipp", 
+        "Vatikan"
+    ], 
+    "🇻🇨": [
+        "lipp", 
+        "Saint Vincent ja Grenadiinid"
+    ], 
+    "🇻🇪": [
+        "lipp", 
+        "Venezuela"
+    ], 
+    "🇻🇬": [
+        "lipp", 
+        "Briti Neitsisaared"
+    ], 
+    "🇻🇮": [
+        "lipp", 
+        "USA Neitsisaared"
+    ], 
+    "🇻🇳": [
+        "lipp", 
+        "Vietnam"
+    ], 
+    "🇻🇺": [
+        "lipp", 
+        "Vanuatu"
+    ], 
+    "🇼🇫": [
+        "lipp", 
+        "Wallis ja Futuna"
+    ], 
+    "🇼🇸": [
+        "lipp", 
+        "Samoa"
+    ], 
+    "🇽🇰": [
+        "lipp", 
+        "Kosovo"
+    ], 
+    "🇾🇪": [
+        "lipp", 
+        "Jeemen"
+    ], 
+    "🇾🇹": [
+        "Mayotte", 
+        "lipp"
+    ], 
+    "🇿🇦": [
+        "lipp", 
+        "Lõuna-Aafrika Vabariik"
+    ], 
+    "🇿🇲": [
+        "lipp", 
+        "Sambia"
+    ], 
+    "🇿🇼": [
+        "lipp", 
+        "Zimbabwe"
+    ], 
+    "🈁": [
+        "\"siin\"", 
+        "katakana", 
+        "ココ", 
+        "jaapani keel", 
+        "jaapani nupp \"siin\""
+    ], 
+    "🈚": [
+        "無", 
+        "ideogramm", 
+        "\"tasuta\"", 
+        "jaapani keel", 
+        "jaapani nupp \"tasuta\""
+    ], 
+    "🈯": [
+        "ideogramm", 
+        "指", 
+        "\"reserveeritud\"", 
+        "jaapani keel", 
+        "jaapani nupp \"reserveeritud\""
+    ], 
+    "🈲": [
+        "jaapani nupp \"keelatud\"", 
+        "ideogramm", 
+        "\"keelatud\"", 
+        "禁", 
+        "jaapani keel"
+    ], 
+    "🈳": [
+        "jaapani nupp \"vaba\"", 
+        "空", 
+        "\"vaba\"", 
+        "ideogramm", 
+        "jaapani keel"
+    ], 
+    "🈴": [
+        "jaapani nupp \"sooritatud\"", 
+        "\"sooritatud\"", 
+        "ideogramm", 
+        "合", 
+        "jaapani keel"
+    ], 
+    "🈵": [
+        "満", 
+        "ideogramm", 
+        "jaapani nupp \"pole vaba\"", 
+        "\"pole vaba\"", 
+        "jaapani keel"
+    ], 
+    "🈶": [
+        "jaapani nupp \"pole tasuta\"", 
+        "有", 
+        "ideogramm", 
+        "jaapani keel", 
+        "\"pole tasuta\""
+    ], 
+    "🈸": [
+        "ideogramm", 
+        "jaapani nupp \"rakendus\"", 
+        "\"rakendus\"", 
+        "申", 
+        "jaapani keel"
+    ], 
+    "🈹": [
+        "jaapani nupp \"allahindlus\"", 
+        "ideogramm", 
+        "割", 
+        "\"allahindlus\"", 
+        "jaapani keel"
+    ], 
+    "🈺": [
+        "jaapani nupp \"avatud\"", 
+        "ideogramm", 
+        "jaapani keel", 
+        "営", 
+        "\"avatud\""
+    ], 
+    "🉐": [
+        "ideogramm", 
+        "jaapani nupp \"soodne\"", 
+        "\"soodne\"", 
+        "jaapani keel", 
+        "得"
+    ], 
+    "🉑": [
+        "\"vastuvõetav\"", 
+        "ideogramm", 
+        "jaapani nupp \"vastuvõetav\"", 
+        "可", 
+        "jaapani keel"
+    ], 
+    "🌀": [
+        "orkaan", 
+        "tsüklon", 
+        "ilm", 
+        "tornaado", 
+        "taifuun"
+    ], 
+    "🌁": [
+        "ilm", 
+        "udune", 
+        "udu"
+    ], 
+    "🌂": [
+        "vihm", 
+        "suletud vihmavari", 
+        "ilm", 
+        "vihmavari", 
+        "riided"
+    ], 
+    "🌃": [
+        "öö", 
+        "täht", 
+        "ilm", 
+        "öine tähistaevas"
+    ], 
+    "🌄": [
+        "päikesetõus mägedes", 
+        "ilm", 
+        "hommik", 
+        "päike", 
+        "mägi", 
+        "päikesetõus"
+    ], 
+    "🌅": [
+        "päike", 
+        "ilm", 
+        "päikesetõus", 
+        "hommik"
+    ], 
+    "🌆": [
+        "õhtu", 
+        "ilm", 
+        "päike", 
+        "loojang", 
+        "siluett", 
+        "linna siluett videvikus", 
+        "hoone", 
+        "videvik"
+    ], 
+    "🌇": [
+        "hoone", 
+        "päike", 
+        "ilm", 
+        "päikeseloojang", 
+        "loojang"
+    ], 
+    "🌈": [
+        "vihm", 
+        "ilm", 
+        "vikerkaar"
+    ], 
+    "🌉": [
+        "öö", 
+        "sild öösel", 
+        "ilm", 
+        "sild"
+    ], 
+    "🌊": [
+        "veelaine", 
+        "ilm", 
+        "ookean", 
+        "vesi"
+    ], 
+    "🌋": [
+        "laava", 
+        "mägi", 
+        "purse", 
+        "vulkaan"
+    ], 
+    "🌌": [
+        "kosmos", 
+        "Linnutee", 
+        "tähed"
+    ], 
+    "🌍": [
+        "aafrika", 
+        "gloobus", 
+        "Euroopa ja Aafrika gloobusel", 
+        "maa", 
+        "euroopa", 
+        "maailm"
+    ], 
+    "🌎": [
+        "Ameerika mandrid gloobusel", 
+        "gloobus", 
+        "ameerika", 
+        "maa", 
+        "maailm"
+    ], 
+    "🌏": [
+        "austraalia", 
+        "aasia", 
+        "gloobus", 
+        "maa", 
+        "Aasia ja Austraalia gloobusel", 
+        "maailm"
+    ], 
+    "🌐": [
+        "gloobus", 
+        "maa", 
+        "meridiaanid", 
+        "meridiaanidega gloobus", 
+        "maailm"
+    ], 
+    "🌑": [
+        "pime", 
+        "kosmos", 
+        "ilm", 
+        "noorkuu", 
+        "kuu"
+    ], 
+    "🌒": [
+        "kosmos", 
+        "kuu", 
+        "ilm", 
+        "kasvav kuusirp", 
+        "sirp", 
+        "noorkuu"
+    ], 
+    "🌓": [
+        "kosmos", 
+        "ilm", 
+        "poolkuu", 
+        "kuu", 
+        "kasvav poolkuu"
+    ], 
+    "🌔": [
+        "poolkuu", 
+        "kuu", 
+        "ilm", 
+        "kasvav", 
+        "kasvav kuu"
+    ], 
+    "🌕": [
+        "kosmos", 
+        "ilm", 
+        "täiskuu"
+    ], 
+    "🌖": [
+        "kahanev kuu", 
+        "kosmos", 
+        "ilm", 
+        "kuu", 
+        "kahanev"
+    ], 
+    "🌗": [
+        "poolkuu", 
+        "kosmos", 
+        "ilm", 
+        "kahanev poolkuu", 
+        "kuu"
+    ], 
+    "🌘": [
+        "kosmos", 
+        "kuu", 
+        "ilm", 
+        "kahanev", 
+        "sirp", 
+        "kahanev kuusirp"
+    ], 
+    "🌙": [
+        "sirp", 
+        "kosmos", 
+        "ilm", 
+        "kuusirp", 
+        "kuu"
+    ], 
+    "🌚": [
+        "kosmos", 
+        "ilm", 
+        "kuu", 
+        "nägu", 
+        "näoga noorkuu"
+    ], 
+    "🌛": [
+        "kosmos", 
+        "näoga kasvav kuu", 
+        "kuu", 
+        "ilm", 
+        "poolkuu", 
+        "nägu"
+    ], 
+    "🌜": [
+        "kosmos", 
+        "kuu", 
+        "ilm", 
+        "näoga kahanev kuu", 
+        "poolkuu", 
+        "nägu"
+    ], 
+    "🌝": [
+        "kosmos", 
+        "täiskuu", 
+        "kuu", 
+        "ilm", 
+        "ere", 
+        "näoga täiskuu", 
+        "nägu"
+    ], 
+    "🌞": [
+        "näoga päike", 
+        "kosmos", 
+        "ilm", 
+        "päike", 
+        "ere", 
+        "nägu"
+    ], 
+    "🌟": [
+        "sära", 
+        "täht", 
+        "helendav", 
+        "helendav täht"
+    ], 
+    "🌠": [
+        "täht", 
+        "kosmos", 
+        "langev", 
+        "langev täht", 
+        "komeet"
+    ], 
+    "🌭": [
+        "hot dog", 
+        "viiner", 
+        "vorst", 
+        "hotdog"
+    ], 
+    "🌮": [
+        "mehhiko", 
+        "tako"
+    ], 
+    "🌯": [
+        "mehhiko", 
+        "burrito"
+    ], 
+    "🌰": [
+        "kastan", 
+        "taim"
+    ], 
+    "🌱": [
+        "taim", 
+        "võrse", 
+        "idu"
+    ], 
+    "🌲": [
+        "puu", 
+        "taim", 
+        "igihaljas puu", 
+        "igihaljas"
+    ], 
+    "🌳": [
+        "leht", 
+        "lehtpuu", 
+        "taim", 
+        "puu"
+    ], 
+    "🌴": [
+        "palmipuu", 
+        "taim", 
+        "palm", 
+        "puu"
+    ], 
+    "🌵": [
+        "taim", 
+        "kaktus"
+    ], 
+    "🌷": [
+        "lill", 
+        "taim", 
+        "tulp"
+    ], 
+    "🌸": [
+        "õis", 
+        "kirss", 
+        "taim", 
+        "kirsiõis", 
+        "lill"
+    ], 
+    "🌹": [
+        "lill", 
+        "taim", 
+        "roos"
+    ], 
+    "🌺": [
+        "lill", 
+        "hibisk", 
+        "taim"
+    ], 
+    "🌻": [
+        "päike", 
+        "lill", 
+        "taim", 
+        "päevalill"
+    ], 
+    "🌼": [
+        "õis", 
+        "lill", 
+        "taim"
+    ], 
+    "🌽": [
+        "taim", 
+        "maisitõlvik", 
+        "mais", 
+        "tõlvik"
+    ], 
+    "🌾": [
+        "taim", 
+        "riisitaim", 
+        "riis", 
+        "vihk"
+    ], 
+    "🌿": [
+        "maitsetaim", 
+        "leht", 
+        "taim"
+    ], 
+    "🍀": [
+        "neli", 
+        "leht", 
+        "taim", 
+        "ristik", 
+        "4", 
+        "nelja lehega ristik"
+    ], 
+    "🍁": [
+        "leht", 
+        "taim", 
+        "langev", 
+        "vahtraleht", 
+        "vaher"
+    ], 
+    "🍂": [
+        "leht", 
+        "taim", 
+        "langev", 
+        "langenud leht"
+    ], 
+    "🍃": [
+        "leht", 
+        "tuul", 
+        "taim", 
+        "tuules lendlev leht"
+    ], 
+    "🍄": [
+        "seen", 
+        "mürgiseen"
+    ], 
+    "🍅": [
+        "taim", 
+        "tomat", 
+        "köögivili"
+    ], 
+    "🍆": [
+        "baklažaan", 
+        "taim", 
+        "köögivili"
+    ], 
+    "🍇": [
+        "taim", 
+        "puuvili", 
+        "viinamarjad", 
+        "viinamari"
+    ], 
+    "🍈": [
+        "melon", 
+        "taim", 
+        "puuvili"
+    ], 
+    "🍉": [
+        "arbuus", 
+        "taim", 
+        "puuvili"
+    ], 
+    "🍊": [
+        "taim", 
+        "mandariin", 
+        "puuvili"
+    ], 
+    "🍋": [
+        "taim", 
+        "puuvili", 
+        "sidrun"
+    ], 
+    "🍌": [
+        "puuvili", 
+        "taim", 
+        "banaan"
+    ], 
+    "🍍": [
+        "ananass", 
+        "taim", 
+        "puuvili"
+    ], 
+    "🍎": [
+        "puuvili", 
+        "õun", 
+        "taim", 
+        "punane", 
+        "punane õun"
+    ], 
+    "🍏": [
+        "taim", 
+        "õun", 
+        "roheline", 
+        "puuvili", 
+        "roheline õun"
+    ], 
+    "🍐": [
+        "pirn", 
+        "taim", 
+        "puuvili"
+    ], 
+    "🍑": [
+        "virsik", 
+        "taim", 
+        "puuvili"
+    ], 
+    "🍒": [
+        "kirsid", 
+        "kirss", 
+        "taim", 
+        "puuvili"
+    ], 
+    "🍓": [
+        "taim", 
+        "maasikas", 
+        "puuvili", 
+        "mari"
+    ], 
+    "🍔": [
+        "burger", 
+        "hamburger"
+    ], 
+    "🍕": [
+        "viil", 
+        "juust", 
+        "pitsa", 
+        "pizza"
+    ], 
+    "🍖": [
+        "liha", 
+        "kont", 
+        "luu", 
+        "kondiga liha"
+    ], 
+    "🍗": [
+        "kont", 
+        "koib", 
+        "kanakoib", 
+        "luu", 
+        "kana"
+    ], 
+    "🍘": [
+        "leib", 
+        "riis", 
+        "riisiküpsis"
+    ], 
+    "🍙": [
+        "riis", 
+        "riisipall", 
+        "pall"
+    ], 
+    "🍚": [
+        "keedetud riis", 
+        "riis", 
+        "keedetud"
+    ], 
+    "🍛": [
+        "karri", 
+        "riis", 
+        "karriga riis"
+    ], 
+    "🍜": [
+        "nuudel", 
+        "kauss", 
+        "aur", 
+        "aurav kauss"
+    ], 
+    "🍝": [
+        "pasta", 
+        "spagetid"
+    ], 
+    "🍞": [
+        "leib", 
+        "päts"
+    ], 
+    "🍟": [
+        "friikartulid", 
+        "friikartul"
+    ], 
+    "🍠": [
+        "röstitud", 
+        "kartul", 
+        "röstitud bataat"
+    ], 
+    "🍡": [
+        "magus", 
+        "magustoit", 
+        "pulk", 
+        "dango"
+    ], 
+    "🍢": [
+        "oden", 
+        "mereannid", 
+        "pulk", 
+        "kebab"
+    ], 
+    "🍣": [
+        "suši"
+    ], 
+    "🍤": [
+        "praetud", 
+        "praetud krevett", 
+        "krevett", 
+        "tempura"
+    ], 
+    "🍥": [
+        "kook", 
+        "spiraal", 
+        "keerdudega kalakotlet", 
+        "tort"
+    ], 
+    "🍦": [
+        "magus", 
+        "pehme", 
+        "pehme jäätis", 
+        "magustoit", 
+        "jäätis"
+    ], 
+    "🍧": [
+        "magus", 
+        "magustoit", 
+        "mahlajää", 
+        "jää"
+    ], 
+    "🍨": [
+        "magus", 
+        "magustoit", 
+        "jäätis"
+    ], 
+    "🍩": [
+        "magus", 
+        "sõõrik", 
+        "magustoit"
+    ], 
+    "🍪": [
+        "magus", 
+        "küpsis", 
+        "magustoit"
+    ], 
+    "🍫": [
+        "magus", 
+        "šokolaad", 
+        "šokolaaditahvel", 
+        "magustoit"
+    ], 
+    "🍬": [
+        "magus", 
+        "magustoit", 
+        "komm"
+    ], 
+    "🍭": [
+        "magus", 
+        "magustoit", 
+        "komm", 
+        "pulgakomm"
+    ], 
+    "🍮": [
+        "magus", 
+        "vanillipuding", 
+        "puding", 
+        "magustoit"
+    ], 
+    "🍯": [
+        "magus", 
+        "mesi", 
+        "meepott"
+    ], 
+    "🍰": [
+        "kook", 
+        "magus", 
+        "magustoit", 
+        "liivataignakook", 
+        "lõik"
+    ], 
+    "🍱": [
+        "toit", 
+        "bento einekarp", 
+        "karp"
+    ], 
+    "🍲": [
+        "potitäis toitu", 
+        "pott", 
+        "hautis"
+    ], 
+    "🍳": [
+        "praadimine", 
+        "muna", 
+        "toiduvalmistamine", 
+        "pann"
+    ], 
+    "🍴": [
+        "toit", 
+        "kahvel ja nuga", 
+        "nuga", 
+        "kahvel"
+    ], 
+    "🍵": [
+        "kõrvata teetass", 
+        "jook", 
+        "tee", 
+        "tass"
+    ], 
+    "🍶": [
+        "tass", 
+        "pudel", 
+        "baar", 
+        "viin", 
+        "riisiviin", 
+        "jook"
+    ], 
+    "🍷": [
+        "veiniklaas", 
+        "baar", 
+        "jook", 
+        "vein", 
+        "klaas"
+    ], 
+    "🍸": [
+        "kokteil", 
+        "baar", 
+        "jook", 
+        "kokteiliklaas", 
+        "klaas"
+    ], 
+    "🍹": [
+        "troopiline", 
+        "baar", 
+        "jook", 
+        "troopiline jook"
+    ], 
+    "🍺": [
+        "kann", 
+        "õllekann", 
+        "baar", 
+        "jook", 
+        "õlu"
+    ], 
+    "🍻": [
+        "kann", 
+        "kõlisevad õllekannud", 
+        "baar", 
+        "õlu", 
+        "jook", 
+        "kõlin"
+    ], 
+    "🍼": [
+        "pudel", 
+        "lutipudel", 
+        "beebi", 
+        "piim"
+    ], 
+    "🍾": [
+        "pudel", 
+        "kork", 
+        "baar", 
+        "pudeli avamine", 
+        "jook", 
+        "avamine"
+    ], 
+    "🍿": [
+        "popkorn", 
+        "mais"
+    ], 
+    "🎀": [
+        "lips", 
+        "lint"
+    ], 
+    "🎁": [
+        "kingipakk", 
+        "karp", 
+        "pakitud", 
+        "kink"
+    ], 
+    "🎂": [
+        "sünnipäev", 
+        "magus", 
+        "sünnipäevatort", 
+        "tort", 
+        "küünlad", 
+        "magustoit", 
+        "tähistamine"
+    ], 
+    "🎃": [
+        "latern", 
+        "kõrvits", 
+        "halloween", 
+        "kõrvitsalatern"
+    ], 
+    "🎄": [
+        "jõulupuu", 
+        "pühad", 
+        "jõulud", 
+        "kuusk"
+    ], 
+    "🎅": [
+        "jõuluvana", 
+        "jõulud", 
+        "muinasjutt"
+    ], 
+    "🎆": [
+        "ilutulestik", 
+        "tähistamine"
+    ], 
+    "🎇": [
+        "ilutulestik", 
+        "säraküünal"
+    ], 
+    "🎈": [
+        "õhupall", 
+        "tähistamine"
+    ], 
+    "🎉": [
+        "pidupäev", 
+        "pidu", 
+        "üllatus", 
+        "sünnipäev"
+    ], 
+    "🎊": [
+        "pidu", 
+        "pall", 
+        "konfetid"
+    ], 
+    "🎋": [
+        "puu", 
+        "pidu", 
+        "tanabata soovipuu"
+    ], 
+    "🎌": [
+        "ristatud lipud", 
+        "lipp", 
+        "pidu", 
+        "risti"
+    ], 
+    "🎍": [
+        "puu", 
+        "taim", 
+        "mänd", 
+        "bambus", 
+        "väravamänd"
+    ], 
+    "🎎": [
+        "festival", 
+        "nukk", 
+        "Jaapani nukud"
+    ], 
+    "🎏": [
+        "kala", 
+        "kalakujuline vimpel", 
+        "vimpel", 
+        "lipp"
+    ], 
+    "🎐": [
+        "kell", 
+        "tuul", 
+        "tuulekell"
+    ], 
+    "🎑": [
+        "festival", 
+        "kuu", 
+        "tseremoonia", 
+        "kuutseremoonia"
+    ], 
+    "🎒": [
+        "ranits", 
+        "kott", 
+        "kool"
+    ], 
+    "🎓": [
+        "lõpetamine", 
+        "koolilõpumüts", 
+        "müts", 
+        "riided"
+    ], 
+    "🎠": [
+        "karussellihobune", 
+        "hobune", 
+        "karussell"
+    ], 
+    "🎡": [
+        "vaateratas", 
+        "lõbustuspark"
+    ], 
+    "🎢": [
+        "Ameerika mäed", 
+        "ameerika", 
+        "mäed", 
+        "lõbustuspark"
+    ], 
+    "🎣": [
+        "kala", 
+        "õng"
+    ], 
+    "🎤": [
+        "karaoke", 
+        "mikrofon"
+    ], 
+    "🎥": [
+        "filmikaamera", 
+        "kaamera", 
+        "video", 
+        "film"
+    ], 
+    "🎦": [
+        "kino", 
+        "kaamera", 
+        "film"
+    ], 
+    "🎧": [
+        "kõrvaklapid"
+    ], 
+    "🎨": [
+        "kunstniku palett", 
+        "maal", 
+        "palett", 
+        "muuseum", 
+        "kunst"
+    ], 
+    "🎩": [
+        "müts", 
+        "kübar", 
+        "torukübar", 
+        "riided"
+    ], 
+    "🎪": [
+        "telk", 
+        "tsirkusetelk", 
+        "tsirkus"
+    ], 
+    "🎫": [
+        "pilet", 
+        "pääse"
+    ], 
+    "🎬": [
+        "klapptahvel", 
+        "video", 
+        "film"
+    ], 
+    "🎭": [
+        "mask", 
+        "lavakunst", 
+        "lava", 
+        "kunst", 
+        "teater"
+    ], 
+    "🎮": [
+        "mäng", 
+        "pult", 
+        "videomäng"
+    ], 
+    "🎯": [
+        "sihtmärk", 
+        "tabamus", 
+        "noolemäng", 
+        "täistabamus"
+    ], 
+    "🎰": [
+        "automaat", 
+        "mäng", 
+        "mänguautomaat"
+    ], 
+    "🎱": [
+        "mäng", 
+        "kaheksa", 
+        "piljard", 
+        "kuul", 
+        "8", 
+        "piljardikuul", 
+        "must"
+    ], 
+    "🎲": [
+        "mäng", 
+        "täring"
+    ], 
+    "🎳": [
+        "mäng", 
+        "keegel", 
+        "kuul", 
+        "kurikas"
+    ], 
+    "🎴": [
+        "mäng", 
+        "lill", 
+        "kaart", 
+        "mängukaardid"
+    ], 
+    "🎵": [
+        "noot", 
+        "muusika"
+    ], 
+    "🎶": [
+        "noot", 
+        "muusika", 
+        "noodid"
+    ], 
+    "🎷": [
+        "muusika", 
+        "pill", 
+        "saksofon"
+    ], 
+    "🎸": [
+        "kitarr", 
+        "muusika", 
+        "pill"
+    ], 
+    "🎹": [
+        "klahvpill", 
+        "muusika", 
+        "pill", 
+        "klaver"
+    ], 
+    "🎺": [
+        "muusika", 
+        "pill", 
+        "trompet"
+    ], 
+    "🎻": [
+        "muusika", 
+        "pill", 
+        "viiul"
+    ], 
+    "🎼": [
+        "noot", 
+        "noodijoonestik", 
+        "muusika"
+    ], 
+    "🎽": [
+        "särk", 
+        "jooks", 
+        "jooksusärk"
+    ], 
+    "🎾": [
+        "reket", 
+        "tennisepall", 
+        "tennis", 
+        "pall"
+    ], 
+    "🎿": [
+        "suusad", 
+        "suusk", 
+        "lumi"
+    ], 
+    "🏀": [
+        "pall", 
+        "korvpall"
+    ], 
+    "🏁": [
+        "lipp", 
+        "võidusõit", 
+        "ruuduline", 
+        "ruudulipp"
+    ], 
+    "🏂": [
+        "suusk", 
+        "lumelaud", 
+        "lumelaudur", 
+        "lumi"
+    ], 
+    "🏃": [
+        "jooks", 
+        "jooksja", 
+        "maraton"
+    ], 
+    "🏄": [
+        "surfar", 
+        "surfamine"
+    ], 
+    "🏅": [
+        "sport", 
+        "medal"
+    ], 
+    "🏆": [
+        "auhind", 
+        "karikas"
+    ], 
+    "🏇": [
+        "võiduajamine", 
+        "hobune", 
+        "hobuste võiduajamine", 
+        "ratsutaja"
+    ], 
+    "🏈": [
+        "Ameerika jalgpall", 
+        "ameerika", 
+        "jalgpall", 
+        "pall"
+    ], 
+    "🏉": [
+        "ragbi", 
+        "ragbipall", 
+        "jalgpall", 
+        "pall"
+    ], 
+    "🏊": [
+        "ujuja", 
+        "ujumine"
+    ], 
+    "🏏": [
+        "mäng", 
+        "kurikas", 
+        "pall", 
+        "kriket"
+    ], 
+    "🏐": [
+        "mäng", 
+        "võrkpall", 
+        "pall"
+    ], 
+    "🏑": [
+        "kepp", 
+        "mäng", 
+        "hoki", 
+        "väljak", 
+        "maahoki", 
+        "pall"
+    ], 
+    "🏒": [
+        "kepp", 
+        "mäng", 
+        "hoki", 
+        "jää", 
+        "litter", 
+        "jäähokikepp ja litter"
+    ], 
+    "🏓": [
+        "mäng", 
+        "reket", 
+        "lauatennis", 
+        "pall", 
+        "pingpong"
+    ], 
+    "🏠": [
+        "kodu", 
+        "maja"
+    ], 
+    "🏡": [
+        "kodu", 
+        "aed", 
+        "aiaga maja", 
+        "maja"
+    ], 
+    "🏢": [
+        "hoone", 
+        "kontorihoone", 
+        "maja"
+    ], 
+    "🏣": [
+        "hoone", 
+        "Jaapani postkontor", 
+        "post"
+    ], 
+    "🏤": [
+        "hoone", 
+        "post", 
+        "postkontor"
+    ], 
+    "🏥": [
+        "arst", 
+        "hoone", 
+        "haigla", 
+        "meditsiin"
+    ], 
+    "🏦": [
+        "hoone", 
+        "pank"
+    ], 
+    "🏧": [
+        "pangaautomaat", 
+        "sularaha", 
+        "teller"
+    ], 
+    "🏨": [
+        "hoone", 
+        "hotell"
+    ], 
+    "🏩": [
+        "hoone", 
+        "hotell", 
+        "armastus", 
+        "armuhotell"
+    ], 
+    "🏪": [
+        "hoone", 
+        "pood", 
+        "kauplus"
+    ], 
+    "🏫": [
+        "hoone", 
+        "kool"
+    ], 
+    "🏬": [
+        "hoone", 
+        "kaubamaja", 
+        "pood"
+    ], 
+    "🏭": [
+        "hoone", 
+        "tehas"
+    ], 
+    "🏮": [
+        "lamp", 
+        "punane", 
+        "valgus", 
+        "latern", 
+        "punane paberlatern"
+    ], 
+    "🏯": [
+        "loss", 
+        "Jaapani loss", 
+        "Jaapan"
+    ], 
+    "🏰": [
+        "hoone", 
+        "loss"
+    ], 
+    "🏴": [
+        "lipp", 
+        "lehvimine", 
+        "must lipp"
+    ], 
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "lipp", 
+        "Inglismaa"
+    ], 
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "lipp", 
+        "Šotimaa"
+    ], 
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "lipp", 
+        "Wales"
+    ], 
+    "🏸": [
+        "mäng", 
+        "reket", 
+        "sulgpall"
+    ], 
+    "🏹": [
+        "tööriist", 
+        "nool", 
+        "relv", 
+        "ambur", 
+        "vibu", 
+        "vibu ja nool", 
+        "kütt"
+    ], 
+    "🏺": [
+        "kann", 
+        "veevalaja", 
+        "jook", 
+        "amfora", 
+        "vaas"
+    ], 
+    "🏻": [
+        "tüüp 1–2", 
+        "nahatoon", 
+        "hele nahatoon", 
+        "nahk"
+    ], 
+    "🏼": [
+        "nahatoon", 
+        "nahk", 
+        "keskmiselt hele nahatoon", 
+        "tüüp 3"
+    ], 
+    "🏽": [
+        "tüüp 4", 
+        "nahatoon", 
+        "nahk", 
+        "keskmine nahatoon"
+    ], 
+    "🏾": [
+        "tüüp 5", 
+        "nahatoon", 
+        "keskmiselt tume nahatoon", 
+        "nahk"
+    ], 
+    "🏿": [
+        "nahatoon", 
+        "nahk", 
+        "tüüp 6", 
+        "tume nahatoon"
+    ], 
+    "🐀": [
+        "rott"
+    ], 
+    "🐁": [
+        "hiir"
+    ], 
+    "🐂": [
+        "veis", 
+        "härg", 
+        "sõnn", 
+        "sodiaak"
+    ], 
+    "🐃": [
+        "vesi", 
+        "vesipühvel", 
+        "pühvel"
+    ], 
+    "🐄": [
+        "lehm", 
+        "nägu"
+    ], 
+    "🐅": [
+        "tiiger"
+    ], 
+    "🐆": [
+        "leopard"
+    ], 
+    "🐇": [
+        "jänes", 
+        "lemmikloom"
+    ], 
+    "🐈": [
+        "koer", 
+        "lemmikloom", 
+        "kass"
+    ], 
+    "🐉": [
+        "draakon", 
+        "muinasjutt"
+    ], 
+    "🐊": [
+        "krokodill"
+    ], 
+    "🐋": [
+        "vaal"
+    ], 
+    "🐌": [
+        "tigu"
+    ], 
+    "🐍": [
+        "madu", 
+        "maokandja", 
+        "sodiaak"
+    ], 
+    "🐎": [
+        "võiduajamine", 
+        "hobune", 
+        "ratsasport"
+    ], 
+    "🐏": [
+        "jäär", 
+        "oinas", 
+        "sodiaak"
+    ], 
+    "🐐": [
+        "kits", 
+        "kaljukits", 
+        "sodiaak"
+    ], 
+    "🐑": [
+        "lammas"
+    ], 
+    "🐒": [
+        "ahv"
+    ], 
+    "🐓": [
+        "kukk"
+    ], 
+    "🐔": [
+        "kana"
+    ], 
+    "🐕": [
+        "koer", 
+        "lemmikloom"
+    ], 
+    "🐖": [
+        "siga", 
+        "emis"
+    ], 
+    "🐗": [
+        "kult", 
+        "metssiga"
+    ], 
+    "🐘": [
+        "elevant"
+    ], 
+    "🐙": [
+        "kaheksajalg"
+    ], 
+    "🐚": [
+        "spiraalne", 
+        "karp", 
+        "spiraalne teokarp"
+    ], 
+    "🐛": [
+        "putukas", 
+        "röövik"
+    ], 
+    "🐜": [
+        "putukas", 
+        "sipelgas"
+    ], 
+    "🐝": [
+        "mesilane", 
+        "putukas"
+    ], 
+    "🐞": [
+        "putukas", 
+        "lepatriinu", 
+        "põrnikas"
+    ], 
+    "🐟": [
+        "kala", 
+        "sodiaak"
+    ], 
+    "🐠": [
+        "kala", 
+        "troopiline kala", 
+        "troopiline"
+    ], 
+    "🐡": [
+        "kala", 
+        "siilkala"
+    ], 
+    "🐢": [
+        "kilpkonn"
+    ], 
+    "🐣": [
+        "kooruv tibu", 
+        "tibu", 
+        "koorumine"
+    ], 
+    "🐤": [
+        "väike tibu", 
+        "tibu"
+    ], 
+    "🐥": [
+        "tibu", 
+        "väike tibu eestvaates"
+    ], 
+    "🐦": [
+        "lind"
+    ], 
+    "🐧": [
+        "pingviin"
+    ], 
+    "🐨": [
+        "koaala"
+    ], 
+    "🐩": [
+        "puudel", 
+        "koer"
+    ], 
+    "🐪": [
+        "dromedar", 
+        "küür", 
+        "kaamel"
+    ], 
+    "🐫": [
+        "baktrian", 
+        "kahe küüruga kaamel", 
+        "küür", 
+        "kaamel"
+    ], 
+    "🐬": [
+        "delfiin", 
+        "loib"
+    ], 
+    "🐭": [
+        "hiir", 
+        "hiire nägu", 
+        "nägu"
+    ], 
+    "🐮": [
+        "lehm", 
+        "lehma nägu", 
+        "nägu"
+    ], 
+    "🐯": [
+        "tiigri nägu", 
+        "tiiger", 
+        "nägu"
+    ], 
+    "🐰": [
+        "nägu", 
+        "jänese nägu", 
+        "jänes", 
+        "lemmikloom"
+    ], 
+    "🐱": [
+        "nägu", 
+        "lemmikloom", 
+        "kass", 
+        "kassi nägu"
+    ], 
+    "🐲": [
+        "draakoni nägu", 
+        "draakon", 
+        "nägu", 
+        "muinasjutt"
+    ], 
+    "🐳": [
+        "vaal", 
+        "vett pritsiv vaal", 
+        "nägu", 
+        "vesi"
+    ], 
+    "🐴": [
+        "hobune", 
+        "hobuse nägu", 
+        "nägu"
+    ], 
+    "🐵": [
+        "ahv", 
+        "ahvi nägu", 
+        "nägu"
+    ], 
+    "🐶": [
+        "koer", 
+        "koera nägu", 
+        "nägu", 
+        "lemmikloom"
+    ], 
+    "🐷": [
+        "siga", 
+        "nägu", 
+        "sea nägu"
+    ], 
+    "🐸": [
+        "nägu", 
+        "konn", 
+        "konna nägu"
+    ], 
+    "🐹": [
+        "nägu", 
+        "hamstri nägu", 
+        "hamster", 
+        "lemmikloom"
+    ], 
+    "🐺": [
+        "hunt", 
+        "hundi nägu", 
+        "nägu"
+    ], 
+    "🐻": [
+        "karu nägu", 
+        "nägu", 
+        "karu"
+    ], 
+    "🐼": [
+        "panda nägu", 
+        "panda", 
+        "nägu"
+    ], 
+    "🐽": [
+        "nina", 
+        "siga", 
+        "sea kärss", 
+        "nägu"
+    ], 
+    "🐾": [
+        "jalg", 
+        "käpajäljed", 
+        "jälg", 
+        "käpp"
+    ], 
+    "👀": [
+        "keha", 
+        "silmad", 
+        "silm", 
+        "nägu"
+    ], 
+    "👂": [
+        "keha", 
+        "kõrv"
+    ], 
+    "👃": [
+        "nina", 
+        "keha"
+    ], 
+    "👄": [
+        "suu", 
+        "huuled"
+    ], 
+    "👅": [
+        "keha", 
+        "keel"
+    ], 
+    "👆": [
+        "sõrm", 
+        "üles osutav sõrm tagantvaates", 
+        "keha", 
+        "käsi", 
+        "osutamine", 
+        "nimetissõrm"
+    ], 
+    "👇": [
+        "sõrm", 
+        "keha", 
+        "käsi", 
+        "osutamine", 
+        "nimetissõrm", 
+        "alla osutav sõrm"
+    ], 
+    "👈": [
+        "sõrm", 
+        "keha", 
+        "vasakule osutav sõrm", 
+        "käsi", 
+        "osutamine", 
+        "nimetissõrm"
+    ], 
+    "👉": [
+        "sõrm", 
+        "keha", 
+        "paremale osutav sõrm", 
+        "käsi", 
+        "osutamine", 
+        "nimetissõrm"
+    ], 
+    "👊": [
+        "keha", 
+        "käsi", 
+        "rusikalöök", 
+        "löök", 
+        "rusikas"
+    ], 
+    "👋": [
+        "keha", 
+        "käsi", 
+        "lehvitus", 
+        "lehvitav käsi"
+    ], 
+    "👌": [
+        "keha", 
+        "käsi", 
+        "OK-käemärk"
+    ], 
+    "👍": [
+        "keha", 
+        "käsi", 
+        "meeldib", 
+        "pöial"
+    ], 
+    "👎": [
+        "keha", 
+        "käsi", 
+        "ei meeldi", 
+        "pöial"
+    ], 
+    "👏": [
+        "aplaus", 
+        "keha", 
+        "käsi", 
+        "plaksutavad käed", 
+        "plaksutamine"
+    ], 
+    "👐": [
+        "keha", 
+        "käsi", 
+        "avatud käed", 
+        "avatud"
+    ], 
+    "👑": [
+        "kuninganna", 
+        "kroon", 
+        "kuningas", 
+        "riided"
+    ], 
+    "👒": [
+        "müts", 
+        "kübar", 
+        "naine", 
+        "naistekübar", 
+        "riided"
+    ], 
+    "👓": [
+        "mood", 
+        "silm", 
+        "prillid"
+    ], 
+    "👔": [
+        "lips", 
+        "riided"
+    ], 
+    "👕": [
+        "särk", 
+        "t-särk", 
+        "riided", 
+        "T-särk"
+    ], 
+    "👖": [
+        "teksad", 
+        "riided", 
+        "püksid"
+    ], 
+    "👗": [
+        "kleit", 
+        "riided"
+    ], 
+    "👘": [
+        "kimono", 
+        "riided"
+    ], 
+    "👙": [
+        "ujumine", 
+        "bikiinid", 
+        "riided"
+    ], 
+    "👚": [
+        "naine", 
+        "naisteriided", 
+        "riided"
+    ], 
+    "👛": [
+        "ridikül", 
+        "kott", 
+        "münt", 
+        "rahakott"
+    ], 
+    "👜": [
+        "käekott", 
+        "kott", 
+        "riided"
+    ], 
+    "👝": [
+        "kott", 
+        "riided"
+    ], 
+    "👞": [
+        "king", 
+        "meesteking", 
+        "riided", 
+        "mees"
+    ], 
+    "👟": [
+        "jooksuking", 
+        "king", 
+        "sport", 
+        "riided", 
+        "toss"
+    ], 
+    "👠": [
+        "king", 
+        "naine", 
+        "kõrge kontsaga king", 
+        "konts", 
+        "riided"
+    ], 
+    "👡": [
+        "king", 
+        "naine", 
+        "sandaal", 
+        "riided", 
+        "naistesandaal"
+    ], 
+    "👢": [
+        "king", 
+        "naine", 
+        "saabas", 
+        "riided", 
+        "naistesaabas"
+    ], 
+    "👣": [
+        "keha", 
+        "jalajälg", 
+        "jälg", 
+        "jalajäljed"
+    ], 
+    "👤": [
+        "siluett", 
+        "büsti siluett", 
+        "büst"
+    ], 
+    "👥": [
+        "siluett", 
+        "büstide siluetid", 
+        "büst"
+    ], 
+    "👦": [
+        "noormees", 
+        "poiss"
+    ], 
+    "👧": [
+        "plika", 
+        "tüdruk", 
+        "neiu"
+    ], 
+    "👨": [
+        "mees"
+    ], 
+    "👨‍🌾": [
+        "põllumees", 
+        "aednik", 
+        "meesfarmer", 
+        "mees", 
+        "farmer"
+    ], 
+    "👨‍🍳": [
+        "meeskokk", 
+        "kokk", 
+        "mees"
+    ], 
+    "👨‍🎓": [
+        "õpilane", 
+        "mees", 
+        "lõpetaja", 
+        "meesõpilane"
+    ], 
+    "👨‍🎤": [
+        "meeslaulja", 
+        "laulja", 
+        "artist", 
+        "näitleja", 
+        "staar", 
+        "esitaja", 
+        "mees"
+    ], 
+    "👨‍🎨": [
+        "meeskunstnik", 
+        "palett", 
+        "mees", 
+        "kunstnik"
+    ], 
+    "👨‍🏫": [
+        "meesõpetaja", 
+        "õpetaja", 
+        "juhendaja", 
+        "professor", 
+        "mees"
+    ], 
+    "👨‍🏭": [
+        "tööline", 
+        "liinitööline", 
+        "tehas", 
+        "meessoost tehasetööline", 
+        "tööstus", 
+        "mees"
+    ], 
+    "👨‍👦": [
+        "ema", 
+        "laps", 
+        "perekond", 
+        "perekond: mees, poiss", 
+        "isa", 
+        "poiss", 
+        "mees"
+    ], 
+    "👨‍👦‍👦": [
+        "perekond: mees, poiss, poiss", 
+        "ema", 
+        "laps", 
+        "perekond", 
+        "isa", 
+        "poiss", 
+        "mees"
+    ], 
+    "👨‍👧": [
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "perekond: mees, tüdruk", 
+        "isa", 
+        "mees"
+    ], 
+    "👨‍👧‍👦": [
+        "ema", 
+        "perekond: mees, tüdruk, poiss", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa", 
+        "poiss", 
+        "mees"
+    ], 
+    "👨‍👧‍👧": [
+        "ema", 
+        "perekond: mees, tüdruk, tüdruk", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa", 
+        "mees"
+    ], 
+    "👨‍👨‍👦": [
+        "ema", 
+        "laps", 
+        "perekond: mees, mees, poiss", 
+        "perekond", 
+        "isa", 
+        "poiss", 
+        "mees"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "ema", 
+        "laps", 
+        "perekond", 
+        "perekond: mees, mees, poiss, poiss", 
+        "isa", 
+        "poiss", 
+        "mees"
+    ], 
+    "👨‍👨‍👧": [
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "perekond: mees, mees, tüdruk", 
+        "isa", 
+        "mees"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "ema", 
+        "perekond: mees, mees, tüdruk, poiss", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa", 
+        "poiss", 
+        "mees"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "ema", 
+        "perekond: mees, mees, tüdruk, tüdruk", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa", 
+        "mees"
+    ], 
+    "👨‍👩‍👦": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "perekond", 
+        "perekond: mees, naine, poiss", 
+        "isa", 
+        "poiss", 
+        "mees"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "perekond", 
+        "isa", 
+        "poiss", 
+        "perekond: mees, naine, poiss, poiss", 
+        "mees"
+    ], 
+    "👨‍👩‍👧": [
+        "naine", 
+        "ema", 
+        "perekond: mees, naine, tüdruk", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa", 
+        "mees"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa", 
+        "poiss", 
+        "mees", 
+        "perekond: mees, naine, tüdruk, poiss"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "naine", 
+        "ema", 
+        "perekond: mees, naine, tüdruk, tüdruk", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa", 
+        "mees"
+    ], 
+    "👨‍💻": [
+        "tehnoloog", 
+        "arendaja", 
+        "tarkvara", 
+        "programmeerija", 
+        "leiutaja", 
+        "mees", 
+        "meesprogrammeerija"
+    ], 
+    "👨‍💼": [
+        "kontor", 
+        "direktor", 
+        "ärimees", 
+        "meeskontoritöötaja", 
+        "äri", 
+        "arhitekt", 
+        "valgekrae", 
+        "juhataja", 
+        "mees"
+    ], 
+    "👨‍🔧": [
+        "torulukksepp", 
+        "elektrik", 
+        "meesmehaanik", 
+        "mehaanik", 
+        "torumees", 
+        "mees"
+    ], 
+    "👨‍🔬": [
+        "matemaatik", 
+        "keemik", 
+        "füüsik", 
+        "meesteadlane", 
+        "insener", 
+        "bioloog", 
+        "teadlane", 
+        "mees"
+    ], 
+    "👨‍🚀": [
+        "rakett", 
+        "kosmos", 
+        "astronaut", 
+        "meesastronaut", 
+        "mees"
+    ], 
+    "👨‍🚒": [
+        "meestuletõrjuja", 
+        "tuletõrjeauto", 
+        "mees", 
+        "tuletõrjuja"
+    ], 
+    "👩": [
+        "naine"
+    ], 
+    "👩‍🌾": [
+        "naisfarmer", 
+        "aednik", 
+        "naine", 
+        "farmer"
+    ], 
+    "👩‍🍳": [
+        "naine", 
+        "naiskokk", 
+        "kokk"
+    ], 
+    "👩‍🎓": [
+        "naisõpilane", 
+        "naine", 
+        "lõpetaja", 
+        "õpilane"
+    ], 
+    "👩‍🎤": [
+        "naine", 
+        "laulja", 
+        "artist", 
+        "naislaulja", 
+        "näitleja", 
+        "staar", 
+        "esitaja"
+    ], 
+    "👩‍🎨": [
+        "naiskunstnik", 
+        "naine", 
+        "palett", 
+        "kunstnik"
+    ], 
+    "👩‍🏫": [
+        "õpetaja", 
+        "naine", 
+        "juhendaja", 
+        "naisõpetaja", 
+        "professor"
+    ], 
+    "👩‍🏭": [
+        "naine", 
+        "tööline", 
+        "liinitööline", 
+        "tehas", 
+        "naissoost tehasetööline", 
+        "tööstus"
+    ], 
+    "👩‍👦": [
+        "perekond: naine, poiss", 
+        "naine", 
+        "ema", 
+        "laps", 
+        "perekond", 
+        "isa", 
+        "poiss"
+    ], 
+    "👩‍👦‍👦": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "perekond", 
+        "perekond: naine, poiss, poiss", 
+        "isa", 
+        "poiss"
+    ], 
+    "👩‍👧": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "perekond: naine, tüdruk", 
+        "isa"
+    ], 
+    "👩‍👧‍👦": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "perekond: naine, tüdruk, poiss", 
+        "isa", 
+        "poiss"
+    ], 
+    "👩‍👧‍👧": [
+        "naine", 
+        "ema", 
+        "perekond: naine, tüdruk, tüdruk", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "isa"
+    ], 
+    "👩‍👩‍👦": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "perekond", 
+        "isa", 
+        "poiss", 
+        "perekond: naine, naine, poiss"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "naine", 
+        "ema", 
+        "perekond: naine, naine, poiss, poiss", 
+        "laps", 
+        "perekond", 
+        "isa", 
+        "poiss"
+    ], 
+    "👩‍👩‍👧": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond: naine, naine, tüdruk", 
+        "perekond", 
+        "isa"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "perekond: naine, naine, tüdruk, poiss", 
+        "isa", 
+        "poiss"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "naine", 
+        "ema", 
+        "laps", 
+        "tüdruk", 
+        "perekond", 
+        "perekond: naine, naine, tüdruk, tüdruk", 
+        "isa"
+    ], 
+    "👩‍💻": [
+        "naine", 
+        "naisprogrammeerija", 
+        "tehnoloog", 
+        "arendaja", 
+        "tarkvara", 
+        "programmeerija", 
+        "leiutaja"
+    ], 
+    "👩‍💼": [
+        "kontor", 
+        "naine", 
+        "direktor", 
+        "äri", 
+        "arhitekt", 
+        "valgekrae", 
+        "ärinaine", 
+        "juhataja", 
+        "naiskontoritöötaja"
+    ], 
+    "👩‍🔧": [
+        "mehaanik", 
+        "naine", 
+        "torulukksepp", 
+        "elektrik", 
+        "naismehaanik"
+    ], 
+    "👩‍🔬": [
+        "naine", 
+        "matemaatik", 
+        "keemik", 
+        "füüsik", 
+        "naisteadlane", 
+        "insener", 
+        "bioloog", 
+        "teadlane"
+    ], 
+    "👩‍🚀": [
+        "rakett", 
+        "kosmos", 
+        "astronaut", 
+        "naine", 
+        "naisastronaut"
+    ], 
+    "👩‍🚒": [
+        "naistuletõrjuja", 
+        "naine", 
+        "tuletõrjuja", 
+        "tuletõrjeauto"
+    ], 
+    "👪": [
+        "isa", 
+        "ema", 
+        "laps", 
+        "perekond"
+    ], 
+    "👫": [
+        "käed", 
+        "mees ja naine hoiavad käest kinni", 
+        "naine", 
+        "paarike", 
+        "mees"
+    ], 
+    "👬": [
+        "käed", 
+        "kaksikud", 
+        "mehed", 
+        "paar", 
+        "kaks meest hoiavad käest kinni"
+    ], 
+    "👭": [
+        "käed", 
+        "paar", 
+        "kaks naist hoiavad käest kinni", 
+        "naised"
+    ], 
+    "👮": [
+        "politseinik", 
+        "politsei"
+    ], 
+    "👯": [
+        "naine", 
+        "pidutsevad jänesekõrvadega inimesed", 
+        "tants", 
+        "tüdruk", 
+        "kõrvad", 
+        "jänku"
+    ], 
+    "👰": [
+        "pulm", 
+        "loori kandev pruut", 
+        "loor", 
+        "pruut"
+    ], 
+    "👱": [
+        "blondiin", 
+        "blond", 
+        "blondide juustega inimene"
+    ], 
+    "👲": [
+        "Hiina mütsiga mees", 
+        "müts", 
+        "hiina", 
+        "mees"
+    ], 
+    "👳": [
+        "turban", 
+        "mees", 
+        "turbaniga inimene"
+    ], 
+    "👴": [
+        "vana", 
+        "mees", 
+        "eakas mees"
+    ], 
+    "👵": [
+        "vana", 
+        "eakas naine", 
+        "naine"
+    ], 
+    "👶": [
+        "titt", 
+        "tita", 
+        "imik", 
+        "beebi"
+    ], 
+    "👷": [
+        "ehitus", 
+        "kiiver", 
+        "ehitaja", 
+        "tööline"
+    ], 
+    "👸": [
+        "fantaasia", 
+        "printsess", 
+        "muinasjutt"
+    ], 
+    "👹": [
+        "fantaasia", 
+        "sookoll", 
+        "jaapan", 
+        "olend", 
+        "muinasjutt", 
+        "koletis", 
+        "koll", 
+        "nägu"
+    ], 
+    "👺": [
+        "fantaasia", 
+        "jaapan", 
+        "mäekoll", 
+        "olend", 
+        "muinasjutt", 
+        "koletis", 
+        "koll", 
+        "nägu"
+    ], 
+    "👻": [
+        "kummitus", 
+        "tont", 
+        "muinasjutt", 
+        "viirastus", 
+        "nägu", 
+        "olend"
+    ], 
+    "👼": [
+        "inglibeebi", 
+        "laps", 
+        "ingel", 
+        "beebi", 
+        "muinasjutt", 
+        "nägu"
+    ], 
+    "👽": [
+        "fantaasia", 
+        "jaapan", 
+        "maaväline", 
+        "olend", 
+        "muinasjutt", 
+        "tulnukas", 
+        "koletis", 
+        "koll", 
+        "nägu"
+    ], 
+    "👾": [
+        "kosmos", 
+        "ufo", 
+        "fantaasia", 
+        "maaväline", 
+        "olend", 
+        "muinasjutt", 
+        "tulnukas", 
+        "koletis", 
+        "nägu", 
+        "tulnukkoletis"
+    ], 
+    "👿": [
+        "deemon", 
+        "fantaasia", 
+        "saatan", 
+        "kurat", 
+        "muinasjutt", 
+        "paharet", 
+        "nägu"
+    ], 
+    "💀": [
+        "pealuu", 
+        "kolp", 
+        "surm", 
+        "kondid", 
+        "luud", 
+        "muinasjutt", 
+        "kolm", 
+        "nägu"
+    ], 
+    "💁": [
+        "info", 
+        "abi", 
+        "käsi", 
+        "infoleti töötaja", 
+        "teave"
+    ], 
+    "💂": [
+        "valvur"
+    ], 
+    "💃": [
+        "tantsiv naine", 
+        "naine", 
+        "tants", 
+        "tantsimine"
+    ], 
+    "💄": [
+        "huulepulk", 
+        "meik", 
+        "kosmeetika"
+    ], 
+    "💅": [
+        "lakk", 
+        "küüs", 
+        "keha", 
+        "maniküür", 
+        "kosmeetika", 
+        "küünelakk", 
+        "hooldus"
+    ], 
+    "💆": [
+        "näomassaaž", 
+        "massaaž"
+    ], 
+    "💇": [
+        "juuksur", 
+        "ilusalong", 
+        "juukselõikus"
+    ], 
+    "💈": [
+        "juuksur", 
+        "habemeajaja silt", 
+        "habemeajaja"
+    ], 
+    "💉": [
+        "tööriist", 
+        "nõel", 
+        "arst", 
+        "haigus", 
+        "ravim", 
+        "süstal"
+    ], 
+    "💊": [
+        "arst", 
+        "ravim", 
+        "haige", 
+        "tablett"
+    ], 
+    "💋": [
+        "musi", 
+        "huuled", 
+        "suudluse jälg", 
+        "süda", 
+        "romantika"
+    ], 
+    "💌": [
+        "armastus", 
+        "kiri", 
+        "armastuskiri", 
+        "süda", 
+        "romantika"
+    ], 
+    "💍": [
+        "sõrmus", 
+        "teemant", 
+        "romantika"
+    ], 
+    "💎": [
+        "kalliskivi", 
+        "teemant", 
+        "juveel", 
+        "romantika"
+    ], 
+    "💏": [
+        "musi", 
+        "suudlus"
+    ], 
+    "💐": [
+        "lill", 
+        "taim", 
+        "kimp", 
+        "romantika"
+    ], 
+    "💑": [
+        "armastus", 
+        "paarike südamega", 
+        "süda", 
+        "romantika"
+    ], 
+    "💒": [
+        "kabel", 
+        "kirik", 
+        "pulmad", 
+        "romantika"
+    ], 
+    "💓": [
+        "pulss", 
+        "tukslev süda", 
+        "süda", 
+        "löök"
+    ], 
+    "💔": [
+        "süda", 
+        "murtud süda", 
+        "murtud"
+    ], 
+    "💕": [
+        "armastus", 
+        "süda", 
+        "kaks südant"
+    ], 
+    "💖": [
+        "sära", 
+        "sädelev süda", 
+        "süda", 
+        "elevil"
+    ], 
+    "💗": [
+        "põnev", 
+        "närviline", 
+        "kasvav süda", 
+        "süda", 
+        "kasvav", 
+        "pulss"
+    ], 
+    "💘": [
+        "nool", 
+        "süda", 
+        "romantika", 
+        "noolega süda"
+    ], 
+    "💙": [
+        "süda", 
+        "sinine süda", 
+        "sinine"
+    ], 
+    "💚": [
+        "roheline", 
+        "süda", 
+        "roheline süda"
+    ], 
+    "💛": [
+        "süda", 
+        "kollane süda", 
+        "kollane"
+    ], 
+    "💜": [
+        "süda", 
+        "lilla", 
+        "lilla süda"
+    ], 
+    "💝": [
+        "lindiga süda", 
+        "lint", 
+        "süda", 
+        "sõbrapäev"
+    ], 
+    "💞": [
+        "pöörlev", 
+        "pöörlevad südamed", 
+        "süda"
+    ], 
+    "💟": [
+        "süda", 
+        "südamekujuline kaunistus"
+    ], 
+    "💠": [
+        "sees", 
+        "teemant", 
+        "koomiks", 
+        "punktiga romb", 
+        "romb", 
+        "geomeetria"
+    ], 
+    "💡": [
+        "idee", 
+        "lamp", 
+        "pirn", 
+        "valgus", 
+        "elekter"
+    ], 
+    "💢": [
+        "tige", 
+        "vihane", 
+        "viha sümbol", 
+        "koomiks"
+    ], 
+    "💣": [
+        "pomm", 
+        "koomiks"
+    ], 
+    "💤": [
+        "uni", 
+        "zzz", 
+        "koomiks"
+    ], 
+    "💥": [
+        "piraki", 
+        "koomiks"
+    ], 
+    "💦": [
+        "piisad", 
+        "higi", 
+        "koomiks", 
+        "higipiisad"
+    ], 
+    "💧": [
+        "higi", 
+        "ilm", 
+        "külm", 
+        "koomiks", 
+        "piisk"
+    ], 
+    "💨": [
+        "kiirustamine", 
+        "jooksmine", 
+        "koomiks"
+    ], 
+    "💩": [
+        "kakahunnik", 
+        "kaka", 
+        "koomiks", 
+        "koletis", 
+        "sõnnik", 
+        "koll", 
+        "nägu"
+    ], 
+    "💪": [
+        "keha", 
+        "lihas", 
+        "pingutatud biitseps", 
+        "muskel"
+    ], 
+    "💫": [
+        "täht", 
+        "peadpööritav", 
+        "koomiks"
+    ], 
+    "💬": [
+        "dialoog", 
+        "jutumull", 
+        "mull", 
+        "koomiks", 
+        "jutt"
+    ], 
+    "💭": [
+        "mull", 
+        "mõttemull", 
+        "mõte", 
+        "koomiks"
+    ], 
+    "💮": [
+        "valge lill", 
+        "lill"
+    ], 
+    "💯": [
+        "täis", 
+        "punkt", 
+        "100", 
+        "sada punkti", 
+        "sada"
+    ], 
+    "💰": [
+        "rahakott", 
+        "kott", 
+        "dollar", 
+        "raha", 
+        "rahapaun"
+    ], 
+    "💱": [
+        "pank", 
+        "vahetus", 
+        "raha", 
+        "valuutavahetus", 
+        "valuuta"
+    ], 
+    "💲": [
+        "valuuta", 
+        "raha", 
+        "dollar", 
+        "suur dollarimärk"
+    ], 
+    "💳": [
+        "pank", 
+        "krediitkaart", 
+        "kaart", 
+        "krediit", 
+        "raha"
+    ], 
+    "💴": [
+        "pank", 
+        "valuuta", 
+        "raha", 
+        "rahatäht", 
+        "jeen"
+    ], 
+    "💵": [
+        "pank", 
+        "valuuta", 
+        "raha", 
+        "dollar", 
+        "rahatäht"
+    ], 
+    "💶": [
+        "pank", 
+        "valuuta", 
+        "raha", 
+        "rahatäht", 
+        "euro"
+    ], 
+    "💷": [
+        "raha", 
+        "naelsterling", 
+        "valuuta", 
+        "pank", 
+        "nael", 
+        "rahatäht"
+    ], 
+    "💸": [
+        "raha", 
+        "dollar", 
+        "tiibadega raha", 
+        "tiivad", 
+        "valuuta", 
+        "pank"
+    ], 
+    "💹": [
+        "graafik", 
+        "tõusev graafik jeenisümboliga", 
+        "valuuta", 
+        "kasv", 
+        "raha", 
+        "tendents", 
+        "turg", 
+        "jeen", 
+        "pank"
+    ], 
+    "💺": [
+        "tool", 
+        "iste"
+    ], 
+    "💻": [
+        "arvuti", 
+        "sülearvuti"
+    ], 
+    "💼": [
+        "portfell", 
+        "kohver"
+    ], 
+    "💽": [
+        "arvuti", 
+        "optiline", 
+        "ketas", 
+        "arvutiketas"
+    ], 
+    "💾": [
+        "arvuti", 
+        "ketas", 
+        "diskett"
+    ], 
+    "💿": [
+        "optiline ketas", 
+        "arvuti", 
+        "dvd", 
+        "ketas", 
+        "cd", 
+        "optiline", 
+        "blu-ray"
+    ], 
+    "📀": [
+        "arvuti", 
+        "DVD", 
+        "blu-ray", 
+        "ketas", 
+        "cd", 
+        "optiline", 
+        "dvd"
+    ], 
+    "📁": [
+        "fail", 
+        "dokument", 
+        "kaust"
+    ], 
+    "📂": [
+        "fail", 
+        "avatud kaust", 
+        "dokument", 
+        "kaust", 
+        "avatud"
+    ], 
+    "📃": [
+        "kaardunud paberileht", 
+        "leht", 
+        "dokument"
+    ], 
+    "📄": [
+        "leht", 
+        "dokument", 
+        "paberilehe eestvaade"
+    ], 
+    "📅": [
+        "kalender", 
+        "kuupäev"
+    ], 
+    "📆": [
+        "rebitav kalender", 
+        "kalender", 
+        "kuupäev"
+    ], 
+    "📇": [
+        "kataloog", 
+        "kaart", 
+        "register"
+    ], 
+    "📈": [
+        "graafik", 
+        "kasv", 
+        "üles", 
+        "tendents", 
+        "tõusev graafik"
+    ], 
+    "📉": [
+        "tendents", 
+        "graafik", 
+        "langev graafik", 
+        "alla", 
+        "langus"
+    ], 
+    "📊": [
+        "diagramm", 
+        "tulp", 
+        "graafik", 
+        "tulpdiagramm"
+    ], 
+    "📋": [
+        "kirjutamisalus", 
+        "leht", 
+        "paber", 
+        "alus"
+    ], 
+    "📌": [
+        "nööpnõel", 
+        "nõel"
+    ], 
+    "📍": [
+        "nööpnõel", 
+        "ümara peaga nööpnõel", 
+        "nõel"
+    ], 
+    "📎": [
+        "kirjaklamber", 
+        "klamber"
+    ], 
+    "📏": [
+        "sirge joonlaud", 
+        "sirge"
+    ], 
+    "📐": [
+        "kolmnurk", 
+        "joonlaud", 
+        "kolmnurkne joonlaud"
+    ], 
+    "📑": [
+        "järjehoidjad", 
+        "marker", 
+        "märgis", 
+        "järjehoidja"
+    ], 
+    "📒": [
+        "arveraamat", 
+        "raamat", 
+        "arve"
+    ], 
+    "📓": [
+        "raamat", 
+        "päevik"
+    ], 
+    "📔": [
+        "raamat", 
+        "kaaned", 
+        "dekoratiivse kaanega märkmik", 
+        "märkmik"
+    ], 
+    "📕": [
+        "suletud raamat", 
+        "raamat", 
+        "suletud"
+    ], 
+    "📖": [
+        "avatud raamat", 
+        "raamat", 
+        "avatud"
+    ], 
+    "📗": [
+        "roheline", 
+        "roheline raamat", 
+        "raamat"
+    ], 
+    "📘": [
+        "raamat", 
+        "sinine", 
+        "sinine raamat"
+    ], 
+    "📙": [
+        "oranž", 
+        "raamat", 
+        "oranž raamat"
+    ], 
+    "📚": [
+        "raamat", 
+        "raamatud"
+    ], 
+    "📛": [
+        "märk", 
+        "nimesilt", 
+        "nimi"
+    ], 
+    "📜": [
+        "käsikiri", 
+        "paber"
+    ], 
+    "📝": [
+        "memo", 
+        "pliiats"
+    ], 
+    "📞": [
+        "toru", 
+        "telefonitoru", 
+        "telefon"
+    ], 
+    "📟": [
+        "peiler", 
+        "piipar"
+    ], 
+    "📠": [
+        "faksimasin", 
+        "faks", 
+        "masin"
+    ], 
+    "📡": [
+        "satelliit", 
+        "taldrik", 
+        "satelliitantenn", 
+        "antenn"
+    ], 
+    "📢": [
+        "vali", 
+        "avalik", 
+        "kõne", 
+        "valjuhääldi"
+    ], 
+    "📣": [
+        "megafon", 
+        "kõne"
+    ], 
+    "📤": [
+        "kast", 
+        "post", 
+        "kiri", 
+        "väljaminev post", 
+        "alus"
+    ], 
+    "📥": [
+        "kast", 
+        "post", 
+        "kiri", 
+        "sissetulev post", 
+        "alus"
+    ], 
+    "📦": [
+        "kast", 
+        "pakk"
+    ], 
+    "📧": [
+        "meilisõnum", 
+        "kiri", 
+        "meil", 
+        "ümbrik"
+    ], 
+    "📨": [
+        "sissetulev ümbrik", 
+        "kiri", 
+        "meil", 
+        "e-post", 
+        "ümbrik"
+    ], 
+    "📩": [
+        "meil", 
+        "alla", 
+        "nool", 
+        "e-post", 
+        "saadetud", 
+        "noolega ümbrik", 
+        "ümbrik"
+    ], 
+    "📪": [
+        "postkast", 
+        "suletud postkast langetatud lipuga", 
+        "suletud"
+    ], 
+    "📫": [
+        "postkast", 
+        "suletud postkast tõstetud lipuga", 
+        "suletud"
+    ], 
+    "📬": [
+        "avatud postkast tõstetud lipuga", 
+        "postkast", 
+        "avatud"
+    ], 
+    "📭": [
+        "avatud postkast langetatud lipuga", 
+        "postkast", 
+        "avatud"
+    ], 
+    "📮": [
+        "post", 
+        "postkast"
+    ], 
+    "📯": [
+        "post", 
+        "sarv", 
+        "postisarv"
+    ], 
+    "📰": [
+        "ajaleht", 
+        "uudised"
+    ], 
+    "📱": [
+        "mobiiltelefon", 
+        "telefon", 
+        "mobiil"
+    ], 
+    "📲": [
+        "nool", 
+        "telefon", 
+        "kõne", 
+        "mobiil", 
+        "noolega mobiiltelefon"
+    ], 
+    "📳": [
+        "telefon", 
+        "värin", 
+        "režiim", 
+        "mobiil", 
+        "värinarežiim"
+    ], 
+    "📴": [
+        "väljalülitatud mobiiltelefon", 
+        "väljas", 
+        "telefon", 
+        "mobiil"
+    ], 
+    "📵": [
+        "telefonid on keelatud", 
+        "keelatud", 
+        "ei", 
+        "telefon", 
+        "mobiil"
+    ], 
+    "📶": [
+        "signaal", 
+        "levi", 
+        "telefon", 
+        "mobiil", 
+        "antenn"
+    ], 
+    "📷": [
+        "kaamera", 
+        "video"
+    ], 
+    "📸": [
+        "foto", 
+        "kaamera", 
+        "välk", 
+        "pildistamine", 
+        "välguga kaamera"
+    ], 
+    "📹": [
+        "kaamera", 
+        "video", 
+        "videokaamera"
+    ], 
+    "📺": [
+        "tv", 
+        "video", 
+        "teler"
+    ], 
+    "📻": [
+        "raadio"
+    ], 
+    "📼": [
+        "videokassett", 
+        "video", 
+        "kassett"
+    ], 
+    "📿": [
+        "palvetamine", 
+        "riided", 
+        "usk", 
+        "helmed", 
+        "palvehelmed", 
+        "kaelakee"
+    ], 
+    "🔀": [
+        "juhusliku järjekorra nupp", 
+        "nool", 
+        "risti", 
+        "juhuslik"
+    ], 
+    "🔁": [
+        "nool", 
+        "päripäeva", 
+        "kordamisnupp", 
+        "kordus"
+    ], 
+    "🔂": [
+        "nool", 
+        "päripäeva", 
+        "ühe korduse nupp", 
+        "kordus"
+    ], 
+    "🔃": [
+        "nool", 
+        "päripäeva", 
+        "vertikaalsed nooled päripäeva", 
+        "laadimine"
+    ], 
+    "🔄": [
+        "nool", 
+        "vastupäeva", 
+        "nooled vastupäeva"
+    ], 
+    "🔅": [
+        "tuhm", 
+        "hämar", 
+        "tuhmistamisnupp", 
+        "eredus"
+    ], 
+    "🔆": [
+        "ere", 
+        "eredus", 
+        "ereduse nupp"
+    ], 
+    "🔇": [
+        "vaigistatud kõlar", 
+        "heli", 
+        "vaikne", 
+        "kõlar"
+    ], 
+    "🔈": [
+        "heli", 
+        "vaikse heliga kõlar"
+    ], 
+    "🔉": [
+        "poolvalju heliga kõlar", 
+        "heli", 
+        "vaikne", 
+        "kõlar"
+    ], 
+    "🔊": [
+        "vali", 
+        "heli", 
+        "valju heliga kõlar", 
+        "kõlar"
+    ], 
+    "🔋": [
+        "patarei", 
+        "aku"
+    ], 
+    "🔌": [
+        "pistik", 
+        "elektripistik", 
+        "elekter"
+    ], 
+    "🔍": [
+        "suurendusklaas", 
+        "tööriist", 
+        "otsi", 
+        "vasakule kallutatud luup"
+    ], 
+    "🔎": [
+        "suurendusklaas", 
+        "tööriist", 
+        "otsi", 
+        "paremale kallutatud luup"
+    ], 
+    "🔏": [
+        "tint", 
+        "pastakas", 
+        "lukk ja pastakas", 
+        "lukk", 
+        "privaatsus", 
+        "sulepea"
+    ], 
+    "🔐": [
+        "lukus", 
+        "suletud", 
+        "suletud lukk võtmega", 
+        "võti", 
+        "lukk"
+    ], 
+    "🔑": [
+        "parool", 
+        "võti", 
+        "lukk"
+    ], 
+    "🔒": [
+        "lukus", 
+        "suletud", 
+        "lukk"
+    ], 
+    "🔓": [
+        "lukk", 
+        "avatud lukk", 
+        "avatud"
+    ], 
+    "🔔": [
+        "kell", 
+        "kelluke"
+    ], 
+    "🔕": [
+        "kelluke", 
+        "keelatud", 
+        "ei", 
+        "vaikne", 
+        "vaigistatud kelluke"
+    ], 
+    "🔖": [
+        "järjehoidja"
+    ], 
+    "🔗": [
+        "lüli"
+    ], 
+    "🔘": [
+        "raadionupp", 
+        "raadio", 
+        "nupp", 
+        "geomeetria"
+    ], 
+    "🔙": [
+        "nool", 
+        "nool BACK", 
+        "tagasi"
+    ], 
+    "🔚": [
+        "nool", 
+        "nool END", 
+        "lõpp"
+    ], 
+    "🔛": [
+        "märk", 
+        "nool", 
+        "nool ON!"
+    ], 
+    "🔜": [
+        "nool", 
+        "varsti", 
+        "nool SOON"
+    ], 
+    "🔝": [
+        "nool", 
+        "üles", 
+        "nool TOP"
+    ], 
+    "🔞": [
+        "kaheksateist", 
+        "18", 
+        "vanusepiirang", 
+        "alaealine", 
+        "alla 18-aastastele keelatud", 
+        "keelatud"
+    ], 
+    "🔟": [
+        "klahv: 10", 
+        "klahv"
+    ], 
+    "🔠": [
+        "abcd", 
+        "ladina suurtähed", 
+        "ladina", 
+        "tähed", 
+        "suurtähed"
+    ], 
+    "🔡": [
+        "abcd", 
+        "ladina väiketähed", 
+        "väiketähed", 
+        "ladina", 
+        "tähed"
+    ], 
+    "🔢": [
+        "1234", 
+        "numbrid"
+    ], 
+    "🔣": [
+        "sisestus", 
+        "sümbolid"
+    ], 
+    "🔤": [
+        "ladina tähed", 
+        "abc", 
+        "tähestik", 
+        "ladina", 
+        "tähed"
+    ], 
+    "🔥": [
+        "tuli", 
+        "leek"
+    ], 
+    "🔦": [
+        "valgus", 
+        "taskulamp", 
+        "tööriist", 
+        "elekter"
+    ], 
+    "🔧": [
+        "mutrivõti", 
+        "tööriist"
+    ], 
+    "🔨": [
+        "haamer", 
+        "tööriist"
+    ], 
+    "🔩": [
+        "polt", 
+        "tööriist", 
+        "mutter", 
+        "polt ja mutter"
+    ], 
+    "🔪": [
+        "köök", 
+        "nuga", 
+        "kööginuga", 
+        "tööriist", 
+        "relv"
+    ], 
+    "🔫": [
+        "tööriist", 
+        "relv", 
+        "püstol", 
+        "revolver"
+    ], 
+    "🔬": [
+        "mikroskoop", 
+        "tööriist"
+    ], 
+    "🔭": [
+        "tööriist", 
+        "teleskoop"
+    ], 
+    "🔮": [
+        "ennustamine", 
+        "tööriist", 
+        "kristallkuul", 
+        "muinasjutt"
+    ], 
+    "🔯": [
+        "täht", 
+        "punktiga kuusnurkne täht", 
+        "õnn"
+    ], 
+    "🔰": [
+        "leht", 
+        "algaja", 
+        "algaja sümbol", 
+        "roheline", 
+        "kollane"
+    ], 
+    "🔱": [
+        "embleem", 
+        "laev", 
+        "kolmhargi sümbol", 
+        "ankur", 
+        "kolmhark"
+    ], 
+    "🔲": [
+        "must ruudukujuline nupp", 
+        "nupp", 
+        "geomeetria", 
+        "ruut", 
+        "piirjoon"
+    ], 
+    "🔳": [
+        "valge ruudukujuline nupp", 
+        "ruut", 
+        "nupp", 
+        "geomeetria", 
+        "piirjoon"
+    ], 
+    "🔴": [
+        "ring", 
+        "punane", 
+        "geomeetria", 
+        "punane ring"
+    ], 
+    "🔵": [
+        "ring", 
+        "geomeetria", 
+        "sinine ring", 
+        "sinine"
+    ], 
+    "🔶": [
+        "suur oranž romb", 
+        "oranž", 
+        "geomeetria", 
+        "romb", 
+        "teemant"
+    ], 
+    "🔷": [
+        "romb", 
+        "geomeetria", 
+        "suur sinine romb", 
+        "sinine", 
+        "teemant"
+    ], 
+    "🔸": [
+        "oranž", 
+        "väike oranž romb", 
+        "geomeetria", 
+        "romb", 
+        "teemant"
+    ], 
+    "🔹": [
+        "romb", 
+        "väike sinine romb", 
+        "geomeetria", 
+        "teemant", 
+        "sinine"
+    ], 
+    "🔺": [
+        "üles", 
+        "punane", 
+        "geomeetria", 
+        "punane kolmnurk"
+    ], 
+    "🔻": [
+        "punane tagurpidi kolmnurk", 
+        "punane", 
+        "geomeetria", 
+        "alla"
+    ], 
+    "🔼": [
+        "nool", 
+        "üles", 
+        "nupp", 
+        "ülesnupp"
+    ], 
+    "🔽": [
+        "nool", 
+        "nupp", 
+        "allanupp", 
+        "alla"
+    ], 
+    "🕋": [
+        "kaaba", 
+        "usk", 
+        "moslem", 
+        "islam"
+    ], 
+    "🕌": [
+        "usk", 
+        "moslem", 
+        "mošee", 
+        "islam"
+    ], 
+    "🕍": [
+        "sünagoog", 
+        "juut", 
+        "judaism", 
+        "usk"
+    ], 
+    "🕎": [
+        "küünlajalg", 
+        "usk", 
+        "menoraa"
+    ], 
+    "🕐": [
+        "00", 
+        "kell", 
+        "üks", 
+        "1", 
+        "kell üks", 
+        "1:00"
+    ], 
+    "🕑": [
+        "00", 
+        "2:00", 
+        "kell", 
+        "2", 
+        "kaks", 
+        "kell kaks"
+    ], 
+    "🕒": [
+        "kell kolm", 
+        "kell", 
+        "00", 
+        "3", 
+        "kolm", 
+        "3:00"
+    ], 
+    "🕓": [
+        "00", 
+        "kell", 
+        "neli", 
+        "kell neli", 
+        "4:00", 
+        "4"
+    ], 
+    "🕔": [
+        "00", 
+        "kell", 
+        "5:00", 
+        "kell viis", 
+        "viis", 
+        "5"
+    ], 
+    "🕕": [
+        "00", 
+        "kell kuus", 
+        "kell", 
+        "kuus", 
+        "6", 
+        "6:00"
+    ], 
+    "🕖": [
+        "00", 
+        "kell", 
+        "kell seitse", 
+        "seitse", 
+        "7:00", 
+        "7"
+    ], 
+    "🕗": [
+        "00", 
+        "8:00", 
+        "kell", 
+        "kaheksa", 
+        "kell kaheksa", 
+        "8"
+    ], 
+    "🕘": [
+        "00", 
+        "kell", 
+        "kell üheksa", 
+        "üheksa", 
+        "9", 
+        "9:00"
+    ], 
+    "🕙": [
+        "10", 
+        "00", 
+        "kell", 
+        "10:00", 
+        "kümme", 
+        "kell kümme"
+    ], 
+    "🕚": [
+        "11", 
+        "00", 
+        "kell", 
+        "üksteist", 
+        "kell üksteist", 
+        "11:00"
+    ], 
+    "🕛": [
+        "00", 
+        "12", 
+        "kaksteist", 
+        "kell", 
+        "kell kaksteist", 
+        "12:00"
+    ], 
+    "🕜": [
+        "kell pool kaks", 
+        "kell", 
+        "30", 
+        "1:30", 
+        "1", 
+        "kaks", 
+        "pool"
+    ], 
+    "🕝": [
+        "kell", 
+        "30", 
+        "2:30", 
+        "2", 
+        "kolm", 
+        "pool", 
+        "kell pool kolm"
+    ], 
+    "🕞": [
+        "kell", 
+        "30", 
+        "neli", 
+        "3", 
+        "kell pool neli", 
+        "3:30", 
+        "pool"
+    ], 
+    "🕟": [
+        "kell", 
+        "30", 
+        "viis", 
+        "4", 
+        "4:30", 
+        "kell pool viis", 
+        "pool"
+    ], 
+    "🕠": [
+        "5:30", 
+        "kell", 
+        "30", 
+        "kuus", 
+        "5", 
+        "kell pool kuus", 
+        "pool"
+    ], 
+    "🕡": [
+        "6:30", 
+        "kell", 
+        "30", 
+        "seitse", 
+        "6", 
+        "pool", 
+        "kell pool seitse"
+    ], 
+    "🕢": [
+        "kell", 
+        "30", 
+        "kaheksa", 
+        "7:30", 
+        "7", 
+        "kell pool kaheksa", 
+        "pool"
+    ], 
+    "🕣": [
+        "kell", 
+        "30", 
+        "üheksa", 
+        "kell pool üheksa", 
+        "8", 
+        "8:30", 
+        "pool"
+    ], 
+    "🕤": [
+        "kell", 
+        "30", 
+        "kümme", 
+        "9:30", 
+        "9", 
+        "kell pool kümme", 
+        "pool"
+    ], 
+    "🕥": [
+        "10", 
+        "30", 
+        "kell", 
+        "10:30", 
+        "üksteist", 
+        "kell pool üksteist", 
+        "pool"
+    ], 
+    "🕦": [
+        "11", 
+        "11:30", 
+        "pool kaksteist", 
+        "kell", 
+        "30", 
+        "kell pool kaksteist"
+    ], 
+    "🕧": [
+        "12", 
+        "kell pool üks", 
+        "kell", 
+        "üks", 
+        "30", 
+        "12:30", 
+        "pool"
+    ], 
+    "🕺": [
+        "tants", 
+        "tantsiv mees", 
+        "mees"
+    ], 
+    "🖕": [
+        "keha", 
+        "käsi", 
+        "keskmine", 
+        "keskmine sõrm", 
+        "sõrm"
+    ], 
+    "🖖": [
+        "sõrm", 
+        "vulcanite tervitus", 
+        "keha", 
+        "vulcan", 
+        "spock", 
+        "käsi"
+    ], 
+    "🖤": [
+        "süda", 
+        "must", 
+        "must süda", 
+        "kuri"
+    ], 
+    "🗻": [
+        "fuji", 
+        "mägi", 
+        "Fuji mägi"
+    ], 
+    "🗼": [
+        "torn", 
+        "Tokyo torn", 
+        "tokyo"
+    ], 
+    "🗽": [
+        "sammas", 
+        "kuju", 
+        "Vabadussammas", 
+        "vabadus"
+    ], 
+    "🗾": [
+        "kaart", 
+        "Jaapani kaart", 
+        "jaapan"
+    ], 
+    "🗿": [
+        "kuju", 
+        "nägu", 
+        "moai"
+    ], 
+    "😀": [
+        "laia naeratusega nägu", 
+        "nägu", 
+        "naeratus", 
+        "irve"
+    ], 
+    "😁": [
+        "naerul silmade ja laia naeratusega nägu", 
+        "silm", 
+        "naeratus", 
+        "irve", 
+        "nägu"
+    ], 
+    "😂": [
+        "naer", 
+        "rõõmupisaratega nägu", 
+        "pisar", 
+        "rõõm", 
+        "nägu"
+    ], 
+    "😃": [
+        "avatud suuga naerunägu", 
+        "lahti", 
+        "suu", 
+        "naeratus", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😄": [
+        "avatud suu ja naeratavate silmadega naerunägu", 
+        "lahti", 
+        "suu", 
+        "naeratus", 
+        "silm", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😅": [
+        "külma higiga kaetud ja avatud suuga naerunägu", 
+        "külm", 
+        "higi", 
+        "naeratus", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😆": [
+        "avatud suu ja suletud silmadega naerunägu", 
+        "lahti", 
+        "suu", 
+        "naeratus", 
+        "naer", 
+        "rahul", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😇": [
+        "aupaistega naerunägu", 
+        "süütu", 
+        "fantaasia", 
+        "ingel", 
+        "naeratus", 
+        "muinasjutt", 
+        "nägu", 
+        "halo"
+    ], 
+    "😈": [
+        "sarved", 
+        "sarviline naerunägu", 
+        "fantaasia", 
+        "naeratus", 
+        "muinasjutt", 
+        "nägu"
+    ], 
+    "😉": [
+        "silmapilgutus", 
+        "silma pilgutav nägu", 
+        "nägu"
+    ], 
+    "😊": [
+        "punastamine", 
+        "silm", 
+        "naeratus", 
+        "nägu", 
+        "naeratavate silmadega naerunägu"
+    ], 
+    "😋": [
+        "nautimine", 
+        "maitsev", 
+        "maitsvat toitu nautija nägu", 
+        "nägu", 
+        "naeratus"
+    ], 
+    "😌": [
+        "kergendus", 
+        "kergendust tundev nägu", 
+        "nägu"
+    ], 
+    "😍": [
+        "südamekujuliste silmadega naerunägu", 
+        "armastus", 
+        "süda", 
+        "naeratus", 
+        "silm", 
+        "nägu"
+    ], 
+    "😎": [
+        "ilm", 
+        "prillid", 
+        "päike", 
+        "ere", 
+        "lahe", 
+        "naeratus", 
+        "päikeseprillid", 
+        "päikeseprillidega naerunägu", 
+        "silm", 
+        "nägu"
+    ], 
+    "😏": [
+        "irvitus", 
+        "muigav nägu", 
+        "nägu"
+    ], 
+    "😐": [
+        "neutraalne", 
+        "surmtõsine", 
+        "nägu", 
+        "erapooletu nägu"
+    ], 
+    "😑": [
+        "mittemidagiütlev", 
+        "ilmetu", 
+        "ilmetu nägu", 
+        "nägu", 
+        "väheütlev"
+    ], 
+    "😒": [
+        "põlglik nägu", 
+        "õnnetu", 
+        "põlglik", 
+        "nägu"
+    ], 
+    "😓": [
+        "higi", 
+        "külma higiga kaetud nägu", 
+        "külm", 
+        "nägu"
+    ], 
+    "😔": [
+        "mõtlik", 
+        "mõtlik nägu", 
+        "nukker", 
+        "nägu"
+    ], 
+    "😕": [
+        "segaduses nägu", 
+        "segaduses", 
+        "nägu"
+    ], 
+    "😖": [
+        "nägu", 
+        "kimbatuses nägu", 
+        "kimbatus"
+    ], 
+    "😗": [
+        "suudlev nägu", 
+        "suudlus", 
+        "nägu"
+    ], 
+    "😘": [
+        "süda", 
+        "suudlus", 
+        "nägu", 
+        "suudlust saatev nägu"
+    ], 
+    "😙": [
+        "suudlus", 
+        "naeratavate silmadega suudlev nägu", 
+        "naeratus", 
+        "nägu", 
+        "silm"
+    ], 
+    "😚": [
+        "suudlus", 
+        "suletud silmadega suudlev nägu", 
+        "silm", 
+        "nägu", 
+        "suletud"
+    ], 
+    "😛": [
+        "suust väljas keelega nägu", 
+        "keel", 
+        "nägu"
+    ], 
+    "😜": [
+        "suust väljas keelega ja silma pilgutav nägu", 
+        "nali", 
+        "keel", 
+        "silmapilgutus", 
+        "silm", 
+        "nägu"
+    ], 
+    "😝": [
+        "suust väljas keelega ja suletud silmadega nägu", 
+        "õudne", 
+        "keel", 
+        "maitse", 
+        "silm", 
+        "nägu"
+    ], 
+    "😞": [
+        "kergendus", 
+        "pettunud", 
+        "pettunud nägu", 
+        "nägu", 
+        "leevendus"
+    ], 
+    "😟": [
+        "murelik", 
+        "murelik nägu", 
+        "nägu"
+    ], 
+    "😠": [
+        "tige", 
+        "vihane", 
+        "tige nägu", 
+        "nägu"
+    ], 
+    "😡": [
+        "vihane", 
+        "tige", 
+        "mossitav nägu", 
+        "mossitav", 
+        "nägu", 
+        "punane", 
+        "viha"
+    ], 
+    "😢": [
+        "pisar", 
+        "nuttev nägu", 
+        "nutt", 
+        "kurb", 
+        "nägu"
+    ], 
+    "😣": [
+        "kannatamine", 
+        "sihikindel nägu", 
+        "nägu"
+    ], 
+    "😤": [
+        "nina", 
+        "aur", 
+        "nägu", 
+        "ninast auru ajav nägu"
+    ], 
+    "😥": [
+        "kergendus", 
+        "pettunud", 
+        "nägu", 
+        "leevendus", 
+        "pettunud, kuid kergendust tundev nägu"
+    ], 
+    "😦": [
+        "avatud suuga mossitav nägu", 
+        "mossis", 
+        "suu", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😧": [
+        "ahastuses nägu", 
+        "ahastus", 
+        "nägu"
+    ], 
+    "😨": [
+        "hirmus", 
+        "kartlik", 
+        "hirm", 
+        "hirmunud nägu", 
+        "nägu"
+    ], 
+    "😩": [
+        "väsinud", 
+        "rammestunud", 
+        "nägu", 
+        "rammestunud nägu"
+    ], 
+    "😪": [
+        "magamine", 
+        "unine nägu", 
+        "nägu"
+    ], 
+    "😫": [
+        "väsinud nägu", 
+        "väsinud", 
+        "nägu"
+    ], 
+    "😬": [
+        "grimass", 
+        "grimassitav nägu", 
+        "nägu"
+    ], 
+    "😭": [
+        "kurb", 
+        "nutt", 
+        "pisar", 
+        "nutmine", 
+        "valjusti nuttev nägu", 
+        "nägu"
+    ], 
+    "😮": [
+        "lahti", 
+        "avatud suuga nägu", 
+        "suu", 
+        "kaastunne", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😯": [
+        "üllatunud", 
+        "vaigistatud nägu", 
+        "vaigistatud", 
+        "nägu", 
+        "hämmingus"
+    ], 
+    "😰": [
+        "sinine", 
+        "külm", 
+        "higi", 
+        "suu", 
+        "külma higiga kaetud ja avatud suuga nägu", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😱": [
+        "hirmunud", 
+        "hirm", 
+        "munch", 
+        "karje", 
+        "hirmul", 
+        "hirmunult karjuv nägu", 
+        "nägu"
+    ], 
+    "😲": [
+        "ehmunud", 
+        "hämmastunud nägu", 
+        "löödud", 
+        "nägu", 
+        "hämmastus"
+    ], 
+    "😳": [
+        "punastamine", 
+        "punastav nägu", 
+        "nägu"
+    ], 
+    "😴": [
+        "uni", 
+        "magav nägu", 
+        "zzz", 
+        "nägu"
+    ], 
+    "😵": [
+        "oimetu nägu", 
+        "oimetu", 
+        "nägu"
+    ], 
+    "😶": [
+        "vaikne", 
+        "ilma suuta nägu", 
+        "suu", 
+        "nägu", 
+        "vaikus"
+    ], 
+    "😷": [
+        "kirurgimaskiga kaetud nägu", 
+        "haige", 
+        "mask", 
+        "külm", 
+        "arst", 
+        "ravim", 
+        "nägu"
+    ], 
+    "😸": [
+        "irve", 
+        "kass", 
+        "naeratus", 
+        "irvitus", 
+        "lõbusate silmadega irvitav kass", 
+        "silm", 
+        "nägu"
+    ], 
+    "😹": [
+        "rõõmupisarais kass", 
+        "pisar", 
+        "nägu", 
+        "kass", 
+        "rõõm"
+    ], 
+    "😺": [
+        "kass", 
+        "lahti", 
+        "suu", 
+        "naeratus", 
+        "avatud suuga naeratav kass", 
+        "nägu", 
+        "avatud"
+    ], 
+    "😻": [
+        "süda", 
+        "kass", 
+        "armastus", 
+        "naeratus", 
+        "südamekujuliste silmadega naeratav kass", 
+        "nägu"
+    ], 
+    "😼": [
+        "iroonia", 
+        "kass", 
+        "virilalt naeratav kass", 
+        "naeratus", 
+        "irooniline", 
+        "viril", 
+        "nägu"
+    ], 
+    "😽": [
+        "suletud silmadega suudlev kass", 
+        "suudlus", 
+        "nägu", 
+        "kass", 
+        "silm"
+    ], 
+    "😾": [
+        "mossis", 
+        "nägu", 
+        "kass", 
+        "mossitav kass"
+    ], 
+    "😿": [
+        "nuttev kass", 
+        "kurb", 
+        "nutt", 
+        "pisar", 
+        "kass", 
+        "nägu"
+    ], 
+    "🙀": [
+        "ootamatu", 
+        "üllatunud kass", 
+        "üllatus", 
+        "üllatunud", 
+        "kass", 
+        "nägu"
+    ], 
+    "🙁": [
+        "kulmukortsutus", 
+        "veidi kulmu kortsutav nägu", 
+        "nägu"
+    ], 
+    "🙂": [
+        "naeratusega nägu", 
+        "naeratus", 
+        "nägu"
+    ], 
+    "🙃": [
+        "tagurpidi", 
+        "tagurpidi nägu", 
+        "nägu"
+    ], 
+    "🙄": [
+        "pööritavate silmadega nägu", 
+        "silmad", 
+        "pööritamine", 
+        "nägu"
+    ], 
+    "🙅": [
+        "käed", 
+        "žest", 
+        "eitav žest", 
+        "ei", 
+        "keelatud"
+    ], 
+    "🙆": [
+        "käed", 
+        "nõustuv žest", 
+        "ok", 
+        "žest"
+    ], 
+    "🙇": [
+        "kummardav inimene", 
+        "kummardus", 
+        "žest", 
+        "vabandus"
+    ], 
+    "🙈": [
+        "žest", 
+        "ei", 
+        "vaatamine", 
+        "kuri", 
+        "kaetud silmadega ahv", 
+        "ahv", 
+        "keeld", 
+        "keelatud", 
+        "nägu"
+    ], 
+    "🙉": [
+        "žest", 
+        "keelatud", 
+        "keeld", 
+        "kuri", 
+        "ahv", 
+        "ei", 
+        "kaetud kõrvadega ahv", 
+        "kuulamine", 
+        "nägu"
+    ], 
+    "🙊": [
+        "kaetud suuga ahv", 
+        "keeld", 
+        "kuri", 
+        "žest", 
+        "rääkimine", 
+        "ahv", 
+        "ei", 
+        "keelatud", 
+        "nägu"
+    ], 
+    "🙋": [
+        "rõõmus", 
+        "käsi", 
+        "kätt tõstev rõõmus inimene", 
+        "žest", 
+        "õnnelik"
+    ], 
+    "🙌": [
+        "käed", 
+        "ülestõstetud käed", 
+        "žest", 
+        "hurraa", 
+        "tähistamine"
+    ], 
+    "🙍": [
+        "ilme", 
+        "kulmukortsutus", 
+        "kulmu kortsutav inimene"
+    ], 
+    "🙎": [
+        "mossis", 
+        "ilme", 
+        "mossitav inimene", 
+        "mossitav"
+    ], 
+    "🙏": [
+        "palve", 
+        "tänan", 
+        "käed", 
+        "žest", 
+        "aitäh", 
+        "palveasendis käed"
+    ], 
+    "🚀": [
+        "rakett", 
+        "kosmos", 
+        "sõiduk"
+    ], 
+    "🚁": [
+        "helikopter", 
+        "sõiduk"
+    ], 
+    "🚂": [
+        "vedur", 
+        "aur", 
+        "rong", 
+        "raudtee", 
+        "sõiduk"
+    ], 
+    "🚃": [
+        "troll", 
+        "tramm", 
+        "rong", 
+        "rööpad", 
+        "rongivagun", 
+        "vagun", 
+        "elekter", 
+        "sõiduk"
+    ], 
+    "🚄": [
+        "kiirrong", 
+        "raudtee", 
+        "sõiduk"
+    ], 
+    "🚅": [
+        "kiirrong", 
+        "raudtee", 
+        "terava ninaga kiirrong", 
+        "sõiduk"
+    ], 
+    "🚆": [
+        "rong", 
+        "raudtee", 
+        "sõiduk"
+    ], 
+    "🚇": [
+        "metroo", 
+        "rong", 
+        "sõiduk"
+    ], 
+    "🚈": [
+        "rong", 
+        "raudtee", 
+        "kergraudtee", 
+        "sõiduk"
+    ], 
+    "🚉": [
+        "sõiduk", 
+        "rong", 
+        "jaam", 
+        "raudtee"
+    ], 
+    "🚊": [
+        "troll", 
+        "tramm", 
+        "sõiduk"
+    ], 
+    "🚋": [
+        "troll", 
+        "tramm", 
+        "vagun", 
+        "trammivagun", 
+        "sõiduk"
+    ], 
+    "🚌": [
+        "buss", 
+        "sõiduk"
+    ], 
+    "🚍": [
+        "buss", 
+        "sõiduk", 
+        "eestvaade", 
+        "buss eestvaates"
+    ], 
+    "🚎": [
+        "troll", 
+        "buss", 
+        "tramm", 
+        "trollibuss", 
+        "sõiduk"
+    ], 
+    "🚏": [
+        "peatus", 
+        "buss", 
+        "bussipeatus"
+    ], 
+    "🚐": [
+        "buss", 
+        "väikebuss", 
+        "sõiduk"
+    ], 
+    "🚑": [
+        "sõiduk", 
+        "kiirabiauto"
+    ], 
+    "🚒": [
+        "auto", 
+        "tuletõrje", 
+        "tuletõrjeauto", 
+        "sõiduk"
+    ], 
+    "🚓": [
+        "auto", 
+        "politsei", 
+        "sõiduk", 
+        "politseiauto", 
+        "patrull"
+    ], 
+    "🚔": [
+        "auto", 
+        "sõiduk", 
+        "eestvaade", 
+        "politseiauto eestvaates", 
+        "politsei"
+    ], 
+    "🚕": [
+        "takso", 
+        "sõiduk"
+    ], 
+    "🚖": [
+        "takso eestvaates", 
+        "takso", 
+        "eestvaade", 
+        "sõiduk"
+    ], 
+    "🚗": [
+        "auto", 
+        "sõiduk"
+    ], 
+    "🚘": [
+        "auto", 
+        "sõiduk", 
+        "eestvaade", 
+        "auto eestvaates"
+    ], 
+    "🚙": [
+        "auto", 
+        "universaal", 
+        "mahtuniversaal", 
+        "sõiduk"
+    ], 
+    "🚚": [
+        "kulleriauto", 
+        "sõiduk", 
+        "veoauto", 
+        "kuller"
+    ], 
+    "🚛": [
+        "veok", 
+        "veoauto", 
+        "sõiduk"
+    ], 
+    "🚜": [
+        "traktor", 
+        "sõiduk"
+    ], 
+    "🚝": [
+        "üherööpmeline raudtee", 
+        "rong", 
+        "raudtee", 
+        "sõiduk"
+    ], 
+    "🚞": [
+        "rong", 
+        "mägi", 
+        "raudtee", 
+        "vagun", 
+        "mägiraudtee", 
+        "sõiduk"
+    ], 
+    "🚟": [
+        "rippraudtee", 
+        "raudtee", 
+        "vagun", 
+        "sõiduk"
+    ], 
+    "🚠": [
+        "mägi", 
+        "gondel", 
+        "vagun", 
+        "köistee mägedes", 
+        "köis", 
+        "sõiduk"
+    ], 
+    "🚡": [
+        "köisraudtee", 
+        "gondel", 
+        "raudtee", 
+        "vagun", 
+        "köis", 
+        "sõiduk"
+    ], 
+    "🚢": [
+        "laev", 
+        "sõiduk"
+    ], 
+    "🚣": [
+        "aerupaadiga inimene", 
+        "paat", 
+        "sõiduk"
+    ], 
+    "🚤": [
+        "kiirkaater", 
+        "paat", 
+        "sõiduk"
+    ], 
+    "🚥": [
+        "horisontaalne foor", 
+        "liiklus", 
+        "foor"
+    ], 
+    "🚦": [
+        "vertikaalne foor", 
+        "liiklus", 
+        "foor"
+    ], 
+    "🚧": [
+        "tõke", 
+        "ehitustööd", 
+        "barjäär"
+    ], 
+    "🚨": [
+        "politseiauto vilkur", 
+        "pöörlemine", 
+        "vilkur", 
+        "auto", 
+        "politsei", 
+        "sõiduk"
+    ], 
+    "🚩": [
+        "kolmnurk", 
+        "kolmnurkne lipp", 
+        "lipp"
+    ], 
+    "🚪": [
+        "uks"
+    ], 
+    "🚫": [
+        "keelatud", 
+        "sisenemine"
+    ], 
+    "🚬": [
+        "suitsetama", 
+        "sigaret"
+    ], 
+    "🚭": [
+        "suitsetamine keelatud", 
+        "keelatud", 
+        "suitsetamine"
+    ], 
+    "🚮": [
+        "prügikasti silt", 
+        "prügikast", 
+        "praht"
+    ], 
+    "🚯": [
+        "keelatud", 
+        "risustamine", 
+        "risustamine keelatud"
+    ], 
+    "🚰": [
+        "joogivesi", 
+        "joodav", 
+        "vesi"
+    ], 
+    "🚱": [
+        "joomiseks kõlbmatu vesi", 
+        "joodav", 
+        "keelatud", 
+        "vesi"
+    ], 
+    "🚲": [
+        "jalgratas", 
+        "ratas", 
+        "sõiduk"
+    ], 
+    "🚳": [
+        "jalgratas", 
+        "keelatud", 
+        "jalgrattad keelatud", 
+        "sõiduk"
+    ], 
+    "🚴": [
+        "jalgratas", 
+        "rattur", 
+        "jalgrattur"
+    ], 
+    "🚵": [
+        "jalgratas", 
+        "mägi", 
+        "rattur", 
+        "mägirattur"
+    ], 
+    "🚶": [
+        "jalakäija", 
+        "jalutamine", 
+        "kõndimine"
+    ], 
+    "🚷": [
+        "jalakäija", 
+        "jalakäijad keelatud", 
+        "keelatud"
+    ], 
+    "🚸": [
+        "jalakäija", 
+        "laps", 
+        "liiklus", 
+        "tänav", 
+        "lapsed teel"
+    ], 
+    "🚹": [
+        "wc", 
+        "meeste-WC", 
+        "tualett", 
+        "mees"
+    ], 
+    "🚺": [
+        "naiste-WC", 
+        "wc", 
+        "naine", 
+        "tualett"
+    ], 
+    "🚻": [
+        "wc", 
+        "tualett"
+    ], 
+    "🚼": [
+        "beebi sümbol", 
+        "mähe", 
+        "imik", 
+        "beebi"
+    ], 
+    "🚽": [
+        "wc", 
+        "tualett", 
+        "WC-pott"
+    ], 
+    "🚾": [
+        "wc", 
+        "tualett", 
+        "WC", 
+        "vesi"
+    ], 
+    "🚿": [
+        "dušš", 
+        "vesi"
+    ], 
+    "🛀": [
+        "inimene vannis", 
+        "vann"
+    ], 
+    "🛁": [
+        "vann"
+    ], 
+    "🛂": [
+        "kontroll", 
+        "passikontroll", 
+        "pass"
+    ], 
+    "🛃": [
+        "toll"
+    ], 
+    "🛄": [
+        "kättesaamine", 
+        "pagas", 
+        "pagasi kättesaamine"
+    ], 
+    "🛅": [
+        "pagas", 
+        "kapp", 
+        "hoiukapid"
+    ], 
+    "🛌": [
+        "hotell", 
+        "uni", 
+        "inimene voodis"
+    ], 
+    "🛐": [
+        "palvetamine", 
+        "usk", 
+        "pühakoda"
+    ], 
+    "🛑": [
+        "märk", 
+        "liiklusmärk", 
+        "stopp", 
+        "stoppmärk"
+    ], 
+    "🛒": [
+        "ostma", 
+        "käru", 
+        "poodlemine", 
+        "ostukäru"
+    ], 
+    "🛫": [
+        "õhkutõusev lennuk", 
+        "sõiduk", 
+        "õhkutõus", 
+        "lennuk"
+    ], 
+    "🛬": [
+        "maandumine", 
+        "maanduv lennuk", 
+        "sõiduk", 
+        "lennuk"
+    ], 
+    "🛴": [
+        "tõukekas", 
+        "tõukeratas"
+    ], 
+    "🛵": [
+        "skuuter", 
+        "motoroller"
+    ], 
+    "🛶": [
+        "kanuu", 
+        "paat"
+    ], 
+    "🛷": [
+        "saan", 
+        "regi", 
+        "kelk"
+    ], 
+    "🛸": [
+        "lendav taldrik", 
+        "UFO"
+    ], 
+    "🤐": [
+        "suu", 
+        "tõmblukusuuga nägu", 
+        "nägu", 
+        "tõmblukk"
+    ], 
+    "🤑": [
+        "nägu, millel on raha suus", 
+        "raha", 
+        "suu", 
+        "nägu"
+    ], 
+    "🤒": [
+        "haige", 
+        "kraadiklaasiga nägu", 
+        "kraadiklaas", 
+        "nägu"
+    ], 
+    "🤓": [
+        "friik", 
+        "nohik", 
+        "nägu", 
+        "nohiku nägu"
+    ], 
+    "🤔": [
+        "mõtlemine", 
+        "mõtlev nägu", 
+        "nägu"
+    ], 
+    "🤕": [
+        "kinniseotud", 
+        "vigastus", 
+        "kinniseotud peaga nägu", 
+        "nägu", 
+        "side"
+    ], 
+    "🤖": [
+        "koletis", 
+        "robot", 
+        "nägu", 
+        "roboti nägu"
+    ], 
+    "🤗": [
+        "kallistamine", 
+        "kallistus", 
+        "kallistav nägu", 
+        "nägu"
+    ], 
+    "🤘": [
+        "sõrm", 
+        "sarved", 
+        "keha", 
+        "rokk", 
+        "käsi", 
+        "sarvede märk"
+    ], 
+    "🤙": [
+        "helista", 
+        "käsi", 
+        "helista mulle"
+    ], 
+    "🤚": [
+        "tõstetud käsi", 
+        "käsi", 
+        "tõstetud"
+    ], 
+    "🤛": [
+        "vasakule suunatud rusikas", 
+        "rusikas", 
+        "vasakule"
+    ], 
+    "🤜": [
+        "rusikas", 
+        "paremale", 
+        "paremale suunatud rusikas"
+    ], 
+    "🤝": [
+        "käsi", 
+        "käepigistus", 
+        "tervitus", 
+        "kohtumine"
+    ], 
+    "🤞": [
+        "sõrmed", 
+        "sõrmed risti", 
+        "käsi", 
+        "õnn", 
+        "risti"
+    ], 
+    "🤟": [
+        "armastust väljendav žest", 
+        "käsi", 
+        "ILY"
+    ], 
+    "🤠": [
+        "kauboimütsiga nägu", 
+        "müts", 
+        "nägu", 
+        "kauboi"
+    ], 
+    "🤡": [
+        "kloun", 
+        "nägu", 
+        "klouninägu"
+    ], 
+    "🤢": [
+        "nägu", 
+        "okse", 
+        "iiveldus", 
+        "iiveldust tundev nägu"
+    ], 
+    "🤣": [
+        "naerust kõveras", 
+        "naer", 
+        "kõver"
+    ], 
+    "🤤": [
+        "nägu", 
+        "ilastav nägu", 
+        "ila"
+    ], 
+    "🤥": [
+        "vale", 
+        "nägu", 
+        "valetav nägu"
+    ], 
+    "🤦": [
+        "umbusk", 
+        "nägu", 
+        "meeleheide"
+    ], 
+    "🤧": [
+        "aevastav nägu", 
+        "terviseks", 
+        "aevastus", 
+        "nägu"
+    ], 
+    "🤨": [
+        "skeptiline", 
+        "umbusaldav", 
+        "kergitatud kulmudega nägu"
+    ], 
+    "🤩": [
+        "suu kõrvuni", 
+        "staariga silmitsi", 
+        "silmad", 
+        "staar", 
+        "nägu"
+    ], 
+    "🤪": [
+        "suur", 
+        "pöörase ilmega nägu", 
+        "väike", 
+        "silm"
+    ], 
+    "🤫": [
+        "sõrme suul hoidev nägu", 
+        "vaikust", 
+        "kuss!"
+    ], 
+    "🤬": [
+        "vandumine", 
+        "suul olevate sümbolitega nägu"
+    ], 
+    "🤭": [
+        "ups", 
+        "kätt suul hoidev nägu"
+    ], 
+    "🤮": [
+        "oksendav nägu", 
+        "okse", 
+        "iiveldus"
+    ], 
+    "🤯": [
+        "plahvatav pea", 
+        "šokeeritud"
+    ], 
+    "🤰": [
+        "naine", 
+        "rase", 
+        "rase naine"
+    ], 
+    "🤱": [
+        "rind", 
+        "imik", 
+        "imetamine", 
+        "rinnaga toitmine"
+    ], 
+    "🤲": [
+        "palve", 
+        "peopesad üleval koos"
+    ], 
+    "🤳": [
+        "kaamera", 
+        "telefon", 
+        "selfi"
+    ], 
+    "🤴": [
+        "prints"
+    ], 
+    "🤵": [
+        "smoking", 
+        "mees smokingus", 
+        "mees", 
+        "peigmees"
+    ], 
+    "🤶": [
+        "jõuluvana", 
+        "jõuluvana abikaasa", 
+        "abikaasa"
+    ], 
+    "🤷": [
+        "kehitus", 
+        "ükskõiksus", 
+        "õlg", 
+        "õlakehitus"
+    ], 
+    "🤸": [
+        "hundiratast viskav inimene", 
+        "inimene", 
+        "iluvõimlemine", 
+        "hundiratas", 
+        "sport"
+    ], 
+    "🤹": [
+        "žonglöör", 
+        "oskused", 
+        "žongleerimine", 
+        "tasakaal"
+    ], 
+    "🤺": [
+        "inimene", 
+        "mõõk", 
+        "sport", 
+        "vehklemine", 
+        "vehkleja"
+    ], 
+    "🤼": [
+        "inimesed", 
+        "maadlus", 
+        "sport", 
+        "maadlejad"
+    ], 
+    "🤽": [
+        "inimene", 
+        "sport", 
+        "veepalli mängiv inimene", 
+        "veepall"
+    ], 
+    "🤾": [
+        "inimene", 
+        "sport", 
+        "käsipalli mängiv inimene", 
+        "käsipall", 
+        "pall"
+    ], 
+    "🥀": [
+        "närbunud", 
+        "lill", 
+        "närbunud lill"
+    ], 
+    "🥁": [
+        "trumm", 
+        "trummipulgad", 
+        "muusika"
+    ], 
+    "🥂": [
+        "kõlisevad klaasid", 
+        "kõlks", 
+        "tähistama", 
+        "klaasid", 
+        "jooma"
+    ], 
+    "🥃": [
+        "joogiklaas", 
+        "viskiklaas", 
+        "napsuklaas"
+    ], 
+    "🥄": [
+        "lauanõud", 
+        "lusikas"
+    ], 
+    "🥅": [
+        "sport", 
+        "värav", 
+        "võrk", 
+        "väravavõrk"
+    ], 
+    "🥇": [
+        "kuld", 
+        "medal", 
+        "kuldmedal", 
+        "esimene"
+    ], 
+    "🥈": [
+        "teine", 
+        "hõbe", 
+        "medal", 
+        "hõbemedal"
+    ], 
+    "🥉": [
+        "kolmas", 
+        "pronksmedal", 
+        "medal", 
+        "pronks"
+    ], 
+    "🥊": [
+        "kinnas", 
+        "sport", 
+        "poks", 
+        "poksikinnas"
+    ], 
+    "🥋": [
+        "taekvondo", 
+        "riietus", 
+        "võitluskunstid", 
+        "karate", 
+        "džuudo", 
+        "võitluskunstide riietus", 
+        "sport"
+    ], 
+    "🥌": [
+        "mäng", 
+        "jääkeegli kivi", 
+        "kivi"
+    ], 
+    "🥐": [
+        "toit", 
+        "croissant", 
+        "sai", 
+        "prantsuse", 
+        "sarvesai"
+    ], 
+    "🥑": [
+        "toit", 
+        "avokaado", 
+        "puuvili"
+    ], 
+    "🥒": [
+        "toit", 
+        "kurk", 
+        "köögivili"
+    ], 
+    "🥓": [
+        "liha", 
+        "peekon", 
+        "toit"
+    ], 
+    "🥔": [
+        "juurvili", 
+        "toit", 
+        "kartul"
+    ], 
+    "🥕": [
+        "juurvili", 
+        "toit", 
+        "porgand"
+    ], 
+    "🥖": [
+        "toit", 
+        "baguette", 
+        "sai", 
+        "pikk"
+    ], 
+    "🥗": [
+        "toit", 
+        "roheline", 
+        "salat", 
+        "roheline salat"
+    ], 
+    "🥘": [
+        "toit", 
+        "panniroog", 
+        "paella"
+    ], 
+    "🥙": [
+        "falafel", 
+        "toit", 
+        "täidetud pita", 
+        "kebab"
+    ], 
+    "🥚": [
+        "toit", 
+        "muna"
+    ], 
+    "🥛": [
+        "piim", 
+        "klaas piima", 
+        "jook", 
+        "klaas"
+    ], 
+    "🥜": [
+        "toit", 
+        "maapähklid", 
+        "pähkel", 
+        "maapähkel"
+    ], 
+    "🥝": [
+        "toit", 
+        "puuvili", 
+        "kiivi"
+    ], 
+    "🥞": [
+        "pannkoogid", 
+        "toit", 
+        "pannkook", 
+        "crêpe"
+    ], 
+    "🥟": [
+        "empanada", 
+        "pelmeen", 
+        "Hiina pelmeen", 
+        "jiaozi", 
+        "gyōza", 
+        "pierogi"
+    ], 
+    "🥠": [
+        "õnneküpsis", 
+        "ennustus"
+    ], 
+    "🥡": [
+        "kiirtoidukarp", 
+        "kaasamüügikarp"
+    ], 
+    "🥢": [
+        "hashi", 
+        "söögipulgad"
+    ], 
+    "🥣": [
+        "hommikueine", 
+        "hommikusöögihelbed", 
+        "riisipuding", 
+        "lusikaga kauss"
+    ], 
+    "🥤": [
+        "kõrrega tops", 
+        "mahl", 
+        "limonaad"
+    ], 
+    "🥥": [
+        "piña colada", 
+        "kookospähkel", 
+        "palm"
+    ], 
+    "🥦": [
+        "metskapsas", 
+        "brokoli"
+    ], 
+    "🥧": [
+        "täidis", 
+        "pirukas"
+    ], 
+    "🥨": [
+        "keerutatud", 
+        "soolakringel"
+    ], 
+    "🥩": [
+        "sealihakarbonaad", 
+        "praelõik", 
+        "karbonaad", 
+        "lambalihakarbonaad", 
+        "lihalõik"
+    ], 
+    "🥪": [
+        "leib", 
+        "võileib"
+    ], 
+    "🥫": [
+        "toidukonserv", 
+        "konserv"
+    ], 
+    "🦀": [
+        "vähk", 
+        "krabi", 
+        "sodiaak"
+    ], 
+    "🦁": [
+        "lõvi nägu", 
+        "nägu", 
+        "lõvi", 
+        "sodiaak"
+    ], 
+    "🦂": [
+        "suur skorpion", 
+        "skorpion", 
+        "sodiaak"
+    ], 
+    "🦃": [
+        "kalkun"
+    ], 
+    "🦄": [
+        "ükssarviku nägu", 
+        "ükssarvik", 
+        "nägu"
+    ], 
+    "🦅": [
+        "lind", 
+        "kotkas"
+    ], 
+    "🦆": [
+        "part", 
+        "lind"
+    ], 
+    "🦇": [
+        "loom", 
+        "nahkhiir", 
+        "vampiir"
+    ], 
+    "🦈": [
+        "hai", 
+        "kala"
+    ], 
+    "🦉": [
+        "öökull", 
+        "lind"
+    ], 
+    "🦊": [
+        "rebane", 
+        "loom", 
+        "rebase nägu", 
+        "nägu"
+    ], 
+    "🦋": [
+        "putukas", 
+        "liblikas", 
+        "ilus"
+    ], 
+    "🦌": [
+        "hirv", 
+        "loom"
+    ], 
+    "🦍": [
+        "gorilla", 
+        "loom"
+    ], 
+    "🦎": [
+        "roomaja", 
+        "sisalik"
+    ], 
+    "🦏": [
+        "loom", 
+        "ninasarvik"
+    ], 
+    "🦐": [
+        "toit", 
+        "krevett", 
+        "koorikloom"
+    ], 
+    "🦑": [
+        "kalmaar", 
+        "mollusk", 
+        "toit"
+    ], 
+    "🦒": [
+        "laigud", 
+        "kaelkirjak"
+    ], 
+    "🦓": [
+        "vöödid", 
+        "triibud", 
+        "sebra"
+    ], 
+    "🦔": [
+        "siil", 
+        "okkaline"
+    ], 
+    "🦕": [
+        "sauropod", 
+        "brahhiosaurus", 
+        "diplodookus", 
+        "brontosaurus"
+    ], 
+    "🦖": [
+        "türannosaurus"
+    ], 
+    "🦗": [
+        "kilk", 
+        "rohutirts"
+    ], 
+    "🧀": [
+        "juustutükk", 
+        "juust"
+    ], 
+    "🧐": [
+        "vanamoeline", 
+        "monokliga nägu"
+    ], 
+    "🧑": [
+        "täiskasvanu", 
+        "sooliselt neutraalne"
+    ], 
+    "🧒": [
+        "laps", 
+        "sooliselt neutraalne", 
+        "noor"
+    ], 
+    "🧓": [
+        "eakas", 
+        "vana", 
+        "sooliselt neutraalne"
+    ], 
+    "🧔": [
+        "habemega isik", 
+        "habe"
+    ], 
+    "🧕": [
+        "hijab", 
+        "pearätik", 
+        "pearätiga naine", 
+        "mantilja", 
+        "tichel"
+    ], 
+    "🧖": [
+        "leiliruum", 
+        "leiliruumis olev inimene", 
+        "saun"
+    ], 
+    "🧗": [
+        "mäkke roniv inimene", 
+        "mägironija"
+    ], 
+    "🧘": [
+        "lootosasendis inimene", 
+        "meditatsioon", 
+        "jooga"
+    ], 
+    "🧙": [
+        "nõid", 
+        "võlur", 
+        "maag", 
+        "nõiamoor"
+    ], 
+    "🧚": [
+        "Puck", 
+        "haldjas", 
+        "Oberon", 
+        "Titania"
+    ], 
+    "🧛": [
+        "surematu", 
+        "Dracula", 
+        "vampiir"
+    ], 
+    "🧜": [
+        "naisnäkk", 
+        "näkk", 
+        "meesnäkk", 
+        "merineitsi"
+    ], 
+    "🧝": [
+        "maagiline", 
+        "päkapikk"
+    ], 
+    "🧞": [
+        "džinn"
+    ], 
+    "🧟": [
+        "surematu", 
+        "elav surnu", 
+        "zombi"
+    ], 
+    "🧠": [
+        "intelligentne", 
+        "aju"
+    ], 
+    "🧡": [
+        "oranž süda", 
+        "oranž"
+    ], 
+    "🧢": [
+        "pesapallimüts", 
+        "nokkmüts"
+    ], 
+    "🧣": [
+        "sall", 
+        "kael"
+    ], 
+    "🧤": [
+        "kindad", 
+        "käsi"
+    ], 
+    "🧥": [
+        "jakk", 
+        "mantel"
+    ], 
+    "🧦": [
+        "sukk", 
+        "sokid"
+    ]
+}

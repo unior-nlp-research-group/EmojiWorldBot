@@ -1,0 +1,6522 @@
+{
+    "⌚": [
+        "uaireadóir", 
+        "clog"
+    ], 
+    "⌛": [
+        "gaineamh", 
+        "orláiste", 
+        "orláiste críochnaithe"
+    ], 
+    "⏩": [
+        "deas", 
+        "saighead", 
+        "saighead dúbailte ar dheis", 
+        "mearchasadh", 
+        "cnaipe mearchasaidh"
+    ], 
+    "⏪": [
+        "clé", 
+        "saighead", 
+        "cnaipe siar ar luas", 
+        "siar", 
+        "saighead dúbailte ar chlé"
+    ], 
+    "⏫": [
+        "suas", 
+        "cnaipe suas ar luas", 
+        "saighead", 
+        "saighead dúbailte suas", 
+        "saighead suas tapaigh"
+    ], 
+    "⏬": [
+        "saighead dúbailte síos", 
+        "saighead", 
+        "cnaipe síos ar luas", 
+        "síos", 
+        "saighead síos tapaigh"
+    ], 
+    "⏰": [
+        "alárm", 
+        "clog", 
+        "clog aláraim"
+    ], 
+    "⏳": [
+        "orláiste lán", 
+        "orláiste gainimh", 
+        "orláiste", 
+        "uaineadóir gainimh", 
+        "uaineadóir"
+    ], 
+    "◽": [
+        "geoiméadrach", 
+        "cearnóg bán meán-bheag", 
+        "cearnóg", 
+        "meánchearnóg bheag bhán"
+    ], 
+    "◾": [
+        "cearnóg dubh meán-bheag", 
+        "geoiméadrach", 
+        "meánchearnóg bheag dhubh", 
+        "cearnóg"
+    ], 
+    "☔": [
+        "braon", 
+        "fearthainn", 
+        "aimsir", 
+        "éadaí", 
+        "scáth le braon baistí", 
+        "scáth", 
+        "scáth báistí le braonta báistí"
+    ], 
+    "☕": [
+        "ól", 
+        "ag galú", 
+        "deoch", 
+        "tae", 
+        "deoch the", 
+        "te", 
+        "caife"
+    ], 
+    "♈": [
+        "an Reithe", 
+        "stoidiaca", 
+        "Aries"
+    ], 
+    "♉": [
+        "an Tarbh", 
+        "stoidiaca", 
+        "Taurus"
+    ], 
+    "♊": [
+        "Gemini", 
+        "stoidiaca", 
+        "an Cúpla"
+    ], 
+    "♋": [
+        "stoidiaca", 
+        "Cancer", 
+        "an Portán"
+    ], 
+    "♌": [
+        "stoidiaca", 
+        "an Leon", 
+        "Leo"
+    ], 
+    "♍": [
+        "Virgo", 
+        "stoidiaca", 
+        "an Mhaighdean"
+    ], 
+    "♎": [
+        "Libra", 
+        "stoidiaca", 
+        "an Mheá"
+    ], 
+    "♏": [
+        "stoidiaca", 
+        "Scorpius", 
+        "Scorpion", 
+        "an Scairp"
+    ], 
+    "♐": [
+        "stoidiaca", 
+        "Sagittarius", 
+        "an Saighdeoir"
+    ], 
+    "♑": [
+        "Capricorn", 
+        "an Gabhar", 
+        "stoidiaca"
+    ], 
+    "♒": [
+        "Aquarius", 
+        "stoidiaca", 
+        "Iompróir an Uisce"
+    ], 
+    "♓": [
+        "Pisces", 
+        "stoidiaca", 
+        "na hÉisc"
+    ], 
+    "♿": [
+        "bealach isteach do chathaoireacha rothaí", 
+        "bealach isteach", 
+        "siombal cathaoireacha rothaí", 
+        "comhartha", 
+        "cathaoir rothaí"
+    ], 
+    "⚓": [
+        "ancaire", 
+        "comhartha"
+    ], 
+    "⚡": [
+        "comhartha ardvoltais", 
+        "ardvoltas", 
+        "comhartha", 
+        "contúirt ardvoltais", 
+        "voltas", 
+        "ard", 
+        "contúirt"
+    ], 
+    "⚪": [
+        "geoiméadrach", 
+        "ciorcal", 
+        "ciorcal bán"
+    ], 
+    "⚫": [
+        "geoiméadrach", 
+        "ciorcal", 
+        "ciorcal dubh"
+    ], 
+    "⚽": [
+        "liathróid sacair", 
+        "sacar", 
+        "liathróid"
+    ], 
+    "⚾": [
+        "daorchluiche"
+    ], 
+    "⛄": [
+        "fear sneachta gan sneachta", 
+        "sneachta", 
+        "fear sneachta"
+    ], 
+    "⛅": [
+        "grian agus scamaill", 
+        "grian", 
+        "scamall", 
+        "grian taobh thiar de na scamaill"
+    ], 
+    "⛎": [
+        "stoidiaca", 
+        "Ophiuchus"
+    ], 
+    "⛔": [
+        "cosc", 
+        "níl cead dul isteach", 
+        "comhartha", 
+        "Cosc ar iontráil"
+    ], 
+    "⛪": [
+        "séipéal", 
+        "foirgneamh"
+    ], 
+    "⛲": [
+        "scardán", 
+        "scairdeán", 
+        "fuarán"
+    ], 
+    "⛳": [
+        "poll", 
+        "galf", 
+        "brat i bpoll", 
+        "brat gailf"
+    ], 
+    "⛵": [
+        "bás seoil", 
+        "bád", 
+        "bád seoil", 
+        "ionad saoire", 
+        "ionad mara", 
+        "luamh"
+    ], 
+    "⛺": [
+        "puball", 
+        "campa", 
+        "campáil"
+    ], 
+    "⛽": [
+        "pumpa breosla", 
+        "caidéal breosla", 
+        "breosla", 
+        "stáisiún", 
+        "stáisiún peitril", 
+        "peitreal"
+    ], 
+    "✅": [
+        "ticmharc bán trom", 
+        "ticmharc trom", 
+        "ticmharc", 
+        "tic"
+    ], 
+    "✊": [
+        "carraig", 
+        "dorn ardaithe"
+    ], 
+    "✋": [
+        "lámh ardaithe", 
+        "páipéar"
+    ], 
+    "✨": [
+        "gealán", 
+        "réaltaí glioscarnacha", 
+        "drithlí", 
+        "spréachaire", 
+        "réaltaí"
+    ], 
+    "❌": [
+        "“X”", 
+        "crosmharc"
+    ], 
+    "❎": [
+        "cnaipe crosmhairc", 
+        "cnáipe crosmharc", 
+        "“X” i gcearnóg", 
+        "crosmharc"
+    ], 
+    "❓": [
+        "ceist", 
+        "comhartha ceiste"
+    ], 
+    "❔": [
+        "ceist", 
+        "comhartha ceiste", 
+        "comhartha ceiste bán"
+    ], 
+    "❕": [
+        "uaillbhreas", 
+        "comhartha uaillbhreasa", 
+        "comhartha uailbhresa bán", 
+        "comhartha uaillbhreasa bháin"
+    ], 
+    "❗": [
+        "uaillbhreas", 
+        "comhartha uaillbhreasa", 
+        "comhartha", 
+        "poncaíocht"
+    ], 
+    "➕": [
+        "comhartha móide trom", 
+        "móide", 
+        "comhartha", 
+        "comhartha trom móide"
+    ], 
+    "➖": [
+        "comhartha lúide trom", 
+        "lúide", 
+        "comhartha", 
+        "comhartha trom lúide"
+    ], 
+    "➗": [
+        "roinnt", 
+        "comhartha trom roinnte", 
+        "comhartha roinnte trom", 
+        "comhartha", 
+        "comhartha roinnte"
+    ], 
+    "➰": [
+        "cas", 
+        "lúb", 
+        "lúb chatach"
+    ], 
+    "➿": [
+        "an tSeapáin", 
+        "lúb dhúbailte chatach", 
+        "lúb chatach", 
+        "dialaigh saor in aisce"
+    ], 
+    "⬛": [
+        "cearnóg mhór dhubh", 
+        "geoiméadrach", 
+        "cearnóg dubh mór", 
+        "cearnóg"
+    ], 
+    "⬜": [
+        "geoiméadrach", 
+        "cearnóg bán mór", 
+        "cearnóg", 
+        "cearnóg mhór bhán"
+    ], 
+    "⭐": [
+        "meánréalta bhán", 
+        "réalta"
+    ], 
+    "⭕": [
+        "ciorcal", 
+        "o", 
+        "ciorcal mór trom"
+    ], 
+    "🀄": [
+        "Dragan", 
+        "Dragan rua mah-jongg", 
+        "Tíl mah-jongg", 
+        "mah-jongg", 
+        "tíl", 
+        "Dragan rua"
+    ], 
+    "🃏": [
+        "an buachaill mór", 
+        "fear na gcrúb", 
+        "cárta", 
+        "Fear na gcrúb", 
+        "cárta imeartha"
+    ], 
+    "🆎": [
+        "fuilghrúpa", 
+        "AB", 
+        "fuil", 
+        "grúpa AB", 
+        "fuilghrúpa AB"
+    ], 
+    "🆑": [
+        "glan", 
+        "comhartha glanta", 
+        "CL"
+    ], 
+    "🆒": [
+        "cnaipe CÚLÁITE", 
+        "díobhálaí", 
+        "faiseanta"
+    ], 
+    "🆓": [
+        "saor in aisce", 
+        "cnaipe SAOR IN AISCE", 
+        "saor", 
+        "comhartha"
+    ], 
+    "🆔": [
+        "comhartha", 
+        "comhartha aitheantais", 
+        "aitheantas", 
+        "cnaipe aitheantais", 
+        "ID"
+    ], 
+    "🆕": [
+        "comhartha", 
+        "cnaipe NUA", 
+        "nua"
+    ], 
+    "🆖": [
+        "comhartha", 
+        "NG"
+    ], 
+    "🆗": [
+        "comhartha OK", 
+        "cnáipe OK", 
+        "OK", 
+        "cnaipe OK"
+    ], 
+    "🆘": [
+        "comhartha SOS", 
+        "SOS", 
+        "cabhair", 
+        "comhartha cabhrach"
+    ], 
+    "🆙": [
+        "Suas!", 
+        "comhartha suas", 
+        "cnaipe THUAS!", 
+        "comhartha", 
+        "UP!"
+    ], 
+    "🆚": [
+        "cnaipe VS", 
+        "versus", 
+        "vs", 
+        "comhartha", 
+        "v"
+    ], 
+    "🇦🇨": [
+        "Oileán na Deascabhála", 
+        "bratach"
+    ], 
+    "🇦🇩": [
+        "Andóra", 
+        "bratach"
+    ], 
+    "🇦🇪": [
+        "Aontas na nÉimíríochtaí Arabacha", 
+        "bratach"
+    ], 
+    "🇦🇫": [
+        "an Afganastáin", 
+        "bratach"
+    ], 
+    "🇦🇬": [
+        "Antigua agus Barbúda", 
+        "bratach"
+    ], 
+    "🇦🇮": [
+        "Angaíle", 
+        "bratach"
+    ], 
+    "🇦🇱": [
+        "an Albáin", 
+        "bratach"
+    ], 
+    "🇦🇲": [
+        "an Airméin", 
+        "bratach"
+    ], 
+    "🇦🇴": [
+        "Angóla", 
+        "bratach"
+    ], 
+    "🇦🇶": [
+        "an Antartaice", 
+        "bratach"
+    ], 
+    "🇦🇷": [
+        "an Airgintín", 
+        "bratach"
+    ], 
+    "🇦🇸": [
+        "bratach", 
+        "Samó Mheiriceá"
+    ], 
+    "🇦🇹": [
+        "an Ostair", 
+        "bratach"
+    ], 
+    "🇦🇺": [
+        "an Astráil", 
+        "bratach"
+    ], 
+    "🇦🇼": [
+        "Arúba", 
+        "bratach"
+    ], 
+    "🇦🇽": [
+        "Oileáin Åland", 
+        "bratach"
+    ], 
+    "🇦🇿": [
+        "bratach", 
+        "an Asarbaiseáin"
+    ], 
+    "🇧🇦": [
+        "bratach", 
+        "an Bhoisnia agus an Heirseagaivéin"
+    ], 
+    "🇧🇧": [
+        "Barbadós", 
+        "bratach"
+    ], 
+    "🇧🇩": [
+        "an Bhanglaidéis", 
+        "bratach"
+    ], 
+    "🇧🇪": [
+        "an Bheilg", 
+        "bratach"
+    ], 
+    "🇧🇫": [
+        "Buircíne Fasó", 
+        "bratach"
+    ], 
+    "🇧🇬": [
+        "an Bhulgáir", 
+        "bratach"
+    ], 
+    "🇧🇭": [
+        "Bairéin", 
+        "bratach"
+    ], 
+    "🇧🇮": [
+        "an Bhurúin", 
+        "bratach"
+    ], 
+    "🇧🇯": [
+        "Beinin", 
+        "bratach"
+    ], 
+    "🇧🇱": [
+        "Saint Barthélemy", 
+        "bratach"
+    ], 
+    "🇧🇲": [
+        "Beirmiúda", 
+        "bratach"
+    ], 
+    "🇧🇳": [
+        "Brúiné", 
+        "bratach"
+    ], 
+    "🇧🇴": [
+        "an Bholaiv", 
+        "bratach"
+    ], 
+    "🇧🇶": [
+        "an Ísiltír Chairibeach", 
+        "bratach"
+    ], 
+    "🇧🇷": [
+        "an Bhrasaíl", 
+        "bratach"
+    ], 
+    "🇧🇸": [
+        "na Bahámaí", 
+        "bratach"
+    ], 
+    "🇧🇹": [
+        "bratach", 
+        "an Bhútáin"
+    ], 
+    "🇧🇻": [
+        "Oileán Bouvet", 
+        "bratach"
+    ], 
+    "🇧🇼": [
+        "an Bhotsuáin", 
+        "bratach"
+    ], 
+    "🇧🇾": [
+        "an Bhealarúis", 
+        "bratach"
+    ], 
+    "🇧🇿": [
+        "bratach", 
+        "an Bheilís"
+    ], 
+    "🇨🇦": [
+        "Ceanada", 
+        "bratach"
+    ], 
+    "🇨🇨": [
+        "Oileáin Cocos (Keeling)", 
+        "bratach"
+    ], 
+    "🇨🇩": [
+        "Poblacht Dhaonlathach an Chongó", 
+        "bratach"
+    ], 
+    "🇨🇫": [
+        "Poblacht na hAfraice Láir", 
+        "bratach"
+    ], 
+    "🇨🇬": [
+        "bratach", 
+        "an Congó"
+    ], 
+    "🇨🇭": [
+        "an Eilvéis", 
+        "bratach"
+    ], 
+    "🇨🇮": [
+        "an Cósta Eabhair", 
+        "bratach"
+    ], 
+    "🇨🇰": [
+        "Oileáin Cook", 
+        "bratach"
+    ], 
+    "🇨🇱": [
+        "an tSile", 
+        "bratach"
+    ], 
+    "🇨🇲": [
+        "bratach", 
+        "Camarún"
+    ], 
+    "🇨🇳": [
+        "an tSín", 
+        "bratach"
+    ], 
+    "🇨🇴": [
+        "an Cholóim", 
+        "bratach"
+    ], 
+    "🇨🇵": [
+        "bratach", 
+        "Oileán Clipperton"
+    ], 
+    "🇨🇷": [
+        "bratach", 
+        "Cósta Ríce"
+    ], 
+    "🇨🇺": [
+        "Cúba", 
+        "bratach"
+    ], 
+    "🇨🇻": [
+        "Rinn Verde", 
+        "bratach"
+    ], 
+    "🇨🇼": [
+        "Curaçao", 
+        "bratach"
+    ], 
+    "🇨🇽": [
+        "Oileán na Nollag", 
+        "bratach"
+    ], 
+    "🇨🇾": [
+        "an Chipir", 
+        "bratach"
+    ], 
+    "🇨🇿": [
+        "An tSeicia", 
+        "bratach"
+    ], 
+    "🇩🇪": [
+        "an Ghearmáin", 
+        "bratach"
+    ], 
+    "🇩🇬": [
+        "bratach", 
+        "Diego Garcia"
+    ], 
+    "🇩🇯": [
+        "Djibouti", 
+        "bratach"
+    ], 
+    "🇩🇰": [
+        "an Danmhairg", 
+        "bratach"
+    ], 
+    "🇩🇲": [
+        "Doiminice", 
+        "bratach"
+    ], 
+    "🇩🇴": [
+        "an Phoblacht Dhoiminiceach", 
+        "bratach"
+    ], 
+    "🇩🇿": [
+        "an Ailgéir", 
+        "bratach"
+    ], 
+    "🇪🇦": [
+        "Ceuta agus Melilla", 
+        "bratach"
+    ], 
+    "🇪🇨": [
+        "Eacuadór", 
+        "bratach"
+    ], 
+    "🇪🇪": [
+        "an Eastóin", 
+        "bratach"
+    ], 
+    "🇪🇬": [
+        "an Éigipt", 
+        "bratach"
+    ], 
+    "🇪🇭": [
+        "an Sahára Thiar", 
+        "bratach"
+    ], 
+    "🇪🇷": [
+        "bratach", 
+        "an Eiritré"
+    ], 
+    "🇪🇸": [
+        "an Spáinn", 
+        "bratach"
+    ], 
+    "🇪🇹": [
+        "an Aetóip", 
+        "bratach"
+    ], 
+    "🇪🇺": [
+        "bratach", 
+        "an tAontas Eorpach"
+    ], 
+    "🇫🇮": [
+        "an Fhionlainn", 
+        "bratach"
+    ], 
+    "🇫🇯": [
+        "Fidsí", 
+        "bratach"
+    ], 
+    "🇫🇰": [
+        "Oileáin Fháclainne", 
+        "bratach"
+    ], 
+    "🇫🇲": [
+        "an Mhicrinéis", 
+        "bratach"
+    ], 
+    "🇫🇴": [
+        "Oileáin Fharó", 
+        "bratach"
+    ], 
+    "🇫🇷": [
+        "an Fhrainc", 
+        "bratach"
+    ], 
+    "🇬🇦": [
+        "an Ghabúin", 
+        "bratach"
+    ], 
+    "🇬🇧": [
+        "an Ríocht Aontaithe", 
+        "bratach"
+    ], 
+    "🇬🇩": [
+        "Greanáda", 
+        "bratach"
+    ], 
+    "🇬🇪": [
+        "an tSeoirsia", 
+        "bratach"
+    ], 
+    "🇬🇫": [
+        "Guáin na Fraince", 
+        "bratach"
+    ], 
+    "🇬🇬": [
+        "Geansaí", 
+        "bratach"
+    ], 
+    "🇬🇭": [
+        "Gána", 
+        "bratach"
+    ], 
+    "🇬🇮": [
+        "Giobráltar", 
+        "bratach"
+    ], 
+    "🇬🇱": [
+        "an Ghraonlainn", 
+        "bratach"
+    ], 
+    "🇬🇲": [
+        "an Ghaimbia", 
+        "bratach"
+    ], 
+    "🇬🇳": [
+        "an Ghuine", 
+        "bratach"
+    ], 
+    "🇬🇵": [
+        "Guadalúip", 
+        "bratach"
+    ], 
+    "🇬🇶": [
+        "an Ghuine Mheánchiorclach", 
+        "bratach"
+    ], 
+    "🇬🇷": [
+        "an Ghréig", 
+        "bratach"
+    ], 
+    "🇬🇸": [
+        "an tSeoirsia Theas agus Oileáin Sandwich Theas", 
+        "bratach"
+    ], 
+    "🇬🇹": [
+        "Guatamala", 
+        "bratach"
+    ], 
+    "🇬🇺": [
+        "Guam", 
+        "bratach"
+    ], 
+    "🇬🇼": [
+        "Guine Bissau", 
+        "bratach"
+    ], 
+    "🇬🇾": [
+        "an Ghuáin", 
+        "bratach"
+    ], 
+    "🇭🇰": [
+        "S.R.R. na Síne Hong Cong", 
+        "bratach"
+    ], 
+    "🇭🇲": [
+        "bratach", 
+        "Oileán Heard agus Oileáin McDonald"
+    ], 
+    "🇭🇳": [
+        "Hondúras", 
+        "bratach"
+    ], 
+    "🇭🇷": [
+        "bratach", 
+        "an Chróit"
+    ], 
+    "🇭🇹": [
+        "Háítí", 
+        "bratach"
+    ], 
+    "🇭🇺": [
+        "an Ungáir", 
+        "bratach"
+    ], 
+    "🇮🇨": [
+        "na hOileáin Chanáracha", 
+        "bratach"
+    ], 
+    "🇮🇩": [
+        "an Indinéis", 
+        "bratach"
+    ], 
+    "🇮🇪": [
+        "Éire", 
+        "bratach"
+    ], 
+    "🇮🇱": [
+        "Iosrael", 
+        "bratach"
+    ], 
+    "🇮🇲": [
+        "Oileán Mhanann", 
+        "bratach"
+    ], 
+    "🇮🇳": [
+        "an India", 
+        "bratach"
+    ], 
+    "🇮🇴": [
+        "Críoch Aigéan Indiach na Breataine", 
+        "bratach"
+    ], 
+    "🇮🇶": [
+        "an Iaráic", 
+        "bratach"
+    ], 
+    "🇮🇷": [
+        "an Iaráin", 
+        "bratach"
+    ], 
+    "🇮🇸": [
+        "an Íoslainn", 
+        "bratach"
+    ], 
+    "🇮🇹": [
+        "an Iodáil", 
+        "bratach"
+    ], 
+    "🇯🇪": [
+        "Geirsí", 
+        "bratach"
+    ], 
+    "🇯🇲": [
+        "Iamáice", 
+        "bratach"
+    ], 
+    "🇯🇴": [
+        "bratach", 
+        "an Iordáin"
+    ], 
+    "🇯🇵": [
+        "an tSeapáin", 
+        "bratach"
+    ], 
+    "🇰🇪": [
+        "an Chéinia", 
+        "bratach"
+    ], 
+    "🇰🇬": [
+        "an Chirgeastáin", 
+        "bratach"
+    ], 
+    "🇰🇭": [
+        "bratach", 
+        "an Chambóid"
+    ], 
+    "🇰🇮": [
+        "bratach", 
+        "Cireabaití"
+    ], 
+    "🇰🇲": [
+        "Oileáin Chomóra", 
+        "bratach"
+    ], 
+    "🇰🇳": [
+        "San Críostóir-Nimheas", 
+        "bratach"
+    ], 
+    "🇰🇵": [
+        "an Chóiré Thuaidh", 
+        "bratach"
+    ], 
+    "🇰🇷": [
+        "an Chóiré Theas", 
+        "bratach"
+    ], 
+    "🇰🇼": [
+        "Cuáit", 
+        "bratach"
+    ], 
+    "🇰🇾": [
+        "Oileáin Cayman", 
+        "bratach"
+    ], 
+    "🇰🇿": [
+        "an Chasacstáin", 
+        "bratach"
+    ], 
+    "🇱🇦": [
+        "bratach", 
+        "Laos"
+    ], 
+    "🇱🇧": [
+        "an Liobáin", 
+        "bratach"
+    ], 
+    "🇱🇨": [
+        "Saint Lucia", 
+        "bratach"
+    ], 
+    "🇱🇮": [
+        "Lichtinstéin", 
+        "bratach"
+    ], 
+    "🇱🇰": [
+        "Srí Lanca", 
+        "bratach"
+    ], 
+    "🇱🇷": [
+        "bratach", 
+        "an Libéir"
+    ], 
+    "🇱🇸": [
+        "Leosóta", 
+        "bratach"
+    ], 
+    "🇱🇹": [
+        "an Liotuáin", 
+        "bratach"
+    ], 
+    "🇱🇺": [
+        "Lucsamburg", 
+        "bratach"
+    ], 
+    "🇱🇻": [
+        "an Laitvia", 
+        "bratach"
+    ], 
+    "🇱🇾": [
+        "an Libia", 
+        "bratach"
+    ], 
+    "🇲🇦": [
+        "Maracó", 
+        "bratach"
+    ], 
+    "🇲🇨": [
+        "Monacó", 
+        "bratach"
+    ], 
+    "🇲🇩": [
+        "an Mholdóiv", 
+        "bratach"
+    ], 
+    "🇲🇪": [
+        "Montainéagró", 
+        "bratach"
+    ], 
+    "🇲🇫": [
+        "Saint-Martin", 
+        "bratach"
+    ], 
+    "🇲🇬": [
+        "Madagascar", 
+        "bratach"
+    ], 
+    "🇲🇭": [
+        "bratach", 
+        "Oileáin Marshall"
+    ], 
+    "🇲🇰": [
+        "an Mhacadóin", 
+        "bratach"
+    ], 
+    "🇲🇱": [
+        "bratach", 
+        "Mailí"
+    ], 
+    "🇲🇲": [
+        "Maenmar (Burma)", 
+        "bratach"
+    ], 
+    "🇲🇳": [
+        "an Mhongóil", 
+        "bratach"
+    ], 
+    "🇲🇴": [
+        "S.R.R. na Síne Macao", 
+        "bratach"
+    ], 
+    "🇲🇵": [
+        "na hOileáin Mháirianacha Thuaidh", 
+        "bratach"
+    ], 
+    "🇲🇶": [
+        "bratach", 
+        "Martinique"
+    ], 
+    "🇲🇷": [
+        "an Mháratáin", 
+        "bratach"
+    ], 
+    "🇲🇸": [
+        "Montsarat", 
+        "bratach"
+    ], 
+    "🇲🇹": [
+        "Málta", 
+        "bratach"
+    ], 
+    "🇲🇺": [
+        "Oileán Mhuirís", 
+        "bratach"
+    ], 
+    "🇲🇻": [
+        "Oileáin Mhaildíve", 
+        "bratach"
+    ], 
+    "🇲🇼": [
+        "an Mhaláiv", 
+        "bratach"
+    ], 
+    "🇲🇽": [
+        "Meicsiceo", 
+        "bratach"
+    ], 
+    "🇲🇾": [
+        "an Mhalaeisia", 
+        "bratach"
+    ], 
+    "🇲🇿": [
+        "Mósaimbíc", 
+        "bratach"
+    ], 
+    "🇳🇦": [
+        "an Namaib", 
+        "bratach"
+    ], 
+    "🇳🇨": [
+        "an Nua-Chaladóin", 
+        "bratach"
+    ], 
+    "🇳🇪": [
+        "an Nígir", 
+        "bratach"
+    ], 
+    "🇳🇫": [
+        "Oileán Norfolk", 
+        "bratach"
+    ], 
+    "🇳🇬": [
+        "an Nigéir", 
+        "bratach"
+    ], 
+    "🇳🇮": [
+        "Nicearagua", 
+        "bratach"
+    ], 
+    "🇳🇱": [
+        "bratach", 
+        "an Ísiltír"
+    ], 
+    "🇳🇴": [
+        "an Iorua", 
+        "bratach"
+    ], 
+    "🇳🇵": [
+        "Neipeal", 
+        "bratach"
+    ], 
+    "🇳🇷": [
+        "Nárú", 
+        "bratach"
+    ], 
+    "🇳🇺": [
+        "Niue", 
+        "bratach"
+    ], 
+    "🇳🇿": [
+        "an Nua-Shéalainn", 
+        "bratach"
+    ], 
+    "🇴🇲": [
+        "Óman", 
+        "bratach"
+    ], 
+    "🇵🇦": [
+        "Panama", 
+        "bratach"
+    ], 
+    "🇵🇪": [
+        "Peiriú", 
+        "bratach"
+    ], 
+    "🇵🇫": [
+        "Polainéis na Fraince", 
+        "bratach"
+    ], 
+    "🇵🇬": [
+        "Nua-Ghuine Phapua", 
+        "bratach"
+    ], 
+    "🇵🇭": [
+        "na hOileáin Fhilipíneacha", 
+        "bratach"
+    ], 
+    "🇵🇰": [
+        "an Phacastáin", 
+        "bratach"
+    ], 
+    "🇵🇱": [
+        "an Pholainn", 
+        "bratach"
+    ], 
+    "🇵🇲": [
+        "San Pierre agus Miquelon", 
+        "bratach"
+    ], 
+    "🇵🇳": [
+        "Oileáin Pitcairn", 
+        "bratach"
+    ], 
+    "🇵🇷": [
+        "Pórtó Ríce", 
+        "bratach"
+    ], 
+    "🇵🇸": [
+        "na Críocha Palaistíneacha", 
+        "bratach"
+    ], 
+    "🇵🇹": [
+        "an Phortaingéil", 
+        "bratach"
+    ], 
+    "🇵🇼": [
+        "Oileáin Palau", 
+        "bratach"
+    ], 
+    "🇵🇾": [
+        "Paragua", 
+        "bratach"
+    ], 
+    "🇶🇦": [
+        "Catar", 
+        "bratach"
+    ], 
+    "🇷🇪": [
+        "Réunion", 
+        "bratach"
+    ], 
+    "🇷🇴": [
+        "an Rómáin", 
+        "bratach"
+    ], 
+    "🇷🇸": [
+        "bratach", 
+        "an tSeirbia"
+    ], 
+    "🇷🇺": [
+        "an Rúis", 
+        "bratach"
+    ], 
+    "🇷🇼": [
+        "Ruanda", 
+        "bratach"
+    ], 
+    "🇸🇦": [
+        "an Araib Shádach", 
+        "bratach"
+    ], 
+    "🇸🇧": [
+        "Oileáin Sholomón", 
+        "bratach"
+    ], 
+    "🇸🇨": [
+        "na Séiséil", 
+        "bratach"
+    ], 
+    "🇸🇩": [
+        "an tSúdáin", 
+        "bratach"
+    ], 
+    "🇸🇪": [
+        "an tSualainn", 
+        "bratach"
+    ], 
+    "🇸🇬": [
+        "Singeapór", 
+        "bratach"
+    ], 
+    "🇸🇭": [
+        "San Héilin", 
+        "bratach"
+    ], 
+    "🇸🇮": [
+        "an tSlóivéin", 
+        "bratach"
+    ], 
+    "🇸🇯": [
+        "Svalbard agus Jan Mayen", 
+        "bratach"
+    ], 
+    "🇸🇰": [
+        "an tSlóvaic", 
+        "bratach"
+    ], 
+    "🇸🇱": [
+        "Siarra Leon", 
+        "bratach"
+    ], 
+    "🇸🇲": [
+        "San Mairíne", 
+        "bratach"
+    ], 
+    "🇸🇳": [
+        "an tSeineagáil", 
+        "bratach"
+    ], 
+    "🇸🇴": [
+        "an tSomáil", 
+        "bratach"
+    ], 
+    "🇸🇷": [
+        "Suranam", 
+        "bratach"
+    ], 
+    "🇸🇸": [
+        "an tSúdáin Theas", 
+        "bratach"
+    ], 
+    "🇸🇹": [
+        "São Tomé agus Príncipe", 
+        "bratach"
+    ], 
+    "🇸🇻": [
+        "an tSalvadóir", 
+        "bratach"
+    ], 
+    "🇸🇽": [
+        "Sint Maarten", 
+        "bratach"
+    ], 
+    "🇸🇾": [
+        "an tSiria", 
+        "bratach"
+    ], 
+    "🇸🇿": [
+        "an tSuasalainn", 
+        "bratach"
+    ], 
+    "🇹🇦": [
+        "bratach", 
+        "Tristan da Cunha"
+    ], 
+    "🇹🇨": [
+        "bratach", 
+        "Oileáin na dTurcach agus Caicos"
+    ], 
+    "🇹🇩": [
+        "bratach", 
+        "Sead"
+    ], 
+    "🇹🇫": [
+        "Críocha Francacha Dheisceart an Domhain", 
+        "bratach"
+    ], 
+    "🇹🇬": [
+        "Tóga", 
+        "bratach"
+    ], 
+    "🇹🇭": [
+        "an Téalainn", 
+        "bratach"
+    ], 
+    "🇹🇯": [
+        "an Táidsíceastáin", 
+        "bratach"
+    ], 
+    "🇹🇰": [
+        "Tócalá", 
+        "bratach"
+    ], 
+    "🇹🇱": [
+        "Tíomór Thoir", 
+        "bratach"
+    ], 
+    "🇹🇲": [
+        "bratach", 
+        "an Tuircméanastáin"
+    ], 
+    "🇹🇳": [
+        "an Túinéis", 
+        "bratach"
+    ], 
+    "🇹🇴": [
+        "Tonga", 
+        "bratach"
+    ], 
+    "🇹🇷": [
+        "an Tuirc", 
+        "bratach"
+    ], 
+    "🇹🇹": [
+        "bratach", 
+        "Oileán na Tríonóide agus Tobága"
+    ], 
+    "🇹🇻": [
+        "Tuvalu", 
+        "bratach"
+    ], 
+    "🇹🇼": [
+        "an Téaváin", 
+        "bratach"
+    ], 
+    "🇹🇿": [
+        "an Tansáin", 
+        "bratach"
+    ], 
+    "🇺🇦": [
+        "an Úcráin", 
+        "bratach"
+    ], 
+    "🇺🇬": [
+        "Uganda", 
+        "bratach"
+    ], 
+    "🇺🇲": [
+        "Oileáin Imeallacha S.A.M.", 
+        "bratach"
+    ], 
+    "🇺🇳": [
+        "na Náisiúin Aontaiteh", 
+        "bratach"
+    ], 
+    "🇺🇸": [
+        "Stáit Aontaithe Mheiriceá", 
+        "bratach"
+    ], 
+    "🇺🇾": [
+        "Uragua", 
+        "bratach"
+    ], 
+    "🇺🇿": [
+        "an Úisbéiceastáin", 
+        "bratach"
+    ], 
+    "🇻🇦": [
+        "Cathair na Vatacáine", 
+        "bratach"
+    ], 
+    "🇻🇨": [
+        "bratach", 
+        "San Uinseann agus na Greanáidíní"
+    ], 
+    "🇻🇪": [
+        "Veiniséala", 
+        "bratach"
+    ], 
+    "🇻🇬": [
+        "bratach", 
+        "Oileáin Bhriotanacha na Maighdean"
+    ], 
+    "🇻🇮": [
+        "bratach", 
+        "Oileáin Mheiriceánacha na Maighdean"
+    ], 
+    "🇻🇳": [
+        "Vítneam", 
+        "bratach"
+    ], 
+    "🇻🇺": [
+        "Vanuatú", 
+        "bratach"
+    ], 
+    "🇼🇫": [
+        "Vailís agus Futúna", 
+        "bratach"
+    ], 
+    "🇼🇸": [
+        "Samó", 
+        "bratach"
+    ], 
+    "🇽🇰": [
+        "an Chosaiv", 
+        "bratach"
+    ], 
+    "🇾🇪": [
+        "Éimin", 
+        "bratach"
+    ], 
+    "🇾🇹": [
+        "Mayotte", 
+        "bratach"
+    ], 
+    "🇿🇦": [
+        "bratach", 
+        "an Afraic Theas"
+    ], 
+    "🇿🇲": [
+        "an tSaimbia", 
+        "bratach"
+    ], 
+    "🇿🇼": [
+        "an tSiombáib", 
+        "bratach"
+    ], 
+    "🈁": [
+        "Seapáinis", 
+        "cnaipe Seapáinise \"anseo\"", 
+        "cnáipe Seapáinis \"anseo\""
+    ], 
+    "🈚": [
+        "cnáipe Seapáinis \"saor in aisce\"", 
+        "Seapáinis", 
+        "cnáipe Seapáinise \"saor in aisce\""
+    ], 
+    "🈯": [
+        "cnáipe Seapáinis \"coinnithe\"", 
+        "Seapáinis", 
+        "cnaipe Seapáinise \"coinnithe\""
+    ], 
+    "🈲": [
+        "cnaipe Seapáinise \"cosc\"", 
+        "Seapáinis", 
+        "cnáipe Seapáinis \"cosc\""
+    ], 
+    "🈳": [
+        "Sínis", 
+        "cnáipe Seapáinis \"folúntas\"", 
+        "cnaipe Seapáinise \"folúntas\""
+    ], 
+    "🈴": [
+        "Sínis", 
+        "cnaipe Seapáinise \"pasmharc\"", 
+        "cnáipe Seapáinis \"pasmharc\""
+    ], 
+    "🈵": [
+        "cnaipe Seapáinise \"níl aon fholúntas\"", 
+        "cnáipe Seapáinis \"níl aon folúntas\"", 
+        "Sínis"
+    ], 
+    "🈶": [
+        "cnáipe Seapáinis \"nach bhfuil saor in aisce\"", 
+        "Seapáinis", 
+        "cnaipe Seapáinise \"nach bhfuil saor in aisce\""
+    ], 
+    "🈸": [
+        "cnáipe Seapáinis \"iarratas\"", 
+        "Sínis", 
+        "cnaipe Seapáinise \"iarratas\""
+    ], 
+    "🈹": [
+        "cnaipe Seapáinise \"lascaine\"", 
+        "cnaipe Seapáinise \"saor in aisce\""
+    ], 
+    "🈺": [
+        "cnaipe Seapáinise \"oscailte le haghaidh gnó\"", 
+        "cnáipe Seapáinis \"oscail le hagaidh gnó\"", 
+        "Sínis"
+    ], 
+    "🉐": [
+        "Seapáinis", 
+        "cnaipe Seapáinise \"sladmhargadh\"", 
+        "cnáipe Seapáinis \"sladmhargadh\""
+    ], 
+    "🉑": [
+        "cnaipe Seapáinise \"inghlactha\"", 
+        "Sínis", 
+        "cnáipe Seapáinis \"inghlactha\""
+    ], 
+    "🌀": [
+        "iomghaoth", 
+        "cioclón", 
+        "cuaranfa"
+    ], 
+    "🌁": [
+        "ceo", 
+        "ceomhar"
+    ], 
+    "🌂": [
+        "scáth báistí dúnta", 
+        "báisteach", 
+        "báiste", 
+        "scáth fearthainne", 
+        "scáth báistí"
+    ], 
+    "🌃": [
+        "réaltaí", 
+        "réalta", 
+        "oíche", 
+        "oíche le réaltaí"
+    ], 
+    "🌄": [
+        "éirí na gréine ar shléibhte", 
+        "éirí na gréine thar na sléibhte", 
+        "grian na maidine", 
+        "éirí na gréine", 
+        "sliabh"
+    ], 
+    "🌅": [
+        "grian na maidine", 
+        "éirí na gréine"
+    ], 
+    "🌆": [
+        "cathair", 
+        "breacdhorchadas", 
+        "dreach cathrach i dtitim na hoíche", 
+        "dreach cathrach", 
+        "foirgneamh", 
+        "breacdhorcha"
+    ], 
+    "🌇": [
+        "foirgneamh", 
+        "breacdhorcha", 
+        "dul faoi na gréine", 
+        "foirgnimh"
+    ], 
+    "🌈": [
+        "tuar ceatha", 
+        "bogha báistí"
+    ], 
+    "🌉": [
+        "droichead", 
+        "oíche", 
+        "droichead istoíche"
+    ], 
+    "🌊": [
+        "uisce", 
+        "farraige", 
+        "tonn san uisce", 
+        "muir", 
+        "tonn"
+    ], 
+    "🌋": [
+        "brúchtadh bolcáin", 
+        "bolcán"
+    ], 
+    "🌌": [
+        "Claí Mór na Réaltaí", 
+        "an Láir Bhán", 
+        "Bealach na Bó Finne"
+    ], 
+    "🌍": [
+        "an Afraic", 
+        "cruinneog ag taispeáint na hEorpa agus na hAfraice", 
+        "cruinneog", 
+        "an Eoraip", 
+        "an domhan"
+    ], 
+    "🌎": [
+        "cruinneog ag taispeáint Chríocha Mheiriceá", 
+        "Meiriceá", 
+        "cruinneog", 
+        "an domhan"
+    ], 
+    "🌏": [
+        "an Astráil", 
+        "cruinneog ag taispeáint na hÁsie agus na hAstráile", 
+        "an Áis", 
+        "cruinneog", 
+        "an domhan"
+    ], 
+    "🌐": [
+        "cruinneog le fadlínte", 
+        "cruinneog", 
+        "an domhan"
+    ], 
+    "🌑": [
+        "úr", 
+        "gealach úr", 
+        "duibhré", 
+        "dorcha", 
+        "gealach"
+    ], 
+    "🌒": [
+        "corrán gealaí ag dul ar gcúl", 
+        "gealach ag teacht ann", 
+        "corrán gealaí", 
+        "gealach ag líonadh", 
+        "corrán gealaí atá ag líonadh"
+    ], 
+    "🌓": [
+        "ceathrú gealaí", 
+        "céad cheathrú na gealí", 
+        "gealach i mbéal ceathrún", 
+        "gealach"
+    ], 
+    "🌔": [
+        "gealach scothlán atá ag líonadh", 
+        "gealach", 
+        "gealach ag teach ann", 
+        "líonadh", 
+        "gealach ag líonadh", 
+        "gealach scothlán ag ag dul ar gcúl"
+    ], 
+    "🌕": [
+        "gealach lán", 
+        "gealach", 
+        "lán"
+    ], 
+    "🌖": [
+        "gealach scothlán atá ag caitheamh", 
+        "gealach ag dul ar gcúl", 
+        "gealach", 
+        "gealach ag caitheamh"
+    ], 
+    "🌗": [
+        "ceathrú", 
+        "gealach ina ceathrú dheireanach", 
+        "gealach", 
+        "ceathrú deireanach na gealaí"
+    ], 
+    "🌘": [
+        "corrán gealaí ag dul ar gcúl", 
+        "corrán gealaí atá ag caitheamh", 
+        "gealach", 
+        "corrán gealaí ag caitheamh"
+    ], 
+    "🌙": [
+        "gealach", 
+        "corrán gealaí"
+    ], 
+    "🌚": [
+        "gealach úr le haghaidh"
+    ], 
+    "🌛": [
+        "aghaidh ghealaí", 
+        "céad cheathrú na gealaí le haghaidh", 
+        "corrán gealaí le haghaidh"
+    ], 
+    "🌜": [
+        "aghaidh ghealaí", 
+        "ceathrú", 
+        "aghaidh ghealaí ina ceathrú dheireanach", 
+        "ceathrú deireanach na gealaí le haghaidh"
+    ], 
+    "🌝": [
+        "aghaidh na gealaí láine", 
+        "aghaidh ar ghealach", 
+        "gealach", 
+        "aghaidh", 
+        "aghaidh ghealaí láine"
+    ], 
+    "🌞": [
+        "an ghrian le haghaidh", 
+        "grian", 
+        "aghaidh", 
+        "aghaidh ar ghrian"
+    ], 
+    "🌟": [
+        "réalta ag lonrú", 
+        "lonrú", 
+        "réalta"
+    ], 
+    "🌠": [
+        "réalta reatha", 
+        "réalta"
+    ], 
+    "🌭": [
+        "francfurtar", 
+        "brocaire te", 
+        "ispín", 
+        "brocaire"
+    ], 
+    "🌮": [
+        "meicsiceach", 
+        "taco"
+    ], 
+    "🌯": [
+        "meicsiceach", 
+        "burrito"
+    ], 
+    "🌰": [
+        "cnó capaill"
+    ], 
+    "🌱": [
+        "síológ", 
+        "síolphlanda", 
+        "planda óg"
+    ], 
+    "🌲": [
+        "crann", 
+        "crann síorghlas", 
+        "síorghlas"
+    ], 
+    "🌳": [
+        "duillsilteach", 
+        "crann", 
+        "crann duillsilteach", 
+        "caitheamh an duilliúir"
+    ], 
+    "🌴": [
+        "crann pailme", 
+        "pailm"
+    ], 
+    "🌵": [
+        "cachtas", 
+        "planda"
+    ], 
+    "🌷": [
+        "tiúilip", 
+        "bláth"
+    ], 
+    "🌸": [
+        "silín", 
+        "bláth silíní", 
+        "bláth"
+    ], 
+    "🌹": [
+        "rós", 
+        "bláth"
+    ], 
+    "🌺": [
+        "roiseog", 
+        "bláth"
+    ], 
+    "🌻": [
+        "lus na gréine", 
+        "bláth"
+    ], 
+    "🌼": [
+        "bláth", 
+        "bláthú"
+    ], 
+    "🌽": [
+        "grán buí", 
+        "dias arbhair", 
+        "arbhar Indiach", 
+        "dias"
+    ], 
+    "🌾": [
+        "punann ríse", 
+        "rís", 
+        "dias"
+    ], 
+    "🌿": [
+        "luibh", 
+        "duilleog"
+    ], 
+    "🍀": [
+        "ádh", 
+        "seamair", 
+        "seamair Mhuire", 
+        "seamair ceithre dhuilleog"
+    ], 
+    "🍁": [
+        "mailp", 
+        "duilleog mhailpe"
+    ], 
+    "🍂": [
+        "duilleoga ag titim", 
+        "duilleoga", 
+        "duilleog", 
+        "duilleog thite"
+    ], 
+    "🍃": [
+        "séideadh", 
+        "gaoth", 
+        "duilleog ag séideadh sa ghaoth", 
+        "duilleog", 
+        "duilleog sa ghaoth"
+    ], 
+    "🍄": [
+        "beacán", 
+        "muisiriún"
+    ], 
+    "🍅": [
+        "glasra", 
+        "tráta"
+    ], 
+    "🍆": [
+        "glasra", 
+        "ubhthoradh"
+    ], 
+    "🍇": [
+        "fíonchaora", 
+        "toradh", 
+        "caora fíniúna"
+    ], 
+    "🍈": [
+        "mealbhacán", 
+        "toradh"
+    ], 
+    "🍉": [
+        "toradh", 
+        "mealbhacán uisce"
+    ], 
+    "🍊": [
+        "oráiste", 
+        "táinséirín", 
+        "toradh"
+    ], 
+    "🍋": [
+        "citreas", 
+        "líomóid", 
+        "toradh", 
+        "líomón"
+    ], 
+    "🍌": [
+        "toradh", 
+        "banana"
+    ], 
+    "🍍": [
+        "toradh", 
+        "anann"
+    ], 
+    "🍎": [
+        "toradh", 
+        "úll dearg", 
+        "dearg", 
+        "úll"
+    ], 
+    "🍏": [
+        "glas", 
+        "toradh", 
+        "úll glas", 
+        "úll"
+    ], 
+    "🍐": [
+        "toradh", 
+        "piorra"
+    ], 
+    "🍑": [
+        "péitseog", 
+        "toradh"
+    ], 
+    "🍒": [
+        "silín", 
+        "toradh", 
+        "silíní"
+    ], 
+    "🍓": [
+        "toradh", 
+        "sú talún"
+    ], 
+    "🍔": [
+        "burgar", 
+        "bialann"
+    ], 
+    "🍕": [
+        "slisín", 
+        "píotsa", 
+        "Iodálach", 
+        "bialann", 
+        "pizza"
+    ], 
+    "🍖": [
+        "feoil le cnámh", 
+        "cnámh", 
+        "feoil", 
+        "feoil ar an gcnámh"
+    ], 
+    "🍗": [
+        "sicín", 
+        "circeoil", 
+        "lorga sicín", 
+        "cos sicín"
+    ], 
+    "🍘": [
+        "craicear", 
+        "craicear ríse"
+    ], 
+    "🍙": [
+        "rís", 
+        "liathróid ríse"
+    ], 
+    "🍚": [
+        "rís", 
+        "rís chócaráilte", 
+        "rís cócaráilte"
+    ], 
+    "🍛": [
+        "rís", 
+        "curaí agus rís", 
+        "curaí"
+    ], 
+    "🍜": [
+        "babhla", 
+        "gal", 
+        "núdail", 
+        "te", 
+        "ramen", 
+        "babhla núdal"
+    ], 
+    "🍝": [
+        "pasta", 
+        "spaigití"
+    ], 
+    "🍞": [
+        "arán", 
+        "builín aráin"
+    ], 
+    "🍟": [
+        "sceallóga"
+    ], 
+    "🍠": [
+        "fata", 
+        "rósta", 
+        "ionam", 
+        "práta milis", 
+        "práta"
+    ], 
+    "🍡": [
+        "liathróidí mocci", 
+        "liathróidí mocci ar chipín", 
+        "dango", 
+        "mochi"
+    ], 
+    "🍢": [
+        "bia mara", 
+        "bia mara ar chipín"
+    ], 
+    "🍣": [
+        "sushi"
+    ], 
+    "🍤": [
+        "séacla", 
+        "séacla friochta"
+    ], 
+    "🍥": [
+        "iasc", 
+        "cáca éisc le guairneán", 
+        "cáca éisc"
+    ], 
+    "🍦": [
+        "cón uachtair reoite", 
+        "uachtar reoite", 
+        "uachtar reoite coipthe"
+    ], 
+    "🍧": [
+        "oighear bearrtha"
+    ], 
+    "🍨": [
+        "uachtar reoite"
+    ], 
+    "🍩": [
+        "taoschnó"
+    ], 
+    "🍪": [
+        "briosca"
+    ], 
+    "🍫": [
+        "barra", 
+        "barra seacláide", 
+        "seacláid"
+    ], 
+    "🍬": [
+        "milseán"
+    ], 
+    "🍭": [
+        "milseán", 
+        "líreacán"
+    ], 
+    "🍮": [
+        "milseog", 
+        "custard"
+    ], 
+    "🍯": [
+        "próca meala", 
+        "mil", 
+        "pota meala"
+    ], 
+    "🍰": [
+        "slisín", 
+        "brioscarán", 
+        "císte", 
+        "cáca"
+    ], 
+    "🍱": [
+        "bento", 
+        "bosca lóin", 
+        "bosca", 
+        "bosca bento"
+    ], 
+    "🍲": [
+        "pota le bia", 
+        "stobhach", 
+        "pota"
+    ], 
+    "🍳": [
+        "cócaireacht", 
+        "friochadh", 
+        "friochtán"
+    ], 
+    "🍴": [
+        "forc", 
+        "scian agus forc", 
+        "sceana", 
+        "scian"
+    ], 
+    "🍵": [
+        "deoch", 
+        "tae", 
+        "cupán", 
+        "cupán gan chluas", 
+        "caife"
+    ], 
+    "🍶": [
+        "deoch", 
+        "bialann", 
+        "sake", 
+        "cupán", 
+        "buidéal sake", 
+        "buidéal agus cupán sake"
+    ], 
+    "🍷": [
+        "deoch", 
+        "gloine", 
+        "teach tábhairne", 
+        "fíon", 
+        "gloine fíona"
+    ], 
+    "🍸": [
+        "gloine mhanglaim", 
+        "manglam", 
+        "teach tábhairne"
+    ], 
+    "🍹": [
+        "deoch", 
+        "teach tábhairne", 
+        "puins", 
+        "deoch thrópaiceach"
+    ], 
+    "🍺": [
+        "gloine", 
+        "pionta beorach", 
+        "beoir", 
+        "gloine beorach", 
+        "gloine bheorach", 
+        "teach tábhairne"
+    ], 
+    "🍻": [
+        "teach tábhairne", 
+        "gloiní beorach", 
+        "deochanna"
+    ], 
+    "🍼": [
+        "deoch", 
+        "bainne", 
+        "buidéal", 
+        "buidéal babaí"
+    ], 
+    "🍾": [
+        "deoch", 
+        "corc", 
+        "buidéal le corc ag popáil", 
+        "beár", 
+        "ag popáil", 
+        "buidéal"
+    ], 
+    "🍿": [
+        "grán rósta"
+    ], 
+    "🎀": [
+        "ribín", 
+        "ceiliúradh"
+    ], 
+    "🎁": [
+        "cóisir", 
+        "breithlá", 
+        "bronntanas", 
+        "beart"
+    ], 
+    "🎂": [
+        "lá breithe", 
+        "breithlá", 
+        "cáca breithe", 
+        "cóisir"
+    ], 
+    "🎃": [
+        "Seán na Gealaí", 
+        "tine ghealáin", 
+        "cóisir", 
+        "puimcín", 
+        "Oíche Shamhna"
+    ], 
+    "🎄": [
+        "crann", 
+        "Nollaig", 
+        "crann Nollag", 
+        "ceiliúradh"
+    ], 
+    "🎅": [
+        "Saintí", 
+        "ceiliúradh", 
+        "Nollaig", 
+        "Daidí na Nollag", 
+        "San Nioclás", 
+        "Santa"
+    ], 
+    "🎆": [
+        "tine ealaíne", 
+        "ceiliúradh"
+    ], 
+    "🎇": [
+        "spréachaire tine ealaíne", 
+        "tine ealaíne", 
+        "spréachaire", 
+        "ceiliúradh"
+    ], 
+    "🎈": [
+        "balún", 
+        "ceiliúradh"
+    ], 
+    "🎉": [
+        "pléiscín", 
+        "cóisir", 
+        "pléiscín cóisire", 
+        "ceiliúradh"
+    ], 
+    "🎊": [
+        "bainis", 
+        "confetti", 
+        "pósadh"
+    ], 
+    "🎋": [
+        "stiallacha páipéir", 
+        "maisiúchán", 
+        "céiliúradh"
+    ], 
+    "🎌": [
+        "bratacha", 
+        "bratacha na Seapáine", 
+        "bratacha trasnaithe"
+    ], 
+    "🎍": [
+        "Athbhliain", 
+        "maisiúchán", 
+        "péine", 
+        "Seapánach"
+    ], 
+    "🎎": [
+        "féile", 
+        "babóga", 
+        "babóga Seapánacha", 
+        "ceiliúradh"
+    ], 
+    "🎏": [
+        "maisiúchán", 
+        "sraoilleán éisc", 
+        "sraoilleán"
+    ], 
+    "🎐": [
+        "clingíní gaoithe", 
+        "clingíní"
+    ], 
+    "🎑": [
+        "gealach", 
+        "féile na gealaí", 
+        "amharc ar an ngealach"
+    ], 
+    "🎒": [
+        "scoil", 
+        "mála", 
+        "mála scoile"
+    ], 
+    "🎓": [
+        "lucht acadúil", 
+        "ollscoil", 
+        "bronnadh céime", 
+        "caipín bronnta céime"
+    ], 
+    "🎠": [
+        "siamsaíocht", 
+        "capall roithleagáin ró", 
+        "capall an roithleagáin ró", 
+        "roithleagán ró", 
+        "capall"
+    ], 
+    "🎡": [
+        "siamsaíochta", 
+        "páirc siamsaíochta", 
+        "roth Ferris", 
+        "roth mór"
+    ], 
+    "🎢": [
+        "siamsaíocht", 
+        "páirc siamsaíochta", 
+        "aonach", 
+        "rollchóstóir"
+    ], 
+    "🎣": [
+        "iasc", 
+        "iascaireacht", 
+        "iascach", 
+        "slat iascaireachta", 
+        "slat iascaigh"
+    ], 
+    "🎤": [
+        "siamsaíocht", 
+        "karoke", 
+        "micreafón"
+    ], 
+    "🎥": [
+        "siamsaíocht", 
+        "ceamara scannáin", 
+        "ceamara", 
+        "cinecheamara", 
+        "scannán"
+    ], 
+    "🎦": [
+        "siamsaíocht", 
+        "pictiúrlann", 
+        "scannán"
+    ], 
+    "🎧": [
+        "ceol", 
+        "cluasáin"
+    ], 
+    "🎨": [
+        "ealaín", 
+        "pailéad dathanna", 
+        "ealaíontóir", 
+        "pictiúr", 
+        "péint"
+    ], 
+    "🎩": [
+        "hata", 
+        "hata ard"
+    ], 
+    "🎪": [
+        "puball", 
+        "puball sorcais", 
+        "sorcas"
+    ], 
+    "🎫": [
+        "cead isteach", 
+        "ticéad"
+    ], 
+    "🎬": [
+        "clabaire", 
+        "scannán"
+    ], 
+    "🎭": [
+        "ealaín", 
+        "na taibhealaíona", 
+        "taibh-ealaín", 
+        "siamsaíocht", 
+        "aghaidhmhasc", 
+        "taibhiúchán"
+    ], 
+    "🎮": [
+        "cluiche ríomhaire", 
+        "rialaitheoir cluichíochta", 
+        "rialaitheoir", 
+        "cluiche"
+    ], 
+    "🎯": [
+        "súil sprice", 
+        "cluiche", 
+        "súil ghloine", 
+        "sprioc"
+    ], 
+    "🎰": [
+        "meaisín sliotáin", 
+        "cluiche"
+    ], 
+    "🎱": [
+        "cluiche", 
+        "snúcar", 
+        "liathróid 8 púil"
+    ], 
+    "🎲": [
+        "dísle", 
+        "cluiche"
+    ], 
+    "🎳": [
+        "babhláil", 
+        "cluiche", 
+        "liathróid bhabhlála", 
+        "liathróid"
+    ], 
+    "🎴": [
+        "cluiche", 
+        "cártaí", 
+        "cárta", 
+        "cárta imeartha", 
+        "cártaí imeartha bláthanna"
+    ], 
+    "🎵": [
+        "nóta", 
+        "ceol", 
+        "nóta ceoil"
+    ], 
+    "🎶": [
+        "nóta", 
+        "ceol", 
+        "nótaí", 
+        "nótaí ceoil"
+    ], 
+    "🎷": [
+        "sacsafón", 
+        "ceol", 
+        "uirlis"
+    ], 
+    "🎸": [
+        "ceol", 
+        "giotár", 
+        "uirlis"
+    ], 
+    "🎹": [
+        "méarchlár", 
+        "ceol", 
+        "uirlis", 
+        "pianó"
+    ], 
+    "🎺": [
+        "ceol", 
+        "uirlis", 
+        "trumpa"
+    ], 
+    "🎻": [
+        "ceol", 
+        "uirlis", 
+        "fidil", 
+        "veidhlín"
+    ], 
+    "🎼": [
+        "ceol", 
+        "scór", 
+        "scór ceoil"
+    ], 
+    "🎽": [
+        "spórt", 
+        "t-léine", 
+        "léine reatha", 
+        "rith"
+    ], 
+    "🎾": [
+        "liathróid leadóige", 
+        "raicéad leadóige", 
+        "leadóg"
+    ], 
+    "🎿": [
+        "scíonna", 
+        "spórt", 
+        "scí", 
+        "buatais", 
+        "scí agus buatais"
+    ], 
+    "🏀": [
+        "fonsa cispheile", 
+        "cispheil", 
+        "spórt", 
+        "liathróid"
+    ], 
+    "🏁": [
+        "bratach chríche", 
+        "spórt", 
+        "bratach", 
+        "rásaíocht"
+    ], 
+    "🏂": [
+        "scimeáil sneachta", 
+        "spórt", 
+        "clár sneachta", 
+        "clárscimeálaí sneachta"
+    ], 
+    "🏃": [
+        "ag rith", 
+        "reathaí", 
+        "spórt", 
+        "maratón"
+    ], 
+    "🏄": [
+        "surfáil", 
+        "duine ag surfáil", 
+        "spórt", 
+        "surfálaí"
+    ], 
+    "🏅": [
+        "bonn spóirt", 
+        "bonn"
+    ], 
+    "🏆": [
+        "corn", 
+        "duais"
+    ], 
+    "🏇": [
+        "rásaíocht capall", 
+        "marcaí", 
+        "rásaíocht", 
+        "rásaíocht chapall", 
+        "capall rása", 
+        "spórt", 
+        "capall"
+    ], 
+    "🏈": [
+        "peil Mheiriceánach", 
+        "spórt"
+    ], 
+    "🏉": [
+        "rugbaí", 
+        "spóirt", 
+        "liathróid"
+    ], 
+    "🏊": [
+        "snámhaí", 
+        "snámh", 
+        "spórt"
+    ], 
+    "🏏": [
+        "cruicéad", 
+        "cluiche", 
+        "slac", 
+        "liathróid"
+    ], 
+    "🏐": [
+        "eitpheil", 
+        "cluiche", 
+        "liathróid"
+    ], 
+    "🏑": [
+        "páirc", 
+        "cluiche", 
+        "haca", 
+        "bata", 
+        "liathróid"
+    ], 
+    "🏒": [
+        "bata agus cnag haca oighir", 
+        "oighear", 
+        "bata", 
+        "haca oighir", 
+        "cluiche", 
+        "haca", 
+        "cnag"
+    ], 
+    "🏓": [
+        "slacán", 
+        "bata", 
+        "liathróid", 
+        "ping pang", 
+        "leadóg bhoird", 
+        "cluiche"
+    ], 
+    "🏠": [
+        "teach", 
+        "tógáil"
+    ], 
+    "🏡": [
+        "teach le gairdín", 
+        "teach le ghairdín", 
+        "foirgneamh", 
+        "teach agus gairdín", 
+        "teach", 
+        "gairdín"
+    ], 
+    "🏢": [
+        "foirgneamh oifigí", 
+        "foirgneamh", 
+        "oifig"
+    ], 
+    "🏣": [
+        "oifig an phoist de chuid na Seapáine", 
+        "oifig an phoist Seapánach", 
+        "oifig an phoist", 
+        "post"
+    ], 
+    "🏤": [
+        "post", 
+        "oifig an phoist"
+    ], 
+    "🏥": [
+        "ospidéal", 
+        "dochtúir"
+    ], 
+    "🏦": [
+        "banc"
+    ], 
+    "🏧": [
+        "comhartha ATM", 
+        "ATM", 
+        "meaisín bainc", 
+        "poll an bhainc", 
+        "UMB"
+    ], 
+    "🏨": [
+        "óstán"
+    ], 
+    "🏩": [
+        "leaba", 
+        "óstán", 
+        "óstán grá", 
+        "grá"
+    ], 
+    "🏪": [
+        "siopa áise", 
+        "siopa", 
+        "áisiúlacht"
+    ], 
+    "🏫": [
+        "foirgneamh scoile", 
+        "foirgneamh", 
+        "scoil"
+    ], 
+    "🏬": [
+        "ranna", 
+        "siopa", 
+        "siopa ilrannach"
+    ], 
+    "🏭": [
+        "monarcha", 
+        "foirgneamh"
+    ], 
+    "🏮": [
+        "laintéar", 
+        "laindéar dearg", 
+        "dearg", 
+        "izakaya"
+    ], 
+    "🏯": [
+        "caisleán", 
+        "caisleán Seápánach"
+    ], 
+    "🏰": [
+        "caisleán Eorpach", 
+        "caisleán"
+    ], 
+    "🏴": [
+        "bratach dhubh", 
+        "ar foluain"
+    ], 
+    "🏸": [
+        "eiteán", 
+        "badmantan", 
+        "éinín", 
+        "cluiche", 
+        "slacán"
+    ], 
+    "🏹": [
+        "saighead", 
+        "sagittarius", 
+        "saighead is bogha", 
+        "stoidiaca", 
+        "uirlis", 
+        "bogha", 
+        "arm", 
+        "boghdóir"
+    ], 
+    "🏺": [
+        "crúiscín", 
+        "uirlis", 
+        "aquarius", 
+        "stoidiaca", 
+        "deoch", 
+        "amfara", 
+        "arm", 
+        "ag cócaireacht"
+    ], 
+    "🏻": [
+        "ton cnis geal", 
+        "ton cnis"
+    ], 
+    "🏼": [
+        "ton cnis meánach-gheal", 
+        "ton cnis"
+    ], 
+    "🏽": [
+        "ton cnis meánach", 
+        "ton cnis"
+    ], 
+    "🏾": [
+        "ton cnis", 
+        "ton cnis meánach-dhorcha"
+    ], 
+    "🏿": [
+        "ton cnis dorcha", 
+        "ton cnis"
+    ], 
+    "🐀": [
+        "ainmhí", 
+        "francach"
+    ], 
+    "🐁": [
+        "ainmhí", 
+        "luch"
+    ], 
+    "🐂": [
+        "ainmhí", 
+        "damh"
+    ], 
+    "🐃": [
+        "ainmhí", 
+        "uisce", 
+        "buabhall", 
+        "buabhall uisce"
+    ], 
+    "🐄": [
+        "ainmhí", 
+        "bó"
+    ], 
+    "🐅": [
+        "ainmhí", 
+        "tíogar"
+    ], 
+    "🐆": [
+        "ainmhí", 
+        "liopard"
+    ], 
+    "🐇": [
+        "ainmhí", 
+        "coinín"
+    ], 
+    "🐈": [
+        "ainmhí", 
+        "cat"
+    ], 
+    "🐉": [
+        "ainmhí", 
+        "dragan"
+    ], 
+    "🐊": [
+        "ainmhí", 
+        "crogall"
+    ], 
+    "🐋": [
+        "ainmhí", 
+        "míol mór"
+    ], 
+    "🐌": [
+        "ainmhí", 
+        "seilide"
+    ], 
+    "🐍": [
+        "ainmhí", 
+        "nathair"
+    ], 
+    "🐎": [
+        "ainmhí", 
+        "capall"
+    ], 
+    "🐏": [
+        "ainmhí", 
+        "reithe"
+    ], 
+    "🐐": [
+        "ainmhí", 
+        "gabhar"
+    ], 
+    "🐑": [
+        "ainmhí", 
+        "caora"
+    ], 
+    "🐒": [
+        "ainmhí", 
+        "moncaí"
+    ], 
+    "🐓": [
+        "ainmhí", 
+        "coileach"
+    ], 
+    "🐔": [
+        "ainmhí", 
+        "sicín"
+    ], 
+    "🐕": [
+        "ainmhí", 
+        "madra"
+    ], 
+    "🐖": [
+        "ainmhí", 
+        "muc"
+    ], 
+    "🐗": [
+        "ainmhí", 
+        "torc"
+    ], 
+    "🐘": [
+        "ainmhí", 
+        "eilifint"
+    ], 
+    "🐙": [
+        "ainmhí", 
+        "ochtapas"
+    ], 
+    "🐚": [
+        "ainmhí", 
+        "sliogán"
+    ], 
+    "🐛": [
+        "ainmhí", 
+        "céadchosach", 
+        "míol", 
+        "fríd", 
+        "cruimh cabáiste"
+    ], 
+    "🐜": [
+        "ainmhí", 
+        "seangán"
+    ], 
+    "🐝": [
+        "ainmhí", 
+        "beach mheala", 
+        "beach"
+    ], 
+    "🐞": [
+        "ainmhí", 
+        "bóín", 
+        "bóín Dé", 
+        "ciaróg"
+    ], 
+    "🐟": [
+        "ainmhí", 
+        "iasc"
+    ], 
+    "🐠": [
+        "ainmhí", 
+        "iasc", 
+        "iasc trópaiceach", 
+        "iasc teochreasa"
+    ], 
+    "🐡": [
+        "ainmhí", 
+        "iasc", 
+        "iasc bolgach", 
+        "iasc torcánach"
+    ], 
+    "🐢": [
+        "ainmhí", 
+        "turtar"
+    ], 
+    "🐣": [
+        "éan", 
+        "éan ag teacht as an ubh", 
+        "ubh", 
+        "éinín", 
+        "sicín"
+    ], 
+    "🐤": [
+        "sicín", 
+        "éinín", 
+        "ainmhí", 
+        "sicín óg", 
+        "éan óg", 
+        "gearrshicín"
+    ], 
+    "🐥": [
+        "ainmhí", 
+        "éinín", 
+        "sicín", 
+        "aghaidh éinín", 
+        "sicín óg éadain", 
+        "éan óg", 
+        "gearrshicín éadain"
+    ], 
+    "🐦": [
+        "ainmhí", 
+        "éan"
+    ], 
+    "🐧": [
+        "éan", 
+        "piongain"
+    ], 
+    "🐨": [
+        "ainmhí", 
+        "cóála"
+    ], 
+    "🐩": [
+        "ainmhí", 
+        "púdal", 
+        "madra"
+    ], 
+    "🐪": [
+        "ainmhí", 
+        "camall", 
+        "dromadaire"
+    ], 
+    "🐫": [
+        "ainmhí", 
+        "camall", 
+        "camall Baictriach", 
+        "camall le dhá dhronn"
+    ], 
+    "🐬": [
+        "ainmhí", 
+        "deilf"
+    ], 
+    "🐭": [
+        "ainmhí", 
+        "luch", 
+        "aghaidh luiche", 
+        "aghaidh"
+    ], 
+    "🐮": [
+        "ainmhí", 
+        "aghaidh bó", 
+        "bó"
+    ], 
+    "🐯": [
+        "ainmhí", 
+        "tíogar", 
+        "aghaidh tíogair"
+    ], 
+    "🐰": [
+        "ainmhí", 
+        "coinín", 
+        "aghaidh coinín"
+    ], 
+    "🐱": [
+        "ainmhí", 
+        "aghaidh cait", 
+        "cat"
+    ], 
+    "🐲": [
+        "ainmhí", 
+        "dragan", 
+        "aghaidh dragain"
+    ], 
+    "🐳": [
+        "ainmhí", 
+        "míol mór ag séideadh", 
+        "séideadh", 
+        "míol mór"
+    ], 
+    "🐴": [
+        "ainmhí", 
+        "capall", 
+        "aghaidh capaill"
+    ], 
+    "🐵": [
+        "ainmhí", 
+        "aghaidh moncaí", 
+        "moncaí"
+    ], 
+    "🐶": [
+        "ainmhí", 
+        "aghaidh madra", 
+        "madra"
+    ], 
+    "🐷": [
+        "aghaidh muice", 
+        "ainmhí", 
+        "muc"
+    ], 
+    "🐸": [
+        "aghaidh froig", 
+        "ainmhí", 
+        "frog"
+    ], 
+    "🐹": [
+        "ainmhí", 
+        "hamstar", 
+        "aghaidh hamstair"
+    ], 
+    "🐺": [
+        "ainmhí", 
+        "aghaidh mic tíre", 
+        "mac tíre"
+    ], 
+    "🐻": [
+        "ainmhí", 
+        "aghaidh béair", 
+        "aghaidh béir", 
+        "béar"
+    ], 
+    "🐼": [
+        "ainmhí", 
+        "aghaidh panda", 
+        "panda"
+    ], 
+    "🐽": [
+        "ainmhí", 
+        "srón muice", 
+        "srón", 
+        "muc"
+    ], 
+    "🐾": [
+        "ainmhí", 
+        "lapa", 
+        "lorg", 
+        "lorg lapaí"
+    ], 
+    "👀": [
+        "súile", 
+        "aghaidh"
+    ], 
+    "👂": [
+        "cluas"
+    ], 
+    "👃": [
+        "srón"
+    ], 
+    "👄": [
+        "béal"
+    ], 
+    "👅": [
+        "teanga", 
+        "teanga amach"
+    ], 
+    "👆": [
+        "pointeáil suas", 
+        "corrmhéar", 
+        "cúl corrmhéire ag díriú suas", 
+        "méar", 
+        "lámh", 
+        "cúl cormhéar ag pointeáil suas"
+    ], 
+    "👇": [
+        "pointeáil síos", 
+        "cúl corrmhéire ag díriú síos", 
+        "cúl cormhéar ag pointeáil síos", 
+        "corrmhéar", 
+        "méar", 
+        "lámh"
+    ], 
+    "👈": [
+        "pointeáil ar chlé", 
+        "cúl corrmhéire ag díriú ar chlé", 
+        "corrmhéar", 
+        "cúl cormhéar ag pointeáil ar chlé", 
+        "méar", 
+        "lámh"
+    ], 
+    "👉": [
+        "corrmhéar", 
+        "cúl corrmhéire ag díriú ar dheis", 
+        "pointeáil ar dheis", 
+        "cúl cormhéar ag pointeáil ar dheis", 
+        "méar", 
+        "lámh"
+    ], 
+    "👊": [
+        "dorn", 
+        "dorn atá chugat", 
+        "lámh"
+    ], 
+    "👋": [
+        "lámh ag croitheadh", 
+        "lámh", 
+        "croitheadh"
+    ], 
+    "👌": [
+        "OK", 
+        "lámh", 
+        "lámh OK"
+    ], 
+    "👍": [
+        "ordóg", 
+        "OK", 
+        "ordóg suas", 
+        "moladh"
+    ], 
+    "👎": [
+        "ordóg", 
+        "ordóg síos", 
+        "OK", 
+        "cáineadh"
+    ], 
+    "👏": [
+        "bualadh bos", 
+        "lámha"
+    ], 
+    "👐": [
+        "lámha ar oscailt", 
+        "lámha", 
+        "lámha oscailte"
+    ], 
+    "👑": [
+        "coróin"
+    ], 
+    "👒": [
+        "hata", 
+        "hata mná"
+    ], 
+    "👓": [
+        "spéaclaí"
+    ], 
+    "👔": [
+        "carbhat"
+    ], 
+    "👕": [
+        "t-léine"
+    ], 
+    "👖": [
+        "brístí", 
+        "brístí géine", 
+        "bríste", 
+        "treabhsar"
+    ], 
+    "👗": [
+        "gúna"
+    ], 
+    "👘": [
+        "kimono", 
+        "gúna", 
+        "cimeonó"
+    ], 
+    "👙": [
+        "bicíní", 
+        "bikini", 
+        "éadaí snámha"
+    ], 
+    "👚": [
+        "éadaí mná", 
+        "éadaí"
+    ], 
+    "👛": [
+        "boinn", 
+        "airgead", 
+        "sparán", 
+        "nótaí"
+    ], 
+    "👜": [
+        "mála láimhe", 
+        "mála"
+    ], 
+    "👝": [
+        "tiachóg", 
+        "máilín", 
+        "mála"
+    ], 
+    "👞": [
+        "bróg", 
+        "bróg fir"
+    ], 
+    "👟": [
+        "bróg", 
+        "bróg reatha"
+    ], 
+    "👠": [
+        "bróg", 
+        "sála arda", 
+        "sáil ard"
+    ], 
+    "👡": [
+        "bróg", 
+        "cuarán mná", 
+        "cuarán"
+    ], 
+    "👢": [
+        "bróg", 
+        "buataisí mná", 
+        "buatais"
+    ], 
+    "👣": [
+        "cos", 
+        "lorg", 
+        "loirg choise", 
+        "lorg coise"
+    ], 
+    "👤": [
+        "duine", 
+        "scáthchruth cinn", 
+        "cabhail", 
+        "corp"
+    ], 
+    "👥": [
+        "daoine", 
+        "cabhlacha", 
+        "scáthchruth ceann", 
+        "coirp"
+    ], 
+    "👦": [
+        "duine", 
+        "buachaill"
+    ], 
+    "👧": [
+        "duine", 
+        "cailín"
+    ], 
+    "👨": [
+        "duine", 
+        "fear"
+    ], 
+    "👨‍🌾": [
+        "feirmeoir fireann", 
+        "garraíodóir", 
+        "rainseoir", 
+        "fearann", 
+        "fear", 
+        "feirmeoir"
+    ], 
+    "👨‍🍳": [
+        "chef", 
+        "cócaráil", 
+        "fear", 
+        "cócaire fireann", 
+        "fearann"
+    ], 
+    "👨‍🎓": [
+        "céimí", 
+        "scoláire fireann", 
+        "fear", 
+        "fearann", 
+        "coláisteánach", 
+        "scoláire fir"
+    ], 
+    "👨‍🎤": [
+        "raic", 
+        "amhránaí fireann", 
+        "amhránaí", 
+        "aisteoir", 
+        "siamsóir", 
+        "fearann", 
+        "réalta", 
+        "fear"
+    ], 
+    "👨‍🎨": [
+        "ealaíontóir fearann", 
+        "ealaíontóir", 
+        "fearann", 
+        "fear", 
+        "pailéad"
+    ], 
+    "👨‍🏫": [
+        "teagascóir", 
+        "múinteoir", 
+        "fearann", 
+        "ollamh", 
+        "fear", 
+        "múinteoir fireann"
+    ], 
+    "👨‍🏭": [
+        "tionscail", 
+        "cóimeáil", 
+        "oibrí monarchan fireann", 
+        "monarcha", 
+        "fearann", 
+        "fear", 
+        "oibrí"
+    ], 
+    "👨‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "teaghlach: fear, buachaill", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👦‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "páiste", 
+        "teaghlach: fear, buachaill, buachaill", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👧": [
+        "teaghlach: fear, cailín", 
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "páiste", 
+        "leanaí", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👧‍👦": [
+        "teaghlach: fear, cailín, buachaill", 
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👧‍👧": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "páiste", 
+        "teaghlach: fear, cailín, cailín", 
+        "leanaí", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👨‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "páiste", 
+        "leanaí", 
+        "teaghlach: fear, fear, buachaill", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "teaghlach: fear, fear, buachaill, buachaill", 
+        "fear"
+    ], 
+    "👨‍👨‍👧": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "páiste", 
+        "teaghlach: fear, fear, cailín", 
+        "leanaí", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "teaghlach: fear, fear, cailín, buachaill", 
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "athair", 
+        "máthair", 
+        "teaghlach: fear, fear, cailín, cailín", 
+        "clann", 
+        "cailín", 
+        "páiste", 
+        "leanaí", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👩‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "teaghlach: fear, bean, buachaill", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "teaghlach: fear, bean, buachaill, buachaill", 
+        "fear"
+    ], 
+    "👨‍👩‍👧": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "teaghlach: fear, bean, cailín", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "athair", 
+        "máthair", 
+        "teaghlach: fear, bean, cailín, buachaill", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "athair", 
+        "máthair", 
+        "teaghlach: fear, bean, cailín, cailín", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "duine", 
+        "teaghlach", 
+        "fear"
+    ], 
+    "👨‍💻": [
+        "aireagóir", 
+        "forbróir", 
+        "códóir", 
+        "bogearraí", 
+        "teicneolaí fireann", 
+        "fearann", 
+        "fear", 
+        "teicneolaí"
+    ], 
+    "👨‍💼": [
+        "gnó", 
+        "bóna bháin", 
+        "oifig", 
+        "oibrí oifige fireann", 
+        "fearann", 
+        "fear", 
+        "bainisteoir", 
+        "ailtire"
+    ], 
+    "👨‍🔧": [
+        "ceardaí", 
+        "leictreoir", 
+        "pluiméir", 
+        "fearann", 
+        "meicneoir", 
+        "fear", 
+        "meicneoir fireann"
+    ], 
+    "👨‍🔬": [
+        "eolaí fireann", 
+        "poitigéir", 
+        "innealtóir", 
+        "eolaí", 
+        "fearann", 
+        "fisiceoir", 
+        "bitheolaí", 
+        "fear", 
+        "matamaiticeoir"
+    ], 
+    "👨‍🚀": [
+        "spáis", 
+        "spásaire", 
+        "fearann", 
+        "spásaire fireann", 
+        "fear", 
+        "roicéad"
+    ], 
+    "👨‍🚒": [
+        "inneall dóiteáin", 
+        "fear", 
+        "múchta dóiteán", 
+        "fearann", 
+        "fear múchta dóiteán"
+    ], 
+    "👩": [
+        "duine", 
+        "bean"
+    ], 
+    "👩‍🌾": [
+        "garraíodóir", 
+        "baineann", 
+        "rainseoir", 
+        "bean", 
+        "feirmeoir baineann", 
+        "feirmeoir"
+    ], 
+    "👩‍🍳": [
+        "chef", 
+        "cócaráil", 
+        "bean", 
+        "baineann", 
+        "cócaire baineann"
+    ], 
+    "👩‍🎓": [
+        "bean", 
+        "baineann", 
+        "céimí", 
+        "coláisteánach", 
+        "scoláire baineann"
+    ], 
+    "👩‍🎤": [
+        "raic", 
+        "baineann", 
+        "aisteoir", 
+        "amhránaí", 
+        "amhránaí baineann", 
+        "bean", 
+        "siamsóir", 
+        "réalta"
+    ], 
+    "👩‍🎨": [
+        "bean", 
+        "ealaíontóir baineann", 
+        "baineann", 
+        "ealaíontóir", 
+        "pailéad"
+    ], 
+    "👩‍🏫": [
+        "teagascóir", 
+        "múinteoir", 
+        "baineann", 
+        "bean", 
+        "ollamh", 
+        "múinteoir baineann"
+    ], 
+    "👩‍🏭": [
+        "tionscail", 
+        "oibrí monarchan baineann", 
+        "cóimeáil", 
+        "oibrí", 
+        "baineann", 
+        "bean", 
+        "monarcha"
+    ], 
+    "👩‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "teaghlach: bean, buachaill", 
+        "buachaill", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👦‍👦": [
+        "athair", 
+        "máthair", 
+        "teaghlach: bean, buachaill, buachaill", 
+        "clann", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👧": [
+        "athair", 
+        "máthair", 
+        "teaghlach: bean, cailín", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👧‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach", 
+        "teaghlach: bean, cailín, buachaill"
+    ], 
+    "👩‍👧‍👧": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "teaghlach: bean, cailín, cailín", 
+        "leanaí", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👩‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "teaghlach: bean, bean, buachaill", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "teaghlach: bean, bean, buachaill, buachaill", 
+        "athair", 
+        "máthair", 
+        "clann", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👩‍👧": [
+        "teaghlach: bean, bean, cailín", 
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "buachaill", 
+        "teaghlach: bean, bean, cailín, buachaill", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "teaghlach: bean, bean, cailín, cailín", 
+        "athair", 
+        "máthair", 
+        "clann", 
+        "cailín", 
+        "bean", 
+        "páiste", 
+        "leanaí", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👩‍💻": [
+        "teicneolaí baineann", 
+        "aireagóir", 
+        "baineann", 
+        "forbróir", 
+        "códóir", 
+        "bogearraí", 
+        "bean", 
+        "teicneolaí"
+    ], 
+    "👩‍💼": [
+        "gnó", 
+        "bóna bháin", 
+        "oifig", 
+        "baineann", 
+        "bean", 
+        "oibrí oifige baineann", 
+        "bainisteoir", 
+        "ailtire"
+    ], 
+    "👩‍🔧": [
+        "ceardaí", 
+        "leictreoir", 
+        "baineann", 
+        "pluiméir", 
+        "bean", 
+        "meicneoir baineann", 
+        "meicneoir"
+    ], 
+    "👩‍🔬": [
+        "matamaiticeoir", 
+        "poitigéir", 
+        "innealtóir", 
+        "baineann", 
+        "eolaí", 
+        "eolaí baineann", 
+        "bean", 
+        "bitheolaí", 
+        "fisiceoir"
+    ], 
+    "👩‍🚀": [
+        "spáis", 
+        "spásaire", 
+        "bean", 
+        "fearann", 
+        "spásaire baineann", 
+        "roicéad"
+    ], 
+    "👩‍🚒": [
+        "inneall dóiteáin", 
+        "bean mhúchta dóiteán", 
+        "bean", 
+        "múchta dóiteán", 
+        "baineann"
+    ], 
+    "👪": [
+        "athair", 
+        "máthair", 
+        "clann", 
+        "páiste", 
+        "leanaí", 
+        "duine", 
+        "teaghlach"
+    ], 
+    "👫": [
+        "fear agus bean", 
+        "bean", 
+        "lánúin", 
+        "fear", 
+        "fear agus bean a bhfuil greim láimhe acu ar a chéile", 
+        "lámha le chéile"
+    ], 
+    "👬": [
+        "beirt fhear", 
+        "lánúin", 
+        "beirt fhear a bhfuil greim láimhe acu ar a chéile", 
+        "duine", 
+        "fear", 
+        "lámha le chéile"
+    ], 
+    "👭": [
+        "beirt bhan", 
+        "bean", 
+        "lánúin", 
+        "duine", 
+        "lámha le chéile", 
+        "beirt bhan a bhfuil greim láimhe acu ar a chéile"
+    ], 
+    "👮": [
+        "duine", 
+        "póilín", 
+        "garda", 
+        "póilíní"
+    ], 
+    "👯": [
+        "cailín", 
+        "daoine le chluasa coiníní ag ceiliúradh", 
+        "cluasa coinín", 
+        "daoine le cluasa coiníní orthu"
+    ], 
+    "👰": [
+        "bainis", 
+        "caille", 
+        "brídeog le caille uirthi", 
+        "pósadh", 
+        "brídeach"
+    ], 
+    "👱": [
+        "gruaig fhionn", 
+        "duine fionn", 
+        "fionn"
+    ], 
+    "👲": [
+        "hata", 
+        "fear le gua pi mao air", 
+        "fear le hata air"
+    ], 
+    "👳": [
+        "fear le turban air", 
+        "duine le turban air", 
+        "turban"
+    ], 
+    "👴": [
+        "seanfhear", 
+        "fear", 
+        "fear aosta"
+    ], 
+    "👵": [
+        "seanbhean", 
+        "bean", 
+        "bean aosta"
+    ], 
+    "👶": [
+        "duine", 
+        "babaí"
+    ], 
+    "👷": [
+        "oibrí tógála", 
+        "tógálaí"
+    ], 
+    "👸": [
+        "banphrionsa", 
+        "síscéal"
+    ], 
+    "👹": [
+        "fathach", 
+        "síscéal", 
+        "aghaidh", 
+        "arrachtach"
+    ], 
+    "👺": [
+        "síscéal", 
+        "gruagach", 
+        "aghaidh", 
+        "arrachtach"
+    ], 
+    "👻": [
+        "taibhse", 
+        "aghaidh", 
+        "síscéal"
+    ], 
+    "👼": [
+        "aingeal", 
+        "aingeal óg"
+    ], 
+    "👽": [
+        "eachtrán", 
+        "úfó", 
+        "eachtardhomhandach"
+    ], 
+    "👾": [
+        "úfó", 
+        "arracht eachtráin", 
+        "eachtrán arrachtaigh"
+    ], 
+    "👿": [
+        "diaibhlín", 
+        "straoiseog fheargach le hadharca"
+    ], 
+    "💀": [
+        "blaosc"
+    ], 
+    "💁": [
+        "deasc faisnéise", 
+        "duine lena lámh amach", 
+        "faisnéis"
+    ], 
+    "💂": [
+        "saighdiúir", 
+        "garda an rí", 
+        "garda"
+    ], 
+    "💃": [
+        "bean ag damhsa", 
+        "damhsóir", 
+        "damhsa"
+    ], 
+    "💄": [
+        "cosmaidí", 
+        "béaldath", 
+        "smideadh"
+    ], 
+    "💅": [
+        "vearnais ingne", 
+        "cosmaidí", 
+        "smideadh"
+    ], 
+    "💆": [
+        "suathaireacht", 
+        "duine ag fáil suathaireachta", 
+        "suathaireacht aghaidhe"
+    ], 
+    "💇": [
+        "gruaig", 
+        "gruagaire", 
+        "duine ag fáil bearradh gruaige", 
+        "bearradh gruaige"
+    ], 
+    "💈": [
+        "bearbóir", 
+        "cuaille bearbóra", 
+        "gruagaire", 
+        "pol an bhearbóra", 
+        "siopa an bhearbóra"
+    ], 
+    "💉": [
+        "leigheas", 
+        "instealladh", 
+        "dochtúir"
+    ], 
+    "💊": [
+        "piolla", 
+        "leigheas", 
+        "dochtúir"
+    ], 
+    "💋": [
+        "marc póg", 
+        "pógadh", 
+        "póg", 
+        "beola", 
+        "marc póige"
+    ], 
+    "💌": [
+        "litir ghrá", 
+        "croí", 
+        "litir", 
+        "grá"
+    ], 
+    "💍": [
+        "grá", 
+        "fáinne"
+    ], 
+    "💎": [
+        "seodra", 
+        "diamant", 
+        "grá", 
+        "seoid", 
+        "geamchloch", 
+        "cloch lómhar"
+    ], 
+    "💏": [
+        "pógadh", 
+        "póg", 
+        "grá"
+    ], 
+    "💐": [
+        "crobhaing bláthanna", 
+        "bláthanna", 
+        "grá"
+    ], 
+    "💑": [
+        "croí", 
+        "lánúin", 
+        "lanúin le croí", 
+        "grá"
+    ], 
+    "💒": [
+        "bainis", 
+        "séipéal", 
+        "croí", 
+        "pósadh", 
+        "grá"
+    ], 
+    "💓": [
+        "croí ag preabadh", 
+        "preabadh", 
+        "croí", 
+        "grá"
+    ], 
+    "💔": [
+        "brón", 
+        "croí", 
+        "croíbhriste"
+    ], 
+    "💕": [
+        "grá", 
+        "dhá chroí"
+    ], 
+    "💖": [
+        "croí", 
+        "croí ag lonrú", 
+        "grá"
+    ], 
+    "💗": [
+        "croí ag fás", 
+        "croí", 
+        "grá"
+    ], 
+    "💘": [
+        "saighead", 
+        "croí", 
+        "grá", 
+        "croí agus saighead"
+    ], 
+    "💙": [
+        "croí", 
+        "croí gorm"
+    ], 
+    "💚": [
+        "croí", 
+        "croí glas"
+    ], 
+    "💛": [
+        "croí", 
+        "croí buí"
+    ], 
+    "💜": [
+        "croí corcra", 
+        "croí"
+    ], 
+    "💝": [
+        "croí le ribín", 
+        "croí"
+    ], 
+    "💞": [
+        "croíthe", 
+        "croíthe ag rothlú"
+    ], 
+    "💟": [
+        "croí", 
+        "maisiúchán croí"
+    ], 
+    "💠": [
+        "diamant", 
+        "muileata", 
+        "muileata le ponc"
+    ], 
+    "💡": [
+        "bolgán solais", 
+        "bolgán", 
+        "leictreach", 
+        "solas"
+    ], 
+    "💢": [
+        "fearg", 
+        "siombal fearg", 
+        "feargach", 
+        "siombail feirge"
+    ], 
+    "💣": [
+        "pléascadh", 
+        "buama"
+    ], 
+    "💤": [
+        "codladh", 
+        "srannadh", 
+        "tuirseach"
+    ], 
+    "💥": [
+        "pléasc", 
+        "plab", 
+        "torann"
+    ], 
+    "💦": [
+        "uisce", 
+        "stealladh", 
+        "braonta", 
+        "broainíní allais"
+    ], 
+    "💧": [
+        "allas", 
+        "braon", 
+        "braoinín", 
+        "cur allais"
+    ], 
+    "💨": [
+        "sciuird", 
+        "tapa", 
+        "rith"
+    ], 
+    "💩": [
+        "cac", 
+        "carn caca"
+    ], 
+    "💪": [
+        "bícéips lúbtha", 
+        "matáin", 
+        "bícéips", 
+        "láidir"
+    ], 
+    "💫": [
+        "meadhrán", 
+        "réaltaí", 
+        "mearbhall"
+    ], 
+    "💬": [
+        "bolgán", 
+        "caint", 
+        "bolgán cainte"
+    ], 
+    "💭": [
+        "bolgán smaointe", 
+        "smaoineamh", 
+        "bolgán"
+    ], 
+    "💮": [
+        "bláth", 
+        "bláth bán"
+    ], 
+    "💯": [
+        "100", 
+        "scór iomlán", 
+        "100 pointe"
+    ], 
+    "💰": [
+        "mála airgid", 
+        "dollar", 
+        "airgead", 
+        "mála airgead"
+    ], 
+    "💱": [
+        "airgeadra", 
+        "airgead", 
+        "malartú", 
+        "malartán airgeadra"
+    ], 
+    "💲": [
+        "comhartha dollair trom", 
+        "comhartha dollair", 
+        "airgead", 
+        "dollar"
+    ], 
+    "💳": [
+        "cárta", 
+        "cárta creidmheasa"
+    ], 
+    "💴": [
+        "yen", 
+        "nóta yen", 
+        "nóta bainc", 
+        "airgead", 
+        "nóta bainc yen"
+    ], 
+    "💵": [
+        "dollar", 
+        "nóta bainc dollair", 
+        "nóta bainc", 
+        "airgead", 
+        "nóta dollair"
+    ], 
+    "💶": [
+        "nóta bainc euro", 
+        "nóta Euro", 
+        "nóta bainc", 
+        "airgead", 
+        "Euro"
+    ], 
+    "💷": [
+        "nóta bainc puint", 
+        "nóta bainc", 
+        "airgead", 
+        "nóta puint", 
+        "punt"
+    ], 
+    "💸": [
+        "airgead ag eitilt", 
+        "airgead", 
+        "eitilt", 
+        "dollar"
+    ], 
+    "💹": [
+        "dul i méid", 
+        "méadú", 
+        "margadh", 
+        "cairt", 
+        "margadh ag éirí", 
+        "margadh ag méadú le yen"
+    ], 
+    "💺": [
+        "cathaoir", 
+        "suíochán"
+    ], 
+    "💻": [
+        "PC", 
+        "ríomhaire", 
+        "ríomhaire glúine"
+    ], 
+    "💼": [
+        "mála cáipéisí"
+    ], 
+    "💽": [
+        "MD", 
+        "miondiosca", 
+        "diosca ríomhaire"
+    ], 
+    "💾": [
+        "diosca", 
+        "diosca bog", 
+        "bog"
+    ], 
+    "💿": [
+        "diosca", 
+        "DVD", 
+        "diosca optúil", 
+        "blu-ray"
+    ], 
+    "📀": [
+        "diosca", 
+        "DVD"
+    ], 
+    "📁": [
+        "comhad", 
+        "fillteán comhad", 
+        "fillteán"
+    ], 
+    "📂": [
+        "comhad", 
+        "oscailte", 
+        "fillteán", 
+        "fillteán oscailte"
+    ], 
+    "📃": [
+        "leathanach le choirnín", 
+        "leathanach le coirnín", 
+        "doiciméad", 
+        "leathanach craptha"
+    ], 
+    "📄": [
+        "doiciméad", 
+        "leathanach le aghaidh aníos", 
+        "leathanach iompaithe suas", 
+        "leathanach", 
+        "leathanach aghaidh suas", 
+        "aghaidh suas"
+    ], 
+    "📅": [
+        "féilire"
+    ], 
+    "📆": [
+        "féilire instróicthe", 
+        "féilire le stróiceadh"
+    ], 
+    "📇": [
+        "innéacs", 
+        "innéacs cártaí"
+    ], 
+    "📈": [
+        "cairt mhéadaitheach", 
+        "treocht mhéadaitheach", 
+        "graf"
+    ], 
+    "📉": [
+        "treocht síos", 
+        "cairt síos", 
+        "graf", 
+        "cairt íslitheach"
+    ], 
+    "📊": [
+        "barraghraf", 
+        "cairt", 
+        "barrachairt"
+    ], 
+    "📋": [
+        "fáisc-chlár", 
+        "gearrthaisce"
+    ], 
+    "📌": [
+        "tacóid ordóige"
+    ], 
+    "📍": [
+        "tacóid chruinn"
+    ], 
+    "📎": [
+        "fáiscín", 
+        "fáiscín páipéir"
+    ], 
+    "📏": [
+        "rialóir díreach", 
+        "rialóir"
+    ], 
+    "📐": [
+        "rialóir triantánach"
+    ], 
+    "📑": [
+        "táib", 
+        "leabharmharcanna", 
+        "clibeanna leabharmhairc", 
+        "leabharmharc"
+    ], 
+    "📒": [
+        "leabhar nótaí", 
+        "mórleabhar"
+    ], 
+    "📓": [
+        "leabhar nótaí"
+    ], 
+    "📔": [
+        "leabhar nótaí maisithe"
+    ], 
+    "📕": [
+        "leabhar", 
+        "leabhar dúnta"
+    ], 
+    "📖": [
+        "leabhar", 
+        "leabhar oscailte"
+    ], 
+    "📗": [
+        "leabhar glas"
+    ], 
+    "📘": [
+        "leabhar gorm"
+    ], 
+    "📙": [
+        "leabhar oráiste"
+    ], 
+    "📚": [
+        "leabhair"
+    ], 
+    "📛": [
+        "ainm", 
+        "suaitheantas ainm"
+    ], 
+    "📜": [
+        "scrolla páipéir", 
+        "scrolla"
+    ], 
+    "📝": [
+        "meabhrán", 
+        "leabhar meabhrán", 
+        "cumarsáid"
+    ], 
+    "📞": [
+        "fón", 
+        "teileafón", 
+        "guthán", 
+        "cumarsáid"
+    ], 
+    "📟": [
+        "glaoire", 
+        "cumarsáid"
+    ], 
+    "📠": [
+        "facs", 
+        "meaisín facsála", 
+        "meaisín facs"
+    ], 
+    "📡": [
+        "aeróg shatailíte", 
+        "aeróg satailíte", 
+        "aeróg", 
+        "mias", 
+        "mias satailíte", 
+        "satailít"
+    ], 
+    "📢": [
+        "callaire", 
+        "callaire láimhe", 
+        "fógairt phoiblí"
+    ], 
+    "📣": [
+        "meigeafón"
+    ], 
+    "📤": [
+        "post amach", 
+        "post seolta", 
+        "amach", 
+        "seolta", 
+        "bosca", 
+        "trae an bhosca amach"
+    ], 
+    "📥": [
+        "isteach", 
+        "bosca isteach", 
+        "faighte", 
+        "post", 
+        "trae an bhosca isteach"
+    ], 
+    "📦": [
+        "pacáiste", 
+        "bosca", 
+        "beart"
+    ], 
+    "📧": [
+        "post", 
+        "ríomhphost", 
+        "clúdach litreach"
+    ], 
+    "📨": [
+        "isteach", 
+        "litir", 
+        "post isteach", 
+        "post faighte", 
+        "ríomhphost", 
+        "clúdach litreach"
+    ], 
+    "📩": [
+        "litir", 
+        "amach", 
+        "imchlúdach le saighead", 
+        "clúdach litreach le saighead", 
+        "seolta", 
+        "ríomhphost", 
+        "post", 
+        "clúdach litreach"
+    ], 
+    "📪": [
+        "bosca poist dúnta le bhratach íslithe", 
+        "bosca poist", 
+        "dúnta", 
+        "bosca poist dúnta le bratach íslithe", 
+        "post", 
+        "bosca poist dúnta"
+    ], 
+    "📫": [
+        "bosca poist", 
+        "bosca poist dúnta le bratach ardaithe", 
+        "bosca poist dúnta le bhratach ardaithe", 
+        "dúnta", 
+        "post", 
+        "bosca poist dúnta"
+    ], 
+    "📬": [
+        "oscailte", 
+        "bosca poist", 
+        "bosca poist oscailte le bhratach ardaithe", 
+        "post", 
+        "bosca poist oscailte le bratach ardaithe", 
+        "bosca poist oscailte"
+    ], 
+    "📭": [
+        "oscailte", 
+        "bosca poist", 
+        "bosca poist oscailte le bratach íslithe", 
+        "bosca poist oscailte le bhratach íslithe", 
+        "post", 
+        "bosca poist oscailte"
+    ], 
+    "📮": [
+        "bosca poist"
+    ], 
+    "📯": [
+        "corn", 
+        "corn poist"
+    ], 
+    "📰": [
+        "nuachtán", 
+        "nuacht", 
+        "páipéar nuachta"
+    ], 
+    "📱": [
+        "fón", 
+        "fón póca", 
+        "guthán"
+    ], 
+    "📲": [
+        "guthán le saighead", 
+        "fón póca", 
+        "fón póca le saighead", 
+        "cuir glaoch"
+    ], 
+    "📳": [
+        "fón", 
+        "fón póca", 
+        "mód creatha"
+    ], 
+    "📴": [
+        "fón casta as", 
+        "fón póca", 
+        "casta"
+    ], 
+    "📵": [
+        "cosc ar fhóin phóca"
+    ], 
+    "📶": [
+        "comharthaí fóin", 
+        "aeróg le barraí", 
+        "láidreacht", 
+        "aeróg"
+    ], 
+    "📷": [
+        "ceamara"
+    ], 
+    "📸": [
+        "físeán", 
+        "ceamara", 
+        "ceamara le splanc", 
+        "splanc"
+    ], 
+    "📹": [
+        "físcheamara"
+    ], 
+    "📺": [
+        "TV", 
+        "teilifís"
+    ], 
+    "📻": [
+        "raidió"
+    ], 
+    "📼": [
+        "físeán", 
+        "fístéip", 
+        "téip"
+    ], 
+    "📿": [
+        "paidrín urnaí", 
+        "urnaí", 
+        "muince", 
+        "paidrín", 
+        "creideamh", 
+        "éadaí"
+    ], 
+    "🔀": [
+        "saigheada deasa trasnaithe", 
+        "saigheada trasnaithe", 
+        "saigheada", 
+        "saighead traiceanna ar suaitheadh"
+    ], 
+    "🔁": [
+        "cnáipe athdhéan", 
+        "saigheada deisil", 
+        "saigheada", 
+        "deiseal", 
+        "cnaipe athsheanma"
+    ], 
+    "🔂": [
+        "saigheada deisil le huimhir 1", 
+        "deiseal", 
+        "cnáipe athdhéan amháin", 
+        "1", 
+        "saigheada deisil", 
+        "saigheada", 
+        "cnaipe athsheanma uair amháin"
+    ], 
+    "🔃": [
+        "ciorcal saighead", 
+        "athlódáil", 
+        "saigheada ingéaracha ar deiseal", 
+        "saigheada", 
+        "saigheada deisil ingearacha"
+    ], 
+    "🔄": [
+        "cnaipe saighead tuathail", 
+        "saigheada tuathail", 
+        "tuathal", 
+        "saigheada"
+    ], 
+    "🔅": [
+        "cnaipe íslithe", 
+        "gile íseal"
+    ], 
+    "🔆": [
+        "gile ard", 
+        "cnaipe gile"
+    ], 
+    "🔇": [
+        "callaire maothaithe", 
+        "callaire balbhaithe", 
+        "callaire ar ceal", 
+        "balbh"
+    ], 
+    "🔈": [
+        "callaire", 
+        "callaire íslithe"
+    ], 
+    "🔉": [
+        "callaire fuaime ísle"
+    ], 
+    "🔊": [
+        "callaire fuaime airde"
+    ], 
+    "🔋": [
+        "ceallra"
+    ], 
+    "🔌": [
+        "pluga leictreach"
+    ], 
+    "🔍": [
+        "gloine formhéadúcháin ar chlé"
+    ], 
+    "🔎": [
+        "gloine formhéadúcháin ar dheis"
+    ], 
+    "🔏": [
+        "glasáilte le peann", 
+        "glas agus peann"
+    ], 
+    "🔐": [
+        "glasáilte le heochair", 
+        "glas dúnta agus peann"
+    ], 
+    "🔑": [
+        "eochair"
+    ], 
+    "🔒": [
+        "glas", 
+        "glasáilte"
+    ], 
+    "🔓": [
+        "neamhghlasáilte", 
+        "glas oscailte"
+    ], 
+    "🔔": [
+        "cloigín"
+    ], 
+    "🔕": [
+        "cloigín ar ceal"
+    ], 
+    "🔖": [
+        "leabharmharc"
+    ], 
+    "🔗": [
+        "nasc"
+    ], 
+    "🔘": [
+        "cnaipe raidió"
+    ], 
+    "🔙": [
+        "saighead SIAR", 
+        "siar agus saighead ar chlé"
+    ], 
+    "🔚": [
+        "deireadh agus saighead ar chlé", 
+        "saighead DEIRIDH"
+    ], 
+    "🔛": [
+        "saighead AR SIÚL!", 
+        "ar siúl agus comhartha uaillbhreasa agus saighead ar dheis/ar chlé lastuas"
+    ], 
+    "🔜": [
+        "go luath agus saighead ar dheis", 
+        "saighead GO LUATH"
+    ], 
+    "🔝": [
+        "barr agus saighead thuas", 
+        "saighead BHAIRR"
+    ], 
+    "🔞": [
+        "os cionn 18"
+    ], 
+    "🔟": [
+        "caipín eochrach", 
+        "caipín eochrach: 10"
+    ], 
+    "🔠": [
+        "ceannlitreacha Laidineacha ionchuir", 
+        "ceannlitreacha Laidineacha"
+    ], 
+    "🔡": [
+        "mionlitreacha Laidineacha", 
+        "mionlitreacha Laidineacha ionchuir"
+    ], 
+    "🔢": [
+        "uimhreacha ionchuir", 
+        "uimhreacha"
+    ], 
+    "🔣": [
+        "comharthaí", 
+        "siombailí ionchuir", 
+        "siombailí"
+    ], 
+    "🔤": [
+        "litreacha Laidineacha", 
+        "litreacha Laidineacha ionchuir"
+    ], 
+    "🔥": [
+        "tine", 
+        "dóiteán"
+    ], 
+    "🔦": [
+        "tóirse", 
+        "lampa leictreach"
+    ], 
+    "🔧": [
+        "rinse"
+    ], 
+    "🔨": [
+        "casúr"
+    ], 
+    "🔩": [
+        "cnó agus bolta"
+    ], 
+    "🔪": [
+        "scian"
+    ], 
+    "🔫": [
+        "gunna", 
+        "piostal"
+    ], 
+    "🔬": [
+        "micreascóp"
+    ], 
+    "🔭": [
+        "teileascóp"
+    ], 
+    "🔮": [
+        "cruinneog chriostail"
+    ], 
+    "🔯": [
+        "réalta sé-rinneach agus ponc sa lár", 
+        "réalta shé-rinneach le ponc sa lár"
+    ], 
+    "🔰": [
+        "tosaitheoir", 
+        "siombal Sheapánach le haghaidh tosaitheoirí"
+    ], 
+    "🔱": [
+        "comhartha trírinne", 
+        "trírinn"
+    ], 
+    "🔲": [
+        "cearnóg dhubh"
+    ], 
+    "🔳": [
+        "cearnóg bhán"
+    ], 
+    "🔴": [
+        "geoiméadrach", 
+        "ciorcal", 
+        "ciorcal dearg", 
+        "dearg"
+    ], 
+    "🔵": [
+        "ciorcal gorm", 
+        "ciorcal mór gorm"
+    ], 
+    "🔶": [
+        "muileata mór oráiste"
+    ], 
+    "🔷": [
+        "muileata mór gorm"
+    ], 
+    "🔸": [
+        "muileata beag oráiste"
+    ], 
+    "🔹": [
+        "muileata beag gorm"
+    ], 
+    "🔺": [
+        "triantán dearg suas"
+    ], 
+    "🔻": [
+        "triantán dearg síos"
+    ], 
+    "🔼": [
+        "triantán beag dearg suas", 
+        "cnaipe suas"
+    ], 
+    "🔽": [
+        "triantán beag dearg síos", 
+        "cnaipe síos"
+    ], 
+    "🕋": [
+        "cába", 
+        "moslamach", 
+        "ioslam", 
+        "creideamh"
+    ], 
+    "🕌": [
+        "moslamach", 
+        "ioslam", 
+        "mosc", 
+        "creideamh"
+    ], 
+    "🕍": [
+        "teampall", 
+        "giúdach", 
+        "sionagóg", 
+        "creideamh"
+    ], 
+    "🕎": [
+        "coinnleoir craobhach", 
+        "meanóra", 
+        "coinnleoir", 
+        "creideamh"
+    ], 
+    "🕐": [
+        "1 a chlog", 
+        "1 an chloig", 
+        "1:00"
+    ], 
+    "🕑": [
+        "2 an chloig", 
+        "2:00", 
+        "2 a chlog"
+    ], 
+    "🕒": [
+        "3 an chloig", 
+        "3 a chlog", 
+        "3:00"
+    ], 
+    "🕓": [
+        "4:00", 
+        "4 a chlog", 
+        "4 an chloig"
+    ], 
+    "🕔": [
+        "5:00", 
+        "5 a chlog", 
+        "5 an chloig"
+    ], 
+    "🕕": [
+        "6:00", 
+        "6 a chlog", 
+        "6 an chloig"
+    ], 
+    "🕖": [
+        "7 a chlog", 
+        "7:00", 
+        "7 an chloig"
+    ], 
+    "🕗": [
+        "8 a chlog", 
+        "8 an chloig", 
+        "8:00"
+    ], 
+    "🕘": [
+        "9 a chlog", 
+        "9 an chloig", 
+        "9:00"
+    ], 
+    "🕙": [
+        "10:00", 
+        "10 a chlog", 
+        "10 an chloig"
+    ], 
+    "🕚": [
+        "11:00", 
+        "11 a chlog", 
+        "11 an chloig"
+    ], 
+    "🕛": [
+        "12:00", 
+        "12 a chlog", 
+        "12 an chloig"
+    ], 
+    "🕜": [
+        "leathuair tar éis a haon", 
+        "1:30"
+    ], 
+    "🕝": [
+        "2:30", 
+        "leathuair tar éis a dó"
+    ], 
+    "🕞": [
+        "3:30", 
+        "leathuair tar éis a trí"
+    ], 
+    "🕟": [
+        "leathuair tar éis a ceathair", 
+        "4:30"
+    ], 
+    "🕠": [
+        "5:30", 
+        "leathuair tar éis a cúig"
+    ], 
+    "🕡": [
+        "leathuair tar éis a sé", 
+        "6:30"
+    ], 
+    "🕢": [
+        "leathuair tar éis a seacht", 
+        "7:30"
+    ], 
+    "🕣": [
+        "8:30", 
+        "leathuair tar éis a hocht"
+    ], 
+    "🕤": [
+        "9:30", 
+        "leathuair tar éis a naoi"
+    ], 
+    "🕥": [
+        "10:30", 
+        "leathuair tar éis a deich"
+    ], 
+    "🕦": [
+        "11:30", 
+        "leathuair tar éis a haon déag"
+    ], 
+    "🕧": [
+        "leathuair tar éis a dó dhéag", 
+        "12:30"
+    ], 
+    "🕺": [
+        "fear ag damhsa", 
+        "damhsa", 
+        "rince"
+    ], 
+    "🖕": [
+        "méar láir", 
+        "corp", 
+        "méar", 
+        "lámh"
+    ], 
+    "🖖": [
+        "vulcan", 
+        "cuirtéis Bholcáin", 
+        "spock", 
+        "corp", 
+        "cúirtéis vulcan", 
+        "méar", 
+        "lámh"
+    ], 
+    "🖤": [
+        "dona", 
+        "gránna", 
+        "croí dubh", 
+        "dubh"
+    ], 
+    "🗻": [
+        "Sliabh Fuji"
+    ], 
+    "🗼": [
+        "Túr Thóiceo"
+    ], 
+    "🗽": [
+        "Dealbh na Saoirse"
+    ], 
+    "🗾": [
+        "an tSeapáin", 
+        "léarscáil na Seapáine"
+    ], 
+    "🗿": [
+        "dealbh Oileán na Cásca", 
+        "Moyai"
+    ], 
+    "😀": [
+        "straoiseag gáire", 
+        "straoiseog ghealgháireach", 
+        "gáire", 
+        "meangadh"
+    ], 
+    "😁": [
+        "straoiseog gháire le súile ag déanamh miongháire", 
+        "súile ag gáire", 
+        "gáire", 
+        "straoiseag gáire le súile ag déanamh miongháire", 
+        "meangadh"
+    ], 
+    "😂": [
+        "straoiseog le deora áthais", 
+        "deora áthais"
+    ], 
+    "😃": [
+        "straoiseog ag gáire le súile móra", 
+        "béal ar oscailt", 
+        "meangadh gáire"
+    ], 
+    "😄": [
+        "béal ar oscailt", 
+        "straoiseog ag gáire le bhéal oscailte agus súile ag déanamh miongháire", 
+        "straoiseog ag gáire le súile ag déanamh miongháire", 
+        "súile ag gáire", 
+        "meangadh gáire"
+    ], 
+    "😅": [
+        "béal ar oscailt", 
+        "fuarallas", 
+        "straoiseog ag gáire le fuarallas", 
+        "meangadh gáire"
+    ], 
+    "😆": [
+        "súile dúnta go dlúth", 
+        "béal ar oscailt", 
+        "straoiseog ag gáire le súile dúnta", 
+        "meangadh gáire"
+    ], 
+    "😇": [
+        "straoiseog ag gáire le luan", 
+        "meangadh gáire", 
+        "fáinne solais"
+    ], 
+    "😈": [
+        "meangadh gáire", 
+        "straoiseog ag gáire le hadharca", 
+        "adharca"
+    ], 
+    "😉": [
+        "straoiseog ag caochadh", 
+        "caochadh", 
+        "caochadh súile"
+    ], 
+    "😊": [
+        "meangadh gáire", 
+        "straoiseog aoibhiúil le súile ag déanamh miongháire", 
+        "súile ag gáire", 
+        "straoiseog ag gáire le súile ag déanamh miongháire"
+    ], 
+    "😋": [
+        "meangadh gáire", 
+        "aghaidh ag baint taitnimh as bia blasta", 
+        "straoiseog ag baint taitneamh as bia blasta", 
+        "blasta", 
+        "bia"
+    ], 
+    "😌": [
+        "straoiseog a bhfuil faoiseamh uirthi", 
+        "suaimhneas intinne", 
+        "faoiseamh", 
+        "faoiseamh ar straoiseog"
+    ], 
+    "😍": [
+        "meangadh gáire", 
+        "straoiseog ag gáire le croíthe ina shúile", 
+        "súile i bhfoirm croí", 
+        "staoiseog ag gáire le croíthe ina súile"
+    ], 
+    "😎": [
+        "meangadh gáire", 
+        "straoiseog ag gáire le spéaclaí gréine", 
+        "spéaclaí gréine"
+    ], 
+    "😏": [
+        "siotgháire", 
+        "straoiseog ag déanamh seitgháire"
+    ], 
+    "😐": [
+        "aghaidh neodrach", 
+        "neodrach", 
+        "straoiseog neodrach"
+    ], 
+    "😑": [
+        "straoiseog le haghaidh fholamh", 
+        "féachaint folamh", 
+        "gnúis dhúrúnta", 
+        "féachaint fholamh"
+    ], 
+    "😒": [
+        "straoiseog mhíshásta", 
+        "míshásta", 
+        "aghaidh mhíshásta"
+    ], 
+    "😓": [
+        "fuarallas", 
+        "straoiseog in ísle brí le fuarallas", 
+        "imní"
+    ], 
+    "😔": [
+        "straoiseog mhachnamhach", 
+        "machnamhach", 
+        "smaointeach"
+    ], 
+    "😕": [
+        "straoiseog mhearaithe", 
+        "trína chéile", 
+        "measctha"
+    ], 
+    "😖": [
+        "straoiseog le mearbhall uirthi", 
+        "mearbhall"
+    ], 
+    "😗": [
+        "pógadh", 
+        "póg", 
+        "straoiseog ag pógadh"
+    ], 
+    "😘": [
+        "straoiseog ag caitheamh póg", 
+        "séid póg", 
+        "póg", 
+        "straoiseog ag séideadh póige"
+    ], 
+    "😙": [
+        "pógadh", 
+        "súile ag gáire", 
+        "póg", 
+        "straoiseog ag pógadh le súile ag déanamh miongháire"
+    ], 
+    "😚": [
+        "pógadh", 
+        "straoiseog ag pógadh le súile dúnta", 
+        "póg", 
+        "súile dúnta"
+    ], 
+    "😛": [
+        "teanga", 
+        "straoiseog le teanga amach", 
+        "teanga ag gobadh amach", 
+        "teanga churtha amach"
+    ], 
+    "😜": [
+        "straoiseog ag caochadh le teanga amach", 
+        "caochadh", 
+        "teanga ag gobadh amach", 
+        "straoiseog le teanga amach agus súil á caochadh", 
+        "teanga churtha amach"
+    ], 
+    "😝": [
+        "súile dúnta go dlúth", 
+        "straoiseog le teanga amach agus súile dúnta", 
+        "teanga ag gobadh amach", 
+        "teanga churtha amach"
+    ], 
+    "😞": [
+        "straoiseog dhíomách", 
+        "díomá"
+    ], 
+    "😟": [
+        "straoiseog imníoch", 
+        "imní"
+    ], 
+    "😠": [
+        "fearg", 
+        "straoiseog fheargach"
+    ], 
+    "😡": [
+        "straoiseog le puisín uirthi", 
+        "straoiseog pus", 
+        "smut", 
+        "pus"
+    ], 
+    "😢": [
+        "gol", 
+        "caoineadh", 
+        "deora", 
+        "straoiseog chaointeach"
+    ], 
+    "😣": [
+        "straoiseog dhíocasach", 
+        "buanseasmhach", 
+        "leanaim orm", 
+        "straoiseog bhuanseasmhachta"
+    ], 
+    "😤": [
+        "mórtas", 
+        "bua", 
+        "straoiseog le gal ón tsrón"
+    ], 
+    "😥": [
+        "straoiseog a bhfuil díoma agus faoiseamh uirthi", 
+        "straoiseog dhíomá", 
+        "suaimhneas intinne", 
+        "faoiseamh", 
+        "díomá"
+    ], 
+    "😦": [
+        "béal ar oscailt", 
+        "straoiseag ghruama le béal oscailte", 
+        "aghaidh", 
+        "grainc", 
+        "gruama"
+    ], 
+    "😧": [
+        "straoiseog chráite", 
+        "cráite", 
+        "ciaptha"
+    ], 
+    "😨": [
+        "straoiseog eaglach", 
+        "eagla", 
+        "faitíos"
+    ], 
+    "😩": [
+        "tuirseach", 
+        "straoiseog thraochta", 
+        "tuirse"
+    ], 
+    "😪": [
+        "codladh", 
+        "tuirseach", 
+        "codlatach", 
+        "straoiseog chodlatach", 
+        "tuirse"
+    ], 
+    "😫": [
+        "tuirseach", 
+        "straoiseog thuirseach", 
+        "tuirse"
+    ], 
+    "😬": [
+        "strabhas", 
+        "strainc", 
+        "straoiseog ghrainceach", 
+        "straoiseog le cár uirthi", 
+        "grainc"
+    ], 
+    "😭": [
+        "gol go hard", 
+        "caoineadh go hard", 
+        "straoiseog chaointeach os ard", 
+        "deora", 
+        "straoiseog ag caoineadh os ard"
+    ], 
+    "😮": [
+        "béal ar oscailt", 
+        "straoiseog le béal oscailte"
+    ], 
+    "😯": [
+        "iontas", 
+        "straoiseog thostach", 
+        "ionadh", 
+        "straoiseog ina tost"
+    ], 
+    "😰": [
+        "brostaigh", 
+        "allas", 
+        "faoi dheifir", 
+        "fuarallas", 
+        "straoiseog fhaiteach le hallas", 
+        "deifir"
+    ], 
+    "😱": [
+        "straoiseog ag béiceach amach le heagla", 
+        "scread", 
+        "eagla", 
+        "faitíos", 
+        "béic"
+    ], 
+    "😲": [
+        "iontas", 
+        "ionadh", 
+        "straoiseog iontais"
+    ], 
+    "😳": [
+        "aghaidh lasta", 
+        "mearbhall", 
+        "straoiseog dhearg", 
+        "aghaidh dhearg"
+    ], 
+    "😴": [
+        "codladh", 
+        "straoiseog ina codladh", 
+        "ina chodladh"
+    ], 
+    "😵": [
+        "míobhánach", 
+        "meadhránach", 
+        "straoiseog mheadhránach"
+    ], 
+    "😶": [
+        "straoiseog gan bhéal", 
+        "aghaidh gan bhéal"
+    ], 
+    "😷": [
+        "tinn", 
+        "straoiseog le masc leighis", 
+        "masc máinliachta", 
+        "masc", 
+        "aghaidh agus masc uirthi"
+    ], 
+    "😸": [
+        "cat ag meangadh gáire", 
+        "fiacla", 
+        "straoiseog chait le shúile ag déanamh miongháire", 
+        "straoiseog cait le súile ag déanamh miongháire", 
+        "cat ag gáire"
+    ], 
+    "😹": [
+        "straoiseog chait le deora áthais", 
+        "deora áthais", 
+        "áthasach", 
+        "áthas", 
+        "cat", 
+        "straoiseog cait le deora áthais"
+    ], 
+    "😺": [
+        "cat ag meangadh gáire", 
+        "béal ar oscailt", 
+        "straoiseog cait le béal oscailte", 
+        "straoiseog chait le bhéal oscailte", 
+        "cat ag gáire"
+    ], 
+    "😻": [
+        "croíthe", 
+        "súile i bhfoirm croí", 
+        "cat ag meangadh gáire", 
+        "straoiseog chait le chroíthe ina shúile", 
+        "straoiseog cait le croíthe ina súile", 
+        "cat ag gáire"
+    ], 
+    "😼": [
+        "meangadh gáire", 
+        "straoiseog cait le miongháire dóite", 
+        "gáire beag searbh", 
+        "strainc", 
+        "cat"
+    ], 
+    "😽": [
+        "cat ag pógadh", 
+        "pógadh", 
+        "póg", 
+        "straoiseog cait ag pógadh"
+    ], 
+    "😾": [
+        "straoiseog cait le puisín uirthi", 
+        "cat agus pus air", 
+        "cat"
+    ], 
+    "😿": [
+        "cat ag gol", 
+        "straoiseog cait ag gol", 
+        "cat ag caoineadh", 
+        "cat"
+    ], 
+    "🙀": [
+        "cat tuirseach", 
+        "straoiseog cait thuirseach", 
+        "go bhfóire Dia orainn"
+    ], 
+    "🙁": [
+        "aghaidh mhearghrainceach", 
+        "aghaidh", 
+        "grainc", 
+        "straoiseog le mionghrainc uirthi"
+    ], 
+    "🙂": [
+        "straoiseog ag miongháire de bheagán", 
+        "straoiseog ag meargháire", 
+        "aghaidh", 
+        "gáire"
+    ], 
+    "🙃": [
+        "straoiseog bun os cionn", 
+        "bonn os cionn", 
+        "aghaidh", 
+        "aghaidh bonn os cionn"
+    ], 
+    "🙄": [
+        "súile", 
+        "straoiseog le súile ag casadh", 
+        "á rolladh", 
+        "aghaidh", 
+        "aghaidh le súile suas chun na bhflaitheas"
+    ], 
+    "🙅": [
+        "duine ag comharthú NÍL", 
+        "níl cead", 
+        "cosc", 
+        "bac"
+    ], 
+    "🙆": [
+        "gach rud i gceart", 
+        "ceart go leor", 
+        "OK", 
+        "duine à dhéanamh OK", 
+        "duine ag comharthú OK"
+    ], 
+    "🙇": [
+        "brón", 
+        "duine ag umhlú", 
+        "aiféala", 
+        "tá brón orm", 
+        "gabh mo leithscéal"
+    ], 
+    "🙈": [
+        "moncaí nach bhfeiceann aon olc", 
+        "moncaí", 
+        "ná feic aon olc"
+    ], 
+    "🙉": [
+        "ná clois aon olc", 
+        "moncaí", 
+        "moncaí nach gcloiseann aon olc"
+    ], 
+    "🙊": [
+        "moncaí nach ndeir aon olc", 
+        "moncaí", 
+        "moncaí nach labhraíonn faoin olc", 
+        "ná labhair faoin olc"
+    ], 
+    "🙋": [
+        "sona", 
+        "lámh á hardú", 
+        "duine ag ardú láimhe", 
+        "duine lena lámh suas", 
+        "gotha", 
+        "duine"
+    ], 
+    "🙌": [
+        "hurá", 
+        "lámha ardaithe", 
+        "na lámha", 
+        "ardú lámha", 
+        "ceiliúradh"
+    ], 
+    "🙍": [
+        "duine", 
+        "gruama", 
+        "gotha", 
+        "duine le púic air"
+    ], 
+    "🙎": [
+        "smut", 
+        "duine le phus orthu", 
+        "duine le puisín air", 
+        "gotha", 
+        "duine pusach", 
+        "duine", 
+        "pus"
+    ], 
+    "🙏": [
+        "guí", 
+        "ag guí", 
+        "paidir", 
+        "gotha", 
+        "lámh", 
+        "lámha le chéile"
+    ], 
+    "🚀": [
+        "roicéad", 
+        "feithicil"
+    ], 
+    "🚁": [
+        "héileacaptar", 
+        "feithicil", 
+        "héileacoptar"
+    ], 
+    "🚂": [
+        "galinneall", 
+        "inneall traenach", 
+        "inneall", 
+        "feithicil", 
+        "traein"
+    ], 
+    "🚃": [
+        "traein", 
+        "tram", 
+        "carr ráille", 
+        "iarnród", 
+        "carráiste iarnróid", 
+        "leictreach", 
+        "feithicil"
+    ], 
+    "🚄": [
+        "traein ardluais", 
+        "shinkansen", 
+        "feithicil", 
+        "traein"
+    ], 
+    "🚅": [
+        "traein", 
+        "traein philéir", 
+        "traein philéir ardluais", 
+        "shinkansen", 
+        "shinkansen piléir", 
+        "feithicil", 
+        "traein ardluais"
+    ], 
+    "🚆": [
+        "iarnród", 
+        "feithicil", 
+        "traein"
+    ], 
+    "🚇": [
+        "meitreo", 
+        "traein faoi thalamh", 
+        "feithicil"
+    ], 
+    "🚈": [
+        "feithicil", 
+        "éadrom. iarnród", 
+        "iarnród éadrom"
+    ], 
+    "🚉": [
+        "stáisiún traenach", 
+        "stáisiún", 
+        "traein"
+    ], 
+    "🚊": [
+        "tram", 
+        "feithicil"
+    ], 
+    "🚋": [
+        "carr", 
+        "tram", 
+        "carráiste tram", 
+        "feithicil"
+    ], 
+    "🚌": [
+        "bus", 
+        "feithicil", 
+        "bus buí"
+    ], 
+    "🚍": [
+        "bus", 
+        "ag teacht", 
+        "feithicil", 
+        "bus atá ag teacht"
+    ], 
+    "🚎": [
+        "bus", 
+        "bus tralaí", 
+        "feithicil", 
+        "tralaí"
+    ], 
+    "🚏": [
+        "stad bus", 
+        "bus", 
+        "stad"
+    ], 
+    "🚐": [
+        "bus", 
+        "feithicil", 
+        "mionbhus"
+    ], 
+    "🚑": [
+        "otharcharr", 
+        "feithicil"
+    ], 
+    "🚒": [
+        "inneall dóiteáin", 
+        "tine", 
+        "inneall", 
+        "dóiteán", 
+        "feithicil"
+    ], 
+    "🚓": [
+        "carr gardaí", 
+        "gardaí", 
+        "feithicil", 
+        "carr patróil", 
+        "póilíní"
+    ], 
+    "🚔": [
+        "carr gardaí ag teacht", 
+        "carr gardaí", 
+        "gardaí", 
+        "feithicil", 
+        "póilíní"
+    ], 
+    "🚕": [
+        "feithicil", 
+        "tacsaí"
+    ], 
+    "🚖": [
+        "tacsaí ag teacht", 
+        "feithicil", 
+        "tacsaí"
+    ], 
+    "🚗": [
+        "carr", 
+        "feithicil", 
+        "gluaisteán"
+    ], 
+    "🚘": [
+        "gluaisteán", 
+        "carr", 
+        "carr ag teacht", 
+        "ag teacht", 
+        "gluaisteán atá ag teacht", 
+        "gluaisteán ag teacht", 
+        "feithicil"
+    ], 
+    "🚙": [
+        "carr", 
+        "SUV", 
+        "feithicil áineasa", 
+        "feithicil"
+    ], 
+    "🚚": [
+        "trucail seachadta", 
+        "trucail", 
+        "veain", 
+        "feithicil"
+    ], 
+    "🚛": [
+        "trucail", 
+        "leoraí altach", 
+        "leantóir", 
+        "leoraí", 
+        "leath", 
+        "feithicil"
+    ], 
+    "🚜": [
+        "tarracóir", 
+        "feithicil"
+    ], 
+    "🚝": [
+        "aonráille", 
+        "feithicil"
+    ], 
+    "🚞": [
+        "carr", 
+        "iarnród", 
+        "sliabh", 
+        "carr cábla sléibhe", 
+        "iarnród sléibhe", 
+        "feithicil"
+    ], 
+    "🚟": [
+        "iarnród crochta", 
+        "feithicil"
+    ], 
+    "🚠": [
+        "cáblabhealach sléibhe", 
+        "carr", 
+        "sliabh", 
+        "cábla-bhealach sléibhe", 
+        "cábla", 
+        "carr cábla sléibhe", 
+        "feithicil"
+    ], 
+    "🚡": [
+        "trambhealach", 
+        "trambhealach aerga", 
+        "carr cábla", 
+        "aerga", 
+        "téadbhealach", 
+        "gandala", 
+        "feithicil"
+    ], 
+    "🚢": [
+        "long", 
+        "feithicil"
+    ], 
+    "🚣": [
+        "bád rámhaíochta", 
+        "bád", 
+        "duine ag rámhaíocht báid", 
+        "feithicil"
+    ], 
+    "🚤": [
+        "bád", 
+        "luasbhád", 
+        "feithicil"
+    ], 
+    "🚥": [
+        "soilse tráchta", 
+        "soilse tráchta cothrománach", 
+        "comharthaí tráchta", 
+        "solas", 
+        "soilse tráchta cothrománacha", 
+        "trácht"
+    ], 
+    "🚦": [
+        "soilse tráchta", 
+        "comharthaí tráchta", 
+        "soilse tráchta ceartingearach", 
+        "soilse tráchta ceartingearacha", 
+        "solas", 
+        "soilse tráchta ingearacha", 
+        "trácht"
+    ], 
+    "🚧": [
+        "suíomh tógála", 
+        "á thógáil", 
+        "comhartha", 
+        "comhartha tógála", 
+        "tógáil"
+    ], 
+    "🚨": [
+        "carr gardaí", 
+        "solas gardaí", 
+        "solas rothlach", 
+        "rabhachán gardaí"
+    ], 
+    "🚩": [
+        "bratach thriantánach", 
+        "bratach chuaille"
+    ], 
+    "🚪": [
+        "doras"
+    ], 
+    "🚫": [
+        "Níl cead isteach", 
+        "cosc ar dul isteach", 
+        "Cosc ar iontráil", 
+        "comhartha", 
+        "cosc ar dhul isteach"
+    ], 
+    "🚬": [
+        "comhartha", 
+        "cead tobac a chaitheamh", 
+        "caitheamh tobac", 
+        "toitín"
+    ], 
+    "🚭": [
+        "cosc ar thobac", 
+        "comhartha"
+    ], 
+    "🚮": [
+        "comhartha", 
+        "caith bruscar sa bhosca brúscair", 
+        "comhartha bosca bruscair", 
+        "bosca bruscair"
+    ], 
+    "🚯": [
+        "cosc ar bhruscar", 
+        "ná caitear bruscar", 
+        "comhartha"
+    ], 
+    "🚰": [
+        "uisce inólta", 
+        "comhartha uisce óil", 
+        "uisce óil"
+    ], 
+    "🚱": [
+        "uisce", 
+        "uisce nach bhfuil le hól", 
+        "nach bhfuil le hól"
+    ], 
+    "🚲": [
+        "rothar glas", 
+        "bus", 
+        "rothar", 
+        "feithicil"
+    ], 
+    "🚳": [
+        "cosc ar rothair", 
+        "rothar", 
+        "feithicil", 
+        "cosc ar rothar"
+    ], 
+    "🚴": [
+        "rothaí", 
+        "rothar"
+    ], 
+    "🚵": [
+        "rothaí", 
+        "rothaí sléibhe", 
+        "rothar", 
+        "sliabh"
+    ], 
+    "🚶": [
+        "coisí", 
+        "siúlóir"
+    ], 
+    "🚷": [
+        "comhartha", 
+        "coisí", 
+        "cosc ar choisithe", 
+        "siúlóir"
+    ], 
+    "🚸": [
+        "páistí", 
+        "páistí ag trasnú", 
+        "leanaí", 
+        "comhartha", 
+        "trasnú"
+    ], 
+    "🚹": [
+        "Fir", 
+        "Seomra na bhFear", 
+        "Comhartha Fear", 
+        "comhartha"
+    ], 
+    "🚺": [
+        "Seomra na mBan", 
+        "comhartha", 
+        "Comhartha na mBan", 
+        "Mná"
+    ], 
+    "🚻": [
+        "leithreas", 
+        "comhartha na leithreas"
+    ], 
+    "🚼": [
+        "leanbh", 
+        "comhartha linbh", 
+        "bord athraithe", 
+        "leanbh sa charr"
+    ], 
+    "🚽": [
+        "leithreas"
+    ], 
+    "🚾": [
+        "leithreas", 
+        "na leithris"
+    ], 
+    "🚿": [
+        "cithfholcadán"
+    ], 
+    "🛀": [
+        "duine ag folcadh", 
+        "folcadh"
+    ], 
+    "🛁": [
+        "folcadán"
+    ], 
+    "🛂": [
+        "pas", 
+        "rialú", 
+        "rialú pasanna"
+    ], 
+    "🛃": [
+        "custaim"
+    ], 
+    "🛄": [
+        "bagáiste", 
+        "limistéar bagáiste"
+    ], 
+    "🛅": [
+        "bagáiste", 
+        "seirbhís bhagáiste"
+    ], 
+    "🛌": [
+        "codladh", 
+        "óstán", 
+        "duine sa leaba"
+    ], 
+    "🛐": [
+        "adhartha", 
+        "teach adhartha", 
+        "creideamh"
+    ], 
+    "🛑": [
+        "tiomáint", 
+        "stop", 
+        "comhartha stop", 
+        "stad", 
+        "dearg", 
+        "bóthar"
+    ], 
+    "🛒": [
+        "siopadóireacht", 
+        "ollmhargadh", 
+        "tralaí"
+    ], 
+    "🛫": [
+        "imeacht eitleáin", 
+        "seiceáil isteach", 
+        "imeacht", 
+        "imeachtaí", 
+        "eitleán", 
+        "feithicil"
+    ], 
+    "🛬": [
+        "eitleán", 
+        "ag tuirlingt", 
+        "teacht", 
+        "ag teacht", 
+        "teacht eitleáin", 
+        "feithicil"
+    ], 
+    "🛴": [
+        "leanbh", 
+        "scútar gan inneall", 
+        "scútar"
+    ], 
+    "🛵": [
+        "inneall", 
+        "scútar"
+    ], 
+    "🛶": [
+        "bád", 
+        "canú", 
+        "caidhc"
+    ], 
+    "🛷": [
+        "sleamhnán", 
+        "carr sleamhnáin"
+    ], 
+    "🛸": [
+        "sásar eitilte", 
+        "úfónna"
+    ], 
+    "🤐": [
+        "béal", 
+        "aghaidh le béal sipeáilte", 
+        "sip", 
+        "aghaidh", 
+        "straoiseog le béal zipeáilte"
+    ], 
+    "🤑": [
+        "béal", 
+        "airgead", 
+        "aghaidh", 
+        "aghaidh le hairgead sa bhéal", 
+        "straoiseog le hairgead ina béal"
+    ], 
+    "🤒": [
+        "aghaidh", 
+        "aghaidh le teirmiméadar", 
+        "breoite", 
+        "teirmiméadar", 
+        "straoiseog le teirmiméadar", 
+        "tinn"
+    ], 
+    "🤓": [
+        "aghaidh saoithíneach", 
+        "geocach ríomhaire", 
+        "aghaidh", 
+        "straoiseog shaoithíneach", 
+        "saoithín"
+    ], 
+    "🤔": [
+        "ag smaoineamh", 
+        "aghaidh ag smaoineamh", 
+        "straoiseog ag smaoineamh", 
+        "aghaidh"
+    ], 
+    "🤕": [
+        "aghaidh", 
+        "aghaidh le bindealán ar a cheann", 
+        "gortaithe", 
+        "bindealán", 
+        "straoiseog le bindealán ar a ceann", 
+        "dochar"
+    ], 
+    "🤖": [
+        "aghaidh róbócha", 
+        "straoiseog róbait", 
+        "aghaidh", 
+        "róbó", 
+        "arrachtach"
+    ], 
+    "🤗": [
+        "straoiseog ag beir barróg", 
+        "straoiseog ag tabhairt barróige", 
+        "barróg", 
+        "ag beir barróg", 
+        "aghaidh"
+    ], 
+    "🤘": [
+        "beanna", 
+        "lean ort", 
+        "lámh na binne", 
+        "siombail na n-adharc", 
+        "corp", 
+        "méar", 
+        "lámh"
+    ], 
+    "🤙": [
+        "fón", 
+        "an lámh cur glao orm", 
+        "lámh", 
+        "glaoigh orm", 
+        "guthán", 
+        "glaoch", 
+        "cuir fios"
+    ], 
+    "🤚": [
+        "cúl láimhe in airde", 
+        "in airde", 
+        "lámh in airde", 
+        "cúl", 
+        "lámh"
+    ], 
+    "🤛": [
+        "ar chlé", 
+        "dorn", 
+        "dorn ar chlé"
+    ], 
+    "🤜": [
+        "ar dheis", 
+        "dorn ar dheis", 
+        "dorn"
+    ], 
+    "🤝": [
+        "beannú", 
+        "síocháin", 
+        "croitheadh lámh", 
+        "aontú", 
+        "croitheadh láimhe"
+    ], 
+    "🤞": [
+        "crosach", 
+        "ag súil", 
+        "méara crosach ar a chéile", 
+        "méara", 
+        "méarsa trasna", 
+        "ádh"
+    ], 
+    "🤟": [
+        "téarma ceana", 
+        "grá", 
+        "comhartha", 
+        "comhartha ghrá", 
+        "comhartha grá", 
+        "lámh"
+    ], 
+    "🤠": [
+        "hata buachaill bó", 
+        "buachaill bó", 
+        "aghaidh", 
+        "straoiseog le hata buachaill bó", 
+        "cailín", 
+        "hata"
+    ], 
+    "🤡": [
+        "aghaidh", 
+        "fear grinn", 
+        "fearr grinn", 
+        "gáire", 
+        "sorcas", 
+        "bean ghrinn"
+    ], 
+    "🤢": [
+        "straoiseog bhreoite", 
+        "aghaidh", 
+        "tinneas", 
+        "breoite", 
+        "masmas", 
+        "fonn múisce", 
+        "tinn"
+    ], 
+    "🤣": [
+        "sna trithí gáire", 
+        "sna tríthí gáire", 
+        "aghaidh", 
+        "tríthí", 
+        "gáire"
+    ], 
+    "🤤": [
+        "uicce", 
+        "aghaidh", 
+        "straoiseog phrislíneachta", 
+        "priosláil", 
+        "straoiseog ag prislíneacht", 
+        "prislíneacht"
+    ], 
+    "🤥": [
+        "straoiseog ag insint bréag", 
+        "aghaidh", 
+        "bréaga", 
+        "pinocchio"
+    ], 
+    "🤦": [
+        "bos", 
+        "aghaidh", 
+        "ciaptha", 
+        "ní chreidim", 
+        "duine lena aghaidh ina bhos", 
+        "lámh", 
+        "ar mire"
+    ], 
+    "🤧": [
+        "straoiseog ag sraotharthach", 
+        "aghaidh", 
+        "sraoth"
+    ], 
+    "🤨": [
+        "aghaidh le mala ardaithe", 
+        "straoiseog le mala ardaithe", 
+        "amhras", 
+        "aghaidh", 
+        "sceipteach"
+    ], 
+    "🤩": [
+        "straoiseog faoi gheasa", 
+        "aghaidh", 
+        "meangadh", 
+        "aghaidh faoi gheasa", 
+        "réalta", 
+        "súile"
+    ], 
+    "🤪": [
+        "súil", 
+        "beag", 
+        "straoiseog chraiceáilte", 
+        "mór"
+    ], 
+    "🤫": [
+        "ciúnas", 
+        "tost", 
+        "straoiseog chiúin"
+    ], 
+    "🤬": [
+        "straoiseog le siombailí ar an mbéal", 
+        "eascainí"
+    ], 
+    "🤭": [
+        "aghaidh le lámha ar an mbéal", 
+        "straoiseog lena lámh ar a béal"
+    ], 
+    "🤮": [
+        "tinn", 
+        "straoiseog ag cur amach", 
+        "aghaidh ag cur amach", 
+        "urlacan"
+    ], 
+    "🤯": [
+        "croitheadh bainte", 
+        "straoiseog lena ceann ag pléasadh", 
+        "ceann ag pléascadh"
+    ], 
+    "🤰": [
+        "leanbh", 
+        "cailín", 
+        "páiste", 
+        "bean", 
+        "torrach", 
+        "ag súil", 
+        "bean ag iompar clainne", 
+        "ag iompar", 
+        "iompar clainne", 
+        "ag iompar clainne"
+    ], 
+    "🤱": [
+        "cothú cíche", 
+        "cíoch", 
+        "babaí"
+    ], 
+    "🤲": [
+        "paidir", 
+        "bos na láimhe ardaithe le chéile", 
+        "bosa le chéile"
+    ], 
+    "🤳": [
+        "pictiúr", 
+        "féinphic", 
+        "féinghraf"
+    ], 
+    "🤴": [
+        "prionsa"
+    ], 
+    "🤵": [
+        "culaith", 
+        "fear", 
+        "seaicéad", 
+        "fear le culaith air", 
+        "culaith dhinnéir"
+    ], 
+    "🤶": [
+        "hata", 
+        "nollaig", 
+        "bean", 
+        "Bean Uí Claus", 
+        "hata nollag"
+    ], 
+    "🤷": [
+        "croith", 
+        "guaillí", 
+        "duine ag croitheadh", 
+        "níl a fhios agam", 
+        "croitheadh"
+    ], 
+    "🤸": [
+        "duine", 
+        "casadh", 
+        "rothchasadh", 
+        "rothalchleas", 
+        "duine ag rothchasadh"
+    ], 
+    "🤹": [
+        "lámhchleasaíocht", 
+        "ionramháil", 
+        "scil", 
+        "duine ag déanamh lámhchleasaíochta", 
+        "liathróid"
+    ], 
+    "🤺": [
+        "pionsóireacht", 
+        "spórt", 
+        "duine ag pionsóireacht", 
+        "claíomh", 
+        "pionsóir"
+    ], 
+    "🤼": [
+        "duine", 
+        "coraí", 
+        "spórt", 
+        "coraíocht", 
+        "daoine ag coraíocht"
+    ], 
+    "🤽": [
+        "póló", 
+        "uisce", 
+        "snámh", 
+        "duine", 
+        "spórt", 
+        "duine ag imirt póló uisce"
+    ], 
+    "🤾": [
+        "liathróid láimhe", 
+        "pinniú", 
+        "duine ag imirt liathróid láimhe", 
+        "liathróid", 
+        "duine", 
+        "lámh"
+    ], 
+    "🥀": [
+        "bláth sleabhctha", 
+        "sleabhctha", 
+        "bláth"
+    ], 
+    "🥁": [
+        "ceol", 
+        "drumaí", 
+        "druma", 
+        "rac-cheol"
+    ], 
+    "🥂": [
+        "gloiní", 
+        "champagne", 
+        "sláinte", 
+        "deochanna"
+    ], 
+    "🥃": [
+        "deoch", 
+        "fuisce", 
+        "gloine", 
+        "uisce beatha"
+    ], 
+    "🥄": [
+        "spúnóg", 
+        "tae"
+    ], 
+    "🥅": [
+        "liontán", 
+        "spórt", 
+        "cúl"
+    ], 
+    "🥇": [
+        "bonn óir", 
+        "1ú", 
+        "1", 
+        "bonn", 
+        "buaiteoir", 
+        "ór"
+    ], 
+    "🥈": [
+        "2ú", 
+        "airgead", 
+        "bonn airgid", 
+        "2", 
+        "bonn", 
+        "dara"
+    ], 
+    "🥉": [
+        "bonn cré-umha", 
+        "3", 
+        "cré-umha", 
+        "bonn", 
+        "3ú"
+    ], 
+    "🥊": [
+        "Muhammad Ali", 
+        "lámhainn", 
+        "lámhainn dornálaíochta", 
+        "miteog", 
+        "spórt", 
+        "dornálaíocht"
+    ], 
+    "🥋": [
+        "karate", 
+        "júdó", 
+        "ealaín chomhraic", 
+        "crios dubh", 
+        "spórt"
+    ], 
+    "🥌": [
+        "cloch churlála", 
+        "cluiche cloch"
+    ], 
+    "🥐": [
+        "an Fhrainc", 
+        "croissant", 
+        "bia na Fraince", 
+        "bia", 
+        "arán", 
+        "císte", 
+        "cáca"
+    ], 
+    "🥑": [
+        "abhacád", 
+        "toradh", 
+        "bia"
+    ], 
+    "🥒": [
+        "glasra", 
+        "cúcamar", 
+        "gircín", 
+        "bia"
+    ], 
+    "🥓": [
+        "slisíní bagúin", 
+        "muiceoil", 
+        "bia", 
+        "feoil", 
+        "bagún"
+    ], 
+    "🥔": [
+        "préata", 
+        "fata", 
+        "bia", 
+        "álainn", 
+        "glasra", 
+        "práta"
+    ], 
+    "🥕": [
+        "glasra", 
+        "cairéad", 
+        "meacan dearg", 
+        "meacán dearg", 
+        "bia"
+    ], 
+    "🥖": [
+        "arán", 
+        "baguette", 
+        "bia na Fraince", 
+        "bia"
+    ], 
+    "🥗": [
+        "sailéad", 
+        "glasraí", 
+        "bia"
+    ], 
+    "🥘": [
+        "bia", 
+        "friochtán", 
+        "panna tanaí le bia", 
+        "stiobhach", 
+        "paella", 
+        "pota"
+    ], 
+    "🥙": [
+        "kebab", 
+        "arán leathan stuáilte", 
+        "bia", 
+        "falafel", 
+        "ceibeab", 
+        "tortilla", 
+        "fillteog"
+    ], 
+    "🥚": [
+        "ubh", 
+        "bia"
+    ], 
+    "🥛": [
+        "deoch", 
+        "bainne", 
+        "gloinne", 
+        "gloine bainne"
+    ], 
+    "🥜": [
+        "pis talún", 
+        "cnó", 
+        "bia"
+    ], 
+    "🥝": [
+        "toradh", 
+        "cíobhaí", 
+        "ciobhaí", 
+        "bia"
+    ], 
+    "🥞": [
+        "pancóg", 
+        "crêpe", 
+        "pancóga", 
+        "bia"
+    ], 
+    "🥟": [
+        "empanada", 
+        "domplagán", 
+        "potsticker", 
+        "jiaozi", 
+        "gyōza", 
+        "pierogi"
+    ], 
+    "🥠": [
+        "tairngreacht", 
+        "brioscán feasa"
+    ], 
+    "🥡": [
+        "bosca greim gasta", 
+        "coimeádán bia", 
+        "oisre", 
+        "bosca beir leat"
+    ], 
+    "🥢": [
+        "Seapáinis", 
+        "cipíní itheacháin", 
+        "cipín itheacháin"
+    ], 
+    "🥣": [
+        "babhla le spúnóg", 
+        "bricfeasta", 
+        "gránach", 
+        "leite"
+    ], 
+    "🥤": [
+        "deoch shóide", 
+        "cupán le sop", 
+        "sú"
+    ], 
+    "🥥": [
+        "cnó cócó", 
+        "pailm"
+    ], 
+    "🥦": [
+        "cabáiste fiáin", 
+        "brocailí"
+    ], 
+    "🥧": [
+        "pióg", 
+        "líonadh", 
+        "taosrán"
+    ], 
+    "🥨": [
+        "preatsal", 
+        "casta"
+    ], 
+    "🥩": [
+        "gríscín", 
+        "gríscín uaineola", 
+        "gearradh feola", 
+        "stéig", 
+        "gríscín muiceola"
+    ], 
+    "🥪": [
+        "arán", 
+        "ceapaire"
+    ], 
+    "🥫": [
+        "canna", 
+        "bia stánaithe", 
+        "bia"
+    ], 
+    "🦀": [
+        "portán", 
+        "stoidiaca"
+    ], 
+    "🦁": [
+        "leon", 
+        "stoidiaca", 
+        "aghaidh", 
+        "aghaidh leoin", 
+        "leo"
+    ], 
+    "🦂": [
+        "stoidiaca", 
+        "scorpius", 
+        "scairp"
+    ], 
+    "🦃": [
+        "turcaí"
+    ], 
+    "🦄": [
+        "aonbheannach", 
+        "aghaidh aonbheannaigh", 
+        "aghaidh"
+    ], 
+    "🦅": [
+        "éan", 
+        "iolar"
+    ], 
+    "🦆": [
+        "lacha", 
+        "éan", 
+        "bardal"
+    ], 
+    "🦇": [
+        "ainmhí", 
+        "sciathán leathair", 
+        "ialtóg"
+    ], 
+    "🦈": [
+        "iasc", 
+        "siorc"
+    ], 
+    "🦉": [
+        "éan", 
+        "ceann cait", 
+        "ulchabhán"
+    ], 
+    "🦊": [
+        "ainmhí", 
+        "madra rua", 
+        "sionnach", 
+        "aghaidh sionnaigh"
+    ], 
+    "🦋": [
+        "feithid", 
+        "eitilt", 
+        "féileacán"
+    ], 
+    "🦌": [
+        "ainmhí", 
+        "fia"
+    ], 
+    "🦍": [
+        "ainmhí", 
+        "moncaí", 
+        "goraille"
+    ], 
+    "🦎": [
+        "laghairt", 
+        "earc luachra", 
+        "reiptíl"
+    ], 
+    "🦏": [
+        "ainmhí", 
+        "srónbheannach"
+    ], 
+    "🦐": [
+        "sliogán", 
+        "bia mara", 
+        "séacla", 
+        "ribe róibéis"
+    ], 
+    "🦑": [
+        "máthair shúigh", 
+        "moileasc", 
+        "scuis", 
+        "scuid"
+    ], 
+    "🦒": [
+        "sioráf", 
+        "spotaí"
+    ], 
+    "🦓": [
+        "stríoc", 
+        "séabra"
+    ], 
+    "🦔": [
+        "gráinneog", 
+        "spíonach"
+    ], 
+    "🦕": [
+        "brachiosaurus", 
+        "sárapód", 
+        "diplodocus", 
+        "brontasár"
+    ], 
+    "🦖": [
+        "tyrannosaurus rex", 
+        "T-Rex"
+    ], 
+    "🦗": [
+        "criogar", 
+        "dreoilín teaspaigh"
+    ], 
+    "🧀": [
+        "cáis", 
+        "ding cháise"
+    ], 
+    "🧐": [
+        "straoiseog le leathspéacla", 
+        "uasaicmeach", 
+        "aghaidh le leathspéacla", 
+        "leathspéacla"
+    ], 
+    "🧑": [
+        "aosach", 
+        "duine fásta"
+    ], 
+    "🧒": [
+        "leanbh", 
+        "neodrach ó thaobh inscne de", 
+        "óg"
+    ], 
+    "🧓": [
+        "duine", 
+        "seanduine", 
+        "sean"
+    ], 
+    "🧔": [
+        "duine féasógach", 
+        "féasóg"
+    ], 
+    "🧕": [
+        "bean le caifirín", 
+        "hijab", 
+        "caifirín"
+    ], 
+    "🧖": [
+        "seomra allais", 
+        "seomra gaile", 
+        "duine i seomra gaile"
+    ], 
+    "🧗": [
+        "duine ag dreapadóireacht", 
+        "deapadóir"
+    ], 
+    "🧘": [
+        "duine i suíomh na loiteoige", 
+        "ag machnamh", 
+        "ióga"
+    ], 
+    "🧙": [
+        "asarlaí", 
+        "duine draíochta", 
+        "draoi", 
+        "cailleach"
+    ], 
+    "🧚": [
+        "síog"
+    ], 
+    "🧛": [
+        "neamh-mharbh", 
+        "Dracula", 
+        "vaimpír"
+    ], 
+    "🧜": [
+        "duine murúch"
+    ], 
+    "🧝": [
+        "draíochtúil", 
+        "lucharachán", 
+        "síogaí"
+    ], 
+    "🧞": [
+        "sióg", 
+        "ginid"
+    ], 
+    "🧟": [
+        "neamh-mharbh", 
+        "zombaí"
+    ], 
+    "🧠": [
+        "inchinn", 
+        "éirimiúil"
+    ], 
+    "🧡": [
+        "croí oráiste", 
+        "croí"
+    ], 
+    "🧢": [
+        "caipín daorchluiche", 
+        "caipín speiceach"
+    ], 
+    "🧣": [
+        "muineál", 
+        "scairf"
+    ], 
+    "🧤": [
+        "lámhainní", 
+        "lámh"
+    ], 
+    "🧥": [
+        "seaicéad", 
+        "cóta"
+    ], 
+    "🧦": [
+        "stocaí", 
+        "stoca"
+    ]
+}

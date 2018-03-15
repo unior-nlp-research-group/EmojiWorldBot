@@ -23,43 +23,49 @@ DEFAULT_LANGUAGE_CODE = 'eng'
 
 LANG_SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/" \
                        "1_6aHfioIMUXBklrVKO3VubuUHHgW4swuVeKsG_zqnes/" \
-                       "export?format=tsv" \
+                       "export?format=csv" \
                        "&gid=735383332"
 
-# HEADERS = ["count", "bot_version", "lang_code", "lang_name", "alt_names", "roman_script", "has_diacritics", "user_ids"]
+# HEADERS = [
+#   'Count', 'ISO Code', 'Language Name (eng)', 'Bot Version',
+#   'Based on roman script (for upper case check)', 'lower case diacritics',
+#   'CLDR Code', 'Contact Email', 'upper case diacritics',
+#   'Has diacritics (only for roman script, for diacritic check)', 'Contact Name',
+#   'Alternative Language Names (comma separated)', 'Telegram user id']
 
+LANG_CODE_HEADER = 'ISO Code'
+CLDR_CODE_HEADER = "CLDR Code"
+LANG_NAME_HEADER = "Language Name (eng)"
+ALT_NAMES_HEADER = 'Alternative Language Names (comma separated)'
+ROMAN_SCRIPT_HEADER = 'Based on roman script (for upper case check)'
+HAS_DIACRITICS_HEADER = 'Has diacritics (only for roman script, for diacritic check)'
+
+def getLanguageStructureFromUrl():
+    import utility
+    spreadsheet_dict = utility.import_url_csv_to_dict_list(LANG_SPREADSHEET_URL)
+    languageStructure = {}
+    user_ids_header = 'Telegram user id'
+    for dict in spreadsheet_dict:
+        lang_code = dict.get(LANG_CODE_HEADER, None)
+        if lang_code:
+            langItem = {}
+            langItem[CLDR_CODE_HEADER] = dict[CLDR_CODE_HEADER].strip()
+            langItem[LANG_NAME_HEADER] = dict[LANG_NAME_HEADER].strip()
+            langItem[ALT_NAMES_HEADER] = [x.strip().lower() for x in dict[ALT_NAMES_HEADER].split(',')]
+            langItem[ROMAN_SCRIPT_HEADER] = True if dict[ROMAN_SCRIPT_HEADER].upper() == 'TRUE' else False
+            langItem[HAS_DIACRITICS_HEADER] = True if dict[HAS_DIACRITICS_HEADER].upper() == 'TRUE' else False
+            langItem[user_ids_header] = [int(x) for x in dict[user_ids_header].split(',') if utility.representsInt(x)]
+            languageStructure[lang_code] = langItem
+    return languageStructure
 
 def createLanguageStructureFile():
     lang_json = getLanguageStructureFromUrl()
     with open("EmojiLanguages/_languages.json", 'w') as emojiFile:
         json.dump(lang_json, emojiFile, indent=4, ensure_ascii=False)
 
-
 def getLanguageStructureFromFile():
     with open("EmojiLanguages/_languages.json") as f:
         return jsonUtil.json_load_byteified(f)
-
-def getLanguageStructureFromUrl():
-    languageStructure = {}
-    try:
-        spreadSheetTsv = urllib2.urlopen(LANG_SPREADSHEET_URL)
-        spreadSheetReader = csv.reader(spreadSheetTsv, delimiter='\t')
-        next(spreadSheetReader)  # skip first row
-        for row in spreadSheetReader:
-            lang_code = row[2].strip()
-            if lang_code:
-                langItem = {}
-                langItem["cldr_code"] = row[3].strip()
-                langItem["lang_name"] = row[4].strip()
-                langItem["alt_names"] = [x.strip().lower() for x in row[5].split(',')]
-                langItem["roman_script"] = True if row[6].upper() == 'TRUE' else False
-                langItem["has_diacritics"] = True if row[7].upper() == 'TRUE' else False
-                langItem["user_ids"] = [int(x) for x in row[8].split(',') if utility.representsInt(x)]
-                languageStructure[lang_code] = langItem
-    except Exception, e:
-        logging.debug("Problem retreiving language structure from url: " + str(e))
-        return getLanguageStructureFromFile()
-    return languageStructure
 
 
 # ================================
@@ -68,35 +74,38 @@ def getLanguageStructureFromUrl():
 
 #"lang_code", "lang_name", "alt_names", "roman_script", "has_diacritics", "user_ids"
 
-#LANG_STRUCTURE = getLanguageStructureFromFile()
-LANG_STRUCTURE = getLanguageStructureFromUrl()
+LANG_STRUCTURE = getLanguageStructureFromFile()
+#LANG_STRUCTURE = getLanguageStructureFromUrl()
 
 def getLanguageName(lang_code):
-    return LANG_STRUCTURE[lang_code]['lang_name']
+    return LANG_STRUCTURE[lang_code][LANG_NAME_HEADER]
 
 def getLanguageCodeByLanguageVariation(variationNameList):
     for key, value in LANG_STRUCTURE.iteritems():
         for name in variationNameList:
-            if name in value['lang_name'] or name.lower() in value['alt_names']:
+            if name in value[LANG_NAME_HEADER] or name.lower() in value[ALT_NAMES_HEADER]:
                 return key
     return None
 
 def isRomanScript(lang_code):
-    return LANG_STRUCTURE[lang_code]['roman_script']
+    return LANG_STRUCTURE[lang_code][ROMAN_SCRIPT_HEADER]
 
 def hasDiacritics(lang_code):
-    return LANG_STRUCTURE[lang_code]['has_diacritics']
+    return LANG_STRUCTURE[lang_code][HAS_DIACRITICS_HEADER]
+
+def langCodeInCLDR(lang_code):
+    return LANG_STRUCTURE[lang_code][CLDR_CODE_HEADER]!=''
 
 # ================================
 # Language list and commands list
 # ================================
 
-
 def makeLanguageCommand(lang_name):
     return '/' + re.sub('[() -]+', '_', utility.normalizeString(lang_name).title()).strip('_')
 
 ALL_LANG_CODES = LANG_STRUCTURE.keys()
-ALL_LANGUAGES = [x['lang_name'] for x in LANG_STRUCTURE.values()]
+
+ALL_LANGUAGES = [x[LANG_NAME_HEADER] for x in LANG_STRUCTURE.values()]
 
 ALL_LANGUAGES_LOWERCASE = [l.lower() for l in ALL_LANGUAGES]
 

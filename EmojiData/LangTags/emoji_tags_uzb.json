@@ -1,0 +1,6922 @@
+{
+    "⌚": [
+        "qo‘l soati", 
+        "soat"
+    ], 
+    "⌛": [
+        "qumsoat", 
+        "qum", 
+        "soat"
+    ], 
+    "⏩": [
+        "chiziq", 
+        "oldinga o‘tkazish tugmasi", 
+        "tez", 
+        "oldinga", 
+        "ikki marta"
+    ], 
+    "⏪": [
+        "chiziq", 
+        "ikkita", 
+        "tez orqaga o‘tkazish tugmasi", 
+        "orqaga aylantirish"
+    ], 
+    "⏫": [
+        "chiziq", 
+        "tez yuqoriga tugmasi", 
+        "ikkita"
+    ], 
+    "⏬": [
+        "chiziq", 
+        "ikkita", 
+        "tez pastga tugmasi", 
+        "pastga"
+    ], 
+    "⏰": [
+        "uyg‘otadigan soat", 
+        "soat", 
+        "budilnik", 
+        "uyg‘otkich"
+    ], 
+    "⏳": [
+        "qumsoat", 
+        "qum", 
+        "qum tushayotgan qumsoat", 
+        "soat"
+    ], 
+    "◽": [
+        "geometrik", 
+        "kichikroq oq kvadrat", 
+        "kvadrat"
+    ], 
+    "◾": [
+        "geometrik", 
+        "kichikroq qora kvadrat", 
+        "kvadrat"
+    ], 
+    "☔": [
+        "soyabon", 
+        "kiyim", 
+        "yomg‘ir", 
+        "tomchi", 
+        "yomg‘ir tomchilari va soyabon", 
+        "ob-havo"
+    ], 
+    "☕": [
+        "kofe", 
+        "bug‘lanib turgan", 
+        "ichimlik", 
+        "issiq", 
+        "choy", 
+        "issiq ichimlik"
+    ], 
+    "♈": [
+        "qo‘y burji", 
+        "qo‘y", 
+        "burj"
+    ], 
+    "♉": [
+        "buzoq burji", 
+        "buzoq", 
+        "burj"
+    ], 
+    "♊": [
+        "egizaklar burji", 
+        "egizaklar", 
+        "burj"
+    ], 
+    "♋": [
+        "qisqichbaqa burji", 
+        "qisqichbaqa", 
+        "burj"
+    ], 
+    "♌": [
+        "asrlon", 
+        "burj", 
+        "arslon burji"
+    ], 
+    "♍": [
+        "parizod burji", 
+        "parizod", 
+        "burj"
+    ], 
+    "♎": [
+        "tarozi", 
+        "burj", 
+        "tarozi burji", 
+        "adolat"
+    ], 
+    "♏": [
+        "chayon burji", 
+        "chayon", 
+        "burj"
+    ], 
+    "♐": [
+        "o‘qotar", 
+        "o‘qotar burji", 
+        "burj"
+    ], 
+    "♑": [
+        "tog‘ echkisi burji", 
+        "echki", 
+        "burj"
+    ], 
+    "♒": [
+        "qovg‘a burji", 
+        "qovg‘a", 
+        "burj"
+    ], 
+    "♓": [
+        "baliq burji", 
+        "baliq", 
+        "burj"
+    ], 
+    "♿": [
+        "maxsus imkoniyat", 
+        "nogironlar aravachasi"
+    ], 
+    "⚓": [
+        "langar", 
+        "asbob", 
+        "kema"
+    ], 
+    "⚡": [
+        "xavfli", 
+        "kuchlanish", 
+        "chaqmoq", 
+        "yuqori kuchlanish", 
+        "elektr toki", 
+        "elektr"
+    ], 
+    "⚪": [
+        "geometriya", 
+        "doira", 
+        "oq doira"
+    ], 
+    "⚫": [
+        "geometriya", 
+        "doira", 
+        "qora doira"
+    ], 
+    "⚽": [
+        "futbol to‘pi", 
+        "futbol", 
+        "to‘p"
+    ], 
+    "⚾": [
+        "beysbol", 
+        "to‘p"
+    ], 
+    "⛄": [
+        "qorbobo", 
+        "sovuq", 
+        "qor odami", 
+        "qor", 
+        "ob-havo"
+    ], 
+    "⛅": [
+        "bulut ortidagi quyosh", 
+        "ob-havo", 
+        "quyosh", 
+        "bulut"
+    ], 
+    "⛎": [
+        "ilon tashuvchi", 
+        "ilon", 
+        "burj"
+    ], 
+    "⛔": [
+        "taqiqlangan", 
+        "yo‘q", 
+        "kirish mumkin emas", 
+        "kirish", 
+        "man qilingan", 
+        "yo‘l", 
+        "mumkin emas"
+    ], 
+    "⛪": [
+        "nasroniylik", 
+        "bino", 
+        "cherkov", 
+        "din", 
+        "xoch"
+    ], 
+    "⛲": [
+        "fontan"
+    ], 
+    "⛳": [
+        "golf", 
+        "teshikka o‘rnatilgan bayroq", 
+        "teshik"
+    ], 
+    "⛵": [
+        "yaxta", 
+        "yelkanli kema", 
+        "transport", 
+        "kema", 
+        "dengiz"
+    ], 
+    "⛺": [
+        "lager", 
+        "chodir"
+    ], 
+    "⛽": [
+        "qo‘yish", 
+        "shahobcha", 
+        "benzin", 
+        "yonilg‘i nasosi", 
+        "yonilg‘i"
+    ], 
+    "✅": [
+        "belgilash", 
+        "belgilash uchun oq katta belgi", 
+        "belgi"
+    ], 
+    "✊": [
+        "qo‘l", 
+        "musht", 
+        "tana", 
+        "ko‘tarilgan musht", 
+        "tugilgan"
+    ], 
+    "✋": [
+        "qo‘l", 
+        "tana", 
+        "ko‘tarilgan qo‘l"
+    ], 
+    "✨": [
+        "yulduz", 
+        "uchqunlar", 
+        "uchqun"
+    ], 
+    "❌": [
+        "belgi", 
+        "ko‘paytirish", 
+        "bekor", 
+        "xoch belgisi", 
+        "x"
+    ], 
+    "❎": [
+        "xoch belgisi tugmasi", 
+        "belgi", 
+        "kvadrat"
+    ], 
+    "❓": [
+        "tinish", 
+        "so‘roq", 
+        "belgi", 
+        "so‘roq belgisi"
+    ], 
+    "❔": [
+        "oq so‘roq belgisi", 
+        "tinish", 
+        "so‘roq", 
+        "belgi", 
+        "chizilgan"
+    ], 
+    "❕": [
+        "tinish", 
+        "belgi", 
+        "oq undov belgisi", 
+        "chizilgan", 
+        "undov"
+    ], 
+    "❗": [
+        "undov belgisi", 
+        "tinish", 
+        "belgi", 
+        "undov"
+    ], 
+    "➕": [
+        "musbat", 
+        "plyus", 
+        "matematika", 
+        "to‘q qo‘shuv belgisi"
+    ], 
+    "➖": [
+        "manfiy", 
+        "minus", 
+        "matematika", 
+        "to‘q ayiruv belgisi"
+    ], 
+    "➗": [
+        "to‘q bo‘luv belgisi", 
+        "bo‘lish", 
+        "matematika"
+    ], 
+    "➰": [
+        "jingalak", 
+        "jingalak halqa", 
+        "takror", 
+        "davr"
+    ], 
+    "➿": [
+        "jingalak", 
+        "qo‘sh jingalak halqa", 
+        "davr", 
+        "takror", 
+        "ikki marta"
+    ], 
+    "⬛": [
+        "geometrik", 
+        "kvadrat", 
+        "katta qora kvadrat"
+    ], 
+    "⬜": [
+        "geometrik", 
+        "kvadrat", 
+        "katta oq kvadrat"
+    ], 
+    "⭐": [
+        "yulduz", 
+        "oq o‘rtacha yulduz"
+    ], 
+    "⭕": [
+        "juda katta aylana", 
+        "o", 
+        "aylana"
+    ], 
+    "🀄": [
+        "majong", 
+        "qizil", 
+        "majong toshidagi qizil ajdar", 
+        "o‘yin"
+    ], 
+    "🃏": [
+        "o‘ynash", 
+        "karta", 
+        "o‘yin kartasidagi joker", 
+        "o‘yin"
+    ], 
+    "🆎": [
+        "qon", 
+        "ab", 
+        "ab tugmasi"
+    ], 
+    "🆑": [
+        "kvadrat ichidagi cl harflari", 
+        "cl"
+    ], 
+    "🆒": [
+        "kvadrat ichidagi salqinlik, gap yo‘q so‘zi", 
+        "zo‘r", 
+        "salqinlik"
+    ], 
+    "🆓": [
+        "bepul", 
+        "kvadrat ichidagi bo‘sh, tekin so‘zi"
+    ], 
+    "🆔": [
+        "kvadrat ichidagi id harflari", 
+        "id"
+    ], 
+    "🆕": [
+        "yangi", 
+        "kvadrat ichidagi yangi so‘zi"
+    ], 
+    "🆖": [
+        "ng", 
+        "kvadrat ichidagi ng harflari"
+    ], 
+    "🆗": [
+        "kvadrat ichidagi ok tugmasi", 
+        "ok"
+    ], 
+    "🆘": [
+        "sos", 
+        "yordam", 
+        "kvadrat ichidagi sos so‘zi"
+    ], 
+    "🆙": [
+        "tepaga tugmasi", 
+        "tepaga", 
+        "belgi"
+    ], 
+    "🆚": [
+        "qarshi", 
+        "raqib", 
+        "kvadrat ichidagi raqib sifatida so‘zi"
+    ], 
+    "🇦🇨": [
+        "bayroq", 
+        "Me’roj oroli"
+    ], 
+    "🇦🇩": [
+        "bayroq", 
+        "Andorra"
+    ], 
+    "🇦🇪": [
+        "bayroq", 
+        "Birlashgan Arab Amirliklari"
+    ], 
+    "🇦🇫": [
+        "bayroq", 
+        "Afgʻoniston"
+    ], 
+    "🇦🇬": [
+        "bayroq", 
+        "Antigua va Barbuda"
+    ], 
+    "🇦🇮": [
+        "bayroq", 
+        "Angilya"
+    ], 
+    "🇦🇱": [
+        "bayroq", 
+        "Albaniya"
+    ], 
+    "🇦🇲": [
+        "bayroq", 
+        "Armaniston"
+    ], 
+    "🇦🇴": [
+        "bayroq", 
+        "Angola"
+    ], 
+    "🇦🇶": [
+        "bayroq", 
+        "Antarktida"
+    ], 
+    "🇦🇷": [
+        "bayroq", 
+        "Argentina"
+    ], 
+    "🇦🇸": [
+        "bayroq", 
+        "Amerika Samoasi"
+    ], 
+    "🇦🇹": [
+        "bayroq", 
+        "Avstriya"
+    ], 
+    "🇦🇺": [
+        "bayroq", 
+        "Avstraliya"
+    ], 
+    "🇦🇼": [
+        "bayroq", 
+        "Aruba"
+    ], 
+    "🇦🇽": [
+        "bayroq", 
+        "Aland orollari"
+    ], 
+    "🇦🇿": [
+        "bayroq", 
+        "Ozarbayjon"
+    ], 
+    "🇧🇦": [
+        "bayroq", 
+        "Bosniya va Gertsegovina"
+    ], 
+    "🇧🇧": [
+        "bayroq", 
+        "Barbados"
+    ], 
+    "🇧🇩": [
+        "bayroq", 
+        "Bangladesh"
+    ], 
+    "🇧🇪": [
+        "bayroq", 
+        "Belgiya"
+    ], 
+    "🇧🇫": [
+        "bayroq", 
+        "Burkina-Faso"
+    ], 
+    "🇧🇬": [
+        "bayroq", 
+        "Bolgariya"
+    ], 
+    "🇧🇭": [
+        "bayroq", 
+        "Bahrayn"
+    ], 
+    "🇧🇮": [
+        "bayroq", 
+        "Burundi"
+    ], 
+    "🇧🇯": [
+        "bayroq", 
+        "Benin"
+    ], 
+    "🇧🇱": [
+        "bayroq", 
+        "Sen-Bartelemi"
+    ], 
+    "🇧🇲": [
+        "bayroq", 
+        "Bermuda orollari"
+    ], 
+    "🇧🇳": [
+        "bayroq", 
+        "Bruney"
+    ], 
+    "🇧🇴": [
+        "bayroq", 
+        "Boliviya"
+    ], 
+    "🇧🇶": [
+        "bayroq", 
+        "Boneyr, Sint-Estatius va Saba"
+    ], 
+    "🇧🇷": [
+        "bayroq", 
+        "Braziliya"
+    ], 
+    "🇧🇸": [
+        "bayroq", 
+        "Bagama orollari"
+    ], 
+    "🇧🇹": [
+        "bayroq", 
+        "Butan"
+    ], 
+    "🇧🇻": [
+        "bayroq", 
+        "Buve oroli"
+    ], 
+    "🇧🇼": [
+        "bayroq", 
+        "Botsvana"
+    ], 
+    "🇧🇾": [
+        "bayroq", 
+        "Belarus"
+    ], 
+    "🇧🇿": [
+        "bayroq", 
+        "Beliz"
+    ], 
+    "🇨🇦": [
+        "bayroq", 
+        "Kanada"
+    ], 
+    "🇨🇨": [
+        "bayroq", 
+        "Kokos (Kiling) orollari"
+    ], 
+    "🇨🇩": [
+        "bayroq", 
+        "Kongo – Kinshasa"
+    ], 
+    "🇨🇫": [
+        "bayroq", 
+        "Markaziy Afrika Respublikasi"
+    ], 
+    "🇨🇬": [
+        "bayroq", 
+        "Kongo – Brazzavil"
+    ], 
+    "🇨🇭": [
+        "bayroq", 
+        "Shveytsariya"
+    ], 
+    "🇨🇮": [
+        "bayroq", 
+        "Kot-d’Ivuar"
+    ], 
+    "🇨🇰": [
+        "bayroq", 
+        "Kuk orollari"
+    ], 
+    "🇨🇱": [
+        "bayroq", 
+        "Chili"
+    ], 
+    "🇨🇲": [
+        "bayroq", 
+        "Kamerun"
+    ], 
+    "🇨🇳": [
+        "bayroq", 
+        "Xitoy"
+    ], 
+    "🇨🇴": [
+        "bayroq", 
+        "Kolumbiya"
+    ], 
+    "🇨🇵": [
+        "bayroq", 
+        "Klipperton oroli"
+    ], 
+    "🇨🇷": [
+        "bayroq", 
+        "Kosta-Rika"
+    ], 
+    "🇨🇺": [
+        "bayroq", 
+        "Kuba"
+    ], 
+    "🇨🇻": [
+        "bayroq", 
+        "Kabo-Verde"
+    ], 
+    "🇨🇼": [
+        "bayroq", 
+        "Kyurasao"
+    ], 
+    "🇨🇽": [
+        "bayroq", 
+        "Rojdestvo oroli"
+    ], 
+    "🇨🇾": [
+        "bayroq", 
+        "Kipr"
+    ], 
+    "🇨🇿": [
+        "bayroq", 
+        "Chexiya"
+    ], 
+    "🇩🇪": [
+        "bayroq", 
+        "Germaniya"
+    ], 
+    "🇩🇬": [
+        "bayroq", 
+        "Diyego-Garsiya"
+    ], 
+    "🇩🇯": [
+        "bayroq", 
+        "Jibuti"
+    ], 
+    "🇩🇰": [
+        "bayroq", 
+        "Daniya"
+    ], 
+    "🇩🇲": [
+        "bayroq", 
+        "Dominika"
+    ], 
+    "🇩🇴": [
+        "bayroq", 
+        "Dominikan Respublikasi"
+    ], 
+    "🇩🇿": [
+        "bayroq", 
+        "Jazoir"
+    ], 
+    "🇪🇦": [
+        "bayroq", 
+        "Seuta va Melilya"
+    ], 
+    "🇪🇨": [
+        "bayroq", 
+        "Ekvador"
+    ], 
+    "🇪🇪": [
+        "bayroq", 
+        "Estoniya"
+    ], 
+    "🇪🇬": [
+        "bayroq", 
+        "Misr"
+    ], 
+    "🇪🇭": [
+        "bayroq", 
+        "G‘arbiy Sahroi Kabir"
+    ], 
+    "🇪🇷": [
+        "bayroq", 
+        "Eritreya"
+    ], 
+    "🇪🇸": [
+        "bayroq", 
+        "Ispaniya"
+    ], 
+    "🇪🇹": [
+        "bayroq", 
+        "Efiopiya"
+    ], 
+    "🇪🇺": [
+        "bayroq", 
+        "Yevropa Ittifoqi"
+    ], 
+    "🇫🇮": [
+        "bayroq", 
+        "Finlandiya"
+    ], 
+    "🇫🇯": [
+        "bayroq", 
+        "Fiji"
+    ], 
+    "🇫🇰": [
+        "bayroq", 
+        "Folklend orollari"
+    ], 
+    "🇫🇲": [
+        "bayroq", 
+        "Mikroneziya"
+    ], 
+    "🇫🇴": [
+        "bayroq", 
+        "Farer orollari"
+    ], 
+    "🇫🇷": [
+        "bayroq", 
+        "Fransiya"
+    ], 
+    "🇬🇦": [
+        "bayroq", 
+        "Gabon"
+    ], 
+    "🇬🇧": [
+        "bayroq", 
+        "Buyuk Britaniya"
+    ], 
+    "🇬🇩": [
+        "bayroq", 
+        "Grenada"
+    ], 
+    "🇬🇪": [
+        "bayroq", 
+        "Gruziya"
+    ], 
+    "🇬🇫": [
+        "bayroq", 
+        "Fransuz Gvianasi"
+    ], 
+    "🇬🇬": [
+        "bayroq", 
+        "Gernsi"
+    ], 
+    "🇬🇭": [
+        "bayroq", 
+        "Gana"
+    ], 
+    "🇬🇮": [
+        "bayroq", 
+        "Gibraltar"
+    ], 
+    "🇬🇱": [
+        "bayroq", 
+        "Grenlandiya"
+    ], 
+    "🇬🇲": [
+        "bayroq", 
+        "Gambiya"
+    ], 
+    "🇬🇳": [
+        "bayroq", 
+        "Gvineya"
+    ], 
+    "🇬🇵": [
+        "bayroq", 
+        "Gvadelupe"
+    ], 
+    "🇬🇶": [
+        "bayroq", 
+        "Ekvatorial Gvineya"
+    ], 
+    "🇬🇷": [
+        "bayroq", 
+        "Gretsiya"
+    ], 
+    "🇬🇸": [
+        "bayroq", 
+        "Janubiy Georgiya va Janubiy Sendvich orollari"
+    ], 
+    "🇬🇹": [
+        "bayroq", 
+        "Gvatemala"
+    ], 
+    "🇬🇺": [
+        "bayroq", 
+        "Guam"
+    ], 
+    "🇬🇼": [
+        "bayroq", 
+        "Gvineya-Bisau"
+    ], 
+    "🇬🇾": [
+        "bayroq", 
+        "Gayana"
+    ], 
+    "🇭🇰": [
+        "bayroq", 
+        "Gonkong (Xitoy MMH)"
+    ], 
+    "🇭🇲": [
+        "bayroq", 
+        "Xerd va Makdonald orollari"
+    ], 
+    "🇭🇳": [
+        "bayroq", 
+        "Gonduras"
+    ], 
+    "🇭🇷": [
+        "bayroq", 
+        "Xorvatiya"
+    ], 
+    "🇭🇹": [
+        "bayroq", 
+        "Gaiti"
+    ], 
+    "🇭🇺": [
+        "bayroq", 
+        "Vengriya"
+    ], 
+    "🇮🇨": [
+        "bayroq", 
+        "Kanar orollari"
+    ], 
+    "🇮🇩": [
+        "bayroq", 
+        "Indoneziya"
+    ], 
+    "🇮🇪": [
+        "bayroq", 
+        "Irlandiya"
+    ], 
+    "🇮🇱": [
+        "bayroq", 
+        "Isroil"
+    ], 
+    "🇮🇲": [
+        "bayroq", 
+        "Men oroli"
+    ], 
+    "🇮🇳": [
+        "bayroq", 
+        "Hindiston"
+    ], 
+    "🇮🇴": [
+        "bayroq", 
+        "Britaniyaning Hind okeanidagi hududi"
+    ], 
+    "🇮🇶": [
+        "bayroq", 
+        "Iroq"
+    ], 
+    "🇮🇷": [
+        "bayroq", 
+        "Eron"
+    ], 
+    "🇮🇸": [
+        "bayroq", 
+        "Islandiya"
+    ], 
+    "🇮🇹": [
+        "bayroq", 
+        "Italiya"
+    ], 
+    "🇯🇪": [
+        "bayroq", 
+        "Jersi"
+    ], 
+    "🇯🇲": [
+        "bayroq", 
+        "Yamayka"
+    ], 
+    "🇯🇴": [
+        "bayroq", 
+        "Iordaniya"
+    ], 
+    "🇯🇵": [
+        "bayroq", 
+        "Yaponiya"
+    ], 
+    "🇰🇪": [
+        "bayroq", 
+        "Keniya"
+    ], 
+    "🇰🇬": [
+        "bayroq", 
+        "Qirgʻiziston"
+    ], 
+    "🇰🇭": [
+        "bayroq", 
+        "Kambodja"
+    ], 
+    "🇰🇮": [
+        "bayroq", 
+        "Kiribati"
+    ], 
+    "🇰🇲": [
+        "bayroq", 
+        "Komor orollari"
+    ], 
+    "🇰🇳": [
+        "bayroq", 
+        "Sent-Kits va Nevis"
+    ], 
+    "🇰🇵": [
+        "bayroq", 
+        "Shimoliy Koreya"
+    ], 
+    "🇰🇷": [
+        "bayroq", 
+        "Janubiy Koreya"
+    ], 
+    "🇰🇼": [
+        "bayroq", 
+        "Quvayt"
+    ], 
+    "🇰🇾": [
+        "bayroq", 
+        "Kayman orollari"
+    ], 
+    "🇰🇿": [
+        "bayroq", 
+        "Qozogʻiston"
+    ], 
+    "🇱🇦": [
+        "bayroq", 
+        "Laos"
+    ], 
+    "🇱🇧": [
+        "bayroq", 
+        "Livan"
+    ], 
+    "🇱🇨": [
+        "bayroq", 
+        "Sent-Lyusiya"
+    ], 
+    "🇱🇮": [
+        "bayroq", 
+        "Lixtenshteyn"
+    ], 
+    "🇱🇰": [
+        "bayroq", 
+        "Shri-Lanka"
+    ], 
+    "🇱🇷": [
+        "bayroq", 
+        "Liberiya"
+    ], 
+    "🇱🇸": [
+        "bayroq", 
+        "Lesoto"
+    ], 
+    "🇱🇹": [
+        "bayroq", 
+        "Litva"
+    ], 
+    "🇱🇺": [
+        "bayroq", 
+        "Lyuksemburg"
+    ], 
+    "🇱🇻": [
+        "bayroq", 
+        "Latviya"
+    ], 
+    "🇱🇾": [
+        "bayroq", 
+        "Liviya"
+    ], 
+    "🇲🇦": [
+        "bayroq", 
+        "Marokash"
+    ], 
+    "🇲🇨": [
+        "bayroq", 
+        "Monako"
+    ], 
+    "🇲🇩": [
+        "bayroq", 
+        "Moldova"
+    ], 
+    "🇲🇪": [
+        "bayroq", 
+        "Chernogoriya"
+    ], 
+    "🇲🇫": [
+        "bayroq", 
+        "Sent-Martin"
+    ], 
+    "🇲🇬": [
+        "bayroq", 
+        "Madagaskar"
+    ], 
+    "🇲🇭": [
+        "bayroq", 
+        "Marshall orollari"
+    ], 
+    "🇲🇰": [
+        "bayroq", 
+        "Makedoniya"
+    ], 
+    "🇲🇱": [
+        "bayroq", 
+        "Mali"
+    ], 
+    "🇲🇲": [
+        "bayroq", 
+        "Myanma (Birma)"
+    ], 
+    "🇲🇳": [
+        "bayroq", 
+        "Mongoliya"
+    ], 
+    "🇲🇴": [
+        "bayroq", 
+        "Makao (Xitoy MMH)"
+    ], 
+    "🇲🇵": [
+        "bayroq", 
+        "Shimoliy Mariana orollari"
+    ], 
+    "🇲🇶": [
+        "bayroq", 
+        "Martinika"
+    ], 
+    "🇲🇷": [
+        "bayroq", 
+        "Mavritaniya"
+    ], 
+    "🇲🇸": [
+        "bayroq", 
+        "Montserrat"
+    ], 
+    "🇲🇹": [
+        "bayroq", 
+        "Malta"
+    ], 
+    "🇲🇺": [
+        "bayroq", 
+        "Mavrikiy"
+    ], 
+    "🇲🇻": [
+        "bayroq", 
+        "Maldiv orollari"
+    ], 
+    "🇲🇼": [
+        "bayroq", 
+        "Malavi"
+    ], 
+    "🇲🇽": [
+        "bayroq", 
+        "Meksika"
+    ], 
+    "🇲🇾": [
+        "bayroq", 
+        "Malayziya"
+    ], 
+    "🇲🇿": [
+        "bayroq", 
+        "Mozambik"
+    ], 
+    "🇳🇦": [
+        "bayroq", 
+        "Namibiya"
+    ], 
+    "🇳🇨": [
+        "bayroq", 
+        "Yangi Kaledoniya"
+    ], 
+    "🇳🇪": [
+        "bayroq", 
+        "Niger"
+    ], 
+    "🇳🇫": [
+        "bayroq", 
+        "Norfolk oroli"
+    ], 
+    "🇳🇬": [
+        "bayroq", 
+        "Nigeriya"
+    ], 
+    "🇳🇮": [
+        "bayroq", 
+        "Nikaragua"
+    ], 
+    "🇳🇱": [
+        "bayroq", 
+        "Niderlandiya"
+    ], 
+    "🇳🇴": [
+        "bayroq", 
+        "Norvegiya"
+    ], 
+    "🇳🇵": [
+        "bayroq", 
+        "Nepal"
+    ], 
+    "🇳🇷": [
+        "bayroq", 
+        "Nauru"
+    ], 
+    "🇳🇺": [
+        "bayroq", 
+        "Niue"
+    ], 
+    "🇳🇿": [
+        "bayroq", 
+        "Yangi Zelandiya"
+    ], 
+    "🇴🇲": [
+        "bayroq", 
+        "Ummon"
+    ], 
+    "🇵🇦": [
+        "bayroq", 
+        "Panama"
+    ], 
+    "🇵🇪": [
+        "bayroq", 
+        "Peru"
+    ], 
+    "🇵🇫": [
+        "bayroq", 
+        "Fransuz Polineziyasi"
+    ], 
+    "🇵🇬": [
+        "bayroq", 
+        "Papua – Yangi Gvineya"
+    ], 
+    "🇵🇭": [
+        "bayroq", 
+        "Filippin"
+    ], 
+    "🇵🇰": [
+        "bayroq", 
+        "Pokiston"
+    ], 
+    "🇵🇱": [
+        "bayroq", 
+        "Polsha"
+    ], 
+    "🇵🇲": [
+        "bayroq", 
+        "Sen-Pyer va Mikelon"
+    ], 
+    "🇵🇳": [
+        "bayroq", 
+        "Pitkern orollari"
+    ], 
+    "🇵🇷": [
+        "bayroq", 
+        "Puerto-Riko"
+    ], 
+    "🇵🇸": [
+        "bayroq", 
+        "Falastin hududlari"
+    ], 
+    "🇵🇹": [
+        "bayroq", 
+        "Portugaliya"
+    ], 
+    "🇵🇼": [
+        "bayroq", 
+        "Palau"
+    ], 
+    "🇵🇾": [
+        "bayroq", 
+        "Paragvay"
+    ], 
+    "🇶🇦": [
+        "bayroq", 
+        "Qatar"
+    ], 
+    "🇷🇪": [
+        "bayroq", 
+        "Reyunion"
+    ], 
+    "🇷🇴": [
+        "bayroq", 
+        "Ruminiya"
+    ], 
+    "🇷🇸": [
+        "bayroq", 
+        "Serbiya"
+    ], 
+    "🇷🇺": [
+        "bayroq", 
+        "Rossiya"
+    ], 
+    "🇷🇼": [
+        "bayroq", 
+        "Ruanda"
+    ], 
+    "🇸🇦": [
+        "bayroq", 
+        "Saudiya Arabistoni"
+    ], 
+    "🇸🇧": [
+        "bayroq", 
+        "Solomon orollari"
+    ], 
+    "🇸🇨": [
+        "bayroq", 
+        "Seyshel orollari"
+    ], 
+    "🇸🇩": [
+        "bayroq", 
+        "Sudan"
+    ], 
+    "🇸🇪": [
+        "bayroq", 
+        "Shvetsiya"
+    ], 
+    "🇸🇬": [
+        "bayroq", 
+        "Singapur"
+    ], 
+    "🇸🇭": [
+        "bayroq", 
+        "Muqaddas Yelena oroli"
+    ], 
+    "🇸🇮": [
+        "bayroq", 
+        "Sloveniya"
+    ], 
+    "🇸🇯": [
+        "bayroq", 
+        "Shpitsbergen va Yan-Mayen"
+    ], 
+    "🇸🇰": [
+        "bayroq", 
+        "Slovakiya"
+    ], 
+    "🇸🇱": [
+        "bayroq", 
+        "Syerra-Leone"
+    ], 
+    "🇸🇲": [
+        "bayroq", 
+        "San-Marino"
+    ], 
+    "🇸🇳": [
+        "bayroq", 
+        "Senegal"
+    ], 
+    "🇸🇴": [
+        "bayroq", 
+        "Somali"
+    ], 
+    "🇸🇷": [
+        "bayroq", 
+        "Surinam"
+    ], 
+    "🇸🇸": [
+        "bayroq", 
+        "Janubiy Sudan"
+    ], 
+    "🇸🇹": [
+        "bayroq", 
+        "San-Tome va Prinsipi"
+    ], 
+    "🇸🇻": [
+        "bayroq", 
+        "Salvador"
+    ], 
+    "🇸🇽": [
+        "bayroq", 
+        "Sint-Marten"
+    ], 
+    "🇸🇾": [
+        "bayroq", 
+        "Suriya"
+    ], 
+    "🇸🇿": [
+        "bayroq", 
+        "Svazilend"
+    ], 
+    "🇹🇦": [
+        "bayroq", 
+        "Tristan-da-Kunya"
+    ], 
+    "🇹🇨": [
+        "bayroq", 
+        "Turks va Kaykos orollari"
+    ], 
+    "🇹🇩": [
+        "bayroq", 
+        "Chad"
+    ], 
+    "🇹🇫": [
+        "bayroq", 
+        "Fransuz Janubiy hududlari"
+    ], 
+    "🇹🇬": [
+        "bayroq", 
+        "Togo"
+    ], 
+    "🇹🇭": [
+        "bayroq", 
+        "Tailand"
+    ], 
+    "🇹🇯": [
+        "bayroq", 
+        "Tojikiston"
+    ], 
+    "🇹🇰": [
+        "bayroq", 
+        "Tokelau"
+    ], 
+    "🇹🇱": [
+        "bayroq", 
+        "Timor-Leste"
+    ], 
+    "🇹🇲": [
+        "bayroq", 
+        "Turkmaniston"
+    ], 
+    "🇹🇳": [
+        "bayroq", 
+        "Tunis"
+    ], 
+    "🇹🇴": [
+        "bayroq", 
+        "Tonga"
+    ], 
+    "🇹🇷": [
+        "bayroq", 
+        "Turkiya"
+    ], 
+    "🇹🇹": [
+        "bayroq", 
+        "Trinidad va Tobago"
+    ], 
+    "🇹🇻": [
+        "bayroq", 
+        "Tuvalu"
+    ], 
+    "🇹🇼": [
+        "bayroq", 
+        "Tayvan"
+    ], 
+    "🇹🇿": [
+        "bayroq", 
+        "Tanzaniya"
+    ], 
+    "🇺🇦": [
+        "bayroq", 
+        "Ukraina"
+    ], 
+    "🇺🇬": [
+        "bayroq", 
+        "Uganda"
+    ], 
+    "🇺🇲": [
+        "bayroq", 
+        "AQSH yondosh orollari"
+    ], 
+    "🇺🇳": [
+        "bayroq", 
+        "Birlashgan Millatlar Tashkiloti"
+    ], 
+    "🇺🇸": [
+        "bayroq", 
+        "Amerika Qo‘shma Shtatlari"
+    ], 
+    "🇺🇾": [
+        "bayroq", 
+        "Urugvay"
+    ], 
+    "🇺🇿": [
+        "bayroq", 
+        "Oʻzbekiston"
+    ], 
+    "🇻🇦": [
+        "bayroq", 
+        "Vatikan"
+    ], 
+    "🇻🇨": [
+        "bayroq", 
+        "Sent-Vinsent va Grenadin"
+    ], 
+    "🇻🇪": [
+        "bayroq", 
+        "Venesuela"
+    ], 
+    "🇻🇬": [
+        "bayroq", 
+        "Britaniya Virgin orollari"
+    ], 
+    "🇻🇮": [
+        "bayroq", 
+        "AQSH Virgin orollari"
+    ], 
+    "🇻🇳": [
+        "bayroq", 
+        "Vyetnam"
+    ], 
+    "🇻🇺": [
+        "bayroq", 
+        "Vanuatu"
+    ], 
+    "🇼🇫": [
+        "bayroq", 
+        "Uollis va Futuna"
+    ], 
+    "🇼🇸": [
+        "bayroq", 
+        "Samoa"
+    ], 
+    "🇽🇰": [
+        "bayroq", 
+        "Kosovo"
+    ], 
+    "🇾🇪": [
+        "bayroq", 
+        "Yaman"
+    ], 
+    "🇾🇹": [
+        "bayroq", 
+        "Mayotta"
+    ], 
+    "🇿🇦": [
+        "bayroq", 
+        "Janubiy Afrika Respublikasi"
+    ], 
+    "🇿🇲": [
+        "bayroq", 
+        "Zambiya"
+    ], 
+    "🇿🇼": [
+        "bayroq", 
+        "Zimbabve"
+    ], 
+    "🈁": [
+        "yaponcha", 
+        "kvadrat ichidagi katakanadagi koko so‘zi"
+    ], 
+    "🈚": [
+        "yaponcha", 
+        "kvadrat ichidagi inkor iyeroglifi"
+    ], 
+    "🈯": [
+        "yaponcha", 
+        "kvadrat ichidagi barmoq iyeroglifi"
+    ], 
+    "🈲": [
+        "yaponcha", 
+        "kvadrat ichidagi taqiqlash iyeroglifi"
+    ], 
+    "🈳": [
+        "kvadrat ichidagi bo‘shliq iyeroglifi", 
+        "xitoycha"
+    ], 
+    "🈴": [
+        "xitoycha", 
+        "kvadrat ichidagi birgalik iyeroglifi"
+    ], 
+    "🈵": [
+        "kvadrat ichida iyeroglif yozuvidagi to‘liq belgisi", 
+        "xitoycha"
+    ], 
+    "🈶": [
+        "yaponcha", 
+        "kvadrat ichidagi mavjudlik iyeroglifi"
+    ], 
+    "🈸": [
+        "kvadrat ichidagi tatbiq qilish iyeroglifi", 
+        "xitoycha"
+    ], 
+    "🈹": [
+        "yaponcha", 
+        "kvadrat ichidagi bo‘lish iyeroglifi"
+    ], 
+    "🈺": [
+        "kvadrat ichida iyeroglif yozuvidagi amaliyot belgisi", 
+        "xitoycha"
+    ], 
+    "🉐": [
+        "yaponcha", 
+        "aylana ichidagi afzallik iyeroglifi"
+    ], 
+    "🉑": [
+        "aylana ichidagi qabul qilish iyeroglifi", 
+        "xitoycha"
+    ], 
+    "🌀": [
+        "siklon", 
+        "aylanuvchan", 
+        "bo‘ron", 
+        "tayfun", 
+        "ob-havo"
+    ], 
+    "🌁": [
+        "tuman", 
+        "tumanli", 
+        "ob-havo"
+    ], 
+    "🌂": [
+        "yopiq soyabon", 
+        "soyabon", 
+        "yomg‘ir", 
+        "kiyim", 
+        "ob-havo"
+    ], 
+    "🌃": [
+        "yulduz", 
+        "yulduzli tun", 
+        "tun", 
+        "ob-havo"
+    ], 
+    "🌄": [
+        "quyosh", 
+        "tong", 
+        "tog‘lar ortidan quyosh chiqishi", 
+        "tog‘", 
+        "quyosh chiqishi", 
+        "ob-havo"
+    ], 
+    "🌅": [
+        "quyosh chiqishi", 
+        "quyosh", 
+        "tong", 
+        "ob-havo"
+    ], 
+    "🌆": [
+        "bino", 
+        "quyosh", 
+        "kechqurun", 
+        "kunbotar mahaldagi shahar manzarasi", 
+        "quyosh botishi", 
+        "shahar", 
+        "manzara", 
+        "shom", 
+        "ob-havo"
+    ], 
+    "🌇": [
+        "bino", 
+        "quyosh botishi", 
+        "quyosh", 
+        "ob-havo"
+    ], 
+    "🌈": [
+        "yomg‘ir", 
+        "kamalak", 
+        "ob-havo"
+    ], 
+    "🌉": [
+        "tundagi ko‘prik", 
+        "ob-havo", 
+        "tun", 
+        "ko‘prik"
+    ], 
+    "🌊": [
+        "to‘lqin", 
+        "okean", 
+        "ummon", 
+        "suv to‘lqini", 
+        "suv", 
+        "ob-havo"
+    ], 
+    "🌋": [
+        "vulqon", 
+        "tog‘", 
+        "ob-havo"
+    ], 
+    "🌌": [
+        "koinot", 
+        "somon yo‘li", 
+        "ob-havo"
+    ], 
+    "🌍": [
+        "globusda yevropa va afrika qit’asi", 
+        "dunyo", 
+        "globus", 
+        "yevropa", 
+        "afrika", 
+        "yer"
+    ], 
+    "🌎": [
+        "dunyo", 
+        "globus", 
+        "yer", 
+        "amerika", 
+        "globusda amerika qit’asi"
+    ], 
+    "🌏": [
+        "dunyo", 
+        "osiyo", 
+        "globus", 
+        "avstraliya", 
+        "globusda osiyo va avstraliya qit’asi", 
+        "yer"
+    ], 
+    "🌐": [
+        "dunyo", 
+        "globus", 
+        "yer", 
+        "meridian", 
+        "meridian chiziqli globus"
+    ], 
+    "🌑": [
+        "yangi oy", 
+        "qora", 
+        "koinot", 
+        "oy", 
+        "ob-havo"
+    ], 
+    "🌒": [
+        "kattalashib boruvchi", 
+        "koinot", 
+        "kattalashib boruvchi yarim oy", 
+        "oy", 
+        "ob-havo"
+    ], 
+    "🌓": [
+        "koinot", 
+        "birinchi chorakdagi oy", 
+        "chorak", 
+        "oy", 
+        "ob-havo"
+    ], 
+    "🌔": [
+        "kattalashib boruvchi qavariq oy", 
+        "qavariq", 
+        "koinot", 
+        "oy", 
+        "ob-havo"
+    ], 
+    "🌕": [
+        "to‘lin", 
+        "to‘liq", 
+        "to‘lin oy", 
+        "koinot", 
+        "ob-havo"
+    ], 
+    "🌖": [
+        "kichrayib borayotgan", 
+        "oy", 
+        "kichiklashib borayotgan qavariq oy", 
+        "qavariq", 
+        "koinot", 
+        "ob-havo"
+    ], 
+    "🌗": [
+        "koinot", 
+        "chorak", 
+        "oy", 
+        "oxirgi chorakdagi oy", 
+        "ob-havo"
+    ], 
+    "🌘": [
+        "kichiklashib borayotgan yarim oy", 
+        "ob-havo", 
+        "koinot", 
+        "oy", 
+        "kichiklashib boruvchi"
+    ], 
+    "🌙": [
+        "koinot", 
+        "yarim oy", 
+        "oy", 
+        "ob-havo"
+    ], 
+    "🌚": [
+        "oymomo", 
+        "yuz", 
+        "yangi oy qiyofasi", 
+        "oy", 
+        "koinot", 
+        "ob-havo"
+    ], 
+    "🌛": [
+        "yuz", 
+        "chorak", 
+        "birinchi chorakdagi oy qiyofasi", 
+        "oy", 
+        "koinot", 
+        "ob-havo"
+    ], 
+    "🌜": [
+        "yuz", 
+        "chorak", 
+        "oxirgi chorakdagi oy qiyofasi", 
+        "oy", 
+        "koinot", 
+        "ob-havo"
+    ], 
+    "🌝": [
+        "yuz", 
+        "to‘lin", 
+        "to‘lin oy qiyofali", 
+        "to‘liq", 
+        "osmon", 
+        "yorug‘lik", 
+        "koinot", 
+        "ob-havo"
+    ], 
+    "🌞": [
+        "yuz", 
+        "quyosh", 
+        "yorug‘ilik", 
+        "osmon", 
+        "quyosh qiyofasi", 
+        "ob-havo"
+    ], 
+    "🌟": [
+        "porlayotgan", 
+        "charaqlash", 
+        "porlayotgan yulduz", 
+        "yulduz", 
+        "porlash", 
+        "porloq"
+    ], 
+    "🌠": [
+        "yulduz", 
+        "uchayotgan yulduz", 
+        "koinot", 
+        "osmon", 
+        "uchayotgan"
+    ], 
+    "🌭": [
+        "kolbasa", 
+        "xot-dog"
+    ], 
+    "🌮": [
+        "meksika taomi", 
+        "tako"
+    ], 
+    "🌯": [
+        "burrito", 
+        "meksika taomi"
+    ], 
+    "🌰": [
+        "kashtan yong‘oq", 
+        "o‘simlik"
+    ], 
+    "🌱": [
+        "yosh", 
+        "o‘simlik", 
+        "ko‘chat"
+    ], 
+    "🌲": [
+        "daraxt", 
+        "o‘simlik", 
+        "archa"
+    ], 
+    "🌳": [
+        "to‘kilish", 
+        "o‘simlik", 
+        "daraxt", 
+        "bargli daraxt", 
+        "barg"
+    ], 
+    "🌴": [
+        "palma", 
+        "o‘simlik", 
+        "palma daraxti", 
+        "daraxt"
+    ], 
+    "🌵": [
+        "o‘simlik", 
+        "kaktus"
+    ], 
+    "🌷": [
+        "lola", 
+        "o‘simlik", 
+        "gul"
+    ], 
+    "🌸": [
+        "gilos guli", 
+        "o‘simlik", 
+        "gilos", 
+        "gul"
+    ], 
+    "🌹": [
+        "o‘simlik", 
+        "atirgul", 
+        "gul"
+    ], 
+    "🌺": [
+        "o‘simlik", 
+        "xitoy atirguli", 
+        "gul"
+    ], 
+    "🌻": [
+        "o‘simlik", 
+        "kungaboqar", 
+        "quyosh", 
+        "gul"
+    ], 
+    "🌼": [
+        "o‘simlik", 
+        "gul"
+    ], 
+    "🌽": [
+        "jo‘xori", 
+        "boshoq", 
+        "makkajo‘xori", 
+        "o‘simlik"
+    ], 
+    "🌾": [
+        "guruch", 
+        "boshoq", 
+        "o‘simlik", 
+        "sholi poyasi"
+    ], 
+    "🌿": [
+        "o‘simlik", 
+        "barg"
+    ], 
+    "🍀": [
+        "yaproq", 
+        "to‘rt yaproqli beda bargi", 
+        "to‘rt", 
+        "4", 
+        "barg", 
+        "o‘simlik"
+    ], 
+    "🍁": [
+        "o‘simlik", 
+        "zarang", 
+        "zarang bargi", 
+        "barg", 
+        "xazon"
+    ], 
+    "🍂": [
+        "o‘simlik", 
+        "xazon bargi", 
+        "barg", 
+        "xazon"
+    ], 
+    "🍃": [
+        "shamol", 
+        "o‘simlik", 
+        "shamolda uchayotgan barg", 
+        "uchish", 
+        "barg"
+    ], 
+    "🍄": [
+        "o‘simlik", 
+        "qo‘ziqorin"
+    ], 
+    "🍅": [
+        "sabzavot", 
+        "o‘simlik", 
+        "pomidor"
+    ], 
+    "🍆": [
+        "sabzavot", 
+        "baqlajon", 
+        "o‘simlik"
+    ], 
+    "🍇": [
+        "o‘simlik", 
+        "meva", 
+        "uzum"
+    ], 
+    "🍈": [
+        "qovun", 
+        "o‘simlik", 
+        "meva"
+    ], 
+    "🍉": [
+        "o‘simlik", 
+        "meva", 
+        "tarvuz"
+    ], 
+    "🍊": [
+        "mandarin", 
+        "apelsin", 
+        "o‘simlik", 
+        "meva"
+    ], 
+    "🍋": [
+        "limon", 
+        "sitrus", 
+        "nordon", 
+        "meva", 
+        "o‘simlik"
+    ], 
+    "🍌": [
+        "o‘simlik", 
+        "banan", 
+        "meva"
+    ], 
+    "🍍": [
+        "ananas", 
+        "meva", 
+        "o‘simlik"
+    ], 
+    "🍎": [
+        "o‘simlik", 
+        "qizil olma", 
+        "meva", 
+        "qizil", 
+        "olma"
+    ], 
+    "🍏": [
+        "yashil olma", 
+        "olma", 
+        "meva", 
+        "yashil", 
+        "o‘zimlik"
+    ], 
+    "🍐": [
+        "o‘simlik", 
+        "meva", 
+        "nok"
+    ], 
+    "🍑": [
+        "o‘simlik", 
+        "meva", 
+        "shaftoli"
+    ], 
+    "🍒": [
+        "o‘simlik", 
+        "gilos", 
+        "olcha", 
+        "meva"
+    ], 
+    "🍓": [
+        "o‘simlik", 
+        "meva", 
+        "qulupnay"
+    ], 
+    "🍔": [
+        "burger", 
+        "gamburger"
+    ], 
+    "🍕": [
+        "pishloq", 
+        "pitsa", 
+        "bo‘lak"
+    ], 
+    "🍖": [
+        "suyakdagi go‘sht", 
+        "go‘sht", 
+        "suyak"
+    ], 
+    "🍗": [
+        "suyak", 
+        "tovuq", 
+        "parranda oyog‘i", 
+        "oyoq", 
+        "parranda"
+    ], 
+    "🍘": [
+        "guruch", 
+        "kreker", 
+        "guruchli pishiriq"
+    ], 
+    "🍙": [
+        "guruch", 
+        "yumaloqlangan guruch", 
+        "yumaloq", 
+        "yapon"
+    ], 
+    "🍚": [
+        "guruch", 
+        "pishirilgan", 
+        "pishirilgan guruch"
+    ], 
+    "🍛": [
+        "guruch", 
+        "karri", 
+        "guruchli karri"
+    ], 
+    "🍜": [
+        "ramyon", 
+        "issiq lag‘mon", 
+        "issiq", 
+        "lag‘mon", 
+        "kosa"
+    ], 
+    "🍝": [
+        "pasta", 
+        "spagetti"
+    ], 
+    "🍞": [
+        "non", 
+        "bulka non"
+    ], 
+    "🍟": [
+        "qovurilgan fri-kartoshka", 
+        "kartoshka", 
+        "fri", 
+        "qovurilgan"
+    ], 
+    "🍠": [
+        "kartoshka", 
+        "qovurilgan", 
+        "jigarli batat", 
+        "shirin"
+    ], 
+    "🍡": [
+        "yapon", 
+        "six", 
+        "shirinlik", 
+        "tayoq", 
+        "dango", 
+        "shirin"
+    ], 
+    "🍢": [
+        "sixdagi dengiz taomi", 
+        "dengiz taomi", 
+        "kabob", 
+        "six"
+    ], 
+    "🍣": [
+        "sushi"
+    ], 
+    "🍤": [
+        "qovurilgan", 
+        "qovurilgan qisqichbaqa", 
+        "qisqichbaqa", 
+        "tempura"
+    ], 
+    "🍥": [
+        "tort", 
+        "baliq", 
+        "girdob", 
+        "qandolat", 
+        "girdob ko‘rinishidagi baliqli tort"
+    ], 
+    "🍦": [
+        "yumshoq", 
+        "yumshoq muzqaymoq", 
+        "muz", 
+        "muzqaymoq", 
+        "shirinlik", 
+        "krem", 
+        "shirin"
+    ], 
+    "🍧": [
+        "shirin", 
+        "qirilgan muz", 
+        "qirilgan", 
+        "shirinlik", 
+        "muz"
+    ], 
+    "🍨": [
+        "muzqaymoq", 
+        "shirin", 
+        "krem", 
+        "shirinlik", 
+        "muz"
+    ], 
+    "🍩": [
+        "teshik kulcha", 
+        "shirinlik", 
+        "shirin"
+    ], 
+    "🍪": [
+        "shirin", 
+        "shirinlik", 
+        "pishiriq"
+    ], 
+    "🍫": [
+        "shokolad bo‘lagi", 
+        "shokolad", 
+        "shirin", 
+        "shirinlik", 
+        "bo‘lak"
+    ], 
+    "🍬": [
+        "konfet", 
+        "shirinlik", 
+        "shirin"
+    ], 
+    "🍭": [
+        "shirin", 
+        "konfet", 
+        "shirinlik", 
+        "obakidandon"
+    ], 
+    "🍮": [
+        "puding", 
+        "krem", 
+        "shirinlik", 
+        "shirin"
+    ], 
+    "🍯": [
+        "asal idishi", 
+        "asal", 
+        "bochka", 
+        "shirin"
+    ], 
+    "🍰": [
+        "tort bo‘lagi", 
+        "qandolat", 
+        "tort", 
+        "shirinlik", 
+        "bo‘lak", 
+        "shirin"
+    ], 
+    "🍱": [
+        "xonachali taom qutisi", 
+        "xonachali", 
+        "quti"
+    ], 
+    "🍲": [
+        "bir qozon ovqat", 
+        "go‘sht", 
+        "qozon"
+    ], 
+    "🍳": [
+        "tova", 
+        "qovurish", 
+        "taom tayyorlash", 
+        "tuxum"
+    ], 
+    "🍴": [
+        "sanchqi va pichoq", 
+        "pichoq", 
+        "sanchqi", 
+        "taom"
+    ], 
+    "🍵": [
+        "choy", 
+        "ichimlik", 
+        "piyola", 
+        "issiq ichimlik"
+    ], 
+    "🍶": [
+        "bar", 
+        "ichimlik", 
+        "ko‘za va piyola", 
+        "piyola", 
+        "shisha idish", 
+        "issiq ichimlik"
+    ], 
+    "🍷": [
+        "bar", 
+        "vino", 
+        "vino qadahi", 
+        "ichimlik", 
+        "stakan", 
+        "issiq ichimlik"
+    ], 
+    "🍸": [
+        "kokteyl", 
+        "kokteyl qadahi", 
+        "ichimlik", 
+        "bar", 
+        "stakan"
+    ], 
+    "🍹": [
+        "tropik ichimlik", 
+        "tropik", 
+        "ichimlik", 
+        "bar"
+    ], 
+    "🍺": [
+        "krujka", 
+        "ichimlik", 
+        "bar", 
+        "pivo stakani", 
+        "pivo"
+    ], 
+    "🍻": [
+        "krujka", 
+        "ichimlik", 
+        "jaranglash", 
+        "bar", 
+        "to‘qnashtirilayotgan pivo stakanlari", 
+        "pivo"
+    ], 
+    "🍼": [
+        "ichimlik", 
+        "sut", 
+        "chaqaloq", 
+        "shisha idish", 
+        "chaqaloqlar idishi"
+    ], 
+    "🍾": [
+        "ichimlik", 
+        "bar", 
+        "shisha idish", 
+        "otilayotgan", 
+        "tiqinli shisha idish"
+    ], 
+    "🍿": [
+        "popkorn"
+    ], 
+    "🎀": [
+        "bayram", 
+        "lenta"
+    ], 
+    "🎁": [
+        "o‘ralgan", 
+        "sovg‘a", 
+        "bayram", 
+        "quri", 
+        "o‘ralgan sovg‘a"
+    ], 
+    "🎂": [
+        "tug‘ilgan kun", 
+        "qandolat", 
+        "nishonlash", 
+        "tort", 
+        "shirinlik", 
+        "shirin"
+    ], 
+    "🎃": [
+        "oshqovoq", 
+        "bayram", 
+        "shamchiroqli oshqovoq", 
+        "halloween", 
+        "nishonlash"
+    ], 
+    "🎄": [
+        "bayram", 
+        "yangi yil", 
+        "daraxt", 
+        "yangi yil archasi", 
+        "nishonlash"
+    ], 
+    "🎅": [
+        "ertak", 
+        "santa-klaus", 
+        "nishonlash", 
+        "fantaziya", 
+        "qorbobo", 
+        "santa"
+    ], 
+    "🎆": [
+        "bayram", 
+        "mushakbozlik", 
+        "nishonlash"
+    ], 
+    "🎇": [
+        "mushakbozlik", 
+        "bayram", 
+        "charaqlash", 
+        "bengal olovi"
+    ], 
+    "🎈": [
+        "shar", 
+        "bayram"
+    ], 
+    "🎉": [
+        "bayram", 
+        "paqildoq", 
+        "popildoq", 
+        "nishonlash"
+    ], 
+    "🎊": [
+        "konfetti", 
+        "shar", 
+        "bayram"
+    ], 
+    "🎋": [
+        "daraxt", 
+        "bayram", 
+        "banner", 
+        "yapon", 
+        "tanabata daraxti"
+    ], 
+    "🎌": [
+        "yapon", 
+        "bayram", 
+        "kesishgan", 
+        "bir-birini kesib o‘tgan bayroqlar", 
+        "nishonlash"
+    ], 
+    "🎍": [
+        "qarag‘ay bezagi", 
+        "bayram", 
+        "yapon", 
+        "bambuk", 
+        "qarag‘ay", 
+        "o‘simlik"
+    ], 
+    "🎎": [
+        "festival", 
+        "bayram", 
+        "yapon", 
+        "qo‘g‘irchoq", 
+        "yapon qo‘g‘irchoqlari"
+    ], 
+    "🎏": [
+        "vimpel", 
+        "bayram", 
+        "zog‘orabaliq", 
+        "zog‘orabaliq shaklidagi vimpel"
+    ], 
+    "🎐": [
+        "shamol", 
+        "shamol qo‘ng‘irog‘i", 
+        "bayram", 
+        "jarangi", 
+        "qo‘ng‘iroqcha"
+    ], 
+    "🎑": [
+        "bayram", 
+        "marosim", 
+        "tadbir", 
+        "oy marosimi", 
+        "oy"
+    ], 
+    "🎒": [
+        "maktab", 
+        "jild", 
+        "sumka", 
+        "maktab sumkasi"
+    ], 
+    "🎓": [
+        "shlyapa", 
+        "bosh kiyim", 
+        "bitiruv", 
+        "akademik bosh kiyim", 
+        "nishonlash", 
+        "kiyim"
+    ], 
+    "🎠": [
+        "karusel", 
+        "ot", 
+        "karusel oti"
+    ], 
+    "🎡": [
+        "ko‘ngilochar park", 
+        "charxpalak"
+    ], 
+    "🎢": [
+        "ko‘ngilochar park", 
+        "g‘ildiratma", 
+        "hayinchak", 
+        "g‘ildiratma hayinchak"
+    ], 
+    "🎣": [
+        "baliq", 
+        "qarmoq"
+    ], 
+    "🎤": [
+        "karaoke", 
+        "mikrofon"
+    ], 
+    "🎥": [
+        "kino", 
+        "kinokamera", 
+        "kamera", 
+        "film"
+    ], 
+    "🎦": [
+        "kino", 
+        "kinoteatr", 
+        "kamera", 
+        "film"
+    ], 
+    "🎧": [
+        "quloqlik", 
+        "quloqqa tiqiladigan"
+    ], 
+    "🎨": [
+        "palitra", 
+        "san’at", 
+        "paletra", 
+        "rassomlik", 
+        "muzey"
+    ], 
+    "🎩": [
+        "bosh kiyim", 
+        "shlyapa", 
+        "silindr shlyapa", 
+        "kiyim"
+    ], 
+    "🎪": [
+        "sirk", 
+        "sirk chodiri", 
+        "chodir"
+    ], 
+    "🎫": [
+        "kirish", 
+        "chipta"
+    ], 
+    "🎬": [
+        "kino", 
+        "klaper", 
+        "film", 
+        "klaper taxtasi"
+    ], 
+    "🎭": [
+        "teatr", 
+        "niqob", 
+        "san’at", 
+        "teatr niqoblari"
+    ], 
+    "🎮": [
+        "kontroller", 
+        "video o‘yin", 
+        "o‘yin"
+    ], 
+    "🎯": [
+        "mo‘ljal", 
+        "o‘yin", 
+        "ko‘z", 
+        "taget", 
+        "dart", 
+        "buqa", 
+        "mo‘ljalni urish"
+    ], 
+    "🎰": [
+        "o‘yin avtomati", 
+        "o‘yin", 
+        "avtomat"
+    ], 
+    "🎱": [
+        "shar", 
+        "o‘yin", 
+        "sakkiz", 
+        "billiard", 
+        "8", 
+        "8 ta shar"
+    ], 
+    "🎲": [
+        "shoshqol toshi", 
+        "shoshqol", 
+        "tosh", 
+        "o‘yin"
+    ], 
+    "🎳": [
+        "bouling", 
+        "o‘yin", 
+        "to‘p"
+    ], 
+    "🎴": [
+        "karta", 
+        "yapon", 
+        "o‘yin", 
+        "gul", 
+        "o‘ynash", 
+        "gulli o‘yin kartalari"
+    ], 
+    "🎵": [
+        "musiqiy nota", 
+        "nota", 
+        "musiqa"
+    ], 
+    "🎶": [
+        "notalar", 
+        "musiqiy notalar", 
+        "nota", 
+        "musiqa"
+    ], 
+    "🎷": [
+        "saksafon", 
+        "asbob", 
+        "saksofon", 
+        "musiqa"
+    ], 
+    "🎸": [
+        "gitara", 
+        "asbob", 
+        "musiqa"
+    ], 
+    "🎹": [
+        "pianino", 
+        "asbob", 
+        "musiqa", 
+        "klaviatura", 
+        "musiqiy klaviatura"
+    ], 
+    "🎺": [
+        "truba", 
+        "asbob", 
+        "musiqa"
+    ], 
+    "🎻": [
+        "skripka", 
+        "asbob", 
+        "musiqa"
+    ], 
+    "🎼": [
+        "musiqa", 
+        "kalit", 
+        "musiqa kaliti"
+    ], 
+    "🎽": [
+        "futbolka", 
+        "yugurish", 
+        "yugurish futbolkasi"
+    ], 
+    "🎾": [
+        "tennis", 
+        "raketka", 
+        "to‘p"
+    ], 
+    "🎿": [
+        "chang‘i", 
+        "qor"
+    ], 
+    "🏀": [
+        "basketbol", 
+        "gardish", 
+        "to‘p", 
+        "chambarak"
+    ], 
+    "🏁": [
+        "katak-katak bayroq", 
+        "katak-katak", 
+        "musobaqa", 
+        "poyga"
+    ], 
+    "🏂": [
+        "snoubordchi", 
+        "snoubord", 
+        "chang‘i", 
+        "qor"
+    ], 
+    "🏃": [
+        "marafon", 
+        "yugurish", 
+        "yuguruvchi"
+    ], 
+    "🏄": [
+        "serfing", 
+        "serfingchi"
+    ], 
+    "🏅": [
+        "sport medali", 
+        "medal"
+    ], 
+    "🏆": [
+        "kubok", 
+        "sovrin"
+    ], 
+    "🏇": [
+        "otchopar", 
+        "ot", 
+        "ot yugurtirish", 
+        "ippodrom"
+    ], 
+    "🏈": [
+        "amerikacha", 
+        "futbol", 
+        "amerikancha futbol", 
+        "to‘p"
+    ], 
+    "🏉": [
+        "regbi", 
+        "futbol", 
+        "to‘p"
+    ], 
+    "🏊": [
+        "suzish", 
+        "suzuvchi"
+    ], 
+    "🏏": [
+        "o‘yin", 
+        "cho‘p", 
+        "kriket", 
+        "to‘p"
+    ], 
+    "🏐": [
+        "voleybol", 
+        "o‘yin", 
+        "to‘p"
+    ], 
+    "🏑": [
+        "maydon", 
+        "xokkey maydoni", 
+        "xokkey", 
+        "o‘yin", 
+        "to‘p"
+    ], 
+    "🏒": [
+        "xokkey tayog‘i va diski", 
+        "xokkey", 
+        "o‘yin", 
+        "muz"
+    ], 
+    "🏓": [
+        "stol tennisi", 
+        "o‘yin", 
+        "to‘p"
+    ], 
+    "🏠": [
+        "bino", 
+        "uy"
+    ], 
+    "🏡": [
+        "bog‘", 
+        "bino", 
+        "hovli", 
+        "uy"
+    ], 
+    "🏢": [
+        "ofis binosi", 
+        "bino"
+    ], 
+    "🏣": [
+        "bino", 
+        "yaponcha pochtampt", 
+        "yapon", 
+        "pochtampt"
+    ], 
+    "🏤": [
+        "pochtamp", 
+        "bino", 
+        "yevropa", 
+        "pochtampt"
+    ], 
+    "🏥": [
+        "bino", 
+        "shifoxona", 
+        "shifokor", 
+        "tibbiyot"
+    ], 
+    "🏦": [
+        "bino", 
+        "bank"
+    ], 
+    "🏧": [
+        "atm", 
+        "bankomat", 
+        "bank"
+    ], 
+    "🏨": [
+        "bino", 
+        "mehmonxona"
+    ], 
+    "🏩": [
+        "sevgi mehmonxonasi", 
+        "bino", 
+        "mehmonxona", 
+        "sevgi"
+    ], 
+    "🏪": [
+        "bino", 
+        "qulaylik", 
+        "do‘kon", 
+        "navbatchi do‘kon"
+    ], 
+    "🏫": [
+        "maktab", 
+        "bino"
+    ], 
+    "🏬": [
+        "savdo", 
+        "bino", 
+        "univermag", 
+        "do‘kon"
+    ], 
+    "🏭": [
+        "bino", 
+        "zavod"
+    ], 
+    "🏮": [
+        "yapon", 
+        "lampa", 
+        "qizil", 
+        "bar", 
+        "yorug‘lik", 
+        "qizil qog‘ozli lampa"
+    ], 
+    "🏯": [
+        "qasr", 
+        "bino", 
+        "yapon", 
+        "yapon qasri"
+    ], 
+    "🏰": [
+        "qasr", 
+        "bino", 
+        "yevropa"
+    ], 
+    "🏴": [
+        "hilpirab turgan", 
+        "hilpiragan qora bayroq"
+    ], 
+    "🏸": [
+        "badminton", 
+        "qushcha", 
+        "raketka", 
+        "o‘yin"
+    ], 
+    "🏹": [
+        "o‘qotar", 
+        "qurol", 
+        "o‘q", 
+        "burj", 
+        "kamon", 
+        "o‘qchi", 
+        "kamon va o‘q"
+    ], 
+    "🏺": [
+        "ko‘za", 
+        "taom", 
+        "ichimlik", 
+        "qovg‘a", 
+        "burj"
+    ], 
+    "🏻": [
+        "emojini o‘zgartirish", 
+        "tus", 
+        "1–2-teri turi", 
+        "teri"
+    ], 
+    "🏼": [
+        "emojini o‘zgartirish", 
+        "tus", 
+        "3-teri turi", 
+        "teri"
+    ], 
+    "🏽": [
+        "4-teri turi", 
+        "emojini o‘zgartirish", 
+        "tus", 
+        "teri"
+    ], 
+    "🏾": [
+        "5-teri turi", 
+        "tus", 
+        "teri", 
+        "emojini o‘zgartirish"
+    ], 
+    "🏿": [
+        "emojini o‘zgartirish", 
+        "tus", 
+        "teri", 
+        "6-teri turi"
+    ], 
+    "🐀": [
+        "kalamush"
+    ], 
+    "🐁": [
+        "sichqon"
+    ], 
+    "🐂": [
+        "ho‘kiz", 
+        "burj"
+    ], 
+    "🐃": [
+        "suv", 
+        "buyvol"
+    ], 
+    "🐄": [
+        "sigir"
+    ], 
+    "🐅": [
+        "yo‘lbars"
+    ], 
+    "🐆": [
+        "qoplon"
+    ], 
+    "🐇": [
+        "quyon", 
+        "uy hayvobi"
+    ], 
+    "🐈": [
+        "uy hayvoni", 
+        "mushuk"
+    ], 
+    "🐉": [
+        "ajdar", 
+        "ertak"
+    ], 
+    "🐊": [
+        "timsoh"
+    ], 
+    "🐋": [
+        "kit"
+    ], 
+    "🐌": [
+        "shilliqqurt"
+    ], 
+    "🐍": [
+        "ilon", 
+        "burj"
+    ], 
+    "🐎": [
+        "ot", 
+        "ot poygasi"
+    ], 
+    "🐏": [
+        "qo‘y", 
+        "qo‘chqor", 
+        "burj"
+    ], 
+    "🐐": [
+        "echki", 
+        "uloq", 
+        "burj"
+    ], 
+    "🐑": [
+        "sovliq", 
+        "qo‘y"
+    ], 
+    "🐒": [
+        "maymun"
+    ], 
+    "🐓": [
+        "xo‘roz"
+    ], 
+    "🐔": [
+        "tovuq", 
+        "jo‘ja"
+    ], 
+    "🐕": [
+        "uy hayvoni", 
+        "kuchuk"
+    ], 
+    "🐖": [
+        "cho‘chqa"
+    ], 
+    "🐗": [
+        "to‘ng‘iz", 
+        "cho‘chqa"
+    ], 
+    "🐘": [
+        "fil"
+    ], 
+    "🐙": [
+        "sakkizoyoq"
+    ], 
+    "🐚": [
+        "spiral qobiq", 
+        "qobiq", 
+        "spiral"
+    ], 
+    "🐛": [
+        "xasharot", 
+        "taxtakana"
+    ], 
+    "🐜": [
+        "chumoli", 
+        "xasharot"
+    ], 
+    "🐝": [
+        "xasharot", 
+        "ari", 
+        "asalari"
+    ], 
+    "🐞": [
+        "xasharot", 
+        "xonqizi"
+    ], 
+    "🐟": [
+        "baliq", 
+        "burj"
+    ], 
+    "🐠": [
+        "tropik", 
+        "baliq", 
+        "tropik baliq"
+    ], 
+    "🐡": [
+        "baliq", 
+        "qorni katta baliq"
+    ], 
+    "🐢": [
+        "toshbaqa"
+    ], 
+    "🐣": [
+        "tuxumdan yorib chiqish", 
+        "chaqaloq", 
+        "jo‘ja", 
+        "tuxumdan chiqayotgan jo‘ja"
+    ], 
+    "🐤": [
+        "chaqaloq", 
+        "jo‘ja"
+    ], 
+    "🐥": [
+        "chaqaloq", 
+        "jo‘ja", 
+        "oldiga qarab turgan jo‘ja"
+    ], 
+    "🐦": [
+        "qush"
+    ], 
+    "🐧": [
+        "pingvin"
+    ], 
+    "🐨": [
+        "ayiq", 
+        "koala"
+    ], 
+    "🐩": [
+        "kuchuk", 
+        "pudel"
+    ], 
+    "🐪": [
+        "nortuya", 
+        "tuya", 
+        "bukur"
+    ], 
+    "🐫": [
+        "ikki o‘rkachli tuya", 
+        "tuya", 
+        "o‘rkach", 
+        "baqtriya tuyasi"
+    ], 
+    "🐬": [
+        "delfin", 
+        "suzgich"
+    ], 
+    "🐭": [
+        "sichqon", 
+        "yuz", 
+        "sichqon qiyofasi"
+    ], 
+    "🐮": [
+        "sigir qiyofasi", 
+        "sigir", 
+        "yuz"
+    ], 
+    "🐯": [
+        "yo‘lbars", 
+        "yuz", 
+        "yo‘lbars qiyofasi"
+    ], 
+    "🐰": [
+        "uy hayvoni", 
+        "quyon", 
+        "quyon qiyofasi", 
+        "yuz"
+    ], 
+    "🐱": [
+        "uy hayvoni", 
+        "mushuk qiyofasi", 
+        "mushuk", 
+        "yuz"
+    ], 
+    "🐲": [
+        "ajdar qiyofasi", 
+        "ajdar", 
+        "ertak", 
+        "ajdarho", 
+        "yuz"
+    ], 
+    "🐳": [
+        "sachratish", 
+        "favvora hosil qilayotgan kit", 
+        "yuz", 
+        "kit"
+    ], 
+    "🐴": [
+        "ot qiyofasi", 
+        "ot", 
+        "yuz"
+    ], 
+    "🐵": [
+        "maymun qiyofasi", 
+        "maymun", 
+        "yuz"
+    ], 
+    "🐶": [
+        "uy hayvoni", 
+        "kuchuk qiyofasi", 
+        "kuchuk", 
+        "yuz"
+    ], 
+    "🐷": [
+        "cho‘chqa qiyofasi", 
+        "cho‘chqa", 
+        "yuz"
+    ], 
+    "🐸": [
+        "baqa", 
+        "qurbaqa", 
+        "yuz", 
+        "qurbaqa qiyofasi"
+    ], 
+    "🐹": [
+        "uy hayvoni", 
+        "og‘maxon qiyofasi", 
+        "og‘maxon", 
+        "yuz"
+    ], 
+    "🐺": [
+        "bo‘ri qiyofasi", 
+        "bo‘ri", 
+        "yuz"
+    ], 
+    "🐻": [
+        "ayiq", 
+        "ayiq qiyofasi", 
+        "yuz"
+    ], 
+    "🐼": [
+        "yuz", 
+        "panda", 
+        "panda qiyofasi"
+    ], 
+    "🐽": [
+        "cho‘chqa", 
+        "cho‘chqa burni", 
+        "yuz", 
+        "burun"
+    ], 
+    "🐾": [
+        "panja izlari", 
+        "bosma", 
+        "oyoq", 
+        "panja"
+    ], 
+    "👀": [
+        "yuz", 
+        "ko‘z", 
+        "tana", 
+        "ko‘zlar"
+    ], 
+    "👂": [
+        "quloq", 
+        "tana"
+    ], 
+    "👃": [
+        "tana", 
+        "burun"
+    ], 
+    "👄": [
+        "og‘iz", 
+        "lablar", 
+        "tana"
+    ], 
+    "👅": [
+        "til", 
+        "tana"
+    ], 
+    "👆": [
+        "barmoq", 
+        "ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l", 
+        "tepaga", 
+        "tana", 
+        "qo‘l", 
+        "ko‘rsatkich", 
+        "qo‘l orqa tomoni", 
+        "yo‘naltirish"
+    ], 
+    "👇": [
+        "qo‘l", 
+        "barmoq", 
+        "yo‘naltirish", 
+        "tana", 
+        "ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l", 
+        "ko‘rsatkich", 
+        "qo‘l orqa tomoni", 
+        "pastga"
+    ], 
+    "👈": [
+        "barmoq", 
+        "ko‘rsatkich barmog‘i orqa tomoni bilan chapga qarab turgan qo‘l", 
+        "qo‘l", 
+        "ko‘rsatkich", 
+        "qo‘l orqa tomoni", 
+        "yo‘naltirish"
+    ], 
+    "👉": [
+        "barmoq", 
+        "ko‘rsatkich barmog‘i orqa tomoni bilan o‘ngga qarab turgan qo‘l", 
+        "barmoq orqa tomoni", 
+        "qo‘l", 
+        "ko‘rsatkich", 
+        "yo‘naltirish"
+    ], 
+    "👊": [
+        "musht", 
+        "yaqinlashayotgan musht", 
+        "tana", 
+        "tugilgan"
+    ], 
+    "👋": [
+        "qo‘l", 
+        "shapaloq", 
+        "tana", 
+        "silkitish"
+    ], 
+    "👌": [
+        "qo‘l", 
+        "qo‘lda qilingan ok", 
+        "ok", 
+        "tana"
+    ], 
+    "👍": [
+        "tepaga", 
+        "tana", 
+        "qo‘l", 
+        "+1", 
+        "tepaga qaragan bosh barmoq", 
+        "bosh barmoq"
+    ], 
+    "👎": [
+        "tana", 
+        "qo‘l", 
+        "-1", 
+        "pastga", 
+        "pastga qaragan bosh barmoq", 
+        "bosh barmoq"
+    ], 
+    "👏": [
+        "qo‘l", 
+        "chapak", 
+        "tana"
+    ], 
+    "👐": [
+        "ochiq qo‘llar", 
+        "ochiq", 
+        "qo‘l", 
+        "tana"
+    ], 
+    "👑": [
+        "qirol", 
+        "qirolicha", 
+        "kiyim", 
+        "toj"
+    ], 
+    "👒": [
+        "shlyapa", 
+        "ayollar shlyapasi", 
+        "ayol", 
+        "kiyim"
+    ], 
+    "👓": [
+        "ko‘zoynak", 
+        "ko‘z", 
+        "kiyim"
+    ], 
+    "👔": [
+        "bo‘yinbog‘", 
+        "kiyim"
+    ], 
+    "👕": [
+        "futbolka", 
+        "ko‘ylak", 
+        "kiyim"
+    ], 
+    "👖": [
+        "jinsi shim", 
+        "kiyim", 
+        "shim"
+    ], 
+    "👗": [
+        "libos", 
+        "kiyim"
+    ], 
+    "👘": [
+        "kimono", 
+        "kiyim"
+    ], 
+    "👙": [
+        "suzish", 
+        "bikini", 
+        "kiyim"
+    ], 
+    "👚": [
+        "ayollar kiyimi", 
+        "ayol", 
+        "kiyim"
+    ], 
+    "👛": [
+        "tanga", 
+        "hamyon", 
+        "kiyim"
+    ], 
+    "👜": [
+        "ayollar qo‘l sumkasi", 
+        "sumka", 
+        "kiyim"
+    ], 
+    "👝": [
+        "sumka", 
+        "kichik sumka", 
+        "kiyim"
+    ], 
+    "👞": [
+        "erkak", 
+        "erkaklar tuflisi", 
+        "kiyim", 
+        "tufli"
+    ], 
+    "👟": [
+        "tufli", 
+        "krossovka", 
+        "kiyim", 
+        "atletika"
+    ], 
+    "👠": [
+        "tufli", 
+        "ayol", 
+        "baland poshnali tufli", 
+        "kiyim", 
+        "poshna"
+    ], 
+    "👡": [
+        "ayollar shippagi", 
+        "shippak", 
+        "ayol", 
+        "tufli", 
+        "kiyim"
+    ], 
+    "👢": [
+        "oyoq kiyim", 
+        "etik", 
+        "ayol", 
+        "ayollar etigi", 
+        "kiyim", 
+        "tufli"
+    ], 
+    "👣": [
+        "oyoq izlari", 
+        "oyoq izi", 
+        "iz", 
+        "tana", 
+        "kiyim"
+    ], 
+    "👤": [
+        "byust", 
+        "kontur suratli byust", 
+        "siluet"
+    ], 
+    "👥": [
+        "byust", 
+        "siluet", 
+        "kontur suratli byustlar"
+    ], 
+    "👦": [
+        "bola", 
+        "erkak", 
+        "o‘g‘il bola"
+    ], 
+    "👧": [
+        "qiz bola", 
+        "sunbula", 
+        "burj", 
+        "bokira", 
+        "bo‘yi yetgan"
+    ], 
+    "👨": [
+        "erkak", 
+        "kishi"
+    ], 
+    "👨‍🌾": [
+        "rancho egasi", 
+        "erkak", 
+        "bog‘bon", 
+        "fermer", 
+        "erkak fermer"
+    ], 
+    "👨‍🍳": [
+        "bosh oshpaz", 
+        "erkak", 
+        "erkak oshpaz", 
+        "oshpaz", 
+        "kishi"
+    ], 
+    "👨‍🎓": [
+        "erkak", 
+        "talaba", 
+        "kishi", 
+        "erkak talaba", 
+        "bitiruvchi"
+    ], 
+    "👨‍🎤": [
+        "rok", 
+        "estrada artisti", 
+        "qo‘shiqchi", 
+        "aktor", 
+        "erkak qo‘shiqchi"
+    ], 
+    "👨‍🎨": [
+        "palitra", 
+        "erkak", 
+        "kishi", 
+        "erkak rassom", 
+        "artist"
+    ], 
+    "👨‍🏫": [
+        "o‘qituvchi", 
+        "erkak", 
+        "professor", 
+        "erkak o‘qituvchi"
+    ], 
+    "👨‍🏭": [
+        "sanoat", 
+        "ishchi", 
+        "zavod", 
+        "yig‘uv", 
+        "erkak zavod ishchisi"
+    ], 
+    "👨‍👦": [
+        "oila", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "oila: erkak o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👦‍👦": [
+        "oila: erkak o‘g‘il bola o‘g‘il bola", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👧": [
+        "oila: erkak qiz bola", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand"
+    ], 
+    "👨‍👧‍👦": [
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "oila: erkak qiz bola o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👧‍👧": [
+        "oila: erkak qiz bola qiz bola", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand"
+    ], 
+    "👨‍👨‍👦": [
+        "oila", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand", 
+        "oila: erkak erkak o‘g‘il bola", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "oila: erkak erkak o‘g‘il bola o‘g‘il bola", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👨‍👧": [
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "oila: erkak erkak qiz bola", 
+        "farzand"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "oila: erkak erkak qiz bola o‘g‘il bola", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "oila", 
+        "oila: erkak erkak qiz bola qiz bola", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand"
+    ], 
+    "👨‍👩‍👦": [
+        "ayol", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "oila: erkak ayol o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "oila: erkak ayol o‘g‘il bola o‘g‘il bola", 
+        "ayol", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👩‍👧": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "oila: erkak ayol qiz bola", 
+        "erkak", 
+        "farzand"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "oila: erkak ayol qiz bola o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "erkak", 
+        "farzand", 
+        "oila: erkak ayol qiz bola qiz bola"
+    ], 
+    "👨‍💻": [
+        "kodchi", 
+        "ixtirochi", 
+        "ishlab chiquvchi", 
+        "erkak texnolog"
+    ], 
+    "👨‍💼": [
+        "erkak ofis xodimi", 
+        "arxitektor", 
+        "menejer", 
+        "ofis", 
+        "biznes"
+    ], 
+    "👨‍🔧": [
+        "mexanik", 
+        "sotuvchi", 
+        "santexnik", 
+        "elektrik", 
+        "erkak mexanik"
+    ], 
+    "👨‍🔬": [
+        "kimyogar", 
+        "biolog", 
+        "erkak olim", 
+        "matematik", 
+        "muhandis"
+    ], 
+    "👨‍🚀": [
+        "erkak", 
+        "fazo", 
+        "raketa", 
+        "kosmonavt", 
+        "erkak kosmonavt"
+    ], 
+    "👨‍🚒": [
+        "erkak o‘t o‘chiruvchi", 
+        "erkak", 
+        "o‘t o‘chiruvchi", 
+        "o‘t o‘chirish mashinasi"
+    ], 
+    "👩": [
+        "ayol", 
+        "xotin"
+    ], 
+    "👩‍🌾": [
+        "rancho egasi", 
+        "bog‘bon", 
+        "ayol", 
+        "fermer", 
+        "ayol fermer"
+    ], 
+    "👩‍🍳": [
+        "bosh oshpaz", 
+        "ayol oshpaz", 
+        "ayol", 
+        "oshpaz", 
+        "xotin"
+    ], 
+    "👩‍🎓": [
+        "talaba", 
+        "ayol", 
+        "ayol talaba", 
+        "bitiruvchi"
+    ], 
+    "👩‍🎤": [
+        "rok", 
+        "ayol qo‘shiqchi", 
+        "estrada artisti", 
+        "qo‘shiqchi", 
+        "aktor"
+    ], 
+    "👩‍🎨": [
+        "palitra", 
+        "ayol", 
+        "ayol rassom", 
+        "xotin", 
+        "artist"
+    ], 
+    "👩‍🏫": [
+        "o‘qituvchi", 
+        "ayol o‘qituvchi", 
+        "professor", 
+        "ayol"
+    ], 
+    "👩‍🏭": [
+        "sanoat", 
+        "yig‘uv", 
+        "zavod", 
+        "ishchi", 
+        "ayol zavod ishchisi"
+    ], 
+    "👩‍👦": [
+        "ayol", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "oila: ayol o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👩‍👦‍👦": [
+        "ayol", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "oila: ayol o‘g‘il bola o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👩‍👧": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "oila: ayol qiz bola", 
+        "farzand"
+    ], 
+    "👩‍👧‍👦": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "oila: ayol qiz bola o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👩‍👧‍👧": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "farzand", 
+        "oila: ayol qiz bola qiz bola"
+    ], 
+    "👩‍👩‍👦": [
+        "ayol", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "farzand", 
+        "oila: ayol ayol o‘g‘il bola", 
+        "o‘g‘il bola"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "ayol", 
+        "oila", 
+        "ota", 
+        "ona", 
+        "oila: ayol ayol o‘g‘il bola o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👩‍👩‍👧": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "oila: ayol ayol qiz bola", 
+        "farzand"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "oila: ayol ayol qiz bola o‘g‘il bola", 
+        "farzand", 
+        "o‘g‘il bola"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "ayol", 
+        "oila", 
+        "qiz bola", 
+        "ota", 
+        "ona", 
+        "oila: ayol ayol qiz bola qiz bola", 
+        "farzand"
+    ], 
+    "👩‍💻": [
+        "kodchi", 
+        "ayol texnolog", 
+        "ishlab chiquvchi", 
+        "ixtirochi"
+    ], 
+    "👩‍💼": [
+        "arxitektor", 
+        "ayol ofis xodimi", 
+        "menejer", 
+        "ofis", 
+        "biznes"
+    ], 
+    "👩‍🔧": [
+        "mexanik", 
+        "santexnik", 
+        "sotuvchi", 
+        "ayol mexanik", 
+        "elektrik"
+    ], 
+    "👩‍🔬": [
+        "kimyogar", 
+        "biolog", 
+        "ayol olim", 
+        "muhandis", 
+        "matematik"
+    ], 
+    "👩‍🚀": [
+        "ayol kosmonavt", 
+        "fazo", 
+        "ayol", 
+        "raketa", 
+        "kosmonavt"
+    ], 
+    "👩‍🚒": [
+        "o‘t o‘chirish mashinasi", 
+        "ayol o‘t o‘chiruvchi", 
+        "ayol", 
+        "o‘t o‘chiruvchi"
+    ], 
+    "👪": [
+        "farzand", 
+        "ona", 
+        "oila", 
+        "ota"
+    ], 
+    "👫": [
+        "juftlik", 
+        "qo‘l ushlashib turgan erkak va ayol", 
+        "ushlash", 
+        "ayol", 
+        "qo‘l", 
+        "erkak"
+    ], 
+    "👬": [
+        "juftlik", 
+        "egizak", 
+        "ushlash", 
+        "burj", 
+        "qo‘l", 
+        "erkak", 
+        "egizaklar", 
+        "qo‘l ushlashib turgan ikki erkak"
+    ], 
+    "👭": [
+        "juftlik", 
+        "qo‘l", 
+        "ayol", 
+        "qo‘l ushlashib turgan ikki ayol", 
+        "ushlash"
+    ], 
+    "👮": [
+        "politsiya xodimi", 
+        "politsiya", 
+        "mirshab", 
+        "militsioner"
+    ], 
+    "👯": [
+        "quyon", 
+        "ayol", 
+        "quloq", 
+        "raqs", 
+        "qiz", 
+        "ayollar bazmi"
+    ], 
+    "👰": [
+        "kelin", 
+        "ro‘mol", 
+        "to‘y ro‘molidagi kelin", 
+        "to‘y"
+    ], 
+    "👱": [
+        "sariq", 
+        "sariq sochli odam"
+    ], 
+    "👲": [
+        "bosh kiyim", 
+        "xitoy bosh kiyimini kiygan kishi", 
+        "erkak kishi", 
+        "gua pi mao"
+    ], 
+    "👳": [
+        "erkak", 
+        "salla kiygan erkak", 
+        "salla"
+    ], 
+    "👴": [
+        "qari", 
+        "chol", 
+        "erkak kishi"
+    ], 
+    "👵": [
+        "kampir", 
+        "qari", 
+        "ayol"
+    ], 
+    "👶": [
+        "chaqaloq"
+    ], 
+    "👷": [
+        "bosh kiyim", 
+        "ishchi", 
+        "qurilish", 
+        "quruvchi"
+    ], 
+    "👸": [
+        "malika", 
+        "fantaziya", 
+        "ertak"
+    ], 
+    "👹": [
+        "yuz", 
+        "yapon", 
+        "maxluqot", 
+        "fantaziya", 
+        "ertak", 
+        "yovuz maxluq", 
+        "maxluq"
+    ], 
+    "👺": [
+        "yuz", 
+        "yapon", 
+        "maxluqot", 
+        "ajina", 
+        "fantaziya", 
+        "ertak", 
+        "maxluq"
+    ], 
+    "👻": [
+        "yuz", 
+        "maxluqot", 
+        "arvoh", 
+        "fantaziya", 
+        "ertak", 
+        "maxluq"
+    ], 
+    "👼": [
+        "chaqaloq farishta", 
+        "yuz", 
+        "farishta", 
+        "fantaziya", 
+        "chaqaloq", 
+        "ertak"
+    ], 
+    "👽": [
+        "yuz", 
+        "maxluqot", 
+        "fantaziya", 
+        "nuj", 
+        "ertak", 
+        "koinot", 
+        "o‘zga sayyoralik", 
+        "maxluq"
+    ], 
+    "👾": [
+        "yuz", 
+        "maxluqot", 
+        "fantaziya", 
+        "nuj", 
+        "ertak", 
+        "o‘zga sayyoralik maxluq", 
+        "koinot", 
+        "o‘zga sayyoralik", 
+        "maxluq"
+    ], 
+    "👿": [
+        "fantaziya", 
+        "yuz", 
+        "shayton", 
+        "ertak"
+    ], 
+    "💀": [
+        "yuz", 
+        "o‘lim", 
+        "tana", 
+        "ertak", 
+        "bosh suyagi", 
+        "maxluq"
+    ], 
+    "💁": [
+        "qo‘l", 
+        "ma’lumotxona xodimi", 
+        "yordam", 
+        "surbet", 
+        "ma’lumot"
+    ], 
+    "💂": [
+        "soqchi", 
+        "qo‘riqchi"
+    ], 
+    "💃": [
+        "raqqos", 
+        "raqqosa"
+    ], 
+    "💄": [
+        "lab bo‘yog‘i", 
+        "grim", 
+        "kosmetika"
+    ], 
+    "💅": [
+        "parvarish", 
+        "kosmetika", 
+        "lok", 
+        "tirnoq", 
+        "manikyur", 
+        "tana", 
+        "tirnoq uchun lok"
+    ], 
+    "💆": [
+        "yuzni uqalash", 
+        "salon", 
+        "massaj"
+    ], 
+    "💇": [
+        "go‘zallik", 
+        "salon", 
+        "soch qisqartirish", 
+        "sartarosh"
+    ], 
+    "💈": [
+        "ustun", 
+        "sartaroshlar ustuni", 
+        "sartarosh", 
+        "soch kaltalatish"
+    ], 
+    "💉": [
+        "shprits", 
+        "kasal", 
+        "emlash", 
+        "tibbiyot", 
+        "igna", 
+        "asbob", 
+        "ukol", 
+        "shifokor"
+    ], 
+    "💊": [
+        "kasal", 
+        "tibbiyot", 
+        "hapdori", 
+        "shifokor", 
+        "bemor", 
+        "doktor"
+    ], 
+    "💋": [
+        "tamg‘a", 
+        "yurak", 
+        "romantika", 
+        "bo‘sa", 
+        "bo‘sa tamg‘asi", 
+        "lablar"
+    ], 
+    "💌": [
+        "sevgi xati", 
+        "pochta", 
+        "yurak", 
+        "romantika", 
+        "xat", 
+        "sevgi"
+    ], 
+    "💍": [
+        "olmos", 
+        "uzuk", 
+        "romantika"
+    ], 
+    "💎": [
+        "olmos", 
+        "qimmatbaho tosh", 
+        "marvarid", 
+        "tosh", 
+        "romantika"
+    ], 
+    "💏": [
+        "juftlik", 
+        "bo‘sa olish", 
+        "romantika"
+    ], 
+    "💐": [
+        "o‘simlik", 
+        "romantika", 
+        "guldasta", 
+        "gul"
+    ], 
+    "💑": [
+        "juftlik", 
+        "juftlik va yurak", 
+        "sevgi", 
+        "yurak", 
+        "romantika"
+    ], 
+    "💒": [
+        "ibodatxona", 
+        "romantika", 
+        "butxona", 
+        "mehrob", 
+        "nikoh to‘yi", 
+        "nikoh"
+    ], 
+    "💓": [
+        "urayotgan yurak", 
+        "yurak urishi", 
+        "urayotgan", 
+        "yurak"
+    ], 
+    "💔": [
+        "sinish", 
+        "singan yurak", 
+        "singan", 
+        "yurak"
+    ], 
+    "💕": [
+        "ikkita yurak", 
+        "yurak", 
+        "sevgi"
+    ], 
+    "💖": [
+        "chaqnayotgan yurak", 
+        "chaqnash", 
+        "hayajonli", 
+        "yurak"
+    ], 
+    "💗": [
+        "yurak", 
+        "kattalashayotgan yurak", 
+        "yurak urishi", 
+        "kattalashayotgan", 
+        "asab", 
+        "hayajonli"
+    ], 
+    "💘": [
+        "romantika", 
+        "kamon o‘qi", 
+        "yurak va kamon o‘qi", 
+        "yurak", 
+        "kupidon"
+    ], 
+    "💙": [
+        "ko‘k yurak", 
+        "ko‘k", 
+        "yurak"
+    ], 
+    "💚": [
+        "yashil yurak", 
+        "yurak", 
+        "yashil"
+    ], 
+    "💛": [
+        "sariq", 
+        "yurak", 
+        "sariq yurak"
+    ], 
+    "💜": [
+        "binafsharang", 
+        "binafsharang yurak", 
+        "yurak"
+    ], 
+    "💝": [
+        "yurak va lenta", 
+        "lenta", 
+        "yurak"
+    ], 
+    "💞": [
+        "aylanayotgan yuraklar", 
+        "yurak", 
+        "aylanayotgan"
+    ], 
+    "💟": [
+        "yurak bezagi", 
+        "yurak"
+    ], 
+    "💠": [
+        "nuqtali romb", 
+        "geometrik", 
+        "romb", 
+        "ichki", 
+        "latifa"
+    ], 
+    "💡": [
+        "elektr lampasi", 
+        "elektr lampa", 
+        "latifa", 
+        "fikr", 
+        "yorug‘lik", 
+        "elektr"
+    ], 
+    "💢": [
+        "telba", 
+        "latifa", 
+        "jahl belgisi", 
+        "jaxl"
+    ], 
+    "💣": [
+        "bomba", 
+        "latifa"
+    ], 
+    "💤": [
+        "uyqu", 
+        "latifa", 
+        "xurrak"
+    ], 
+    "💥": [
+        "to‘qnashuv", 
+        "latifa", 
+        "portlash"
+    ], 
+    "💦": [
+        "sachrash", 
+        "ko‘z yoshi", 
+        "latifa", 
+        "ko‘z yoshi tomchilari"
+    ], 
+    "💧": [
+        "tomchi", 
+        "sovuq", 
+        "ko‘z yoshi", 
+        "latifa", 
+        "ob-havo"
+    ], 
+    "💨": [
+        "chaqqon", 
+        "yugurish", 
+        "shoshilish", 
+        "latifa"
+    ], 
+    "💩": [
+        "yuz", 
+        "hazil", 
+        "axlat", 
+        "go‘ng", 
+        "tezak uyumi", 
+        "tezak", 
+        "maxluq"
+    ], 
+    "💪": [
+        "muskul", 
+        "muskullar", 
+        "latifa", 
+        "tana", 
+        "baquvvat muskullar", 
+        "moslashuvchan"
+    ], 
+    "💫": [
+        "yulduz", 
+        "bosh aylanish", 
+        "latifa"
+    ], 
+    "💬": [
+        "shar", 
+        "po‘fak", 
+        "nutq buluti", 
+        "latifa", 
+        "nutq", 
+        "dialog"
+    ], 
+    "💭": [
+        "po‘fak", 
+        "shar", 
+        "o‘y-hayol", 
+        "latifa", 
+        "o‘y-hayol buluti"
+    ], 
+    "💮": [
+        "oq gul", 
+        "gul"
+    ], 
+    "💯": [
+        "to‘liq", 
+        "100", 
+        "ball", 
+        "yuz ball", 
+        "yuz"
+    ], 
+    "💰": [
+        "pul", 
+        "pul xalta", 
+        "dollar", 
+        "xalta"
+    ], 
+    "💱": [
+        "pul", 
+        "pul birligini almashtirish", 
+        "valyuta", 
+        "bank", 
+        "almashtirish"
+    ], 
+    "💲": [
+        "katta dollar belgisi", 
+        "pul", 
+        "dollar", 
+        "valyuta"
+    ], 
+    "💳": [
+        "pul", 
+        "kartochka", 
+        "kredit karta", 
+        "bank", 
+        "kredit"
+    ], 
+    "💴": [
+        "pul", 
+        "pul birligi", 
+        "yen", 
+        "valyuta", 
+        "bank", 
+        "iyena banknotasi", 
+        "banknot", 
+        "qog‘oz pul"
+    ], 
+    "💵": [
+        "pul", 
+        "pul birligi", 
+        "dollar", 
+        "dollar banknotasi", 
+        "valyuta", 
+        "bank", 
+        "banknot", 
+        "qog‘oz pul"
+    ], 
+    "💶": [
+        "pul", 
+        "yevro banknotasi", 
+        "pul birligi", 
+        "valyuta", 
+        "yevro", 
+        "bank", 
+        "banknot", 
+        "qog‘oz pul"
+    ], 
+    "💷": [
+        "pul", 
+        "pul birligi", 
+        "funt sterling", 
+        "valyuta", 
+        "funt sterling banknotasi", 
+        "bank", 
+        "banknot", 
+        "qog‘oz pul"
+    ], 
+    "💸": [
+        "pul", 
+        "qanoti bor pul dastasi", 
+        "qanot", 
+        "bank", 
+        "qanotlar", 
+        "chek", 
+        "banknot", 
+        "qog‘oz pul"
+    ], 
+    "💹": [
+        "pul", 
+        "tepaga", 
+        "yen", 
+        "trend", 
+        "grafa", 
+        "ko‘tarilish", 
+        "o‘sish", 
+        "diagramma", 
+        "bozor", 
+        "valyuta", 
+        "o‘sayotgan iyena diagrammasi", 
+        "bank"
+    ], 
+    "💺": [
+        "kreslo", 
+        "stul", 
+        "o‘rindiq"
+    ], 
+    "💻": [
+        "shaxsiy", 
+        "kompyuter", 
+        "noutbuk"
+    ], 
+    "💼": [
+        "sumka", 
+        "portfel"
+    ], 
+    "💽": [
+        "mini-disk", 
+        "kompyuter", 
+        "disk", 
+        "optikali"
+    ], 
+    "💾": [
+        "kompyuter", 
+        "disketa", 
+        "disk"
+    ], 
+    "💿": [
+        "dvd", 
+        "optik", 
+        "cd", 
+        "optik disk", 
+        "blu-ray", 
+        "kompyuter", 
+        "disk"
+    ], 
+    "📀": [
+        "dvd", 
+        "optik", 
+        "cd", 
+        "blu-ray", 
+        "kompyuter", 
+        "disk"
+    ], 
+    "📁": [
+        "fayl", 
+        "fayl jildi", 
+        "jild"
+    ], 
+    "📂": [
+        "fayl", 
+        "ochiq", 
+        "jild", 
+        "ochiq fayl jildi"
+    ], 
+    "📃": [
+        "gajakli", 
+        "hujjat", 
+        "sahifa", 
+        "gajakli sahifa"
+    ], 
+    "📄": [
+        "hujjat", 
+        "sahifa", 
+        "oldiga qarab turgan sahifa"
+    ], 
+    "📅": [
+        "taqvim", 
+        "sana"
+    ], 
+    "📆": [
+        "yirtiladigan taqvim", 
+        "taqvim"
+    ], 
+    "📇": [
+        "indeks", 
+        "kartoteka", 
+        "karta"
+    ], 
+    "📈": [
+        "yuqoriga", 
+        "trend", 
+        "grafa", 
+        "o‘sish", 
+        "diagramma", 
+        "o‘sish trendi diagrammasi"
+    ], 
+    "📉": [
+        "diagramma", 
+        "trend", 
+        "grafa", 
+        "pastga", 
+        "pasayish trendi diagrammasi"
+    ], 
+    "📊": [
+        "diagramma", 
+        "grafa", 
+        "ustunli", 
+        "ustunli diagramma"
+    ], 
+    "📋": [
+        "qisqichli doska"
+    ], 
+    "📌": [
+        "bosma mix", 
+        "bosma mixcha"
+    ], 
+    "📍": [
+        "yumaloq bosma mix", 
+        "bosma mixcha"
+    ], 
+    "📎": [
+        "qog‘oz qistirgich", 
+        "qistirgich"
+    ], 
+    "📏": [
+        "chizg‘ich", 
+        "to‘g‘ri", 
+        "burchak", 
+        "qirra"
+    ], 
+    "📐": [
+        "to‘plam", 
+        "chizg‘ich", 
+        "uchburchak", 
+        "uchburchak chizg‘ich"
+    ], 
+    "📑": [
+        "marker", 
+        "sahifalardagi xatcho‘p", 
+        "sahifalar", 
+        "belgi", 
+        "xatcho‘p"
+    ], 
+    "📒": [
+        "daftar", 
+        "ro‘yxatga olish kitobi"
+    ], 
+    "📓": [
+        "noutbook"
+    ], 
+    "📔": [
+        "daftar", 
+        "muqova", 
+        "kitob", 
+        "bezak", 
+        "bezakli muqovali daftar"
+    ], 
+    "📕": [
+        "yopiq", 
+        "yopiq kitob", 
+        "kitob"
+    ], 
+    "📖": [
+        "ochiq", 
+        "ochiq kitob", 
+        "kitob"
+    ], 
+    "📗": [
+        "yashil", 
+        "kitob", 
+        "yashil kitob"
+    ], 
+    "📘": [
+        "ko‘k kitob", 
+        "kitob", 
+        "havorang", 
+        "ko‘k"
+    ], 
+    "📙": [
+        "to‘q sariq", 
+        "to‘q sariq kitob", 
+        "kitob"
+    ], 
+    "📚": [
+        "kitoblar", 
+        "kitob"
+    ], 
+    "📛": [
+        "ism yoziladigan nishon", 
+        "ism", 
+        "nishon"
+    ], 
+    "📜": [
+        "qog‘oz", 
+        "o‘ralgan xat"
+    ], 
+    "📝": [
+        "qalam", 
+        "qayd"
+    ], 
+    "📞": [
+        "telefon go‘shagi", 
+        "qabul qiluvchi", 
+        "telefon"
+    ], 
+    "📟": [
+        "peyjer"
+    ], 
+    "📠": [
+        "faks", 
+        "faks apparati"
+    ], 
+    "📡": [
+        "tarelka", 
+        "sun’iy yo‘ldoshli antenna", 
+        "sun’iy yo‘ldosh", 
+        "antenna"
+    ], 
+    "📢": [
+        "ommaviy", 
+        "baland", 
+        "e’lon qiluvchi karnay"
+    ], 
+    "📣": [
+        "olqish", 
+        "megafon"
+    ], 
+    "📤": [
+        "yuborilgan", 
+        "pochta", 
+        "chiquvchi xat qutisi", 
+        "xat", 
+        "xat qutisi", 
+        "quti"
+    ], 
+    "📥": [
+        "pochta", 
+        "xat", 
+        "kiruvchi", 
+        "kiruvchi xat qutisi", 
+        "qabul qilish", 
+        "quti"
+    ], 
+    "📦": [
+        "quti", 
+        "qadoq"
+    ], 
+    "📧": [
+        "e-pochta", 
+        "xat"
+    ], 
+    "📨": [
+        "e-pochta", 
+        "pochta", 
+        "konvert", 
+        "xat", 
+        "kiruvchi", 
+        "kiruvchi konvert", 
+        "qabul qilish"
+    ], 
+    "📩": [
+        "yuborilgan", 
+        "pochta", 
+        "e-pochta", 
+        "chiquvchi", 
+        "konvert", 
+        "strelkali konvert", 
+        "xat", 
+        "pastga", 
+        "xabar", 
+        "chiziq", 
+        "yuboriluvchi"
+    ], 
+    "📪": [
+        "pochta", 
+        "pochta qutisi", 
+        "pastga qaragan", 
+        "yopiq", 
+        "pastga qaragan bayroqli yopiq pochta qutisi"
+    ], 
+    "📫": [
+        "bayroqchasi ko‘tarilgan yopiq pochta qutisi", 
+        "pochta qutisi", 
+        "yopiq", 
+        "pochta"
+    ], 
+    "📬": [
+        "ochiq", 
+        "pochta qutisi", 
+        "yuqoriga ko‘tarilgan bayroqli ochiq pochta qutisi", 
+        "pochta"
+    ], 
+    "📭": [
+        "ochiq", 
+        "pochta qutisi", 
+        "pastga qaragan bayroqli ochiq pochta qutisi", 
+        "pochta"
+    ], 
+    "📮": [
+        "pochta", 
+        "pochta qutisi"
+    ], 
+    "📯": [
+        "shox", 
+        "pochta", 
+        "shoxsimon nay", 
+        "pochtampt"
+    ], 
+    "📰": [
+        "qog‘oz", 
+        "gazeta", 
+        "yangiliklar"
+    ], 
+    "📱": [
+        "aloqa", 
+        "uyali", 
+        "mobil", 
+        "mobil telefon", 
+        "telefon"
+    ], 
+    "📲": [
+        "aloqa", 
+        "qo‘ng‘iroq", 
+        "mobil telefon va strelka", 
+        "telefon", 
+        "uyali", 
+        "qabul qilish", 
+        "chiziq", 
+        "mobil"
+    ], 
+    "📳": [
+        "aloqa", 
+        "telefon", 
+        "uyali", 
+        "rejim", 
+        "tebranish", 
+        "mobil", 
+        "tebranish rejimi"
+    ], 
+    "📴": [
+        "aloqa", 
+        "telefon o‘chiq beligisi", 
+        "mobil", 
+        "telefon", 
+        "o‘chiq"
+    ], 
+    "📵": [
+        "aloqa", 
+        "taqiqlangan", 
+        "telefon mumkin emas", 
+        "mobil", 
+        "telefon", 
+        "man qilingan", 
+        "uyali", 
+        "mumkin emas", 
+        "yo‘q"
+    ], 
+    "📶": [
+        "aloqa", 
+        "ustun", 
+        "antenna", 
+        "antenna ko‘rsatkichlari", 
+        "signal", 
+        "telefon", 
+        "mobil"
+    ], 
+    "📷": [
+        "kamera", 
+        "video"
+    ], 
+    "📸": [
+        "kamera", 
+        "video", 
+        "chaqmoqli kamera"
+    ], 
+    "📹": [
+        "kamera", 
+        "video", 
+        "videokamera"
+    ], 
+    "📺": [
+        "tv", 
+        "televizor", 
+        "video"
+    ], 
+    "📻": [
+        "video", 
+        "radio"
+    ], 
+    "📼": [
+        "videokasseta", 
+        "vhs", 
+        "videol videokasseta"
+    ], 
+    "📿": [
+        "ibodat", 
+        "din", 
+        "marjon", 
+        "tasbeh", 
+        "kiyim"
+    ], 
+    "🔀": [
+        "chiziq", 
+        "kesishgan", 
+        "tasodifiy tartibda belgisi"
+    ], 
+    "🔁": [
+        "chiziq", 
+        "takror", 
+        "takrorlash tugmasi", 
+        "soat mili bo‘yicha"
+    ], 
+    "🔂": [
+        "chiziq", 
+        "bir marta", 
+        "takror", 
+        "bittasini takrorlash tugmasi", 
+        "soat mili bo‘yicha"
+    ], 
+    "🔃": [
+        "chiziq", 
+        "qayta yuklash", 
+        "soat millari bo‘yicha"
+    ], 
+    "🔄": [
+        "chiziq", 
+        "soat millariga qarshi", 
+        "soat millariga qarshi yo‘nalish"
+    ], 
+    "🔅": [
+        "past", 
+        "yorqinlik", 
+        "xiralik tugmasi", 
+        "xira"
+    ], 
+    "🔆": [
+        "yorqinlik tugmasi", 
+        "yorqinlik", 
+        "yorug‘"
+    ], 
+    "🔇": [
+        "ovoz balandligi", 
+        "karnay", 
+        "ovozsiz", 
+        "sassis", 
+        "shovqinsiz", 
+        "tinch"
+    ], 
+    "🔈": [
+        "ovoz balandligi", 
+        "karnay"
+    ], 
+    "🔉": [
+        "past", 
+        "ovoz balandligi", 
+        "ovozli", 
+        "karnay", 
+        "to‘lqin"
+    ], 
+    "🔊": [
+        "ovoz balandligi", 
+        "karnay", 
+        "yuqori", 
+        "baland", 
+        "3", 
+        "baland ovoz", 
+        "uch"
+    ], 
+    "🔋": [
+        "batareya"
+    ], 
+    "🔌": [
+        "elektr energiyasi", 
+        "elektr kabel sanchqisi", 
+        "sanchqi", 
+        "elektr"
+    ], 
+    "🔍": [
+        "shisha", 
+        "asbob", 
+        "kattalashtirish", 
+        "chapga qaragan lupa", 
+        "qidirish"
+    ], 
+    "🔎": [
+        "o‘ngga qaragan lupa", 
+        "shisha", 
+        "asbob", 
+        "kattalashtirish", 
+        "qidirish"
+    ], 
+    "🔏": [
+        "pero", 
+        "maxfiylik", 
+        "bo‘yoq", 
+        "qulf", 
+        "ruchka", 
+        "qulf va ruchka"
+    ], 
+    "🔐": [
+        "qulf", 
+        "qulf va kalit", 
+        "yopiq", 
+        "xavfsiz", 
+        "kalit"
+    ], 
+    "🔑": [
+        "qulf", 
+        "parol", 
+        "kalit"
+    ], 
+    "🔒": [
+        "yopiq", 
+        "qulflangan"
+    ], 
+    "🔓": [
+        "qulf", 
+        "ochiq", 
+        "ochiq qulf", 
+        "qulflanmagan"
+    ], 
+    "🔔": [
+        "qo‘ng‘iroq", 
+        "qo‘ng‘iroqcha"
+    ], 
+    "🔕": [
+        "taqiqlangan", 
+        "yo‘q", 
+        "man etilgan", 
+        "ovozsiz", 
+        "qo‘ng‘iroqcha", 
+        "shovqinsiz", 
+        "mumkin emas", 
+        "tinch", 
+        "taqiqlovchi chizig‘i bor qo‘ng‘iroq"
+    ], 
+    "🔖": [
+        "xatcho‘p", 
+        "belgi"
+    ], 
+    "🔗": [
+        "havol", 
+        "havola"
+    ], 
+    "🔘": [
+        "radio tugma", 
+        "geometrik", 
+        "radio", 
+        "tugma"
+    ], 
+    "🔙": [
+        "chiziq", 
+        "orqaga yo‘nalish", 
+        "orqaga"
+    ], 
+    "🔚": [
+        "chiziq", 
+        "berk chizig‘i", 
+        "berk"
+    ], 
+    "🔛": [
+        "chiziq", 
+        "belgi", 
+        "efirda chizig‘i", 
+        "efirda"
+    ], 
+    "🔜": [
+        "chiziq", 
+        "tezda", 
+        "tez orada chizig‘i"
+    ], 
+    "🔝": [
+        "chiziq", 
+        "tepaga", 
+        "tepaga chizig‘i", 
+        "yuqoriga"
+    ], 
+    "🔞": [
+        "taqiqlangan", 
+        "18 yoshdan kichiklarga taqiqlangan", 
+        "yo‘q", 
+        "18", 
+        "yosh cheklovi", 
+        "mumkin emas", 
+        "o‘n sakkiz", 
+        "man"
+    ], 
+    "🔟": [
+        "tugma qalpog‘i", 
+        "tugma qalpog‘i: 10"
+    ], 
+    "🔠": [
+        "katta lotin harflarini kiritish", 
+        "lotin", 
+        "bosh", 
+        "harflar", 
+        "kiritish"
+    ], 
+    "🔡": [
+        "abcd", 
+        "lotin", 
+        "kichik", 
+        "kichik lotin harflarini kiritish", 
+        "harflar", 
+        "kiritish"
+    ], 
+    "🔢": [
+        "1234", 
+        "raqamlar", 
+        "sonlar", 
+        "raqam kiritish"
+    ], 
+    "🔣": [
+        "belgi kiritish", 
+        "kiritish"
+    ], 
+    "🔤": [
+        "lotin harflarini kiritish", 
+        "abc", 
+        "lotin", 
+        "harflar", 
+        "matn", 
+        "alifbo"
+    ], 
+    "🔥": [
+        "asbob", 
+        "alanga", 
+        "olov"
+    ], 
+    "🔦": [
+        "mash’al", 
+        "fonar", 
+        "asbob", 
+        "chiroq", 
+        "elektr"
+    ], 
+    "🔧": [
+        "asbob", 
+        "gayka kaliti"
+    ], 
+    "🔨": [
+        "asbob", 
+        "bolg‘a"
+    ], 
+    "🔩": [
+        "gayka", 
+        "asbob", 
+        "gayka va murvat", 
+        "murvat"
+    ], 
+    "🔪": [
+        "qurol", 
+        "pichoq", 
+        "asbob", 
+        "taom"
+    ], 
+    "🔫": [
+        "qurol", 
+        "to‘pponcha", 
+        "asbob", 
+        "revolver"
+    ], 
+    "🔬": [
+        "asbob", 
+        "mikroskop"
+    ], 
+    "🔭": [
+        "teleskop", 
+        "asbob"
+    ], 
+    "🔮": [
+        "shar", 
+        "kristall shar", 
+        "asbob", 
+        "kristall", 
+        "fantaziya", 
+        "taqdir", 
+        "ertak"
+    ], 
+    "🔯": [
+        "yulduz", 
+        "taqdir", 
+        "nuqtali olti qirrali yulduz"
+    ], 
+    "🔰": [
+        "boshlovchi darajasini bildiruvchi yaponcha belgi", 
+        "sariq", 
+        "yashil", 
+        "asbob", 
+        "yaponcha", 
+        "barg", 
+        "boshlovchi"
+    ], 
+    "🔱": [
+        "emblema", 
+        "uch shoxli nayza", 
+        "langar", 
+        "asbob", 
+        "kema"
+    ], 
+    "🔲": [
+        "geometriya", 
+        "katak", 
+        "qora kvadrat katak", 
+        "kvadrat"
+    ], 
+    "🔳": [
+        "geometriya", 
+        "katak", 
+        "kvadrat", 
+        "chizilgan", 
+        "oq kvadrat katak"
+    ], 
+    "🔴": [
+        "geometriya", 
+        "qizil", 
+        "aylana", 
+        "qizil doira"
+    ], 
+    "🔵": [
+        "geometriya", 
+        "ko‘k doira", 
+        "ko‘k", 
+        "aylana"
+    ], 
+    "🔶": [
+        "to‘q sariq", 
+        "geometrik", 
+        "romb", 
+        "katta to‘q sariq romb"
+    ], 
+    "🔷": [
+        "katta ko‘k romb", 
+        "geometrik", 
+        "romb", 
+        "ko‘k"
+    ], 
+    "🔸": [
+        "to‘q sariq", 
+        "geometrik", 
+        "romb", 
+        "kichik to‘q sariq romb"
+    ], 
+    "🔹": [
+        "geometrik", 
+        "romb", 
+        "ko‘k", 
+        "kichik ko‘k romb"
+    ], 
+    "🔺": [
+        "geometrik", 
+        "qizil", 
+        "tepaga qaragan qizil uchburchak"
+    ], 
+    "🔻": [
+        "geometrik", 
+        "pastga qaragan qizil uchburchak", 
+        "qizil", 
+        "pastga"
+    ], 
+    "🔼": [
+        "chiziq", 
+        "yuqoriga tugmasi", 
+        "qizil", 
+        "tugma"
+    ], 
+    "🔽": [
+        "chiziq", 
+        "pastga tugmasi", 
+        "qizil", 
+        "pastga", 
+        "tugma"
+    ], 
+    "🕋": [
+        "islom", 
+        "din", 
+        "muslim", 
+        "kabatulloh"
+    ], 
+    "🕌": [
+        "islom", 
+        "din", 
+        "muslim", 
+        "masjid"
+    ], 
+    "🕍": [
+        "yahudiy", 
+        "ibodatxona", 
+        "din", 
+        "ibroniy", 
+        "sinagog"
+    ], 
+    "🕎": [
+        "din", 
+        "yadaim"
+    ], 
+    "🕐": [
+        "00", 
+        "soat bir", 
+        "1", 
+        "1:00", 
+        "soat", 
+        "bir"
+    ], 
+    "🕑": [
+        "00", 
+        "2:00", 
+        "soat ikki", 
+        "2", 
+        "soat", 
+        "ikki"
+    ], 
+    "🕒": [
+        "00", 
+        "3", 
+        "soat uch", 
+        "soat", 
+        "3:00", 
+        "uch"
+    ], 
+    "🕓": [
+        "soat to‘rt", 
+        "00", 
+        "to‘rt", 
+        "4:00", 
+        "4", 
+        "soat"
+    ], 
+    "🕔": [
+        "00", 
+        "soat besh", 
+        "5:00", 
+        "besh", 
+        "5", 
+        "soat"
+    ], 
+    "🕕": [
+        "00", 
+        "soat olti", 
+        "olti", 
+        "6", 
+        "soat", 
+        "6:00"
+    ], 
+    "🕖": [
+        "soat yetti", 
+        "00", 
+        "yetti", 
+        "7:00", 
+        "7", 
+        "soat"
+    ], 
+    "🕗": [
+        "00", 
+        "8:00", 
+        "sakkiz", 
+        "soat", 
+        "8", 
+        "soat sakkiz"
+    ], 
+    "🕘": [
+        "00", 
+        "to‘qqiz", 
+        "9", 
+        "soat", 
+        "9:00", 
+        "soat to‘qqiz"
+    ], 
+    "🕙": [
+        "10", 
+        "00", 
+        "soat o‘n", 
+        "10:00", 
+        "o‘n", 
+        "soat"
+    ], 
+    "🕚": [
+        "11", 
+        "00", 
+        "o‘n bir", 
+        "soat", 
+        "soat o‘n bir", 
+        "11:00"
+    ], 
+    "🕛": [
+        "00", 
+        "12", 
+        "12:00", 
+        "o‘n ikki", 
+        "soat o‘n ikki", 
+        "soat"
+    ], 
+    "🕜": [
+        "30", 
+        "1:30", 
+        "yarim", 
+        "1", 
+        "bir yarim", 
+        "soat", 
+        "bir", 
+        "o‘ttiz"
+    ], 
+    "🕝": [
+        "30", 
+        "yarim", 
+        "2:30", 
+        "2", 
+        "ikki yarim", 
+        "soat", 
+        "ikki", 
+        "o‘ttiz"
+    ], 
+    "🕞": [
+        "uch yarim", 
+        "30", 
+        "yarim", 
+        "3", 
+        "soat", 
+        "3:30", 
+        "o‘ttiz", 
+        "uch"
+    ], 
+    "🕟": [
+        "to‘rt", 
+        "30", 
+        "yarim", 
+        "4", 
+        "4:30", 
+        "soat", 
+        "to‘rt yarim", 
+        "o‘ttiz"
+    ], 
+    "🕠": [
+        "5:30", 
+        "besh", 
+        "besh yarim", 
+        "30", 
+        "yarim", 
+        "5", 
+        "soat", 
+        "o‘ttiz"
+    ], 
+    "🕡": [
+        "6:30", 
+        "olti", 
+        "30", 
+        "yarim", 
+        "olti yarim", 
+        "6", 
+        "soat", 
+        "o‘ttiz"
+    ], 
+    "🕢": [
+        "yetti", 
+        "30", 
+        "yarim", 
+        "yetti yarim", 
+        "7:30", 
+        "7", 
+        "soat", 
+        "o‘ttiz"
+    ], 
+    "🕣": [
+        "sakkiz yarim", 
+        "30", 
+        "yarim", 
+        "sakkiz", 
+        "8", 
+        "soat", 
+        "8:30", 
+        "o‘ttiz"
+    ], 
+    "🕤": [
+        "to‘qqiz yarim", 
+        "30", 
+        "to‘qqiz", 
+        "yarim", 
+        "9:30", 
+        "9", 
+        "soat", 
+        "o‘ttiz"
+    ], 
+    "🕥": [
+        "10", 
+        "o‘n yarim", 
+        "30", 
+        "10:30", 
+        "yarim", 
+        "o‘n", 
+        "soat", 
+        "o‘ttiz"
+    ], 
+    "🕦": [
+        "11", 
+        "11:30", 
+        "o‘n bir yarim", 
+        "30", 
+        "o‘n bir", 
+        "yarim", 
+        "soat", 
+        "o‘ttiz"
+    ], 
+    "🕧": [
+        "12", 
+        "o‘n ikki", 
+        "30", 
+        "yarim", 
+        "soat o‘n ikki yarim", 
+        "soat", 
+        "12:30", 
+        "o‘ttiz"
+    ], 
+    "🕺": [
+        "erkak", 
+        "raqs", 
+        "raqs tushayotgan erkak"
+    ], 
+    "🖕": [
+        "o‘rta barmoq", 
+        "qo‘l", 
+        "barmoq", 
+        "tana"
+    ], 
+    "🖖": [
+        "barmoq", 
+        "tana", 
+        "qo‘l", 
+        "spok", 
+        "vulkan salyuti", 
+        "vulkan"
+    ], 
+    "🖤": [
+        "yurak", 
+        "ichi qora", 
+        "qora"
+    ], 
+    "🗻": [
+        "fuji", 
+        "fuji tog‘i", 
+        "tog‘"
+    ], 
+    "🗼": [
+        "tokio teleminorasi", 
+        "minora", 
+        "tokyo"
+    ], 
+    "🗽": [
+        "haykal", 
+        "ozodlik", 
+        "ozodlik haykali"
+    ], 
+    "🗾": [
+        "xarita", 
+        "yapon", 
+        "yaponiya xaritasi"
+    ], 
+    "🗿": [
+        "haykal", 
+        "moyai", 
+        "yuz", 
+        "moai"
+    ], 
+    "😀": [
+        "tirjayish", 
+        "tirjaygan yuz", 
+        "yuz"
+    ], 
+    "😁": [
+        "tirjayish", 
+        "tabassum", 
+        "yuz", 
+        "ko‘z", 
+        "tirjaygan yuz, qisilgan ko‘zlar"
+    ], 
+    "😂": [
+        "ko‘z yosh", 
+        "quvonch ko‘z yoshlari", 
+        "yuz", 
+        "kulgu", 
+        "quvonch"
+    ], 
+    "😃": [
+        "ochiq", 
+        "og‘iz", 
+        "yuz", 
+        "og‘zini katta ochib kulayotgan yuz", 
+        "tabassum"
+    ], 
+    "😄": [
+        "tabassum", 
+        "yuz", 
+        "tabassum, og‘iz ochiq, ko‘zlar qisilgan", 
+        "ko‘z", 
+        "og‘iz", 
+        "ochiq"
+    ], 
+    "😅": [
+        "og‘zini katta ochib kulayotgan yuz va sovuq ter", 
+        "yuz", 
+        "tabassum", 
+        "sovuq", 
+        "ochiq", 
+        "ter"
+    ], 
+    "😆": [
+        "tabassum", 
+        "yuz", 
+        "mamnun", 
+        "og‘zini katta ochib kulayotgan yuz va qattiq yumilgan ko‘zlar", 
+        "og‘iz", 
+        "kulgu", 
+        "ochiq"
+    ], 
+    "😇": [
+        "gardish", 
+        "tabassum", 
+        "yuz", 
+        "farishta", 
+        "begunoh", 
+        "tabassum, bosh ustida gardish", 
+        "fantaziya", 
+        "ertak"
+    ], 
+    "😈": [
+        "tabassum", 
+        "yuz", 
+        "fantaziya", 
+        "ertak", 
+        "kulayotgan shayton", 
+        "shoxlar"
+    ], 
+    "😉": [
+        "yuz", 
+        "ko‘z qisish"
+    ], 
+    "😊": [
+        "tabassum va kulib turgan ko‘zlar", 
+        "tabassum", 
+        "qizarish", 
+        "ko‘z", 
+        "yuz"
+    ], 
+    "😋": [
+        "tabassum", 
+        "yuz", 
+        "mazali taomni tatib ko‘rgan til", 
+        "oh", 
+        "mazali", 
+        "shirin", 
+        "tatib ko‘rish"
+    ], 
+    "😌": [
+        "xotirjam yuz", 
+        "yuz", 
+        "xotirjam"
+    ], 
+    "😍": [
+        "tabassum", 
+        "yuz", 
+        "yurak", 
+        "ko‘z", 
+        "sevgi", 
+        "tabassum va yurak shaklidagi ko‘zlar"
+    ], 
+    "😎": [
+        "tabassum", 
+        "ko‘zoynak taqqan hamda kulayotgan yuz", 
+        "quyosh", 
+        "yorug‘", 
+        "ko‘z", 
+        "salqin", 
+        "ko‘zoynak", 
+        "yuz", 
+        "ob-havo"
+    ], 
+    "😏": [
+        "istehzo", 
+        "yuz", 
+        "istehzoli yuz"
+    ], 
+    "😐": [
+        "his-tuyg‘usiz", 
+        "betaraf", 
+        "yuz", 
+        "hissiz"
+    ], 
+    "😑": [
+        "his-tuyg‘usiz", 
+        "yuz", 
+        "his-tuyg‘usiz yuz", 
+        "ifodasiz"
+    ], 
+    "😒": [
+        "qoniqmagan", 
+        "yuz", 
+        "xafa", 
+        "qoniqmagan yuz"
+    ], 
+    "😓": [
+        "ter", 
+        "yuz", 
+        "sovuq ter chiqayotgan yuz", 
+        "sovuq"
+    ], 
+    "😔": [
+        "g‘amgin", 
+        "g‘amgin yuz", 
+        "ranjigan", 
+        "yuz"
+    ], 
+    "😕": [
+        "xijolat", 
+        "yuz", 
+        "xijolat bo‘lgan yuz"
+    ], 
+    "😖": [
+        "xijolat", 
+        "xijolatli yuz", 
+        "yuz"
+    ], 
+    "😗": [
+        "bo‘sa olayotgan yuz", 
+        "o‘pish", 
+        "yuz"
+    ], 
+    "😘": [
+        "bo‘sa yuborayotgan yuz", 
+        "o‘pish", 
+        "yurak", 
+        "yuz"
+    ], 
+    "😙": [
+        "bo‘sa olayotgan yuz va kulayotgan ko‘zlar", 
+        "tabassum", 
+        "o‘pish", 
+        "ko‘z", 
+        "yuz"
+    ], 
+    "😚": [
+        "yumilgan", 
+        "o‘pish", 
+        "ko‘z", 
+        "bo‘sa olayotgan yuz va yumilgan ko‘zlar", 
+        "yuz"
+    ], 
+    "😛": [
+        "til", 
+        "yuz", 
+        "tilini chiqarib turgan yuz"
+    ], 
+    "😜": [
+        "yuz", 
+        "ko‘z qisish", 
+        "tilini chiqarib turgan va ko‘zi qisilgan yuz", 
+        "hazil", 
+        "ko‘z", 
+        "til"
+    ], 
+    "😝": [
+        "qo‘rqinchli", 
+        "yuz", 
+        "ko‘z", 
+        "til", 
+        "tilini chiqarib turgan va ko‘zlari qattiq qisilgan yuz", 
+        "tatib ko‘rish"
+    ], 
+    "😞": [
+        "ko‘ngli qolgan", 
+        "yuz", 
+        "ko‘ngli qolgan yuz"
+    ], 
+    "😟": [
+        "xavotir", 
+        "yuz", 
+        "xavotir olayotgan yuz"
+    ], 
+    "😠": [
+        "jaxli chiqqan", 
+        "yuz", 
+        "jahli chiqqan yuz", 
+        "g‘azabnok"
+    ], 
+    "😡": [
+        "quturgan", 
+        "norozi qiyofa", 
+        "g‘azab", 
+        "qizil", 
+        "yuz", 
+        "norozi", 
+        "jaxli chiqqan"
+    ], 
+    "😢": [
+        "yig‘layotgan yuz", 
+        "hafa", 
+        "yuz", 
+        "ko‘z yoshi", 
+        "yig‘lash"
+    ], 
+    "😣": [
+        "o‘jarlik", 
+        "o‘jar", 
+        "yuz"
+    ], 
+    "😤": [
+        "zafar", 
+        "g‘alaba", 
+        "yuz", 
+        "burnidan tutun chiqayotgan yuz"
+    ], 
+    "😥": [
+        "hafsalasi pir bo‘lgan yuz", 
+        "yuz", 
+        "hafasalasi pir", 
+        "yengil tortish", 
+        "hmm"
+    ], 
+    "😦": [
+        "qovog‘ini solish", 
+        "ochiq", 
+        "og‘iz", 
+        "yuz", 
+        "og‘zini katta ochgan, qovog‘i solingan yuz"
+    ], 
+    "😧": [
+        "g‘am-tashvishli yuz", 
+        "yuz", 
+        "tashvishli"
+    ], 
+    "😨": [
+        "qo‘rqinchli", 
+        "yuz", 
+        "qo‘rqish", 
+        "qo‘rquv", 
+        "qo‘rqqan yuz"
+    ], 
+    "😩": [
+        "xorg‘in", 
+        "xorg‘in yuz", 
+        "yuz", 
+        "charchagan"
+    ], 
+    "😪": [
+        "uyqusiragan yuz", 
+        "uxlash", 
+        "yuz"
+    ], 
+    "😫": [
+        "charchagan yuz", 
+        "yuz", 
+        "charchagan"
+    ], 
+    "😬": [
+        "aftini burishtirish", 
+        "yuz", 
+        "afti burishgan"
+    ], 
+    "😭": [
+        "hafa", 
+        "xo‘ngrab yig‘lash", 
+        "ko‘z yoshi", 
+        "xo‘ngrab yig‘layotgan yuz", 
+        "yuz", 
+        "yig‘lash"
+    ], 
+    "😮": [
+        "hamdardlik", 
+        "og‘iz", 
+        "yuz", 
+        "og‘zi katta ochiq yuz", 
+        "ochiq"
+    ], 
+    "😯": [
+        "hayratlangan", 
+        "hayratlanayotgan yuz", 
+        "sukut saqlash", 
+        "karaxt", 
+        "yuz"
+    ], 
+    "😰": [
+        "ko‘kargan", 
+        "og‘zi ochiq va sovuq terga botgan yuz", 
+        "toliqqan", 
+        "sovuq", 
+        "og‘iz", 
+        "yuz", 
+        "ochiq", 
+        "ter"
+    ], 
+    "😱": [
+        "qo‘rqinchli", 
+        "yuz", 
+        "qo‘rquvdan qichqirayotgan yuz", 
+        "baqiriq", 
+        "qo‘rqish", 
+        "chaynash", 
+        "qo‘rquv"
+    ], 
+    "😲": [
+        "batamom", 
+        "hayratlangan", 
+        "yuz", 
+        "taajjub", 
+        "hayratlangan yuz"
+    ], 
+    "😳": [
+        "yuzi qizargan", 
+        "qizarish", 
+        "mahliyo", 
+        "yuz"
+    ], 
+    "😴": [
+        "uxlash", 
+        "yuz", 
+        "uxlayotgan yuz", 
+        "xurrak"
+    ], 
+    "😵": [
+        "yuz", 
+        "boshi aylanish", 
+        "boshi aylanayotgan yuz"
+    ], 
+    "😶": [
+        "sukut", 
+        "og‘iz", 
+        "og‘izsiz yuz", 
+        "yuz", 
+        "jimjit"
+    ], 
+    "😷": [
+        "kasal", 
+        "yuz", 
+        "sovuq", 
+        "niqob", 
+        "shifokor", 
+        "dori", 
+        "tibbiy niqob taqqan yuz"
+    ], 
+    "😸": [
+        "tabassum", 
+        "yuz", 
+        "ko‘z", 
+        "mushuk", 
+        "kulimsirash", 
+        "ko‘zlarini qisgan holda kulayotgan mushuk"
+    ], 
+    "😹": [
+        "xursand", 
+        "quvonch ko‘z yoshlari oqayotgan mushuk", 
+        "ko‘z yoshi", 
+        "mushuk", 
+        "yuz"
+    ], 
+    "😺": [
+        "tabassum", 
+        "yuz", 
+        "mushuk", 
+        "og‘iz", 
+        "ochiq", 
+        "og‘zi ochiq holatda kulayotgan mushuk"
+    ], 
+    "😻": [
+        "tabassum", 
+        "yuz", 
+        "yurak", 
+        "ko‘z", 
+        "mushuk", 
+        "sevgi", 
+        "ko‘zlari yurak shaklida kulib turgan mushuk"
+    ], 
+    "😼": [
+        "tirjayish", 
+        "tabassum", 
+        "yuz", 
+        "mushuk", 
+        "kinoyali", 
+        "tirjayib turgan mushuk"
+    ], 
+    "😽": [
+        "o‘pish", 
+        "ko‘z", 
+        "ko‘zlari yopiq holda bo‘sa olayotgan mushuk", 
+        "yuz", 
+        "mushuk"
+    ], 
+    "😾": [
+        "norozi", 
+        "badjahl mushuk", 
+        "mushuk", 
+        "yuz"
+    ], 
+    "😿": [
+        "hafa", 
+        "yuz", 
+        "ko‘z yoshi", 
+        "mushuk", 
+        "yig‘layotgan mushuk", 
+        "yig‘lash"
+    ], 
+    "🙀": [
+        "yuz", 
+        "charchagan", 
+        "mushuk", 
+        "uhh", 
+        "horg‘in", 
+        "charchagan mushuk"
+    ], 
+    "🙁": [
+        "ozroq arazlagan yuz", 
+        "yuz", 
+        "arazlamoq"
+    ], 
+    "🙂": [
+        "tabassum", 
+        "yuz", 
+        "yengilgina kulayotgan yuz"
+    ], 
+    "🙃": [
+        "to‘ntarilgan", 
+        "yuz", 
+        "to‘ntarilgan yuz"
+    ], 
+    "🙄": [
+        "ko‘zlarini aylantirayotgan yuz", 
+        "yuz", 
+        "aylantirayotgan", 
+        "ko‘zlar"
+    ], 
+    "🙅": [
+        "taqiqlangan", 
+        "yo‘q", 
+        "imo-ishora", 
+        "yo‘q ishorasi", 
+        "man qilingan", 
+        "qo‘l"
+    ], 
+    "🙆": [
+        "imo-ishora", 
+        "qo‘l", 
+        "ok", 
+        "ok ishorasi"
+    ], 
+    "🙇": [
+        "imo-ishora", 
+        "ta’zim qilayotgan odam", 
+        "ta’zim", 
+        "uzr so‘rash", 
+        "kechirim so‘rash"
+    ], 
+    "🙈": [
+        "taqiqlangan", 
+        "maymun", 
+        "yo‘q", 
+        "ishora", 
+        "yomonlikni ko‘rmaydigan maymun", 
+        "man qilingan", 
+        "yuz", 
+        "ko‘rish", 
+        "yomonlik"
+    ], 
+    "🙉": [
+        "taqiqlangan", 
+        "yuz", 
+        "yomonlikni eshitmaydigan maymun", 
+        "yo‘q", 
+        "ishora", 
+        "man qilingan", 
+        "eshitish", 
+        "maymun", 
+        "yomonlik"
+    ], 
+    "🙊": [
+        "taqiqlangan", 
+        "yuz", 
+        "yo‘q", 
+        "ishora", 
+        "man qilingan", 
+        "gapirish", 
+        "yomonlikni gapirmaydigan maymun", 
+        "maymun", 
+        "yomonlik"
+    ], 
+    "🙋": [
+        "imo-ishora", 
+        "ko‘tarilgan", 
+        "xursand", 
+        "qo‘l", 
+        "qo‘lini ko‘tarib turgan xursand odam"
+    ], 
+    "🙌": [
+        "imo-ishora", 
+        "nishonlash", 
+        "qo‘l", 
+        "ko‘tarilgan", 
+        "qo‘llarini ko‘targan odam", 
+        "tan", 
+        "urra"
+    ], 
+    "🙍": [
+        "imo-ishora", 
+        "qovog‘ini solish", 
+        "xo‘mraygan odam"
+    ], 
+    "🙎": [
+        "imo-ishora", 
+        "norozi", 
+        "norozi odam"
+    ], 
+    "🙏": [
+        "ta’zim", 
+        "iltimos", 
+        "imo-ishora", 
+        "qovushgan", 
+        "tana", 
+        "rahmat", 
+        "qo‘l", 
+        "qovushtirilgan qo‘llar", 
+        "ibodat", 
+        "so‘rash"
+    ], 
+    "🚀": [
+        "raketa", 
+        "koinot", 
+        "transport"
+    ], 
+    "🚁": [
+        "vertolyot", 
+        "transport"
+    ], 
+    "🚂": [
+        "poyezd", 
+        "bug‘", 
+        "lokomotiv", 
+        "temiryo‘l", 
+        "motor", 
+        "transport"
+    ], 
+    "🚃": [
+        "poyezd", 
+        "mashina", 
+        "trolleybus", 
+        "temiryo‘l", 
+        "elektr", 
+        "tramvay", 
+        "transport", 
+        "temiryo‘l vagoni"
+    ], 
+    "🚄": [
+        "poyezd", 
+        "temiryo‘l", 
+        "shinkansen", 
+        "tezyurar", 
+        "tezyurar poyezd", 
+        "transport"
+    ], 
+    "🚅": [
+        "poyezd", 
+        "oldi uchli tezyurar poyezd", 
+        "uchli", 
+        "temiryo‘l", 
+        "shinkansen", 
+        "tezyurar", 
+        "transport"
+    ], 
+    "🚆": [
+        "poyezd", 
+        "temiryo‘l", 
+        "transport"
+    ], 
+    "🚇": [
+        "transport", 
+        "metro"
+    ], 
+    "🚈": [
+        "temiryo‘l", 
+        "tor izli temiryo‘l", 
+        "transport"
+    ], 
+    "🚉": [
+        "poyezd", 
+        "temiryo‘l", 
+        "bekat", 
+        "transport"
+    ], 
+    "🚊": [
+        "trolleybus", 
+        "tramvay", 
+        "transport"
+    ], 
+    "🚋": [
+        "tramvay vagoni", 
+        "trolleybus", 
+        "tramvay", 
+        "mashina", 
+        "transport"
+    ], 
+    "🚌": [
+        "avtobus", 
+        "transport"
+    ], 
+    "🚍": [
+        "kelayotgan", 
+        "avtobus", 
+        "yaqinlashayotgan", 
+        "transport", 
+        "yaqinlashayotgan avtobus"
+    ], 
+    "🚎": [
+        "trolleybus", 
+        "tramvay", 
+        "avtobus", 
+        "transport"
+    ], 
+    "🚏": [
+        "avtobus bekati", 
+        "avtobus", 
+        "bekat"
+    ], 
+    "🚐": [
+        "minibus", 
+        "avtobus", 
+        "transport"
+    ], 
+    "🚑": [
+        "tez yordam mashinasi", 
+        "transport"
+    ], 
+    "🚒": [
+        "o‘t o‘chirish mashinasi", 
+        "yong‘in", 
+        "yuk mashinasi", 
+        "transport", 
+        "motor"
+    ], 
+    "🚓": [
+        "politsiya", 
+        "patrul", 
+        "mashina", 
+        "transport", 
+        "politsiya mashinasi"
+    ], 
+    "🚔": [
+        "politsiya", 
+        "mashina", 
+        "yaqinlashayotgan", 
+        "yaqinlashayotgan politsiya mashinasi", 
+        "kelayotgan", 
+        "transport"
+    ], 
+    "🚕": [
+        "taksi", 
+        "transport"
+    ], 
+    "🚖": [
+        "taksi", 
+        "yaqinlashayotgan taksi", 
+        "yaqinlashayotgan", 
+        "transport"
+    ], 
+    "🚗": [
+        "avtomobil", 
+        "mashina", 
+        "transport"
+    ], 
+    "🚘": [
+        "yaqinlashayotgan avtomobil", 
+        "avtomobil", 
+        "mashina", 
+        "yaqinlashayotgan", 
+        "transport"
+    ], 
+    "🚙": [
+        "hordiq", 
+        "hordiq chiqarish avtomobili", 
+        "transport"
+    ], 
+    "🚚": [
+        "yetkazib beruvchi yuk mashinasi", 
+        "yetkazib berish", 
+        "transport", 
+        "yuk mashinasi"
+    ], 
+    "🚛": [
+        "yuk mashinasi", 
+        "transport", 
+        "tirkamali yuk mashinasi"
+    ], 
+    "🚜": [
+        "transport", 
+        "traktor"
+    ], 
+    "🚝": [
+        "bir izli temiryo‘l", 
+        "transport"
+    ], 
+    "🚞": [
+        "to‘g‘ temiryo‘li", 
+        "temiryo‘l", 
+        "mashina", 
+        "transport", 
+        "tog‘"
+    ], 
+    "🚟": [
+        "osma", 
+        "temiryo‘l", 
+        "osma temiryo‘l", 
+        "transport"
+    ], 
+    "🚠": [
+        "dor", 
+        "transport", 
+        "tog‘ dor yo‘li", 
+        "tog‘"
+    ], 
+    "🚡": [
+        "mashina", 
+        "dor yo‘li", 
+        "transport", 
+        "havo tramvayi", 
+        "tramvay", 
+        "havo", 
+        "sim"
+    ], 
+    "🚢": [
+        "transport", 
+        "kema"
+    ], 
+    "🚣": [
+        "qayiq", 
+        "transport"
+    ], 
+    "🚤": [
+        "qayiq", 
+        "tezyurar qayiq", 
+        "transport"
+    ], 
+    "🚥": [
+        "yo‘l", 
+        "yotiq svetofor", 
+        "signal", 
+        "svetofor", 
+        "tirbandlik"
+    ], 
+    "🚦": [
+        "yo‘l", 
+        "tik svetofor", 
+        "signal", 
+        "svetofor", 
+        "tirbandlik"
+    ], 
+    "🚧": [
+        "to‘siq", 
+        "qurilish"
+    ], 
+    "🚨": [
+        "politsiya", 
+        "mashina", 
+        "transport", 
+        "mayoq", 
+        "politsiya mashinasi mayog‘i"
+    ], 
+    "🚩": [
+        "post", 
+        "uchburchak bayroq"
+    ], 
+    "🚪": [
+        "eshik"
+    ], 
+    "🚫": [
+        "taqiqlangan", 
+        "yo‘q", 
+        "to‘xtab turish taqiqlanadi", 
+        "kirish", 
+        "man qilingan", 
+        "yo‘l", 
+        "mumkin emas"
+    ], 
+    "🚬": [
+        "chekish"
+    ], 
+    "🚭": [
+        "chekish", 
+        "taqiqlangan", 
+        "mumkin emas", 
+        "chekish taqiqlanadi"
+    ], 
+    "🚮": [
+        "axlat qutisi", 
+        "axlatni o‘z joyiga tashlash", 
+        "axlat"
+    ], 
+    "🚯": [
+        "axlat qutisi", 
+        "taqiqlangan", 
+        "mumkin emas", 
+        "axlat tashlash taqiqlanadi"
+    ], 
+    "🚰": [
+        "ichimlik suvi", 
+        "ichishga yaroqli", 
+        "ichish", 
+        "suv"
+    ], 
+    "🚱": [
+        "ichishga yaroqli", 
+        "taqiqlangan", 
+        "yo‘q", 
+        "suv", 
+        "ichib bo‘lmaydigan suv", 
+        "ichish", 
+        "mumkin emas"
+    ], 
+    "🚲": [
+        "velosiped", 
+        "transport"
+    ], 
+    "🚳": [
+        "taqiqlangan", 
+        "velosipedlar harakatlanishi taqiqlanadi", 
+        "mumkin emas", 
+        "velosiped", 
+        "transport"
+    ], 
+    "🚴": [
+        "velosipedchi", 
+        "velosiped"
+    ], 
+    "🚵": [
+        "velosiped", 
+        "velosipedchi", 
+        "tog‘ velosipedchisi", 
+        "tog‘"
+    ], 
+    "🚶": [
+        "piyoda yurish", 
+        "piyoda", 
+        "sayr"
+    ], 
+    "🚷": [
+        "taqiqlangan", 
+        "piyodalar mumkin emas", 
+        "mumkin emas"
+    ], 
+    "🚸": [
+        "yo‘l", 
+        "tirbandlik", 
+        "bolalar o‘tish joyi", 
+        "bolalar", 
+        "o‘tish joyi"
+    ], 
+    "🚹": [
+        "erkak", 
+        "erkaklar xonasi", 
+        "hojatxona"
+    ], 
+    "🚺": [
+        "hojatxona", 
+        "ayollar xonasi", 
+        "ayol"
+    ], 
+    "🚻": [
+        "hojatxona", 
+        "pardoz-andoz xonasi"
+    ], 
+    "🚼": [
+        "chaqaloq", 
+        "chaqaloq belgisi"
+    ], 
+    "🚽": [
+        "hojatxona", 
+        "tualet"
+    ], 
+    "🚾": [
+        "hojatxona", 
+        "suv"
+    ], 
+    "🚿": [
+        "suv", 
+        "dush"
+    ], 
+    "🛀": [
+        "tos", 
+        "hammom qilayotgan kishi", 
+        "vanna"
+    ], 
+    "🛁": [
+        "vanna"
+    ], 
+    "🛂": [
+        "nazorat", 
+        "pasport nazorati", 
+        "pasport"
+    ], 
+    "🛃": [
+        "bojxona"
+    ], 
+    "🛄": [
+        "yuk", 
+        "yuklarni olish joyi", 
+        "da’vo"
+    ], 
+    "🛅": [
+        "saqlash xonasi", 
+        "bagaj", 
+        "saqlash xonasida qoldirilgan yuk", 
+        "yuk"
+    ], 
+    "🛌": [
+        "uyqu", 
+        "uxlash", 
+        "mehmonxona", 
+        "karavotda yotgan kishi"
+    ], 
+    "🛐": [
+        "ibodatxona", 
+        "din"
+    ], 
+    "🛑": [
+        "stop", 
+        "sakkizburchak", 
+        "belgi", 
+        "stop belgisi"
+    ], 
+    "🛒": [
+        "aravacha", 
+        "xarid savatchasi", 
+        "xarid"
+    ], 
+    "🛫": [
+        "samolyot jo‘nab ketishi", 
+        "aeroport", 
+        "samolyot", 
+        "transport", 
+        "jo‘nab ketish"
+    ], 
+    "🛬": [
+        "samolyot qo‘nishi", 
+        "aeroport", 
+        "samolyot", 
+        "qo‘nish", 
+        "transport"
+    ], 
+    "🛴": [
+        "samokat"
+    ], 
+    "🛵": [
+        "moped"
+    ], 
+    "🛶": [
+        "qayiq", 
+        "kanoe"
+    ], 
+    "🛷": [
+        "chana"
+    ], 
+    "🛸": [
+        "uchar likopcha"
+    ], 
+    "🤐": [
+        "qulf", 
+        "og‘iz", 
+        "yuz", 
+        "og‘zi qulflangan yuz"
+    ], 
+    "🤑": [
+        "pul", 
+        "og‘iz", 
+        "yuz", 
+        "og‘zi pul yuz"
+    ], 
+    "🤒": [
+        "yuz", 
+        "harorat o‘lchagich tutgan yuz", 
+        "harorat o‘lchagich", 
+        "bemor", 
+        "kasal"
+    ], 
+    "🤓": [
+        "aqlli", 
+        "yuz", 
+        "aqlli yuz", 
+        "bilimdon"
+    ], 
+    "🤔": [
+        "o‘ylash", 
+        "o‘ylayotgan yuz", 
+        "yuz"
+    ], 
+    "🤕": [
+        "lat", 
+        "bint", 
+        "jarohat", 
+        "yuz", 
+        "boshi bint bilan o‘ralgan yuz"
+    ], 
+    "🤖": [
+        "yuz", 
+        "robot", 
+        "maxluq", 
+        "robot qiyofa"
+    ], 
+    "🤗": [
+        "quchayotgan yuz", 
+        "yuz", 
+        "quchoq", 
+        "quchish"
+    ], 
+    "🤘": [
+        "barmoq", 
+        "rok", 
+        "tana", 
+        "qo‘l", 
+        "shox belgisi", 
+        "shoxlar"
+    ], 
+    "🤙": [
+        "qo‘l", 
+        "ishora", 
+        "telefon qil", 
+        "menga telefon qil"
+    ], 
+    "🤚": [
+        "ko‘tarilgan kaft", 
+        "ko‘tarilgan", 
+        "kaft"
+    ], 
+    "🤛": [
+        "chap", 
+        "musht", 
+        "chapga qaragan musht"
+    ], 
+    "🤜": [
+        "o‘ng", 
+        "o‘ngga qaragan musht", 
+        "musht"
+    ], 
+    "🤝": [
+        "kelishuv", 
+        "uchrashuv", 
+        "qo‘l siqish"
+    ], 
+    "🤞": [
+        "omad", 
+        "kesishgan barmoqlar"
+    ], 
+    "🤟": [
+        "sevaman degan ishora"
+    ], 
+    "🤠": [
+        "kovboy", 
+        "shlyapa", 
+        "kovboyning boshi"
+    ], 
+    "🤡": [
+        "yuz", 
+        "masxaraboz"
+    ], 
+    "🤢": [
+        "kasallik", 
+        "ko‘ngil aynish", 
+        "yuz", 
+        "ko‘ngli ayniyotgan"
+    ], 
+    "🤣": [
+        "kulayotgan", 
+        "qotib kulayotgan", 
+        "yuz", 
+        "qotib", 
+        "qahqaha"
+    ], 
+    "🤤": [
+        "so‘lagi oqayotgan", 
+        "yuz", 
+        "so‘lak"
+    ], 
+    "🤥": [
+        "yolg‘on", 
+        "aldayotgan", 
+        "yuz", 
+        "pinokkio"
+    ], 
+    "🤦": [
+        "yuz", 
+        "g‘ijinish", 
+        "qo‘l", 
+        "gap yo‘q", 
+        "jahl chiqish", 
+        "feyspalm", 
+        "boshqa gapim yo‘q", 
+        "ishonchsizlik"
+    ], 
+    "🤧": [
+        "aksirayotgan", 
+        "yuz"
+    ], 
+    "🤨": [
+        "qosh chimirilgan yuz"
+    ], 
+    "🤩": [
+        "ko‘zlarda yulduzcha"
+    ], 
+    "🤪": [
+        "ahmoq yuz"
+    ], 
+    "🤫": [
+        "ts-s-s"
+    ], 
+    "🤬": [
+        "senzura"
+    ], 
+    "🤭": [
+        "og‘izni qo‘l bilan yopish"
+    ], 
+    "🤮": [
+        "qusish"
+    ], 
+    "🤯": [
+        "miya portlashi"
+    ], 
+    "🤰": [
+        "homilador ayol", 
+        "ikki qat", 
+        "ayol", 
+        "homilador"
+    ], 
+    "🤱": [
+        "emizish"
+    ], 
+    "🤲": [
+        "kaftlar ochiq"
+    ], 
+    "🤳": [
+        "surat", 
+        "telefon", 
+        "selfi"
+    ], 
+    "🤴": [
+        "shahzoda"
+    ], 
+    "🤵": [
+        "erkak", 
+        "smoking kiygan erkak", 
+        "smoking", 
+        "er"
+    ], 
+    "🤶": [
+        "qorqiz", 
+        "rojdestvo"
+    ], 
+    "🤷": [
+        "bilmayman ishorasi", 
+        "shubha", 
+        "bilmayman", 
+        "ikkilanish"
+    ], 
+    "🤸": [
+        "odam", 
+        "g‘ildirak", 
+        "gimnastika", 
+        "akrobatika", 
+        "sport", 
+        "akrobatik mashq"
+    ], 
+    "🤹": [
+        "ko‘p vazifalilik", 
+        "muvozanat", 
+        "jonglyor", 
+        "tajriba"
+    ], 
+    "🤺": [
+        "qilichboz", 
+        "rapira", 
+        "sport", 
+        "qilichbozlik", 
+        "odam"
+    ], 
+    "🤼": [
+        "kurash", 
+        "kurashchilar", 
+        "sport", 
+        "odam"
+    ], 
+    "🤽": [
+        "polo", 
+        "suv", 
+        "sport", 
+        "suv polosi", 
+        "odam"
+    ], 
+    "🤾": [
+        "gandbol", 
+        "sport", 
+        "to‘p", 
+        "koptok", 
+        "odam"
+    ], 
+    "🥀": [
+        "so‘nayotgan gul", 
+        "quriyotgan", 
+        "so‘nayotgan", 
+        "gul"
+    ], 
+    "🥁": [
+        "baraban", 
+        "tayoqchalar", 
+        "musiqa"
+    ], 
+    "🥂": [
+        "qadah", 
+        "bayram", 
+        "qadah urishtirish", 
+        "ichimlik", 
+        "jaranglash"
+    ], 
+    "🥃": [
+        "kokteyl", 
+        "vino", 
+        "liker", 
+        "stakan", 
+        "viski", 
+        "vino uchun stakan"
+    ], 
+    "🥄": [
+        "qoshiq", 
+        "oshxona anjomi"
+    ], 
+    "🥅": [
+        "gol", 
+        "sport", 
+        "darvoza", 
+        "sportga oid darvoza"
+    ], 
+    "🥇": [
+        "oltin medal", 
+        "medal", 
+        "birinchi o‘rin", 
+        "oltin"
+    ], 
+    "🥈": [
+        "ikkinchi o‘rin", 
+        "medal", 
+        "kumush", 
+        "kumush medal"
+    ], 
+    "🥉": [
+        "bronza medal", 
+        "bronza", 
+        "uchinchi o‘rin", 
+        "medal"
+    ], 
+    "🥊": [
+        "qo‘lqop", 
+        "sport", 
+        "boks qo‘lqopi", 
+        "boks"
+    ], 
+    "🥋": [
+        "taekvondo", 
+        "sport formasi", 
+        "karate", 
+        "dzyudo", 
+        "sport kimonosi", 
+        "jang san’ati", 
+        "sport"
+    ], 
+    "🥌": [
+        "tosh", 
+        "muz", 
+        "o‘yin", 
+        "kyorling"
+    ], 
+    "🥐": [
+        "taom", 
+        "kruassan", 
+        "non", 
+        "fransuz"
+    ], 
+    "🥑": [
+        "taom", 
+        "avokado", 
+        "meva"
+    ], 
+    "🥒": [
+        "sabzavot", 
+        "taom", 
+        "tuzlama", 
+        "bodring"
+    ], 
+    "🥓": [
+        "bekon", 
+        "taom", 
+        "go‘sht"
+    ], 
+    "🥔": [
+        "sabzavot", 
+        "kartoshka", 
+        "taom"
+    ], 
+    "🥕": [
+        "sabzavot", 
+        "sabzi", 
+        "taom"
+    ], 
+    "🥖": [
+        "baget", 
+        "taom", 
+        "non", 
+        "fransuz"
+    ], 
+    "🥗": [
+        "sabzavot", 
+        "taom", 
+        "salat", 
+        "sabzavotli salat"
+    ], 
+    "🥘": [
+        "tova", 
+        "jarkop", 
+        "bir tova qovurdoq", 
+        "paelya", 
+        "taom"
+    ], 
+    "🥙": [
+        "lavash", 
+        "shaurma", 
+        "kabob", 
+        "taom"
+    ], 
+    "🥚": [
+        "taom", 
+        "tuxum"
+    ], 
+    "🥛": [
+        "ichimlik", 
+        "sut", 
+        "stakan", 
+        "bir stakan sut"
+    ], 
+    "🥜": [
+        "sabzavot", 
+        "taom", 
+        "yong‘oq", 
+        "yeryong‘oq"
+    ], 
+    "🥝": [
+        "taom", 
+        "meva", 
+        "kivi"
+    ], 
+    "🥞": [
+        "taom", 
+        "blinchik"
+    ], 
+    "🥟": [
+        "xonim", 
+        "qovurma somsa", 
+        "manti", 
+        "chuchvara", 
+        "pilak", 
+        "uzma", 
+        "gyoza"
+    ], 
+    "🥠": [
+        "folbin", 
+        "bashorat", 
+        "taqdir pechenyesi", 
+        "kohin", 
+        "pechenye"
+    ], 
+    "🥡": [
+        "taom olib ketish uchun quti", 
+        "olib ketish"
+    ], 
+    "🥢": [
+        "tayoqcha", 
+        "xascho‘p", 
+        "asboblar"
+    ], 
+    "🥣": [
+        "kosa bilan qoshiq", 
+        "bodroq", 
+        "atala", 
+        "bo‘tqa", 
+        "nonushta"
+    ], 
+    "🥤": [
+        "stakan bilan cho‘p", 
+        "shartbar", 
+        "fanta", 
+        "suv", 
+        "pepsi", 
+        "kola", 
+        "gaz suv", 
+        "mineral suv"
+    ], 
+    "🥥": [
+        "kokos", 
+        "pina kolada", 
+        "palma"
+    ], 
+    "🥦": [
+        "yovvoyi karam", 
+        "brokkoli", 
+        "karam"
+    ], 
+    "🥧": [
+        "tort", 
+        "sut shirinlik", 
+        "pirog", 
+        "pishiriq"
+    ], 
+    "🥨": [
+        "o‘ralgan", 
+        "o‘rama", 
+        "kulcha"
+    ], 
+    "🥩": [
+        "go‘sht bo‘lagi", 
+        "kesilgan", 
+        "steyk", 
+        "lahm"
+    ], 
+    "🥪": [
+        "buterbrod", 
+        "sendvich", 
+        "non"
+    ], 
+    "🥫": [
+        "konserva", 
+        "banka", 
+        "tunuka idish"
+    ], 
+    "🦀": [
+        "qisqichbaqa", 
+        "burj"
+    ], 
+    "🦁": [
+        "sher qiyofasi", 
+        "yuz", 
+        "sher", 
+        "burj"
+    ], 
+    "🦂": [
+        "chayon", 
+        "burj"
+    ], 
+    "🦃": [
+        "kurka"
+    ], 
+    "🦄": [
+        "bir shoxli ot", 
+        "bir shoxli ot qiyofasi", 
+        "yuz"
+    ], 
+    "🦅": [
+        "qush", 
+        "burgut"
+    ], 
+    "🦆": [
+        "o‘rdak", 
+        "qush"
+    ], 
+    "🦇": [
+        "vampir", 
+        "hayvon", 
+        "ko‘rshapalak"
+    ], 
+    "🦈": [
+        "baliq", 
+        "akula"
+    ], 
+    "🦉": [
+        "donolik", 
+        "parranda", 
+        "boyqush"
+    ], 
+    "🦊": [
+        "ayyor", 
+        "ayyor tulki", 
+        "tulki", 
+        "fayvon"
+    ], 
+    "🦋": [
+        "go‘zallik", 
+        "hasharot", 
+        "kapalak"
+    ], 
+    "🦌": [
+        "kiyik", 
+        "hayvon"
+    ], 
+    "🦍": [
+        "gorilla", 
+        "maymun", 
+        "hayvon"
+    ], 
+    "🦎": [
+        "sudralib yuruvchi", 
+        "kaltakesak"
+    ], 
+    "🦏": [
+        "karkidon", 
+        "hayvon"
+    ], 
+    "🦐": [
+        "mayda qisqichbaqa", 
+        "taom", 
+        "mayda", 
+        "qisqichbaqa", 
+        "dengiz mahsulotlari"
+    ], 
+    "🦑": [
+        "mollyuska", 
+        "taom", 
+        "kalmar"
+    ], 
+    "🦒": [
+        "xol-xol", 
+        "jirafa", 
+        "olachipor"
+    ], 
+    "🦓": [
+        "yo‘l-yo‘l", 
+        "oq-qora", 
+        "zebra"
+    ], 
+    "🦔": [
+        "tikanli", 
+        "ignali", 
+        "tipratikan"
+    ], 
+    "🦕": [
+        "braxiozavr", 
+        "zauropod", 
+        "brontozavr", 
+        "diplodok"
+    ], 
+    "🦖": [
+        "reks", 
+        "T-Reks", 
+        "tirannozavr"
+    ], 
+    "🦗": [
+        "chigirtka", 
+        "qora chigirtka"
+    ], 
+    "🧀": [
+        "pishloq bo‘lagi", 
+        "pishloq"
+    ], 
+    "🧐": [
+        "monokl bilan"
+    ], 
+    "🧑": [
+        "voyaga yetgan", 
+        "katta", 
+        "neytral jins"
+    ], 
+    "🧒": [
+        "bola", 
+        "farzand", 
+        "bolakay", 
+        "neytral jins"
+    ], 
+    "🧓": [
+        "qari odam", 
+        "neytral jins", 
+        "keksa", 
+        "qariya"
+    ], 
+    "🧔": [
+        "soqolli odam"
+    ], 
+    "🧕": [
+        "ro‘mol o‘ragan ayol"
+    ], 
+    "🧖": [
+        "hammomdagi odam"
+    ], 
+    "🧗": [
+        "cho‘qqiga chiqayotgan odam"
+    ], 
+    "🧘": [
+        "lotus holatidagi odam"
+    ], 
+    "🧙": [
+        "afsungar", 
+        "sehrgar", 
+        "kohin", 
+        "jodugar"
+    ], 
+    "🧚": [
+        "Titaniya", 
+        "sohira", 
+        "qanot", 
+        "pari", 
+        "ertak"
+    ], 
+    "🧛": [
+        "tish", 
+        "Drakula", 
+        "vampir", 
+        "qon"
+    ], 
+    "🧜": [
+        "triton", 
+        "yarim baliq", 
+        "suv parisi", 
+        "yarim odam"
+    ], 
+    "🧝": [
+        "quloq", 
+        "elf", 
+        "sehrli", 
+        "ertak"
+    ], 
+    "🧞": [
+        "afsun", 
+        "jin", 
+        "ertak", 
+        "chiroq"
+    ], 
+    "🧟": [
+        "tirik", 
+        "murda", 
+        "zombi"
+    ], 
+    "🧠": [
+        "miya"
+    ], 
+    "🧡": [
+        "apelsinrang yurak"
+    ], 
+    "🧢": [
+        "beysbolka"
+    ], 
+    "🧣": [
+        "sharf"
+    ], 
+    "🧤": [
+        "qo‘lqop"
+    ], 
+    "🧥": [
+        "palto"
+    ], 
+    "🧦": [
+        "paypoq"
+    ]
+}

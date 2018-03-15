@@ -1,8 +1,16 @@
 # -*- coding: utf-8 -*-
 
+# Set up requests
+# see https://cloud.google.com/appengine/docs/standard/python/issue-requests#issuing_an_http_request
+import requests_toolbelt.adapters.appengine
+requests_toolbelt.adapters.appengine.monkeypatch()
+#disable warnings
+import requests
+requests.packages.urllib3.disable_warnings(
+    requests.packages.urllib3.contrib.appengine.AppEnginePlatformWarning
+)
+
 import logging
-import urllib
-import urllib2
 from time import sleep
 
 # standard app engine imports
@@ -15,7 +23,6 @@ import requests
 
 import key
 
-import multipart
 import utility
 import emojiUtil
 import emojiTables
@@ -26,7 +33,7 @@ from person import Person
 
 import search
 import translation
-import tagging
+import userTagging
 import parameters
 import quizGame
 
@@ -194,6 +201,46 @@ MESSAGE_FOR_FRIENDS = utility.unindent(
 # AUXILIARY FUNCTIONS
 # ================================
 
+# ================================
+# Telegram Send Request
+# ================================
+def sendRequest(url, data, recipient_chat_id, debugInfo):
+    from google.appengine.api import urlfetch
+    urlfetch.set_default_fetch_deadline(20)
+    try:
+        resp = requests.post(url, data)
+        logging.info('Response: {}'.format(resp.text))
+        success = resp.status_code==200 #respJson['ok']
+        if success:
+            return True
+            #p.setEnabled(True, put=True)
+        else:
+            respJson = json.loads(resp.text)
+            status_code = resp.status_code
+            error_code = respJson['error_code']
+            description = respJson['description']
+            p = person.getPersonByChatId(recipient_chat_id)
+            if error_code == 403:
+                # Disabled user
+                p.setEnabled(False, put=True)
+                #logging.info('Disabled user: ' + p.getFirstNameLastNameUserName())
+            elif error_code == 400 and description == "INPUT_USER_DEACTIVATED":
+                p = person.getPersonByChatId(recipient_chat_id)
+                p.setEnabled(False, put=True)
+                debugMessage = '❗ Input user disactivated: ' + p.getFirstNameLastNameUserName()
+                logging.debug(debugMessage)
+                tell(key.FEDE_CHAT_ID, debugMessage, markdown=False)
+            else:
+                debugMessage = '❗ Raising unknown err ({}).' \
+                          '\nStatus code: {}\nerror code: {}\ndescription: {}.'.format(
+                    debugInfo, status_code, error_code, description)
+                logging.error(debugMessage)
+                #logging.debug('recipeint_chat_id: {}'.format(recipient_chat_id))
+                logging.debug('Telling to {} who is in state {}'.format(p.chat_id, p.state))
+                tell(key.FEDE_CHAT_ID, debugMessage, markdown=False)
+    except:
+        report_exception()
+
 def broadcast(sender, msg, restart_user=False, curs=None, enabledCount = 0):
     #return
 
@@ -232,9 +279,11 @@ def tell_masters(msg, markdown=False, one_time_keyboard=False):
     for id in key.MASTER_CHAT_ID:
         tell(id, msg, markdown=markdown, one_time_keyboard = one_time_keyboard, sleepDelay=True)
 
-def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
-         one_time_keyboard = True, sleepDelay=False):
 
+def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
+         one_time_keyboard=False, sleepDelay=False):
+    from google.appengine.api import urlfetch
+    urlfetch.set_default_fetch_deadline(20)
     replyMarkup = {
         'resize_keyboard': True,
         'one_time_keyboard': one_time_keyboard
@@ -245,54 +294,84 @@ def tell(chat_id, msg, kb=None, markdown=False, inlineKeyboardMarkup=False,
         else:
             replyMarkup['keyboard'] = kb
     try:
-        resp = urllib2.urlopen(BASE_URL + 'sendMessage', urllib.urlencode({
+        data = {
             'chat_id': chat_id,
-            'text': msg,  # .encode('utf-8'),
+            'text': msg,
             'disable_web_page_preview': 'true',
             'parse_mode': 'Markdown' if markdown else '',
-            # 'reply_to_message_id': str(message_id),
             'reply_markup': json.dumps(replyMarkup),
-        })).read()
-        logging.info('send response: ')
-        logging.info(resp)
-        resp_json = json.loads(resp)
-        return resp_json['result']['message_id']
-    except urllib2.HTTPError, err:
-        if err.code == 403:
-            p = person.getPersonByChatId(chat_id)
-            p.setEnabled(False, put=True)
-            #logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
+        }
+        resp = requests.post(BASE_URL + 'sendMessage', data)
+        logging.info('Response: {}'.format(resp.text))
+        #logging.info('Json: {}'.format(resp.json()))
+        respJson = json.loads(resp.text)
+        success = respJson['ok']
+        if success:
+            if sleepDelay:
+                sleep(0.1)
+            return True
         else:
-            logging.debug('Raising unknown err (code: {}) in tell() with msg = {}'.format(err.code, msg))
-            raise err
-    if sleepDelay:
-        sleep(0.1)
+            status_code = resp.status_code
+            error_code = respJson['error_code']
+            description = respJson['description']
+            if error_code == 403:
+                # Disabled user
+                p = person.getPersonByChatId(chat_id)
+                p.setEnabled(False, put=True)
+                logging.info('Disabled user: ' + p.getUserInfoString())
+            elif error_code == 400 and description == "INPUT_USER_DEACTIVATED":
+                p = person.getPersonByChatId(chat_id)
+                p.setEnabled(False, put=True)
+                debugMessage = '❗ Input user disactivated: ' + p.getUserInfoString()
+                logging.debug(debugMessage)
+                tell(key.FEDE_CHAT_ID, debugMessage, markdown=False)
+            else:
+                debugMessage = '❗ Raising unknown err in tell() when sending msg={} kb={}.' \
+                          '\nStatus code: {}\nerror code: {}\ndescription: {}.'.format(
+                    msg, kb, status_code, error_code, description)
+                logging.error(debugMessage)
+                tell(key.FEDE_CHAT_ID, debugMessage, markdown=False)
+    except:
+        report_exception()
 
-def tell_update(chat_id, msg, update_message_id, inline_kb=None, markdown=False):
-
-    replyMarkup = {}
-
-    if inline_kb:
-        replyMarkup['inline_keyboard'] = inline_kb
-
+def sendImageFileFromUrlOrId(chat_id, url_id):
+    from google.appengine.api import urlfetch
+    urlfetch.set_default_fetch_deadline(20)
     try:
-        logging.debug("Sending update message: " + str(update_message_id))
-        resp = urllib2.urlopen(BASE_URL + 'editMessageText', urllib.urlencode({
+        data = {
             'chat_id': chat_id,
-            'message_id': update_message_id,
-            'text': msg,  # .encode('utf-8'),
-            'disable_web_page_preview': 'true',
-            'parse_mode': 'Markdown' if markdown else '',
-            'reply_markup': json.dumps(replyMarkup),
-        })).read()
-        logging.info('send response: ')
-        logging.info(resp)
-        logging.debug("Resp: " + resp)
-    except urllib2.HTTPError, err:
-        if err.code == 403:
-            p = person.getPersonByChatId(chat_id)
-            p.setEnabled(False)
-            # logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
+            'photo': url_id,
+        }
+        resp = requests.post(key.BASE_URL + 'sendPhoto', data)
+        logging.info('Response: {}'.format(resp.text))
+    except:
+        report_exception()
+
+def sendImageFileFromData(chat_id, img_data):
+    from google.appengine.api import urlfetch
+    urlfetch.set_default_fetch_deadline(20)
+    try:
+        img = [('photo', ('emoji.png', img_data, 'image/png'))]
+        data = {
+            'chat_id': chat_id,
+        }
+        resp = requests.post(key.BASE_URL + 'sendPhoto', data=data, files=img)
+        logging.info('Response: {}'.format(resp.text))
+    except:
+        report_exception()
+
+def sendStickerFileFromData(chat_id, img_data):
+    from google.appengine.api import urlfetch
+    urlfetch.set_default_fetch_deadline(20)
+    try:
+        img = [('sticker', ('emoji.webp', img_data, 'image/webp'))]
+        data = {
+            'chat_id': chat_id,
+        }
+        resp = requests.post(key.BASE_URL + 'sendSticker', data=data, files=img)
+        logging.info('Response: {}'.format(resp.text))
+    except:
+        report_exception()
 
 def tell_person(chat_id, msg, markdown=False):
     tell(chat_id, msg, markdown=markdown)
@@ -301,64 +380,14 @@ def tell_person(chat_id, msg, markdown=False):
         return True
     return False
 
-def sendEmojiImage(chat_id, emoji, sleepDelay=False, viaUrl = True):
-    if viaUrl:
-        img_url = emojiUtil.getEmojiImageUrl(emoji)
-        sendImageFile(chat_id, img_url=img_url)
-    else:
-        img_file_path = emojiUtil.getEmojiImageFilePath(emoji)
-        sendImageFile(chat_id, img_file_path=img_file_path)
-    """
-    emojiFileIdEntry = emojiTables.getEmojiFileIdEntry(emoji)
-    if emojiFileIdEntry:
-        file_id = emojiFileIdEntry.file_id
-        sendImageFile(chat_id, file_id = file_id)
-    else:
-        img_url = emojiUtil.getEmojiImageUrl(emoji)
-        file_id = sendImageFile(chat_id, img_url = img_url)
-        emojiTables.addEmojiFileId(emoji, file_id)
-    """
-    if sleepDelay:
-        sleep(0.1)
-
-
 
 def sendTextImage(chat_id, text):
     text = text.replace(' ','+')
     # see https://developers.google.com/chart/image/docs/gallery/dynamic_icons
     #img_url = "http://chart.apis.google.com/chart?chst=d_text_outline&chld=000000|40|h|FFFFFF|_|" + text
     img_url = "http://chart.apis.google.com/chart?chst=d_fnote&chld=sticky_y|2|0088FF|h|" + text
-    sendImageFile(chat_id, img_url=img_url)
+    sendImageFileFromUrlOrId(chat_id, img_url)
 
-
-def sendImageFile(chat_id, img_file_path = None, img_url = None, file_id = None):
-    try:
-        if img_file_path or img_url:
-            img = open(img_file_path) if img_file_path else urllib2.urlopen(img_url).read()
-            resp = multipart.post_multipart(
-                BASE_URL + 'sendPhoto',
-                [('chat_id', str(chat_id)), ],
-                [('photo', 'image.jpg', img), ]
-            )
-            #respParsed = json.loads(resp)
-            #file_id = respParsed['result']['photo'][-1]['file_id']
-            #logging.debug('file id: ' + str(file_id))
-            #return file_id
-        else: #file_id
-            logging.info('sending image via file_id ' + str(file_id))
-            resp = urllib2.urlopen(
-                BASE_URL + 'sendPhoto', urllib.urlencode({
-                'chat_id': chat_id,
-                'photo': file_id
-            })).read()
-        logging.info('send response: ')
-        logging.info(resp)
-    except urllib2.HTTPError, err:
-        if err.code == 403:
-            p = Person.query(Person.chat_id == chat_id).get()
-            p.enabled = False
-            p.put()
-            logging.info('Disabled user: ' + p.name.encode('utf-8') + ' ' + str(chat_id))
 
 
 ##################################
@@ -505,9 +534,16 @@ def dealWithMasterCommands(p, input):
         tell(p.chat_id, 'Normalized: ' + utility.normalizeString(input[commandBodyStartIndex:]))
     elif input == '/getPeopleCount':
         tell(p.chat_id, person.getPeopleCount())
-    elif input == '/testEmojiImg':
-        sendEmojiImage(p.chat_id, '⭐', viaUrl=True)
-        #sendImageFile(p.chat_id, file_id="AgADBAADwqcxG6KeCwt2serQEgVDNMkyQxkABOArQTl-gzb0cb8BAAEC")
+    elif input.startswith('/testEmojiImg'):
+        input_array = input.split(' ')
+        emoji = input_array[1] if len(input_array)>1 else '⭐'
+        image_url = emojiUtil.getEmojiPngUrl(emoji)
+        sendImageFileFromUrlOrId(p.chat_id, image_url)
+    elif input.startswith('/testEmojiSticker'):
+        input_array = input.split(' ')
+        emoji = input_array[1] if len(input_array) > 1 else '⭐'
+        sticker_data = emojiUtil.getEmojiStickerDataFromUrl(emoji)
+        sendStickerFileFromData(p.chat_id, sticker_data)
     elif input == '/testTextImg':
         sendTextImage(p.chat_id, 'text example')
     elif input.startswith('/sendText'):
@@ -540,23 +576,21 @@ def dealWithInputTagOrEmoji(p, input):
         tell(p.chat_id, "Sorry, your input is too long.")
         return
     lang_code = p.getLanguageCode()
-    input_norm = input
-    if input_norm not in emojiTables.ALL_EMOJIS:
-        input_norm = emojiUtil.getNormalizedEmoji(input)
-    if input_norm in emojiTables.ALL_EMOJIS:
+    emoji_norm = emojiUtil.checkIfEmojiAndGetNormalized(input)
+    if emoji_norm:
         # input is an emoji
-        tagList = emojiTables.getTagList(lang_code, input_norm)
+        tagList = emojiTables.getTagList(lang_code, emoji_norm)
         if len(tagList)>0:
             tagsStr = ", ".join(tagList)
             tell(p.chat_id, "Found the following tags for {0}: \n *{1}*".format(
                 input, tagsStr), markdown=utility.markdownSafe(tagsStr))
             # logging.info(str(p.chat_id) + " searching emoji " + input_norm + " and getting tags " + tags)
-            search.addSearch(p.chat_id, lang_code, input_norm, is_searched_emoji=True, inline_query=False,
+            search.addSearch(p.chat_id, lang_code, emoji_norm, is_searched_emoji=True, inline_query=False,
                              found_translation=True)
         else:
             tell(p.chat_id, "🤔  *No tags found* for the given emoji.", markdown=True)
             # logging.info(str(p.chat_id) + " searching emoji" + input_norm + " and getting #no_tags#")
-            search.addSearch(p.chat_id, lang_code, input_norm, is_searched_emoji=True, inline_query=False,
+            search.addSearch(p.chat_id, lang_code, emoji_norm, is_searched_emoji=True, inline_query=False,
                              found_translation=False)
     else:
         # input is a tag
@@ -844,7 +878,7 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
     giveInstruction = input is None
     if giveInstruction:
         if not userTaggingEntry:
-            userTaggingEntry = tagging.getOrInsertUserTaggingEntry(p)
+            userTaggingEntry = userTagging.getOrInsertUserTaggingEntry(p)
             numTagging = 0
         else:
             numTagging = userTaggingEntry.getNumberOfTaggedEmoji()
@@ -859,7 +893,9 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
         if not emoji:
             emoji, random = getNextEmojiForTagging(userTaggingEntry)
             userTaggingEntry.setLastEmoji(emoji, random)
-        langTags = emojiTables.getTagList(p.getLanguageCode(), emoji)
+        userLang = p.getLanguageCode()
+        langTags = emojiTables.getTagList(userLang, emoji)
+        logging.debug("Lang: {} Emoji: {} Tags: {}".format(userLang, emoji, langTags))
         engTags = emojiTables.getTagList('eng', emoji)
         useMarkdown = not any((utility.containsMarkdown(emoji),
                                utility.containsMarkdownList(langTags),
@@ -873,12 +909,16 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
                                                engShuffledTagMarkdownStr, useMarkdown)
         tell(p.chat_id, msg1, markdown=useMarkdown)
 
-        sendEmojiImage(p.chat_id, emoji, viaUrl=True )
+        #image_data = emojiUtil.getEmojiImageDataFromUrl(emoji)
+        #sendImageFileFromData(p.chat_id, image_data)
+
+        sticker_data = emojiUtil.getEmojiStickerDataFromUrl(emoji)
+        sendStickerFileFromData(p.chat_id, sticker_data)
 
         kb= [[BUTTON_OR_TYPE_SKIP_GAME],[BUTTON_EXIT_GAME]]
         tell(p.chat_id, msg2, kb, markdown=useMarkdown)
     else:
-        userTaggingEntry = tagging.getUserTaggingEntry(p)
+        userTaggingEntry = userTagging.getUserTaggingEntry(p)
         if not userTaggingEntry:
             tell(p.chat_id, "Sorry, something got wrong, if the problem persists contact @kercos")
             return
@@ -889,7 +929,7 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
             repeatState(p, userTaggingEntry=userTaggingEntry)
         elif input==BUTTON_OR_TYPE_SKIP_GAME or input.lower()=="/skip":
             userTaggingEntry.addTagsToLastEmoji([])
-            tagging.addInAggregatedEmojiTags(userTaggingEntry)
+            userTagging.addInAggregatedEmojiTags(userTaggingEntry)
             userTaggingEntry.removeLastEmoji(put = True)
             tell(p.chat_id, "🤔 Sending you a new emoji ...")
             sleep(1)
@@ -919,14 +959,14 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
                            "Please try again or press SKIP.".format(langShuffledTagMarkdownStr)
                     tell(p.chat_id, msg, markdown= useMarkdown)
                 else:
-                    statsFeedback = tagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTagLower)
+                    statsFeedback = userTagging.getStatsFeedbackForTagging(userTaggingEntry, proposedTagLower)
                     msg += "Thanks for your input! 🙏\n" + statsFeedback
                     useMarkdown = not utility.containsMarkdownList(proposedTagLower) and not utility.containsMarkdownList(statsFeedback)
                     tell(p.chat_id, msg, markdown=useMarkdown)
                     userTaggingEntry.updateUpperCounts(proposedTagLower)
                     userTaggingEntry.addTagsToLastEmoji([proposedTagLower])
                     #tagging.addInAggregatedTagEmojis(userTaggingEntry)
-                    tagging.addInAggregatedEmojiTags(userTaggingEntry)
+                    userTagging.addInAggregatedEmojiTags(userTaggingEntry)
                     userTaggingEntry.removeLastEmoji(put = True)
                     sleep(1)
                     repeatState(p, userTaggingEntry=userTaggingEntry)
@@ -974,7 +1014,7 @@ def getTaggingGameInstruction(p, userTaggingEntry, language_tags_markeddown_str,
         msg1 += "It is currently associated with the following {0} tags: {1}, " \
                "which you cannot reuse. ".format(language, language_tags_markeddown_str)
     else:
-        msg1 += "This emoji still does not have any official tags for people to find it in {0}.".format(language)
+        msg1 += "This emoji still does not have any official tags in {0}.".format(language)
 
     if useMarkdown:
         msg2 = "\nCan you think of *a single new* {0} tag for {1}?".format(language, emoji)
@@ -992,15 +1032,16 @@ def getTaggingGameInstruction(p, userTaggingEntry, language_tags_markeddown_str,
 def getNextEmojiForTagging(userTaggingEntry):
     if not userTaggingEntry.hasSeenEnoughKnownEmoji():
         #logging.debug("Person has not seen enough knwon emoji: " + str(userTaggingEntry.ongoingAlreadyTaggedEmojis))
-        emoji = tagging.getPrioritizedEmojiForUser(userTaggingEntry)
+        emoji = userTagging.getPrioritizedEmojiForUser(userTaggingEntry)
         if emoji:
             #logging.debug("Send new emoji: " + emoji)
             return emoji, False
     while True:
-        randomEmoji = emojiTables.getRandomEmoji()
+        randomEmoji = emojiUtil.getRandomEmoji()
         if userTaggingEntry.wasEmojiTagged(randomEmoji):
             continue
         #logging.debug("Sendin random emoji: " + randomEmoji)
+        emojiTables.addEmojiLangInTableIfNotExists(userTaggingEntry.lang_code, randomEmoji)
         return randomEmoji, True
 
 
@@ -1207,11 +1248,6 @@ def broadcast_quiz_final_msg(sender_id, state, userAnswersTable, restart_user=Fa
 # ================================
 
 
-class MeHandler(webapp2.RequestHandler):
-    def get(self):
-        ##urlfetch.set_default_fetch_deadline(60)
-        self.response.write(json.dumps(json.load(urllib2.urlopen(BASE_URL + 'getMe'))))
-
 class SetWebhookHandler(webapp2.RequestHandler):
     def get(self):
         #urlfetch.set_default_fetch_deadline(60)
@@ -1271,7 +1307,7 @@ def createInlineQueryResultArticle(p, id, query_text, query_offset):
                     'title': e,
                     'message_text': msg,
                     'hide_url': True,
-                    'thumb_url': emojiUtil.getEmojiImageUrl(e),
+                    'thumb_url': emojiUtil.getEmojiPngUrl(e),
                 }
             )
             i += 1
@@ -1290,18 +1326,18 @@ def createInlineQueryResultArticle(p, id, query_text, query_offset):
 
 
 def answerInlineQuery(query_id, inlineQueryResults, next_offset):
-    my_data = {
+    from google.appengine.api import urlfetch
+    urlfetch.set_default_fetch_deadline(20)
+    data = {
         'inline_query_id': query_id,
         'results': json.dumps(inlineQueryResults),
         'is_personal': True,
         'cache_time': 0, #default 300
         'next_offset': next_offset
     }
-    logging.debug('send inline query data: ' + str(my_data))
-    resp = urllib2.urlopen(BASE_URL + 'answerInlineQuery',
-                           urllib.urlencode(my_data)).read()
-    logging.info('send response: ')
-    logging.info(resp)
+    logging.debug('send inline query data: ' + str(data))
+    resp = requests.post(BASE_URL + 'answerInlineQuery', data)
+    logging.info('Response: {}'.format(resp.text))
 
 
 def dealWithInlineQuery(body):
@@ -1432,6 +1468,17 @@ class WebhookHandler(SafeRequestHandler):
                 logging.debug("Sending {0} to state {1} with input '{2}'".format(p.getFirstName(), str(p.state), text))
                 repeatState(p, input=text, message_timestamp = message_timestamp)
 
+class ServeEmojiImage(webapp2.RequestHandler):
+    def get(self, code_points):
+        #logging.debug("Starting serving emoji image {}".format(code_points))
+        image_data = emojiUtil.getEmojiImageDataFromSprite(code_points=code_points)
+        if image_data:
+            self.response.headers['Content-Type'] = 'image/png'
+            self.response.headers['Content-Length'] = len(image_data)
+            self.response.out.write(image_data)
+        else:
+            self.response.set_status(400)
+
 
 def report_exception():
     import traceback
@@ -1441,17 +1488,15 @@ def report_exception():
 
 
 app = webapp2.WSGIApplication([
-    ('/me', MeHandler),
-    #    ('/_ah/channel/connected/', DashboardConnectedHandler),
-    #    ('/_ah/channel/disconnected/', DashboardDisconnectedHandler),
     ('/set_webhook', SetWebhookHandler),
     ('/get_webhook_info', GetWebhookInfo),
     ('/delete_webhook', DeleteWebhook),
     (key.WEBHOOK_PATH, WebhookHandler),
+    ('/getEmojiImg/([^/]+)?', ServeEmojiImage),
     ('/translationUserTable/([^/]+)?', translation.TranslationUserTableHandler),
     ('/translationAggregatedTable/([^/]+)?', translation.TranslationAggregatedTableHandler),
-    ('/taggingUserTable/([^/]+)?', tagging.TaggingUserTableHandler),
-    ('/taggingAggregatedTable/([^/]+)?', tagging.TaggingAggregatedTableHandler),
+    ('/taggingUserTable/([^/]+)?', userTagging.TaggingUserTableHandler),
+    ('/taggingAggregatedTable/([^/]+)?', userTagging.TaggingAggregatedTableHandler),
     ('/taggingLanguagageStats', emojiTables.LanguageUserTagsStatsHandler),
 ], debug=False)
 

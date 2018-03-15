@@ -1,0 +1,6932 @@
+{
+    "⌚": [
+        "zegarek", 
+        "godzina"
+    ], 
+    "⌛": [
+        "odmierzać", 
+        "piasek", 
+        "klepsydra", 
+        "czas"
+    ], 
+    "⏩": [
+        "trójkąt", 
+        "podwójna", 
+        "przewiń", 
+        "szybkie przewijanie", 
+        "przycisk szybkiego przewijania do przodu", 
+        "strzałka", 
+        "do przodu"
+    ], 
+    "⏪": [
+        "do tyłu", 
+        "trójkąt", 
+        "podwójna", 
+        "przewiń", 
+        "przycisk szybkiego przewijania do tyłu", 
+        "w lewo", 
+        "szybkie przewijanie", 
+        "strzałka", 
+        "wstecz"
+    ], 
+    "⏫": [
+        "do góry", 
+        "podwójna", 
+        "w górę", 
+        "strzałka", 
+        "przycisk „szybko w górę”"
+    ], 
+    "⏬": [
+        "na dół", 
+        "podwójna", 
+        "przycisk „szybko w dół”", 
+        "strzałka", 
+        "w dół"
+    ], 
+    "⏰": [
+        "zegar", 
+        "budzik"
+    ], 
+    "⏳": [
+        "odmierzać", 
+        "klepsydra z przesypującym się piaskiem", 
+        "piasek", 
+        "klepsydra", 
+        "czas"
+    ], 
+    "◽": [
+        "kwadracik", 
+        "figura geometryczna", 
+        "biały", 
+        "mały/średni biały kwadrat", 
+        "kwadrat"
+    ], 
+    "◾": [
+        "kwadrat", 
+        "mały", 
+        "figura geometryczna", 
+        "mały/średni czarny kwadrat", 
+        "czarny"
+    ], 
+    "☔": [
+        "pada", 
+        "pogoda", 
+        "deszcz", 
+        "opady", 
+        "parasol z kroplami deszczu"
+    ], 
+    "☕": [
+        "kawa", 
+        "napój", 
+        "gorący napój", 
+        "gorąca", 
+        "picie", 
+        "herbata", 
+        "parująca"
+    ], 
+    "♈": [
+        "zodiak", 
+        "Baran", 
+        "znak zodiaku", 
+        "baran"
+    ], 
+    "♉": [
+        "zodiak", 
+        "znak zodiaku", 
+        "byk", 
+        "Byk"
+    ], 
+    "♊": [
+        "bliźnięta", 
+        "zodiak", 
+        "Bliźnięta", 
+        "znak zodiaku"
+    ], 
+    "♋": [
+        "zodiak", 
+        "znak zodiaku", 
+        "rak", 
+        "Rak"
+    ], 
+    "♌": [
+        "zodiak", 
+        "Lew", 
+        "znak zodiaku", 
+        "lew"
+    ], 
+    "♍": [
+        "zodiak", 
+        "Panna", 
+        "znak zodiaku", 
+        "panna"
+    ], 
+    "♎": [
+        "Waga", 
+        "zodiak", 
+        "waga", 
+        "znak zodiaku"
+    ], 
+    "♏": [
+        "zodiak", 
+        "skorpion", 
+        "znak zodiaku", 
+        "Skorpion"
+    ], 
+    "♐": [
+        "strzelec", 
+        "zodiak", 
+        "Strzelec", 
+        "znak zodiaku"
+    ], 
+    "♑": [
+        "koziorożec", 
+        "zodiak", 
+        "znak zodiaku", 
+        "Koziorożec"
+    ], 
+    "♒": [
+        "zodiak", 
+        "Wodnik", 
+        "wodnik", 
+        "znak zodiaku"
+    ], 
+    "♓": [
+        "ryby", 
+        "Ryby", 
+        "zodiak", 
+        "znak zodiaku"
+    ], 
+    "♿": [
+        "inwalida", 
+        "wózek", 
+        "symbol wózka inwalidzkiego", 
+        "na wózku", 
+        "niepełnosprawny"
+    ], 
+    "⚓": [
+        "statek", 
+        "przyrząd", 
+        "kotwica", 
+        "okręt"
+    ], 
+    "⚡": [
+        "piorun", 
+        "błyskawica", 
+        "wysokie napięcie", 
+        "elektryczność", 
+        "napięcie", 
+        "niebezpieczeństwo", 
+        "błysk"
+    ], 
+    "⚪": [
+        "białe", 
+        "figura geometryczna", 
+        "białe koło", 
+        "kółko", 
+        "koło"
+    ], 
+    "⚫": [
+        "czarne koło", 
+        "figura geometryczna", 
+        "czarne", 
+        "kółko", 
+        "koło"
+    ], 
+    "⚽": [
+        "futbolówka", 
+        "piłka nożna", 
+        "piłka", 
+        "nożna"
+    ], 
+    "⚾": [
+        "baseball", 
+        "piłka"
+    ], 
+    "⛄": [
+        "śnieg", 
+        "bałwan", 
+        "bałwan bez śniegu", 
+        "pogoda", 
+        "zimno", 
+        "zabawa na śniegu"
+    ], 
+    "⛅": [
+        "słońce zza chmury", 
+        "chmura", 
+        "pogoda", 
+        "słońce"
+    ], 
+    "⛎": [
+        "wężownik", 
+        "zodiak", 
+        "znak zodiaku", 
+        "Wężownik"
+    ], 
+    "⛔": [
+        "wstęp", 
+        "zakaz wjazdu", 
+        "zabroniony", 
+        "zakaz", 
+        "wejście"
+    ], 
+    "⛪": [
+        "kościół", 
+        "religia", 
+        "chrześcijański", 
+        "świątynia", 
+        "krzyż"
+    ], 
+    "⛲": [
+        "fontanna"
+    ], 
+    "⛳": [
+        "golf", 
+        "flaga w dołku", 
+        "otwór"
+    ], 
+    "⛵": [
+        "pojazd", 
+        "kurort", 
+        "łódka", 
+        "jacht", 
+        "żaglówka", 
+        "morze"
+    ], 
+    "⛺": [
+        "kemping", 
+        "pole namiotowe", 
+        "obóz", 
+        "namiot"
+    ], 
+    "⛽": [
+        "benzyna", 
+        "dystrybutor", 
+        "dystrybutor paliwa", 
+        "stacja paliw"
+    ], 
+    "✅": [
+        "gruby biały znacznik wyboru", 
+        "zaznaczenie", 
+        "ptaszek", 
+        "parafka"
+    ], 
+    "✊": [
+        "uniesiona", 
+        "pięść", 
+        "zaciśnięta", 
+        "wzniesiona pięść"
+    ], 
+    "✋": [
+        "uwaga", 
+        "dłoń", 
+        "stop", 
+        "wzniesiona dłoń"
+    ], 
+    "✨": [
+        "gwiazdki", 
+        "gwiazdy"
+    ], 
+    "❌": [
+        "iks", 
+        "x", 
+        "anuluj", 
+        "znak krzyżyka", 
+        "mnożenie"
+    ], 
+    "❎": [
+        "iks", 
+        "przycisk z krzyżykiem", 
+        "iks w kwadracie", 
+        "krzyżyk w kwadracie", 
+        "anuluj", 
+        "mnożenie"
+    ], 
+    "❓": [
+        "znak zapytania", 
+        "pytajnik", 
+        "o co chodzi?", 
+        "pytanie"
+    ], 
+    "❔": [
+        "biały znak zapytania", 
+        "znak zapytania", 
+        "pytajnik", 
+        "o co chodzi?", 
+        "pytanie"
+    ], 
+    "❕": [
+        "okrzyk", 
+        "wykrzyknik", 
+        "biały wykrzyknik", 
+        "krzyk"
+    ], 
+    "❗": [
+        "okrzyk", 
+        "wykrzyknik", 
+        "krzyk"
+    ], 
+    "➕": [
+        "gruby znak plus", 
+        "dodać"
+    ], 
+    "➖": [
+        "odjąć", 
+        "gruby znak minus"
+    ], 
+    "➗": [
+        "dzielenie", 
+        "matematyka", 
+        "gruby znak dzielenia"
+    ], 
+    "➰": [
+        "pętla", 
+        "zawijas"
+    ], 
+    "➿": [
+        "pętla", 
+        "zawijas", 
+        "podwójna", 
+        "podwójna pętla"
+    ], 
+    "⬛": [
+        "kwadrat", 
+        "duży czarny kwadrat", 
+        "figura geometryczna", 
+        "średni", 
+        "duży", 
+        "czarny"
+    ], 
+    "⬜": [
+        "kwadrat", 
+        "figura geometryczna", 
+        "biały", 
+        "duży", 
+        "duży biały kwadrat"
+    ], 
+    "⭐": [
+        "gwiazda"
+    ], 
+    "⭕": [
+        "okrąg", 
+        "gruby czerwony okrąg", 
+        "kółko", 
+        "o", 
+        "koło"
+    ], 
+    "🀄": [
+        "madżong: czerwony smok", 
+        "Smok", 
+        "kafelek", 
+        "Czerwony smok", 
+        "mahjong"
+    ], 
+    "🃏": [
+        "Joker", 
+        "karta", 
+        "dżoker", 
+        "karta do gry"
+    ], 
+    "🆎": [
+        "grupa AB", 
+        "AB", 
+        "grupa krwi AB", 
+        "krew"
+    ], 
+    "🆑": [
+        "znak CL", 
+        "przycisk CL"
+    ], 
+    "🆒": [
+        "świetnie", 
+        "przycisk COOL", 
+        "aprobata", 
+        "zachwyt", 
+        "cool"
+    ], 
+    "🆓": [
+        "przycisk FREE", 
+        "znak FREE", 
+        "znak braku opłaty"
+    ], 
+    "🆔": [
+        "znak ID", 
+        "identyfikator", 
+        "ID", 
+        "przycisk ID"
+    ], 
+    "🆕": [
+        "nowość", 
+        "NEW", 
+        "nowy", 
+        "przycisk NEW"
+    ], 
+    "🆖": [
+        "źle", 
+        "niedobrze", 
+        "przycisk NG", 
+        "NG"
+    ], 
+    "🆗": [
+        "przycisk OK", 
+        "dobrze", 
+        "zgoda", 
+        "w porządku"
+    ], 
+    "🆘": [
+        "ratunku", 
+        "na pomoc", 
+        "przycisk SOS", 
+        "ratunek"
+    ], 
+    "🆙": [
+        "napis UP!", 
+        "do góry", 
+        "znak UP!"
+    ], 
+    "🆚": [
+        "versus", 
+        "kontra", 
+        "przycisk VS", 
+        "VS"
+    ], 
+    "🇦🇨": [
+        "Wyspa Wniebowstąpienia", 
+        "flaga"
+    ], 
+    "🇦🇩": [
+        "flaga", 
+        "Andora"
+    ], 
+    "🇦🇪": [
+        "Zjednoczone Emiraty Arabskie", 
+        "flaga"
+    ], 
+    "🇦🇫": [
+        "Afganistan", 
+        "flaga"
+    ], 
+    "🇦🇬": [
+        "Antigua i Barbuda", 
+        "flaga"
+    ], 
+    "🇦🇮": [
+        "Anguilla", 
+        "flaga"
+    ], 
+    "🇦🇱": [
+        "Albania", 
+        "flaga"
+    ], 
+    "🇦🇲": [
+        "Armenia", 
+        "flaga"
+    ], 
+    "🇦🇴": [
+        "Angola", 
+        "flaga"
+    ], 
+    "🇦🇶": [
+        "flaga", 
+        "Antarktyda"
+    ], 
+    "🇦🇷": [
+        "Argentyna", 
+        "flaga"
+    ], 
+    "🇦🇸": [
+        "Samoa Amerykańskie", 
+        "flaga"
+    ], 
+    "🇦🇹": [
+        "Austria", 
+        "flaga"
+    ], 
+    "🇦🇺": [
+        "Australia", 
+        "flaga"
+    ], 
+    "🇦🇼": [
+        "Aruba", 
+        "flaga"
+    ], 
+    "🇦🇽": [
+        "Wyspy Alandzkie", 
+        "flaga"
+    ], 
+    "🇦🇿": [
+        "flaga", 
+        "Azerbejdżan"
+    ], 
+    "🇧🇦": [
+        "Bośnia i Hercegowina", 
+        "flaga"
+    ], 
+    "🇧🇧": [
+        "Barbados", 
+        "flaga"
+    ], 
+    "🇧🇩": [
+        "flaga", 
+        "Bangladesz"
+    ], 
+    "🇧🇪": [
+        "Belgia", 
+        "flaga"
+    ], 
+    "🇧🇫": [
+        "Burkina Faso", 
+        "flaga"
+    ], 
+    "🇧🇬": [
+        "Bułgaria", 
+        "flaga"
+    ], 
+    "🇧🇭": [
+        "Bahrajn", 
+        "flaga"
+    ], 
+    "🇧🇮": [
+        "Burundi", 
+        "flaga"
+    ], 
+    "🇧🇯": [
+        "flaga", 
+        "Benin"
+    ], 
+    "🇧🇱": [
+        "Saint-Barthélemy", 
+        "flaga"
+    ], 
+    "🇧🇲": [
+        "Bermudy", 
+        "flaga"
+    ], 
+    "🇧🇳": [
+        "Brunei", 
+        "flaga"
+    ], 
+    "🇧🇴": [
+        "Boliwia", 
+        "flaga"
+    ], 
+    "🇧🇶": [
+        "Niderlandy Karaibskie", 
+        "flaga"
+    ], 
+    "🇧🇷": [
+        "Brazylia", 
+        "flaga"
+    ], 
+    "🇧🇸": [
+        "Bahamy", 
+        "flaga"
+    ], 
+    "🇧🇹": [
+        "Bhutan", 
+        "flaga"
+    ], 
+    "🇧🇻": [
+        "Wyspa Bouveta", 
+        "flaga"
+    ], 
+    "🇧🇼": [
+        "Botswana", 
+        "flaga"
+    ], 
+    "🇧🇾": [
+        "Białoruś", 
+        "flaga"
+    ], 
+    "🇧🇿": [
+        "Belize", 
+        "flaga"
+    ], 
+    "🇨🇦": [
+        "Kanada", 
+        "flaga"
+    ], 
+    "🇨🇨": [
+        "Wyspy Kokosowe", 
+        "flaga"
+    ], 
+    "🇨🇩": [
+        "Demokratyczna Republika Konga", 
+        "flaga"
+    ], 
+    "🇨🇫": [
+        "Republika Środkowoafrykańska", 
+        "flaga"
+    ], 
+    "🇨🇬": [
+        "Kongo", 
+        "flaga"
+    ], 
+    "🇨🇭": [
+        "flaga", 
+        "Szwajcaria"
+    ], 
+    "🇨🇮": [
+        "Côte d’Ivoire", 
+        "flaga"
+    ], 
+    "🇨🇰": [
+        "Wyspy Cooka", 
+        "flaga"
+    ], 
+    "🇨🇱": [
+        "Chile", 
+        "flaga"
+    ], 
+    "🇨🇲": [
+        "Kamerun", 
+        "flaga"
+    ], 
+    "🇨🇳": [
+        "Chiny", 
+        "flaga"
+    ], 
+    "🇨🇴": [
+        "Kolumbia", 
+        "flaga"
+    ], 
+    "🇨🇵": [
+        "Clipperton", 
+        "flaga"
+    ], 
+    "🇨🇷": [
+        "Kostaryka", 
+        "flaga"
+    ], 
+    "🇨🇺": [
+        "flaga", 
+        "Kuba"
+    ], 
+    "🇨🇻": [
+        "Republika Zielonego Przylądka", 
+        "flaga"
+    ], 
+    "🇨🇼": [
+        "Curaçao", 
+        "flaga"
+    ], 
+    "🇨🇽": [
+        "Wyspa Bożego Narodzenia", 
+        "flaga"
+    ], 
+    "🇨🇾": [
+        "Cypr", 
+        "flaga"
+    ], 
+    "🇨🇿": [
+        "Czechy", 
+        "flaga"
+    ], 
+    "🇩🇪": [
+        "flaga", 
+        "Niemcy"
+    ], 
+    "🇩🇬": [
+        "flaga", 
+        "Diego Garcia"
+    ], 
+    "🇩🇯": [
+        "Dżibuti", 
+        "flaga"
+    ], 
+    "🇩🇰": [
+        "Dania", 
+        "flaga"
+    ], 
+    "🇩🇲": [
+        "Dominika", 
+        "flaga"
+    ], 
+    "🇩🇴": [
+        "flaga", 
+        "Dominikana"
+    ], 
+    "🇩🇿": [
+        "Algieria", 
+        "flaga"
+    ], 
+    "🇪🇦": [
+        "Ceuta i Melilla", 
+        "flaga"
+    ], 
+    "🇪🇨": [
+        "Ekwador", 
+        "flaga"
+    ], 
+    "🇪🇪": [
+        "Estonia", 
+        "flaga"
+    ], 
+    "🇪🇬": [
+        "Egipt", 
+        "flaga"
+    ], 
+    "🇪🇭": [
+        "Sahara Zachodnia", 
+        "flaga"
+    ], 
+    "🇪🇷": [
+        "Erytrea", 
+        "flaga"
+    ], 
+    "🇪🇸": [
+        "Hiszpania", 
+        "flaga"
+    ], 
+    "🇪🇹": [
+        "Etiopia", 
+        "flaga"
+    ], 
+    "🇪🇺": [
+        "Unia Europejska", 
+        "flaga"
+    ], 
+    "🇫🇮": [
+        "flaga", 
+        "Finlandia"
+    ], 
+    "🇫🇯": [
+        "Fidżi", 
+        "flaga"
+    ], 
+    "🇫🇰": [
+        "Falklandy", 
+        "flaga"
+    ], 
+    "🇫🇲": [
+        "Mikronezja", 
+        "flaga"
+    ], 
+    "🇫🇴": [
+        "Wyspy Owcze", 
+        "flaga"
+    ], 
+    "🇫🇷": [
+        "Francja", 
+        "flaga"
+    ], 
+    "🇬🇦": [
+        "Gabon", 
+        "flaga"
+    ], 
+    "🇬🇧": [
+        "Wielka Brytania", 
+        "flaga"
+    ], 
+    "🇬🇩": [
+        "Grenada", 
+        "flaga"
+    ], 
+    "🇬🇪": [
+        "Gruzja", 
+        "flaga"
+    ], 
+    "🇬🇫": [
+        "Gujana Francuska", 
+        "flaga"
+    ], 
+    "🇬🇬": [
+        "Guernsey", 
+        "flaga"
+    ], 
+    "🇬🇭": [
+        "Ghana", 
+        "flaga"
+    ], 
+    "🇬🇮": [
+        "Gibraltar", 
+        "flaga"
+    ], 
+    "🇬🇱": [
+        "Grenlandia", 
+        "flaga"
+    ], 
+    "🇬🇲": [
+        "Gambia", 
+        "flaga"
+    ], 
+    "🇬🇳": [
+        "Gwinea", 
+        "flaga"
+    ], 
+    "🇬🇵": [
+        "flaga", 
+        "Gwadelupa"
+    ], 
+    "🇬🇶": [
+        "Gwinea Równikowa", 
+        "flaga"
+    ], 
+    "🇬🇷": [
+        "Grecja", 
+        "flaga"
+    ], 
+    "🇬🇸": [
+        "Georgia Południowa i Sandwich Południowy", 
+        "flaga"
+    ], 
+    "🇬🇹": [
+        "Gwatemala", 
+        "flaga"
+    ], 
+    "🇬🇺": [
+        "Guam", 
+        "flaga"
+    ], 
+    "🇬🇼": [
+        "Gwinea Bissau", 
+        "flaga"
+    ], 
+    "🇬🇾": [
+        "Gujana", 
+        "flaga"
+    ], 
+    "🇭🇰": [
+        "flaga", 
+        "SRA Hongkong (Chiny)"
+    ], 
+    "🇭🇲": [
+        "Wyspy Heard i McDonalda", 
+        "flaga"
+    ], 
+    "🇭🇳": [
+        "Honduras", 
+        "flaga"
+    ], 
+    "🇭🇷": [
+        "Chorwacja", 
+        "flaga"
+    ], 
+    "🇭🇹": [
+        "Haiti", 
+        "flaga"
+    ], 
+    "🇭🇺": [
+        "Węgry", 
+        "flaga"
+    ], 
+    "🇮🇨": [
+        "Wyspy Kanaryjskie", 
+        "flaga"
+    ], 
+    "🇮🇩": [
+        "Indonezja", 
+        "flaga"
+    ], 
+    "🇮🇪": [
+        "Irlandia", 
+        "flaga"
+    ], 
+    "🇮🇱": [
+        "Izrael", 
+        "flaga"
+    ], 
+    "🇮🇲": [
+        "flaga", 
+        "Wyspa Man"
+    ], 
+    "🇮🇳": [
+        "Indie", 
+        "flaga"
+    ], 
+    "🇮🇴": [
+        "Brytyjskie Terytorium Oceanu Indyjskiego", 
+        "flaga"
+    ], 
+    "🇮🇶": [
+        "Irak", 
+        "flaga"
+    ], 
+    "🇮🇷": [
+        "Iran", 
+        "flaga"
+    ], 
+    "🇮🇸": [
+        "Islandia", 
+        "flaga"
+    ], 
+    "🇮🇹": [
+        "Włochy", 
+        "flaga"
+    ], 
+    "🇯🇪": [
+        "Jersey", 
+        "flaga"
+    ], 
+    "🇯🇲": [
+        "Jamajka", 
+        "flaga"
+    ], 
+    "🇯🇴": [
+        "Jordania", 
+        "flaga"
+    ], 
+    "🇯🇵": [
+        "flaga", 
+        "Japonia"
+    ], 
+    "🇰🇪": [
+        "Kenia", 
+        "flaga"
+    ], 
+    "🇰🇬": [
+        "flaga", 
+        "Kirgistan"
+    ], 
+    "🇰🇭": [
+        "Kambodża", 
+        "flaga"
+    ], 
+    "🇰🇮": [
+        "Kiribati", 
+        "flaga"
+    ], 
+    "🇰🇲": [
+        "Komory", 
+        "flaga"
+    ], 
+    "🇰🇳": [
+        "Saint Kitts i Nevis", 
+        "flaga"
+    ], 
+    "🇰🇵": [
+        "Korea Północna", 
+        "flaga"
+    ], 
+    "🇰🇷": [
+        "Korea Południowa", 
+        "flaga"
+    ], 
+    "🇰🇼": [
+        "Kuwejt", 
+        "flaga"
+    ], 
+    "🇰🇾": [
+        "Kajmany", 
+        "flaga"
+    ], 
+    "🇰🇿": [
+        "Kazachstan", 
+        "flaga"
+    ], 
+    "🇱🇦": [
+        "flaga", 
+        "Laos"
+    ], 
+    "🇱🇧": [
+        "Liban", 
+        "flaga"
+    ], 
+    "🇱🇨": [
+        "Saint Lucia", 
+        "flaga"
+    ], 
+    "🇱🇮": [
+        "Liechtenstein", 
+        "flaga"
+    ], 
+    "🇱🇰": [
+        "Sri Lanka", 
+        "flaga"
+    ], 
+    "🇱🇷": [
+        "Liberia", 
+        "flaga"
+    ], 
+    "🇱🇸": [
+        "Lesotho", 
+        "flaga"
+    ], 
+    "🇱🇹": [
+        "Litwa", 
+        "flaga"
+    ], 
+    "🇱🇺": [
+        "Luksemburg", 
+        "flaga"
+    ], 
+    "🇱🇻": [
+        "Łotwa", 
+        "flaga"
+    ], 
+    "🇱🇾": [
+        "Libia", 
+        "flaga"
+    ], 
+    "🇲🇦": [
+        "Maroko", 
+        "flaga"
+    ], 
+    "🇲🇨": [
+        "flaga", 
+        "Monako"
+    ], 
+    "🇲🇩": [
+        "Mołdawia", 
+        "flaga"
+    ], 
+    "🇲🇪": [
+        "Czarnogóra", 
+        "flaga"
+    ], 
+    "🇲🇫": [
+        "Saint-Martin", 
+        "flaga"
+    ], 
+    "🇲🇬": [
+        "Madagaskar", 
+        "flaga"
+    ], 
+    "🇲🇭": [
+        "Wyspy Marshalla", 
+        "flaga"
+    ], 
+    "🇲🇰": [
+        "Macedonia", 
+        "flaga"
+    ], 
+    "🇲🇱": [
+        "flaga", 
+        "Mali"
+    ], 
+    "🇲🇲": [
+        "Mjanma (Birma)", 
+        "flaga"
+    ], 
+    "🇲🇳": [
+        "Mongolia", 
+        "flaga"
+    ], 
+    "🇲🇴": [
+        "SRA Makau (Chiny)", 
+        "flaga"
+    ], 
+    "🇲🇵": [
+        "flaga", 
+        "Mariany Północne"
+    ], 
+    "🇲🇶": [
+        "flaga", 
+        "Martynika"
+    ], 
+    "🇲🇷": [
+        "Mauretania", 
+        "flaga"
+    ], 
+    "🇲🇸": [
+        "Montserrat", 
+        "flaga"
+    ], 
+    "🇲🇹": [
+        "Malta", 
+        "flaga"
+    ], 
+    "🇲🇺": [
+        "Mauritius", 
+        "flaga"
+    ], 
+    "🇲🇻": [
+        "Malediwy", 
+        "flaga"
+    ], 
+    "🇲🇼": [
+        "Malawi", 
+        "flaga"
+    ], 
+    "🇲🇽": [
+        "Meksyk", 
+        "flaga"
+    ], 
+    "🇲🇾": [
+        "Malezja", 
+        "flaga"
+    ], 
+    "🇲🇿": [
+        "Mozambik", 
+        "flaga"
+    ], 
+    "🇳🇦": [
+        "Namibia", 
+        "flaga"
+    ], 
+    "🇳🇨": [
+        "Nowa Kaledonia", 
+        "flaga"
+    ], 
+    "🇳🇪": [
+        "Niger", 
+        "flaga"
+    ], 
+    "🇳🇫": [
+        "Norfolk", 
+        "flaga"
+    ], 
+    "🇳🇬": [
+        "Nigeria", 
+        "flaga"
+    ], 
+    "🇳🇮": [
+        "Nikaragua", 
+        "flaga"
+    ], 
+    "🇳🇱": [
+        "Holandia", 
+        "flaga"
+    ], 
+    "🇳🇴": [
+        "Norwegia", 
+        "flaga"
+    ], 
+    "🇳🇵": [
+        "Nepal", 
+        "flaga"
+    ], 
+    "🇳🇷": [
+        "Nauru", 
+        "flaga"
+    ], 
+    "🇳🇺": [
+        "Niue", 
+        "flaga"
+    ], 
+    "🇳🇿": [
+        "Nowa Zelandia", 
+        "flaga"
+    ], 
+    "🇴🇲": [
+        "Oman", 
+        "flaga"
+    ], 
+    "🇵🇦": [
+        "Panama", 
+        "flaga"
+    ], 
+    "🇵🇪": [
+        "Peru", 
+        "flaga"
+    ], 
+    "🇵🇫": [
+        "Polinezja Francuska", 
+        "flaga"
+    ], 
+    "🇵🇬": [
+        "Papua-Nowa Gwinea", 
+        "flaga"
+    ], 
+    "🇵🇭": [
+        "Filipiny", 
+        "flaga"
+    ], 
+    "🇵🇰": [
+        "Pakistan", 
+        "flaga"
+    ], 
+    "🇵🇱": [
+        "Polska", 
+        "flaga"
+    ], 
+    "🇵🇲": [
+        "Saint-Pierre i Miquelon", 
+        "flaga"
+    ], 
+    "🇵🇳": [
+        "Pitcairn", 
+        "flaga"
+    ], 
+    "🇵🇷": [
+        "Portoryko", 
+        "flaga"
+    ], 
+    "🇵🇸": [
+        "Terytoria Palestyńskie", 
+        "flaga"
+    ], 
+    "🇵🇹": [
+        "Portugalia", 
+        "flaga"
+    ], 
+    "🇵🇼": [
+        "Palau", 
+        "flaga"
+    ], 
+    "🇵🇾": [
+        "Paragwaj", 
+        "flaga"
+    ], 
+    "🇶🇦": [
+        "Katar", 
+        "flaga"
+    ], 
+    "🇷🇪": [
+        "flaga", 
+        "Reunion"
+    ], 
+    "🇷🇴": [
+        "Rumunia", 
+        "flaga"
+    ], 
+    "🇷🇸": [
+        "Serbia", 
+        "flaga"
+    ], 
+    "🇷🇺": [
+        "Rosja", 
+        "flaga"
+    ], 
+    "🇷🇼": [
+        "Rwanda", 
+        "flaga"
+    ], 
+    "🇸🇦": [
+        "Arabia Saudyjska", 
+        "flaga"
+    ], 
+    "🇸🇧": [
+        "Wyspy Salomona", 
+        "flaga"
+    ], 
+    "🇸🇨": [
+        "Seszele", 
+        "flaga"
+    ], 
+    "🇸🇩": [
+        "Sudan", 
+        "flaga"
+    ], 
+    "🇸🇪": [
+        "Szwecja", 
+        "flaga"
+    ], 
+    "🇸🇬": [
+        "Singapur", 
+        "flaga"
+    ], 
+    "🇸🇭": [
+        "Wyspa Świętej Heleny", 
+        "flaga"
+    ], 
+    "🇸🇮": [
+        "Słowenia", 
+        "flaga"
+    ], 
+    "🇸🇯": [
+        "Svalbard i Jan Mayen", 
+        "flaga"
+    ], 
+    "🇸🇰": [
+        "Słowacja", 
+        "flaga"
+    ], 
+    "🇸🇱": [
+        "Sierra Leone", 
+        "flaga"
+    ], 
+    "🇸🇲": [
+        "San Marino", 
+        "flaga"
+    ], 
+    "🇸🇳": [
+        "Senegal", 
+        "flaga"
+    ], 
+    "🇸🇴": [
+        "Somalia", 
+        "flaga"
+    ], 
+    "🇸🇷": [
+        "Surinam", 
+        "flaga"
+    ], 
+    "🇸🇸": [
+        "Sudan Południowy", 
+        "flaga"
+    ], 
+    "🇸🇹": [
+        "Wyspy Świętego Tomasza i Książęca", 
+        "flaga"
+    ], 
+    "🇸🇻": [
+        "Salwador", 
+        "flaga"
+    ], 
+    "🇸🇽": [
+        "Sint Maarten", 
+        "flaga"
+    ], 
+    "🇸🇾": [
+        "Syria", 
+        "flaga"
+    ], 
+    "🇸🇿": [
+        "Suazi", 
+        "flaga"
+    ], 
+    "🇹🇦": [
+        "flaga", 
+        "Tristan da Cunha"
+    ], 
+    "🇹🇨": [
+        "Turks i Caicos", 
+        "flaga"
+    ], 
+    "🇹🇩": [
+        "Czad", 
+        "flaga"
+    ], 
+    "🇹🇫": [
+        "Francuskie Terytoria Południowe i Antarktyczne", 
+        "flaga"
+    ], 
+    "🇹🇬": [
+        "Togo", 
+        "flaga"
+    ], 
+    "🇹🇭": [
+        "Tajlandia", 
+        "flaga"
+    ], 
+    "🇹🇯": [
+        "Tadżykistan", 
+        "flaga"
+    ], 
+    "🇹🇰": [
+        "Tokelau", 
+        "flaga"
+    ], 
+    "🇹🇱": [
+        "Timor Wschodni", 
+        "flaga"
+    ], 
+    "🇹🇲": [
+        "Turkmenistan", 
+        "flaga"
+    ], 
+    "🇹🇳": [
+        "Tunezja", 
+        "flaga"
+    ], 
+    "🇹🇴": [
+        "Tonga", 
+        "flaga"
+    ], 
+    "🇹🇷": [
+        "Turcja", 
+        "flaga"
+    ], 
+    "🇹🇹": [
+        "Trynidad i Tobago", 
+        "flaga"
+    ], 
+    "🇹🇻": [
+        "Tuvalu", 
+        "flaga"
+    ], 
+    "🇹🇼": [
+        "Tajwan", 
+        "flaga"
+    ], 
+    "🇹🇿": [
+        "Tanzania", 
+        "flaga"
+    ], 
+    "🇺🇦": [
+        "Ukraina", 
+        "flaga"
+    ], 
+    "🇺🇬": [
+        "Uganda", 
+        "flaga"
+    ], 
+    "🇺🇲": [
+        "flaga", 
+        "Dalekie Wyspy Mniejsze Stanów Zjednoczonych"
+    ], 
+    "🇺🇳": [
+        "Organizacja Narodów Zjednoczonych", 
+        "flaga"
+    ], 
+    "🇺🇸": [
+        "Stany Zjednoczone", 
+        "flaga"
+    ], 
+    "🇺🇾": [
+        "Urugwaj", 
+        "flaga"
+    ], 
+    "🇺🇿": [
+        "Uzbekistan", 
+        "flaga"
+    ], 
+    "🇻🇦": [
+        "Watykan", 
+        "flaga"
+    ], 
+    "🇻🇨": [
+        "flaga", 
+        "Saint Vincent i Grenadyny"
+    ], 
+    "🇻🇪": [
+        "Wenezuela", 
+        "flaga"
+    ], 
+    "🇻🇬": [
+        "Brytyjskie Wyspy Dziewicze", 
+        "flaga"
+    ], 
+    "🇻🇮": [
+        "Wyspy Dziewicze Stanów Zjednoczonych", 
+        "flaga"
+    ], 
+    "🇻🇳": [
+        "Wietnam", 
+        "flaga"
+    ], 
+    "🇻🇺": [
+        "flaga", 
+        "Vanuatu"
+    ], 
+    "🇼🇫": [
+        "Wallis i Futuna", 
+        "flaga"
+    ], 
+    "🇼🇸": [
+        "Samoa", 
+        "flaga"
+    ], 
+    "🇽🇰": [
+        "Kosowo", 
+        "flaga"
+    ], 
+    "🇾🇪": [
+        "Jemen", 
+        "flaga"
+    ], 
+    "🇾🇹": [
+        "Majotta", 
+        "flaga"
+    ], 
+    "🇿🇦": [
+        "Republika Południowej Afryki", 
+        "flaga"
+    ], 
+    "🇿🇲": [
+        "Zambia", 
+        "flaga"
+    ], 
+    "🇿🇼": [
+        "Zimbabwe", 
+        "flaga"
+    ], 
+    "🈁": [
+        "koko", 
+        "ideogram", 
+        "japoński przycisk „tutaj”", 
+        "japoński"
+    ], 
+    "🈚": [
+        "ideogram", 
+        "japoński przycisk „bezpłatne”", 
+        "negacja", 
+        "japoński"
+    ], 
+    "🈯": [
+        "ideogram", 
+        "palec", 
+        "japoński przycisk „zarezerwowane”", 
+        "japoński"
+    ], 
+    "🈲": [
+        "ideogram", 
+        "japoński przycisk „zabronione”", 
+        "zakaz", 
+        "japoński"
+    ], 
+    "🈳": [
+        "pusty", 
+        "japoński przycisk „wolne miejsce”", 
+        "ideogram", 
+        "chiński"
+    ], 
+    "🈴": [
+        "razem", 
+        "ideogram", 
+        "japoński przycisk „ocena pozytywna”", 
+        "chiński"
+    ], 
+    "🈵": [
+        "japoński przycisk „brak wolnych miejsc”", 
+        "ideogram", 
+        "chiński", 
+        "wypełnienie"
+    ], 
+    "🈶": [
+        "ideogram", 
+        "japoński przycisk „płatne”", 
+        "istnienie", 
+        "japoński"
+    ], 
+    "🈸": [
+        "japoński przycisk „wniosek”", 
+        "ideogram", 
+        "chiński", 
+        "zastosowanie"
+    ], 
+    "🈹": [
+        "japoński przycisk „rabat”", 
+        "ideogram", 
+        "podział", 
+        "japoński"
+    ], 
+    "🈺": [
+        "japoński przycisk „czynne”", 
+        "działa", 
+        "ideogram", 
+        "chiński"
+    ], 
+    "🉐": [
+        "przewaga", 
+        "korzyść", 
+        "ideogram", 
+        "japoński przycisk „okazja”", 
+        "japoński"
+    ], 
+    "🉑": [
+        "ideogram", 
+        "chiński", 
+        "akceptacja", 
+        "japoński przycisk „dozwolone”"
+    ], 
+    "🌀": [
+        "cyklon", 
+        "pogoda", 
+        "tajfun", 
+        "spirala"
+    ], 
+    "🌁": [
+        "mglisto", 
+        "zamglone", 
+        "pogoda", 
+        "mgła", 
+        "zamglenie"
+    ], 
+    "🌂": [
+        "pogoda", 
+        "złożony parasol", 
+        "parasolka", 
+        "złożona"
+    ], 
+    "🌃": [
+        "noc z gwiazdami", 
+        "rozgwieżdżone niebo", 
+        "gwiazdy"
+    ], 
+    "🌄": [
+        "wschód słońca zza gór", 
+        "ranek", 
+        "wschód", 
+        "słońce", 
+        "góry"
+    ], 
+    "🌅": [
+        "brzask", 
+        "wschód słońca"
+    ], 
+    "🌆": [
+        "miasto o zmierzchu", 
+        "zmierzch", 
+        "wieżowce", 
+        "zachód słońca", 
+        "miasto", 
+        "budynki"
+    ], 
+    "🌇": [
+        "budynki", 
+        "zmierzch", 
+        "zachód słońca", 
+        "miasto"
+    ], 
+    "🌈": [
+        "tęcza", 
+        "pogoda", 
+        "deszcz", 
+        "słońce"
+    ], 
+    "🌉": [
+        "most nocą", 
+        "most w nocy"
+    ], 
+    "🌊": [
+        "fala", 
+        "morze", 
+        "tsunami", 
+        "fale", 
+        "ocean"
+    ], 
+    "🌋": [
+        "wulkan", 
+        "erupcja", 
+        "góra"
+    ], 
+    "🌌": [
+        "droga mleczna", 
+        "Droga Mleczna", 
+        "gwiazdy", 
+        "niebo", 
+        "noc"
+    ], 
+    "🌍": [
+        "Europa", 
+        "kula ziemska przedstawiająca Europę i Afrykę", 
+        "Afryka", 
+        "Ziemia"
+    ], 
+    "🌎": [
+        "Ameryka", 
+        "kula ziemska przedstawiająca Ameryki", 
+        "Ameryka Północna i Południowa", 
+        "Ziemia"
+    ], 
+    "🌏": [
+        "Australia", 
+        "Ziemia", 
+        "Azja", 
+        "kula ziemska przedstawiająca Azję i Australię"
+    ], 
+    "🌐": [
+        "globus", 
+        "równoleżniki", 
+        "glob", 
+        "południki", 
+        "kula ziemska z południkami"
+    ], 
+    "🌑": [
+        "ciemny księżyc", 
+        "nów"
+    ], 
+    "🌒": [
+        "księżyc", 
+        "sierp", 
+        "narastający półksiężyc", 
+        "cieniutki księżyc"
+    ], 
+    "🌓": [
+        "księżyc", 
+        "kwadra", 
+        "pierwsza kwadra Księżyca", 
+        "pierwsza kwadra księżyca"
+    ], 
+    "🌔": [
+        "księżyc z brzuszkiem", 
+        "narastający Księżyc między pierwszą kwadrą a pełnią", 
+        "tłusty księżyc"
+    ], 
+    "🌕": [
+        "księżyc", 
+        "pełnia", 
+        "jasny księżyc", 
+        "pełny księżyc"
+    ], 
+    "🌖": [
+        "księżyc", 
+        "zanikający Księżyc między pierwszą kwadrą a pełnią", 
+        "chudnący"
+    ], 
+    "🌗": [
+        "księżyc", 
+        "kwadra", 
+        "ostatnia kwadra Księżyca", 
+        "ostatnia kwadra księżyca"
+    ], 
+    "🌘": [
+        "księżyc", 
+        "sierp", 
+        "zanikający półksiężyc", 
+        "cieniutki księżyc"
+    ], 
+    "🌙": [
+        "księżyc", 
+        "sierp", 
+        "półksiężyc"
+    ], 
+    "🌚": [
+        "księżyc", 
+        "księżyc w nowiu", 
+        "nów z twarzą"
+    ], 
+    "🌛": [
+        "pierwsza kwadra", 
+        "księżyc z twarzą", 
+        "pierwsza kwadra Księżyca z twarzą", 
+        "pierwsza kwadra księżyca"
+    ], 
+    "🌜": [
+        "ostatnia kwadra księżyca", 
+        "ostatnia kwadra", 
+        "księżyc z twarzą", 
+        "ostatnia kwadra Księżyca z twarzą"
+    ], 
+    "🌝": [
+        "pełnia", 
+        "księżyc w pełni", 
+        "pełnia z twarzą"
+    ], 
+    "🌞": [
+        "promienny", 
+        "uśmiech", 
+        "ciepło", 
+        "słońce z twarzą"
+    ], 
+    "🌟": [
+        "błyszcząca", 
+        "świecąca gwiazdka", 
+        "błyszcząca gwiazda", 
+        "lśniąca"
+    ], 
+    "🌠": [
+        "spadająca", 
+        "życzenie", 
+        "kometa", 
+        "gwiazda", 
+        "spadająca gwiazda"
+    ], 
+    "🌭": [
+        "hot dog", 
+        "parówka", 
+        "frankfurter", 
+        "gorący pies", 
+        "bułka", 
+        "hotdog"
+    ], 
+    "🌮": [
+        "meksykańskie jedzenie", 
+        "taco"
+    ], 
+    "🌯": [
+        "burrito", 
+        "burito", 
+        "meksykańskie jedzenie"
+    ], 
+    "🌰": [
+        "orzech laskowy", 
+        "kasztan", 
+        "orzeszek"
+    ], 
+    "🌱": [
+        "sadzonka", 
+        "roślinka", 
+        "pęd"
+    ], 
+    "🌲": [
+        "wiecznie zielone drzewo", 
+        "drzewo iglaste"
+    ], 
+    "🌳": [
+        "drzewo liściaste", 
+        "roślina"
+    ], 
+    "🌴": [
+        "drzewo", 
+        "palma"
+    ], 
+    "🌵": [
+        "kaktus", 
+        "roślina"
+    ], 
+    "🌷": [
+        "kwiat", 
+        "pąk", 
+        "tulipan", 
+        "kwiatek"
+    ], 
+    "🌸": [
+        "kwitnąca wiśnia", 
+        "kwiat wiśni"
+    ], 
+    "🌹": [
+        "kwiat", 
+        "róża", 
+        "roślina"
+    ], 
+    "🌺": [
+        "kwiat hibiskusa", 
+        "roślina", 
+        "kwitnie", 
+        "kwiatek"
+    ], 
+    "🌻": [
+        "kwiat", 
+        "słońce", 
+        "słonecznik", 
+        "roślina"
+    ], 
+    "🌼": [
+        "kwiat", 
+        "roślina", 
+        "kwitnie", 
+        "kwiatek"
+    ], 
+    "🌽": [
+        "kolba kukurydzy"
+    ], 
+    "🌾": [
+        "ryż", 
+        "pędy ryżu", 
+        "roślina"
+    ], 
+    "🌿": [
+        "zioło", 
+        "liście", 
+        "zioła"
+    ], 
+    "🍀": [
+        "koniczynka", 
+        "czterolistna koniczyna", 
+        "koniczyna", 
+        "szczęście"
+    ], 
+    "🍁": [
+        "liść", 
+        "liść jesienny", 
+        "liść klonowy", 
+        "liść klonu"
+    ], 
+    "🍂": [
+        "spadanie", 
+        "spadające liście", 
+        "liście", 
+        "roślina"
+    ], 
+    "🍃": [
+        "wicher", 
+        "wiatr", 
+        "podmuch", 
+        "trzepotanie", 
+        "liście na wietrze", 
+        "roślina"
+    ], 
+    "🍄": [
+        "muchomor", 
+        "trujący", 
+        "grzyb"
+    ], 
+    "🍅": [
+        "szklarniowe", 
+        "pomidor", 
+        "warzywo"
+    ], 
+    "🍆": [
+        "bakłażan", 
+        "cukinia", 
+        "warzywo"
+    ], 
+    "🍇": [
+        "owoce", 
+        "winogrona"
+    ], 
+    "🍈": [
+        "melon", 
+        "owoc", 
+        "arbuz"
+    ], 
+    "🍉": [
+        "owoc", 
+        "arbuz", 
+        "kawałek arbuza"
+    ], 
+    "🍊": [
+        "cytrus", 
+        "pomarańcza", 
+        "mandarynka", 
+        "owoc"
+    ], 
+    "🍋": [
+        "cytrus", 
+        "żółty", 
+        "cytryna", 
+        "owoc", 
+        "kwaśny"
+    ], 
+    "🍌": [
+        "egzotyczny", 
+        "banan", 
+        "owoc"
+    ], 
+    "🍍": [
+        "ananas", 
+        "owoc", 
+        "egzotyczny"
+    ], 
+    "🍎": [
+        "słodkie", 
+        "czerwone jabłko", 
+        "owoc", 
+        "czerwone"
+    ], 
+    "🍏": [
+        "zielone jabłuszko", 
+        "zielone jabłko", 
+        "owoc", 
+        "jabłko"
+    ], 
+    "🍐": [
+        "gruszka", 
+        "owoc"
+    ], 
+    "🍑": [
+        "brzoskwinia", 
+        "owoc"
+    ], 
+    "🍒": [
+        "owoce", 
+        "wiśnie"
+    ], 
+    "🍓": [
+        "truskawka", 
+        "owoc"
+    ], 
+    "🍔": [
+        "hamburger", 
+        "fast food"
+    ], 
+    "🍕": [
+        "kawałek pizzy", 
+        "pizza"
+    ], 
+    "🍖": [
+        "mięso z kością", 
+        "kość", 
+        "mięso"
+    ], 
+    "🍗": [
+        "nóżka", 
+        "udko kurczaka"
+    ], 
+    "🍘": [
+        "ryż", 
+        "krakers ryżowy", 
+        "ryżowy", 
+        "krakers"
+    ], 
+    "🍙": [
+        "ryż", 
+        "onigiri", 
+        "kulka ryżowa"
+    ], 
+    "🍚": [
+        "ryż", 
+        "gotowany ryż"
+    ], 
+    "🍛": [
+        "ryż", 
+        "sos", 
+        "curry", 
+        "ryż curry"
+    ], 
+    "🍜": [
+        "miska parującego jedzenia", 
+        "parująca miska", 
+        "miska"
+    ], 
+    "🍝": [
+        "makaron", 
+        "pasta", 
+        "kluski", 
+        "spaghetti"
+    ], 
+    "🍞": [
+        "bochenek", 
+        "kawałek chleba", 
+        "pieczywo", 
+        "chleb"
+    ], 
+    "🍟": [
+        "frytki"
+    ], 
+    "🍠": [
+        "pieczony batat", 
+        "słodki ziemniak", 
+        "batat"
+    ], 
+    "🍡": [
+        "kulki mochi", 
+        "dango"
+    ], 
+    "🍢": [
+        "oden", 
+        "owoce morza na patyku", 
+        "owoce morza"
+    ], 
+    "🍣": [
+        "suszi", 
+        "sushi"
+    ], 
+    "🍤": [
+        "smażona krewetka"
+    ], 
+    "🍥": [
+        "ryba", 
+        "rybne", 
+        "ciastko rybne", 
+        "ciastko", 
+        "spirala"
+    ], 
+    "🍦": [
+        "w kubku", 
+        "lody śmietankowe", 
+        "lody włoskie"
+    ], 
+    "🍧": [
+        "deser", 
+        "lody hawajskie", 
+        "lody", 
+        "lody kulki"
+    ], 
+    "🍨": [
+        "deser", 
+        "lód", 
+        "lody"
+    ], 
+    "🍩": [
+        "deser", 
+        "z dziurką", 
+        "pączek z dziurką", 
+        "ciasto", 
+        "pączek"
+    ], 
+    "🍪": [
+        "deser", 
+        "słodki", 
+        "słodkie ciastko", 
+        "ciastko"
+    ], 
+    "🍫": [
+        "tabliczka czekolady"
+    ], 
+    "🍬": [
+        "deser", 
+        "cukierek", 
+        "słodki", 
+        "słodycze"
+    ], 
+    "🍭": [
+        "deser", 
+        "słodki", 
+        "lizak", 
+        "słodycze"
+    ], 
+    "🍮": [
+        "deser typu krem angielski", 
+        "ciastko kremowe", 
+        "krem"
+    ], 
+    "🍯": [
+        "beczka z miodem", 
+        "garnek miodu", 
+        "słoik miodu"
+    ], 
+    "🍰": [
+        "deser", 
+        "tort", 
+        "ciasto", 
+        "słodycze"
+    ], 
+    "🍱": [
+        "bento", 
+        "pudełko bento"
+    ], 
+    "🍲": [
+        "miska z jedzeniem", 
+        "jedzenie"
+    ], 
+    "🍳": [
+        "jajko", 
+        "gotowanie", 
+        "smażyć"
+    ], 
+    "🍴": [
+        "widelec", 
+        "gotowanie", 
+        "widelec i nóż", 
+        "nóż"
+    ], 
+    "🍵": [
+        "filiżanka", 
+        "filiżanka bez uszka", 
+        "spodek"
+    ], 
+    "🍶": [
+        "sake", 
+        "butelka i kubek"
+    ], 
+    "🍷": [
+        "kieliszek wina", 
+        "alkohol", 
+        "kieliszek", 
+        "wino"
+    ], 
+    "🍸": [
+        "kieliszek z koktajlem", 
+        "koktajl", 
+        "kieliszek"
+    ], 
+    "🍹": [
+        "tropikalny", 
+        "bar", 
+        "drink tropikalny"
+    ], 
+    "🍺": [
+        "kufel", 
+        "kufel z piwem", 
+        "kufel piwa"
+    ], 
+    "🍻": [
+        "stukające się kufle piwa", 
+        "piwiarnia", 
+        "kufle z piwem", 
+        "kufle"
+    ], 
+    "🍼": [
+        "napój", 
+        "butelka ze smoczkiem", 
+        "ze smoczkiem", 
+        "dzidziuś", 
+        "niemowlęca", 
+        "butelka", 
+        "mleko"
+    ], 
+    "🍾": [
+        "toast", 
+        "bar", 
+        "butelka z wystrzelającym korkiem", 
+        "nowy rok", 
+        "sylwester", 
+        "butelka", 
+        "korek"
+    ], 
+    "🍿": [
+        "popcorn"
+    ], 
+    "🎀": [
+        "kokardka", 
+        "kokarda", 
+        "podarunek", 
+        "wstążka", 
+        "prezent", 
+        "ozdoba"
+    ], 
+    "🎁": [
+        "kokardka", 
+        "paczka", 
+        "podarunek", 
+        "kokarda", 
+        "zapakowany prezent"
+    ], 
+    "🎂": [
+        "zdmuchnąć", 
+        "tort urodzinowy", 
+        "świeczki"
+    ], 
+    "🎃": [
+        "dynia na halloween", 
+        "dynia", 
+        "halloween"
+    ], 
+    "🎄": [
+        "choinka bożonarodzeniowa", 
+        "drzewko", 
+        "święta", 
+        "boże narodzenie"
+    ], 
+    "🎅": [
+        "święta", 
+        "Święty Mikołaj", 
+        "święty mikołaj", 
+        "boże narodzenie", 
+        "legenda"
+    ], 
+    "🎆": [
+        "święta", 
+        "nowy rok", 
+        "obchody", 
+        "fajerwerki"
+    ], 
+    "🎇": [
+        "petardy", 
+        "zimne", 
+        "ognie", 
+        "zimne ognie", 
+        "sztuczne"
+    ], 
+    "🎈": [
+        "uroczystość", 
+        "impreza", 
+        "balon"
+    ], 
+    "🎉": [
+        "konfetti", 
+        "bal", 
+        "uroczystość", 
+        "impreza", 
+        "tuba z konfetti"
+    ], 
+    "🎊": [
+        "konfetti", 
+        "bal", 
+        "uroczystość", 
+        "impreza", 
+        "kula z konfetti"
+    ], 
+    "🎋": [
+        "drzewko na Tanabata", 
+        "drzewo", 
+        "tanabata", 
+        "japońskie", 
+        "życzenia"
+    ], 
+    "🎌": [
+        "skrzyżowane", 
+        "uroczystość", 
+        "japońskie", 
+        "skrzyżowane flagi"
+    ], 
+    "🎍": [
+        "japońska dekoracja kadomatsu", 
+        "sosna", 
+        "bambus", 
+        "roślina"
+    ], 
+    "🎎": [
+        "lalki", 
+        "japońskie lalki"
+    ], 
+    "🎏": [
+        "ryby", 
+        "flaga w kształcie karpia", 
+        "flaga"
+    ], 
+    "🎐": [
+        "wietrzny", 
+        "dzwonek", 
+        "dzwonek wietrzny", 
+        "dzwonki"
+    ], 
+    "🎑": [
+        "księżyc", 
+        "tsukimi", 
+        "podziwiać", 
+        "ceremonia oglądania Księżyca"
+    ], 
+    "🎒": [
+        "tornister", 
+        "plecak"
+    ], 
+    "🎓": [
+        "biret", 
+        "uroczystość", 
+        "nakrycie głowy", 
+        "ubiór", 
+        "czapka absolwenta"
+    ], 
+    "🎠": [
+        "konik", 
+        "koń z karuzeli"
+    ], 
+    "🎡": [
+        "karuzela", 
+        "diabelski", 
+        "wesołe miasteczko", 
+        "diabelski młyn", 
+        "młyn", 
+        "park rozrywki"
+    ], 
+    "🎢": [
+        "kolejka górska", 
+        "wesołe miasteczko", 
+        "park rozrywki"
+    ], 
+    "🎣": [
+        "wędka", 
+        "łowienie ryb", 
+        "złowić"
+    ], 
+    "🎤": [
+        "muzyka", 
+        "karaoke", 
+        "mikrofon"
+    ], 
+    "🎥": [
+        "kino", 
+        "kamera", 
+        "kinematografia", 
+        "kamera filmowa", 
+        "film"
+    ], 
+    "🎦": [
+        "kręcić film", 
+        "kino", 
+        "film"
+    ], 
+    "🎧": [
+        "słuchawki"
+    ], 
+    "🎨": [
+        "sztuka", 
+        "muzeum", 
+        "kolory", 
+        "farby", 
+        "paleta malarska", 
+        "malarz"
+    ], 
+    "🎩": [
+        "cylinder", 
+        "męskie nakrycie głowy", 
+        "kapelusz"
+    ], 
+    "🎪": [
+        "namiot", 
+        "namiot cyrkowy"
+    ], 
+    "🎫": [
+        "bilet", 
+        "wstęp"
+    ], 
+    "🎬": [
+        "klaps", 
+        "kino", 
+        "film"
+    ], 
+    "🎭": [
+        "teatr", 
+        "maski teatralne", 
+        "występować"
+    ], 
+    "🎮": [
+        "pad", 
+        "gra wideo", 
+        "gamepad"
+    ], 
+    "🎯": [
+        "strzał", 
+        "w dziesiątkę", 
+        "dziesiątka", 
+        "trafienie", 
+        "strzał w 10"
+    ], 
+    "🎰": [
+        "automat do gry", 
+        "kasyno", 
+        "jednoręki bandyta", 
+        "automat do gier"
+    ], 
+    "🎱": [
+        "8", 
+        "bila 8", 
+        "kula", 
+        "bila"
+    ], 
+    "🎲": [
+        "w kości", 
+        "kostka do gry", 
+        "kostka", 
+        "gra"
+    ], 
+    "🎳": [
+        "kręgle", 
+        "kula", 
+        "gra"
+    ], 
+    "🎴": [
+        "gra karciana hanafuda", 
+        "japońska", 
+        "kwiat", 
+        "gra"
+    ], 
+    "🎵": [
+        "muzyka", 
+        "nuta"
+    ], 
+    "🎶": [
+        "muzyka", 
+        "nuty", 
+        "nuta"
+    ], 
+    "🎷": [
+        "instrument", 
+        "muzyka", 
+        "saksofon"
+    ], 
+    "🎸": [
+        "instrument", 
+        "muzyka", 
+        "gitara"
+    ], 
+    "🎹": [
+        "klawisze", 
+        "klawiatura", 
+        "pianino", 
+        "instrument", 
+        "muzyka", 
+        "fortepian", 
+        "keyboard"
+    ], 
+    "🎺": [
+        "instrument", 
+        "muzyka", 
+        "trąbka"
+    ], 
+    "🎻": [
+        "muzyczny", 
+        "smyczek", 
+        "skrzypce", 
+        "strunowy", 
+        "instrument", 
+        "altówka"
+    ], 
+    "🎼": [
+        "klucz", 
+        "pięciolinia", 
+        "muzyka", 
+        "nuty", 
+        "partytura"
+    ], 
+    "🎽": [
+        "bieganie", 
+        "t-shirt", 
+        "koszulka", 
+        "koszulka do biegania", 
+        "szarfa"
+    ], 
+    "🎾": [
+        "tenis", 
+        "piłka"
+    ], 
+    "🎿": [
+        "śnieg", 
+        "narty", 
+        "stok"
+    ], 
+    "🏀": [
+        "do kosza", 
+        "koszykówka", 
+        "piłka"
+    ], 
+    "🏁": [
+        "flaga w kratkę", 
+        "flaga w szachownicę", 
+        "wyścigi"
+    ], 
+    "🏂": [
+        "snowboardzista", 
+        "snowboard"
+    ], 
+    "🏃": [
+        "bieganie", 
+        "pośpiech", 
+        "biegnąca osoba", 
+        "bieg", 
+        "maraton"
+    ], 
+    "🏄": [
+        "surfująca osoba", 
+        "surfing", 
+        "deska", 
+        "fale"
+    ], 
+    "🏅": [
+        "medal sportowy", 
+        "medal", 
+        "nagroda"
+    ], 
+    "🏆": [
+        "puchar", 
+        "nagroda", 
+        "trofeum"
+    ], 
+    "🏇": [
+        "jeździec", 
+        "wyścigi konne", 
+        "koń"
+    ], 
+    "🏈": [
+        "futbol amerykański", 
+        "piłka"
+    ], 
+    "🏉": [
+        "piłka do rugby", 
+        "rugby", 
+        "piłka"
+    ], 
+    "🏊": [
+        "pływająca osoba", 
+        "pływak", 
+        "kraulem"
+    ], 
+    "🏏": [
+        "kij", 
+        "krykiet", 
+        "piłka", 
+        "gra"
+    ], 
+    "🏐": [
+        "siatkówka", 
+        "piłka", 
+        "gra"
+    ], 
+    "🏑": [
+        "hokej", 
+        "na trawie", 
+        "boisko", 
+        "gra", 
+        "kijek", 
+        "piłka", 
+        "hokej na trawie"
+    ], 
+    "🏒": [
+        "hokej", 
+        "gra", 
+        "hokej na lodzie", 
+        "lód", 
+        "kijek", 
+        "na lodzie", 
+        "krążek"
+    ], 
+    "🏓": [
+        "rakietka", 
+        "tenis stołowy", 
+        "piłeczka", 
+        "siatka", 
+        "ping pong"
+    ], 
+    "🏠": [
+        "dom", 
+        "mieszkalny", 
+        "budynek"
+    ], 
+    "🏡": [
+        "ogród", 
+        "drzewo", 
+        "dom z ogrodem", 
+        "dom"
+    ], 
+    "🏢": [
+        "blok", 
+        "biurowiec"
+    ], 
+    "🏣": [
+        "japońska poczta", 
+        "poczta", 
+        "budynek"
+    ], 
+    "🏤": [
+        "urząd pocztowy", 
+        "budynek"
+    ], 
+    "🏥": [
+        "lecznica", 
+        "lekarz", 
+        "medycyna", 
+        "szpital", 
+        "budynek"
+    ], 
+    "🏦": [
+        "bank", 
+        "budynek"
+    ], 
+    "🏧": [
+        "ATM", 
+        "znak bankomatu"
+    ], 
+    "🏨": [
+        "hotel", 
+        "budynek"
+    ], 
+    "🏩": [
+        "hotel", 
+        "hotel miłości", 
+        "japoński hotel miłości"
+    ], 
+    "🏪": [
+        "sklep całodobowy", 
+        "sklep"
+    ], 
+    "🏫": [
+        "szkoła", 
+        "budynek"
+    ], 
+    "🏬": [
+        "sklep", 
+        "supermarket", 
+        "dom towarowy"
+    ], 
+    "🏭": [
+        "fabryka", 
+        "produkcyjny", 
+        "zakład pracy", 
+        "budynek"
+    ], 
+    "🏮": [
+        "czerwony lampion", 
+        "bar izakaya", 
+        "izakaya"
+    ], 
+    "🏯": [
+        "zamek", 
+        "japoński", 
+        "japoński zamek", 
+        "budynek"
+    ], 
+    "🏰": [
+        "zamek", 
+        "europejski", 
+        "budynek"
+    ], 
+    "🏴": [
+        "żałoba", 
+        "flaga", 
+        "czarna flaga", 
+        "na wietrze"
+    ], 
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "Anglia", 
+        "flaga"
+    ], 
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "Szkocja", 
+        "flaga"
+    ], 
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "flaga", 
+        "Walia"
+    ], 
+    "🏸": [
+        "lotka", 
+        "badminton", 
+        "paletki", 
+        "rakieta", 
+        "gra"
+    ], 
+    "🏹": [
+        "strzała", 
+        "zodiak", 
+        "łuk i strzała", 
+        "strzelec", 
+        "narzędzie", 
+        "broń", 
+        "łuk", 
+        "łucznik"
+    ], 
+    "🏺": [
+        "waza", 
+        "dzban", 
+        "stągiew", 
+        "zodiak", 
+        "wodnik", 
+        "puchar", 
+        "amfora"
+    ], 
+    "🏻": [
+        "jasny", 
+        "typ skóry 1–2", 
+        "skóra", 
+        "odcień"
+    ], 
+    "🏼": [
+        "jasny", 
+        "skóra", 
+        "odcień", 
+        "typ skóry 3"
+    ], 
+    "🏽": [
+        "średni", 
+        "typ skóry 4", 
+        "skóra", 
+        "odcień"
+    ], 
+    "🏾": [
+        "typ skóry 5", 
+        "skóra", 
+        "odcień", 
+        "ciemny"
+    ], 
+    "🏿": [
+        "typ skóry 6", 
+        "skóra", 
+        "odcień", 
+        "ciemny"
+    ], 
+    "🐀": [
+        "szczur"
+    ], 
+    "🐁": [
+        "mysz", 
+        "myszka"
+    ], 
+    "🐂": [
+        "zodiak", 
+        "byk", 
+        "wół"
+    ], 
+    "🐃": [
+        "bawół wodny", 
+        "wół domowy"
+    ], 
+    "🐄": [
+        "krowa", 
+        "krówka"
+    ], 
+    "🐅": [
+        "tygrys"
+    ], 
+    "🐆": [
+        "lampart"
+    ], 
+    "🐇": [
+        "królik", 
+        "zając"
+    ], 
+    "🐈": [
+        "kot", 
+        "zwierzę"
+    ], 
+    "🐉": [
+        "baśń", 
+        "bajka", 
+        "smok"
+    ], 
+    "🐊": [
+        "aligator", 
+        "krokodyl"
+    ], 
+    "🐋": [
+        "wieloryb"
+    ], 
+    "🐌": [
+        "ślimak"
+    ], 
+    "🐍": [
+        "żmija", 
+        "wąż", 
+        "jadowity", 
+        "dusiciel"
+    ], 
+    "🐎": [
+        "wyścigi konne", 
+        "koń", 
+        "koń wyścigowy", 
+        "wierzchowiec"
+    ], 
+    "🐏": [
+        "rogi", 
+        "owca", 
+        "biały baran", 
+        "baranek", 
+        "rogaty"
+    ], 
+    "🐐": [
+        "koziorożec", 
+        "zodiak", 
+        "koza"
+    ], 
+    "🐑": [
+        "rogi", 
+        "owca", 
+        "rogaty baran", 
+        "baranek", 
+        "rogaty"
+    ], 
+    "🐒": [
+        "małpa", 
+        "zwierzątko"
+    ], 
+    "🐓": [
+        "kogut"
+    ], 
+    "🐔": [
+        "kurczak", 
+        "kura"
+    ], 
+    "🐕": [
+        "psiaczek", 
+        "psinka", 
+        "pies", 
+        "zwierzę", 
+        "piesek"
+    ], 
+    "🐖": [
+        "maciora", 
+        "świnia"
+    ], 
+    "🐗": [
+        "knur", 
+        "dzika świnia", 
+        "dzik"
+    ], 
+    "🐘": [
+        "słoń"
+    ], 
+    "🐙": [
+        "ośmiornica"
+    ], 
+    "🐚": [
+        "muszla spiralna", 
+        "muszelka", 
+        "spirala"
+    ], 
+    "🐛": [
+        "insekt", 
+        "owad", 
+        "gąsienica"
+    ], 
+    "🐜": [
+        "mrówka", 
+        "insekt", 
+        "owad"
+    ], 
+    "🐝": [
+        "pszczółka", 
+        "pszczoła", 
+        "insekt", 
+        "owad"
+    ], 
+    "🐞": [
+        "biedronka", 
+        "kropki", 
+        "chrabąszcz", 
+        "żuk", 
+        "owad"
+    ], 
+    "🐟": [
+        "ryba", 
+        "zodiak"
+    ], 
+    "🐠": [
+        "ryba", 
+        "tropikalna", 
+        "ryba tropikalna"
+    ], 
+    "🐡": [
+        "ryba rozdymka", 
+        "rozdymka"
+    ], 
+    "🐢": [
+        "żółw"
+    ], 
+    "🐣": [
+        "kurczątko", 
+        "wykluwać się", 
+        "wykluwające się kurczątko", 
+        "pisklak", 
+        "kurczaczek"
+    ], 
+    "🐤": [
+        "kurczątko", 
+        "pisklak", 
+        "kurczaczek"
+    ], 
+    "🐥": [
+        "kurczątko od przodu", 
+        "pisklak", 
+        "pisklę"
+    ], 
+    "🐦": [
+        "ptak", 
+        "ptaszek"
+    ], 
+    "🐧": [
+        "pingwin"
+    ], 
+    "🐨": [
+        "miś", 
+        "koala"
+    ], 
+    "🐩": [
+        "pudel", 
+        "pudelek", 
+        "piesek", 
+        "pies", 
+        "ostrzyżony"
+    ], 
+    "🐪": [
+        "dromader", 
+        "wielbłąd"
+    ], 
+    "🐫": [
+        "baktrian", 
+        "garby", 
+        "wielbłąd dwugarbny", 
+        "wielbłąd"
+    ], 
+    "🐬": [
+        "delfin"
+    ], 
+    "🐭": [
+        "głowa myszy", 
+        "buźka", 
+        "mysz", 
+        "myszka"
+    ], 
+    "🐮": [
+        "głowa krowy", 
+        "krowa", 
+        "głowa", 
+        "łeb"
+    ], 
+    "🐯": [
+        "głowa tygrysa", 
+        "buźka", 
+        "kot", 
+        "pyszczek"
+    ], 
+    "🐰": [
+        "królik", 
+        "głowa królika", 
+        "zając"
+    ], 
+    "🐱": [
+        "kicia", 
+        "pyszczek", 
+        "głowa kota", 
+        "pysk", 
+        "kot", 
+        "zwierzę"
+    ], 
+    "🐲": [
+        "głowa smoka", 
+        "baśń", 
+        "bajka", 
+        "smok"
+    ], 
+    "🐳": [
+        "fontanna", 
+        "strumień wody", 
+        "wieloryb", 
+        "wieloryb tryskający wodą"
+    ], 
+    "🐴": [
+        "łeb", 
+        "konia", 
+        "głowa", 
+        "koński", 
+        "głowa konia", 
+        "końska"
+    ], 
+    "🐵": [
+        "głowa małpy", 
+        "małpka", 
+        "buźka"
+    ], 
+    "🐶": [
+        "psiaczek", 
+        "pysk", 
+        "pies", 
+        "pyszczek", 
+        "głowa psa"
+    ], 
+    "🐷": [
+        "głowa świni", 
+        "buźka", 
+        "świnka", 
+        "świnia"
+    ], 
+    "🐸": [
+        "żabka", 
+        "ropucha", 
+        "głowa żaby", 
+        "traszka", 
+        "żaba"
+    ], 
+    "🐹": [
+        "głowa chomika", 
+        "mysz"
+    ], 
+    "🐺": [
+        "głowa wilka", 
+        "pysk"
+    ], 
+    "🐻": [
+        "głowa niedźwiedzia", 
+        "buźka", 
+        "niedźwiedź"
+    ], 
+    "🐼": [
+        "miś", 
+        "głowa pandy"
+    ], 
+    "🐽": [
+        "świński ryjek", 
+        "ryj świni", 
+        "nosek", 
+        "ryjek"
+    ], 
+    "🐾": [
+        "ślady łap", 
+        "łapy", 
+        "ślady", 
+        "tropy", 
+        "odciski"
+    ], 
+    "👀": [
+        "ciało", 
+        "oczy", 
+        "oko", 
+        "twarz"
+    ], 
+    "👂": [
+        "ciało", 
+        "ucho"
+    ], 
+    "👃": [
+        "ciało", 
+        "nos"
+    ], 
+    "👄": [
+        "ciało", 
+        "wargi", 
+        "usta"
+    ], 
+    "👅": [
+        "ciało", 
+        "język"
+    ], 
+    "👆": [
+        "do góry", 
+        "góra", 
+        "dłoń z palcem wskazującym w górę", 
+        "palec", 
+        "w górę", 
+        "wskazujący"
+    ], 
+    "👇": [
+        "dłoń z palcem wskazującym w dół", 
+        "na dół", 
+        "w dół", 
+        "palec", 
+        "dół", 
+        "wskazujący"
+    ], 
+    "👈": [
+        "w lewo", 
+        "lewa strona", 
+        "palec w lewo", 
+        "palec", 
+        "wskazujący"
+    ], 
+    "👉": [
+        "w prawo", 
+        "dłoń z palcem wskazującym w prawo", 
+        "wskazujący", 
+        "prawa strona", 
+        "palec"
+    ], 
+    "👊": [
+        "cios pięścią", 
+        "pięść od przodu", 
+        "sierpowy", 
+        "pięść", 
+        "prawy prosty", 
+        "zaciśnięta pięść"
+    ], 
+    "👋": [
+        "machająca dłoń"
+    ], 
+    "👌": [
+        "dłoń z gestem OK", 
+        "znak OK"
+    ], 
+    "👍": [
+        "lubię", 
+        "brawo", 
+        "OK", 
+        "podoba mi się", 
+        "kciuk w górę"
+    ], 
+    "👎": [
+        "nie lubię", 
+        "brzydkie", 
+        "nie podoba mi się", 
+        "kciuk w dół"
+    ], 
+    "👏": [
+        "oklaski", 
+        "klaskać", 
+        "brawa", 
+        "klaskanie"
+    ], 
+    "👐": [
+        "puste ręce", 
+        "złapać", 
+        "otwarte dłonie"
+    ], 
+    "👑": [
+        "królowa", 
+        "król", 
+        "korona"
+    ], 
+    "👒": [
+        "kapelusz damski", 
+        "damski", 
+        "nakrycie głowy", 
+        "ze wstążką", 
+        "kapelusz"
+    ], 
+    "👓": [
+        "okulary", 
+        "oczy", 
+        "szkła"
+    ], 
+    "👔": [
+        "męski", 
+        "koszula", 
+        "ozdoba", 
+        "krawat"
+    ], 
+    "👕": [
+        "męska", 
+        "koszulka", 
+        "z krótkimi rękawami"
+    ], 
+    "👖": [
+        "dżinsy", 
+        "jeansy", 
+        "ubranie", 
+        "ubiór", 
+        "portki"
+    ], 
+    "👗": [
+        "ubranie", 
+        "ubiór", 
+        "sukienka", 
+        "suknia"
+    ], 
+    "👘": [
+        "kimono", 
+        "ubiór", 
+        "ubranie"
+    ], 
+    "👙": [
+        "do pływania", 
+        "bikini", 
+        "strój kąpielowy", 
+        "ubiór", 
+        "ubranie"
+    ], 
+    "👚": [
+        "damska", 
+        "ubiór", 
+        "ubranie", 
+        "ubranie damskie"
+    ], 
+    "👛": [
+        "portmonetka", 
+        "na monety", 
+        "torebka"
+    ], 
+    "👜": [
+        "bagaż", 
+        "damska torebka", 
+        "torebka"
+    ], 
+    "👝": [
+        "saszetka", 
+        "damska", 
+        "torebka"
+    ], 
+    "👞": [
+        "męski", 
+        "but męski", 
+        "but"
+    ], 
+    "👟": [
+        "bieganie", 
+        "trampek", 
+        "sport", 
+        "but", 
+        "but do biegania"
+    ], 
+    "👠": [
+        "na szpilkach", 
+        "szpilka", 
+        "wysoki obcas", 
+        "but na wysokim obcasie"
+    ], 
+    "👡": [
+        "sandał", 
+        "damski", 
+        "sandał damski", 
+        "but", 
+        "obuwie"
+    ], 
+    "👢": [
+        "kozak damski", 
+        "kozaczek"
+    ], 
+    "👣": [
+        "odciski stóp", 
+        "ślady", 
+        "stopy", 
+        "ślady stóp"
+    ], 
+    "👤": [
+        "sylwetka popiersia", 
+        "osoba"
+    ], 
+    "👥": [
+        "sylwetki", 
+        "osoby"
+    ], 
+    "👦": [
+        "chłopiec"
+    ], 
+    "👧": [
+        "dziewica", 
+        "dziewczynka", 
+        "zodiak", 
+        "panna"
+    ], 
+    "👨": [
+        "mężczyzna"
+    ], 
+    "👨‍🌾": [
+        "rolnik", 
+        "mężczyzna", 
+        "ogrodnik", 
+        "farmer"
+    ], 
+    "👨‍🍳": [
+        "mężczyzna", 
+        "kucharz", 
+        "szef kuchni"
+    ], 
+    "👨‍🎓": [
+        "mężczyzna", 
+        "student"
+    ], 
+    "👨‍🎤": [
+        "mężczyzna", 
+        "piosenkarz", 
+        "aktor", 
+        "rock"
+    ], 
+    "👨‍🎨": [
+        "mężczyzna", 
+        "paleta", 
+        "artysta"
+    ], 
+    "👨‍🏫": [
+        "mężczyzna", 
+        "profesor", 
+        "wykładowca", 
+        "nauczyciel"
+    ], 
+    "👨‍🏭": [
+        "mężczyzna", 
+        "pracownik", 
+        "pracownik fabryki", 
+        "montażysta", 
+        "fabryka"
+    ], 
+    "👨‍👦": [
+        "rodzina: mężczyzna i chłopiec", 
+        "chłopiec", 
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👦‍👦": [
+        "rodzina: mężczyzna i chłopiec i chłopiec", 
+        "chłopiec", 
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👧": [
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: mężczyzna i dziewczynka"
+    ], 
+    "👨‍👧‍👦": [
+        "chłopiec", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzina: mężczyzna i dziewczynka i chłopiec", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👧‍👧": [
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: mężczyzna i dziewczynka i dziewczynka"
+    ], 
+    "👨‍👨‍👦": [
+        "chłopiec", 
+        "ojciec", 
+        "rodzina: mężczyzna i mężczyzna i chłopiec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "rodzina: mężczyzna i mężczyzna i chłopiec i chłopiec", 
+        "chłopiec", 
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👨‍👧": [
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: mężczyzna i mężczyzna i dziewczynka"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "chłopiec", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: mężczyzna i mężczyzna i dziewczynka i chłopiec"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina: mężczyzna i mężczyzna i dziewczynka i dziewczynka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👩‍👦": [
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "tata", 
+        "rodzina: mężczyzna i kobieta i chłopiec", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: mężczyzna i kobieta i chłopiec i chłopiec"
+    ], 
+    "👨‍👩‍👧": [
+        "kobieta", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzina: mężczyzna i kobieta i dziewczynka", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "rodzina: mężczyzna i kobieta i dziewczynka i chłopiec", 
+        "dziecko"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "kobieta", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "mężczyzna", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: mężczyzna i kobieta i dziewczynka i dziewczynka"
+    ], 
+    "👨‍💻": [
+        "mężczyzna", 
+        "oprogramowanie", 
+        "programista", 
+        "mężczyzna technolog", 
+        "wynalazca"
+    ], 
+    "👨‍💼": [
+        "biznesmen", 
+        "biuro", 
+        "architekt", 
+        "pracownik biurowy", 
+        "mężczyzna"
+    ], 
+    "👨‍🔧": [
+        "mężczyzna", 
+        "mechanik", 
+        "mężczyzna elektryk", 
+        "elektryk", 
+        "hydraulik"
+    ], 
+    "👨‍🔬": [
+        "chemik", 
+        "biolog", 
+        "inżynier", 
+        "mężczyzna naukowiec", 
+        "mężczyzna"
+    ], 
+    "👨‍🚀": [
+        "mężczyzna", 
+        "kosmos", 
+        "astronauta", 
+        "rakieta"
+    ], 
+    "👨‍🚒": [
+        "mężczyzna", 
+        "mężczyzna strażak", 
+        "strażak", 
+        "wóz strażacki"
+    ], 
+    "👩": [
+        "kobieta"
+    ], 
+    "👩‍🌾": [
+        "farmerka", 
+        "kobieta", 
+        "rolniczka", 
+        "ogrodniczka"
+    ], 
+    "👩‍🍳": [
+        "kucharka", 
+        "kobieta", 
+        "szef kuchni"
+    ], 
+    "👩‍🎓": [
+        "studentka", 
+        "kobieta"
+    ], 
+    "👩‍🎤": [
+        "aktorka", 
+        "rock", 
+        "kobieta", 
+        "piosenkarka"
+    ], 
+    "👩‍🎨": [
+        "artystka", 
+        "paleta", 
+        "kobieta"
+    ], 
+    "👩‍🏫": [
+        "wykładowczyni", 
+        "profesor", 
+        "kobieta", 
+        "nauczycielka"
+    ], 
+    "👩‍🏭": [
+        "montażystka", 
+        "pracownica fabryki", 
+        "kobieta", 
+        "pracownica", 
+        "fabryka"
+    ], 
+    "👩‍👦": [
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "rodzina: kobieta i chłopiec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👩‍👦‍👦": [
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: kobieta i chłopiec i chłopiec"
+    ], 
+    "👩‍👧": [
+        "kobieta", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: kobieta i dziewczynka"
+    ], 
+    "👩‍👧‍👦": [
+        "rodzina: kobieta i dziewczynka i chłopiec", 
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👩‍👧‍👧": [
+        "kobieta", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: kobieta i dziewczynka i dziewczynka"
+    ], 
+    "👩‍👩‍👦": [
+        "rodzina: kobieta i kobieta i chłopiec", 
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "kobieta", 
+        "chłopiec", 
+        "rodzina: kobieta i kobieta i chłopiec i chłopiec", 
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👩‍👩‍👧": [
+        "kobieta", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzina: kobieta i kobieta i dziewczynka", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "kobieta", 
+        "chłopiec", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzina: kobieta i kobieta i dziewczynka i chłopiec", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "kobieta", 
+        "ojciec", 
+        "dziewczynka", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko", 
+        "rodzina: kobieta i kobieta i dziewczynka i dziewczynka"
+    ], 
+    "👩‍💻": [
+        "programistka", 
+        "oprogramowanie", 
+        "wynalazczyni", 
+        "kobieta", 
+        "kobieta technolog"
+    ], 
+    "👩‍💼": [
+        "bizneswoman", 
+        "biuro", 
+        "architekt", 
+        "pracownica biurowa", 
+        "kobieta"
+    ], 
+    "👩‍🔧": [
+        "kobieta elektryk", 
+        "mechanik", 
+        "kobieta", 
+        "elektryk", 
+        "hydraulik"
+    ], 
+    "👩‍🔬": [
+        "kobieta naukowiec", 
+        "chemik", 
+        "biolog", 
+        "inżynier", 
+        "kobieta"
+    ], 
+    "👩‍🚀": [
+        "kosmos", 
+        "kobieta", 
+        "rakieta", 
+        "astronautka"
+    ], 
+    "👩‍🚒": [
+        "kobieta strażak", 
+        "kobieta", 
+        "strażak", 
+        "wóz strażacki"
+    ], 
+    "👪": [
+        "ojciec", 
+        "tata", 
+        "matka", 
+        "rodzina", 
+        "rodzice", 
+        "mama", 
+        "dziecko"
+    ], 
+    "👫": [
+        "miłość", 
+        "mężczyzna i kobieta trzymający się za ręce", 
+        "zakochani", 
+        "za ręce"
+    ], 
+    "👬": [
+        "dwóch mężczyzn trzymających się za ręce", 
+        "miłość", 
+        "zakochani", 
+        "za ręce", 
+        "para"
+    ], 
+    "👭": [
+        "miłość", 
+        "dwie kobiety trzymające się za ręce", 
+        "zakochani", 
+        "za ręce", 
+        "para"
+    ], 
+    "👮": [
+        "oficer", 
+        "policjant"
+    ], 
+    "👯": [
+        "uszy", 
+        "króliczki", 
+        "tancerki", 
+        "dziewczyny", 
+        "kobiety", 
+        "osoby z uszami królika na przyjęciu"
+    ], 
+    "👰": [
+        "panna młoda w welonie", 
+        "ślub", 
+        "welon", 
+        "wesele"
+    ], 
+    "👱": [
+        "blondyn", 
+        "osoba z włosami blond"
+    ], 
+    "👲": [
+        "gua pi mao", 
+        "chińska czapka", 
+        "mężczyzna w chińskiej czapce", 
+        "czapka"
+    ], 
+    "👳": [
+        "mężczyzna", 
+        "turban", 
+        "osoba w turbanie"
+    ], 
+    "👴": [
+        "starszy mężczyzna", 
+        "mnich", 
+        "starzec", 
+        "staruszek"
+    ], 
+    "👵": [
+        "starsza kobieta", 
+        "staruszka", 
+        "kobieta"
+    ], 
+    "👶": [
+        "niemowlę", 
+        "dziecko"
+    ], 
+    "👷": [
+        "budowlaniec", 
+        "kask"
+    ], 
+    "👸": [
+        "księżniczka", 
+        "baśń", 
+        "bajka", 
+        "królewna"
+    ], 
+    "👹": [
+        "potwór", 
+        "maska", 
+        "ogr"
+    ], 
+    "👺": [
+        "goblin", 
+        "diabeł", 
+        "maska", 
+        "stwór"
+    ], 
+    "👻": [
+        "wesoły duch", 
+        "duszek", 
+        "duch", 
+        "język"
+    ], 
+    "👼": [
+        "aniołek", 
+        "fantasy", 
+        "buzia aniołka", 
+        "bajka"
+    ], 
+    "👽": [
+        "kosmos", 
+        "pozaziemski", 
+        "ufo", 
+        "kosmita", 
+        "bajki", 
+        "szarak", 
+        "fantasy", 
+        "bajania", 
+        "obcy", 
+        "ufoludek"
+    ], 
+    "👾": [
+        "kosmos", 
+        "pozaziemski", 
+        "ufo", 
+        "kosmita", 
+        "bajki", 
+        "szarak", 
+        "fantasy", 
+        "bajania", 
+        "obcy", 
+        "kosmiczny potwór", 
+        "ufoludek"
+    ], 
+    "👿": [
+        "zagniewana twarz z rogami", 
+        "diabełek", 
+        "różki", 
+        "fantasy", 
+        "smutny", 
+        "rogi"
+    ], 
+    "💀": [
+        "potwór", 
+        "trupia czaszka", 
+        "śmierć", 
+        "duch", 
+        "szkielet", 
+        "czaszka", 
+        "kościotrup"
+    ], 
+    "💁": [
+        "pomogę", 
+        "osoba z wystawioną dłonią", 
+        "pomoc", 
+        "pomocna dłoń", 
+        "życzliwy"
+    ], 
+    "💂": [
+        "strażnik", 
+        "gwardzista"
+    ], 
+    "💃": [
+        "taniec", 
+        "tańczyć", 
+        "tańcząca kobieta"
+    ], 
+    "💄": [
+        "makijaż", 
+        "szminka", 
+        "malować usta", 
+        "kosmetyki"
+    ], 
+    "💅": [
+        "pielęgnacja", 
+        "lakierować paznokcie", 
+        "lakier do paznokci", 
+        "manicure", 
+        "ciało", 
+        "kosmetyki"
+    ], 
+    "💆": [
+        "salon masażu", 
+        "osoba podczas masażu", 
+        "masaż", 
+        "kosmetyczka"
+    ], 
+    "💇": [
+        "fryzjerka", 
+        "cięcie włosów", 
+        "osoba podczas strzyżenia", 
+        "fryzura"
+    ], 
+    "💈": [
+        "słup fryzjerski", 
+        "fryzjer"
+    ], 
+    "💉": [
+        "przyrząd", 
+        "szczepienie", 
+        "strzykawka", 
+        "pielęgniarka", 
+        "zastrzyk", 
+        "lekarstwo", 
+        "szczepionka", 
+        "lekarz", 
+        "chory", 
+        "doktor"
+    ], 
+    "💊": [
+        "kapsułka", 
+        "tabletka", 
+        "lekarstwo"
+    ], 
+    "💋": [
+        "usta", 
+        "odcisk ust", 
+        "ślad po pocałunku", 
+        "pocałunek"
+    ], 
+    "💌": [
+        "serce", 
+        "list", 
+        "wiadomość", 
+        "liścik", 
+        "miłość", 
+        "list miłosny"
+    ], 
+    "💍": [
+        "miłość", 
+        "diament", 
+        "zaręczyny", 
+        "pierścionek"
+    ], 
+    "💎": [
+        "miłość", 
+        "diament", 
+        "romans", 
+        "kamień szlachetny"
+    ], 
+    "💏": [
+        "miłość", 
+        "zakochani", 
+        "pocałunek", 
+        "para"
+    ], 
+    "💐": [
+        "bukiet", 
+        "kwiaty", 
+        "bukiet kwiatów"
+    ], 
+    "💑": [
+        "miłość", 
+        "para z sercem", 
+        "zakochani", 
+        "pocałunek", 
+        "para"
+    ], 
+    "💒": [
+        "uroczystość", 
+        "serce", 
+        "ślub", 
+        "kościół", 
+        "miłość", 
+        "kaplica"
+    ], 
+    "💓": [
+        "bijące serce", 
+        "kocham cię"
+    ], 
+    "💔": [
+        "pęknięte", 
+        "serce", 
+        "złamane serce"
+    ], 
+    "💕": [
+        "miłość", 
+        "dwa serca", 
+        "kocham", 
+        "serca"
+    ], 
+    "💖": [
+        "błyszczące serce", 
+        "migoczące serce"
+    ], 
+    "💗": [
+        "serce rośnie", 
+        "bicie serca", 
+        "zdenerwowany", 
+        "tętno", 
+        "rosnące serce", 
+        "puls"
+    ], 
+    "💘": [
+        "przebite strzałą", 
+        "serce ze strzałą", 
+        "serce przebite strzałą"
+    ], 
+    "💙": [
+        "niebieskie serce", 
+        "serce", 
+        "niebieskie"
+    ], 
+    "💚": [
+        "zielone serce", 
+        "serce", 
+        "zielone"
+    ], 
+    "💛": [
+        "żółte serce", 
+        "serce", 
+        "żółte"
+    ], 
+    "💜": [
+        "serce", 
+        "purpurowe serce", 
+        "fioletowe"
+    ], 
+    "💝": [
+        "serce ze wstążką", 
+        "serce", 
+        "walentynki", 
+        "wstążka", 
+        "różowe"
+    ], 
+    "💞": [
+        "miłość", 
+        "tańczące serca", 
+        "wirujące serca", 
+        "para", 
+        "serca dwa"
+    ], 
+    "💟": [
+        "ozdoba", 
+        "dekoracja", 
+        "dekoracja z sercem"
+    ], 
+    "💠": [
+        "klejnot", 
+        "romb z kropką", 
+        "romb"
+    ], 
+    "💡": [
+        "światło", 
+        "pomysł", 
+        "żarówka"
+    ], 
+    "💢": [
+        "symbol gniewu", 
+        "złość"
+    ], 
+    "💣": [
+        "żartobliwy", 
+        "bomba"
+    ], 
+    "💤": [
+        "chrapanie", 
+        "zabawny", 
+        "żartobliwy"
+    ], 
+    "💥": [
+        "żartobliwy", 
+        "wybuch", 
+        "kolizja"
+    ], 
+    "💦": [
+        "pot", 
+        "woda", 
+        "krople potu", 
+        "krople"
+    ], 
+    "💧": [
+        "kropla", 
+        "łza", 
+        "kropelka", 
+        "pot"
+    ], 
+    "💨": [
+        "wiatr", 
+        "szybkie poruszanie się", 
+        "pędzić", 
+        "pęd", 
+        "podmuch wiatru", 
+        "szybkość"
+    ], 
+    "💩": [
+        "gnój", 
+        "obornik", 
+        "odchody"
+    ], 
+    "💪": [
+        "muskuły", 
+        "mięśnie", 
+        "napięty biceps", 
+        "silny", 
+        "siła", 
+        "muskularny"
+    ], 
+    "💫": [
+        "zawroty głowy", 
+        "spadająca gwiazda"
+    ], 
+    "💬": [
+        "rozmowa", 
+        "dialog", 
+        "dymek"
+    ], 
+    "💭": [
+        "dymek myśli", 
+        "myśl", 
+        "myśleć"
+    ], 
+    "💮": [
+        "kontury", 
+        "biały kwiat", 
+        "stempel z kartofla"
+    ], 
+    "💯": [
+        "sto punktów", 
+        "100", 
+        "setka", 
+        "stówka", 
+        "stówa"
+    ], 
+    "💰": [
+        "pieniądze", 
+        "worek z pieniędzmi", 
+        "worek", 
+        "dolary"
+    ], 
+    "💱": [
+        "kantor", 
+        "wymiana walut", 
+        "waluta", 
+        "wymiana"
+    ], 
+    "💲": [
+        "gruby symbol dolara", 
+        "usd", 
+        "pieniądze", 
+        "waluta", 
+        "dolary"
+    ], 
+    "💳": [
+        "kredyt", 
+        "karta", 
+        "karta kredytowa", 
+        "bank", 
+        "pieniądze"
+    ], 
+    "💴": [
+        "rachunek", 
+        "waluta", 
+        "pieniądze", 
+        "banknot jena", 
+        "bank", 
+        "banknot"
+    ], 
+    "💵": [
+        "waluta", 
+        "pieniądze", 
+        "rachunek", 
+        "bank", 
+        "banknot dolara", 
+        "banknot"
+    ], 
+    "💶": [
+        "waluta", 
+        "banknot euro", 
+        "pieniądze", 
+        "rachunek", 
+        "bank", 
+        "banknot"
+    ], 
+    "💷": [
+        "waluta", 
+        "pieniądze", 
+        "rachunek", 
+        "bank", 
+        "banknot funta", 
+        "banknot"
+    ], 
+    "💸": [
+        "waluta", 
+        "pieniądze", 
+        "rachunek", 
+        "skrzydła", 
+        "uskrzydlone pieniądze", 
+        "bank", 
+        "banknot"
+    ], 
+    "💹": [
+        "waluta", 
+        "pieniądze", 
+        "rynek", 
+        "wykres", 
+        "wzrost", 
+        "trend wzrostowy", 
+        "wykres wzrostu z symbolem jena", 
+        "w górę", 
+        "jen", 
+        "bank"
+    ], 
+    "💺": [
+        "krzesło", 
+        "fotel"
+    ], 
+    "💻": [
+        "wyświetlacz", 
+        "laptop", 
+        "komputer", 
+        "osobisty", 
+        "notebook"
+    ], 
+    "💼": [
+        "neseser", 
+        "teczka", 
+        "aktówka"
+    ], 
+    "💽": [
+        "płyta", 
+        "dysk komputerowy", 
+        "dysk MD"
+    ], 
+    "💾": [
+        "dyskietka", 
+        "komputerowa", 
+        "miękki dysk"
+    ], 
+    "💿": [
+        "dysk optyczny", 
+        "DVD", 
+        "CD", 
+        "dysk", 
+        "Blu-ray"
+    ], 
+    "📀": [
+        "DVD", 
+        "CD", 
+        "dysk", 
+        "Blu-ray"
+    ], 
+    "📁": [
+        "folder", 
+        "katalog"
+    ], 
+    "📂": [
+        "folder", 
+        "otwarty folder", 
+        "katalog", 
+        "otwarty"
+    ], 
+    "📃": [
+        "kartka", 
+        "zawinięta strona", 
+        "maszynopis", 
+        "strona"
+    ], 
+    "📄": [
+        "kartka", 
+        "maszynopis", 
+        "pismo", 
+        "strona"
+    ], 
+    "📅": [
+        "data", 
+        "kalendarz"
+    ], 
+    "📆": [
+        "spirala", 
+        "data", 
+        "zdzierany kalendarz", 
+        "kalendarz z wyrywanymi kartkami"
+    ], 
+    "📇": [
+        "wizytówki", 
+        "wizytówka", 
+        "wizytownik"
+    ], 
+    "📈": [
+        "wykres wzrostu", 
+        "tendencja wzrostowa", 
+        "trend zwyżkowy", 
+        "wzrost"
+    ], 
+    "📉": [
+        "tendencja spadkowa", 
+        "trend zniżkowy", 
+        "spadek", 
+        "strata", 
+        "wykres spadku"
+    ], 
+    "📊": [
+        "wykres słupkowy", 
+        "słupek", 
+        "wykres"
+    ], 
+    "📋": [
+        "kartka", 
+        "pisanie", 
+        "notes", 
+        "podkładka do pisania", 
+        "podkładka", 
+        "pisać"
+    ], 
+    "📌": [
+        "pinezka", 
+        "przypiąć"
+    ], 
+    "📍": [
+        "okrągła pinezka", 
+        "z główką"
+    ], 
+    "📎": [
+        "druciany", 
+        "spinać", 
+        "spinacz"
+    ], 
+    "📏": [
+        "linia", 
+        "linijka", 
+        "prosta krawędź", 
+        "prosta"
+    ], 
+    "📐": [
+        "linijka", 
+        "trójkąt", 
+        "ekierka", 
+        "linia prosta"
+    ], 
+    "📑": [
+        "znak", 
+        "przekładka", 
+        "karta", 
+        "karty zakładek", 
+        "zakładka"
+    ], 
+    "📒": [
+        "skoroszyt", 
+        "zeszyt", 
+        "notatnik", 
+        "żółty"
+    ], 
+    "📓": [
+        "notes", 
+        "szary", 
+        "notatnik", 
+        "zeszyt"
+    ], 
+    "📔": [
+        "książka", 
+        "okładka", 
+        "notes", 
+        "notatnik", 
+        "ozdobna", 
+        "notes z dekoracyjną okładką"
+    ], 
+    "📕": [
+        "książka", 
+        "zamknięta książka", 
+        "zamknięta"
+    ], 
+    "📖": [
+        "książka", 
+        "otwarta książka", 
+        "otwarta"
+    ], 
+    "📗": [
+        "książka", 
+        "zielona", 
+        "zielona książka"
+    ], 
+    "📘": [
+        "książka", 
+        "niebieska książka", 
+        "niebieska"
+    ], 
+    "📙": [
+        "książka", 
+        "pomarańczowa książka", 
+        "pomarańczowa"
+    ], 
+    "📚": [
+        "książka", 
+        "książki"
+    ], 
+    "📛": [
+        "z imieniem", 
+        "plakietka"
+    ], 
+    "📜": [
+        "edykt", 
+        "pismo", 
+        "zwój", 
+        "pergamin"
+    ], 
+    "📝": [
+        "kartka", 
+        "notatka", 
+        "zapiski", 
+        "papier", 
+        "ołówek"
+    ], 
+    "📞": [
+        "słuchawka telefoniczna", 
+        "słuchawka", 
+        "telefon"
+    ], 
+    "📟": [
+        "pager"
+    ], 
+    "📠": [
+        "faks"
+    ], 
+    "📡": [
+        "satelita", 
+        "talerz", 
+        "czasza", 
+        "antena satelitarna"
+    ], 
+    "📢": [
+        "głośnik", 
+        "głośno", 
+        "komunikaty publiczne"
+    ], 
+    "📣": [
+        "kibicować", 
+        "megafon"
+    ], 
+    "📤": [
+        "skrzynka nadawcza", 
+        "pocztowa", 
+        "wysyłać", 
+        "na listy", 
+        "skrzynka", 
+        "list", 
+        "mail", 
+        "nadawcza", 
+        "nadawać"
+    ], 
+    "📥": [
+        "pocztowa", 
+        "na listy", 
+        "skrzynka", 
+        "list", 
+        "odbierać", 
+        "otrzymywać", 
+        "skrzynka odbiorcza", 
+        "mail", 
+        "odbiorcza"
+    ], 
+    "📦": [
+        "paczka", 
+        "przesyłka", 
+        "pakunek", 
+        "pudełko"
+    ], 
+    "📧": [
+        "e-mail", 
+        "list", 
+        "email", 
+        "poczta elektroniczna", 
+        "mail"
+    ], 
+    "📨": [
+        "list", 
+        "e-mail", 
+        "poczta elektroniczna", 
+        "mail", 
+        "email", 
+        "koperta przychodząca"
+    ], 
+    "📩": [
+        "przychodząca", 
+        "wiadomość", 
+        "poczta", 
+        "odebrać", 
+        "koperta ze strzałką"
+    ], 
+    "📪": [
+        "zamknięta skrzynka pocztowa", 
+        "zamknięta skrzynka pocztowa z opuszczoną flagą"
+    ], 
+    "📫": [
+        "zamknięta skrzynka pocztowa", 
+        "zamknięta skrzynka pocztowa z podniesioną flagą"
+    ], 
+    "📬": [
+        "otwarta skrzynka pocztowa z podniesioną flagą", 
+        "otwarta skrzynka pocztowa"
+    ], 
+    "📭": [
+        "otwarta skrzynka pocztowa z opuszczoną flagą", 
+        "otwarta skrzynka pocztowa"
+    ], 
+    "📮": [
+        "na listy", 
+        "skrzynka pocztowa", 
+        "skrzynka na listy"
+    ], 
+    "📯": [
+        "pocztowa", 
+        "trąbka pocztowa", 
+        "poczta", 
+        "trąbka", 
+        "róg"
+    ], 
+    "📰": [
+        "gazeta", 
+        "wiadomości"
+    ], 
+    "📱": [
+        "smartfon", 
+        "komórka", 
+        "komóra", 
+        "telefon", 
+        "telefon komórkowy"
+    ], 
+    "📲": [
+        "komóra", 
+        "smartfon", 
+        "telefon", 
+        "komórka", 
+        "połączenie", 
+        "odebrać", 
+        "dzwonić", 
+        "strzałka", 
+        "telefon komórkowy ze strzałką"
+    ], 
+    "📳": [
+        "komórka", 
+        "wibracje", 
+        "telefon komórkowy", 
+        "tryb wibracji"
+    ], 
+    "📴": [
+        "komórka", 
+        "wyłącz", 
+        "wyłączony", 
+        "telefon komórkowy", 
+        "wyłączony telefon komórkowy"
+    ], 
+    "📵": [
+        "nie wolno", 
+        "zakaz", 
+        "zabroniony", 
+        "nie wnosić", 
+        "komórka", 
+        "zakaz korzystania z telefonów komórkowych", 
+        "telefon komórkowy"
+    ], 
+    "📶": [
+        "sieć komórkowa", 
+        "siła sygnału", 
+        "zasięg"
+    ], 
+    "📷": [
+        "fotografia", 
+        "robić zdjęcie", 
+        "aparat fotograficzny", 
+        "wideo", 
+        "zdjęcie"
+    ], 
+    "📸": [
+        "lampa błyskowa", 
+        "aparat fotograficzny z lampą błyskową", 
+        "flesz", 
+        "aparat"
+    ], 
+    "📹": [
+        "kamera wideo", 
+        "kamera", 
+        "wideo"
+    ], 
+    "📺": [
+        "kineskopowy", 
+        "odbiornik", 
+        "telewizja", 
+        "stary telewizor", 
+        "kineskop", 
+        "z anteną"
+    ], 
+    "📻": [
+        "radioodbiornik", 
+        "radio", 
+        "odbiornik radiowy", 
+        "radyjko"
+    ], 
+    "📼": [
+        "taśma", 
+        "kaseta wideo"
+    ], 
+    "📿": [
+        "naszyjnik", 
+        "korale", 
+        "koraliki", 
+        "religia", 
+        "różaniec", 
+        "sznur modlitewny", 
+        "modlitwa"
+    ], 
+    "🔀": [
+        "skrzyżowane", 
+        "krzyżujące się", 
+        "przycisk losowego odtwarzania utworów", 
+        "przecinające się", 
+        "strzałki"
+    ], 
+    "🔁": [
+        "dookoła", 
+        "ponów", 
+        "przycisk powtarzania", 
+        "powtórz", 
+        "w prawo", 
+        "strzałki", 
+        "okrężny"
+    ], 
+    "🔂": [
+        "przycisk powtarzania jednokrotnego", 
+        "dookoła", 
+        "w prawo", 
+        "strzałki", 
+        "powtórz raz", 
+        "ponów raz", 
+        "okrężny"
+    ], 
+    "🔃": [
+        "okrężny", 
+        "strzałka", 
+        "pionowe strzałki zgodnie z ruchem wskazówek zegara", 
+        "odśwież"
+    ], 
+    "🔄": [
+        "okrężny", 
+        "w lewo", 
+        "dookoła", 
+        "przycisk ze strzałkami przeciwnie do ruchu wskazówek zegara", 
+        "strzałka"
+    ], 
+    "🔅": [
+        "przyciemnić", 
+        "mała", 
+        "niska", 
+        "jasność", 
+        "przycisk małej jasności"
+    ], 
+    "🔆": [
+        "wysoka", 
+        "rozjaśnić", 
+        "przycisk dużej jasności", 
+        "jasność", 
+        "duża"
+    ], 
+    "🔇": [
+        "cicho", 
+        "wyciszony głośnik", 
+        "cisza", 
+        "wyciszyć", 
+        "głośnik", 
+        "głośność"
+    ], 
+    "🔈": [
+        "głośność", 
+        "niska głośność głośnika"
+    ], 
+    "🔉": [
+        "cicho", 
+        "niska głośność", 
+        "średnia głośność głośnika", 
+        "mała głośność"
+    ], 
+    "🔊": [
+        "wysoka głośność", 
+        "duża głośność", 
+        "wysoka głośność głośnika"
+    ], 
+    "🔋": [
+        "akumulatorek", 
+        "bateria", 
+        "akumulator"
+    ], 
+    "🔌": [
+        "podłączyć", 
+        "elektryczna", 
+        "wtyczka elektryczna"
+    ], 
+    "🔍": [
+        "szukaj", 
+        "skierowana w lewo", 
+        "lupa", 
+        "lupa pochylona w lewo"
+    ], 
+    "🔎": [
+        "szukaj", 
+        "skierowana w prawo", 
+        "lupa", 
+        "lupa pochylona w prawo"
+    ], 
+    "🔏": [
+        "atrament", 
+        "niejawne", 
+        "zamknięta kłódka z piórem", 
+        "pióro", 
+        "prywatność", 
+        "podpis"
+    ], 
+    "🔐": [
+        "zamknięta kłódka z kluczem", 
+        "blokada", 
+        "kłódka", 
+        "zamknięcie", 
+        "kluczyk"
+    ], 
+    "🔑": [
+        "klucz", 
+        "zamek", 
+        "zamknąć", 
+        "hasło"
+    ], 
+    "🔒": [
+        "zamknięte", 
+        "zamknięta kłódka", 
+        "kłódka", 
+        "zablokowane"
+    ], 
+    "🔓": [
+        "odblokować", 
+        "otwarta kłódka", 
+        "kłódka", 
+        "otwarta"
+    ], 
+    "🔔": [
+        "dzwonek", 
+        "dzwon"
+    ], 
+    "🔕": [
+        "nie wolno", 
+        "cicho", 
+        "przekreślony dzwonek", 
+        "cisza", 
+        "zabroniony", 
+        "dzwonek", 
+        "zakazany"
+    ], 
+    "🔖": [
+        "zakładka", 
+        "zaznaczenie"
+    ], 
+    "🔗": [
+        "połączenie", 
+        "hiperłącze", 
+        "ogniwa", 
+        "link", 
+        "ogniwo"
+    ], 
+    "🔘": [
+        "figura geometryczna", 
+        "kółko", 
+        "przycisk radiowy", 
+        "przycisk wyboru opcji"
+    ], 
+    "🔙": [
+        "strzałka wstecz", 
+        "strzałka", 
+        "wstecz"
+    ], 
+    "🔚": [
+        "strzałka", 
+        "koniec", 
+        "strzałka z napisem END"
+    ], 
+    "🔛": [
+        "strzałka z napisem ON!", 
+        "strzałka", 
+        "włączone"
+    ], 
+    "🔜": [
+        "strzałka", 
+        "strzałka z napisem SOON", 
+        "wkrótce"
+    ], 
+    "🔝": [
+        "w górę", 
+        "strzałka", 
+        "strzałka z napisem TOP"
+    ], 
+    "🔞": [
+        "do lat osiemnastu", 
+        "zakaz poniżej osiemnastego roku życia", 
+        "osobom", 
+        "dla niepełnoletnich", 
+        "18", 
+        "zabronione", 
+        "niepełnoletni", 
+        "niedozwolone", 
+        "dozwolone", 
+        "od lat osiemnastu", 
+        "ograniczenie wiekowe"
+    ], 
+    "🔟": [
+        "klawisz: 10", 
+        "klawisz"
+    ], 
+    "🔠": [
+        "abcd", 
+        "duże litery", 
+        "wielkimi literami", 
+        "łacińskie", 
+        "wielkie litery (alfabet łaciński)", 
+        "wprowadzać", 
+        "kapitaliki", 
+        "pisać"
+    ], 
+    "🔡": [
+        "abcd", 
+        "małe litery (alfabet łaciński)", 
+        "małymi literami", 
+        "łacińskie", 
+        "wprowadzać", 
+        "pisać"
+    ], 
+    "🔢": [
+        "1234", 
+        "pisać", 
+        "cyfry", 
+        "liczby"
+    ], 
+    "🔣": [
+        "znaki", 
+        "pisać", 
+        "symbole", 
+        "wprowadzać"
+    ], 
+    "🔤": [
+        "pierwsze litery", 
+        "alfabet", 
+        "małe litery", 
+        "litery (alfabet łaciński)", 
+        "abecadło"
+    ], 
+    "🔥": [
+        "ogień", 
+        "płomień"
+    ], 
+    "🔦": [
+        "światło", 
+        "elektryczna", 
+        "lampka", 
+        "latarka"
+    ], 
+    "🔧": [
+        "warsztat", 
+        "narzędzie", 
+        "mechanik", 
+        "klucz warsztatowy"
+    ], 
+    "🔨": [
+        "młot", 
+        "młotek", 
+        "narzędzie"
+    ], 
+    "🔩": [
+        "gwint", 
+        "śruba i nakrętka", 
+        "nakrętka", 
+        "mocowanie", 
+        "śruba"
+    ], 
+    "🔪": [
+        "kuchenny", 
+        "nóż kuchenny", 
+        "broń"
+    ], 
+    "🔫": [
+        "pistolet", 
+        "broń palna", 
+        "broń", 
+        "rewolwer"
+    ], 
+    "🔬": [
+        "powiększenie", 
+        "obserwacja", 
+        "mikroskop"
+    ], 
+    "🔭": [
+        "powiększenie", 
+        "luneta", 
+        "obserwacja", 
+        "teleskop"
+    ], 
+    "🔮": [
+        "fortuna", 
+        "wróżka", 
+        "kula", 
+        "kryształowa", 
+        "przepowiadać", 
+        "wróżyć", 
+        "kryształowa kula"
+    ], 
+    "🔯": [
+        "żyd", 
+        "gwiazda sześcioramienna z kropką", 
+        "żydowska", 
+        "gwiazda"
+    ], 
+    "🔰": [
+        "szewron", 
+        "żółty", 
+        "w dół", 
+        "początkujący", 
+        "niebieski", 
+        "japoński symbol początkującego kierowcy"
+    ], 
+    "🔱": [
+        "statek", 
+        "emblemat", 
+        "kotwica", 
+        "emblemat z trójzębem", 
+        "okręt"
+    ], 
+    "🔲": [
+        "kwadrat", 
+        "figura geometryczna", 
+        "czarny kwadratowy przycisk", 
+        "obramowanie", 
+        "biały", 
+        "czarny"
+    ], 
+    "🔳": [
+        "biały kwadratowy przycisk", 
+        "kwadrat", 
+        "figura geometryczna", 
+        "obramowanie", 
+        "biały", 
+        "czarny"
+    ], 
+    "🔴": [
+        "koło", 
+        "czerwone koło", 
+        "figura geometryczna", 
+        "kółko", 
+        "czerwone"
+    ], 
+    "🔵": [
+        "figura geometryczna", 
+        "niebieskie koło", 
+        "kółko", 
+        "niebieskie", 
+        "koło"
+    ], 
+    "🔶": [
+        "pomarańczowy", 
+        "duży pomarańczowy romb", 
+        "figura geometryczna", 
+        "romb", 
+        "kształt", 
+        "duży"
+    ], 
+    "🔷": [
+        "duży niebieski romb", 
+        "figura geometryczna", 
+        "niebieski", 
+        "romb", 
+        "kształt", 
+        "duży"
+    ], 
+    "🔸": [
+        "figura geometryczna", 
+        "pomarańczowy", 
+        "mały", 
+        "mały pomarańczowy romb", 
+        "romb", 
+        "kształt"
+    ], 
+    "🔹": [
+        "mały niebieski romb", 
+        "mały", 
+        "figura geometryczna", 
+        "niebieski", 
+        "romb", 
+        "kształt"
+    ], 
+    "🔺": [
+        "do góry", 
+        "wierzchołkiem", 
+        "czerwony trójkąt skierowany w górę", 
+        "trójkąt", 
+        "figura geometryczna", 
+        "w górę", 
+        "czerwony"
+    ], 
+    "🔻": [
+        "w dół", 
+        "wierzchołkiem", 
+        "na dół", 
+        "trójkąt", 
+        "figura geometryczna", 
+        "czerwony", 
+        "czerwony trójkąt skierowany w dół"
+    ], 
+    "🔼": [
+        "do góry", 
+        "przycisk „w górę”", 
+        "strzałka", 
+        "trójkąt"
+    ], 
+    "🔽": [
+        "na dół", 
+        "trójkąt", 
+        "przycisk „w dół”", 
+        "strzałka"
+    ], 
+    "🕋": [
+        "muzułmanin", 
+        "kaaba", 
+        "religia", 
+        "islam"
+    ], 
+    "🕌": [
+        "religia", 
+        "muzułmanin", 
+        "meczet", 
+        "islam"
+    ], 
+    "🕍": [
+        "żyd", 
+        "synagoga", 
+        "żydowski", 
+        "religia", 
+        "świątynia"
+    ], 
+    "🕎": [
+        "menora", 
+        "religia", 
+        "świecznik", 
+        "kandelabr"
+    ], 
+    "🕐": [
+        "00", 
+        "trzynasta", 
+        "godzina 1:00", 
+        "1", 
+        "1:00", 
+        "pierwsza", 
+        "godzina"
+    ], 
+    "🕑": [
+        "00", 
+        "godzina", 
+        "godzina 2:00", 
+        "2:00", 
+        "czternasta", 
+        "2", 
+        "druga"
+    ], 
+    "🕒": [
+        "00", 
+        "piętnasta", 
+        "godzina 3:00", 
+        "trzecia", 
+        "3", 
+        "3:00", 
+        "godzina"
+    ], 
+    "🕓": [
+        "czwarta", 
+        "00", 
+        "godzina 4:00", 
+        "godzina", 
+        "szesnasta", 
+        "4:00", 
+        "4"
+    ], 
+    "🕔": [
+        "00", 
+        "piąta", 
+        "godzina", 
+        "5:00", 
+        "godzina 5:00", 
+        "5", 
+        "siedemnasta"
+    ], 
+    "🕕": [
+        "00", 
+        "godzina", 
+        "godzina 6:00", 
+        "osiemnasta", 
+        "6", 
+        "6:00", 
+        "szósta"
+    ], 
+    "🕖": [
+        "00", 
+        "dziewiętnasta", 
+        "godzina", 
+        "siódma", 
+        "godzina 7:00", 
+        "7:00", 
+        "7"
+    ], 
+    "🕗": [
+        "00", 
+        "godzina", 
+        "8:00", 
+        "godzina 8:00", 
+        "ósma", 
+        "dwudziesta", 
+        "8"
+    ], 
+    "🕘": [
+        "00", 
+        "godzina", 
+        "dziewiąta", 
+        "dwudziesta pierwsza", 
+        "9", 
+        "9:00", 
+        "godzina 9:00"
+    ], 
+    "🕙": [
+        "10", 
+        "00", 
+        "godzina", 
+        "dwudziesta druga", 
+        "10:00", 
+        "dziesiąta", 
+        "godzina 10:00"
+    ], 
+    "🕚": [
+        "11", 
+        "00", 
+        "jedenasta", 
+        "godzina", 
+        "godzina 11:00", 
+        "11:00", 
+        "dwudziesta trzecia"
+    ], 
+    "🕛": [
+        "00", 
+        "12", 
+        "12:00", 
+        "godzina", 
+        "godzina 12:00", 
+        "zero", 
+        "dwunasta"
+    ], 
+    "🕜": [
+        "godzina 1:30", 
+        "trzynasta trzydzieści", 
+        "godzina", 
+        "pierwsza trzydzieści", 
+        "30", 
+        "1:30", 
+        "1"
+    ], 
+    "🕝": [
+        "godzina 2:30", 
+        "godzina", 
+        "druga trzydzieści", 
+        "30", 
+        "2:30", 
+        "czternasta trzydzieści", 
+        "2"
+    ], 
+    "🕞": [
+        "trzecia trzydzieści", 
+        "godzina", 
+        "30", 
+        "3", 
+        "godzina 3:30", 
+        "3:30", 
+        "piętnasta trzydzieści"
+    ], 
+    "🕟": [
+        "godzina", 
+        "30", 
+        "4", 
+        "4:30", 
+        "szesnasta trzydzieści", 
+        "czwarta trzydzieści", 
+        "godzina 4:30"
+    ], 
+    "🕠": [
+        "5:30", 
+        "godzina", 
+        "godzina 5:30", 
+        "30", 
+        "5", 
+        "siedemnasta trzydzieści", 
+        "piąta trzydzieści"
+    ], 
+    "🕡": [
+        "godzina", 
+        "30", 
+        "godzina 6:30", 
+        "osiemnasta trzydzieści", 
+        "6", 
+        "szósta trzydzieści", 
+        "6:30"
+    ], 
+    "🕢": [
+        "godzina", 
+        "30", 
+        "dziewiętnasta trzydzieści", 
+        "7", 
+        "godzina 7:30", 
+        "siódma trzydzieści", 
+        "7:30"
+    ], 
+    "🕣": [
+        "dwudziesta trzydzieści", 
+        "godzina 8:30", 
+        "godzina", 
+        "30", 
+        "8", 
+        "ósma trzydzieści", 
+        "8:30"
+    ], 
+    "🕤": [
+        "godzina", 
+        "dziewiąta trzydzieści", 
+        "30", 
+        "9:30", 
+        "9", 
+        "godzina 9:30", 
+        "dwudziesta pierwsza trzydzieści"
+    ], 
+    "🕥": [
+        "10", 
+        "10:30", 
+        "godzina", 
+        "dwudziesta druga trzydzieści", 
+        "dziesiąta trzydzieści", 
+        "30", 
+        "godzina 10:30"
+    ], 
+    "🕦": [
+        "11", 
+        "11:30", 
+        "godzina", 
+        "30", 
+        "jedenasta trzydzieści", 
+        "godzina 11:30", 
+        "dwudziesta trzecia trzydzieści"
+    ], 
+    "🕧": [
+        "dwunasta trzydzieści", 
+        "12", 
+        "godzina", 
+        "30", 
+        "godzina 12:30", 
+        "zero trzydzieści", 
+        "12:30"
+    ], 
+    "🕺": [
+        "tańczący mężczyzna", 
+        "taniec", 
+        "tańczyć"
+    ], 
+    "🖕": [
+        "gest", 
+        "wulgarny gest", 
+        "środkowy palec"
+    ], 
+    "🖖": [
+        "dłoń", 
+        "palce", 
+        "wolkański", 
+        "salut wolkański"
+    ], 
+    "🖤": [
+        "zło", 
+        "czarne serce", 
+        "serce", 
+        "czarny"
+    ], 
+    "🗻": [
+        "fuji", 
+        "góra Fudżi", 
+        "fudżi", 
+        "góra"
+    ], 
+    "🗼": [
+        "wieża", 
+        "Tokyo Tower", 
+        "tokio"
+    ], 
+    "🗽": [
+        "statua", 
+        "Statua Wolności", 
+        "wolności"
+    ], 
+    "🗾": [
+        "mapa", 
+        "mapa Japonii", 
+        "japonia"
+    ], 
+    "🗿": [
+        "twarz", 
+        "posąg", 
+        "moai", 
+        "wyspa wielkanocna"
+    ], 
+    "😀": [
+        "szeroko uśmiechnięta twarz", 
+        "roześmiana buźka"
+    ], 
+    "😁": [
+        "zęby", 
+        "śmiech", 
+        "szeroko uśmiechnięta twarz o roześmianych oczach", 
+        "wyszczerzone", 
+        "uśmiech"
+    ], 
+    "😂": [
+        "śmiech", 
+        "łzy", 
+        "twarz ze łzami radości"
+    ], 
+    "😃": [
+        "uśmiech", 
+        "uśmiechnięta twarz z otwartymi ustami", 
+        "wesoły"
+    ], 
+    "😄": [
+        "uśmiech", 
+        "wesoły", 
+        "uśmiechnięta twarz z otwartymi ustami i roześmianymi oczami"
+    ], 
+    "😅": [
+        "kropla potu", 
+        "uśmiech", 
+        "uśmiechnięta twarz z otwartymi ustami, oblana zimnym potem", 
+        "wesoły"
+    ], 
+    "😆": [
+        "satysfakcja", 
+        "uśmiechnięta twarz z przymrużonymi oczami", 
+        "wesoły", 
+        "uśmiech"
+    ], 
+    "😇": [
+        "nic nie zrobiłem", 
+        "świętoszek", 
+        "uśmiechnięta twarz z aureolą"
+    ], 
+    "😈": [
+        "diabełek", 
+        "różki", 
+        "uśmiechnięta twarz z rogami", 
+        "fantasy", 
+        "rogi", 
+        "wesoły"
+    ], 
+    "😉": [
+        "puszczać oko", 
+        "twarz puszczająca oko"
+    ], 
+    "😊": [
+        "uśmiech", 
+        "przyjazny", 
+        "serdeczny", 
+        "uśmiechnięta twarz o roześmianych oczach"
+    ], 
+    "😋": [
+        "oblizywać się", 
+        "twarz delektująca się pysznym jedzeniem"
+    ], 
+    "😌": [
+        "twarz z wyrazem ulgi", 
+        "odprężona buźka"
+    ], 
+    "😍": [
+        "uśmiech", 
+        "kocham", 
+        "buźka", 
+        "uśmiechnięta twarz z oczami w kształcie serca", 
+        "serca", 
+        "zakochany"
+    ], 
+    "😎": [
+        "luzak", 
+        "na luzie", 
+        "okulary", 
+        "zadowolony", 
+        "uśmiechnięta twarz w okularach przeciwsłonecznych"
+    ], 
+    "😏": [
+        "twarz z uśmieszkiem", 
+        "uśmieszek"
+    ], 
+    "😐": [
+        "nic", 
+        "nie mam zdania", 
+        "neutralna twarz", 
+        "hm"
+    ], 
+    "😑": [
+        "nic", 
+        "nie mam zdania", 
+        "nie obchodzi mnie", 
+        "twarz bez wyrazu"
+    ], 
+    "😒": [
+        "niezadowolona buźka", 
+        "niezadowolona twarz"
+    ], 
+    "😓": [
+        "kropla potu", 
+        "spocony", 
+        "twarz ze spuszczonymi oczami oblana potem"
+    ], 
+    "😔": [
+        "zamyślona buźka", 
+        "zamyślona twarz"
+    ], 
+    "😕": [
+        "zakłopotana buźka", 
+        "zdezorientowana twarz"
+    ], 
+    "😖": [
+        "zirytowana buźka", 
+        "zakłopotana twarz"
+    ], 
+    "😗": [
+        "całus", 
+        "całująca twarz", 
+        "ślę całusa"
+    ], 
+    "😘": [
+        "twarz przesyłająca całusa", 
+        "całus", 
+        "ślę całusa", 
+        "kocham"
+    ], 
+    "😙": [
+        "całująca twarz o roześmianych oczach", 
+        "całus", 
+        "ślę całusa"
+    ], 
+    "😚": [
+        "całująca twarz z zamkniętymi oczami", 
+        "całus", 
+        "ślę całusa"
+    ], 
+    "😛": [
+        "buźka pokazująca język", 
+        "twarz wystawiająca język"
+    ], 
+    "😜": [
+        "język", 
+        "pokazuję język", 
+        "mrugnięcie", 
+        "twarz wystawiająca język i puszczająca oko"
+    ], 
+    "😝": [
+        "język", 
+        "zamknięte oczy", 
+        "okropne", 
+        "twarz ze zmrużonymi oczami wystawiająca język", 
+        "smak", 
+        "pokazywać język"
+    ], 
+    "😞": [
+        "rozczarowana buźka", 
+        "rozczarowana twarz"
+    ], 
+    "😟": [
+        "zmartwiona buźka", 
+        "zmartwiona twarz"
+    ], 
+    "😠": [
+        "rozgniewana buźka", 
+        "zagniewana twarz"
+    ], 
+    "😡": [
+        "dąsy", 
+        "twarz", 
+        "wściekłość", 
+        "nadąsana twarz", 
+        "złość"
+    ], 
+    "😢": [
+        "płacząca twarz", 
+        "buźka ze łzą w oku"
+    ], 
+    "😣": [
+        "zacięta twarz", 
+        "uparta twarz", 
+        "napięcie"
+    ], 
+    "😤": [
+        "sukces", 
+        "prychająca twarz"
+    ], 
+    "😥": [
+        "smutna ulga", 
+        "smutna twarz z wyrazem ulgi"
+    ], 
+    "😦": [
+        "rozzłoszczona buźka", 
+        "zachmurzona twarz z otwartymi ustami"
+    ], 
+    "😧": [
+        "udręczona twarz", 
+        "złość"
+    ], 
+    "😨": [
+        "wystraszona buźka", 
+        "przestraszona twarz"
+    ], 
+    "😩": [
+        "zmęczenie", 
+        "znużona twarz", 
+        "zmęczona buźka"
+    ], 
+    "😪": [
+        "śpiąca buźka", 
+        "senna twarz"
+    ], 
+    "😫": [
+        "zmęczenie", 
+        "zmęczona twarz", 
+        "zmęczona buźka"
+    ], 
+    "😬": [
+        "grymaśna buźka", 
+        "twarz z grymasem"
+    ], 
+    "😭": [
+        "głośno płacząca twarz", 
+        "zapłakana buźka"
+    ], 
+    "😮": [
+        "zaskoczona buźka", 
+        "twarz z otwartymi ustami", 
+        "zaskoczenie"
+    ], 
+    "😯": [
+        "zaskoczona buźka", 
+        "zdumiona twarz", 
+        "zaskoczenie"
+    ], 
+    "😰": [
+        "zaniepokojona twarz oblana potem", 
+        "zziajana buźka"
+    ], 
+    "😱": [
+        "krzycząca buźka", 
+        "twarz krzycząca ze strachu"
+    ], 
+    "😲": [
+        "zaskoczona buźka", 
+        "zadziwiona twarz", 
+        "zaskoczenie"
+    ], 
+    "😳": [
+        "twarz z wypiekami", 
+        "twarz z rumieńcami"
+    ], 
+    "😴": [
+        "spanie", 
+        "sen", 
+        "zzz", 
+        "śpiąca twarz", 
+        "twarz"
+    ], 
+    "😵": [
+        "oszołomiony", 
+        "oszołomiona twarz"
+    ], 
+    "😶": [
+        "buźka", 
+        "cisza", 
+        "twarz bez ust", 
+        "nic nie mówię"
+    ], 
+    "😷": [
+        "twarz w masce medycznej", 
+        "choroba", 
+        "lekarz", 
+        "pielęgniarka", 
+        "twarz", 
+        "operacja", 
+        "maska"
+    ], 
+    "😸": [
+        "uśmiech", 
+        "szeroko uśmiechnięty kot o roześmianych oczach", 
+        "kot", 
+        "zęby"
+    ], 
+    "😹": [
+        "uśmiech", 
+        "płaczę ze śmiechu", 
+        "zęby", 
+        "kot", 
+        "kot ze łzami radości"
+    ], 
+    "😺": [
+        "uśmiech", 
+        "kot", 
+        "uśmiechnięty kot z otwartym pyszczkiem", 
+        "zęby"
+    ], 
+    "😻": [
+        "uśmiechnięty kot z oczami w kształcie serca", 
+        "oczy", 
+        "serca", 
+        "miłość", 
+        "zakochany", 
+        "kot"
+    ], 
+    "😼": [
+        "kpiarski", 
+        "kpina", 
+        "kot z drwiącym uśmiechem", 
+        "kot", 
+        "ironia", 
+        "ironiczny"
+    ], 
+    "😽": [
+        "rumieniec", 
+        "całuję", 
+        "kot przesyłający całusa z zamkniętymi oczami", 
+        "całuski", 
+        "kot"
+    ], 
+    "😾": [
+        "nadąsany kot", 
+        "obrażony", 
+        "grymas", 
+        "kot"
+    ], 
+    "😿": [
+        "płaczący kot", 
+        "łza", 
+        "płaczę", 
+        "kot", 
+        "smutny"
+    ], 
+    "🙀": [
+        "przestraszony kot", 
+        "zszokowany", 
+        "zdumiony", 
+        "zaskoczony", 
+        "kot", 
+        "w szoku"
+    ], 
+    "🙁": [
+        "lekko zachmurzona twarz", 
+        "grymas", 
+        "niezadowolenie"
+    ], 
+    "🙂": [
+        "lekko uśmiechnięta twarz", 
+        "buźka"
+    ], 
+    "🙃": [
+        "odwrócona twarz", 
+        "do góry nogami"
+    ], 
+    "🙄": [
+        "przewracam oczami", 
+        "buźka", 
+        "twarz przewracająca oczami"
+    ], 
+    "🙅": [
+        "osoba pokazująca gest NIE", 
+        "nie wolno", 
+        "zakaz"
+    ], 
+    "🙆": [
+        "zaskoczenie", 
+        "osoba pokazująca gest OK", 
+        "ojej", 
+        "zachwyt"
+    ], 
+    "🙇": [
+        "opuszczona głowa", 
+        "przykro mi", 
+        "przepraszam", 
+        "osoba w ukłonie"
+    ], 
+    "🙈": [
+        "małpa zasłaniająca oczy", 
+        "nie widzę", 
+        "nie", 
+        "niedobre", 
+        "zabronione", 
+        "zakrywam oczy", 
+        "gest", 
+        "nie widzieć"
+    ], 
+    "🙉": [
+        "nie słyszę", 
+        "nie", 
+        "niedobre", 
+        "zabronione", 
+        "nie słyszeć", 
+        "gest", 
+        "małpa zasłaniająca uszy", 
+        "zakrywam uszy"
+    ], 
+    "🙊": [
+        "co ja mówię", 
+        "nie mówić", 
+        "zakrywam usta", 
+        "nie", 
+        "niedobre", 
+        "zabronione", 
+        "nie mówię", 
+        "gest", 
+        "małpa zasłaniająca pyszczek"
+    ], 
+    "🙋": [
+        "ręka do góry", 
+        "witaj!", 
+        "osoba podnosząca rękę"
+    ], 
+    "🙌": [
+        "wzniesione ręce", 
+        "super", 
+        "hura!"
+    ], 
+    "🙍": [
+        "smutek na twarzy", 
+        "smutny", 
+        "zachmurzona osoba"
+    ], 
+    "🙎": [
+        "mina", 
+        "niezadowolona", 
+        "buźka", 
+        "kapryśna", 
+        "nadąsana osoba"
+    ], 
+    "🙏": [
+        "złożone ręce"
+    ], 
+    "🚀": [
+        "pojazd", 
+        "rakieta", 
+        "kosmiczny"
+    ], 
+    "🚁": [
+        "pojazd", 
+        "helikopter", 
+        "samolot", 
+        "śmigłowiec"
+    ], 
+    "🚂": [
+        "pociąg", 
+        "kolej", 
+        "ciuchcia", 
+        "lokomotywa", 
+        "stara lokomotywa"
+    ], 
+    "🚃": [
+        "pojazd", 
+        "kolejowy", 
+        "tramwaj", 
+        "szynowy", 
+        "wagon kolejowy", 
+        "elektryczny", 
+        "pociąg"
+    ], 
+    "🚄": [
+        "kolej", 
+        "szybki pociąg", 
+        "pojazd szynowy", 
+        "shinkansen", 
+        "pendolino"
+    ], 
+    "🚅": [
+        "szybki pociąg z zaokrąglonym przodem", 
+        "kolej", 
+        "szybki pociąg", 
+        "pojazd szynowy", 
+        "pendolino"
+    ], 
+    "🚆": [
+        "pojazd", 
+        "kolej", 
+        "pociąg"
+    ], 
+    "🚇": [
+        "kolejka", 
+        "pociąg", 
+        "metro", 
+        "tunel"
+    ], 
+    "🚈": [
+        "kolej miejska", 
+        "kolej", 
+        "podmiejski", 
+        "kolejka", 
+        "pociąg"
+    ], 
+    "🚉": [
+        "kolej", 
+        "stacja", 
+        "dworzec"
+    ], 
+    "🚊": [
+        "tramwaj", 
+        "szynowy", 
+        "trolejbus"
+    ], 
+    "🚋": [
+        "pojazd", 
+        "wagon", 
+        "tramwaj", 
+        "szynowy", 
+        "wagon tramwajowy", 
+        "trolejbus"
+    ], 
+    "🚌": [
+        "pojazd", 
+        "autobus", 
+        "autokar"
+    ], 
+    "🚍": [
+        "przód", 
+        "autobus", 
+        "nadjeżdżający autobus", 
+        "nadjeżdżać"
+    ], 
+    "🚎": [
+        "pojazd", 
+        "elektryczny", 
+        "autobus", 
+        "trolejbus"
+    ], 
+    "🚏": [
+        "przystanek autobusowy", 
+        "przystanek"
+    ], 
+    "🚐": [
+        "minibus", 
+        "busik"
+    ], 
+    "🚑": [
+        "ambulans", 
+        "karetka", 
+        "karetka pogotowia", 
+        "pogotowie", 
+        "erka"
+    ], 
+    "🚒": [
+        "samochód strażacki", 
+        "pożar", 
+        "straż pożarna", 
+        "wóz strażacki"
+    ], 
+    "🚓": [
+        "policja", 
+        "patrol", 
+        "samochód policyjny"
+    ], 
+    "🚔": [
+        "policja", 
+        "nadjeżdżający radiowóz", 
+        "patrol", 
+        "samochód policyjny"
+    ], 
+    "🚕": [
+        "taxi", 
+        "taksówka"
+    ], 
+    "🚖": [
+        "taxi", 
+        "taksówka", 
+        "nadjeżdżająca taksówka", 
+        "nadjeżdżać"
+    ], 
+    "🚗": [
+        "pojazd", 
+        "auto", 
+        "samochód"
+    ], 
+    "🚘": [
+        "pojazd", 
+        "nadjeżdżający pojazd", 
+        "auto", 
+        "samochód", 
+        "nadjeżdżający samochód", 
+        "nadjeżdżające auto"
+    ], 
+    "🚙": [
+        "pojazd", 
+        "wypoczynkowy", 
+        "samochód", 
+        "samochód SUV"
+    ], 
+    "🚚": [
+        "ciężarówka", 
+        "samochód dostawczy", 
+        "dostawczy"
+    ], 
+    "🚛": [
+        "ciężarówka", 
+        "samochód ciężarowy", 
+        "dostawczy"
+    ], 
+    "🚜": [
+        "rolniczy", 
+        "ciągnik"
+    ], 
+    "🚝": [
+        "pojazd", 
+        "kolej", 
+        "szynowy", 
+        "kolej jednoszynowa"
+    ], 
+    "🚞": [
+        "pojazd", 
+        "wagon", 
+        "kolej", 
+        "kolej górska", 
+        "górski"
+    ], 
+    "🚟": [
+        "pojazd", 
+        "kolej", 
+        "kolej podwieszana", 
+        "podwieszana", 
+        "pociąg"
+    ], 
+    "🚠": [
+        "pojazd", 
+        "linowa", 
+        "gondola", 
+        "gondolowa", 
+        "górska kolej linowa", 
+        "górska"
+    ], 
+    "🚡": [
+        "wagonik", 
+        "linowa", 
+        "gondola", 
+        "kolejka", 
+        "podwieszana", 
+        "górska", 
+        "kolej linowa"
+    ], 
+    "🚢": [
+        "statek", 
+        "okręt"
+    ], 
+    "🚣": [
+        "pojazd", 
+        "osoba wiosłująca w łodzi", 
+        "łódka"
+    ], 
+    "🚤": [
+        "pojazd", 
+        "ścigacz wodny", 
+        "łódka", 
+        "łódź"
+    ], 
+    "🚥": [
+        "pozioma sygnalizacja uliczna", 
+        "sygnalizacja świetlna"
+    ], 
+    "🚦": [
+        "pionowa sygnalizacja uliczna", 
+        "sygnalizacja świetlna"
+    ], 
+    "🚧": [
+        "znak drogowy", 
+        "bariera", 
+        "prace drogowe"
+    ], 
+    "🚨": [
+        "sygnalizator świetlny", 
+        "kogut policyjny", 
+        "policyjny", 
+        "lampa obrotowa"
+    ], 
+    "🚩": [
+        "flaga trójkątna", 
+        "czerwona flaga", 
+        "słupek", 
+        "flaga", 
+        "chorągiewka"
+    ], 
+    "🚪": [
+        "drzwi"
+    ], 
+    "🚫": [
+        "brak przejścia", 
+        "zabronione", 
+        "zakaz", 
+        "wejście"
+    ], 
+    "🚬": [
+        "dym", 
+        "papieros", 
+        "dymek", 
+        "dla palących"
+    ], 
+    "🚭": [
+        "nie wolno", 
+        "palenie wzbronione", 
+        "zakaz", 
+        "zabronione", 
+        "papieros", 
+        "zakaz palenia"
+    ], 
+    "🚮": [
+        "śmieci", 
+        "znak kosza na śmieci", 
+        "śmiecić", 
+        "kosz", 
+        "nie śmiecić"
+    ], 
+    "🚯": [
+        "zakaz śmiecenia", 
+        "nie wolno", 
+        "zakaz", 
+        "nie wyrzucać", 
+        "śmieci", 
+        "zabronione"
+    ], 
+    "🚰": [
+        "woda pitna", 
+        "kran", 
+        "woda", 
+        "pitna", 
+        "pić"
+    ], 
+    "🚱": [
+        "woda niezdatna do picia", 
+        "nie wolno", 
+        "woda", 
+        "zakaz", 
+        "niezdatna", 
+        "zabronione", 
+        "nie pić"
+    ], 
+    "🚲": [
+        "pojazd", 
+        "rower", 
+        "rowerek"
+    ], 
+    "🚳": [
+        "pojazd", 
+        "nie wolno", 
+        "rower", 
+        "zakaz", 
+        "zabroniony", 
+        "zakaz wjazdu rowerów"
+    ], 
+    "🚴": [
+        "rower", 
+        "peleton", 
+        "kolarz", 
+        "osoba na rowerze"
+    ], 
+    "🚵": [
+        "rowerzysta", 
+        "rower", 
+        "osoba na rowerze górskim", 
+        "górski"
+    ], 
+    "🚶": [
+        "piechur", 
+        "spacer", 
+        "na piechotę", 
+        "iść", 
+        "idąca osoba", 
+        "pieszo"
+    ], 
+    "🚷": [
+        "nie wolno", 
+        "zakaz", 
+        "pieszy", 
+        "zakaz ruchu pieszych", 
+        "przejście wzbronione", 
+        "zabronione"
+    ], 
+    "🚸": [
+        "uwaga", 
+        "dzieci", 
+        "dzieci przechodzące przez jezdnię", 
+        "przejście da pieszych", 
+        "dziecko"
+    ], 
+    "🚹": [
+        "toaleta męska", 
+        "męski", 
+        "toaleta", 
+        "ubikacja", 
+        "szalet", 
+        "ustęp"
+    ], 
+    "🚺": [
+        "damski", 
+        "toaleta damska", 
+        "toaleta", 
+        "ubikacja", 
+        "ustęp", 
+        "szalet"
+    ], 
+    "🚻": [
+        "toalety", 
+        "toaleta", 
+        "łazienka", 
+        "ubikacja"
+    ], 
+    "🚼": [
+        "niemowlę", 
+        "symbol niemowlęcia"
+    ], 
+    "🚽": [
+        "sedes", 
+        "toaleta", 
+        "dolnopłuk", 
+        "muszla klozetowa", 
+        "ubikacja"
+    ], 
+    "🚾": [
+        "WC", 
+        "toaleta", 
+        "ubikacja", 
+        "ustęp", 
+        "szalet", 
+        "wc"
+    ], 
+    "🚿": [
+        "prysznic", 
+        "woda", 
+        "łazienka"
+    ], 
+    "🛀": [
+        "osoba biorąca kąpiel", 
+        "wanna", 
+        "kąpiel"
+    ], 
+    "🛁": [
+        "wanna", 
+        "kąpiel"
+    ], 
+    "🛂": [
+        "kontrola", 
+        "graniczna", 
+        "paszport", 
+        "granica", 
+        "kontrola paszportowa"
+    ], 
+    "🛃": [
+        "kontrola celna", 
+        "komora celna", 
+        "kontrola", 
+        "celna"
+    ], 
+    "🛄": [
+        "odbiór bagażu", 
+        "odbiór", 
+        "bagaż"
+    ], 
+    "🛅": [
+        "zamknięcie", 
+        "pozostawiony bagaż", 
+        "walizka", 
+        "kluczyk", 
+        "przechowalnia bagażu"
+    ], 
+    "🛌": [
+        "sen", 
+        "osoba w łóżku", 
+        "hotel", 
+        "nocleg"
+    ], 
+    "🛐": [
+        "kult", 
+        "świątynia", 
+        "kościół", 
+        "religia", 
+        "miejsce kultu", 
+        "modlitwa"
+    ], 
+    "🛑": [
+        "znak", 
+        "znak drogowy", 
+        "stop", 
+        "znak stopu"
+    ], 
+    "🛒": [
+        "zakupy", 
+        "wózek sklepowy", 
+        "koszyk", 
+        "sklep", 
+        "wózek"
+    ], 
+    "🛫": [
+        "pojazd", 
+        "wylot", 
+        "odlot", 
+        "start", 
+        "samolot", 
+        "odlot samolotu", 
+        "odprawa"
+    ], 
+    "🛬": [
+        "lądowanie", 
+        "pojazd", 
+        "przylot samolotu", 
+        "samolot", 
+        "przylot"
+    ], 
+    "🛴": [
+        "pojazd", 
+        "hulajnoga"
+    ], 
+    "🛵": [
+        "pojazd", 
+        "skuter", 
+        "motor"
+    ], 
+    "🛶": [
+        "kajak", 
+        "łódź"
+    ], 
+    "🛷": [
+        "sanie"
+    ], 
+    "🛸": [
+        "latający talerz"
+    ], 
+    "🤐": [
+        "twarz z zamkiem błyskawicznym na ustach", 
+        "buzia na kłódkę", 
+        "nic nie powiem"
+    ], 
+    "🤑": [
+        "kasa", 
+        "twarz", 
+        "hajs", 
+        "twarz z pieniędzmi na ustach", 
+        "pieniądze"
+    ], 
+    "🤒": [
+        "choroba", 
+        "gorączka", 
+        "termometr", 
+        "twarz z termometrem", 
+        "temperatura"
+    ], 
+    "🤓": [
+        "inteligent", 
+        "kujon", 
+        "buźka w okularach"
+    ], 
+    "🤔": [
+        "myśląca twarz", 
+        "myślę", 
+        "zastanawiam się", 
+        "zamyślony", 
+        "buźka"
+    ], 
+    "🤕": [
+        "rana", 
+        "bandaż", 
+        "skaleczenie", 
+        "czoło", 
+        "głowa", 
+        "twarz z bandażem"
+    ], 
+    "🤖": [
+        "twarz", 
+        "głowa robota", 
+        "monstrum", 
+        "robot"
+    ], 
+    "🤗": [
+        "twarz z gestem przytulania", 
+        "uśmiech", 
+        "ściskam"
+    ], 
+    "🤘": [
+        "rocker", 
+        "rogi", 
+        "gest rogów", 
+        "znak rockersów"
+    ], 
+    "🤙": [
+        "dzwonić", 
+        "dłoń w geście „Zadzwoń do mnie”", 
+        "telefonować"
+    ], 
+    "🤚": [
+        "uniesiona dłoń", 
+        "wzniesiony grzbiet dłoni", 
+        "pozdrowienie", 
+        "pożegnanie", 
+        "powitanie"
+    ], 
+    "🤛": [
+        "pięść skierowana w lewo", 
+        "cios", 
+        "pięść", 
+        "uderzenie z prawej"
+    ], 
+    "🤜": [
+        "uderzenie z lewej", 
+        "cios", 
+        "pięść", 
+        "pięść skierowana w prawo"
+    ], 
+    "🤝": [
+        "uścisk", 
+        "zgoda", 
+        "uścisk dłoni", 
+        "spotkanie", 
+        "powitanie"
+    ], 
+    "🤞": [
+        "trzymać", 
+        "skrzyżowane palce", 
+        "powodzenia", 
+        "kciuki"
+    ], 
+    "🤟": [
+        "kocham", 
+        "ręka", 
+        "gest Kocham cię"
+    ], 
+    "🤠": [
+        "głowa w kapeluszu kowbojskim", 
+        "kowboj", 
+        "kowbojka", 
+        "kapelusz"
+    ], 
+    "🤡": [
+        "twarz klauna", 
+        "cyrk", 
+        "klown"
+    ], 
+    "🤢": [
+        "twarz z mdłościami", 
+        "mdłości", 
+        "wymiotować"
+    ], 
+    "🤣": [
+        "śmiech", 
+        "kulać się", 
+        "tarza się ze śmiechu"
+    ], 
+    "🤤": [
+        "ślina", 
+        "ślinka", 
+        "śliniąca się twarz"
+    ], 
+    "🤥": [
+        "pinokio", 
+        "długi nos", 
+        "twarz kłamcy", 
+        "kłamać"
+    ], 
+    "🤦": [
+        "osoba trzymająca się za czoło", 
+        "niedowierzanie", 
+        "załamanie"
+    ], 
+    "🤧": [
+        "katar", 
+        "na zdrowie", 
+        "smarkanie", 
+        "kichająca twarz", 
+        "kichać"
+    ], 
+    "🤨": [
+        "brew", 
+        "sceptyczny", 
+        "buźka", 
+        "twarz z podniesioną brwią"
+    ], 
+    "🤩": [
+        "zafascynowany", 
+        "gwiazdy", 
+        "buźka", 
+        "zafascynowanie"
+    ], 
+    "🤪": [
+        "duże", 
+        "małe", 
+        "oko", 
+        "szalona twarz"
+    ], 
+    "🤫": [
+        "uciszać", 
+        "cicho", 
+        "uciszająca twarz"
+    ], 
+    "🤬": [
+        "przekleństwo", 
+        "twarz z symbolami na ustach"
+    ], 
+    "🤭": [
+        "twarz z ręką na ustach", 
+        "ups"
+    ], 
+    "🤮": [
+        "wymiotująca twarz", 
+        "wymioty", 
+        "chory"
+    ], 
+    "🤯": [
+        "szok", 
+        "eksplodująca głowa"
+    ], 
+    "🤰": [
+        "ciąża", 
+        "kobieta w ciąży"
+    ], 
+    "🤱": [
+        "niemowlę", 
+        "pierś", 
+        "karmienie piersią"
+    ], 
+    "🤲": [
+        "dłonie do góry razem", 
+        "modlitwa"
+    ], 
+    "🤳": [
+        "selfie", 
+        "zdjęcie", 
+        "telefon", 
+        "aparat"
+    ], 
+    "🤴": [
+        "książę"
+    ], 
+    "🤵": [
+        "smoking", 
+        "mężczyzna w smokingu", 
+        "elegancja", 
+        "pan młody"
+    ], 
+    "🤶": [
+        "mikołajowa", 
+        "święta", 
+        "mikołaj", 
+        "żona św. Mikołaja"
+    ], 
+    "🤷": [
+        "obojętność", 
+        "niewiedza", 
+        "wątpliwość", 
+        "osoba wzruszająca ramionami"
+    ], 
+    "🤸": [
+        "sport", 
+        "gwiazda", 
+        "gimnastyka", 
+        "osoba robiąca gwiazdę"
+    ], 
+    "🤹": [
+        "cyrk", 
+        "żonglerz", 
+        "żonglująca osoba", 
+        "żonglerka", 
+        "spryt"
+    ], 
+    "🤺": [
+        "szermierz", 
+        "szpada", 
+        "sport", 
+        "osoba uprawiająca szermierkę", 
+        "szermierka"
+    ], 
+    "🤼": [
+        "sport", 
+        "zapasy", 
+        "osoby uprawiające zapasy", 
+        "zapaśnik"
+    ], 
+    "🤽": [
+        "woda", 
+        "sport", 
+        "piłka", 
+        "osoba grająca w piłkę wodną", 
+        "gra"
+    ], 
+    "🤾": [
+        "sport", 
+        "piłka", 
+        "osoba grająca w piłkę ręczną", 
+        "gra"
+    ], 
+    "🥀": [
+        "kwiat", 
+        "róża", 
+        "więdnąć", 
+        "zwiędły kwiat"
+    ], 
+    "🥁": [
+        "bęben", 
+        "grać", 
+        "muzyka", 
+        "bębenek"
+    ], 
+    "🥂": [
+        "toast", 
+        "na zdrowie", 
+        "stukające się kieliszki", 
+        "kieliszki", 
+        "świętowanie"
+    ], 
+    "🥃": [
+        "grube dno", 
+        "drink", 
+        "szklanka z grubym dnem", 
+        "szklanka", 
+        "alkohol", 
+        "whisky"
+    ], 
+    "🥄": [
+        "łyżeczka", 
+        "sztućce", 
+        "łyżka"
+    ], 
+    "🥅": [
+        "bramka", 
+        "gol", 
+        "sport"
+    ], 
+    "🥇": [
+        "medal za 1. miejsce", 
+        "pierwsze miejsce", 
+        "medal", 
+        "złoto", 
+        "zwycięstwo"
+    ], 
+    "🥈": [
+        "drugie miejsce", 
+        "srebro", 
+        "medal", 
+        "medal za 2. miejsce"
+    ], 
+    "🥉": [
+        "brąz", 
+        "medal za 3. miejsce", 
+        "trzecie miejsce", 
+        "medal"
+    ], 
+    "🥊": [
+        "sport", 
+        "rękawica bokserska", 
+        "rękawica", 
+        "boks"
+    ], 
+    "🥋": [
+        "taekwondo", 
+        "sztuki walki", 
+        "judo", 
+        "strój do sztuk walki", 
+        "karate", 
+        "sport"
+    ], 
+    "🥌": [
+        "kamień do curlingu"
+    ], 
+    "🥐": [
+        "rogalik francuski", 
+        "rogalik", 
+        "pieczywo", 
+        "rogal", 
+        "jedzenie"
+    ], 
+    "🥑": [
+        "awokado", 
+        "owoc", 
+        "jedzenie"
+    ], 
+    "🥒": [
+        "ogórek", 
+        "pikle", 
+        "jedzenie", 
+        "warzywo"
+    ], 
+    "🥓": [
+        "bekon", 
+        "boczek", 
+        "jedzenie", 
+        "mięso"
+    ], 
+    "🥔": [
+        "kartofel", 
+        "warzywo", 
+        "ziemniak", 
+        "jedzenie"
+    ], 
+    "🥕": [
+        "warzywo", 
+        "marchew", 
+        "marchewka", 
+        "jedzenie"
+    ], 
+    "🥖": [
+        "pieczywo", 
+        "bułka", 
+        "bagietka", 
+        "jedzenie", 
+        "chleb"
+    ], 
+    "🥗": [
+        "sałatka", 
+        "sałata", 
+        "jedzenie"
+    ], 
+    "🥘": [
+        "wok", 
+        "patelnia", 
+        "danie z patelni", 
+        "jedzenie", 
+        "paella"
+    ], 
+    "🥙": [
+        "jedzenie", 
+        "kebab", 
+        "wrap", 
+        "gyros", 
+        "falafel", 
+        "tortilla"
+    ], 
+    "🥚": [
+        "jajko", 
+        "jedzenie", 
+        "jajo", 
+        "nabiał"
+    ], 
+    "🥛": [
+        "szklanka mleka", 
+        "szklanka", 
+        "napój", 
+        "mleko"
+    ], 
+    "🥜": [
+        "orzeszki ziemne", 
+        "fistaszki", 
+        "jedzenie", 
+        "orzeszki"
+    ], 
+    "🥝": [
+        "kiwi", 
+        "owoc", 
+        "owoc kiwi", 
+        "jedzenie"
+    ], 
+    "🥞": [
+        "placki", 
+        "naleśniki", 
+        "jedzenie"
+    ], 
+    "🥟": [
+        "pieróg"
+    ], 
+    "🥠": [
+        "ciastko z wróżbą"
+    ], 
+    "🥡": [
+        "pudełko na wynos"
+    ], 
+    "🥢": [
+        "pałeczki"
+    ], 
+    "🥣": [
+        "miska z łyżką"
+    ], 
+    "🥤": [
+        "szklanka ze słomką"
+    ], 
+    "🥥": [
+        "kokos"
+    ], 
+    "🥦": [
+        "brokuł"
+    ], 
+    "🥧": [
+        "ciasto"
+    ], 
+    "🥨": [
+        "precel"
+    ], 
+    "🥩": [
+        "kawałek mięsa"
+    ], 
+    "🥪": [
+        "kanapka"
+    ], 
+    "🥫": [
+        "jedzenie w puszce"
+    ], 
+    "🦀": [
+        "zodiak", 
+        "rak", 
+        "krab"
+    ], 
+    "🦁": [
+        "pysk", 
+        "lew", 
+        "buźka", 
+        "grzywa", 
+        "głowa lwa"
+    ], 
+    "🦂": [
+        "zodiak", 
+        "skorpion", 
+        "brązowy skorpion"
+    ], 
+    "🦃": [
+        "indyk"
+    ], 
+    "🦄": [
+        "łeb", 
+        "głowa jednorożca", 
+        "głowa", 
+        "jednorożec"
+    ], 
+    "🦅": [
+        "ptak", 
+        "orzeł"
+    ], 
+    "🦆": [
+        "ptak", 
+        "kaczka"
+    ], 
+    "🦇": [
+        "wampir", 
+        "zwierzę", 
+        "nietoperz"
+    ], 
+    "🦈": [
+        "ryba", 
+        "rekin"
+    ], 
+    "🦉": [
+        "mądrość", 
+        "ptak", 
+        "sowa"
+    ], 
+    "🦊": [
+        "głowa lisa", 
+        "zwierzę", 
+        "lis"
+    ], 
+    "🦋": [
+        "kolorowy", 
+        "owad", 
+        "motyl"
+    ], 
+    "🦌": [
+        "jeleń", 
+        "zwierzę"
+    ], 
+    "🦍": [
+        "zwierzę", 
+        "goryl"
+    ], 
+    "🦎": [
+        "jaszczurka", 
+        "gad"
+    ], 
+    "🦏": [
+        "nosorożec", 
+        "zwierzę"
+    ], 
+    "🦐": [
+        "krewetka", 
+        "jedzenie", 
+        "owoce morza"
+    ], 
+    "🦑": [
+        "kałamarnica", 
+        "ośmiornica", 
+        "mięczak", 
+        "jedzenie"
+    ], 
+    "🦒": [
+        "żyrafa"
+    ], 
+    "🦓": [
+        "zebra"
+    ], 
+    "🦔": [
+        "jeż"
+    ], 
+    "🦕": [
+        "zauropod"
+    ], 
+    "🦖": [
+        "t-rex"
+    ], 
+    "🦗": [
+        "świerszcz"
+    ], 
+    "🧀": [
+        "z dziurami", 
+        "szwajcarski", 
+        "żółty", 
+        "kawałek sera", 
+        "ser"
+    ], 
+    "🧐": [
+        "twarz z monoklem", 
+        "zapchane"
+    ], 
+    "🧑": [
+        "dorosły", 
+        "płeć neutralna"
+    ], 
+    "🧒": [
+        "młody", 
+        "dziecko", 
+        "płeć neutralna"
+    ], 
+    "🧓": [
+        "starszy dorosły", 
+        "stary", 
+        "płeć neutralna"
+    ], 
+    "🧔": [
+        "broda", 
+        "osoba z brodą"
+    ], 
+    "🧕": [
+        "chusta", 
+        "hidżab", 
+        "kobieta w chuście"
+    ], 
+    "🧖": [
+        "osoba w zaparowanym pomieszczeniu", 
+        "zaparowane pomieszczenie", 
+        "sauna"
+    ], 
+    "🧗": [
+        "wspinacz", 
+        "osoba wspinająca się"
+    ], 
+    "🧘": [
+        "joga", 
+        "osoba w pozycji lotosu", 
+        "medytacja"
+    ], 
+    "🧙": [
+        "wiedźma", 
+        "czarownica", 
+        "czarodziej", 
+        "mag", 
+        "czarnoksiężnik"
+    ], 
+    "🧚": [
+        "Puck", 
+        "wróżka", 
+        "Oberon", 
+        "Tytania"
+    ], 
+    "🧛": [
+        "Drakula", 
+        "wampir", 
+        "nieumarli"
+    ], 
+    "🧜": [
+        "syrena"
+    ], 
+    "🧝": [
+        "elf", 
+        "magiczny"
+    ], 
+    "🧞": [
+        "dżin"
+    ], 
+    "🧟": [
+        "zombie", 
+        "chodzące trupy", 
+        "nieumarli"
+    ], 
+    "🧠": [
+        "inteligentny", 
+        "mózg"
+    ], 
+    "🧡": [
+        "pomarańczowe", 
+        "pomarańczowe serce"
+    ], 
+    "🧢": [
+        "bejsbolówka", 
+        "czapeczka"
+    ], 
+    "🧣": [
+        "szalik", 
+        "szyja"
+    ], 
+    "🧤": [
+        "ręka", 
+        "rękawiczki"
+    ], 
+    "🧥": [
+        "płaszcz", 
+        "kurtka"
+    ], 
+    "🧦": [
+        "rajstopy", 
+        "skarpetki"
+    ]
+}

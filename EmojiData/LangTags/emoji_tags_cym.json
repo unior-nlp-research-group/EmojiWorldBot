@@ -1,0 +1,6576 @@
+{
+    "⌚": [
+        "oriawr", 
+        "cloc"
+    ], 
+    "⌛": [
+        "amserydd", 
+        "tywod", 
+        "awrwydr"
+    ], 
+    "⏩": [
+        "dwbl", 
+        "cyflym", 
+        "botwm blaenyrru cyflym", 
+        "saeth", 
+        "ymlaen"
+    ], 
+    "⏪": [
+        "dwbl", 
+        "saeth", 
+        "cildroi", 
+        "botwm cildroi cyflym"
+    ], 
+    "⏫": [
+        "botwm i fyny cyflym", 
+        "saeth", 
+        "dwbl"
+    ], 
+    "⏬": [
+        "dwbl", 
+        "i lawr", 
+        "saeth", 
+        "botwm i lawr cyflym"
+    ], 
+    "⏰": [
+        "larwm", 
+        "cloc larwm", 
+        "cloc"
+    ], 
+    "⏳": [
+        "amserydd", 
+        "awrwydr gyda thywod yn llifo", 
+        "tywod", 
+        "awrwydr"
+    ], 
+    "◽": [
+        "sgwâr", 
+        "geometrig", 
+        "sgwâr canolig-bach gwyn"
+    ], 
+    "◾": [
+        "sgwâr canolig-bach du", 
+        "sgwâr", 
+        "geometrig"
+    ], 
+    "☔": [
+        "dillad", 
+        "ymbarel gyda glaw", 
+        "diferyn", 
+        "glaw", 
+        "tywydd"
+    ], 
+    "☕": [
+        "diod", 
+        "twym", 
+        "coffi", 
+        "te", 
+        "diod boeth"
+    ], 
+    "♈": [
+        "hwrdd", 
+        "sidydd", 
+        "yr Hwrdd"
+    ], 
+    "♉": [
+        "y Tarw", 
+        "sidydd", 
+        "tarw", 
+        "ych"
+    ], 
+    "♊": [
+        "efeilliaid", 
+        "sidydd", 
+        "yr Efeilliaid"
+    ], 
+    "♋": [
+        "sidydd", 
+        "cranc", 
+        "y Cranc"
+    ], 
+    "♌": [
+        "sidydd", 
+        "llew", 
+        "y Llew"
+    ], 
+    "♍": [
+        "sidydd", 
+        "y Forwyn", 
+        "morwyn"
+    ], 
+    "♎": [
+        "y Fantol", 
+        "sidydd", 
+        "clorian", 
+        "cyfiawnder", 
+        "mantol"
+    ], 
+    "♏": [
+        "y Sgorpion", 
+        "sidydd", 
+        "sgorpio", 
+        "sgorpion"
+    ], 
+    "♐": [
+        "saethwr", 
+        "sidydd", 
+        "y Saethydd"
+    ], 
+    "♑": [
+        "gafr", 
+        "sidydd", 
+        "yr afr"
+    ], 
+    "♒": [
+        "sidydd", 
+        "dŵr", 
+        "y Dyfrwr", 
+        "cludwr"
+    ], 
+    "♓": [
+        "y Pysgod", 
+        "sidydd", 
+        "pysgod"
+    ], 
+    "♿": [
+        "mynediad", 
+        "cadair olwyn"
+    ], 
+    "⚓": [
+        "angor", 
+        "llong", 
+        "offer"
+    ], 
+    "⚡": [
+        "foltedd uchel", 
+        "trydan", 
+        "foltedd", 
+        "perygl"
+    ], 
+    "⚪": [
+        "cylch", 
+        "cylch gwyn", 
+        "geometrig"
+    ], 
+    "⚫": [
+        "cylch", 
+        "geometrig", 
+        "cylch du"
+    ], 
+    "⚽": [
+        "pêl", 
+        "pêl droed"
+    ], 
+    "⚾": [
+        "pêl", 
+        "pêl fas"
+    ], 
+    "⛄": [
+        "oer", 
+        "tywydd", 
+        "dyn eira heb eira", 
+        "dyn eira", 
+        "eira"
+    ], 
+    "⛅": [
+        "haul", 
+        "tywydd", 
+        "haul tu ôl i gwmwl", 
+        "cwmwl"
+    ], 
+    "⛎": [
+        "sarff", 
+        "neidr", 
+        "sidydd", 
+        "ophiuchus", 
+        "cludwr"
+    ], 
+    "⛔": [
+        "gwahardd", 
+        "dim mynediad", 
+        "mynediad", 
+        "traffig"
+    ], 
+    "⛪": [
+        "crefydd", 
+        "croes", 
+        "cristnogol", 
+        "eglwys", 
+        "adeilad"
+    ], 
+    "⛲": [
+        "ffynnon"
+    ], 
+    "⛳": [
+        "baner mewn twll", 
+        "golff", 
+        "twll"
+    ], 
+    "⛵": [
+        "môr", 
+        "cyrchfan", 
+        "cwch hwylio", 
+        "cwch"
+    ], 
+    "⛺": [
+        "pabell", 
+        "gwersylla"
+    ], 
+    "⛽": [
+        "pwmp", 
+        "tanwydd", 
+        "gorsaf", 
+        "pwmp tanwydd"
+    ], 
+    "✅": [
+        "marc tic gwyn trwm", 
+        "tic", 
+        "marc"
+    ], 
+    "✊": [
+        "llaw", 
+        "corff", 
+        "dwrn", 
+        "dwrn wedi codi", 
+        "cau"
+    ], 
+    "✋": [
+        "llaw", 
+        "corff", 
+        "llaw wedi codi"
+    ], 
+    "✨": [
+        "gwreichion", 
+        "seren"
+    ], 
+    "❌": [
+        "x", 
+        "marc croes", 
+        "canslo", 
+        "lluosi", 
+        "marc"
+    ], 
+    "❎": [
+        "botwm croes", 
+        "sgwâr", 
+        "marc"
+    ], 
+    "❓": [
+        "marc cwestiwn", 
+        "cwestiwn", 
+        "atalnodiad", 
+        "marc"
+    ], 
+    "❔": [
+        "amlinellol", 
+        "cwestiwn", 
+        "atalnodiad", 
+        "marc cwestiwn gwyn", 
+        "marc"
+    ], 
+    "❕": [
+        "ebychnod gwyn", 
+        "amlinelliad", 
+        "ebychnod", 
+        "atalnodiad", 
+        "marc"
+    ], 
+    "❗": [
+        "ebychnod", 
+        "atalnodiad", 
+        "marc"
+    ], 
+    "➕": [
+        "math", 
+        "arwydd adio trwm", 
+        "adio"
+    ], 
+    "➖": [
+        "math", 
+        "arwydd tynnu trwm", 
+        "tynnu"
+    ], 
+    "➗": [
+        "arwydd rhannu trwm", 
+        "rhannu", 
+        "math"
+    ], 
+    "➰": [
+        "cwrl", 
+        "dolen gyrliog", 
+        "dolen"
+    ], 
+    "➿": [
+        "cwrl", 
+        "dwbl", 
+        "dolen gyrliog ddwbl", 
+        "dolen"
+    ], 
+    "⬛": [
+        "sgwâr mawr du", 
+        "sgwâr", 
+        "geometrig"
+    ], 
+    "⬜": [
+        "sgwâr mawr wyn", 
+        "sgwâr", 
+        "geometrig"
+    ], 
+    "⭐": [
+        "seren ganolig wen", 
+        "seren"
+    ], 
+    "⭕": [
+        "cylch", 
+        "cylch mawr trwm", 
+        "o"
+    ], 
+    "🀄": [
+        "gêm", 
+        "mahjong", 
+        "draig goch mahjong", 
+        "coch"
+    ], 
+    "🃏": [
+        "chwarae", 
+        "gêm", 
+        "cellweiriwr", 
+        "cardiau"
+    ], 
+    "🆎": [
+        "gwaed", 
+        "ab", 
+        "botwm AB (grwp gwaed)"
+    ], 
+    "🆑": [
+        "botwm CL", 
+        "cl"
+    ], 
+    "🆒": [
+        "botwm COOL", 
+        "cool"
+    ], 
+    "🆓": [
+        "botwm FREE", 
+        "free"
+    ], 
+    "🆔": [
+        "adnabod", 
+        "botwm ID", 
+        "id"
+    ], 
+    "🆕": [
+        "botwm NEW", 
+        "newydd"
+    ], 
+    "🆖": [
+        "botwm NG", 
+        "ng"
+    ], 
+    "🆗": [
+        "ocê", 
+        "botwm OK"
+    ], 
+    "🆘": [
+        "sos", 
+        "help", 
+        "botwm SOS"
+    ], 
+    "🆙": [
+        "i fyny", 
+        "botwm UP!", 
+        "marc"
+    ], 
+    "🆚": [
+        "yn erbyn", 
+        "vs", 
+        "botwm VS"
+    ], 
+    "🇦🇨": [
+        "Ynys Ascension", 
+        "baner"
+    ], 
+    "🇦🇩": [
+        "Andorra", 
+        "baner"
+    ], 
+    "🇦🇪": [
+        "baner", 
+        "Emiradau Arabaidd Unedig"
+    ], 
+    "🇦🇫": [
+        "Afghanistan", 
+        "baner"
+    ], 
+    "🇦🇬": [
+        "baner", 
+        "Antigua a Barbuda"
+    ], 
+    "🇦🇮": [
+        "baner", 
+        "Anguilla"
+    ], 
+    "🇦🇱": [
+        "baner", 
+        "Albania"
+    ], 
+    "🇦🇲": [
+        "baner", 
+        "Armenia"
+    ], 
+    "🇦🇴": [
+        "baner", 
+        "Angola"
+    ], 
+    "🇦🇶": [
+        "Antarctica", 
+        "baner"
+    ], 
+    "🇦🇷": [
+        "baner", 
+        "Yr Ariannin"
+    ], 
+    "🇦🇸": [
+        "Samoa America", 
+        "baner"
+    ], 
+    "🇦🇹": [
+        "Awstria", 
+        "baner"
+    ], 
+    "🇦🇺": [
+        "baner", 
+        "Awstralia"
+    ], 
+    "🇦🇼": [
+        "baner", 
+        "Aruba"
+    ], 
+    "🇦🇽": [
+        "baner", 
+        "Ynysoedd Åland"
+    ], 
+    "🇦🇿": [
+        "baner", 
+        "Azerbaijan"
+    ], 
+    "🇧🇦": [
+        "Bosnia & Herzegovina", 
+        "baner"
+    ], 
+    "🇧🇧": [
+        "baner", 
+        "Barbados"
+    ], 
+    "🇧🇩": [
+        "baner", 
+        "Bangladesh"
+    ], 
+    "🇧🇪": [
+        "baner", 
+        "Gwlad Belg"
+    ], 
+    "🇧🇫": [
+        "baner", 
+        "Burkina Faso"
+    ], 
+    "🇧🇬": [
+        "baner", 
+        "Bwlgaria"
+    ], 
+    "🇧🇭": [
+        "Bahrain", 
+        "baner"
+    ], 
+    "🇧🇮": [
+        "Burundi", 
+        "baner"
+    ], 
+    "🇧🇯": [
+        "baner", 
+        "Benin"
+    ], 
+    "🇧🇱": [
+        "Saint Barthélemy", 
+        "baner"
+    ], 
+    "🇧🇲": [
+        "baner", 
+        "Bermuda"
+    ], 
+    "🇧🇳": [
+        "Brunei", 
+        "baner"
+    ], 
+    "🇧🇴": [
+        "baner", 
+        "Bolifia"
+    ], 
+    "🇧🇶": [
+        "baner", 
+        "Antilles yr Iseldiroedd"
+    ], 
+    "🇧🇷": [
+        "baner", 
+        "Brasil"
+    ], 
+    "🇧🇸": [
+        "Y Bahamas", 
+        "baner"
+    ], 
+    "🇧🇹": [
+        "baner", 
+        "Bhutan"
+    ], 
+    "🇧🇻": [
+        "Ynys Bouvet", 
+        "baner"
+    ], 
+    "🇧🇼": [
+        "baner", 
+        "Botswana"
+    ], 
+    "🇧🇾": [
+        "Belarws", 
+        "baner"
+    ], 
+    "🇧🇿": [
+        "Belize", 
+        "baner"
+    ], 
+    "🇨🇦": [
+        "Canada", 
+        "baner"
+    ], 
+    "🇨🇨": [
+        "baner", 
+        "Ynysoedd Cocos (Keeling)"
+    ], 
+    "🇨🇩": [
+        "baner", 
+        "Y Congo - Kinshasa"
+    ], 
+    "🇨🇫": [
+        "baner", 
+        "Gweriniaeth Canolbarth Affrica"
+    ], 
+    "🇨🇬": [
+        "baner", 
+        "Y Congo - Brazzaville"
+    ], 
+    "🇨🇭": [
+        "baner", 
+        "Y Swistir"
+    ], 
+    "🇨🇮": [
+        "Côte d’Ivoire", 
+        "baner"
+    ], 
+    "🇨🇰": [
+        "Ynysoedd Cook", 
+        "baner"
+    ], 
+    "🇨🇱": [
+        "baner", 
+        "Chile"
+    ], 
+    "🇨🇲": [
+        "baner", 
+        "Camerŵn"
+    ], 
+    "🇨🇳": [
+        "baner", 
+        "Tsieina"
+    ], 
+    "🇨🇴": [
+        "baner", 
+        "Colombia"
+    ], 
+    "🇨🇵": [
+        "Ynys Clipperton", 
+        "baner"
+    ], 
+    "🇨🇷": [
+        "baner", 
+        "Costa Rica"
+    ], 
+    "🇨🇺": [
+        "Ciwba", 
+        "baner"
+    ], 
+    "🇨🇻": [
+        "Cabo Verde", 
+        "baner"
+    ], 
+    "🇨🇼": [
+        "Curaçao", 
+        "baner"
+    ], 
+    "🇨🇽": [
+        "baner", 
+        "Ynys y Nadolig"
+    ], 
+    "🇨🇾": [
+        "baner", 
+        "Cyprus"
+    ], 
+    "🇨🇿": [
+        "baner", 
+        "Tsiecia"
+    ], 
+    "🇩🇪": [
+        "baner", 
+        "Yr Almaen"
+    ], 
+    "🇩🇬": [
+        "baner", 
+        "Diego Garcia"
+    ], 
+    "🇩🇯": [
+        "Djibouti", 
+        "baner"
+    ], 
+    "🇩🇰": [
+        "Denmarc", 
+        "baner"
+    ], 
+    "🇩🇲": [
+        "baner", 
+        "Dominica"
+    ], 
+    "🇩🇴": [
+        "Gweriniaeth Dominica", 
+        "baner"
+    ], 
+    "🇩🇿": [
+        "baner", 
+        "Algeria"
+    ], 
+    "🇪🇦": [
+        "baner", 
+        "Ceuta a Melilla"
+    ], 
+    "🇪🇨": [
+        "baner", 
+        "Ecuador"
+    ], 
+    "🇪🇪": [
+        "baner", 
+        "Estonia"
+    ], 
+    "🇪🇬": [
+        "baner", 
+        "Yr Aifft"
+    ], 
+    "🇪🇭": [
+        "Gorllewin Sahara", 
+        "baner"
+    ], 
+    "🇪🇷": [
+        "Eritrea", 
+        "baner"
+    ], 
+    "🇪🇸": [
+        "baner", 
+        "Sbaen"
+    ], 
+    "🇪🇹": [
+        "Ethiopia", 
+        "baner"
+    ], 
+    "🇪🇺": [
+        "Yr Undeb Ewropeaidd", 
+        "baner"
+    ], 
+    "🇫🇮": [
+        "Y Ffindir", 
+        "baner"
+    ], 
+    "🇫🇯": [
+        "baner", 
+        "Fiji"
+    ], 
+    "🇫🇰": [
+        "baner", 
+        "Ynysoedd y Falkland/Malvinas"
+    ], 
+    "🇫🇲": [
+        "baner", 
+        "Micronesia"
+    ], 
+    "🇫🇴": [
+        "baner", 
+        "Ynysoedd Ffaro"
+    ], 
+    "🇫🇷": [
+        "baner", 
+        "Ffrainc"
+    ], 
+    "🇬🇦": [
+        "baner", 
+        "Gabon"
+    ], 
+    "🇬🇧": [
+        "baner", 
+        "Y Deyrnas Unedig"
+    ], 
+    "🇬🇩": [
+        "Grenada", 
+        "baner"
+    ], 
+    "🇬🇪": [
+        "Georgia", 
+        "baner"
+    ], 
+    "🇬🇫": [
+        "Guyane Ffrengig", 
+        "baner"
+    ], 
+    "🇬🇬": [
+        "baner", 
+        "Ynys y Garn"
+    ], 
+    "🇬🇭": [
+        "Ghana", 
+        "baner"
+    ], 
+    "🇬🇮": [
+        "baner", 
+        "Gibraltar"
+    ], 
+    "🇬🇱": [
+        "Yr Ynys Las", 
+        "baner"
+    ], 
+    "🇬🇲": [
+        "Gambia", 
+        "baner"
+    ], 
+    "🇬🇳": [
+        "baner", 
+        "Guinée"
+    ], 
+    "🇬🇵": [
+        "baner", 
+        "Guadeloupe"
+    ], 
+    "🇬🇶": [
+        "Guinea Gyhydeddol", 
+        "baner"
+    ], 
+    "🇬🇷": [
+        "baner", 
+        "Gwlad Groeg"
+    ], 
+    "🇬🇸": [
+        "baner", 
+        "De Georgia ac Ynysoedd Sandwich y De"
+    ], 
+    "🇬🇹": [
+        "Guatemala", 
+        "baner"
+    ], 
+    "🇬🇺": [
+        "Guam", 
+        "baner"
+    ], 
+    "🇬🇼": [
+        "baner", 
+        "Guiné-Bissau"
+    ], 
+    "🇬🇾": [
+        "baner", 
+        "Guyana"
+    ], 
+    "🇭🇰": [
+        "baner", 
+        "Hong Kong RhGA Tsieina"
+    ], 
+    "🇭🇲": [
+        "baner", 
+        "Ynys Heard ac Ynysoedd McDonald"
+    ], 
+    "🇭🇳": [
+        "baner", 
+        "Honduras"
+    ], 
+    "🇭🇷": [
+        "baner", 
+        "Croatia"
+    ], 
+    "🇭🇹": [
+        "Haiti", 
+        "baner"
+    ], 
+    "🇭🇺": [
+        "baner", 
+        "Hwngari"
+    ], 
+    "🇮🇨": [
+        "Yr Ynysoedd Dedwydd", 
+        "baner"
+    ], 
+    "🇮🇩": [
+        "baner", 
+        "Indonesia"
+    ], 
+    "🇮🇪": [
+        "Iwerddon", 
+        "baner"
+    ], 
+    "🇮🇱": [
+        "Israel", 
+        "baner"
+    ], 
+    "🇮🇲": [
+        "Ynys Manaw", 
+        "baner"
+    ], 
+    "🇮🇳": [
+        "baner", 
+        "India"
+    ], 
+    "🇮🇴": [
+        "Tiriogaeth Brydeinig Cefnfor India", 
+        "baner"
+    ], 
+    "🇮🇶": [
+        "Irac", 
+        "baner"
+    ], 
+    "🇮🇷": [
+        "baner", 
+        "Iran"
+    ], 
+    "🇮🇸": [
+        "Gwlad yr Iâ", 
+        "baner"
+    ], 
+    "🇮🇹": [
+        "baner", 
+        "Yr Eidal"
+    ], 
+    "🇯🇪": [
+        "baner", 
+        "Jersey"
+    ], 
+    "🇯🇲": [
+        "Jamaica", 
+        "baner"
+    ], 
+    "🇯🇴": [
+        "baner", 
+        "Gwlad Iorddonen"
+    ], 
+    "🇯🇵": [
+        "Japan", 
+        "baner"
+    ], 
+    "🇰🇪": [
+        "Kenya", 
+        "baner"
+    ], 
+    "🇰🇬": [
+        "Kyrgyzstan", 
+        "baner"
+    ], 
+    "🇰🇭": [
+        "baner", 
+        "Cambodia"
+    ], 
+    "🇰🇮": [
+        "Kiribati", 
+        "baner"
+    ], 
+    "🇰🇲": [
+        "baner", 
+        "Comoros"
+    ], 
+    "🇰🇳": [
+        "Saint Kitts a Nevis", 
+        "baner"
+    ], 
+    "🇰🇵": [
+        "Gogledd Korea", 
+        "baner"
+    ], 
+    "🇰🇷": [
+        "De Korea", 
+        "baner"
+    ], 
+    "🇰🇼": [
+        "Kuwait", 
+        "baner"
+    ], 
+    "🇰🇾": [
+        "baner", 
+        "Ynysoedd Cayman"
+    ], 
+    "🇰🇿": [
+        "Kazakstan", 
+        "baner"
+    ], 
+    "🇱🇦": [
+        "baner", 
+        "Laos"
+    ], 
+    "🇱🇧": [
+        "baner", 
+        "Libanus"
+    ], 
+    "🇱🇨": [
+        "Saint Lucia", 
+        "baner"
+    ], 
+    "🇱🇮": [
+        "Liechtenstein", 
+        "baner"
+    ], 
+    "🇱🇰": [
+        "Sri Lanka", 
+        "baner"
+    ], 
+    "🇱🇷": [
+        "Liberia", 
+        "baner"
+    ], 
+    "🇱🇸": [
+        "Lesotho", 
+        "baner"
+    ], 
+    "🇱🇹": [
+        "baner", 
+        "Lithuania"
+    ], 
+    "🇱🇺": [
+        "baner", 
+        "Lwcsembwrg"
+    ], 
+    "🇱🇻": [
+        "baner", 
+        "Latfia"
+    ], 
+    "🇱🇾": [
+        "baner", 
+        "Libya"
+    ], 
+    "🇲🇦": [
+        "Moroco", 
+        "baner"
+    ], 
+    "🇲🇨": [
+        "baner", 
+        "Monaco"
+    ], 
+    "🇲🇩": [
+        "baner", 
+        "Moldofa"
+    ], 
+    "🇲🇪": [
+        "baner", 
+        "Montenegro"
+    ], 
+    "🇲🇫": [
+        "Saint Martin", 
+        "baner"
+    ], 
+    "🇲🇬": [
+        "Madagascar", 
+        "baner"
+    ], 
+    "🇲🇭": [
+        "baner", 
+        "Ynysoedd Marshall"
+    ], 
+    "🇲🇰": [
+        "baner", 
+        "Macedonia"
+    ], 
+    "🇲🇱": [
+        "baner", 
+        "Mali"
+    ], 
+    "🇲🇲": [
+        "baner", 
+        "Myanmar (Burma)"
+    ], 
+    "🇲🇳": [
+        "baner", 
+        "Mongolia"
+    ], 
+    "🇲🇴": [
+        "Macau RhGA Tsieina", 
+        "baner"
+    ], 
+    "🇲🇵": [
+        "baner", 
+        "Ynysoedd Gogledd Mariana"
+    ], 
+    "🇲🇶": [
+        "baner", 
+        "Martinique"
+    ], 
+    "🇲🇷": [
+        "Mauritania", 
+        "baner"
+    ], 
+    "🇲🇸": [
+        "baner", 
+        "Montserrat"
+    ], 
+    "🇲🇹": [
+        "baner", 
+        "Malta"
+    ], 
+    "🇲🇺": [
+        "Mauritius", 
+        "baner"
+    ], 
+    "🇲🇻": [
+        "Y Maldives", 
+        "baner"
+    ], 
+    "🇲🇼": [
+        "baner", 
+        "Malawi"
+    ], 
+    "🇲🇽": [
+        "baner", 
+        "Mecsico"
+    ], 
+    "🇲🇾": [
+        "Malaysia", 
+        "baner"
+    ], 
+    "🇲🇿": [
+        "baner", 
+        "Mozambique"
+    ], 
+    "🇳🇦": [
+        "baner", 
+        "Namibia"
+    ], 
+    "🇳🇨": [
+        "baner", 
+        "Caledonia Newydd"
+    ], 
+    "🇳🇪": [
+        "Niger", 
+        "baner"
+    ], 
+    "🇳🇫": [
+        "Ynys Norfolk", 
+        "baner"
+    ], 
+    "🇳🇬": [
+        "Nigeria", 
+        "baner"
+    ], 
+    "🇳🇮": [
+        "baner", 
+        "Nicaragua"
+    ], 
+    "🇳🇱": [
+        "baner", 
+        "Yr Iseldiroedd"
+    ], 
+    "🇳🇴": [
+        "baner", 
+        "Norwy"
+    ], 
+    "🇳🇵": [
+        "baner", 
+        "Nepal"
+    ], 
+    "🇳🇷": [
+        "Nauru", 
+        "baner"
+    ], 
+    "🇳🇺": [
+        "baner", 
+        "Niue"
+    ], 
+    "🇳🇿": [
+        "baner", 
+        "Seland Newydd"
+    ], 
+    "🇴🇲": [
+        "Oman", 
+        "baner"
+    ], 
+    "🇵🇦": [
+        "Panama", 
+        "baner"
+    ], 
+    "🇵🇪": [
+        "Periw", 
+        "baner"
+    ], 
+    "🇵🇫": [
+        "Polynesia Ffrengig", 
+        "baner"
+    ], 
+    "🇵🇬": [
+        "Papua Guinea Newydd", 
+        "baner"
+    ], 
+    "🇵🇭": [
+        "baner", 
+        "Y Philipinau"
+    ], 
+    "🇵🇰": [
+        "Pakistan", 
+        "baner"
+    ], 
+    "🇵🇱": [
+        "Gwlad Pwyl", 
+        "baner"
+    ], 
+    "🇵🇲": [
+        "baner", 
+        "Saint-Pierre-et-Miquelon"
+    ], 
+    "🇵🇳": [
+        "baner", 
+        "Ynysoedd Pitcairn"
+    ], 
+    "🇵🇷": [
+        "baner", 
+        "Puerto Rico"
+    ], 
+    "🇵🇸": [
+        "baner", 
+        "Tiriogaethau Palesteinaidd"
+    ], 
+    "🇵🇹": [
+        "Portiwgal", 
+        "baner"
+    ], 
+    "🇵🇼": [
+        "baner", 
+        "Palau"
+    ], 
+    "🇵🇾": [
+        "Paraguay", 
+        "baner"
+    ], 
+    "🇶🇦": [
+        "Qatar", 
+        "baner"
+    ], 
+    "🇷🇪": [
+        "baner", 
+        "Réunion"
+    ], 
+    "🇷🇴": [
+        "Rwmania", 
+        "baner"
+    ], 
+    "🇷🇸": [
+        "baner", 
+        "Serbia"
+    ], 
+    "🇷🇺": [
+        "baner", 
+        "Rwsia"
+    ], 
+    "🇷🇼": [
+        "baner", 
+        "Rwanda"
+    ], 
+    "🇸🇦": [
+        "Saudi Arabia", 
+        "baner"
+    ], 
+    "🇸🇧": [
+        "baner", 
+        "Ynysoedd Solomon"
+    ], 
+    "🇸🇨": [
+        "baner", 
+        "Seychelles"
+    ], 
+    "🇸🇩": [
+        "Swdan", 
+        "baner"
+    ], 
+    "🇸🇪": [
+        "Sweden", 
+        "baner"
+    ], 
+    "🇸🇬": [
+        "baner", 
+        "Singapore"
+    ], 
+    "🇸🇭": [
+        "baner", 
+        "Saint Helena"
+    ], 
+    "🇸🇮": [
+        "Slofenia", 
+        "baner"
+    ], 
+    "🇸🇯": [
+        "baner", 
+        "Svalbard a Jan Mayen"
+    ], 
+    "🇸🇰": [
+        "baner", 
+        "Slofacia"
+    ], 
+    "🇸🇱": [
+        "baner", 
+        "Sierra Leone"
+    ], 
+    "🇸🇲": [
+        "baner", 
+        "San Marino"
+    ], 
+    "🇸🇳": [
+        "Senegal", 
+        "baner"
+    ], 
+    "🇸🇴": [
+        "baner", 
+        "Somalia"
+    ], 
+    "🇸🇷": [
+        "baner", 
+        "Suriname"
+    ], 
+    "🇸🇸": [
+        "De Swdan", 
+        "baner"
+    ], 
+    "🇸🇹": [
+        "baner", 
+        "São Tomé a Príncipe"
+    ], 
+    "🇸🇻": [
+        "El Salvador", 
+        "baner"
+    ], 
+    "🇸🇽": [
+        "Sint Maarten", 
+        "baner"
+    ], 
+    "🇸🇾": [
+        "Syria", 
+        "baner"
+    ], 
+    "🇸🇿": [
+        "baner", 
+        "Gwlad Swazi"
+    ], 
+    "🇹🇦": [
+        "baner", 
+        "Tristan da Cunha"
+    ], 
+    "🇹🇨": [
+        "Ynysoedd Turks a Caicos", 
+        "baner"
+    ], 
+    "🇹🇩": [
+        "baner", 
+        "Tchad"
+    ], 
+    "🇹🇫": [
+        "baner", 
+        "Tiroedd Deheuol ac Antarctig Ffrainc"
+    ], 
+    "🇹🇬": [
+        "Togo", 
+        "baner"
+    ], 
+    "🇹🇭": [
+        "baner", 
+        "Gwlad Thai"
+    ], 
+    "🇹🇯": [
+        "baner", 
+        "Tajikistan"
+    ], 
+    "🇹🇰": [
+        "Tokelau", 
+        "baner"
+    ], 
+    "🇹🇱": [
+        "baner", 
+        "Timor-Leste"
+    ], 
+    "🇹🇲": [
+        "baner", 
+        "Turkmenistan"
+    ], 
+    "🇹🇳": [
+        "Tunisia", 
+        "baner"
+    ], 
+    "🇹🇴": [
+        "Tonga", 
+        "baner"
+    ], 
+    "🇹🇷": [
+        "Twrci", 
+        "baner"
+    ], 
+    "🇹🇹": [
+        "baner", 
+        "Trinidad a Tobago"
+    ], 
+    "🇹🇻": [
+        "Tuvalu", 
+        "baner"
+    ], 
+    "🇹🇼": [
+        "Taiwan", 
+        "baner"
+    ], 
+    "🇹🇿": [
+        "Tanzania", 
+        "baner"
+    ], 
+    "🇺🇦": [
+        "Wcráin", 
+        "baner"
+    ], 
+    "🇺🇬": [
+        "baner", 
+        "Uganda"
+    ], 
+    "🇺🇲": [
+        "baner", 
+        "Ynysoedd Pellennig UDA"
+    ], 
+    "🇺🇳": [
+        "baner", 
+        "y Cenhedloedd Unedig"
+    ], 
+    "🇺🇸": [
+        "baner", 
+        "Yr Unol Daleithiau"
+    ], 
+    "🇺🇾": [
+        "baner", 
+        "Uruguay"
+    ], 
+    "🇺🇿": [
+        "Uzbekistan", 
+        "baner"
+    ], 
+    "🇻🇦": [
+        "baner", 
+        "Y Fatican"
+    ], 
+    "🇻🇨": [
+        "baner", 
+        "Saint Vincent a’r Grenadines"
+    ], 
+    "🇻🇪": [
+        "baner", 
+        "Venezuela"
+    ], 
+    "🇻🇬": [
+        "Ynysoedd Gwyryf Prydain", 
+        "baner"
+    ], 
+    "🇻🇮": [
+        "baner", 
+        "Ynysoedd Gwyryf yr Unol Daleithiau"
+    ], 
+    "🇻🇳": [
+        "Fietnam", 
+        "baner"
+    ], 
+    "🇻🇺": [
+        "baner", 
+        "Vanuatu"
+    ], 
+    "🇼🇫": [
+        "baner", 
+        "Wallis a Futuna"
+    ], 
+    "🇼🇸": [
+        "baner", 
+        "Samoa"
+    ], 
+    "🇽🇰": [
+        "baner", 
+        "Kosovo"
+    ], 
+    "🇾🇪": [
+        "Yemen", 
+        "baner"
+    ], 
+    "🇾🇹": [
+        "Mayotte", 
+        "baner"
+    ], 
+    "🇿🇦": [
+        "baner", 
+        "De Affrica"
+    ], 
+    "🇿🇲": [
+        "Zambia", 
+        "baner"
+    ], 
+    "🇿🇼": [
+        "baner", 
+        "Zimbabwe"
+    ], 
+    "🈁": [
+        "katakana koko mewn sgwâr", 
+        "Japaneaidd"
+    ], 
+    "🈚": [
+        "ideograff negyddiad mewn sgwâr", 
+        "Japaneaidd"
+    ], 
+    "🈯": [
+        "ideograff bys mewn sgwâr", 
+        "Japaneaidd"
+    ], 
+    "🈲": [
+        "ideograff gwaharddiad mewn sgwâr", 
+        "Japaneaidd"
+    ], 
+    "🈳": [
+        "Tsieineaidd", 
+        "ideograff gwag mewn sgwâr"
+    ], 
+    "🈴": [
+        "Tsieineaidd", 
+        "ideograff gyda’i gilydd mewn sgwâr"
+    ], 
+    "🈵": [
+        "Tsieineaidd", 
+        "ideograff llawnder mewn sgwâr"
+    ], 
+    "🈶": [
+        "ideograff bodoli mewn sgwâr", 
+        "Japaneaidd"
+    ], 
+    "🈸": [
+        "Tsieineaidd", 
+        "ideograff cais mewn sgwâr"
+    ], 
+    "🈹": [
+        "ideograff rhannu mewn sgwâr", 
+        "Japaneaidd"
+    ], 
+    "🈺": [
+        "Tsieineaidd", 
+        "ideograff gweithredu mewn sgwâr"
+    ], 
+    "🉐": [
+        "ideograff mantais mewn cylch", 
+        "Japaneaidd"
+    ], 
+    "🉑": [
+        "Tsieineaidd", 
+        "ideograff derbyn mewn cylch"
+    ], 
+    "🌀": [
+        "tornado", 
+        "seiclon", 
+        "tywydd"
+    ], 
+    "🌁": [
+        "niwl", 
+        "niwlog", 
+        "tywydd"
+    ], 
+    "🌂": [
+        "dillad", 
+        "ymbarel", 
+        "ymbarel ar gau", 
+        "glaw", 
+        "tywydd"
+    ], 
+    "🌃": [
+        "tywydd", 
+        "noson â sêr", 
+        "seren", 
+        "nos"
+    ], 
+    "🌄": [
+        "codiad haul dros fynyddoedd", 
+        "bore", 
+        "mynydd", 
+        "haul", 
+        "codiad"
+    ], 
+    "🌅": [
+        "codiad haul", 
+        "haul", 
+        "tywydd"
+    ], 
+    "🌆": [
+        "bore", 
+        "dinaslun cyfnos", 
+        "haul", 
+        "tywydd"
+    ], 
+    "🌇": [
+        "dinas", 
+        "machlud haul", 
+        "cyfnos", 
+        "adeilad"
+    ], 
+    "🌈": [
+        "enfys", 
+        "glaw", 
+        "tywydd"
+    ], 
+    "🌉": [
+        "pont gyda’r nos", 
+        "pont", 
+        "tywydd", 
+        "nos"
+    ], 
+    "🌊": [
+        "ton", 
+        "cefnfor", 
+        "dŵr", 
+        "ton ddŵr", 
+        "tywydd"
+    ], 
+    "🌋": [
+        "echdoriad", 
+        "mynydd", 
+        "llosgfynydd", 
+        "tywydd"
+    ], 
+    "🌌": [
+        "y llwybr llaethog", 
+        "gofod", 
+        "tywydd"
+    ], 
+    "🌍": [
+        "y ddaear", 
+        "Affrica", 
+        "byd", 
+        "glôb yn dangos Ewrop-Affrica", 
+        "Ewrop"
+    ], 
+    "🌎": [
+        "y ddaear", 
+        "byd", 
+        "glôb yn dangos yr Americas", 
+        "americas"
+    ], 
+    "🌏": [
+        "y ddaear", 
+        "byd", 
+        "glôb yn dangos Asia-Awstralia", 
+        "Awstralia", 
+        "Asia"
+    ], 
+    "🌐": [
+        "y ddaear", 
+        "byd", 
+        "glôb gyda meridianau"
+    ], 
+    "🌑": [
+        "lleuad newydd", 
+        "tywydd", 
+        "gofod", 
+        "tywyllwch", 
+        "lleuad"
+    ], 
+    "🌒": [
+        "space", 
+        "lleuad gilgant ar ei chynnydd", 
+        "moon", 
+        "waxing", 
+        "weather", 
+        "crescent"
+    ], 
+    "🌓": [
+        "cilgant", 
+        "lleuad chwarter cyntaf", 
+        "gofod", 
+        "lleuad"
+    ], 
+    "🌔": [
+        "lleuad amgrwm ar ei chynnydd", 
+        "gofod", 
+        "chwarter", 
+        "lleuad"
+    ], 
+    "🌕": [
+        "lleuad lawn", 
+        "amgrwm", 
+        "gofod", 
+        "lleuad"
+    ], 
+    "🌖": [
+        "lleuad", 
+        "gofod", 
+        "lleuad amgrwm ar ei chil", 
+        "llawn"
+    ], 
+    "🌗": [
+        "amgrwm", 
+        "gofod", 
+        "lleuad chwarter olaf", 
+        "lleuad"
+    ], 
+    "🌘": [
+        "lleuad cilgant ar ei chil", 
+        "gofod", 
+        "chwarter", 
+        "lleuad"
+    ], 
+    "🌙": [
+        "cilgant", 
+        "gofod", 
+        "lleuad gilgant", 
+        "lleuad"
+    ], 
+    "🌚": [
+        "cilgant", 
+        "wyneb lleuad newydd", 
+        "gofod", 
+        "lleuad"
+    ], 
+    "🌛": [
+        "lleuad chwarter cyntaf gydag wyneb", 
+        "gofod", 
+        "wyneb", 
+        "chwarter", 
+        "lleuad"
+    ], 
+    "🌜": [
+        "lleuad chwarter olaf gydag wyneb", 
+        "gofod", 
+        "wyneb", 
+        "chwarter", 
+        "lleuad"
+    ], 
+    "🌝": [
+        "lleuad lawn gydag wyneb", 
+        "lleuad", 
+        "wyneb", 
+        "llachar", 
+        "llawn"
+    ], 
+    "🌞": [
+        "haul", 
+        "lleuad ag wyneb", 
+        "wyneb", 
+        "llachar", 
+        "tywydd"
+    ], 
+    "🌟": [
+        "pelydru", 
+        "disgleirio", 
+        "seren yn tywynnu", 
+        "tywynnu"
+    ], 
+    "🌠": [
+        "seren wib", 
+        "gofod", 
+        "gwibio", 
+        "syrthio"
+    ], 
+    "🌭": [
+        "selsigen mewn bynen", 
+        "frankfurter"
+    ], 
+    "🌮": [
+        "mecsicanaidd", 
+        "taco"
+    ], 
+    "🌯": [
+        "mecsicanaidd", 
+        "burrito"
+    ], 
+    "🌰": [
+        "castan", 
+        "planhigyn"
+    ], 
+    "🌱": [
+        "ifanc", 
+        "blodyn", 
+        "eginblanhigyn"
+    ], 
+    "🌲": [
+        "bythwyrdd", 
+        "planhigyn", 
+        "coeden"
+    ], 
+    "🌳": [
+        "coeden", 
+        "planhigyn", 
+        "coeden gollddail", 
+        "collddail"
+    ], 
+    "🌴": [
+        "coeden", 
+        "planhigyn", 
+        "palmwydden"
+    ], 
+    "🌵": [
+        "planhigyn", 
+        "cactws"
+    ], 
+    "🌷": [
+        "tiwlip", 
+        "planhigyn", 
+        "blodyn"
+    ], 
+    "🌸": [
+        "blodeuyn ceirios", 
+        "blodyn", 
+        "ceirios", 
+        "blodeuyn", 
+        "planhigyn"
+    ], 
+    "🌹": [
+        "planhigyn", 
+        "blodyn", 
+        "rhosyn"
+    ], 
+    "🌺": [
+        "planhigyn", 
+        "blodyn", 
+        "hibisgws"
+    ], 
+    "🌻": [
+        "haul", 
+        "blodyn", 
+        "blodyn haul"
+    ], 
+    "🌼": [
+        "blodyn", 
+        "planhigyn", 
+        "blodeuyn"
+    ], 
+    "🌽": [
+        "corn", 
+        "planhigyn", 
+        "tywysen o gorn", 
+        "tywysen"
+    ], 
+    "🌾": [
+        "ysgub o reis", 
+        "gronyn", 
+        "planhigyn", 
+        "reis"
+    ], 
+    "🌿": [
+        "deilen", 
+        "llysieuyn", 
+        "planhigyn"
+    ], 
+    "🍀": [
+        "deilen", 
+        "meillionen pedair deilen", 
+        "meillionen", 
+        "4", 
+        "pedwar"
+    ], 
+    "🍁": [
+        "deilen", 
+        "cwympo", 
+        "deilen masarnen", 
+        "masarnen"
+    ], 
+    "🍂": [
+        "deilen", 
+        "planhigyn", 
+        "cwympo", 
+        "deilen yn cwympo"
+    ], 
+    "🍃": [
+        "chwythu", 
+        "crynu", 
+        "planhigyn", 
+        "deilen yn crynu yn y gwynt", 
+        "deilen"
+    ], 
+    "🍄": [
+        "madarch", 
+        "planhigyn"
+    ], 
+    "🍅": [
+        "tomato", 
+        "llysieuyn", 
+        "planhigyn"
+    ], 
+    "🍆": [
+        "ŵylyst", 
+        "llysieuyn", 
+        "planhigyn"
+    ], 
+    "🍇": [
+        "grawnwin", 
+        "planhigyn", 
+        "ffrwyth"
+    ], 
+    "🍈": [
+        "melon", 
+        "planhigyn", 
+        "ffrwyth"
+    ], 
+    "🍉": [
+        "planhigyn", 
+        "ffrwyth", 
+        "melon dŵr"
+    ], 
+    "🍊": [
+        "oren", 
+        "planhigyn", 
+        "ffrwyth", 
+        "tanjerin"
+    ], 
+    "🍋": [
+        "sitrws", 
+        "planhigyn", 
+        "lemwn", 
+        "ffrwyth"
+    ], 
+    "🍌": [
+        "planhigyn", 
+        "banana", 
+        "ffrwyth"
+    ], 
+    "🍍": [
+        "planhigyn", 
+        "pinafal", 
+        "ffrwyth"
+    ], 
+    "🍎": [
+        "afal coch", 
+        "afal", 
+        "planhigyn", 
+        "ffrwyth", 
+        "coch"
+    ], 
+    "🍏": [
+        "gwyrdd", 
+        "afal", 
+        "planhigyn", 
+        "ffrwyth", 
+        "afal gwyrdd"
+    ], 
+    "🍐": [
+        "planhigyn", 
+        "ffrwyth", 
+        "peren"
+    ], 
+    "🍑": [
+        "planhigyn", 
+        "eirinen wlanog", 
+        "ffrwyth"
+    ], 
+    "🍒": [
+        "ceirios", 
+        "planhigyn", 
+        "ffrwyth"
+    ], 
+    "🍓": [
+        "mefus", 
+        "planhigyn", 
+        "aeronen", 
+        "ffrwyth"
+    ], 
+    "🍔": [
+        "byrgyr", 
+        "hambyrgyr"
+    ], 
+    "🍕": [
+        "caws", 
+        "darn", 
+        "pitsa"
+    ], 
+    "🍖": [
+        "cig", 
+        "asgwrn", 
+        "cig ar yr asgwrn"
+    ], 
+    "🍗": [
+        "cyw iâr", 
+        "coes", 
+        "ffowls", 
+        "asgwrn", 
+        "coes o ffowls"
+    ], 
+    "🍘": [
+        "cracer", 
+        "cracer reis", 
+        "reis"
+    ], 
+    "🍙": [
+        "pêl", 
+        "Japaneaidd", 
+        "pêl reis", 
+        "reis"
+    ], 
+    "🍚": [
+        "reis wedi’i goginio", 
+        "reis"
+    ], 
+    "🍛": [
+        "cyrri", 
+        "reis cyrri", 
+        "reis"
+    ], 
+    "🍜": [
+        "ramen", 
+        "bowlen yn stemio", 
+        "stêm", 
+        "bowl", 
+        "nwdl"
+    ], 
+    "🍝": [
+        "pasta", 
+        "sbageti"
+    ], 
+    "🍞": [
+        "bara", 
+        "torth"
+    ], 
+    "🍟": [
+        "sglodion"
+    ], 
+    "🍠": [
+        "tato", 
+        "melys", 
+        "taten felys wedi’i rostio", 
+        "rostio"
+    ], 
+    "🍡": [
+        "sgiwer", 
+        "Japaneaidd", 
+        "dango", 
+        "pwdin"
+    ], 
+    "🍢": [
+        "oden", 
+        "bwyd môr", 
+        "cebab", 
+        "sgiwer"
+    ], 
+    "🍣": [
+        "swshi"
+    ], 
+    "🍤": [
+        "berdysyn", 
+        "corgimwch", 
+        "berdysyn wedi’i ffrio"
+    ], 
+    "🍥": [
+        "pysgodyn", 
+        "cacen bysgod gyda chwyrlïad", 
+        "toes", 
+        "cacen"
+    ], 
+    "🍦": [
+        "hufen", 
+        "hufen iâ meddal", 
+        "meddal", 
+        "pwdin", 
+        "iâ"
+    ], 
+    "🍧": [
+        "hufen", 
+        "iâ wedi’i siafio", 
+        "pwdin", 
+        "melys", 
+        "iâ"
+    ], 
+    "🍨": [
+        "hufen iâ", 
+        "hufen", 
+        "melys", 
+        "pwdin", 
+        "iâ"
+    ], 
+    "🍩": [
+        "toesen", 
+        "melys", 
+        "pwdin"
+    ], 
+    "🍪": [
+        "melys", 
+        "pwdin", 
+        "bisgeden"
+    ], 
+    "🍫": [
+        "bar o siocled", 
+        "melys", 
+        "bar", 
+        "siocled"
+    ], 
+    "🍬": [
+        "melys", 
+        "pwdin", 
+        "losin"
+    ], 
+    "🍭": [
+        "melys", 
+        "lolipop", 
+        "pwdin", 
+        "losin"
+    ], 
+    "🍮": [
+        "cwstard", 
+        "melys", 
+        "pwdin"
+    ], 
+    "🍯": [
+        "pot mêl", 
+        "mêl", 
+        "melys"
+    ], 
+    "🍰": [
+        "cacen fer", 
+        "melys", 
+        "pwdin", 
+        "cacen"
+    ], 
+    "🍱": [
+        "bento", 
+        "bocs bento", 
+        "bocs"
+    ], 
+    "🍲": [
+        "llestr o fwyd", 
+        "stiw", 
+        "llestr"
+    ], 
+    "🍳": [
+        "ffrio", 
+        "wy", 
+        "padell", 
+        "coginio"
+    ], 
+    "🍴": [
+        "cyllell", 
+        "fforc", 
+        "fforc a chyllell", 
+        "coginio"
+    ], 
+    "🍵": [
+        "diod", 
+        "te", 
+        "cwpan te heb ddolen", 
+        "cwpan"
+    ], 
+    "🍶": [
+        "diod", 
+        "botel", 
+        "bar", 
+        "cwpan", 
+        "sake"
+    ], 
+    "🍷": [
+        "diod", 
+        "gwydr", 
+        "bar", 
+        "gwydr gwin", 
+        "gwin"
+    ], 
+    "🍸": [
+        "diod", 
+        "gwydr", 
+        "coctel", 
+        "gwydr coctel", 
+        "bar"
+    ], 
+    "🍹": [
+        "diod", 
+        "diod drofannol", 
+        "trofannol", 
+        "bar"
+    ], 
+    "🍺": [
+        "diod", 
+        "mwg", 
+        "cwrw", 
+        "bar", 
+        "mwg cwrw"
+    ], 
+    "🍻": [
+        "diod", 
+        "cwrw", 
+        "bar", 
+        "mygiau cwrw yn clincian"
+    ], 
+    "🍼": [
+        "babi", 
+        "botel", 
+        "botel babi", 
+        "llaeth", 
+        "diod"
+    ], 
+    "🍾": [
+        "corcyn", 
+        "botel", 
+        "potel gyda chorcyn yn popian", 
+        "bar", 
+        "diod"
+    ], 
+    "🍿": [
+        "pop gorn"
+    ], 
+    "🎀": [
+        "dathliad", 
+        "rhuban"
+    ], 
+    "🎁": [
+        "anrheg", 
+        "dathliad", 
+        "anrheg wedi’i lapio", 
+        "bocs"
+    ], 
+    "🎂": [
+        "parti", 
+        "pen-blwydd", 
+        "dathliad", 
+        "cacen pen-blwydd", 
+        "cacen"
+    ], 
+    "🎃": [
+        "calan gaeaf", 
+        "dathliad", 
+        "jack-o-lantern", 
+        "llusern"
+    ], 
+    "🎄": [
+        "coeden", 
+        "dathliad", 
+        "coeden nadolig", 
+        "nadolig"
+    ], 
+    "🎅": [
+        "dathliad", 
+        "Siôn Corn", 
+        "santa", 
+        "Nadolig"
+    ], 
+    "🎆": [
+        "dathliad", 
+        "tân gwyllt"
+    ], 
+    "🎇": [
+        "tân gwyllt", 
+        "dathliad", 
+        "ffon wreichion", 
+        "gwreichion"
+    ], 
+    "🎈": [
+        "dathliad", 
+        "balŵn"
+    ], 
+    "🎉": [
+        "parti", 
+        "dathliad", 
+        "tada", 
+        "popiwr", 
+        "popiwr parti"
+    ], 
+    "🎊": [
+        "conffeti", 
+        "pêl", 
+        "dathliad", 
+        "pelen gonffeti"
+    ], 
+    "🎋": [
+        "dathliad", 
+        "coeden tanabata", 
+        "coeden", 
+        "baner", 
+        "Japaneaidd"
+    ], 
+    "🎌": [
+        "â chroesau", 
+        "dathliad", 
+        "croes", 
+        "Japaneaidd", 
+        "baneri â chroesau"
+    ], 
+    "🎍": [
+        "bambŵ", 
+        "dathliad", 
+        "planhigyn", 
+        "pinwydden", 
+        "addurn pinwydden"
+    ], 
+    "🎎": [
+        "doli", 
+        "dathliad", 
+        "doliau Japaneaidd", 
+        "Japaneaidd"
+    ], 
+    "🎏": [
+        "dathliad", 
+        "baner y carp", 
+        "carp", 
+        "baner"
+    ], 
+    "🎐": [
+        "gwynt", 
+        "dathliad", 
+        "clychsain", 
+        "cloch", 
+        "clychsain wynt"
+    ], 
+    "🎑": [
+        "seremoni", 
+        "dathliad", 
+        "seremoni’r lleuad", 
+        "lleuad"
+    ], 
+    "🎒": [
+        "bag ysgol", 
+        "bag", 
+        "ysgol"
+    ], 
+    "🎓": [
+        "dillad", 
+        "cap graddio", 
+        "cap", 
+        "dathlu", 
+        "het"
+    ], 
+    "🎠": [
+        "ceffyl", 
+        "carwsél", 
+        "ceffyl carwsél"
+    ], 
+    "🎡": [
+        "olwyn fawr", 
+        "olwyn", 
+        "parc diddanu"
+    ], 
+    "🎢": [
+        "cert sglefrio", 
+        "cert", 
+        "parc diddanu", 
+        "sglefrio"
+    ], 
+    "🎣": [
+        "polyn pysgota", 
+        "pysgodyn", 
+        "polyn"
+    ], 
+    "🎤": [
+        "meic", 
+        "caraoce", 
+        "meicroffon"
+    ], 
+    "🎥": [
+        "camera ffilm", 
+        "ffilm", 
+        "camera", 
+        "sinema"
+    ], 
+    "🎦": [
+        "ffilm", 
+        "camera", 
+        "sinema"
+    ], 
+    "🎧": [
+        "clustffon"
+    ], 
+    "🎨": [
+        "palet arlunydd", 
+        "celf", 
+        "amgueddfa", 
+        "paentiad"
+    ], 
+    "🎩": [
+        "dillad", 
+        "het", 
+        "het silc"
+    ], 
+    "🎪": [
+        "tent syrcas", 
+        "tent", 
+        "syrcas"
+    ], 
+    "🎫": [
+        "mynediad", 
+        "tocyn"
+    ], 
+    "🎬": [
+        "ffilm", 
+        "clepiwr"
+    ], 
+    "🎭": [
+        "celf", 
+        "perfformiadol", 
+        "celfyddydau perfformiadol", 
+        "theatr", 
+        "mwgwd"
+    ], 
+    "🎮": [
+        "gêm", 
+        "gêm fideo", 
+        "rheolydd"
+    ], 
+    "🎯": [
+        "gêm", 
+        "tarw", 
+        "llygad", 
+        "ergyd uniongyrchol", 
+        "targed"
+    ], 
+    "🎰": [
+        "slot", 
+        "gêm", 
+        "peiriant slot"
+    ], 
+    "🎱": [
+        "biliards", 
+        "gêm", 
+        "wyth"
+    ], 
+    "🎲": [
+        "gêm", 
+        "dis"
+    ], 
+    "🎳": [
+        "gêm", 
+        "bowlio", 
+        "pêl"
+    ], 
+    "🎴": [
+        "blodyn", 
+        "cardiau chwarae blodau", 
+        "cardiau", 
+        "Japaneaidd"
+    ], 
+    "🎵": [
+        "nodyn cerddorol", 
+        "nodyn", 
+        "cerddoriaeth"
+    ], 
+    "🎶": [
+        "nodau cerddorol", 
+        "nodyn", 
+        "cerddoriaeth"
+    ], 
+    "🎷": [
+        "offeryn", 
+        "sacsoffon", 
+        "cerddoriaeth", 
+        "sacs"
+    ], 
+    "🎸": [
+        "offeyrn", 
+        "cerddoriaeth", 
+        "gitâr"
+    ], 
+    "🎹": [
+        "cerddoriaeth", 
+        "piano", 
+        "allweddell", 
+        "offeryn"
+    ], 
+    "🎺": [
+        "offeryn", 
+        "cerddoriaeth", 
+        "trwmped"
+    ], 
+    "🎻": [
+        "ffidl", 
+        "offeryn", 
+        "cerddoriaeth"
+    ], 
+    "🎼": [
+        "sgôr cerddorol", 
+        "sgôr", 
+        "cerddoriaeth"
+    ], 
+    "🎽": [
+        "crys rhedeg", 
+        "rhedeg", 
+        "sash", 
+        "crys"
+    ], 
+    "🎾": [
+        "pêl", 
+        "raced", 
+        "tenis"
+    ], 
+    "🎿": [
+        "sgi", 
+        "sgîs", 
+        "eira"
+    ], 
+    "🏀": [
+        "cylch", 
+        "pêl", 
+        "pêl fasged"
+    ], 
+    "🏁": [
+        "baner frith", 
+        "frith", 
+        "rasio", 
+        "sgwariog"
+    ], 
+    "🏂": [
+        "sgi", 
+        "eirafyrddiwr", 
+        "eira", 
+        "eirafyrddio"
+    ], 
+    "🏃": [
+        "person yn rhedeg", 
+        "rhedeg", 
+        "marathon"
+    ], 
+    "🏄": [
+        "syrffio", 
+        "person yn syrffio"
+    ], 
+    "🏅": [
+        "medal", 
+        "medal chwaraeon"
+    ], 
+    "🏆": [
+        "tlws", 
+        "gwobr"
+    ], 
+    "🏇": [
+        "ceffyl", 
+        "rasio", 
+        "joci", 
+        "rasio ceffylau"
+    ], 
+    "🏈": [
+        "americanaidd", 
+        "pêl", 
+        "pêl droed Americanaidd", 
+        "pêl droed"
+    ], 
+    "🏉": [
+        "rygbi", 
+        "pêl", 
+        "pêl rygbi", 
+        "pêl droed"
+    ], 
+    "🏊": [
+        "person yn nofio", 
+        "nofio"
+    ], 
+    "🏏": [
+        "gêm", 
+        "bat", 
+        "criced", 
+        "pêl"
+    ], 
+    "🏐": [
+        "gêm", 
+        "pêl-foli", 
+        "pêl"
+    ], 
+    "🏑": [
+        "chwarae", 
+        "pêl", 
+        "hoci cae", 
+        "cae", 
+        "hoci"
+    ], 
+    "🏒": [
+        "hoci", 
+        "cnap a ffon hoci iâ", 
+        "ffon", 
+        "iâ", 
+        "gêm"
+    ], 
+    "🏓": [
+        "gêm", 
+        "bat", 
+        "tenis", 
+        "ping-pong", 
+        "pêl"
+    ], 
+    "🏠": [
+        "cartref", 
+        "tŷ", 
+        "adeilad"
+    ], 
+    "🏡": [
+        "tŷ gyda gardd", 
+        "cartref", 
+        "gardd", 
+        "adeilad"
+    ], 
+    "🏢": [
+        "adeilad o swyddfa", 
+        "adeilad"
+    ], 
+    "🏣": [
+        "swyddfa bost Japaneaidd", 
+        "post", 
+        "Japaneaidd", 
+        "adeilad"
+    ], 
+    "🏤": [
+        "swyddfa bost", 
+        "post", 
+        "Ewropeaidd", 
+        "adeilad"
+    ], 
+    "🏥": [
+        "ysbyty", 
+        "meddyg", 
+        "adeilad"
+    ], 
+    "🏦": [
+        "banc", 
+        "adeilad"
+    ], 
+    "🏧": [
+        "clerc", 
+        "arwydd peiriant codi arian", 
+        "banc", 
+        "awtomataidd", 
+        "atm"
+    ], 
+    "🏨": [
+        "gwesty", 
+        "adeilad"
+    ], 
+    "🏩": [
+        "gwesty cariad", 
+        "gwesty", 
+        "cariad", 
+        "adeilad"
+    ], 
+    "🏪": [
+        "siop", 
+        "cyfleus", 
+        "siop gyfleus", 
+        "adeilad"
+    ], 
+    "🏫": [
+        "ysgol", 
+        "adeilad"
+    ], 
+    "🏬": [
+        "siop", 
+        "siop adrannol", 
+        "adran", 
+        "adeilad"
+    ], 
+    "🏭": [
+        "ffatri", 
+        "adeilad"
+    ], 
+    "🏮": [
+        "llusern bapur coch", 
+        "llusern", 
+        "bar", 
+        "Japaneaidd", 
+        "coch"
+    ], 
+    "🏯": [
+        "castell Japaneaidd", 
+        "Japaneaidd", 
+        "castell", 
+        "adeilad"
+    ], 
+    "🏰": [
+        "Ewropeaidd", 
+        "castell", 
+        "adeilad"
+    ], 
+    "🏴": [
+        "chwifio baner ddu", 
+        "chwifio"
+    ], 
+    "🏸": [
+        "gêm", 
+        "badminton", 
+        "raced"
+    ], 
+    "🏹": [
+        "bwa", 
+        "sidydd", 
+        "saeth", 
+        "bwa saeth", 
+        "saethwr"
+    ], 
+    "🏺": [
+        "diod", 
+        "llestri", 
+        "jwg", 
+        "coginio"
+    ], 
+    "🏻": [
+        "arlliw croen golau", 
+        "lliw croen"
+    ], 
+    "🏼": [
+        "arlliw croen canolig-golau", 
+        "lliw croen"
+    ], 
+    "🏽": [
+        "lliw croen", 
+        "arlliw croen canolog"
+    ], 
+    "🏾": [
+        "arlliw croen canolig-tywyll", 
+        "lliw croen"
+    ], 
+    "🏿": [
+        "arlliw croen tywyll", 
+        "lliw croen"
+    ], 
+    "🐀": [
+        "llygoden fawr"
+    ], 
+    "🐁": [
+        "llygoden"
+    ], 
+    "🐂": [
+        "ych", 
+        "tarw"
+    ], 
+    "🐃": [
+        "byfflo", 
+        "dŵr", 
+        "byfflo dwr"
+    ], 
+    "🐄": [
+        "buwch"
+    ], 
+    "🐅": [
+        "teigr"
+    ], 
+    "🐆": [
+        "llewpard"
+    ], 
+    "🐇": [
+        "bwni", 
+        "anifail anwes", 
+        "cwningen"
+    ], 
+    "🐈": [
+        "cath", 
+        "anifail anwes"
+    ], 
+    "🐉": [
+        "stori tylwyth teg", 
+        "draig"
+    ], 
+    "🐊": [
+        "crocodeil"
+    ], 
+    "🐋": [
+        "morfil"
+    ], 
+    "🐌": [
+        "malwoden"
+    ], 
+    "🐍": [
+        "ophiuchus", 
+        "neidr"
+    ], 
+    "🐎": [
+        "ceffyl", 
+        "ras"
+    ], 
+    "🐏": [
+        "hwrdd", 
+        "dafad"
+    ], 
+    "🐐": [
+        "gafr"
+    ], 
+    "🐑": [
+        "dafad"
+    ], 
+    "🐒": [
+        "mwnci"
+    ], 
+    "🐓": [
+        "ceiliog"
+    ], 
+    "🐔": [
+        "iâr"
+    ], 
+    "🐕": [
+        "ci", 
+        "anifail anwes"
+    ], 
+    "🐖": [
+        "mochyn", 
+        "hwch"
+    ], 
+    "🐗": [
+        "baedd", 
+        "mochyn"
+    ], 
+    "🐘": [
+        "eliffant"
+    ], 
+    "🐙": [
+        "octopws"
+    ], 
+    "🐚": [
+        "cragen", 
+        "cragen droellog", 
+        "troellog"
+    ], 
+    "🐛": [
+        "chwilen"
+    ], 
+    "🐜": [
+        "chwilen", 
+        "morgrugyn"
+    ], 
+    "🐝": [
+        "chwilen", 
+        "gwenynen"
+    ], 
+    "🐞": [
+        "chwilen y wraig", 
+        "chwilen"
+    ], 
+    "🐟": [
+        "pysgodyn", 
+        "pysgod"
+    ], 
+    "🐠": [
+        "trofannol", 
+        "pysgodyn", 
+        "pysgod trofannol"
+    ], 
+    "🐡": [
+        "pysgod", 
+        "chwydd bysgodyn"
+    ], 
+    "🐢": [
+        "crwban y môr"
+    ], 
+    "🐣": [
+        "babi", 
+        "deor", 
+        "cyw", 
+        "deoriad cywion"
+    ], 
+    "🐤": [
+        "babi", 
+        "cyw bach", 
+        "cyw"
+    ], 
+    "🐥": [
+        "babi", 
+        "cyw", 
+        "cyw iâr yn blaen-wynebu"
+    ], 
+    "🐦": [
+        "aderyn"
+    ], 
+    "🐧": [
+        "pengwin"
+    ], 
+    "🐨": [
+        "arth", 
+        "coala"
+    ], 
+    "🐩": [
+        "ci", 
+        "pwdl"
+    ], 
+    "🐪": [
+        "dromedari", 
+        "twmpath", 
+        "camel"
+    ], 
+    "🐫": [
+        "camel dau dwmpath", 
+        "bactriaidd", 
+        "twmpath", 
+        "camel"
+    ], 
+    "🐬": [
+        "flipper", 
+        "dolffin"
+    ], 
+    "🐭": [
+        "llygoden", 
+        "wyneb", 
+        "wyneb llygoden"
+    ], 
+    "🐮": [
+        "wyneb", 
+        "buwch", 
+        "wyneb buwch"
+    ], 
+    "🐯": [
+        "teigr", 
+        "wyneb teigr", 
+        "wyneb"
+    ], 
+    "🐰": [
+        "bwni", 
+        "anifail anwes", 
+        "cwningen", 
+        "wyneb", 
+        "wyneb cwningen"
+    ], 
+    "🐱": [
+        "cath", 
+        "anifail anwes", 
+        "wyneb", 
+        "wyneb cath"
+    ], 
+    "🐲": [
+        "draig", 
+        "wyneb draig", 
+        "wyneb"
+    ], 
+    "🐳": [
+        "morfil", 
+        "dŵr", 
+        "morfil yn chwythu dŵr", 
+        "wyneb"
+    ], 
+    "🐴": [
+        "ceffyl", 
+        "wyneb ceffyl", 
+        "wyneb"
+    ], 
+    "🐵": [
+        "wyneb mwnci", 
+        "wyneb", 
+        "mwnci"
+    ], 
+    "🐶": [
+        "wyneb ci", 
+        "ci", 
+        "anifail anwes", 
+        "wyneb"
+    ], 
+    "🐷": [
+        "wyneb", 
+        "mochyn", 
+        "wyneb mochyn"
+    ], 
+    "🐸": [
+        "gwyneb", 
+        "wyneb broga", 
+        "broga"
+    ], 
+    "🐹": [
+        "anifail anwes", 
+        "wyneb bochdew", 
+        "wyneb", 
+        "bochdew"
+    ], 
+    "🐺": [
+        "wyneb blaidd", 
+        "blaidd", 
+        "wyneb"
+    ], 
+    "🐻": [
+        "arth", 
+        "wyneb arth", 
+        "wyneb"
+    ], 
+    "🐼": [
+        "wyneb panda", 
+        "panda", 
+        "wyneb"
+    ], 
+    "🐽": [
+        "trwyn mochyn", 
+        "trwyn", 
+        "wyneb", 
+        "mochyn"
+    ], 
+    "🐾": [
+        "olion", 
+        "pawen", 
+        "olion pawen", 
+        "traed"
+    ], 
+    "👀": [
+        "corff", 
+        "llygad", 
+        "wyneb", 
+        "llygaid"
+    ], 
+    "👂": [
+        "corff", 
+        "clust"
+    ], 
+    "👃": [
+        "corff", 
+        "trwyn"
+    ], 
+    "👄": [
+        "ceg", 
+        "corff", 
+        "gwefusau"
+    ], 
+    "👅": [
+        "corff", 
+        "tafod"
+    ], 
+    "👆": [
+        "gwrthlaw", 
+        "corff", 
+        "bys", 
+        "mynegfys", 
+        "mynegfys yr wrthlaw yn pwyntio i fyny"
+    ], 
+    "👇": [
+        "gwrthlaw", 
+        "corff", 
+        "bys", 
+        "mynegfys", 
+        "mynegfys yr wrthlaw yn pwyntio i lawr"
+    ], 
+    "👈": [
+        "gwrthlaw", 
+        "corff", 
+        "mynegfys yr wrthlaw yn pwyntio i’r chwith", 
+        "bys", 
+        "llaw"
+    ], 
+    "👉": [
+        "gwrthlaw", 
+        "corff", 
+        "mynegfys yr wrthlaw yn pwyntio i’r dde", 
+        "bys", 
+        "llaw"
+    ], 
+    "👊": [
+        "llaw", 
+        "corff", 
+        "dwrn", 
+        "dwrn yn agosáu", 
+        "cau"
+    ], 
+    "👋": [
+        "llaw", 
+        "corff", 
+        "chwifio", 
+        "llaw yn chwifio"
+    ], 
+    "👌": [
+        "llaw", 
+        "corff", 
+        "llaw ocê", 
+        "ok"
+    ], 
+    "👍": [
+        "bys bawd i fyny", 
+        "bys bawd", 
+        "ok", 
+        "corff"
+    ], 
+    "👎": [
+        "llaw", 
+        "corff", 
+        "i lawr", 
+        "bys bawd", 
+        "bys bawd i lawr"
+    ], 
+    "👏": [
+        "dwylo yn curo", 
+        "corff", 
+        "llaw", 
+        "curo"
+    ], 
+    "👐": [
+        "llaw", 
+        "corff", 
+        "dwylo agored", 
+        "agored"
+    ], 
+    "👑": [
+        "dillad", 
+        "brenin", 
+        "brenhines", 
+        "coron"
+    ], 
+    "👒": [
+        "dillad", 
+        "het", 
+        "het fenyw", 
+        "menyw"
+    ], 
+    "👓": [
+        "llygad", 
+        "sbectol"
+    ], 
+    "👔": [
+        "dillad", 
+        "tei"
+    ], 
+    "👕": [
+        "dillad", 
+        "crys T", 
+        "crys"
+    ], 
+    "👖": [
+        "dillad", 
+        "jîns", 
+        "trwser"
+    ], 
+    "👗": [
+        "dillad", 
+        "ffrog"
+    ], 
+    "👘": [
+        "dillad", 
+        "cimono"
+    ], 
+    "👙": [
+        "dillad", 
+        "bicini", 
+        "nofio"
+    ], 
+    "👚": [
+        "dillad", 
+        "dillad menywod", 
+        "menyw"
+    ], 
+    "👛": [
+        "darn arian", 
+        "dillad", 
+        "pwrs"
+    ], 
+    "👜": [
+        "dillad", 
+        "bag", 
+        "bag llaw"
+    ], 
+    "👝": [
+        "dillad", 
+        "bag", 
+        "cwd"
+    ], 
+    "👞": [
+        "dillad", 
+        "esgid", 
+        "dyn", 
+        "esgid dyn"
+    ], 
+    "👟": [
+        "dillad", 
+        "esgid", 
+        "rhedeg", 
+        "esgidiau rhedeg", 
+        "athletig"
+    ], 
+    "👠": [
+        "dillad", 
+        "esgid", 
+        "sawdl", 
+        "esgidiau sodlau uchel", 
+        "menyw"
+    ], 
+    "👡": [
+        "dillad", 
+        "esgid", 
+        "sandal", 
+        "sandal menyw", 
+        "menyw"
+    ], 
+    "👢": [
+        "dillad", 
+        "esgid", 
+        "esgid fenyw", 
+        "menyw"
+    ], 
+    "👣": [
+        "corff", 
+        "dilledyn", 
+        "olion traed"
+    ], 
+    "👤": [
+        "bron", 
+        "bron mewn silwét", 
+        "silwét"
+    ], 
+    "👥": [
+        "bron", 
+        "silwét", 
+        "bronnau mewn silwét"
+    ], 
+    "👦": [
+        "bachgen", 
+        "gwrywaidd"
+    ], 
+    "👧": [
+        "benywaidd", 
+        "merch", 
+        "morwyn"
+    ], 
+    "👨": [
+        "dyn", 
+        "gwrywaidd"
+    ], 
+    "👨‍🌾": [
+        "garddwr", 
+        "dyn", 
+        "gwrywaidd", 
+        "ffermwr"
+    ], 
+    "👨‍🍳": [
+        "cogydd", 
+        "dyn", 
+        "gwrywaidd", 
+        "coginio"
+    ], 
+    "👨‍🎓": [
+        "dyn", 
+        "gwrywaidd", 
+        "myfyriwr", 
+        "graddio"
+    ], 
+    "👨‍🎤": [
+        "dyn", 
+        "cantor", 
+        "adlonni", 
+        "actor"
+    ], 
+    "👨‍🎨": [
+        "palet", 
+        "dyn", 
+        "arlunydd"
+    ], 
+    "👨‍🏫": [
+        "dyn", 
+        "gwrywaidd", 
+        "athro", 
+        "hyfforddwr"
+    ], 
+    "👨‍🏭": [
+        "cydosod", 
+        "gweithiwr ffatri", 
+        "dyn", 
+        "ffatri", 
+        "diwydiant"
+    ], 
+    "👨‍👦": [
+        "teulu: dyn, bachgen", 
+        "bachgen", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👦‍👦": [
+        "bachgen", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "teulu: dyn, bachgen, bachgen", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👧": [
+        "merch", 
+        "teulu: dyn, merch", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👧‍👦": [
+        "merch", 
+        "bachgen", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "teulu: dyn, merch, bachgen", 
+        "mam"
+    ], 
+    "👨‍👧‍👧": [
+        "merch", 
+        "teulu: dyn, merch, merch", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👨‍👦": [
+        "bachgen", 
+        "teulu: dyn, dyn, bachgen", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👨‍👦‍👦": [
+        "teulu: dyn, dyn, bachgen, bachgen", 
+        "bachgen", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👨‍👧": [
+        "merch", 
+        "teulu: dyn, dyn, merch", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👨‍👧‍👦": [
+        "merch", 
+        "bachgen", 
+        "teulu: dyn, dyn, merch, bachgen", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👨‍👧‍👧": [
+        "merch", 
+        "dyn", 
+        "tad", 
+        "teulu", 
+        "teulu: dyn, dyn, merch, merch", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👩‍👦": [
+        "bachgen", 
+        "teulu: dyn, menyw, bachgen", 
+        "dyn", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👩‍👦‍👦": [
+        "bachgen", 
+        "dyn", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "teulu: dyn, menyw, bachgen, bachgen", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👩‍👧": [
+        "merch", 
+        "dyn", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "teulu: dyn, menyw, merch", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👩‍👧‍👦": [
+        "merch", 
+        "bachgen", 
+        "dyn", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "teulu: dyn, menyw, merch, bachgen", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👨‍👩‍👧‍👧": [
+        "merch", 
+        "dyn", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam", 
+        "teulu: dyn, menyw, merch, merch"
+    ], 
+    "👨‍💻": [
+        "dyn", 
+        "dyfeisio", 
+        "technolegwr", 
+        "datblygydd", 
+        "codydd"
+    ], 
+    "👨‍💼": [
+        "swyddfa", 
+        "busnes", 
+        "pensaer", 
+        "dyn", 
+        "gweithiwr swyddfa gwrywaidd"
+    ], 
+    "👨‍🔧": [
+        "peiriannydd", 
+        "peiriannydd gwrywaidd", 
+        "dyn", 
+        "trydanwr", 
+        "plymwr"
+    ], 
+    "👨‍🔬": [
+        "biolegydd", 
+        "gwyddonydd", 
+        "dyn", 
+        "cemegydd"
+    ], 
+    "👨‍🚀": [
+        "gofodwr", 
+        "dyn", 
+        "gofod", 
+        "roced"
+    ], 
+    "👨‍🚒": [
+        "dyn", 
+        "dyn tân", 
+        "lori tân"
+    ], 
+    "👩": [
+        "benywaidd", 
+        "menyw"
+    ], 
+    "👩‍🌾": [
+        "benywaidd", 
+        "ffarmwraig", 
+        "menyw", 
+        "garddio", 
+        "ffermio"
+    ], 
+    "👩‍🍳": [
+        "benywaidd", 
+        "cogydd", 
+        "menyw", 
+        "cogyddes", 
+        "coginio"
+    ], 
+    "👩‍🎓": [
+        "benywaidd", 
+        "menyw", 
+        "myfyrwraig", 
+        "graddio"
+    ], 
+    "👩‍🎤": [
+        "menyw", 
+        "adlonni", 
+        "actor", 
+        "cantores"
+    ], 
+    "👩‍🎨": [
+        "palet", 
+        "arlunwraig", 
+        "benyw"
+    ], 
+    "👩‍🏫": [
+        "benywaidd", 
+        "menyw", 
+        "hyfforddwraig", 
+        "athrawes"
+    ], 
+    "👩‍🏭": [
+        "cydosod", 
+        "ffatri", 
+        "gweithwraig ffatri", 
+        "diwydiant", 
+        "benyw"
+    ], 
+    "👩‍👦": [
+        "bachgen", 
+        "teulu: menyw, bachgen", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👦‍👦": [
+        "bachgen", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "teulu: menyw, bachgen, bachgen", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👧": [
+        "merch", 
+        "teulu: menyw, merch", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👧‍👦": [
+        "teulu: menyw, merch, bachgen", 
+        "merch", 
+        "bachgen", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👧‍👧": [
+        "merch", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "teulu: menyw, merch, merch", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👩‍👦": [
+        "bachgen", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam", 
+        "teulu: menyw, menyw, bachgen"
+    ], 
+    "👩‍👩‍👦‍👦": [
+        "bachgen", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "teulu: menyw, menyw, bachgen, bachgen", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👩‍👧": [
+        "merch", 
+        "teulu: menyw, menyw, merch", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👩‍👧‍👦": [
+        "merch", 
+        "bachgen", 
+        "teulu: menyw, menyw, merch, bachgen", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍👩‍👧‍👧": [
+        "merch", 
+        "teulu: menyw, menyw, merch, merch", 
+        "tad", 
+        "menyw", 
+        "teulu", 
+        "plentyn", 
+        "mam"
+    ], 
+    "👩‍💻": [
+        "menyw", 
+        "dyfeisio", 
+        "datblygydd", 
+        "codydd", 
+        "technolegwraig"
+    ], 
+    "👩‍💼": [
+        "menyw", 
+        "busnes", 
+        "swyddfa", 
+        "gweithiwr swyddfa benywaidd", 
+        "pensaer"
+    ], 
+    "👩‍🔧": [
+        "benywaidd", 
+        "peiriannydd", 
+        "trydanwr", 
+        "plymio", 
+        "peiriannydd benywaidd"
+    ], 
+    "👩‍🔬": [
+        "menyw", 
+        "biolegydd", 
+        "gwyddonwraig", 
+        "cemegydd"
+    ], 
+    "👩‍🚀": [
+        "menyw", 
+        "gofod", 
+        "gofodwraig", 
+        "roced"
+    ], 
+    "👩‍🚒": [
+        "menyw", 
+        "lori tân", 
+        "menyw tân"
+    ], 
+    "👪": [
+        "tad", 
+        "plentyn", 
+        "teulu", 
+        "mam"
+    ], 
+    "👫": [
+        "dal", 
+        "dyn a menyw yn dal dwylo", 
+        "dwylo", 
+        "pâr"
+    ], 
+    "👬": [
+        "dal", 
+        "dyn", 
+        "dau ddyn yn dal dwylo", 
+        "dwylo", 
+        "pâr"
+    ], 
+    "👭": [
+        "dal", 
+        "menyw", 
+        "dwylo", 
+        "dwy fenyw yn dal dwylo", 
+        "pâr"
+    ], 
+    "👮": [
+        "swyddog", 
+        "heddlu", 
+        "plismon", 
+        "heddwas"
+    ], 
+    "👯": [
+        "merch", 
+        "dawnsiwr", 
+        "pobl mewn parti", 
+        "clust", 
+        "menyw"
+    ], 
+    "👰": [
+        "priodferch â fêl", 
+        "priodas", 
+        "fêl", 
+        "priodferch"
+    ], 
+    "👱": [
+        "gwallt golau", 
+        "person â gwallt golau"
+    ], 
+    "👲": [
+        "het", 
+        "gua pi mao", 
+        "dyn", 
+        "dyn â chap Tsieineaidd"
+    ], 
+    "👳": [
+        "twrban", 
+        "person yn gwisgo twrban"
+    ], 
+    "👴": [
+        "dyn", 
+        "gwrywaidd", 
+        "hen", 
+        "hen ddyn"
+    ], 
+    "👵": [
+        "benywaidd", 
+        "menyw", 
+        "hen", 
+        "hen fenyw"
+    ], 
+    "👶": [
+        "babi"
+    ], 
+    "👷": [
+        "het", 
+        "gweithiwr", 
+        "adeiladu", 
+        "adeiladwr"
+    ], 
+    "👸": [
+        "tywysoges", 
+        "ffantasi"
+    ], 
+    "👹": [
+        "creadur", 
+        "Japaneaidd", 
+        "wyneb", 
+        "anghenfil"
+    ], 
+    "👺": [
+        "creadur", 
+        "bwgan", 
+        "Japaneaidd", 
+        "wyneb", 
+        "anghenfil"
+    ], 
+    "👻": [
+        "creadur", 
+        "ffantasi", 
+        "ysbryd", 
+        "wyneb", 
+        "anghenfil"
+    ], 
+    "👼": [
+        "babi", 
+        "ffantasi", 
+        "wyneb", 
+        "angel", 
+        "babi angel"
+    ], 
+    "👽": [
+        "estron", 
+        "monster", 
+        "fantasy", 
+        "space", 
+        "ufo", 
+        "face", 
+        "extraterrestrial", 
+        "fairy tale", 
+        "creature"
+    ], 
+    "👾": [
+        "anghenfil estron", 
+        "creadur", 
+        "estron", 
+        "gofod", 
+        "anghenfil"
+    ], 
+    "👿": [
+        "wyneb dig â chyrn", 
+        "diafol", 
+        "ffantasi", 
+        "wyneb"
+    ], 
+    "💀": [
+        "corff", 
+        "wyneb", 
+        "penglog", 
+        "marwolaeth", 
+        "anghenfil"
+    ], 
+    "💁": [
+        "llaw", 
+        "tipio", 
+        "help", 
+        "gwybodaeth", 
+        "person yn gwyro llaw"
+    ], 
+    "💂": [
+        "gwarchodfilwr", 
+        "gwarchod"
+    ], 
+    "💃": [
+        "menyw", 
+        "menyw yn dawnsio", 
+        "dawnsio"
+    ], 
+    "💄": [
+        "colur", 
+        "minlliw"
+    ], 
+    "💅": [
+        "corff", 
+        "farnais ewinedd", 
+        "triniaeth", 
+        "gofal", 
+        "ewyn"
+    ], 
+    "💆": [
+        "tyluniad", 
+        "salon", 
+        "person yn derbyn tyluniad", 
+        "wyneb"
+    ], 
+    "💇": [
+        "barbwr", 
+        "torri", 
+        "harddwch", 
+        "person yn cael ei wallt wedi’u torri", 
+        "gwallt"
+    ], 
+    "💈": [
+        "polyn barbwr", 
+        "barbwr", 
+        "polyn", 
+        "toriad gwallt"
+    ], 
+    "💉": [
+        "chwistrell", 
+        "nodwydd", 
+        "sâl", 
+        "meddygaeth", 
+        "doctor"
+    ], 
+    "💊": [
+        "sâl", 
+        "pilsen", 
+        "meddygaeth", 
+        "doctor"
+    ], 
+    "💋": [
+        "ôl cusan", 
+        "gwefusau", 
+        "cusan"
+    ], 
+    "💌": [
+        "calon", 
+        "llythyr caru", 
+        "post", 
+        "cariad", 
+        "llythyr"
+    ], 
+    "💍": [
+        "modrwy", 
+        "diemwnt"
+    ], 
+    "💎": [
+        "gemfaen", 
+        "tlws", 
+        "gem", 
+        "diemwnt"
+    ], 
+    "💏": [
+        "pâr", 
+        "cusan"
+    ], 
+    "💐": [
+        "tusw", 
+        "planhigyn", 
+        "blodyn"
+    ], 
+    "💑": [
+        "calon", 
+        "pâr a chalon", 
+        "cariad", 
+        "pâr"
+    ], 
+    "💒": [
+        "rhamant", 
+        "priodas", 
+        "capel"
+    ], 
+    "💓": [
+        "curo", 
+        "calon", 
+        "calon yn curo"
+    ], 
+    "💔": [
+        "calon wedi torri", 
+        "calon", 
+        "torri"
+    ], 
+    "💕": [
+        "calon", 
+        "dwy galon", 
+        "cariad"
+    ], 
+    "💖": [
+        "cynhyrfu", 
+        "calon", 
+        "calon yn disgleirio", 
+        "disgleirio"
+    ], 
+    "💗": [
+        "nerfus", 
+        "calon", 
+        "cynhyrfu", 
+        "tyfu", 
+        "calon yn tyfu"
+    ], 
+    "💘": [
+        "calon", 
+        "saeth", 
+        "calon â saeth trwyddi"
+    ], 
+    "💙": [
+        "glas", 
+        "calon", 
+        "calon las"
+    ], 
+    "💚": [
+        "gwyrdd", 
+        "calon", 
+        "calon werdd"
+    ], 
+    "💛": [
+        "calon felen", 
+        "calon", 
+        "melyn"
+    ], 
+    "💜": [
+        "calon borffor", 
+        "calon", 
+        "porffor"
+    ], 
+    "💝": [
+        "calon", 
+        "ffolant", 
+        "rhuban", 
+        "calon â rhuban"
+    ], 
+    "💞": [
+        "troelli", 
+        "calon", 
+        "calonnau yn troelli"
+    ], 
+    "💟": [
+        "calon", 
+        "addurn calon"
+    ], 
+    "💠": [
+        "tu fewn", 
+        "geometric", 
+        "diemwnt â dot", 
+        "comig", 
+        "diemwnt"
+    ], 
+    "💡": [
+        "bwlb golau", 
+        "syniad", 
+        "bwlb", 
+        "trydanol", 
+        "comig"
+    ], 
+    "💢": [
+        "dig", 
+        "symbol dicter", 
+        "gwallgof", 
+        "comig"
+    ], 
+    "💣": [
+        "bom", 
+        "comig"
+    ], 
+    "💤": [
+        "cysgu", 
+        "zzz", 
+        "comig"
+    ], 
+    "💥": [
+        "trawiad", 
+        "trwst", 
+        "comig"
+    ], 
+    "💦": [
+        "chwys", 
+        "splash", 
+        "comig", 
+        "defnynnau chwys"
+    ], 
+    "💧": [
+        "chwys", 
+        "diferyn", 
+        "defnyn", 
+        "comig", 
+        "oer"
+    ], 
+    "💨": [
+        "rhuthro", 
+        "rhedeg", 
+        "comig"
+    ], 
+    "💩": [
+        "baw", 
+        "cachu", 
+        "pentwr o faw", 
+        "wyneb", 
+        "anghenfil"
+    ], 
+    "💪": [
+        "corff", 
+        "ystwytho", 
+        "cyhyrau", 
+        "cyhyrau deuben wedi eu hystwytho"
+    ], 
+    "💫": [
+        "penysgafn", 
+        "seren", 
+        "comig"
+    ], 
+    "💬": [
+        "balŵn deialog", 
+        "deialog", 
+        "balŵn", 
+        "comig", 
+        "swigen"
+    ], 
+    "💭": [
+        "swigen", 
+        "balŵn", 
+        "comig", 
+        "cwmwl meddwl"
+    ], 
+    "💮": [
+        "blodyn", 
+        "blodyn gwyn"
+    ], 
+    "💯": [
+        "100", 
+        "llawn", 
+        "cant", 
+        "sgôr", 
+        "cant o bwyntiau"
+    ], 
+    "💰": [
+        "bag", 
+        "bag arian", 
+        "arian", 
+        "doler"
+    ], 
+    "💱": [
+        "arian cyfredol", 
+        "cyfnewid", 
+        "banc", 
+        "arian", 
+        "cyfnewid arian cyfredol"
+    ], 
+    "💲": [
+        "arwydd doler drom", 
+        "arian cyfredol", 
+        "arian", 
+        "doler"
+    ], 
+    "💳": [
+        "card", 
+        "credyd", 
+        "banc", 
+        "arian", 
+        "cerdyn credyd"
+    ], 
+    "💴": [
+        "arian cyfredol", 
+        "papur arian", 
+        "papur arian yen", 
+        "banc", 
+        "yen"
+    ], 
+    "💵": [
+        "papur arian doler", 
+        "arian cyfredol", 
+        "papur arian", 
+        "banc", 
+        "doler"
+    ], 
+    "💶": [
+        "arian cyfredol", 
+        "papur arian", 
+        "ewro", 
+        "banc", 
+        "papur arian ewro"
+    ], 
+    "💷": [
+        "papur arian punt", 
+        "arian cyfredol", 
+        "papur arian", 
+        "punt", 
+        "banc"
+    ], 
+    "💸": [
+        "arian cyfredol", 
+        "papur arian", 
+        "arian gydag adenydd", 
+        "adenydd", 
+        "banc"
+    ], 
+    "💹": [
+        "siart yn cynyddu â yen", 
+        "siart", 
+        "twf", 
+        "marchnad", 
+        "banc"
+    ], 
+    "💺": [
+        "sedd", 
+        "cadair"
+    ], 
+    "💻": [
+        "cluniadur", 
+        "personol", 
+        "cyfrifiadur"
+    ], 
+    "💼": [
+        "cas friff"
+    ], 
+    "💽": [
+        "optegol", 
+        "disg", 
+        "disg mini", 
+        "cyfrifiadur"
+    ], 
+    "💾": [
+        "disg hyblyg", 
+        "disg", 
+        "hyblyg", 
+        "cyfrifiadur"
+    ], 
+    "💿": [
+        "disg optegol", 
+        "dvd", 
+        "cd", 
+        "computer", 
+        "blu-ray", 
+        "optical", 
+        "disk"
+    ], 
+    "📀": [
+        "disg", 
+        "dvd", 
+        "cd", 
+        "cyfrifiadur", 
+        "blu-ray"
+    ], 
+    "📁": [
+        "ffolder", 
+        "ffolder ffeiliau", 
+        "ffeil"
+    ], 
+    "📂": [
+        "ffolder", 
+        "ffeil", 
+        "agor ffolder ffeiliau", 
+        "agor"
+    ], 
+    "📃": [
+        "cwrl", 
+        "tudalen gyda chwrl", 
+        "dogfen", 
+        "tudalen"
+    ], 
+    "📄": [
+        "dogfen", 
+        "tudalen yn wynebu i fyny", 
+        "tudalen"
+    ], 
+    "📅": [
+        "dyddiad", 
+        "calendr"
+    ], 
+    "📆": [
+        "calendr rwygo", 
+        "calendr"
+    ], 
+    "📇": [
+        "mynegai cardiau", 
+        "mynegai", 
+        "rolodex", 
+        "card"
+    ], 
+    "📈": [
+        "siart yn cynyddu", 
+        "i fyny", 
+        "siart", 
+        "twf", 
+        "graff"
+    ], 
+    "📉": [
+        "trend", 
+        "siart", 
+        "i lawr", 
+        "graff", 
+        "siart yn gostwng"
+    ], 
+    "📊": [
+        "siart bar", 
+        "siart", 
+        "bar", 
+        "graff"
+    ], 
+    "📋": [
+        "clipfwrdd"
+    ], 
+    "📌": [
+        "pin"
+    ], 
+    "📍": [
+        "pin crwn", 
+        "pin"
+    ], 
+    "📎": [
+        "clip papur"
+    ], 
+    "📏": [
+        "pren mesur", 
+        "ymyl syth"
+    ], 
+    "📐": [
+        "pren mesur trionglog", 
+        "pren mesur", 
+        "triongl", 
+        "set"
+    ], 
+    "📑": [
+        "llyfrnod", 
+        "nod tudalen", 
+        "tabiau", 
+        "tabiau nodau tudalen", 
+        "marc"
+    ], 
+    "📒": [
+        "cyfriflyfr", 
+        "llyfr nodiadau"
+    ], 
+    "📓": [
+        "llyfr nodiadau"
+    ], 
+    "📔": [
+        "clawr", 
+        "llyfr", 
+        "addurnol", 
+        "llyfr nodiadau", 
+        "llyfr nodiadau gyda chlawr addurnol"
+    ], 
+    "📕": [
+        "llyfr", 
+        "ynghau", 
+        "llyfr ynghau"
+    ], 
+    "📖": [
+        "llyfr", 
+        "agored", 
+        "llyfr agored"
+    ], 
+    "📗": [
+        "llyfr", 
+        "gwyrdd", 
+        "llyfr gwyrdd"
+    ], 
+    "📘": [
+        "llyfr", 
+        "glas", 
+        "llyfr glas"
+    ], 
+    "📙": [
+        "llyfr", 
+        "oren", 
+        "llyfr oren"
+    ], 
+    "📚": [
+        "llyfr", 
+        "llyfrau"
+    ], 
+    "📛": [
+        "bathodyn enw", 
+        "enw", 
+        "bathodyn"
+    ], 
+    "📜": [
+        "papur", 
+        "sgrôl"
+    ], 
+    "📝": [
+        "pensil", 
+        "memo"
+    ], 
+    "📞": [
+        "ffôn", 
+        "derbynnydd ffôn", 
+        "derbyniwr"
+    ], 
+    "📟": [
+        "galwr", 
+        "peiriant galw"
+    ], 
+    "📠": [
+        "ffacs", 
+        "peiriant ffacs"
+    ], 
+    "📡": [
+        "lloeren", 
+        "antena", 
+        "antena lloeren"
+    ], 
+    "📢": [
+        "uchel", 
+        "uchelseinydd", 
+        "cyhoeddus"
+    ], 
+    "📣": [
+        "sirioli", 
+        "megaffon"
+    ], 
+    "📤": [
+        "llythyr", 
+        "hambwrdd blwch allan", 
+        "blwch allan", 
+        "blwch", 
+        "hambwrdd"
+    ], 
+    "📥": [
+        "hambwrdd mewnflwch", 
+        "blwch", 
+        "mewnflwch", 
+        "hambwrdd"
+    ], 
+    "📦": [
+        "blwch", 
+        "parsel"
+    ], 
+    "📧": [
+        "llythyren", 
+        "post", 
+        "e-bost"
+    ], 
+    "📨": [
+        "llythyr", 
+        "e-bost", 
+        "derbyn", 
+        "amlen", 
+        "amlen yn dyfod i mewn"
+    ], 
+    "📩": [
+        "saeth", 
+        "amlen gyda saeth", 
+        "i lawr", 
+        "e-bost", 
+        "amlen"
+    ], 
+    "📪": [
+        "wedi’i gostwng", 
+        "blwch post", 
+        "caeedig", 
+        "blwch post caeedig gyda banner wedi’i gostwng"
+    ], 
+    "📫": [
+        "post", 
+        "blwch post caeedig gyda banner wedi’i chodi", 
+        "blwch post", 
+        "caeedig"
+    ], 
+    "📬": [
+        "blwch post agored gyda banner wedi’i chodi", 
+        "post", 
+        "blwch post", 
+        "agored"
+    ], 
+    "📭": [
+        "blwch post agored gyda banner wedi’i gostwng", 
+        "wedi’i gostwng", 
+        "blwch post", 
+        "agored"
+    ], 
+    "📮": [
+        "post", 
+        "blwch post"
+    ], 
+    "📯": [
+        "corn", 
+        "corn bost", 
+        "post"
+    ], 
+    "📰": [
+        "papur", 
+        "papur newydd", 
+        "newyddion"
+    ], 
+    "📱": [
+        "ffôn", 
+        "symudol", 
+        "ffôn symudol"
+    ], 
+    "📲": [
+        "ffôn", 
+        "symudol", 
+        "ffôn symudol â saeth", 
+        "galw", 
+        "saeth"
+    ], 
+    "📳": [
+        "ffôn", 
+        "modd dirgryniad", 
+        "modd", 
+        "dirgryniad"
+    ], 
+    "📴": [
+        "cell", 
+        "ffôn", 
+        "ffôn symudol wedi’i ddiffodd", 
+        "diffodd"
+    ], 
+    "📵": [
+        "ffôn", 
+        "gwahardd", 
+        "dim ffonau symudol", 
+        "symudol"
+    ], 
+    "📶": [
+        "cell", 
+        "antena", 
+        "bar", 
+        "barau antena", 
+        "symudol"
+    ], 
+    "📷": [
+        "camera", 
+        "fideo"
+    ], 
+    "📸": [
+        "camera â fflach", 
+        "camera", 
+        "fideo", 
+        "fflach"
+    ], 
+    "📹": [
+        "camera fideo", 
+        "camera", 
+        "fideo"
+    ], 
+    "📺": [
+        "fideo", 
+        "teledu"
+    ], 
+    "📻": [
+        "radio", 
+        "fideo"
+    ], 
+    "📼": [
+        "fideo", 
+        "tap", 
+        "casét fideo", 
+        "vhs"
+    ], 
+    "📿": [
+        "dillad", 
+        "gleiniau", 
+        "mwclis", 
+        "gweddi", 
+        "gleiniau gweddïo"
+    ], 
+    "🔀": [
+        "wedi’i chroesi", 
+        "botwm cymysgu traciau", 
+        "saeth"
+    ], 
+    "🔁": [
+        "saeth", 
+        "botwm ailadrodd", 
+        "ailadrodd", 
+        "clocwedd"
+    ], 
+    "🔂": [
+        "unwaith", 
+        "saeth", 
+        "botwm ailadrodd sengl", 
+        "clocwedd"
+    ], 
+    "🔃": [
+        "ail-lwytho", 
+        "saethau clocwedd fertigol", 
+        "saeth", 
+        "clocwedd"
+    ], 
+    "🔄": [
+        "botwm saethau gwrthglocwedd", 
+        "saeth", 
+        "o chwith", 
+        "gwrthglocwedd"
+    ], 
+    "🔅": [
+        "pylu", 
+        "botwm pylu", 
+        "disgleirdeb", 
+        "isel"
+    ], 
+    "🔆": [
+        "botwm disglair", 
+        "disglair", 
+        "disgleirdeb"
+    ], 
+    "🔇": [
+        "mud", 
+        "tawelwch", 
+        "seinydd wedi’i ddiffodd", 
+        "sain"
+    ], 
+    "🔈": [
+        "sŵn", 
+        "seinydd"
+    ], 
+    "🔉": [
+        "ton", 
+        "seinydd ymlaen", 
+        "siarad", 
+        "isel"
+    ], 
+    "🔊": [
+        "seinydd uchel", 
+        "3", 
+        "seinydd", 
+        "uchel"
+    ], 
+    "🔋": [
+        "batri"
+    ], 
+    "🔌": [
+        "plwg", 
+        "trydan", 
+        "plwg trydanol", 
+        "trydanol"
+    ], 
+    "🔍": [
+        "chwilio", 
+        "offeryn", 
+        "gwydr", 
+        "chwyddwydr", 
+        "chwyddwydr yn wynebu’r chwith"
+    ], 
+    "🔎": [
+        "chwilio", 
+        "offeryn", 
+        "chwyddwydr yn wynebu’r dde", 
+        "gwydr", 
+        "chwyddo"
+    ], 
+    "🔏": [
+        "clô ac ysgrifbin", 
+        "nib", 
+        "ysgrifbin", 
+        "cloi", 
+        "inc"
+    ], 
+    "🔐": [
+        "diogel", 
+        "clô", 
+        "clô ynghau gydag allwedd", 
+        "allwedd", 
+        "cloi"
+    ], 
+    "🔑": [
+        "allweddair", 
+        "allwedd", 
+        "cloi"
+    ], 
+    "🔒": [
+        "clô"
+    ], 
+    "🔓": [
+        "datgloi", 
+        "clô agored", 
+        "cloi", 
+        "agor"
+    ], 
+    "🔔": [
+        "cloch"
+    ], 
+    "🔕": [
+        "mud", 
+        "cloch a slaes", 
+        "cloch", 
+        "gwaharddedig", 
+        "na"
+    ], 
+    "🔖": [
+        "nod tudalen", 
+        "marc"
+    ], 
+    "🔗": [
+        "linc", 
+        "dolen"
+    ], 
+    "🔘": [
+        "botwm radio", 
+        "radio", 
+        "geometrig", 
+        "botwm"
+    ], 
+    "🔙": [
+        "saeth BACK", 
+        "yn ôl", 
+        "saeth"
+    ], 
+    "🔚": [
+        "diwedd", 
+        "saeth", 
+        "saeth END"
+    ], 
+    "🔛": [
+        "ymlaen", 
+        "saeth ON!", 
+        "saeth", 
+        "marc"
+    ], 
+    "🔜": [
+        "cyn bo hir", 
+        "saeth SOON", 
+        "saeth"
+    ], 
+    "🔝": [
+        "i fyny", 
+        "top", 
+        "saeth", 
+        "saeth TOP"
+    ], 
+    "🔞": [
+        "18", 
+        "neb o dan un deg wyth oed", 
+        "un deg wyth", 
+        "dan oed", 
+        "oedran"
+    ], 
+    "🔟": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 10"
+    ], 
+    "🔠": [
+        "llythrennau mawr", 
+        "mewnbwn", 
+        "lladin", 
+        "mewnbwn llythrennau mawr ladin", 
+        "llythrennau"
+    ], 
+    "🔡": [
+        "mewnbwn llythrennau bach lladin", 
+        "lladin", 
+        "abcch", 
+        "llythrennau bach", 
+        "mewnbwn"
+    ], 
+    "🔢": [
+        "1234", 
+        "mewnbwn", 
+        "rhifau", 
+        "mewnbwn rhifedd"
+    ], 
+    "🔣": [
+        "mewnbwn", 
+        "mewnbwn symbylau"
+    ], 
+    "🔤": [
+        "gwyddor", 
+        "mewnbwn", 
+        "mewnbwn llythrennau lladin", 
+        "abc", 
+        "lladin"
+    ], 
+    "🔥": [
+        "tân", 
+        "fflam", 
+        "offer"
+    ], 
+    "🔦": [
+        "tortsh", 
+        "offeryn", 
+        "golau", 
+        "trydanol"
+    ], 
+    "🔧": [
+        "sbaner", 
+        "offeryn"
+    ], 
+    "🔨": [
+        "offeryn", 
+        "morthwyl"
+    ], 
+    "🔩": [
+        "bollt", 
+        "nyten a bollt", 
+        "offeryn", 
+        "nyten"
+    ], 
+    "🔪": [
+        "cyllell", 
+        "cegin", 
+        "cyllell cegin", 
+        "coginio"
+    ], 
+    "🔫": [
+        "llawddryll", 
+        "pistol", 
+        "dryll", 
+        "arf", 
+        "rifolfer"
+    ], 
+    "🔬": [
+        "microsgop", 
+        "offeryn"
+    ], 
+    "🔭": [
+        "offeryn", 
+        "telesgop"
+    ], 
+    "🔮": [
+        "crisial", 
+        "pêl", 
+        "pêl grisial", 
+        "tylwyth teg", 
+        "ffantasi"
+    ], 
+    "🔯": [
+        "ffortiwn", 
+        "seren chwe ochr dotiog", 
+        "seren"
+    ], 
+    "🔰": [
+        "symbol Japaneaidd am ddechreuwr", 
+        "deilen", 
+        "dechreuwr", 
+        "Japaneaidd", 
+        "gwyrdd"
+    ], 
+    "🔱": [
+        "arwyddlun tryfer", 
+        "angor", 
+        "arwyddlun", 
+        "tryfer", 
+        "llong"
+    ], 
+    "🔲": [
+        "botwm sgwâr du", 
+        "sgwâr", 
+        "geometrig", 
+        "botwm"
+    ], 
+    "🔳": [
+        "amlinelliad", 
+        "sgwâr", 
+        "geometrig", 
+        "botwm", 
+        "botwm sgwâr gwyn"
+    ], 
+    "🔴": [
+        "cylch", 
+        "cylch coch", 
+        "geometrig", 
+        "coch"
+    ], 
+    "🔵": [
+        "cylch", 
+        "glas", 
+        "cylch glas", 
+        "geometrig"
+    ], 
+    "🔶": [
+        "oren", 
+        "diemwnt mawr oren", 
+        "geometrig", 
+        "diemwnt"
+    ], 
+    "🔷": [
+        "glas", 
+        "diemwnt mawr glas", 
+        "geometrig", 
+        "diemwnt"
+    ], 
+    "🔸": [
+        "diemwnt bach oren", 
+        "oren", 
+        "geometrig", 
+        "diemwnt"
+    ], 
+    "🔹": [
+        "glas", 
+        "diemwnt bach glas", 
+        "geometrig", 
+        "diemwnt"
+    ], 
+    "🔺": [
+        "triongl coch yn pwyntio tuag i fyny", 
+        "geometrig", 
+        "coch"
+    ], 
+    "🔻": [
+        "triongl coch yn pwyntio tuag i lawr", 
+        "i lawr", 
+        "geometrig", 
+        "coch"
+    ], 
+    "🔼": [
+        "saeth", 
+        "botwm i fyny", 
+        "botwm", 
+        "coch"
+    ], 
+    "🔽": [
+        "saeth", 
+        "i fyny", 
+        "botwm i lawr", 
+        "botwm", 
+        "coch"
+    ], 
+    "🕋": [
+        "crefydd", 
+        "mwslim", 
+        "kaaba", 
+        "islam"
+    ], 
+    "🕌": [
+        "crefydd", 
+        "mwslim", 
+        "mosg", 
+        "islam"
+    ], 
+    "🕍": [
+        "crefydd", 
+        "iddew", 
+        "iddewig", 
+        "teml", 
+        "synagog"
+    ], 
+    "🕎": [
+        "crefydd", 
+        "sêr canhwyllau", 
+        "menorah", 
+        "canhwyllbren"
+    ], 
+    "🕐": [
+        "1", 
+        "00", 
+        "1:00", 
+        "un o’r gloch", 
+        "cloc"
+    ], 
+    "🕑": [
+        "2:00", 
+        "dau o’r gloch", 
+        "00", 
+        "2", 
+        "cloc"
+    ], 
+    "🕒": [
+        "tri o’r gloch", 
+        "00", 
+        "cloc", 
+        "3", 
+        "3:00"
+    ], 
+    "🕓": [
+        "00", 
+        "pedwar o’r gloch", 
+        "4", 
+        "4:00", 
+        "cloc"
+    ], 
+    "🕔": [
+        "5:00", 
+        "00", 
+        "pump o’r gloch", 
+        "5", 
+        "cloc"
+    ], 
+    "🕕": [
+        "cloc", 
+        "00", 
+        "chwech o’r gloch", 
+        "6:00", 
+        "6"
+    ], 
+    "🕖": [
+        "saith o’r gloch", 
+        "00", 
+        "7:00", 
+        "7", 
+        "cloc"
+    ], 
+    "🕗": [
+        "8", 
+        "00", 
+        "wyth o’r gloch", 
+        "8:00", 
+        "cloc"
+    ], 
+    "🕘": [
+        "9", 
+        "00", 
+        "naw o’r gloch", 
+        "9:00", 
+        "cloc"
+    ], 
+    "🕙": [
+        "10", 
+        "00", 
+        "deg o’r gloch", 
+        "10:00", 
+        "cloc"
+    ], 
+    "🕚": [
+        "11", 
+        "11:00", 
+        "00", 
+        "un ar ddeg o’r gloch", 
+        "cloc"
+    ], 
+    "🕛": [
+        "deuddeg o’r gloch", 
+        "00", 
+        "12", 
+        "12:00", 
+        "cloc"
+    ], 
+    "🕜": [
+        "1", 
+        "30", 
+        "1:30", 
+        "hanner awr wedi un", 
+        "cloc"
+    ], 
+    "🕝": [
+        "cloc", 
+        "2:30", 
+        "hanner awr wedi dau", 
+        "2", 
+        "30"
+    ], 
+    "🕞": [
+        "hanner awr wedi tri", 
+        "3", 
+        "30", 
+        "3:30", 
+        "cloc"
+    ], 
+    "🕟": [
+        "cloc", 
+        "hanner awr wedi pedwar", 
+        "30", 
+        "4", 
+        "4:30"
+    ], 
+    "🕠": [
+        "5:30", 
+        "30", 
+        "5", 
+        "hanner awr wedi pump", 
+        "cloc"
+    ], 
+    "🕡": [
+        "cloc", 
+        "hanner awr wedi chwech", 
+        "30", 
+        "6:30", 
+        "6"
+    ], 
+    "🕢": [
+        "hanner awr wedi saith", 
+        "30", 
+        "7:30", 
+        "7", 
+        "cloc"
+    ], 
+    "🕣": [
+        "8", 
+        "30", 
+        "8:30", 
+        "hanner awr wedi wyth", 
+        "cloc"
+    ], 
+    "🕤": [
+        "9", 
+        "30", 
+        "9:30", 
+        "hanner awr wedi naw", 
+        "cloc"
+    ], 
+    "🕥": [
+        "cloc", 
+        "10", 
+        "10:30", 
+        "hanner awr wedi deg", 
+        "30"
+    ], 
+    "🕦": [
+        "11", 
+        "11:30", 
+        "30", 
+        "hanner awr wedi un ar ddeg", 
+        "cloc"
+    ], 
+    "🕧": [
+        "cloc", 
+        "12", 
+        "12:30", 
+        "hanner awr wedi deuddeg", 
+        "30"
+    ], 
+    "🕺": [
+        "dyn yn dawnsio", 
+        "dyn", 
+        "dawnsio"
+    ], 
+    "🖕": [
+        "llaw", 
+        "corff", 
+        "bys canol", 
+        "bys"
+    ], 
+    "🖖": [
+        "llaw", 
+        "corff", 
+        "spock", 
+        "bys", 
+        "saliwt fulcanaidd"
+    ], 
+    "🖤": [
+        "calon du", 
+        "maleisus", 
+        "calon", 
+        "du", 
+        "drwg"
+    ], 
+    "🗻": [
+        "fuji", 
+        "mynydd Fuji", 
+        "mynydd"
+    ], 
+    "🗼": [
+        "tŵr tokyo", 
+        "tŵr", 
+        "tokyo"
+    ], 
+    "🗽": [
+        "rhyddid", 
+        "Cerflun Rhyddid", 
+        "cerflun"
+    ], 
+    "🗾": [
+        "Japan", 
+        "map o Japan", 
+        "map"
+    ], 
+    "🗿": [
+        "moyai", 
+        "wyneb", 
+        "moai", 
+        "cerflun"
+    ], 
+    "😀": [
+        "lledwenu", 
+        "wyneb yn gwenu â cheg agored", 
+        "wyneb"
+    ], 
+    "😁": [
+        "llygaid", 
+        "wyneb yn lledwenu â gwên yn y llygaid", 
+        "lledwenu", 
+        "gwenu", 
+        "wyneb"
+    ], 
+    "😂": [
+        "wyneb â dagrau hapusrwydd", 
+        "wyneb", 
+        "chwerthin", 
+        "dagrau", 
+        "hapusrwydd"
+    ], 
+    "😃": [
+        "ceg", 
+        "wyneb yn gwenu â cheg agored a llygaid mawr", 
+        "wyneb", 
+        "gwenu", 
+        "agored"
+    ], 
+    "😄": [
+        "ceg", 
+        "wyneb yn gwenu â cheg agored a gwên yn y llygaid", 
+        "gwenu", 
+        "wyneb", 
+        "llygad"
+    ], 
+    "😅": [
+        "wyneb yn gwenu â cheg agored a chwys o ofid", 
+        "chwys", 
+        "gofid", 
+        "gwenu", 
+        "wyneb"
+    ], 
+    "😆": [
+        "ceg", 
+        "wyneb yn gwenu â cheg agored a llygaid ynghau", 
+        "bodlon", 
+        "chwerthin", 
+        "wyneb"
+    ], 
+    "😇": [
+        "diniwed", 
+        "wyneb yn gwenu ag eurgylch", 
+        "wyneb", 
+        "eurgylch", 
+        "angel"
+    ], 
+    "😈": [
+        "gwên", 
+        "ffantasi", 
+        "wyneb yn gwenu â chyrn", 
+        "cyrn", 
+        "wyneb"
+    ], 
+    "😉": [
+        "winc", 
+        "llygaid yn wincio", 
+        "wyneb"
+    ], 
+    "😊": [
+        "wyneb yn gwenu â gwên yn y llygaid", 
+        "llygad", 
+        "cochi", 
+        "wyneb", 
+        "gwenu"
+    ], 
+    "😋": [
+        "blasus", 
+        "blasu", 
+        "gwenu", 
+        "wyneb", 
+        "wyneb yn blasu bwyd blasus"
+    ], 
+    "😌": [
+        "rhyddhad", 
+        "wyneb o ryddhad", 
+        "wyneb"
+    ], 
+    "😍": [
+        "calon", 
+        "gwên", 
+        "wyneb", 
+        "cariad", 
+        "wyneb yn gwenu â chalonnau yn y llygaid"
+    ], 
+    "😎": [
+        "wyneb yn gwenu â sbectol haul", 
+        "sbectol haul", 
+        "gwên", 
+        "llygad", 
+        "wyneb"
+    ], 
+    "😏": [
+        "wyneb yn cilwenu", 
+        "cilwen", 
+        "wyneb"
+    ], 
+    "😐": [
+        "niwtral", 
+        "wyneb niwtral", 
+        "wyneb"
+    ], 
+    "😑": [
+        "wyneb difynegiant", 
+        "ddifynegiant", 
+        "wyneb", 
+        "dring"
+    ], 
+    "😒": [
+        "wyneb ddi-ddifyr", 
+        "di-ddifyr", 
+        "wyneb", 
+        "anhapus"
+    ], 
+    "😓": [
+        "wyneb yn chwysu o ofid", 
+        "chwys", 
+        "gofid", 
+        "wyneb"
+    ], 
+    "😔": [
+        "synfyfyriol", 
+        "wyneb synfyfyriol", 
+        "wyneb", 
+        "digalon"
+    ], 
+    "😕": [
+        "wyneb", 
+        "cymysglyd", 
+        "wyneb cymysglyd"
+    ], 
+    "😖": [
+        "wyneb", 
+        "dryslyd", 
+        "wyneb dryslyd"
+    ], 
+    "😗": [
+        "wyneb yn rhoi cusan", 
+        "wyneb", 
+        "cusan"
+    ], 
+    "😘": [
+        "calon", 
+        "wyneb yn chwythu cusan", 
+        "wyneb", 
+        "cusan"
+    ], 
+    "😙": [
+        "wyneb yn rhoi cusan â gwên yn y llygaid", 
+        "gwên", 
+        "llygad", 
+        "wyneb", 
+        "cusan"
+    ], 
+    "😚": [
+        "wyneb yn rhoi cusan â llygaid ynghau", 
+        "llygad", 
+        "caeedig", 
+        "wyneb", 
+        "cusan"
+    ], 
+    "😛": [
+        "wyneb â thafod yng ngolwg", 
+        "tafod", 
+        "wyneb"
+    ], 
+    "😜": [
+        "winc", 
+        "wyneb", 
+        "tafod", 
+        "jôc", 
+        "wyneb â thafod yng ngolwg a llygaid yn wincio"
+    ], 
+    "😝": [
+        "afiach", 
+        "wyneb â thafod yng ngolwg a llygaid ynghau", 
+        "blasu", 
+        "tafod", 
+        "wyneb"
+    ], 
+    "😞": [
+        "wyneb siomedig", 
+        "wyneb", 
+        "siomedig"
+    ], 
+    "😟": [
+        "wyneb gofidio", 
+        "gofid", 
+        "wyneb"
+    ], 
+    "😠": [
+        "wyneb dig", 
+        "dig", 
+        "gwallgof", 
+        "wyneb"
+    ], 
+    "😡": [
+        "pwdu", 
+        "dig", 
+        "wyneb pwdu", 
+        "wyneb", 
+        "coch"
+    ], 
+    "😢": [
+        "trist", 
+        "wyneb yn crio", 
+        "crio", 
+        "wyneb", 
+        "deigryn"
+    ], 
+    "😣": [
+        "wyneb dyfal", 
+        "wyneb", 
+        "dyfal"
+    ], 
+    "😤": [
+        "ennill", 
+        "buddugoliaeth", 
+        "wyneb â stêm yn dod o’r trwyn", 
+        "wyneb"
+    ], 
+    "😥": [
+        "rhyddhad", 
+        "wyneb siomedig ond â rhyddhad", 
+        "wyneb", 
+        "siomedig"
+    ], 
+    "😦": [
+        "ceg", 
+        "gwg", 
+        "wyneb gwgus â cheg agored", 
+        "wyneb", 
+        "agored"
+    ], 
+    "😧": [
+        "ing", 
+        "wyneb dirboen", 
+        "wyneb", 
+        "dirboen"
+    ], 
+    "😨": [
+        "ofn", 
+        "wyneb", 
+        "ofnus", 
+        "wyneb ofnus"
+    ], 
+    "😩": [
+        "lluddedig", 
+        "blinedig", 
+        "wyneb lluddedig", 
+        "wyneb"
+    ], 
+    "😪": [
+        "cysgu", 
+        "wyneb", 
+        "wyneb cysglyd"
+    ], 
+    "😫": [
+        "wyneb blinedig", 
+        "blino", 
+        "blinedig", 
+        "wyneb"
+    ], 
+    "😬": [
+        "ystum", 
+        "wyneb ag ystum", 
+        "wyneb"
+    ], 
+    "😭": [
+        "trist", 
+        "crio", 
+        "wyneb yn beichio crio", 
+        "wyneb", 
+        "deigryn"
+    ], 
+    "😮": [
+        "ceg", 
+        "cydymdeimlad", 
+        "wyneb", 
+        "agored", 
+        "wyneb â cheg agored"
+    ], 
+    "😯": [
+        "wyneb distewi", 
+        "wyneb", 
+        "syfrdanu", 
+        "distewi"
+    ], 
+    "😰": [
+        "ceg", 
+        "chwys", 
+        "gofid", 
+        "wyneb â cheg agored a chwys o ofid", 
+        "agored"
+    ], 
+    "😱": [
+        "ofn", 
+        "wyneb yn sgrechian ag ofn", 
+        "braw", 
+        "wyneb", 
+        "arswyd"
+    ], 
+    "😲": [
+        "wyneb wedi rhyfeddu", 
+        "hollol", 
+        "rhyfeddu", 
+        "syfrdanu", 
+        "wyneb"
+    ], 
+    "😳": [
+        "gwrido", 
+        "wyneb yn gwrido", 
+        "synnu", 
+        "cochi", 
+        "wyneb"
+    ], 
+    "😴": [
+        "wyneb yn cysgu", 
+        "cysgu", 
+        "zzz", 
+        "wyneb"
+    ], 
+    "😵": [
+        "pendro", 
+        "wyneb", 
+        "penysgafnder", 
+        "wyneb penysgafn"
+    ], 
+    "😶": [
+        "ceg", 
+        "wyneb heb geg", 
+        "distaw", 
+        "wyneb"
+    ], 
+    "😷": [
+        "masg", 
+        "wyneb â mwgwd meddygol", 
+        "sâl", 
+        "annwyd", 
+        "doctor"
+    ], 
+    "😸": [
+        "cath", 
+        "llygaid", 
+        "wyneb cath yn gwenu â cheg agored a gwên yn y llygaid", 
+        "lledwenu", 
+        "gwenu"
+    ], 
+    "😹": [
+        "cath", 
+        "wyneb cath â dagrau o hapusrwydd", 
+        "hapusrwydd", 
+        "wyneb", 
+        "deigryn"
+    ], 
+    "😺": [
+        "cath", 
+        "ceg", 
+        "wyneb cath yn gwenu â cheg agored", 
+        "gwên", 
+        "agored"
+    ], 
+    "😻": [
+        "cath", 
+        "llygaid", 
+        "calonnau", 
+        "cariad", 
+        "wyneb cath yn gwenu â chalonnau yn y llygaid"
+    ], 
+    "😼": [
+        "cath", 
+        "eironig", 
+        "ar gam", 
+        "gwên", 
+        "wyneb cath â gwên ar gam"
+    ], 
+    "😽": [
+        "cath", 
+        "wyneb cath yn cusanu â llygaid ynghau", 
+        "llygad", 
+        "wyneb", 
+        "cusan"
+    ], 
+    "😾": [
+        "cath", 
+        "pwdu", 
+        "wyneb cath yn pwdu", 
+        "wyneb"
+    ], 
+    "😿": [
+        "cath", 
+        "trist", 
+        "wyneb cath yn crio", 
+        "crio", 
+        "deigryn"
+    ], 
+    "🙀": [
+        "cath", 
+        "syfrdanol", 
+        "wyneb cath luddedig", 
+        "lluddedig", 
+        "wyneb"
+    ], 
+    "🙁": [
+        "gwg", 
+        "cuchio", 
+        "wyneb", 
+        "wyneb â pheth gwg arni"
+    ], 
+    "🙂": [
+        "gwyneb", 
+        "gwenu", 
+        "wyneb ag ychydig o wên arni"
+    ], 
+    "🙃": [
+        "wyneb â’i ben i waered", 
+        "ben i waered", 
+        "wyneb"
+    ], 
+    "🙄": [
+        "llygaid", 
+        "wyneb", 
+        "rolio", 
+        "wyneb â llygaid yn rholio"
+    ], 
+    "🙅": [
+        "llaw", 
+        "na", 
+        "gwaharddedig", 
+        "ystum", 
+        "person yn ystumio nad yw’n iawn"
+    ], 
+    "🙆": [
+        "llaw", 
+        "iawn", 
+        "ystum", 
+        "ok", 
+        "person yn ystumio iawn"
+    ], 
+    "🙇": [
+        "ystum", 
+        "ymgrymiad", 
+        "ymddiheuriad", 
+        "person yn ymgrymu", 
+        "sori"
+    ], 
+    "🙈": [
+        "gweld dim drwg", 
+        "drwg", 
+        "wyneb", 
+        "gweld", 
+        "mwnci"
+    ], 
+    "🙉": [
+        "drwg", 
+        "clywed dim drwg", 
+        "clywed", 
+        "wyneb", 
+        "mwnci"
+    ], 
+    "🙊": [
+        "siarad", 
+        "siarad dim drwg", 
+        "drwg", 
+        "wyneb", 
+        "mwnci"
+    ], 
+    "🙋": [
+        "llaw", 
+        "hapus", 
+        "ystum", 
+        "person yn codi llaw"
+    ], 
+    "🙌": [
+        "llaw", 
+        "corff", 
+        "ystum", 
+        "dathliad", 
+        "person yn codi dwylo"
+    ], 
+    "🙍": [
+        "gwg", 
+        "ystum", 
+        "person yn gwgu"
+    ], 
+    "🙎": [
+        "pwdu", 
+        "ystum", 
+        "person yn pwdu"
+    ], 
+    "🙏": [
+        "plygu", 
+        "corff", 
+        "ystum", 
+        "gweddi", 
+        "dwylo wedi plygu"
+    ], 
+    "🚀": [
+        "cerbyd", 
+        "gofod", 
+        "roced"
+    ], 
+    "🚁": [
+        "cerbyd", 
+        "hofrennydd"
+    ], 
+    "🚂": [
+        "rheilffordd", 
+        "trên", 
+        "stêm", 
+        "peiriant", 
+        "locomotif"
+    ], 
+    "🚃": [
+        "rheilffordd", 
+        "car", 
+        "trydan", 
+        "trên", 
+        "car rheilffordd"
+    ], 
+    "🚄": [
+        "rheilffordd", 
+        "trên", 
+        "cyflymder", 
+        "trên tra chyflym", 
+        "shinkansen"
+    ], 
+    "🚅": [
+        "rheilffordd", 
+        "bwled", 
+        "trên", 
+        "cyflymder", 
+        "trên tra chyflym gyda thrwyn fel bwled"
+    ], 
+    "🚆": [
+        "rheilffordd", 
+        "cerbyd", 
+        "trên"
+    ], 
+    "🚇": [
+        "cerbyd", 
+        "metro", 
+        "tanlwybr"
+    ], 
+    "🚈": [
+        "rheilffordd", 
+        "cerbyd", 
+        "rheilffordd ysgafn"
+    ], 
+    "🚉": [
+        "rheilffordd", 
+        "cerbyd", 
+        "trên", 
+        "gorsaf"
+    ], 
+    "🚊": [
+        "tram", 
+        "cerbyd", 
+        "bysys trydan"
+    ], 
+    "🚋": [
+        "tram", 
+        "car", 
+        "car tram", 
+        "cerbyd"
+    ], 
+    "🚌": [
+        "cerbyd", 
+        "bws"
+    ], 
+    "🚍": [
+        "cerbyd", 
+        "bws", 
+        "bws yn dod i’ch cwrdd"
+    ], 
+    "🚎": [
+        "tram", 
+        "cerbyd", 
+        "bws", 
+        "troli", 
+        "bws trydan"
+    ], 
+    "🚏": [
+        "arhosfan bws", 
+        "stop", 
+        "bws", 
+        "arhosfan"
+    ], 
+    "🚐": [
+        "cerbyd", 
+        "bws", 
+        "bws mini"
+    ], 
+    "🚑": [
+        "cerbyd", 
+        "ambiwlans"
+    ], 
+    "🚒": [
+        "cerbyd", 
+        "peiriant tân", 
+        "peiriant", 
+        "tân"
+    ], 
+    "🚓": [
+        "car yr heddlu", 
+        "car", 
+        "heddlu", 
+        "patrôl", 
+        "cerbyd"
+    ], 
+    "🚔": [
+        "car", 
+        "heddlu", 
+        "dod i’ch cwrdd", 
+        "car heddlu sy’n dod i’ch cwrdd"
+    ], 
+    "🚕": [
+        "cerbyd", 
+        "tacsi"
+    ], 
+    "🚖": [
+        "cerbyd", 
+        "tacsi sy’n dod i’ch cwrdd", 
+        "tacsi"
+    ], 
+    "🚗": [
+        "car", 
+        "modur", 
+        "cerbyd"
+    ], 
+    "🚘": [
+        "car", 
+        "modur", 
+        "dod i’ch cwrdd", 
+        "modur sy’n dod i’ch cwrdd"
+    ], 
+    "🚙": [
+        "cerbyd", 
+        "cerbyd hamdden", 
+        "hamdden"
+    ], 
+    "🚚": [
+        "lori dosbarthu", 
+        "cerbyd", 
+        "lori", 
+        "dosbarthu"
+    ], 
+    "🚛": [
+        "lori gymalog", 
+        "cerbyd", 
+        "lori", 
+        "rhannol"
+    ], 
+    "🚜": [
+        "cerbyd", 
+        "tractor"
+    ], 
+    "🚝": [
+        "cerbyd", 
+        "trên un gledren"
+    ], 
+    "🚞": [
+        "rheilffordd", 
+        "car", 
+        "mynydd", 
+        "rheilffordd fynydd"
+    ], 
+    "🚟": [
+        "rheilffordd", 
+        "cerbyd", 
+        "rheilffordd grog", 
+        "crogiant"
+    ], 
+    "🚠": [
+        "gondola", 
+        "cebl", 
+        "mynydd", 
+        "rhaffbont fynydd"
+    ], 
+    "🚡": [
+        "tramffordd awyrol", 
+        "car", 
+        "awyrol", 
+        "cebl", 
+        "gondola"
+    ], 
+    "🚢": [
+        "cerbyd", 
+        "llong"
+    ], 
+    "🚣": [
+        "person yn rhwyfo cwch", 
+        "rhwyfo", 
+        "cwch"
+    ], 
+    "🚤": [
+        "cerbyd", 
+        "cwch gwib", 
+        "cwch"
+    ], 
+    "🚥": [
+        "traffig", 
+        "arwydd", 
+        "golau traffig llorweddol", 
+        "golau"
+    ], 
+    "🚦": [
+        "traffig", 
+        "arwydd", 
+        "golau", 
+        "golau traffig fertigol"
+    ], 
+    "🚧": [
+        "rhwystr", 
+        "adeiladwaith"
+    ], 
+    "🚨": [
+        "car", 
+        "heddlu", 
+        "golau", 
+        "golau car yr heddlu"
+    ], 
+    "🚩": [
+        "baner drionglog", 
+        "post"
+    ], 
+    "🚪": [
+        "drws"
+    ], 
+    "🚫": [
+        "gwahardd", 
+        "dim", 
+        "mynediad", 
+        "wedi’i wahardd"
+    ], 
+    "🚬": [
+        "ysmygu"
+    ], 
+    "🚭": [
+        "gwahardd", 
+        "dim", 
+        "dim ysmygu", 
+        "ysmygu"
+    ], 
+    "🚮": [
+        "arwydd sbwriel mewn bin", 
+        "sbwriel", 
+        "bin sbwriel"
+    ], 
+    "🚯": [
+        "gwahardd", 
+        "dim", 
+        "dim sbwriel", 
+        "sbwriel"
+    ], 
+    "🚰": [
+        "diod", 
+        "dŵr yfed", 
+        "dŵr", 
+        "yfed"
+    ], 
+    "🚱": [
+        "diod", 
+        "yfed", 
+        "gwahardd", 
+        "dwr na ellir ei foteli", 
+        "prohibited", 
+        "dŵr"
+    ], 
+    "🚲": [
+        "cerbyd", 
+        "beic"
+    ], 
+    "🚳": [
+        "gwahardd", 
+        "cerbyd", 
+        "dim beiciau", 
+        "beic"
+    ], 
+    "🚴": [
+        "beicio", 
+        "person yn beicio", 
+        "beic"
+    ], 
+    "🚵": [
+        "beicio", 
+        "person yn beicio mynydd", 
+        "mynydd", 
+        "beic"
+    ], 
+    "🚶": [
+        "person yn cerdded", 
+        "cerdded", 
+        "heicio"
+    ], 
+    "🚷": [
+        "gwahardd", 
+        "dim", 
+        "cerddwr", 
+        "dim cerddwyr"
+    ], 
+    "🚸": [
+        "plant yn croesi", 
+        "plentyn", 
+        "cerddwr", 
+        "traffig", 
+        "croesi"
+    ], 
+    "🚹": [
+        "toiled", 
+        "dyn", 
+        "ystafell ymolchi i ddynion", 
+        "tŷ bach"
+    ], 
+    "🚺": [
+        "ystafell ymolchi i fenywod", 
+        "menyw", 
+        "tŷbach", 
+        "toiled"
+    ], 
+    "🚻": [
+        "toiled", 
+        "ystafell ymolchi"
+    ], 
+    "🚼": [
+        "babi", 
+        "symbol babi", 
+        "newid"
+    ], 
+    "🚽": [
+        "toiled"
+    ], 
+    "🚾": [
+        "toiled", 
+        "dŵr", 
+        "tŷ bach", 
+        "tŷbach"
+    ], 
+    "🚿": [
+        "dŵr", 
+        "cawod"
+    ], 
+    "🛀": [
+        "person mewn bath", 
+        "twba", 
+        "bath"
+    ], 
+    "🛁": [
+        "twba bath", 
+        "bath"
+    ], 
+    "🛂": [
+        "pasbort", 
+        "arolygaeth", 
+        "arolygaeth pasbort"
+    ], 
+    "🛃": [
+        "tollau"
+    ], 
+    "🛄": [
+        "hawlio bagiau", 
+        "hawlio", 
+        "bagiau"
+    ], 
+    "🛅": [
+        "coffor", 
+        "bagiau wedi’u gadael", 
+        "bagiau"
+    ], 
+    "🛌": [
+        "gwesty", 
+        "cysgu", 
+        "person mewn gwely"
+    ], 
+    "🛐": [
+        "crefydd", 
+        "man addoli", 
+        "addoli"
+    ], 
+    "🛑": [
+        "arwydd stop", 
+        "wythonglog", 
+        "arwydd", 
+        "stop"
+    ], 
+    "🛒": [
+        "cert", 
+        "siopa", 
+        "troli", 
+        "troli siopa"
+    ], 
+    "🛫": [
+        "ymadawiad", 
+        "cofrestru", 
+        "awyren", 
+        "ymadawiad awyren"
+    ], 
+    "🛬": [
+        "glanio", 
+        "dyfodiadau", 
+        "dyfodiad awyren", 
+        "awyren"
+    ], 
+    "🛴": [
+        "sgwter", 
+        "cicio", 
+        "sgwter cicio"
+    ], 
+    "🛵": [
+        "sgwter", 
+        "sgwter modur", 
+        "modur"
+    ], 
+    "🛶": [
+        "canŵ", 
+        "cwch"
+    ], 
+    "🛷": [
+        "car llusg", 
+        "sled"
+    ], 
+    "🛸": [
+        "soser hedegog", 
+        "peth hedegog anhysbys"
+    ], 
+    "🤐": [
+        "ceg", 
+        "wyneb â sip dros y geg", 
+        "sip", 
+        "caeedig", 
+        "wyneb"
+    ], 
+    "🤑": [
+        "ceg", 
+        "wyneb symbol arian", 
+        "wyneb", 
+        "arian"
+    ], 
+    "🤒": [
+        "wyneb â thermomedr", 
+        "sâl", 
+        "wyneb", 
+        "thermomedr"
+    ], 
+    "🤓": [
+        "wyneb clyfar", 
+        "clyfar", 
+        "wyneb"
+    ], 
+    "🤔": [
+        "wyneb yn meddwl", 
+        "meddwl", 
+        "wyneb"
+    ], 
+    "🤕": [
+        "dolur", 
+        "niwed", 
+        "rhwymyn", 
+        "wyneb", 
+        "wyneb â rhwymyn i’r pen"
+    ], 
+    "🤖": [
+        "wyneb robot", 
+        "robot", 
+        "wyneb", 
+        "anghenfil"
+    ], 
+    "🤗": [
+        "wyneb yn rhoi cwtsh", 
+        "wyneb", 
+        "cwtsh"
+    ], 
+    "🤘": [
+        "llaw", 
+        "arwydd y cyrn", 
+        "cyrn", 
+        "bys", 
+        "corff"
+    ], 
+    "🤙": [
+        "llaw", 
+        "llaw ffonia fi", 
+        "ffonio"
+    ], 
+    "🤚": [
+        "cefn llaw wedi’i chodi", 
+        "wedi’i chodi", 
+        "cefn llaw"
+    ], 
+    "🤛": [
+        "dwrn tua’r chwith", 
+        "tua’r chwith", 
+        "dwrn"
+    ], 
+    "🤜": [
+        "tua’r dde", 
+        "dwrn", 
+        "dwrn tua’r dde"
+    ], 
+    "🤝": [
+        "llaw", 
+        "cyfarfod", 
+        "ysgwyd dwylo", 
+        "cytuno", 
+        "ysgwyd"
+    ], 
+    "🤞": [
+        "llaw", 
+        "bysedd wedi’u croesi", 
+        "lwc", 
+        "bys", 
+        "croesi"
+    ], 
+    "🤟": [
+        "llaw", 
+        "caru ti", 
+        "arwydd caru ti"
+    ], 
+    "🤠": [
+        "het", 
+        "wyneb het cowboi", 
+        "cowmones", 
+        "wyneb", 
+        "cowboi"
+    ], 
+    "🤡": [
+        "wyneb", 
+        "clown", 
+        "wyneb clown"
+    ], 
+    "🤢": [
+        "chwydu", 
+        "wyneb", 
+        "chwydlyd", 
+        "wyneb chwydlyd"
+    ], 
+    "🤣": [
+        "rholio", 
+        "llawr", 
+        "wyneb", 
+        "chwerthin", 
+        "rholio ar y llawr yn chwerthin"
+    ], 
+    "🤤": [
+        "wyneb glafoerio", 
+        "glafoerio", 
+        "wyneb"
+    ], 
+    "🤥": [
+        "celwydd", 
+        "wyneb celwydd", 
+        "wyneb", 
+        "pinocchio"
+    ], 
+    "🤦": [
+        "cledr", 
+        "cledr i’r wyneb", 
+        "anghrediniaeth", 
+        "wyneb", 
+        "cythrudd"
+    ], 
+    "🤧": [
+        "gesundheit", 
+        "tisian", 
+        "wyneb", 
+        "wyneb tisian"
+    ], 
+    "🤨": [
+        "sgeptig", 
+        "wyneb gydag ael wedi codi", 
+        "amheuaeth"
+    ], 
+    "🤩": [
+        "llygaid", 
+        "wyneb â ser yn y llygaid", 
+        "yn wên o glust i glust", 
+        "wyneb", 
+        "seren"
+    ], 
+    "🤪": [
+        "mawr", 
+        "wyneb penwan", 
+        "llygad", 
+        "bach"
+    ], 
+    "🤫": [
+        "hisht", 
+        "tawelwch", 
+        "wyneb hisht"
+    ], 
+    "🤬": [
+        "rhegi", 
+        "wyneb â symbolau dros y ceg"
+    ], 
+    "🤭": [
+        "wyneb gyda llaw dros y geg", 
+        "wps"
+    ], 
+    "🤮": [
+        "sic", 
+        "wyneb yn chwydu", 
+        "chwyd"
+    ], 
+    "🤯": [
+        "syn", 
+        "pen yn ffrwydro"
+    ], 
+    "🤰": [
+        "menyw", 
+        "menyw feichiog", 
+        "beichiog"
+    ], 
+    "🤱": [
+        "babi", 
+        "bwydo o’r fron", 
+        "bron", 
+        "nyrsio"
+    ], 
+    "🤲": [
+        "gweddïo", 
+        "cledrau dwylo yn yr awyr gyda’u gilydd"
+    ], 
+    "🤳": [
+        "ffôn", 
+        "hunlun", 
+        "camera"
+    ], 
+    "🤴": [
+        "tywysog"
+    ], 
+    "🤵": [
+        "dyn mewn tycs", 
+        "priodfab", 
+        "dyn", 
+        "tycs"
+    ], 
+    "🤶": [
+        "y Nadolig", 
+        "mam", 
+        "Siân Corn"
+    ], 
+    "🤷": [
+        "anwybodaeth", 
+        "difaterwch", 
+        "codi gwar", 
+        "amheuaeth"
+    ], 
+    "🤸": [
+        "chwaraeon", 
+        "olwyn droi", 
+        "gymnasteg", 
+        "person"
+    ], 
+    "🤹": [
+        "amldasgio", 
+        "jyglo", 
+        "cydbwyso", 
+        "sgil"
+    ], 
+    "🤺": [
+        "chwaraeon", 
+        "ffensiwr", 
+        "person", 
+        "cleddyf", 
+        "ffensio"
+    ], 
+    "🤼": [
+        "taflu codwm", 
+        "chwaraeon", 
+        "taflwr codwm", 
+        "taflwyr codwm", 
+        "person"
+    ], 
+    "🤽": [
+        "polo", 
+        "chwaraeon", 
+        "dŵr", 
+        "polo dŵr", 
+        "person"
+    ], 
+    "🤾": [
+        "chwaraeon", 
+        "pêl-law", 
+        "person", 
+        "pêl"
+    ], 
+    "🥀": [
+        "blodyn", 
+        "wedi gwiwo", 
+        "blodyn wedi gwiwo"
+    ], 
+    "🥁": [
+        "cerddoriaeth", 
+        "drwm", 
+        "ffyn curo"
+    ], 
+    "🥂": [
+        "diod", 
+        "clinc", 
+        "gwydr", 
+        "gwydrau yn tincian", 
+        "dathlu"
+    ], 
+    "🥃": [
+        "gwydraid", 
+        "tymbler", 
+        "whisgi", 
+        "gwirod", 
+        "shot"
+    ], 
+    "🥄": [
+        "llwy", 
+        "llestri bwrdd"
+    ], 
+    "🥅": [
+        "chwaraeon", 
+        "gôl", 
+        "rhwyd", 
+        "rhwyd gôl"
+    ], 
+    "🥇": [
+        "cyntaf", 
+        "medal aur", 
+        "aur", 
+        "medal"
+    ], 
+    "🥈": [
+        "ail", 
+        "medal", 
+        "arian", 
+        "medal arian"
+    ], 
+    "🥉": [
+        "trydydd", 
+        "medal", 
+        "medal efydd", 
+        "efydd"
+    ], 
+    "🥊": [
+        "bocsio", 
+        "maneg bocsio", 
+        "maneg", 
+        "chwaraeon"
+    ], 
+    "🥋": [
+        "chwaraeon", 
+        "gwisg y crefftau ymladd", 
+        "taekwondo", 
+        "karate", 
+        "y crefftau ymladd", 
+        "gwisg", 
+        "jiwdo"
+    ], 
+    "🥌": [
+        "craig", 
+        "carreg cyrlio", 
+        "gêm"
+    ], 
+    "🥐": [
+        "bara", 
+        "croissant", 
+        "rhôl cilgant", 
+        "ffrengig", 
+        "bwyd"
+    ], 
+    "🥑": [
+        "afocado", 
+        "ffrwyth", 
+        "bwyd"
+    ], 
+    "🥒": [
+        "piclen", 
+        "llysieuyn", 
+        "ciwcymber", 
+        "bwyd"
+    ], 
+    "🥓": [
+        "cig", 
+        "bacwn", 
+        "bwyd"
+    ], 
+    "🥔": [
+        "llysieuyn", 
+        "bwyd", 
+        "taten"
+    ], 
+    "🥕": [
+        "moron", 
+        "llysieuyn", 
+        "bwyd"
+    ], 
+    "🥖": [
+        "bara", 
+        "ffon fara", 
+        "ffrengig", 
+        "bwyd"
+    ], 
+    "🥗": [
+        "gwyrdd", 
+        "salad gwyrdd", 
+        "salad", 
+        "bwyd"
+    ], 
+    "🥘": [
+        "bas", 
+        "padell fas o fwyd", 
+        "casserol", 
+        "padell", 
+        "paella", 
+        "bwyd"
+    ], 
+    "🥙": [
+        "wedi stwffio", 
+        "gyro", 
+        "bara gwastad", 
+        "bwyd", 
+        "falaffel", 
+        "cebab", 
+        "bara gwastad wedi’i stwffio"
+    ], 
+    "🥚": [
+        "wy", 
+        "bwyd"
+    ], 
+    "🥛": [
+        "diod", 
+        "gwydraid", 
+        "llaeth", 
+        "gwydraid o laeth"
+    ], 
+    "🥜": [
+        "llysieuyn", 
+        "cneuen ddaear", 
+        "cneuen", 
+        "bwyd", 
+        "cnai ddaear"
+    ], 
+    "🥝": [
+        "ciwi", 
+        "ffrwyth ciwi", 
+        "ffrwyth", 
+        "bwyd"
+    ], 
+    "🥞": [
+        "cacennau poeth", 
+        "crempog", 
+        "crempogau", 
+        "bwyd", 
+        "crêpe"
+    ], 
+    "🥟": [
+        "empanada", 
+        "jiaozi", 
+        "potsticker", 
+        "twmplen", 
+        "gyōza", 
+        "pierogi"
+    ], 
+    "🥠": [
+        "proffwydoliaeth", 
+        "bisgeden lwcus"
+    ], 
+    "🥡": [
+        "bocs prydau parod", 
+        "bwced wystrys"
+    ], 
+    "🥢": [
+        "gweill bwyta"
+    ], 
+    "🥣": [
+        "brecwast", 
+        "grawnfwyd", 
+        "bowlen â llwy", 
+        "congee"
+    ], 
+    "🥤": [
+        "sudd", 
+        "soda", 
+        "cwpan â gwellt yfed"
+    ], 
+    "🥥": [
+        "piña colada", 
+        "cneuen goco", 
+        "palmwydden"
+    ], 
+    "🥦": [
+        "brocoli", 
+        "bresych gwyllt"
+    ], 
+    "🥧": [
+        "toes", 
+        "llenwad", 
+        "pei"
+    ], 
+    "🥨": [
+        "pretsel", 
+        "troellog"
+    ], 
+    "🥩": [
+        "golwyth cig oen", 
+        "golwyth", 
+        "golwyth porc", 
+        "stecen", 
+        "toriad o gig"
+    ], 
+    "🥪": [
+        "bara", 
+        "brechdan"
+    ], 
+    "🥫": [
+        "bwyd tun", 
+        "tun"
+    ], 
+    "🦀": [
+        "cranc"
+    ], 
+    "🦁": [
+        "llew", 
+        "wyneb", 
+        "wyneb llew"
+    ], 
+    "🦂": [
+        "sgorpion"
+    ], 
+    "🦃": [
+        "twrci"
+    ], 
+    "🦄": [
+        "wyneb uncorn", 
+        "uncorn", 
+        "wyneb"
+    ], 
+    "🦅": [
+        "eryr", 
+        "aderyn"
+    ], 
+    "🦆": [
+        "aderyn", 
+        "hwyaden"
+    ], 
+    "🦇": [
+        "anifail", 
+        "fampir", 
+        "ystlum"
+    ], 
+    "🦈": [
+        "pysgodyn", 
+        "siarc"
+    ], 
+    "🦉": [
+        "tylluan", 
+        "aderyn", 
+        "doeth"
+    ], 
+    "🦊": [
+        "anifail", 
+        "llwynog", 
+        "wyneb llwynog", 
+        "wyneb"
+    ], 
+    "🦋": [
+        "pryfyn", 
+        "pili-pala", 
+        "pert"
+    ], 
+    "🦌": [
+        "anifail", 
+        "carw"
+    ], 
+    "🦍": [
+        "anifail", 
+        "gorila"
+    ], 
+    "🦎": [
+        "madfall", 
+        "ymlusgiad"
+    ], 
+    "🦏": [
+        "rhinoseros", 
+        "anifail"
+    ], 
+    "🦐": [
+        "berdysyn", 
+        "pysgodyn cragen", 
+        "bwyd", 
+        "bach"
+    ], 
+    "🦑": [
+        "ystifflog", 
+        "bwyd", 
+        "molwsg"
+    ], 
+    "🦒": [
+        "smotiau", 
+        "jiráff"
+    ], 
+    "🦓": [
+        "streipen", 
+        "sebra"
+    ], 
+    "🦔": [
+        "pigog", 
+        "draenog"
+    ], 
+    "🦕": [
+        "braciosor", 
+        "sawropod", 
+        "brontosor", 
+        "diplodocws"
+    ], 
+    "🦖": [
+        "Tyranosor Rex", 
+        "T-Rex"
+    ], 
+    "🦗": [
+        "ceiliog rhedyn", 
+        "criciedyn"
+    ], 
+    "🧀": [
+        "caws", 
+        "darn o gaws"
+    ], 
+    "🧐": [
+        "wyneb gyda monocl", 
+        "clòs"
+    ], 
+    "🧑": [
+        "oedolyn", 
+        "niwtral o ran rhyw"
+    ], 
+    "🧒": [
+        "plentyn", 
+        "ifanc", 
+        "niwtral o ran rhyw"
+    ], 
+    "🧓": [
+        "hen", 
+        "niwtral o ran rhyw", 
+        "oedolyn oedranus"
+    ], 
+    "🧔": [
+        "person barfog", 
+        "barf"
+    ], 
+    "🧕": [
+        "menyw â phensgarff", 
+        "hijab", 
+        "mantilla", 
+        "pensgarff", 
+        "tichel"
+    ], 
+    "🧖": [
+        "person mewn ystafell llawn stêm", 
+        "sawna", 
+        "ystafell stêm"
+    ], 
+    "🧗": [
+        "person yn dringo", 
+        "dringwr"
+    ], 
+    "🧘": [
+        "yoga", 
+        "person mewn ystum lingroes", 
+        "myfyrdod"
+    ], 
+    "🧙": [
+        "swynwraig", 
+        "gwrach", 
+        "dewin", 
+        "swynwr"
+    ], 
+    "🧚": [
+        "tylwyth teg", 
+        "Puck", 
+        "Oberon", 
+        "Titania"
+    ], 
+    "🧛": [
+        "fampir", 
+        "meirw byw", 
+        "Draciwla"
+    ], 
+    "🧜": [
+        "môrberson", 
+        "morwas", 
+        "môr-fenyw", 
+        "môr-forwyn"
+    ], 
+    "🧝": [
+        "hudol", 
+        "coblyn"
+    ], 
+    "🧞": [
+        "genie", 
+        "djinn"
+    ], 
+    "🧟": [
+        "sombi", 
+        "meirw ar droed", 
+        "meirw byw"
+    ], 
+    "🧠": [
+        "ymennydd", 
+        "deallus"
+    ], 
+    "🧡": [
+        "oren", 
+        "calon oren"
+    ], 
+    "🧢": [
+        "cap pel fâs", 
+        "cap pêl fas"
+    ], 
+    "🧣": [
+        "scarff", 
+        "gwddf"
+    ], 
+    "🧤": [
+        "llaw", 
+        "menyg"
+    ], 
+    "🧥": [
+        "siaced", 
+        "côt"
+    ], 
+    "🧦": [
+        "sanau", 
+        "hosan"
+    ]
+}

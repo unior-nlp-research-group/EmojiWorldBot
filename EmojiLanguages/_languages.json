@@ -1,1138 +1,1328 @@
 {
     "roh": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Romansch"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Romansch"
     }, 
     "ron": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Romanian"
+        "CLDR Code": "ro", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Romanian"
     }, 
     "ita": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "italiano"
         ], 
-        "lang_name": "Italian"
+        "CLDR Code": "it", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Italian"
     }, 
     "nld": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Dutch"
+        "CLDR Code": "nl", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Dutch"
     }, 
     "tsn": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Tswana"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Tswana"
     }, 
     "ell": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Greek"
+        "CLDR Code": "el", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Greek"
     }, 
     "hrv": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Croatian"
+        "CLDR Code": "hr", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Croatian"
     }, 
     "lkt": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Lakota"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Lakota"
     }, 
     "fin": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Finnish"
+        "CLDR Code": "fi", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Finnish"
     }, 
     "hau": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Hausa"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Hausa"
     }, 
-    "eus": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+    "fil": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Basque"
+        "CLDR Code": "fil", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Filipino"
     }, 
     "haw": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Hawaiian"
-    }, 
-    "por_pt": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
-            ""
-        ], 
-        "lang_name": "Portuguese (Portugal)"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Hawaiian"
     }, 
     "amh": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Amharic"
+        "CLDR Code": "am", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Amharic"
     }, 
     "ceb": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Cebuano"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Cebuano"
     }, 
     "fas": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
-            ""
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            "farsi"
         ], 
-        "lang_name": "Persian"
+        "CLDR Code": "fa", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Persian"
     }, 
     "dan": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Danish"
+        "CLDR Code": "da", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Danish"
     }, 
     "xdk": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Dharuk"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Dharuk"
     }, 
     "nob": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "norwegian"
         ], 
-        "lang_name": "Norwegian Bokmål"
+        "CLDR Code": "nb", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Norwegian Bokmål"
     }, 
     "ces": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Czech"
+        "CLDR Code": "cs", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Czech"
     }, 
     "mon": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Mongolian"
+        "CLDR Code": "mn", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Mongolian"
     }, 
     "hin": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Hindi"
+        "CLDR Code": "hi", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Hindi"
     }, 
     "din": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Dinka"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Dinka"
     }, 
     "aer": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Arrernte"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Arrernte"
     }, 
     "bar": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Bavarian"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Bavarian"
     }, 
     "hye": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Armenian"
+        "CLDR Code": "hy", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Armenian"
     }, 
     "guj": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Gujarati"
+        "CLDR Code": "gu", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Gujarati"
     }, 
     "yor": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Yoruba"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Yoruba"
     }, 
     "afr": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Afrikaans"
+        "CLDR Code": "af", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Afrikaans"
     }, 
     "ban": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Balinese"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Balinese"
     }, 
     "bam": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Bambara"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Bambara"
     }, 
     "cro": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Crow"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Crow"
     }, 
     "tel": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Telugu"
+        "CLDR Code": "te", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Telugu"
     }, 
     "ary": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Darija"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Darija"
     }, 
     "aze": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "azerbaijani"
         ], 
-        "lang_name": "Azerbaijani (Latin)"
+        "CLDR Code": "az", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Azerbaijani (Latin)"
     }, 
     "ara": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
-            ""
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            "العربية"
         ], 
-        "lang_name": "Arabic"
+        "CLDR Code": "ar", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Arabic"
     }, 
     "lao": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Lao"
+        "CLDR Code": "lo", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Lao"
     }, 
     "est": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Estonian"
+        "CLDR Code": "et", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Estonian"
     }, 
     "lub": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Luba-Katanga"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Luba-Katanga"
     }, 
     "lug": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Luganda"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Ganda"
     }, 
     "fon": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Fon"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Fon"
     }, 
     "bla": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Blackfoot"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Blackfoot"
     }, 
     "nep": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Nepali"
+        "CLDR Code": "ne", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Nepali"
     }, 
     "fuc": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Pulaar"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Pulaar"
     }, 
     "run": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Kirundi"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Kirundi"
     }, 
     "tur": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Turkish"
+        "CLDR Code": "tr", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Turkish"
     }, 
     "kea": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Kabuverdianu"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Kabuverdianu"
     }, 
     "sba": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Ngambay"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Ngambay"
     }, 
     "que": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Quechua"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Quechua"
     }, 
     "ori": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Oriya"
+        "CLDR Code": "or", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Oriya"
     }, 
     "rus": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Russian"
+        "CLDR Code": "ru", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Russian"
     }, 
     "asm": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Assamese"
+        "CLDR Code": "as", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Assamese"
     }, 
     "ctp": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Chatino"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Chatino"
     }, 
     "srd": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Sardinian"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Sardinian"
     }, 
     "ilo": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Ilocano"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Ilocano"
+    }, 
+    "bos": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            "bosanski"
+        ], 
+        "CLDR Code": "bs", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Bosnian"
     }, 
     "gle": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Irish"
+        "CLDR Code": "ga", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Irish"
+    }, 
+    "glg": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            ""
+        ], 
+        "CLDR Code": "gl", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Galician"
+    }, 
+    "loj": {
+        "Telegram user id": [
+            264191449
+        ], 
+        "Alternative Language Names (comma separated)": [
+            ""
+        ], 
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Lojban"
     }, 
     "srp": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "serbian"
         ], 
-        "lang_name": "Serbian (Cyrillic)"
+        "CLDR Code": "sr_Latn", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Serbian"
     }, 
     "krl": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Karelian"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Karelian"
     }, 
     "isl": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Icelandic"
+        "CLDR Code": "is", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Icelandic"
     }, 
     "aka": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Akan"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Akan"
     }, 
     "tlh": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Klingon"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Klingon"
     }, 
     "zul": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Zulu"
+        "CLDR Code": "zu", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Zulu"
     }, 
     "vie": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Vietnamese"
+        "CLDR Code": "vi", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Vietnamese"
     }, 
-    "som": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+    "por": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Somali"
+        "CLDR Code": "pt_PT", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Portuguese (Portugal)"
     }, 
     "uzb": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "uzbek"
         ], 
-        "lang_name": "Uzbek (Latin)"
+        "CLDR Code": "uz", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Uzbek (Latin)"
     }, 
     "son": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Songhay"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Songhay"
     }, 
     "pol": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Polish"
+        "CLDR Code": "pl", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Polish"
     }, 
     "pln": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Palenquero"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Palenquero"
     }, 
     "bre": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Breton"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Breton"
     }, 
     "aym": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Aymara"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Aymara"
     }, 
     "yid": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Yiddish"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Yiddish"
     }, 
     "fra": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "French"
+        "CLDR Code": "fr", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "French"
     }, 
     "mkd": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Macedonian"
+        "CLDR Code": "mk", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Macedonian"
     }, 
     "zho_simp": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "simplified chinese", 
             "简体中文"
         ], 
-        "lang_name": "Chinese Simplified"
+        "CLDR Code": "zh", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Chinese Simplified"
     }, 
     "swa": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Swahili"
+        "CLDR Code": "sw", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Swahili"
     }, 
     "swe": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Swedish"
+        "CLDR Code": "sv", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Swedish"
     }, 
     "ukr": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Ukrainian"
+        "CLDR Code": "uk", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Ukrainian"
     }, 
     "heb": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Hebrew"
+        "CLDR Code": "he", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Hebrew"
     }, 
     "chy": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Cheyenne"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Cheyenne"
     }, 
     "kor": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Korean"
+        "CLDR Code": "ko", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Korean"
     }, 
     "hun": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Hungarian"
+        "CLDR Code": "hu", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Hungarian"
     }, 
     "bul": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Bulgarian"
+        "CLDR Code": "bg", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Bulgarian"
     }, 
     "drc": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Minderico"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Minderico"
     }, 
     "cym": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Welsh"
+        "CLDR Code": "cy", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Welsh"
     }, 
     "ben": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Bengali"
+        "CLDR Code": "bn", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Bengali"
+    }, 
+    "bel": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            "беларуская мова"
+        ], 
+        "CLDR Code": "be", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Belarusian"
     }, 
     "hat": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Haitian Creole"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Haitian"
     }, 
     "slv": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Slovenian"
+        "CLDR Code": "sl", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Slovenian"
     }, 
     "xho": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Xhosa"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Xhosa"
     }, 
     "deu": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "German"
+        "CLDR Code": "de", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "German"
     }, 
     "cat": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Catalan"
+        "CLDR Code": "ca", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Catalan"
     }, 
-    "fil": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+    "eus": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Filipino"
+        "CLDR Code": "eu", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Basque"
     }, 
     "spa_sp": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
-            ""
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            "spanish"
         ], 
-        "lang_name": "Spanish (Spain)"
+        "CLDR Code": "es", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Spanish (Spain)"
     }, 
     "slk": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Slovak"
+        "CLDR Code": "sk", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Slovak"
     }, 
     "zsm": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Malay"
+        "CLDR Code": "ms", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Malay"
     }, 
     "spa_la": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
-            ""
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            "spanish"
         ], 
-        "lang_name": "Spanish (Latin America)"
+        "CLDR Code": "es_419", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Spanish (Latin America)"
     }, 
     "jpn": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Japanese"
-    }, 
-    "ind": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
-            ""
-        ], 
-        "lang_name": "Indonesian"
-    }, 
-    "khm": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
-            ""
-        ], 
-        "lang_name": "Khmer"
+        "CLDR Code": "ja", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Japanese"
     }, 
     "mya": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Burmese"
+        "CLDR Code": "my", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Burmese"
+    }, 
+    "khm": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            ""
+        ], 
+        "CLDR Code": "km", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Khmer"
+    }, 
+    "ind": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            ""
+        ], 
+        "CLDR Code": "id", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Indonesian"
     }, 
     "tam": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Tamil"
+        "CLDR Code": "ta", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Tamil"
+    }, 
+    "som": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            ""
+        ], 
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Somali"
     }, 
     "eng": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "English"
+        "CLDR Code": "en", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "English"
     }, 
     "por_br": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "brazilian", 
             "brazilian portuguese"
         ], 
-        "lang_name": "Portuguese (Brazil)"
+        "CLDR Code": "pt", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Portuguese (Brazil)"
     }, 
     "lin": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Lingala"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Lingala"
     }, 
     "lit": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Lithuanian"
+        "CLDR Code": "lt", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Lithuanian"
     }, 
     "nya": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Chewa"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Chewa"
     }, 
     "sin": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Sinhala"
+        "CLDR Code": "si", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Sinhala"
     }, 
     "pan": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             "punjabi"
         ], 
-        "lang_name": "Punjabi (Gurmukhi)"
+        "CLDR Code": "pa", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Punjabi (Gurmukhi)"
     }, 
     "kab": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Berber-Algeria"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Berber-Algeria"
     }, 
     "mas": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Maasai"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Maasai"
     }, 
     "mar": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Marathi"
+        "CLDR Code": "mr", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Marathi"
     }, 
     "zho_trad": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Chinese Traditional"
+        "CLDR Code": "zh_Hant", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Chinese Traditional"
     }, 
     "kir": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Kyrgyz"
+        "CLDR Code": "ky", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Kyrgyz"
     }, 
     "lag": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Langi"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Langi"
     }, 
     "kan": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Kannada"
+        "CLDR Code": "kn", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Kannada"
     }, 
     "kik": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Gikuyu"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Gikuyu"
     }, 
     "sqi": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Albanian"
+        "CLDR Code": "sq", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Albanian"
     }, 
     "kin": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Kinyarwanda"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Kinyarwanda"
     }, 
     "kat": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Georgian"
+        "CLDR Code": "ka", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Georgian"
+    }, 
+    "lat": {
+        "Telegram user id": [
+            120016981
+        ], 
+        "Alternative Language Names (comma separated)": [
+            "lingua latina"
+        ], 
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Latin"
     }, 
     "kaz": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Kazakh"
+        "CLDR Code": "kk", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Kazakh"
     }, 
     "lav": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Latvian"
+        "CLDR Code": "lv", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Latvian"
     }, 
     "mal": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Malayam"
+        "CLDR Code": "ml", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Malayalam"
     }, 
     "urd": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Urdu"
+        "CLDR Code": "ur", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Urdu"
     }, 
     "gsw": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Swiss German"
+        "CLDR Code": "de_CH", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Swiss German"
     }, 
     "epo": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Esperanto"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Esperanto"
     }, 
     "mri": {
-        "has_diacritics": true, 
-        "user_ids": [], 
-        "roman_script": true, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Maori"
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Maori"
     }, 
     "tha": {
-        "has_diacritics": false, 
-        "user_ids": [], 
-        "roman_script": false, 
-        "alt_names": [
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
             ""
         ], 
-        "lang_name": "Thai"
+        "CLDR Code": "th", 
+        "Has diacritics (only for roman script, for diacritic check)": false, 
+        "Based on roman script (for upper case check)": false, 
+        "Language Name (eng)": "Thai"
+    }, 
+    "fao": {
+        "Telegram user id": [], 
+        "Alternative Language Names (comma separated)": [
+            ""
+        ], 
+        "CLDR Code": "", 
+        "Has diacritics (only for roman script, for diacritic check)": true, 
+        "Based on roman script (for upper case check)": true, 
+        "Language Name (eng)": "Faroese"
     }
 }

@@ -261,59 +261,6 @@ def getNumberOfEmojiBeingTagged(lang_code):
         AggregatedEmojiTags.lang_code == lang_code,
     ).count()
 
-#future = acct.put_async()
-#@ndb.transactional
-
-# =========================================
-# MAIN CLASS AggregatedTagEmojis
-# to insert new tags in the official table
-# =========================================
-
-"""
-class AggregatedTagEmojis(ndb.Model):
-    # id = lang_code tag
-    lang_code = ndb.StringProperty()
-    tag = ndb.StringProperty()
-    emojiCountTable = ndb.PickleProperty() # defaultdict(int)
-
-def getAggregatedTagEmojisId(lang_code_utf, tag_utf):
-    return lang_code_utf + ' ' + tag_utf
-
-def getAggregatedTagEmojisEntry(lang_code_utf, tag_utf):
-    unique_id = getAggregatedTagEmojisId(lang_code_utf, tag_utf)
-    return AggregatedTagEmojis.get_by_id(unique_id)
-
-@ndb.transactional(retries=100, xg=True)
-def addInAggregatedTagEmojis(userTaggingEntry):
-    lang_code_utf = userTaggingEntry.lang_code.encode('utf-8')
-    #emoji_utf = userTaggingEntry.last_emoji.encode('utf-8')
-    last_emoji_utf = userTaggingEntry.last_emoji.encode('utf-8')
-    tags = userTaggingEntry.emojiTagsTable[last_emoji_utf]
-    for t in tags:
-        unique_id = getAggregatedTagEmojisId(lang_code_utf, t)
-        aggregatedEmojisTags = AggregatedTagEmojis.get_by_id(unique_id)
-        if not aggregatedEmojisTags:
-            aggregatedEmojisTags = AggregatedTagEmojis(
-                id=unique_id,
-                parent=None,
-                namespace=None,
-                lang_code=lang_code_utf,
-                emojiCountTable = defaultdict(int)
-            )
-        emoji_utf = userTaggingEntry.last_emoji.encode('utf-8')
-        aggregatedEmojisTags.emojiCountTable[emoji_utf] +=1
-        aggregatedEmojisTags.put()
-
-def getUserEmojisForTag(lang_code_utf, tag_utf):
-    aggregatedTagEmojis = getAggregatedTagEmojisEntry(lang_code_utf, tag_utf)
-    if not aggregatedTagEmojis:
-        return None
-    return {emoji: count
-            for emoji, count in aggregatedTagEmojis.emojiCountTable.iteritems()
-            if count >= parameters.MIN_COUNT_FOR_TAGS_SUGGESTED_BY_OTHER_USERS
-    }
-"""
-
 #==============================
 # REQUEST HANDLERS
 #==============================

@@ -9,6 +9,15 @@ import textwrap
 # AUXILIARY FUNCTIONS for strings
 # ================================
 
+def import_url_csv_to_dict_list(url_csv):
+    import csv
+    import requests
+    r = requests.get(url_csv)
+    spreadSheetTsv = r.content.split('\n')
+    reader = csv.DictReader(spreadSheetTsv)
+    return [row for row in reader]
+
+
 def char_range(c1, c2):
     """Generates the characters from `c1` to `c2`, inclusive."""
     for c in xrange(ord(c1), ord(c2)+1):
@@ -190,9 +199,9 @@ def deleteData(language=None):
 
 def deleteTagging(language=None):
     from google.appengine.ext import ndb
-    import tagging
-    ndb.delete_multi(tagging.UserTagging.query().fetch(keys_only=True))
-    ndb.delete_multi(tagging.AggregatedEmojiTags.query().fetch(keys_only=True))
+    import userTagging
+    ndb.delete_multi(userTagging.UserTagging.query().fetch(keys_only=True))
+    ndb.delete_multi(userTagging.AggregatedEmojiTags.query().fetch(keys_only=True))
 
 
 def deleteProperty(model, prop_name):

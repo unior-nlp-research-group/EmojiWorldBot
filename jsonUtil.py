@@ -8,6 +8,12 @@ def json_load_byteified(file_handle):
         ignore_dicts=True
     )
 
+def json_load_byteified_file(file_path):
+    import logging
+    #logging.debug('Trying to load json file: {}'.format(file_path))
+    with open(file_path) as file_handle:
+        return json_load_byteified(file_handle)
+
 def json_loads_byteified(json_text):
     return _byteify(
         json.loads(json_text, object_hook=_byteify),
