@@ -12,4 +12,4 @@ The bot features a tagging game 🐣 for people to contribute to the expansion o
 EmojiWorldBot is a free public service produced by Federico Sangati at University of Naples “L’Orientale” (Italy), Martin Benjamin and Sina Mansour at Kamusi Project International and EPFL (Switzerland), Francesca Chiusaroli at University of Macerata (Italy), and Johanna Monti at University of Naples “L’Orientale” (Italy). If you need to get in touch with us, please send a message to @kercos.
 
 Acknowledgements:
-🔹 Default tags for 72 languages were obtained from the Unicode Consortium
+🔹 Default tags for 72 languages were obtained from the [Unicode Consortium](http://unicode.org/consortium/consort.html).
