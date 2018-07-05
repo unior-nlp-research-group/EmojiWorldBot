@@ -1,4 +1,124 @@
 {
+    "#️⃣": [
+        "takki", 
+        "takki: #"
+    ], 
+    "*️⃣": [
+        "takki", 
+        "takki: *"
+    ], 
+    "0️⃣": [
+        "takki", 
+        "takki: 0"
+    ], 
+    "1️⃣": [
+        "takki", 
+        "takki: 1"
+    ], 
+    "2️⃣": [
+        "takki", 
+        "takki: 2"
+    ], 
+    "3️⃣": [
+        "takki", 
+        "takki: 3"
+    ], 
+    "4️⃣": [
+        "takki", 
+        "takki: 4"
+    ], 
+    "5️⃣": [
+        "takki", 
+        "takki: 5"
+    ], 
+    "6️⃣": [
+        "takki: 6", 
+        "takki"
+    ], 
+    "7️⃣": [
+        "takki", 
+        "takki: 7"
+    ], 
+    "8️⃣": [
+        "takki", 
+        "takki: 8"
+    ], 
+    "9️⃣": [
+        "takki", 
+        "takki: 9"
+    ], 
+    "©️": [
+        "höfundarréttarvarið", 
+        "höfundarréttur", 
+        "höfundarréttarmerki"
+    ], 
+    "®️": [
+        "skráð", 
+        "skráð vörumerki"
+    ], 
+    "‼️": [
+        "greinarmerki", 
+        "merki", 
+        "upphr´ópunarmerki", 
+        "tvöfalt upphrópunarmerki"
+    ], 
+    "⁉️": [
+        "greinarmerki", 
+        "merki", 
+        "upphrópun", 
+        "spurning", 
+        "interrobang", 
+        "upphrópunarmerki og spurningarmerki"
+    ], 
+    "™️": [
+        "vörumerki", 
+        "skrásett vörumerki"
+    ], 
+    "ℹ️": [
+        "upplýsingaveita", 
+        "u", 
+        "upplýsingar"
+    ], 
+    "↔️": [
+        "ör", 
+        "ör til vinstri og hægri"
+    ], 
+    "↕️": [
+        "ör", 
+        "ör upp og niður"
+    ], 
+    "↖️": [
+        "norðvestur", 
+        "ör", 
+        "átt", 
+        "ör ská upp til vinstri"
+    ], 
+    "↗️": [
+        "ör", 
+        "átt", 
+        "norðaustur", 
+        "ör ská upp til hægri"
+    ], 
+    "↘️": [
+        "ör", 
+        "ör ská niður til hægri", 
+        "átt", 
+        "suðaustur"
+    ], 
+    "↙️": [
+        "suðvestur", 
+        "ör", 
+        "ör ská niður til vinstri", 
+        "átt"
+    ], 
+    "↩️": [
+        "ör", 
+        "sveigð ör til vinstri"
+    ], 
+    "↪️": [
+        "sveigð ör til hægri", 
+        "ör"
+    ], 
     "⌚": [
         "úr", 
         "klukka"
@@ -7,6 +127,14 @@
         "sandur", 
         "niðurtalning", 
         "stundaglas"
+    ], 
+    "⌨️": [
+        "lyklaborð", 
+        "tölva"
+    ], 
+    "⏏️": [
+        "takki til að opna", 
+        "opna"
     ], 
     "⏩": [
         "spóla áfram", 
@@ -32,16 +160,100 @@
         "ör", 
         "niðurör"
     ], 
+    "⏭️": [
+        "áfram", 
+        "skiptitakki", 
+        "ör", 
+        "þríhyrningur", 
+        "næsta lag"
+    ], 
+    "⏮️": [
+        "þríhyringingur", 
+        "ör", 
+        "fyrri sena", 
+        "hnappur til að skipta á síðustu rás"
+    ], 
+    "⏯️": [
+        "spila", 
+        "ör", 
+        "hægri", 
+        "pása", 
+        "spilunar- og pásuhnappur", 
+        "þríhyrningur"
+    ], 
     "⏰": [
         "klukka", 
         "vekjari", 
         "vekjaraklukka"
+    ], 
+    "⏱️": [
+        "klukka", 
+        "skeiðklukka"
+    ], 
+    "⏲️": [
+        "tímamælir", 
+        "klukka"
     ], 
     "⏳": [
         "sandur", 
         "niðurtalning", 
         "stundaglas", 
         "stundaglas með rennandi sandi"
+    ], 
+    "⏸️": [
+        "pásutakki", 
+        "lóðrétt", 
+        "tvöfalt", 
+        "pása"
+    ], 
+    "⏹️": [
+        "kassi", 
+        "stopptakki", 
+        "stoppa"
+    ], 
+    "⏺️": [
+        "hringur", 
+        "taka upp", 
+        "upptökutakki"
+    ], 
+    "Ⓜ️": [
+        "hringur", 
+        "m", 
+        "bókstafurinn m inni í hring"
+    ], 
+    "▪️": [
+        "rúmfræði", 
+        "lítill svartur ferningur", 
+        "ferningur"
+    ], 
+    "▫️": [
+        "rúmfræði", 
+        "lítill hvítur ferningur", 
+        "ferningur"
+    ], 
+    "▶️": [
+        "spilunartakki", 
+        "spila", 
+        "hægri", 
+        "ör", 
+        "þríhyrningur"
+    ], 
+    "◀️": [
+        "þríhyrningur", 
+        "ör", 
+        "vinstri", 
+        "hnappur til að spóla til baka", 
+        "spóla til baka"
+    ], 
+    "◻️": [
+        "rúmfræði", 
+        "ferningur", 
+        "hvítur meðalstór ferningur"
+    ], 
+    "◼️": [
+        "rúmfræði", 
+        "ferningur", 
+        "svartur meðalstór ferningur"
     ], 
     "◽": [
         "hvítur meðalsmár ferningur", 
@@ -52,6 +264,45 @@
         "svartur meðalsmár ferningur", 
         "rúmfræði", 
         "ferningur"
+    ], 
+    "☀️": [
+        "geimur", 
+        "bjart", 
+        "sólskin", 
+        "geislar", 
+        "veður", 
+        "sól"
+    ], 
+    "☁️": [
+        "svart ský", 
+        "skýjað", 
+        "ský"
+    ], 
+    "☂️": [
+        "regn", 
+        "regnhlíf", 
+        "klæðnaður", 
+        "veður"
+    ], 
+    "☃️": [
+        "snjókarl í snjókomu", 
+        "kalt", 
+        "veður", 
+        "snjór"
+    ], 
+    "☄️": [
+        "geimur", 
+        "farartæki", 
+        "halastjarna"
+    ], 
+    "☎️": [
+        "sími"
+    ], 
+    "☑️": [
+        "kjörkassi með hakmerki", 
+        "kassi", 
+        "kjörkassi", 
+        "hakmerki"
     ], 
     "☔": [
         "dropi", 
@@ -69,6 +320,93 @@
         "heitur drykkur", 
         "te", 
         "drekka"
+    ], 
+    "☘️": [
+        "planta", 
+        "músarsmári", 
+        "smári"
+    ], 
+    "☝️": [
+        "fingur", 
+        "vísifingur bendir upp", 
+        "vísifingur", 
+        "hönd", 
+        "líkami", 
+        "benda", 
+        "upp"
+    ], 
+    "☠️": [
+        "andlit", 
+        "dauði", 
+        "hauskúpa og beinleggir", 
+        "beinleggir", 
+        "skrímsli", 
+        "líkami", 
+        "höfuðkúpa"
+    ], 
+    "☢️": [
+        "merki", 
+        "geislavirkni"
+    ], 
+    "☣️": [
+        "efni", 
+        "hættuleg efni", 
+        "hættuleg"
+    ], 
+    "☦️": [
+        "trúarbrögð", 
+        "rétttrúnaðarkross", 
+        "kristni", 
+        "kross"
+    ], 
+    "☪️": [
+        "múslimi", 
+        "íslam", 
+        "trúarbrögð", 
+        "stjarna og skarður máni"
+    ], 
+    "☮️": [
+        "friður", 
+        "friðartákn"
+    ], 
+    "☯️": [
+        "trúarbrögð", 
+        "jin", 
+        "taó", 
+        "jin jang", 
+        "jang", 
+        "taóisti"
+    ], 
+    "☸️": [
+        "dharma", 
+        "dharmahjól", 
+        "búddisti", 
+        "trúarbrögð", 
+        "hjól"
+    ], 
+    "☹️": [
+        "andlit", 
+        "andlit með stóra skeifu", 
+        "skeifa"
+    ], 
+    "☺️": [
+        "andlit", 
+        "brosandi andlit", 
+        "broskarl", 
+        "broskall", 
+        "bros"
+    ], 
+    "♀️": [
+        "merki", 
+        "kvenkyns", 
+        "konur", 
+        "kvenkyns merki"
+    ], 
+    "♂️": [
+        "merki", 
+        "karlar", 
+        "karlkyns merki", 
+        "karlkyns"
     ], 
     "♈": [
         "hrútur", 
@@ -124,16 +462,102 @@
         "stjörnumerki", 
         "fiskar"
     ], 
+    "♠️": [
+        "spilalitur", 
+        "leikur", 
+        "spaði", 
+        "spil"
+    ], 
+    "♣️": [
+        "spilalitur", 
+        "leikur", 
+        "lauf", 
+        "spil"
+    ], 
+    "♥️": [
+        "spilalitur", 
+        "leikur", 
+        "hjarta", 
+        "spil"
+    ], 
+    "♦️": [
+        "spilalitur", 
+        "leikur", 
+        "tigull", 
+        "spil", 
+        "tígull"
+    ], 
+    "♨️": [
+        "heitar laugar", 
+        "uppsprettur", 
+        "heitt", 
+        "gufa"
+    ], 
+    "♻️": [
+        "endurvinnsla", 
+        "endurvinnslumerki", 
+        "alþjóðlegt endurvinnslumerki"
+    ], 
     "♿": [
         "hjólastóll", 
         "fatlaðir", 
         "aðgengi", 
         "hjólastólaaðgengi"
     ], 
+    "⚒️": [
+        "verkfæri", 
+        "haki", 
+        "hamar", 
+        "hamar og haki"
+    ], 
     "⚓": [
         "skip", 
         "tól", 
         "akkeri"
+    ], 
+    "⚔️": [
+        "krosslögð", 
+        "sverð", 
+        "krosslögð sverð", 
+        "vopn"
+    ], 
+    "⚕️": [
+        "læknir", 
+        "lækningar", 
+        "lækningamerki", 
+        "læknavísindi", 
+        "merki"
+    ], 
+    "⚖️": [
+        "vog", 
+        "vogin", 
+        "verkfæri", 
+        "stjörmumerki", 
+        "jafnvægi", 
+        "skali", 
+        "þyngd"
+    ], 
+    "⚗️": [
+        "eimingarflaska", 
+        "efnafræði"
+    ], 
+    "⚙️": [
+        "gírhjól", 
+        "verkfæri"
+    ], 
+    "⚛️": [
+        "frumeindartákn", 
+        "frumeind", 
+        "trúleysingi"
+    ], 
+    "⚜️": [
+        "fleur-de-lis-tákn", 
+        "fleur-de-lis"
+    ], 
+    "⚠️": [
+        "viðvörun", 
+        "varúð", 
+        "varúðarmerki"
     ], 
     "⚡": [
         "rafmagn", 
@@ -152,6 +576,16 @@
         "svartur", 
         "rúmfræði", 
         "svartur hringur"
+    ], 
+    "⚰️": [
+        "dauði", 
+        "líkkista"
+    ], 
+    "⚱️": [
+        "duftker", 
+        "dauði", 
+        "aska", 
+        "jarðarför"
     ], 
     "⚽": [
         "fótbolti", 
@@ -172,11 +606,34 @@
         "ský", 
         "sól"
     ], 
+    "⛈️": [
+        "regn", 
+        "þruma", 
+        "ský með eldingu og regni", 
+        "veður", 
+        "ský"
+    ], 
     "⛎": [
         "stjörnumerki", 
         "naðurvaldi", 
         "snákur", 
         "naðra"
+    ], 
+    "⛏️": [
+        "verkfæri", 
+        "námugröftur", 
+        "haki"
+    ], 
+    "⛑️": [
+        "andlit", 
+        "kross", 
+        "hjálmur með hvítum krossi", 
+        "hjálmur", 
+        "björgunaraðstoð", 
+        "hattur"
+    ], 
+    "⛓️": [
+        "keðja"
     ], 
     "⛔": [
         "bannað", 
@@ -185,11 +642,27 @@
         "einstefna", 
         "nei"
     ], 
+    "⛩️": [
+        "hof", 
+        "trúarbrögð", 
+        "sjintó-hof", 
+        "sjintó"
+    ], 
     "⛪": [
         "bygging", 
         "kirkja", 
         "kross", 
         "trú"
+    ], 
+    "⛰️": [
+        "fjall"
+    ], 
+    "⛱️": [
+        "regn", 
+        "regnhlíf", 
+        "regnhlíf á jörðinni", 
+        "veður", 
+        "sól"
     ], 
     "⛲": [
         "gosbrunnur", 
@@ -201,11 +674,29 @@
         "hola", 
         "flagg í holu"
     ], 
+    "⛴️": [
+        "bátur", 
+        "ferja"
+    ], 
     "⛵": [
         "smábátahöfn", 
         "bátur", 
         "skúta", 
         "seglskúta"
+    ], 
+    "⛷️": [
+        "snjór", 
+        "skíði", 
+        "skíðamaður"
+    ], 
+    "⛸️": [
+        "skauti", 
+        "ís", 
+        "svell"
+    ], 
+    "⛹️‍♂️": [
+        "manneskja með bolta", 
+        "bolti"
     ], 
     "⛺": [
         "tjaldstæði", 
@@ -217,22 +708,119 @@
         "bensínstöð", 
         "bensíndæla"
     ], 
+    "✂️": [
+        "verkfæri", 
+        "skæri"
+    ], 
     "✅": [
         "hak", 
         "hakmerki"
     ], 
+    "✈️": [
+        "farartæki", 
+        "flugvél"
+    ], 
+    "✉️": [
+        "umslag", 
+        "tölvupóstur"
+    ], 
     "✊": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "hnefi", 
+        "hnefi: húðtegund 3", 
+        "hnefi: húðtegund 1–2", 
         "uppréttur hnefi", 
-        "hnefi"
+        "hnefi: húðtegund 6", 
+        "hnefi: húðtegund 5", 
+        "hnefi: húðtegund 4"
     ], 
     "✋": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "lófi", 
-        "upprétt hönd"
+        "lófi: húðtegund 4", 
+        "lófi: húðtegund 5", 
+        "upprétt hönd", 
+        "lófi: húðtegund 1–2", 
+        "lófi: húðtegund 6", 
+        "lófi: húðtegund 3"
+    ], 
+    "✌️": [
+        "sigurmerki", 
+        "friður", 
+        "sigur", 
+        "friðarmerki"
+    ], 
+    "✍️": [
+        "hönd", 
+        "líkami", 
+        "skrifandi hönd", 
+        "skrifa"
+    ], 
+    "✏️": [
+        "penni", 
+        "skrifa", 
+        "blýantur"
+    ], 
+    "✒️": [
+        "penni", 
+        "pennaoddur", 
+        "svartur pennaoddur"
+    ], 
+    "✔️": [
+        "stórt hakmerki", 
+        "merki", 
+        "hakmerki"
+    ], 
+    "✖️": [
+        "margfalda", 
+        "stórt margföldunar-x", 
+        "margföldunar-x", 
+        "afturkalla"
+    ], 
+    "✝️": [
+        "trúarbrögð", 
+        "latneskur kross", 
+        "kristni", 
+        "kross"
+    ], 
+    "✡️": [
+        "davíðsstjarna", 
+        "trúarbrögð", 
+        "gyðingatrú", 
+        "davíð", 
+        "stjarna", 
+        "gyðingur"
     ], 
     "✨": [
         "stjörnur", 
         "neistar", 
         "glit"
+    ], 
+    "✳️": [
+        "áttarma stjörnumerki", 
+        "stjörnumerki"
+    ], 
+    "✴️": [
+        "stjarna", 
+        "áttarma stjarna"
+    ], 
+    "❄️": [
+        "snjókorn", 
+        "kalt", 
+        "veður", 
+        "snjór"
+    ], 
+    "❇️": [
+        "leiftra", 
+        "leiftur"
     ], 
     "❌": [
         "margföldun", 
@@ -272,6 +860,17 @@
         "upphrópun", 
         "upphrópunarmerki"
     ], 
+    "❣️": [
+        "greinarmerki", 
+        "merki", 
+        "upphrópunarmerki", 
+        "hjarta", 
+        "hjarta sem upphrópunarmerki"
+    ], 
+    "❤️": [
+        "hjarta", 
+        "rautt hjarta"
+    ], 
     "➕": [
         "þykkur plús", 
         "plús", 
@@ -287,6 +886,13 @@
         "þykkt deilingarmerki", 
         "deilingarmerki"
     ], 
+    "➡️": [
+        "austur", 
+        "ör", 
+        "átt", 
+        "höfuðátt", 
+        "ör til hægri"
+    ], 
     "➰": [
         "lykkja"
     ], 
@@ -294,6 +900,37 @@
         "lykkjur", 
         "gormur", 
         "tvöföld lykkja"
+    ], 
+    "⤴️": [
+        "sveig ör upp", 
+        "ör"
+    ], 
+    "⤵️": [
+        "niður", 
+        "ör", 
+        "sveigð ör niður"
+    ], 
+    "⬅️": [
+        "ör", 
+        "ör til vinstri", 
+        "átt", 
+        "höfuðátt", 
+        "vestur"
+    ], 
+    "⬆️": [
+        "ör", 
+        "átt", 
+        "norður", 
+        "höfuðátt", 
+        "ör upp"
+    ], 
+    "⬇️": [
+        "niður", 
+        "ör", 
+        "höfuðátt", 
+        "ör niður", 
+        "átt", 
+        "suður"
     ], 
     "⬛": [
         "rúmfræði", 
@@ -313,6 +950,28 @@
         "hringur", 
         "stór og breiður hringur"
     ], 
+    "〰️": [
+        "bugðustrik", 
+        "strik", 
+        "bugða", 
+        "alda"
+    ], 
+    "〽️": [
+        "merki", 
+        "japanskt upphafsmerki söngs"
+    ], 
+    "㊗️": [
+        "til hamingju", 
+        "„Til hamingju“ ´a japönsku", 
+        "japanska", 
+        "myndletur"
+    ], 
+    "㊙️": [
+        "japanska", 
+        "myndletur", 
+        "„Leyndarmál“ á japönsku", 
+        "leyndarmál"
+    ], 
     "🀄": [
         "rauður dreki", 
         "Mahjong-tafla", 
@@ -323,6 +982,28 @@
         "jókerspil", 
         "jóker", 
         "spil"
+    ], 
+    "🅰️": [
+        "A", 
+        "A-blóðflokkur", 
+        "blóð", 
+        "blóðflokkur"
+    ], 
+    "🅱️": [
+        "blóð", 
+        "B", 
+        "blóðflokkur", 
+        "B-blóðflokkur"
+    ], 
+    "🅾️": [
+        "blóð", 
+        "blóðflokkur", 
+        "O-blóðflokkur", 
+        "O"
+    ], 
+    "🅿️": [
+        "bílastæði", 
+        "leggja"
     ], 
     "🆎": [
         "AB", 
@@ -1421,6 +2102,12 @@
         "japanska", 
         "hér"
     ], 
+    "🈂️": [
+        "þjónustugjald", 
+        "katakana", 
+        "japanska", 
+        "katakana sa, kassi"
+    ], 
     "🈚": [
         "ókeypis", 
         "„Ókeypis“ á japönsku", 
@@ -1462,6 +2149,12 @@
         "japanska", 
         "„Ekki ókeypis“ á japönsku", 
         "myndletur"
+    ], 
+    "🈷️": [
+        "mánaðarleg upphæð", 
+        "japanska", 
+        "myndletur", 
+        "mánaðarleg upphæð, kassi"
     ], 
     "🈸": [
         "beiðni", 
@@ -1699,6 +2392,67 @@
         "stjörnuhrap", 
         "óskastjarna"
     ], 
+    "🌡️": [
+        "hitamælir", 
+        "veður"
+    ], 
+    "🌤️": [
+        "veður", 
+        "sól á bak við ský", 
+        "ský", 
+        "sól"
+    ], 
+    "🌥️": [
+        "sól á bak við stórt ský", 
+        "veður", 
+        "ský", 
+        "sól"
+    ], 
+    "🌦️": [
+        "regn", 
+        "sól á bak við regnský", 
+        "veður", 
+        "ský", 
+        "sól"
+    ], 
+    "🌧️": [
+        "regn", 
+        "ský", 
+        "regnský", 
+        "veður"
+    ], 
+    "🌨️": [
+        "snjóský", 
+        "kalt", 
+        "veður", 
+        "ský", 
+        "snjór"
+    ], 
+    "🌩️": [
+        "eldingarský", 
+        "elding", 
+        "ský", 
+        "veður"
+    ], 
+    "🌪️": [
+        "hvirfilbylur", 
+        "skýstrókur", 
+        "ský", 
+        "veður"
+    ], 
+    "🌫️": [
+        "þoka", 
+        "veður", 
+        "ský"
+    ], 
+    "🌬️": [
+        "andlit", 
+        "ský", 
+        "blása", 
+        "veðurandlit", 
+        "veður", 
+        "vindur"
+    ], 
     "🌭": [
         "pylsa í brauði", 
         "pulsa", 
@@ -1739,6 +2493,13 @@
     "🌵": [
         "planta", 
         "kaktus"
+    ], 
+    "🌶️": [
+        "chilli", 
+        "planta", 
+        "sterkt", 
+        "chilipipar", 
+        "pipar"
     ], 
     "🌷": [
         "blóm", 
@@ -2108,6 +2869,13 @@
         "drekka", 
         "mjólk"
     ], 
+    "🍽️": [
+        "eldamennska", 
+        "gaffall og hnifur við disk", 
+        "diskur", 
+        "hnífur", 
+        "gaffall"
+    ], 
     "🍾": [
         "flaska", 
         "bar", 
@@ -2147,9 +2915,19 @@
         "tré"
     ], 
     "🎅": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "jól", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "jólasveinn: húðtegund 5", 
         "hátíð", 
+        "jólasveinn: húðtegund 4", 
+        "jólasveinn: húðtegund 6", 
+        "jólasveinn: húðtegund 3", 
         "jólasveinn", 
-        "jól"
+        "jólasveinn: húðtegund 1–2"
     ], 
     "🎆": [
         "hátíð", 
@@ -2230,6 +3008,48 @@
         "útskriftarhúfa", 
         "stúdentshúfa", 
         "húfa"
+    ], 
+    "🎖️": [
+        "fagnaður", 
+        "hermedalía", 
+        "medalía", 
+        "her"
+    ], 
+    "🎗️": [
+        "fagnaður", 
+        "minnisvarði", 
+        "minnisvarðaborði", 
+        "borði"
+    ], 
+    "🎙️": [
+        "hljóðnemi", 
+        "tónlist", 
+        "hljóðver", 
+        "hljóðnemi í hljóðveri"
+    ], 
+    "🎚️": [
+        "tónlist", 
+        "sleði", 
+        "hljóðstyrkssleði", 
+        "hljóðstyrkur"
+    ], 
+    "🎛️": [
+        "stýritakkar", 
+        "takkar", 
+        "tónlist", 
+        "stýring"
+    ], 
+    "🎞️": [
+        "kvikmyndafilma", 
+        "kvikmynd", 
+        "rammi", 
+        "bíómynd", 
+        "kvikmyndalist"
+    ], 
+    "🎟️": [
+        "aðgöngumiði", 
+        "aðgangseyrir", 
+        "miði"
     ], 
     "🎠": [
         "hringekja", 
@@ -2431,19 +3251,47 @@
         "kappakstur"
     ], 
     "🏂": [
+        "húðtegund 4", 
+        "snjóbrettamaður: húðtegund 4", 
+        "húðtegund 6", 
+        "snjóbrettamaður: húðtegund 1–2", 
+        "húðtegund 3", 
         "snjóbrettamaður", 
+        "snjóbrettamaður: húðtegund 3", 
+        "snjóbrettamaður: húðtegund 5", 
+        "snjóbrettamaður: húðtegund 6", 
+        "húðtegund 1–2", 
         "snjóbretti", 
-        "íþróttir"
+        "íþróttir", 
+        "húðtegund 5"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "hlaupari", 
+        "kona", 
+        "hlaup", 
+        "hlaupandi", 
+        "hlaupandi kona"
+    ], 
+    "🏃‍♂️": [
+        "hlaupandi", 
         "hlaupari", 
         "hlaup", 
-        "íþróttir"
+        "hlaupandi maður", 
+        "íþróttir", 
+        "karl"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "kona", 
+        "brimbrettamaður", 
+        "brimbretti", 
+        "kona á brimbretti"
+    ], 
+    "🏄‍♂️": [
         "brimbrettamaður", 
         "íþróttir", 
-        "brimbretti"
+        "karl", 
+        "brimbretti", 
+        "maður á brimbretti"
     ], 
     "🏅": [
         "íþróttamedalía", 
@@ -2455,11 +3303,21 @@
         "verðlaun"
     ], 
     "🏇": [
-        "knapi", 
-        "veðreiðahestur", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "hestur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "veðreiðahestur", 
+        "veðreiðar: húðtegund 6", 
+        "veðreiðar: húðtegund 5", 
+        "veðreiðar: húðtegund 4", 
+        "knapi", 
+        "veðreiðar: húðtegund 3", 
         "íþrótt", 
-        "veðreiðar"
+        "veðreiðar", 
+        "veðreiðar: húðtegund 1–2"
     ], 
     "🏈": [
         "amerískur fótbolti", 
@@ -2472,11 +3330,35 @@
         "íþrótt", 
         "bolti"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "kona", 
+        "sundkona", 
+        "sund"
+    ], 
+    "🏊‍♂️": [
         "sundmaður", 
+        "karl", 
         "íþrótt", 
         "synda", 
         "sund"
+    ], 
+    "🏋️‍♂️": [
+        "kraftlyftingamaður", 
+        "lyftingakappi", 
+        "þyngd"
+    ], 
+    "🏌️‍♂️": [
+        "golf", 
+        "kylfingur"
+    ], 
+    "🏍️": [
+        "mótorhjól", 
+        "kappakstur"
+    ], 
+    "🏎️": [
+        "kappakstursbíll", 
+        "kappakstur", 
+        "bíll"
     ], 
     "🏏": [
         "krikket", 
@@ -2510,6 +3392,64 @@
         "spaði", 
         "borðtennis", 
         "bolti"
+    ], 
+    "🏔️": [
+        "kalt", 
+        "snjór", 
+        "fjall", 
+        "snæviþakinn fjallstindur"
+    ], 
+    "🏕️": [
+        "ferðalag", 
+        "tjaldstæði", 
+        "tjald"
+    ], 
+    "🏖️": [
+        "sólhlíf", 
+        "strönd", 
+        "strönd með sólhlíf"
+    ], 
+    "🏗️": [
+        "bygging", 
+        "mannvirki í byggingu", 
+        "í byggingu"
+    ], 
+    "🏘️": [
+        "bygging", 
+        "húsaþyrping", 
+        "hús"
+    ], 
+    "🏙️": [
+        "borg", 
+        "borgarlandslag", 
+        "byggingar"
+    ], 
+    "🏚️": [
+        "bygging", 
+        "niðurnítt", 
+        "hús", 
+        "niðurnítt hús"
+    ], 
+    "🏛️": [
+        "bygging", 
+        "klassísk fornbygging", 
+        "sígild", 
+        "klassísk"
+    ], 
+    "🏜️": [
+        "eyðimörk"
+    ], 
+    "🏝️": [
+        "eyðieyja", 
+        "eyðimörk", 
+        "eyja"
+    ], 
+    "🏞️": [
+        "þjóðgarður", 
+        "garður"
+    ], 
+    "🏟️": [
+        "leikvangur"
     ], 
     "🏠": [
         "bygging", 
@@ -2599,6 +3539,17 @@
         "evrópskur kastali", 
         "kastali"
     ], 
+    "🏳️": [
+        "blaktandi", 
+        "blaktandi hvítur fáni"
+    ], 
+    "🏳️‍🌈": [
+        "gleðiganga", 
+        "regnbogi", 
+        "fáni", 
+        "gay pride", 
+        "regnbogafáni"
+    ], 
     "🏴": [
         "blaktandi", 
         "blaktandi svartur fáni"
@@ -2614,6 +3565,16 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Wales", 
         "fáni"
+    ], 
+    "🏵️": [
+        "rósarmynstur", 
+        "rós", 
+        "blóm", 
+        "panta"
+    ], 
+    "🏷️": [
+        "merki", 
+        "merkimiði"
     ], 
     "🏸": [
         "fjaðrabolti", 
@@ -2949,18 +3910,46 @@
         "fótspor", 
         "loppa"
     ], 
+    "🐿️": [
+        "íkorni", 
+        "jarðíkorni"
+    ], 
     "👀": [
         "andlit", 
         "augu"
     ], 
+    "👁️": [
+        "líkami", 
+        "auga"
+    ], 
     "👂": [
+        "húðtegund 4", 
         "eyru", 
-        "líkami"
+        "húðtegund 6", 
+        "eyru: húðtegund 1–2", 
+        "líkami", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "eyru: húðtegund 6", 
+        "eyru: húðtegund 5", 
+        "eyru: húðtegund 4", 
+        "eyru: húðtegund 3", 
+        "húðtegund 5"
     ], 
     "👃": [
         "andlit", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "líkami", 
-        "nef"
+        "nef: húðtegund 3", 
+        "nef: húðtegund 1–2", 
+        "nef: húðtegund 5", 
+        "nef: húðtegund 6", 
+        "nef: húðtegund 4", 
+        "nef", 
+        "húðtegund 5"
     ], 
     "👄": [
         "andlit", 
@@ -2974,79 +3963,189 @@
         "tunga"
     ], 
     "👆": [
+        "fingur bendir upp: húðtegund 3", 
         "hendi", 
+        "húðtegund 6", 
+        "fingur bendir upp: húðtegund 1–2", 
         "fingur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "fingur bendir upp: húðtegund 4", 
         "fingur bendir upp", 
         "vísifingur", 
         "hönd", 
+        "fingur bendir upp: húðtegund 6", 
+        "fingur bendir upp: húðtegund 5", 
         "benda", 
-        "upp"
+        "húðtegund 5", 
+        "upp", 
+        "húðtegund 4"
     ], 
     "👇": [
+        "húðtegund 4", 
         "hendi", 
+        "húðtegund 6", 
+        "fingur bendir niður: húðtegund 3", 
+        "fingur bendir niður: húðtegund 4", 
         "fingur", 
+        "fingur bendir niður: húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "niður", 
         "vísifingur", 
         "hönd", 
         "benda", 
-        "fingur bendir niður"
+        "fingur bendir niður", 
+        "fingur bendir niður: húðtegund 1–2", 
+        "húðtegund 5", 
+        "fingur bendir niður: húðtegund 5"
     ], 
     "👈": [
+        "húðtegund 4", 
         "hendi", 
+        "fingur bendir til vinstri: húðtegund 1–2", 
+        "fingur bendir til vinstri: húðtegund 5", 
         "fingur", 
         "fingur bendir til vinstri", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "fingur bendir til vinstri: húðtegund 4", 
         "vísifingur", 
         "hönd", 
-        "benda"
+        "fingur bendir til vinstri: húðtegund 6", 
+        "benda", 
+        "húðtegund 6", 
+        "húðtegund 5", 
+        "fingur bendir til vinstri: húðtegund 3"
     ], 
     "👉": [
+        "húðtegund 4", 
         "hendi", 
+        "húðtegund 6", 
+        "húðtegund 5", 
         "fingur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "benda", 
         "vísifingur", 
         "hönd", 
-        "fingur bendir til hægri"
+        "fingur bendir til hægri: húðtegund 1–2", 
+        "fingur bendir til hægri", 
+        "fingur bendir til hægri: húðtegund 3", 
+        "fingur bendir til hægri: húðtegund 5", 
+        "fingur bendir til hægri: húðtegund 4", 
+        "fingur bendir til hægri: húðtegund 6"
     ], 
     "👊": [
-        "hönd", 
+        "húðtegund 4", 
+        "húðtegund 5", 
         "samankrepptur hnefi", 
         "krepptur hnefi", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "krepptur hnefi: húðtegund 4", 
+        "krepptur hnefi: húðtegund 6", 
+        "krepptur hnefi: húðtegund 1–2", 
+        "krepptur hnefi: húðtegund 3", 
+        "hönd", 
+        "krepptur hnefi: húðtegund 5", 
+        "kýla", 
         "hnefi", 
-        "kýla"
+        "húðtegund 6"
     ], 
     "👋": [
-        "hönd", 
+        "húðtegund 4", 
         "hönd veifar", 
-        "veifa"
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "hönd veifar: húðtegund 3", 
+        "hönd veifar: húðtegund 4", 
+        "hönd veifar: húðtegund 5", 
+        "hönd veifar: húðtegund 6", 
+        "hönd", 
+        "veifa", 
+        "hönd veifar: húðtegund 1–2", 
+        "húðtegund 5"
     ], 
     "👌": [
         "bending", 
         "handarmerki", 
-        "Í lagi", 
+        "Í lagi: húðtegund 4", 
+        "Í lagi: húðtegund 5", 
         "OK", 
-        "ókei"
+        "Í lagi: húðtegund 3", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "Í lagi: húðtegund 6", 
+        "Í lagi", 
+        "húðtegund 6", 
+        "ókei", 
+        "Í lagi: húðtegund 1–2", 
+        "húðtegund 5", 
+        "húðtegund 4"
     ], 
     "👍": [
         "bending", 
+        "þumall upp", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "þumall upp: húðtegund 4", 
+        "þumall upp: húðtegund 3", 
+        "þumall upp: húðtegund 1–2", 
+        "þumall upp: húðtegund 5", 
+        "þumall upp: húðtegund 6", 
         "hönd", 
-        "þumall upp"
+        "húðtegund 5", 
+        "húðtegund 4"
     ], 
     "👎": [
         "bending", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "hönd", 
-        "þumall niður"
+        "þumall niður", 
+        "húðtegund 5", 
+        "þumall niður: húðtegund 5", 
+        "þumall niður: húðtegund 4", 
+        "þumall niður: húðtegund 6", 
+        "þumall niður: húðtegund 1–2", 
+        "þumall niður: húðtegund 3"
     ], 
     "👏": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
         "hendur klappa", 
-        "lófaklapp", 
+        "lófaklapp: húðtegund 5", 
+        "húðtegund 1–2", 
         "klapp", 
-        "hendur"
+        "lófaklapp: húðtegund 1–2", 
+        "lófaklapp: húðtegund 3", 
+        "lófaklapp: húðtegund 6", 
+        "lófaklapp", 
+        "hendur", 
+        "lófaklapp: húðtegund 4"
     ], 
     "👐": [
-        "opinn lófi", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "lófar", 
-        "hendur", 
-        "opnir lófar"
+        "opinn lófi: húðtegund 1–2", 
+        "opinn lófi: húðtegund 5", 
+        "opinn lófi: húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "opnir lófar", 
+        "opinn lófi: húðtegund 3", 
+        "opinn lófi", 
+        "opinn lófi: húðtegund 4", 
+        "hendur"
     ], 
     "👑": [
         "kóróna", 
@@ -3162,65 +4261,203 @@
         "brjóstmynd"
     ], 
     "👦": [
-        "drengur", 
+        "húðtegund 4", 
         "strákur", 
-        "fólk"
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "fólk", 
+        "drengur: húðtegund 5", 
+        "drengur: húðtegund 1–2", 
+        "drengur", 
+        "drengur: húðtegund 3", 
+        "drengur: húðtegund 4", 
+        "húðtegund 5", 
+        "drengur: húðtegund 6"
     ], 
     "👧": [
+        "stúlka: húðtegund 3", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "stúlka", 
+        "stúlka: húðtegund 5", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "stúlka: húðtegund 6", 
         "fólk", 
+        "stúlka: húðtegund 4", 
         "stelpa", 
-        "stúlka"
+        "húðtegund 5", 
+        "stúlka: húðtegund 1–2"
     ], 
     "👨": [
         "maður", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "fólk", 
+        "karl: húðtegund 5", 
+        "karl: húðtegund 3", 
+        "karl: húðtegund 6", 
+        "húðtegund 5", 
+        "karl: húðtegund 1–2", 
+        "karl: húðtegund 4", 
+        "karl"
+    ], 
+    "👨‍⚕️": [
+        "hjúkrunarfræðingur", 
+        "karlkyns heilbrigðisstarfsmaður", 
+        "heilsa", 
+        "læknir", 
+        "karl"
+    ], 
+    "👨‍⚖️": [
+        "réttur", 
+        "dómur", 
+        "karlkyns dómari", 
+        "dómari", 
+        "karl"
+    ], 
+    "👨‍✈️": [
+        "karlkyns flugstjóri", 
+        "flugmaður", 
+        "flugvél", 
+        "flugstjóri", 
+        "karl"
+    ], 
+    "👨‍❤️‍👨": [
+        "par", 
+        "fólk", 
+        "par: karl og karl", 
+        "rómantík", 
+        "hjarta", 
+        "par með hjarta", 
+        "karl"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "kyssast", 
+        "fólk", 
+        "rómantík", 
+        "koss: karl og karl", 
+        "koss", 
         "karl"
     ], 
     "👨‍🌾": [
         "garðyrkjumaður", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "karlkyns bóndi", 
+        "húðtegund 1–2", 
+        "húðtegund 3", 
         "bóndi", 
-        "karl", 
-        "karlkyns bóndi"
+        "karlkyns bóndi: húðtegund 5", 
+        "karlkyns bóndi: húðtegund 4", 
+        "karlkyns bóndi: húðtegund 3", 
+        "karlkyns bóndi: húðtegund 6", 
+        "karlkyns bóndi: húðtegund 1–2", 
+        "húðtegund 5", 
+        "karl"
     ], 
     "👨‍🍳": [
+        "húðtegund 4", 
+        "húðtegund 5", 
         "elda", 
+        "karlkyns kokkur: húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "karlkyns kokkur", 
         "matreiðsla", 
+        "húðtegund 6", 
+        "karlkyns kokkur: húðtegund 5", 
+        "karlkyns kokkur: húðtegund 4", 
         "kokkur", 
+        "karlkyns kokkur: húðtegund 3", 
+        "karlkyns kokkur: húðtegund 1–2", 
         "karl"
     ], 
     "👨‍🎓": [
-        "námsmaður", 
-        "karlkyns námsmaður", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "útskrift", 
-        "karl", 
-        "nemandi"
+        "karlkyns námsmaður: húðtegund 6", 
+        "nemandi", 
+        "húðtegund 1–2", 
+        "karlkyns námsmaður: húðtegund 1–2", 
+        "karlkyns námsmaður", 
+        "karlkyns námsmaður: húðtegund 3", 
+        "karlkyns námsmaður: húðtegund 5", 
+        "húðtegund 3", 
+        "karlkyns námsmaður: húðtegund 4", 
+        "námsmaður", 
+        "karl"
     ], 
     "👨‍🎤": [
+        "söngvari: húðtegund 1–2", 
+        "húðtegund 4", 
+        "húðtegund 6", 
         "tónlist", 
+        "söngvari: húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "söngvari: húðtegund 5", 
         "söngvari", 
         "skemmtikraftur", 
+        "söngvari: húðtegund 3", 
+        "söngvari: húðtegund 4", 
+        "húðtegund 5", 
         "karl"
     ], 
     "👨‍🎨": [
+        "húðtegund 4", 
+        "listamaður: húðtegund 4", 
+        "húðtegund 6", 
+        "húðtegund 3", 
         "litaspjald", 
-        "málari", 
+        "listamaður: húðtegund 1–2", 
+        "húðtegund 1–2", 
+        "listamaður: húðtegund 6", 
         "listamaður", 
+        "listamaður: húðtegund 3", 
+        "málari", 
+        "listamaður: húðtegund 5", 
+        "húðtegund 5", 
         "karl"
     ], 
     "👨‍🏫": [
-        "skóli", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "karlkyns kennari: húðtegund 5", 
+        "karlkyns kennari: húðtegund 4", 
+        "karlkyns kennari: húðtegund 3", 
+        "kennari", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "karlkyns kennari: húðtegund 1–2", 
         "leiðbeinandi", 
+        "húðtegund 6", 
         "karlkyns kennari", 
-        "karl", 
-        "kennari"
+        "skóli", 
+        "karlkyns kennari: húðtegund 6", 
+        "karl"
     ], 
     "👨‍🏭": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "karlkyns verksmiðjustarfsmaður: húðtegund 5", 
+        "karlkyns verksmiðjustarfsmaður: húðtegund 4", 
+        "karlkyns verksmiðjustarfsmaður: húðtegund 3", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "húðtegund 6", 
+        "karlkyns verksmiðjustarfsmaður: húðtegund 6", 
         "verkfæri", 
         "verksmiðja", 
-        "karl", 
+        "karlkyns verksmiðjustarfsmaður", 
         "iðnaður", 
-        "karlkyns verksmiðjustarfsmaður"
+        "karlkyns verksmiðjustarfsmaður: húðtegund 1–2", 
+        "karl"
     ], 
     "👨‍👦": [
         "fjölskylda", 
@@ -3381,95 +4618,292 @@
         "barn"
     ], 
     "👨‍💻": [
+        "húðtegund 4", 
+        "karlkyns forritari", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "karlkyns forritari: húðtegund 6", 
+        "karlkyns forritari: húðtegund 5", 
+        "hugbúnaður", 
+        "karlkyns forritari: húðtegund 3", 
         "forritari", 
         "hönnuður", 
+        "karlkyns forritari: húðtegund 4", 
+        "húðtegund 5", 
         "karl", 
-        "hugbúnaður", 
-        "karlkyns forritari"
+        "karlkyns forritari: húðtegund 1–2"
     ], 
     "👨‍💼": [
-        "karlkyns skrifstofustarfsmaður", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "viðskipti", 
-        "skrifstofa", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "karlkyns skrifstofustarfsmaður", 
+        "stjórandi", 
+        "karlkyns skrifstofustarfsmaður: húðtegund 1–2", 
         "karl", 
-        "stjórandi"
+        "karlkyns skrifstofustarfsmaður: húðtegund 6", 
+        "karlkyns skrifstofustarfsmaður: húðtegund 5", 
+        "karlkyns skrifstofustarfsmaður: húðtegund 4", 
+        "karlkyns skrifstofustarfsmaður: húðtegund 3", 
+        "skrifstofa"
     ], 
     "👨‍🔧": [
-        "verkfæri", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "karl með skiptilykil", 
+        "karl með skiptilykil: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "karl með skiptilykil: húðtegund 1–2", 
         "viðgerð", 
+        "karl með skiptilykil: húðtegund 5", 
+        "verkfæri", 
+        "karl með skiptilykil: húðtegund 6", 
+        "karl með skiptilykil: húðtegund 3", 
         "karl", 
         "viðhald"
     ], 
     "👨‍🔬": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "vísindamaður: húðtegund 1–2", 
         "vísindamaður", 
-        "karl", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "rannsóknir", 
         "efnafræði", 
-        "rannsóknir"
+        "vísindamaður: húðtegund 6", 
+        "vísindamaður: húðtegund 5", 
+        "vísindamaður: húðtegund 4", 
+        "vísindamaður: húðtegund 3", 
+        "karl"
     ], 
     "👨‍🚀": [
+        "húðtegund 4", 
         "geimur", 
+        "húðtegund 6", 
         "karlkyns geimfari", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "karlkyns geimfari: húðtegund 4", 
+        "geimfari", 
+        "karlkyns geimfari: húðtegund 6", 
+        "karlkyns geimfari: húðtegund 1–2", 
+        "karlkyns geimfari: húðtegund 5", 
+        "karlkyns geimfari: húðtegund 3", 
         "eldflaug", 
-        "karl", 
-        "geimfari"
+        "húðtegund 5", 
+        "karl"
     ], 
     "👨‍🚒": [
-        "slökkvilið", 
-        "karl", 
+        "húðtegund 4", 
+        "slökkviliðsmaður: húðtegund 1–2", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "slökkviliðsmaður", 
+        "slökkviliðsmaður: húðtegund 3", 
+        "slökkviliðsmaður: húðtegund 5", 
         "brunabíll", 
-        "slökkviliðsmaður"
+        "slökkviliðsmaður: húðtegund 6", 
+        "slökkvilið", 
+        "húðtegund 5", 
+        "karl", 
+        "slökkviliðsmaður: húðtegund 4"
     ], 
     "👩": [
+        "kona: húðtegund 3", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "kona: húðtegund 6", 
+        "kona: húðtegund 5", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "kona", 
-        "fólk"
+        "fólk", 
+        "kona: húðtegund 4", 
+        "kona: húðtegund 1–2", 
+        "húðtegund 5"
+    ], 
+    "👩‍⚕️": [
+        "hjúkrunarfræðingur", 
+        "kona", 
+        "heilsa", 
+        "læknir", 
+        "kvenkyns heilbrigðisstarfsmaður"
+    ], 
+    "👩‍⚖️": [
+        "kvenkyns dómari", 
+        "dómur", 
+        "dómari", 
+        "réttur", 
+        "kona"
+    ], 
+    "👩‍✈️": [
+        "kona", 
+        "flugmaður", 
+        "flugvél", 
+        "flugstjóri", 
+        "kvenkyns flugstjóri"
+    ], 
+    "👩‍❤️‍👨": [
+        "par", 
+        "par: kona og karl", 
+        "kona", 
+        "fólk", 
+        "rómantík", 
+        "hjarta", 
+        "par með hjarta", 
+        "karl"
+    ], 
+    "👩‍❤️‍👩": [
+        "par: kona og kona", 
+        "par", 
+        "kona", 
+        "fólk", 
+        "rómantík", 
+        "hjarta", 
+        "par með hjarta"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "kyssast", 
+        "koss: kona og karl", 
+        "kona", 
+        "fólk", 
+        "rómantík", 
+        "koss", 
+        "karl"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "kyssast", 
+        "kona", 
+        "fólk", 
+        "rómantík", 
+        "koss: kona og kona", 
+        "koss"
     ], 
     "👩‍🌾": [
         "garðyrkjumaður", 
-        "bóndi", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "kvenkyns bóndi: húðtegund 6", 
+        "kvenkyns bóndi: húðtegund 1–2", 
+        "húðtegund 1–2", 
+        "kona", 
+        "húðtegund 3", 
         "kvenkyns bóndi", 
-        "kona"
+        "kvenkyns bóndi: húðtegund 5", 
+        "kvenkyns bóndi: húðtegund 4", 
+        "bóndi", 
+        "kvenkyns bóndi: húðtegund 3", 
+        "húðtegund 5"
     ], 
     "👩‍🍳": [
-        "kona", 
+        "húðtegund 4", 
+        "húðtegund 5", 
         "elda", 
-        "kokkur", 
+        "kvenkyns kokkur: húðtegund 5", 
+        "kvenkyns kokkur", 
+        "húðtegund 1–2", 
+        "kona", 
+        "kvenkyns kokkur: húðtegund 3", 
+        "húðtegund 3", 
         "matreiðsla", 
-        "kvenkyns kokkur"
+        "kvenkyns kokkur: húðtegund 4", 
+        "kvenkyns kokkur: húðtegund 6", 
+        "kokkur", 
+        "kvenkyns kokkur: húðtegund 1–2", 
+        "húðtegund 6"
     ], 
     "👩‍🎓": [
-        "kona", 
-        "nemandi", 
-        "námsmaður", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "kvenkyns námsmaður: húðtegund 3", 
         "útskrift", 
+        "kvenkyns námsmaður: húðtegund 4", 
+        "kvenkyns námsmaður: húðtegund 1–2", 
+        "nemandi", 
+        "húðtegund 1–2", 
+        "kona", 
+        "húðtegund 3", 
+        "húðtegund 6", 
+        "kvenkyns námsmaður: húðtegund 6", 
+        "kvenkyns námsmaður: húðtegund 5", 
+        "námsmaður", 
         "kvenkyns námsmaður"
     ], 
     "👩‍🎤": [
-        "kona", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "söngkona: húðtegund 1–2", 
         "tónlist", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "kona", 
+        "söngkona", 
+        "söngkona: húðtegund 3", 
         "skemmtikraftur", 
-        "söngkona"
+        "söngkona: húðtegund 5", 
+        "söngkona: húðtegund 4", 
+        "söngkona: húðtegund 6"
     ], 
     "👩‍🎨": [
+        "húðtegund 4", 
+        "listakona", 
+        "húðtegund 6", 
+        "húðtegund 3", 
         "litaspjald", 
         "kona", 
+        "listakona: húðtegund 5", 
+        "listakona: húðtegund 4", 
+        "listakona: húðtegund 3", 
+        "listakona: húðtegund 6", 
+        "húðtegund 1–2", 
         "listamaður", 
+        "listakona: húðtegund 1–2", 
         "málari", 
-        "listakona"
+        "húðtegund 5"
     ], 
     "👩‍🏫": [
-        "kona", 
-        "skóli", 
-        "leiðbeinandi", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "kennari", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "kona", 
+        "leiðbeinandi", 
+        "kvenkyns kennari: húðtegund 6", 
+        "kvenkyns kennari: húðtegund 5", 
+        "kvenkyns kennari: húðtegund 4", 
+        "kvenkyns kennari: húðtegund 3", 
+        "kvenkyns kennari: húðtegund 1–2", 
+        "skóli", 
         "kvenkyns kennari"
     ], 
     "👩‍🏭": [
-        "verkfæri", 
+        "húðtegund 4", 
+        "kvenkyns verksmiðjustarfsmaður", 
+        "húðtegund 6", 
+        "kvenkyns verksmiðjustarfsmaður: húðtegund 5", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "kona", 
+        "kvenkyns verksmiðjustarfsmaður: húðtegund 1–2", 
+        "kvenkyns verksmiðjustarfsmaður: húðtegund 3", 
+        "verkfæri", 
         "verksmiðja", 
+        "kvenkyns verksmiðjustarfsmaður: húðtegund 6", 
         "iðnaður", 
-        "kvenkyns verksmiðjustarfsmaður"
+        "kvenkyns verksmiðjustarfsmaður: húðtegund 4", 
+        "húðtegund 5"
     ], 
     "👩‍👦": [
         "kona", 
@@ -3574,53 +5008,106 @@
         "barn"
     ], 
     "👩‍💻": [
-        "forritari", 
-        "hönnuður", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "kvenkyns forritari: húðtegund 5", 
+        "kvenkyns forritari: húðtegund 1–2", 
+        "kvenkyns forritari: húðtegund 3", 
+        "kvenkyns forritari: húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "kona", 
+        "húðtegund 6", 
+        "kvenkyns forritari: húðtegund 4", 
         "kvenkyns forritari", 
         "hugbúnaður", 
-        "kona"
+        "forritari", 
+        "hönnuður"
     ], 
     "👩‍💼": [
-        "stjórnandi", 
-        "kona", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "viðskipti", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "kona", 
+        "kvenkyns skrifstofustarfsmaður: húðtegund 6", 
+        "stjórnandi", 
+        "kvenkyns skrifstofustarfsmaður: húðtegund 5", 
+        "kvenkyns skrifstofustarfsmaður: húðtegund 1–2", 
+        "kvenkyns skrifstofustarfsmaður: húðtegund 3", 
         "kvenkyns skrifstofustarfsmaður", 
-        "skrifstofa"
+        "skrifstofa", 
+        "kvenkyns skrifstofustarfsmaður: húðtegund 4"
     ], 
     "👩‍🔧": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "kona með skiptilykil: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "kona", 
         "kona með skiptilykil", 
-        "viðhald", 
+        "kona með skiptilykil: húðtegund 6", 
         "viðgerð", 
-        "verkfæri"
+        "kona með skiptilykil: húðtegund 4", 
+        "kona með skiptilykil: húðtegund 5", 
+        "verkfæri", 
+        "kona með skiptilykil: húðtegund 3", 
+        "viðhald"
     ], 
     "👩‍🔬": [
+        "vísindakona: húðtegund 1–2", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "vísindamaður", 
+        "húðtegund 3", 
         "vísindakona", 
         "kona", 
         "rannsóknir", 
         "efnafræði", 
-        "vísindamaður"
+        "húðtegund 1–2", 
+        "vísindakona: húðtegund 3", 
+        "vísindakona: húðtegund 4", 
+        "vísindakona: húðtegund 5", 
+        "vísindakona: húðtegund 6", 
+        "húðtegund 5"
     ], 
     "👩‍🚀": [
+        "húðtegund 4", 
         "geimur", 
+        "húðtegund 6", 
+        "kvenkyns geimfari: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "kona", 
         "kvenkyns geimfari", 
-        "eldflaug", 
         "geimfari", 
-        "kona"
+        "kvenkyns geimfari: húðtegund 3", 
+        "kvenkyns geimfari: húðtegund 6", 
+        "kvenkyns geimfari: húðtegund 1–2", 
+        "kvenkyns geimfari: húðtegund 5", 
+        "eldflaug", 
+        "húðtegund 5"
     ], 
     "👩‍🚒": [
-        "kona", 
-        "slökkvilið", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "slökkviliðskona", 
-        "brunabíll", 
-        "slökkviliðsmaður"
-    ], 
-    "👪": [
-        "móðir", 
-        "fjölskylda", 
-        "fólk", 
-        "faðir", 
-        "barn"
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "kona", 
+        "slökkviliðskona: húðtegund 4", 
+        "slökkviliðsmaður", 
+        "slökkviliðskona: húðtegund 6", 
+        "slökkviliðskona: húðtegund 1–2", 
+        "slökkviliðskona: húðtegund 5", 
+        "slökkviliðskona: húðtegund 3", 
+        "slökkvilið", 
+        "brunabíll"
     ], 
     "👫": [
         "par", 
@@ -3647,67 +5134,174 @@
         "fólk", 
         "leiðast"
     ], 
-    "👮": [
-        "lögreglumaður", 
-        "fólk", 
+    "👮‍♀️": [
+        "lögga", 
+        "kona", 
+        "kvenkyns lögregluþjónn", 
         "lögregla", 
         "lögregluþjónn"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "lögga", 
+        "lögreglumaður", 
+        "fólk", 
+        "lögregla", 
+        "karlkyns lögregluþjónn", 
+        "lögregluþjónn", 
+        "karl"
+    ], 
+    "👯‍♀️": [
+        "skemmtun", 
         "kona", 
         "fólk", 
+        "dans", 
         "stelpa", 
-        "kanínueyru"
+        "kanínueyru", 
+        "partí", 
+        "konur með kanínueyru", 
+        "konur"
+    ], 
+    "👯‍♂️": [
+        "karlar", 
+        "dans", 
+        "menn með kanínueyru", 
+        "skemmtun", 
+        "partí"
     ], 
     "👰": [
-        "brúðarslör", 
+        "húðtegund 4", 
+        "brúður: húðtegund 4", 
+        "húðtegund 6", 
+        "brúður: húðtegund 6", 
+        "brúður: húðtegund 3", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "brúður: húðtegund 1–2", 
         "fólk", 
-        "brúður", 
         "brúður með slör", 
+        "brúður", 
+        "brúðarslör", 
+        "brúður: húðtegund 5", 
+        "húðtegund 5", 
         "brúðkaup"
     ], 
-    "👱": [
-        "fólk", 
+    "👱‍♀️": [
+        "kona", 
+        "ljóshærð", 
+        "ljóshærð kona", 
+        "ljóst hár"
+    ], 
+    "👱‍♂️": [
+        "maður", 
         "ljóst hár", 
+        "fólk", 
+        "ljóshærður", 
+        "ljóshærður maður", 
         "ljóshærð manneskja"
     ], 
     "👲": [
+        "húðtegund 4", 
         "maður með kínverskan hatt", 
+        "maður með kínverska húfu: húðtegund 4", 
+        "maður með kínverska húfu: húðtegund 5", 
         "kínverskur hattur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "maður með kínverska húfu: húðtegund 6", 
         "fólk", 
+        "húðtegund 6", 
         "gua pi mao", 
+        "maður með kínverska húfu: húðtegund 1–2", 
         "maður með kínverska húfu", 
-        "maður með gua pi mao"
+        "húðtegund 5", 
+        "maður með gua pi mao", 
+        "maður með kínverska húfu: húðtegund 3"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "kona", 
+        "túrban", 
+        "kona með túrban"
+    ], 
+    "👳‍♂️": [
+        "maður", 
         "fólk", 
         "maður með túrban", 
-        "túrban"
+        "túrban", 
+        "karl með túrban"
     ], 
     "👴": [
         "maður", 
+        "húðtegund 4", 
+        "húðtegund 6", 
         "gamall", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "eldri maður: húðtegund 5", 
         "fólk", 
-        "eldri maður"
+        "eldri maður: húðtegund 3", 
+        "eldri maður: húðtegund 6", 
+        "eldri maður: húðtegund 4", 
+        "eldri maður: húðtegund 1–2", 
+        "eldri maður", 
+        "húðtegund 5"
     ], 
     "👵": [
-        "gömul", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "kona", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "eldri kona", 
         "fólk", 
-        "kona"
+        "eldri kona: húðtegund 4", 
+        "eldri kona: húðtegund 3", 
+        "eldri kona: húðtegund 6", 
+        "eldri kona: húðtegund 5", 
+        "eldri kona: húðtegund 1–2", 
+        "gömul"
     ], 
     "👶": [
         "ungbarn", 
-        "fólk"
-    ], 
-    "👷": [
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "fólk", 
-        "verkamaður"
+        "ungbarn: húðtegund 3", 
+        "ungbarn: húðtegund 4", 
+        "ungbarn: húðtegund 5", 
+        "ungbarn: húðtegund 6", 
+        "ungbarn: húðtegund 1–2", 
+        "húðtegund 5"
+    ], 
+    "👷‍♀️": [
+        "kona", 
+        "verkamaður", 
+        "kvenkyns byggingarstarfsmaður", 
+        "byggingar"
+    ], 
+    "👷‍♂️": [
+        "karlkyns byggingarstarfsmaður", 
+        "fólk", 
+        "verkamaður", 
+        "karl", 
+        "byggingar"
     ], 
     "👸": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "prinsessa: húðtegund 3", 
+        "prinsessa: húðtegund 5", 
+        "prinsessa: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "fólk", 
         "ævintýri", 
-        "prinsessa"
+        "prinsessa: húðtegund 6", 
+        "húðtegund 6", 
+        "prinsessa", 
+        "prinsessa: húðtegund 1–2"
     ], 
     "👹": [
         "andlit", 
@@ -3732,9 +5326,19 @@
     ], 
     "👼": [
         "andlit", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "engill", 
+        "barnsengill: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "ævintýri", 
+        "barnsengill: húðtegund 1–2", 
+        "barnsengill: húðtegund 5", 
+        "barnsengill: húðtegund 6", 
         "barnsengill", 
-        "engill"
+        "barnsengill: húðtegund 3", 
+        "húðtegund 5"
     ], 
     "👽": [
         "andlit", 
@@ -3762,22 +5366,52 @@
         "ævintýri", 
         "hauskúpa"
     ], 
-    "💁": [
-        "aðstoð", 
+    "💁‍♀️": [
+        "kona réttir út lófa", 
+        "kona", 
         "fólk", 
         "upplýsingar", 
+        "lófi", 
+        "létt", 
         "hjálp", 
-        "upplýsingaborð"
+        "upplýsingaborð", 
+        "aðstoð"
     ], 
-    "💂": [
-        "vörður", 
+    "💁‍♂️": [
+        "lófi", 
+        "maður réttir út lófa", 
+        "léttur", 
+        "karl"
+    ], 
+    "💂‍♀️": [
+        "kona", 
+        "vaktmaður", 
+        "kvenkyns vörður", 
+        "vakt", 
+        "vörður"
+    ], 
+    "💂‍♂️": [
         "fólk", 
-        "vakt"
+        "karlkyns vörður", 
+        "vaktmaður", 
+        "vakt", 
+        "vörður", 
+        "karl"
     ], 
     "💃": [
-        "dansandi kona", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "dansandi kona: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "fólk", 
-        "dans"
+        "dans", 
+        "dansandi kona: húðtegund 4", 
+        "dansandi kona: húðtegund 5", 
+        "dansandi kona: húðtegund 6", 
+        "dansandi kona: húðtegund 3", 
+        "dansandi kona"
     ], 
     "💄": [
         "snyrtivörur", 
@@ -3785,21 +5419,50 @@
         "varalitur"
     ], 
     "💅": [
-        "naglalakk", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "snyrtivörur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "naglalakk: húðtegund 6", 
+        "naglalakk: húðtegund 5", 
+        "naglalakk: húðtegund 4", 
+        "naglalakk: húðtegund 3", 
         "handsnyrting", 
-        "neglur"
+        "naglalakk", 
+        "neglur", 
+        "naglalakk: húðtegund 1–2"
     ], 
-    "💆": [
+    "💆‍♀️": [
         "andlitsnudd", 
+        "kona fær andlitsnudd", 
         "nudd", 
-        "snyrtistofa"
+        "snyrtistofa", 
+        "kona"
     ], 
-    "💇": [
-        "fegurð", 
+    "💆‍♂️": [
+        "andlitsnudd", 
+        "maður fær andlitsnudd", 
+        "nudd", 
+        "karl"
+    ], 
+    "💇‍♀️": [
+        "hár", 
+        "hárgreiðsla", 
+        "kona", 
         "klipping", 
         "snyrtistofa", 
+        "fegurð", 
+        "kona í klippingu", 
         "hárgreiðslustofa"
+    ], 
+    "💇‍♂️": [
+        "hárgreiðsla", 
+        "klipping", 
+        "maður í klippingu", 
+        "karl", 
+        "hár"
     ], 
     "💈": [
         "rakarastofa", 
@@ -3838,23 +5501,10 @@
         "rómantík", 
         "gimsteinn"
     ], 
-    "💏": [
-        "kyssast", 
-        "fólk", 
-        "koss", 
-        "rómantík"
-    ], 
     "💐": [
         "rómantík", 
         "blóm", 
         "blómvöndur"
-    ], 
-    "💑": [
-        "rómantík", 
-        "fólk", 
-        "hjarta", 
-        "par", 
-        "par með hjarta"
     ], 
     "💒": [
         "kirkja", 
@@ -4015,12 +5665,22 @@
         "della"
     ], 
     "💪": [
+        "húðtegund 4", 
         "hnykla", 
         "skrípó", 
         "sterkur", 
         "spenntir vöðvar", 
+        "húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 6", 
         "upphandleggsvöðvar", 
-        "vöðvar"
+        "upphandleggsvöðvar: húðtegund 3", 
+        "upphandleggsvöðvar: húðtegund 5", 
+        "upphandleggsvöðvar: húðtegund 1–2", 
+        "vöðvar", 
+        "húðtegund 5", 
+        "upphandleggsvöðvar: húðtegund 6", 
+        "upphandleggsvöðvar: húðtegund 4"
     ], 
     "💫": [
         "skrípó", 
@@ -4472,6 +6132,13 @@
         "vídeóspóla", 
         "myndbandsspóla"
     ], 
+    "📽️": [
+        "sýningarvél", 
+        "myndband", 
+        "kvikmynd", 
+        "bíómynd", 
+        "kvikmyndalist"
+    ], 
     "📿": [
         "hálsmen", 
         "trú", 
@@ -4815,6 +6482,16 @@
         "niðurvísandi þríhyrningur", 
         "þríhyrningur"
     ], 
+    "🕉️": [
+        "hindúismi", 
+        "trúarbrögð", 
+        "om-merki"
+    ], 
+    "🕊️": [
+        "friður", 
+        "dúfa", 
+        "fugl"
+    ], 
     "🕋": [
         "múslimi", 
         "kaaba-bygging", 
@@ -4984,21 +6661,122 @@
         "klukka", 
         "12:30"
     ], 
+    "🕯️": [
+        "ljós", 
+        "kerti"
+    ], 
+    "🕰️": [
+        "klukka", 
+        "stássklukka"
+    ], 
+    "🕳️": [
+        "hola", 
+        "op"
+    ], 
+    "🕴️": [
+        "jakkaföt", 
+        "maður", 
+        "viðskipti", 
+        "svífandi bisnessmaður í jakkafötum"
+    ], 
+    "🕵️‍♂️": [
+        "spæjari", 
+        "leynilögreglumaður"
+    ], 
+    "🕶️": [
+        "dimmt", 
+        "auga", 
+        "gleraugu", 
+        "sólgleraugu"
+    ], 
+    "🕷️": [
+        "könguló", 
+        "skordýr"
+    ], 
+    "🕸️": [
+        "köngulóarvefur", 
+        "vefur", 
+        "könguló"
+    ], 
+    "🕹️": [
+        "leikur", 
+        "stýripinni", 
+        "tölvuleikur"
+    ], 
     "🕺": [
-        "diskó", 
-        "dansa", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "dansari", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "dansandi karl: húðtegund 5", 
+        "diskó", 
+        "dansandi karl: húðtegund 1–2", 
+        "dansandi karl: húðtegund 3", 
+        "dansandi karl: húðtegund 6", 
+        "dansa", 
+        "dansandi karl: húðtegund 4", 
         "dansandi karl"
     ], 
-    "🖕": [
+    "🖇️": [
+        "bréfaklemmur", 
+        "samankræktar bréfaklemmur", 
+        "samankræktar"
+    ], 
+    "🖊️": [
+        "penni", 
+        "kúlupenni"
+    ], 
+    "🖋️": [
+        "sjálfblekungur", 
+        "penni"
+    ], 
+    "🖌️": [
+        "málningarpensill", 
+        "mála"
+    ], 
+    "🖍️": [
+        "teikna", 
+        "lita", 
+        "vaxlitur"
+    ], 
+    "🖐️": [
         "hönd", 
         "líkami", 
+        "glennt", 
         "fingur", 
+        "upprétt hönd með glennta fingur"
+    ], 
+    "🖕": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "fingur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "hönd", 
+        "líkami", 
+        "langatöng: húðtegund 3", 
+        "langatöng: húðtegund 5", 
+        "langatöng: húðtegund 4", 
+        "langatöng: húðtegund 6", 
+        "langatöng: húðtegund 1–2", 
         "langatöng"
     ], 
     "🖖": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
         "fingur", 
         "vulcan-kveðja", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "vulcan-kveðja: húðtegund 3", 
+        "vulcan-kveðja: húðtegund 1–2", 
+        "vulcan-kveðja: húðtegund 6", 
+        "vulcan-kveðja: húðtegund 4", 
+        "vulcan-kveðja: húðtegund 5", 
         "hönd", 
         "líkami", 
         "vulcan", 
@@ -5009,6 +6787,119 @@
         "svartur", 
         "illt innræti", 
         "hjarta"
+    ], 
+    "🖥️": [
+        "heimilis", 
+        "tölva", 
+        "heimilistölva"
+    ], 
+    "🖨️": [
+        "tölva", 
+        "prentari"
+    ], 
+    "🖱️": [
+        "takki", 
+        "tölva", 
+        "mús", 
+        "tölvumús"
+    ], 
+    "🖲️": [
+        "stýrihjól", 
+        "tölva"
+    ], 
+    "🖼️": [
+        "safn", 
+        "list", 
+        "rammi með mynd", 
+        "rammi", 
+        "málverk", 
+        "mynd"
+    ], 
+    "🗂️": [
+        "spjaldskráarblöð", 
+        "spjaldskrá", 
+        "spjald", 
+        "blöð"
+    ], 
+    "🗃️": [
+        "spjöld", 
+        "kassi", 
+        "kassi með minnismiðum", 
+        "skjal"
+    ], 
+    "🗄️": [
+        "skápur", 
+        "skjalaskápur", 
+        "skjal"
+    ], 
+    "🗑️": [
+        "ruslakarfa", 
+        "rusl"
+    ], 
+    "🗒️": [
+        "glósa", 
+        "gormar", 
+        "minnisblokk með gormum", 
+        "blokk"
+    ], 
+    "🗓️": [
+        "dagatal með gormum", 
+        "gormar", 
+        "blokk", 
+        "dagatal"
+    ], 
+    "🗜️": [
+        "verkfæri", 
+        "þjöppun", 
+        "skrúfstykki"
+    ], 
+    "🗝️": [
+        "lykill", 
+        "lás", 
+        "gamall", 
+        "gamall lykill", 
+        "vísbending"
+    ], 
+    "🗞️": [
+        "fréttir", 
+        "dagblað", 
+        "samanrúllað", 
+        "pappír", 
+        "samanrúllað dagblað"
+    ], 
+    "🗡️": [
+        "rýtingur", 
+        "hnífur", 
+        "vopn"
+    ], 
+    "🗣️": [
+        "andlit", 
+        "höfuð", 
+        "talar", 
+        "skuggamynd", 
+        "tala", 
+        "talandi höfuð"
+    ], 
+    "🗨️": [
+        "vinstri talblaðra", 
+        "samræða", 
+        "ræða"
+    ], 
+    "🗯️": [
+        "blaðra", 
+        "bóla", 
+        "reiðileg hægri talblaðra", 
+        "reiður"
+    ], 
+    "🗳️": [
+        "kjörseðill", 
+        "kassi", 
+        "kjörseðlakassi með kjörseðli"
+    ], 
+    "🗺️": [
+        "kort", 
+        "heimur", 
+        "heimskort"
     ], 
     "🗻": [
         "fuji", 
@@ -5458,19 +7349,51 @@
         "ranghvolfir", 
         "augu"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
+        "nei", 
+        "kona", 
         "bannað", 
         "hendur í kross", 
-        "ekki gott"
+        "ekki gott", 
+        "ekki", 
+        "kona segir ekki í lagi"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "ekki", 
+        "bannað", 
+        "maður segir ekki í lagi", 
+        "karl", 
+        "nei"
+    ], 
+    "🙆‍♀️": [
+        "kona", 
         "allt í lagi", 
+        "kona segir allt í lagi", 
+        "ókei", 
+        "já", 
         "í lagi"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "ókei", 
+        "í lagi", 
+        "maður segir allt í lagi", 
+        "já", 
+        "karl"
+    ], 
+    "🙇‍♀️": [
+        "auðmýkt", 
+        "kona hneigir sig", 
+        "afsakið", 
+        "hneiging", 
+        "kona"
+    ], 
+    "🙇‍♂️": [
+        "maður hneigir sig", 
+        "afsakið", 
+        "hneiging", 
         "fyrirgefðu", 
         "auðmýkt", 
-        "hneiging", 
+        "karl", 
         "hneigja"
     ], 
     "🙈": [
@@ -5500,29 +7423,81 @@
         "tala", 
         "illska"
     ], 
-    "🙋": [
-        "upprétt hönd", 
+    "🙋‍♀️": [
+        "kona", 
         "gleði", 
+        "kona réttir upp hönd", 
+        "rétta upp hönd", 
+        "upprétt hönd", 
         "önnur hönd"
     ], 
+    "🙋‍♂️": [
+        "upprétt hönd", 
+        "maður réttir upp hönd", 
+        "karl", 
+        "rétta upp hönd"
+    ], 
     "🙌": [
-        "fagna", 
-        "hendur upp í loft", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "báðar hendur", 
         "húrra", 
-        "báðar hendur"
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "húrra: húðtegund 3", 
+        "húrra: húðtegund 1–2", 
+        "hendur upp í loft", 
+        "húrra: húðtegund 4", 
+        "húrra: húðtegund 5", 
+        "fagna", 
+        "húrra: húðtegund 6"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "fýlusvipur", 
-        "manneskja með ygglibrún"
+        "leið", 
+        "kona með skeifu", 
+        "skeifa", 
+        "kona", 
+        "manneskja með ygglibrún", 
+        "fýla"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "maður með skeifu", 
+        "skeifa", 
+        "karl", 
+        "fýla", 
+        "leiður"
+    ], 
+    "🙎‍♀️": [
         "fýlusvipur", 
-        "manneskja í fýlu"
+        "manneskja í fýlu", 
+        "kona í fýlu", 
+        "súr", 
+        "fýla", 
+        "kona"
+    ], 
+    "🙎‍♂️": [
+        "fýlusvipur", 
+        "súr", 
+        "maður í fýlu", 
+        "karl", 
+        "fýla"
     ], 
     "🙏": [
-        "bæn", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "spenntar greipar", 
-        "spenna greipar"
+        "spenna greipar", 
+        "bæn", 
+        "bæn: húðtegund 1–2", 
+        "bæn: húðtegund 3", 
+        "bæn: húðtegund 6", 
+        "bæn: húðtegund 5", 
+        "bæn: húðtegund 4"
     ], 
     "🚀": [
         "geimur", 
@@ -5694,9 +7669,19 @@
         "bátur", 
         "skip"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "kona á árabát", 
         "bátur", 
-        "árabátur"
+        "róður", 
+        "árabátur", 
+        "kona"
+    ], 
+    "🚣‍♂️": [
+        "bátur", 
+        "róður", 
+        "karl", 
+        "árabátur", 
+        "maður á árabát"
     ], 
     "🚤": [
         "bátur", 
@@ -5774,21 +7759,46 @@
         "hjól", 
         "hjól bönnuð"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "hjólreiðar", 
-        "hjól"
+        "kona", 
+        "hjól", 
+        "kona á hjóli"
     ], 
-    "🚵": [
+    "🚴‍♂️": [
+        "hjólreiðar", 
+        "hjól", 
+        "karl", 
+        "maður á hjóli"
+    ], 
+    "🚵‍♀️": [
         "hjólreiðar", 
         "fjallahjól", 
-        "fjall", 
-        "hjól"
+        "kona á fjallahjóli", 
+        "kona"
     ], 
-    "🚶": [
+    "🚵‍♂️": [
+        "hjólreiðar", 
+        "fjall", 
+        "hjól", 
+        "fjallahjól", 
+        "maður á fjallahjóli", 
+        "karl"
+    ], 
+    "🚶‍♀️": [
+        "labba", 
+        "kona", 
+        "gönguferð", 
+        "gangandi kona", 
+        "ganga"
+    ], 
+    "🚶‍♂️": [
+        "gönguferð", 
+        "ganga", 
+        "gangandi maður", 
         "labba", 
         "vegfarandi", 
-        "gönguferð", 
-        "ganga"
+        "karl"
     ], 
     "🚷": [
         "bannað að ganga", 
@@ -5840,6 +7850,16 @@
         "sturta"
     ], 
     "🛀": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "bað: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "húðtegund 6", 
+        "bað: húðtegund 6", 
+        "bað: húðtegund 4", 
+        "bað: húðtegund 5", 
+        "bað: húðtegund 3", 
         "bað", 
         "baðkar"
     ], 
@@ -5868,10 +7888,42 @@
         "lás", 
         "farangur"
     ], 
+    "🛋️": [
+        "hótel", 
+        "sófi og lampi", 
+        "lampi", 
+        "sófi"
+    ], 
     "🛌": [
+        "húðtegund 4", 
+        "manneskja í rúmi: húðtegund 1–2", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "sofa", 
+        "manneskja í rúmi: húðtegund 3", 
+        "manneskja í rúmi", 
+        "manneskja í rúmi: húðtegund 5", 
+        "manneskja í rúmi: húðtegund 4", 
+        "manneskja í rúmi: húðtegund 6", 
+        "hótel", 
+        "húðtegund 5"
+    ], 
+    "🛍️": [
+        "verslunarleiðangur", 
+        "hótel", 
+        "innkaupapoki", 
+        "poki"
+    ], 
+    "🛎️": [
+        "bjalla", 
+        "hótel", 
+        "hótelbjalla"
+    ], 
+    "🛏️": [
         "sofa", 
         "hótel", 
-        "manneskja í rúmi"
+        "rúm"
     ], 
     "🛐": [
         "tilbeiðsla", 
@@ -5893,6 +7945,40 @@
         "kerra", 
         "innkaup"
     ], 
+    "🛠️": [
+        "skiptilykill", 
+        "hamar og skiptilykill", 
+        "hamar", 
+        "verkfæri"
+    ], 
+    "🛡️": [
+        "vopn", 
+        "skjöldur"
+    ], 
+    "🛢️": [
+        "olíutunna", 
+        "olía", 
+        "tunna"
+    ], 
+    "🛣️": [
+        "hraðbraut", 
+        "vegur"
+    ], 
+    "🛤️": [
+        "lest", 
+        "brautarteinar", 
+        "járnbrautarteinar"
+    ], 
+    "🛥️": [
+        "bátur", 
+        "farartæki", 
+        "mótorbátur"
+    ], 
+    "🛩️": [
+        "lítil flugvél", 
+        "farartæki", 
+        "flugvél"
+    ], 
     "🛫": [
         "innskráning", 
         "brottfarir", 
@@ -5908,6 +7994,17 @@
         "kemur", 
         "komur", 
         "í lendingu"
+    ], 
+    "🛰️": [
+        "geimur", 
+        "farartæki", 
+        "gervihnöttur"
+    ], 
+    "🛳️": [
+        "farþegi", 
+        "farartæki", 
+        "farþegaskip", 
+        "skip"
     ], 
     "🛴": [
         "sparka", 
@@ -5985,35 +8082,85 @@
         "faðmlag"
     ], 
     "🤘": [
+        "húðtegund 4", 
+        "rokkmerki: húðtegund 4", 
+        "húðtegund 1–2", 
+        "rokkmerki: húðtegund 1–2", 
+        "fingur", 
+        "húðtegund 3", 
+        "rokkmerki", 
+        "rokkmerki: húðtegund 5", 
+        "rokkmerki: húðtegund 3", 
+        "húðtegund 6", 
+        "rokkmerki: húðtegund 6", 
         "hönd", 
         "líkami", 
-        "rokkmerki", 
         "glennt", 
-        "fingur"
+        "húðtegund 5"
     ], 
     "🤙": [
-        "hönd", 
+        "húðtegund 4", 
         "hringdu", 
+        "húðtegund 6", 
+        "hringdu: húðtegund 3", 
+        "hringdu: húðtegund 4", 
+        "hringdu: húðtegund 5", 
+        "hringdu: húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "hringitákn", 
+        "hringdu: húðtegund 1–2", 
         "hringja", 
-        "hringitákn"
+        "hönd", 
+        "húðtegund 5"
     ], 
     "🤚": [
-        "hönd", 
+        "húðtegund 4", 
         "lófi", 
+        "upprétt hönd: húðtegund 4", 
+        "upprétt hönd: húðtegund 5", 
+        "upprétt", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "húðtegund 6", 
+        "upprétt hönd: húðtegund 1–2", 
+        "hönd", 
         "upprétt hönd", 
-        "upprétt"
+        "upprétt hönd: húðtegund 6", 
+        "húðtegund 5", 
+        "upprétt hönd: húðtegund 3"
     ], 
     "🤛": [
-        "hönd", 
+        "hægri hnefi: húðtegund 3", 
+        "húðtegund 4", 
+        "húðtegund 6", 
+        "krepptur", 
+        "hægri hnefi: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "hægri hnefi", 
+        "hægri hnefi: húðtegund 1–2", 
+        "hönd", 
+        "hægri hnefi: húðtegund 5", 
         "hnefi", 
-        "krepptur"
+        "húðtegund 5", 
+        "hægri hnefi: húðtegund 6"
     ], 
     "🤜": [
-        "hönd", 
+        "húðtegund 4", 
+        "vinstri hnefi: húðtegund 1–2", 
+        "húðtegund 6", 
         "vinstri hnefi", 
+        "krepptur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "vinstri hnefi: húðtegund 3", 
+        "vinstri hnefi: húðtegund 4", 
+        "vinstri hnefi: húðtegund 5", 
+        "vinstri hnefi: húðtegund 6", 
+        "hönd", 
         "hnefi", 
-        "krepptur"
+        "húðtegund 5"
     ], 
     "🤝": [
         "heilsa", 
@@ -6022,15 +8169,35 @@
         "samkomulag"
     ], 
     "🤞": [
+        "krosslagðir fingur: húðtegund 1–2", 
         "hendi", 
+        "húðtegund 6", 
+        "fingur", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "krosslagðir fingur: húðtegund 3", 
         "lukka", 
         "krosslagðir fingur", 
-        "fingur", 
+        "húðtegund 4", 
+        "krosslagðir fingur: húðtegund 4", 
+        "krosslagðir fingur: húðtegund 6", 
+        "húðtegund 5", 
+        "krosslagðir fingur: húðtegund 5", 
         "kross"
     ], 
     "🤟": [
+        "húðtegund 4", 
         "hendi", 
+        "húðtegund 6", 
+        "elska-þig merki: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "elska-þig merki: húðtegund 5", 
+        "elska-þig merki: húðtegund 6", 
         "elska-þig merki", 
+        "elska-þig merki: húðtegund 3", 
+        "elska-þig merki: húðtegund 4", 
+        "húðtegund 5", 
         "ILY"
     ], 
     "🤠": [
@@ -6066,9 +8233,33 @@
     ], 
     "🤦": [
         "andlit", 
+        "lófi", 
+        "hönd fyrir andlit: húðtegund 3", 
+        "hönd fyrir andlit: húðtegund 6", 
+        "hönd fyrir andlit: húðtegund 5", 
+        "hönd fyrir andlit: húðtegund 1–2", 
+        "húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 6", 
+        "hönd", 
+        "hönd fyrir andlit: húðtegund 4", 
+        "hönd fyrir andlit", 
+        "húðtegund 5", 
+        "húðtegund 4"
+    ], 
+    "🤦‍♀️": [
+        "andlit", 
         "hönd", 
         "lófi", 
-        "hönd fyrir andlit"
+        "kona með hönd fyrir andlit", 
+        "kona"
+    ], 
+    "🤦‍♂️": [
+        "andlit", 
+        "hönd", 
+        "lófi", 
+        "maður með hönd fyrir andlit", 
+        "karl"
     ], 
     "🤧": [
         "andlit", 
@@ -6117,55 +8308,193 @@
         "splundrað höfuð"
     ], 
     "🤰": [
+        "húðtegund 4", 
+        "ólétt", 
+        "ólétt kona: húðtegund 3", 
+        "ólétt kona: húðtegund 5", 
+        "ólétt kona: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "kona", 
-        "ólétt kona", 
+        "ólétt kona: húðtegund 6", 
+        "húðtegund 6", 
+        "ólétt kona: húðtegund 4", 
         "ófrísk", 
-        "ólétt"
+        "húðtegund 5", 
+        "ólétt kona"
     ], 
     "🤱": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "brjóstagjöf: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "brjóstagjöf: húðtegund 3", 
+        "brjóstagjöf: húðtegund 6", 
+        "brjóstagjöf: húðtegund 5", 
+        "brjóstagjöf: húðtegund 4", 
         "brjóst", 
         "brjóstagjöf", 
         "barn"
     ], 
     "🤲": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "spenntar greipar", 
+        "lófar saman: húðtegund 6", 
+        "lófar saman: húðtegund 5", 
+        "lófar saman: húðtegund 4", 
+        "lófar saman: húðtegund 3", 
+        "lófar saman: húðtegund 1–2", 
         "lófar saman"
     ], 
     "🤳": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "sjálfa", 
-        "myndavél"
+        "myndavél", 
+        "sjálfa: húðtegund 4", 
+        "sjálfa: húðtegund 3", 
+        "sjálfa: húðtegund 1–2", 
+        "sjálfa: húðtegund 6", 
+        "sjálfa: húðtegund 5"
     ], 
     "🤴": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "prins: húðtegund 3", 
+        "prins: húðtegund 5", 
+        "prins: húðtegund 4", 
+        "prins: húðtegund 6", 
+        "prins: húðtegund 1–2", 
         "prins"
     ], 
     "🤵": [
         "maður", 
-        "smóking", 
+        "húðtegund 4", 
+        "smóking: húðtegund 3", 
+        "smóking: húðtegund 5", 
+        "smóking: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "smóking: húðtegund 6", 
+        "smóking: húðtegund 1–2", 
+        "finn", 
+        "húðtegund 6", 
+        "húðtegund 5", 
         "brúðgumi", 
-        "finn"
+        "smóking"
     ], 
     "🤶": [
-        "amma", 
+        "húðtegund 4", 
         "jólamamma", 
+        "húðtegund 6", 
         "jól", 
-        "mamma"
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "jólamamma: húðtegund 3", 
+        "jólamamma: húðtegund 6", 
+        "amma", 
+        "mamma", 
+        "jólamamma: húðtegund 1–2", 
+        "jólamamma: húðtegund 5", 
+        "jólamamma: húðtegund 4", 
+        "húðtegund 5"
     ], 
     "🤷": [
-        "yppir öxlum", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "yppir öxlum: húðtegund 1–2", 
+        "yppa", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "axlir", 
-        "yppa"
+        "yppir öxlum", 
+        "yppir öxlum: húðtegund 3", 
+        "yppir öxlum: húðtegund 6", 
+        "yppir öxlum: húðtegund 5", 
+        "yppir öxlum: húðtegund 4"
+    ], 
+    "🤷‍♀️": [
+        "kona", 
+        "kona yppir öxlum", 
+        "yppa", 
+        "öxlum"
+    ], 
+    "🤷‍♂️": [
+        "maður yppir öxlum", 
+        "yppa", 
+        "karl", 
+        "öxlum"
     ], 
     "🤸": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "handalaup: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "handalaup: húðtegund 6", 
+        "handalaup: húðtegund 3", 
         "hlaup", 
+        "handalaup: húðtegund 5", 
+        "handalaup: húðtegund 4", 
+        "handalaup", 
         "íþrótt", 
+        "fimleikar"
+    ], 
+    "🤸‍♀️": [
+        "kona", 
+        "handahlaup", 
         "fimleikar", 
-        "handalaup"
+        "kona á handahlaupum"
+    ], 
+    "🤸‍♂️": [
+        "maður á handahlaupum", 
+        "handahlaup", 
+        "fimleikar", 
+        "karl"
     ], 
     "🤹": [
+        "húðtegund 4", 
         "jöggla", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "boltakast: húðtegund 4", 
+        "boltakast", 
+        "boltakast: húðtegund 3", 
+        "húðtegund 5", 
+        "boltakast: húðtegund 6", 
         "djöggla", 
+        "boltakast: húðtegund 5", 
+        "boltakast: húðtegund 1–2", 
+        "juggla"
+    ], 
+    "🤹‍♀️": [
+        "kona kastar boltum", 
+        "jöggla", 
+        "boltar", 
         "juggla", 
         "boltakast"
+    ], 
+    "🤹‍♂️": [
+        "jöggla", 
+        "boltar", 
+        "juggla", 
+        "boltakast", 
+        "maður kastar boltum"
     ], 
     "🤺": [
         "skylmast", 
@@ -6177,19 +8506,75 @@
         "glíma", 
         "íþrótt"
     ], 
+    "🤼‍♀️": [
+        "glíma", 
+        "konur", 
+        "konur í glímu"
+    ], 
+    "🤼‍♂️": [
+        "glíma", 
+        "menn í glímu", 
+        "karlar"
+    ], 
     "🤽": [
+        "manneskja í vatnapóló: húðtegund 1–2", 
+        "húðtegund 4", 
+        "húðtegund 6", 
         "vatnapóló", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "manneskja í vatnapóló", 
+        "manneskja í vatnapóló: húðtegund 3", 
+        "manneskja í vatnapóló: húðtegund 4", 
+        "húðtegund 5", 
         "sundíþrótt", 
+        "manneskja í vatnapóló: húðtegund 6", 
         "íþrótt", 
         "vatn", 
+        "sund", 
+        "manneskja í vatnapóló: húðtegund 5"
+    ], 
+    "🤽‍♀️": [
+        "vatnapóló", 
+        "kona", 
+        "kona í vatnapóló", 
+        "sundíþrótt", 
+        "vatnsbolti", 
+        "sund"
+    ], 
+    "🤽‍♂️": [
+        "vatnapóló", 
+        "maður í vatnapóló", 
+        "karl", 
+        "sundíþrótt", 
+        "vatnsbolti", 
         "sund"
     ], 
     "🤾": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "handbolti: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
         "handknattleikur", 
-        "handbolti", 
+        "boltaíþrótt", 
+        "handbolti: húðtegund 3", 
+        "handbolti: húðtegund 6", 
+        "handbolti: húðtegund 1–2", 
+        "handbolti: húðtegund 5", 
         "íþrótt", 
-        "boltaíþrótt"
+        "handbolti"
+    ], 
+    "🤾‍♀️": [
+        "kona", 
+        "handbolti", 
+        "kona í handbolta"
+    ], 
+    "🤾‍♂️": [
+        "handbolti", 
+        "maður í handbolta", 
+        "karl"
     ], 
     "🥀": [
         "sölnað blóm", 
@@ -6534,76 +8919,179 @@
         "andlit með einglyrni"
     ], 
     "🧑": [
+        "húðtegund 4", 
         "fullorðinn", 
-        "kynhlutlaust"
+        "húðtegund 6", 
+        "fullorðinn: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "fullorðinn: húðtegund 6", 
+        "fullorðinn: húðtegund 5", 
+        "fullorðinn: húðtegund 4", 
+        "fullorðinn: húðtegund 3", 
+        "kynhlutlaust", 
+        "húðtegund 5"
     ], 
     "🧒": [
+        "húðtegund 4", 
+        "barn: húðtegund 4", 
+        "barn: húðtegund 3", 
+        "barn: húðtegund 5", 
+        "barn: húðtegund 1–2", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "barn: húðtegund 6", 
         "ungt", 
+        "húðtegund 6", 
         "kynhlutlaust", 
+        "húðtegund 5", 
         "barn"
     ], 
     "🧓": [
-        "eldri fullorðinn", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "eldri fullorðinn: húðtegund 5", 
+        "eldri fullorðinn: húðtegund 4", 
         "gamall", 
-        "kynhlutlaust"
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "eldri fullorðinn", 
+        "húðtegund 6", 
+        "eldri fullorðinn: húðtegund 6", 
+        "eldri fullorðinn: húðtegund 3", 
+        "kynhlutlaust", 
+        "eldri fullorðinn: húðtegund 1–2"
     ], 
     "🧔": [
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "húðtegund 6", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "maður með skegg", 
+        "maður með skegg: húðtegund 1–2", 
         "skegg", 
-        "maður með skegg"
+        "maður með skegg: húðtegund 6", 
+        "maður með skegg: húðtegund 5", 
+        "maður með skegg: húðtegund 4", 
+        "maður með skegg: húðtegund 3"
     ], 
     "🧕": [
-        "slör", 
+        "húðtegund 4", 
+        "húðtegund 5", 
+        "kona með höfuðklút: húðtegund 3", 
+        "kona með höfuðklút: húðtegund 5", 
+        "kona með höfuðklút: húðtegund 4", 
+        "húðtegund 3", 
+        "húðtegund 1–2", 
+        "kona með höfuðklút: húðtegund 1–2", 
         "höfuðklútur", 
         "slæða", 
         "blæja", 
-        "kona með höfuðklút"
+        "húðtegund 6", 
+        "kona með höfuðklút", 
+        "slör", 
+        "kona með höfuðklút: húðtegund 6"
     ], 
-    "🧖": [
-        "einstaklingur í gufubaði"
+    "🧖‍♀️": [
+        "kona í gufubaði", 
+        "eimbað", 
+        "gufubað"
     ], 
-    "🧗": [
-        "maður í klettaklifri"
+    "🧖‍♂️": [
+        "eimbað", 
+        "maður í gufubaði", 
+        "einstaklingur í gufubaði", 
+        "gufubað"
     ], 
-    "🧘": [
+    "🧗‍♀️": [
+        "kona í klettaklifri", 
+        "maður í klettaklifri", 
+        "klettaklifur"
+    ], 
+    "🧗‍♂️": [
+        "karl í klettaklifri", 
+        "klettaklifur"
+    ], 
+    "🧘‍♀️": [
+        "kona í lótusp´ósu", 
         "maður í lótuspósu"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "karl í lótuspósu"
+    ], 
+    "🧙‍♀️": [
         "seiðkona", 
         "seiðkarl", 
+        "galdrakona", 
         "galdramaður", 
         "norn"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "galdrakarl", 
+        "seiðkarl"
+    ], 
+    "🧚‍♀️": [
         "Óberon", 
         "Títanía", 
+        "álfadís", 
         "álfur", 
         "Bokki"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "álfakarl"
+    ], 
+    "🧛‍♀️": [
         "Drakúla", 
         "hinir ódauðlegu", 
+        "kvenkyns vampíra", 
         "vampíra"
     ], 
-    "🧜": [
-        "marbendill", 
-        "sæbúi", 
+    "🧛‍♂️": [
+        "Drakúla", 
+        "hinir ódauðlegu", 
+        "karlkyns vampíra"
+    ], 
+    "🧜‍♀️": [
         "hafmær", 
         "hafmeyja"
     ], 
-    "🧝": [
+    "🧜‍♂️": [
+        "marbendill", 
+        "sæbúi", 
+        "Tríton", 
+        "hafmær", 
+        "hafmeyja"
+    ], 
+    "🧝‍♀️": [
+        "huldukona"
+    ], 
+    "🧝‍♂️": [
+        "yfirnáttúrleiki", 
         "töfrar", 
-        "huldumaður", 
+        "huldukarl", 
         "galdrar", 
         "töfrandi", 
-        "yfirnáttúrleiki"
+        "huldumaður"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "kvenkyns andi", 
+        "djinn"
+    ], 
+    "🧞‍♂️": [
+        "karlkyns andi", 
         "andi", 
         "djinn"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
         "hinir ódauðlegu", 
         "hinir gangandi dauðu", 
+        "kvenkyns uppvakningur"
+    ], 
+    "🧟‍♂️": [
+        "hinir ódauðlegu", 
+        "hinir gangandi dauðu", 
+        "karlkyns uppvakningur", 
         "uppvakningur"
     ], 
     "🧠": [

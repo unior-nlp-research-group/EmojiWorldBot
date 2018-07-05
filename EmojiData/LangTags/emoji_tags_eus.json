@@ -1,4 +1,128 @@
 {
+    "#️⃣": [
+        "tekla", 
+        "tekla: #"
+    ], 
+    "*️⃣": [
+        "tekla", 
+        "tekla: *"
+    ], 
+    "0️⃣": [
+        "tekla", 
+        "tekla: 0"
+    ], 
+    "1️⃣": [
+        "tekla", 
+        "tekla: 1"
+    ], 
+    "2️⃣": [
+        "tekla", 
+        "tekla: 2"
+    ], 
+    "3️⃣": [
+        "tekla", 
+        "tekla: 3"
+    ], 
+    "4️⃣": [
+        "tekla", 
+        "tekla: 4"
+    ], 
+    "5️⃣": [
+        "tekla", 
+        "tekla: 5"
+    ], 
+    "6️⃣": [
+        "tekla", 
+        "tekla: 6"
+    ], 
+    "7️⃣": [
+        "tekla", 
+        "tekla: 7"
+    ], 
+    "8️⃣": [
+        "tekla", 
+        "tekla: 8"
+    ], 
+    "9️⃣": [
+        "tekla", 
+        "tekla: 9"
+    ], 
+    "©️": [
+        "copyright"
+    ], 
+    "®️": [
+        "marka erregistratua", 
+        "erregistratu", 
+        "marka"
+    ], 
+    "‼️": [
+        "puntuazioa", 
+        "harridura", 
+        "harridura-marka bikoitza", 
+        "marka"
+    ], 
+    "⁉️": [
+        "puntuazioa", 
+        "harridura", 
+        "harridura- eta galdera-ikurra", 
+        "galdera", 
+        "marka"
+    ], 
+    "™️": [
+        "marka komertziala", 
+        "tm", 
+        "komertzial", 
+        "marka"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informazio", 
+        "informazio-iturburua"
+    ], 
+    "↔️": [
+        "ezkerrera eta eskuinera gezia", 
+        "gezi"
+    ], 
+    "↕️": [
+        "gezi", 
+        "gora eta behera gezia"
+    ], 
+    "↖️": [
+        "gora eta ezkerrera gezia", 
+        "norabide", 
+        "ipar-mendebalde", 
+        "gezi", 
+        "kardinal arteko"
+    ], 
+    "↗️": [
+        "gora eta eskuinera gezia", 
+        "norabide", 
+        "gezi", 
+        "kardinal arteko", 
+        "ipar-ekialde"
+    ], 
+    "↘️": [
+        "norabide", 
+        "gezi", 
+        "hego-ekialde", 
+        "behera eta eskuinera gezia", 
+        "kardinal arteko"
+    ], 
+    "↙️": [
+        "norabide", 
+        "gezi", 
+        "hego-mendebalde", 
+        "kardinal arteko", 
+        "behera eta ezkerrera gezia"
+    ], 
+    "↩️": [
+        "ezkerrera okertzen den eskuinera gezia", 
+        "gezi"
+    ], 
+    "↪️": [
+        "gezi", 
+        "eskuinera okertzen den ezkerrera gezia"
+    ], 
     "⌚": [
         "ordularia", 
         "erlojua"
@@ -7,6 +131,14 @@
         "harea-erloju", 
         "harea", 
         "tenporizadore"
+    ], 
+    "⌨️": [
+        "ordenagailua", 
+        "teklatua"
+    ], 
+    "⏏️": [
+        "ateratzeko botoia", 
+        "atera"
     ], 
     "⏩": [
         "gezi", 
@@ -32,15 +164,108 @@
         "behera bizkor egiteko botoia", 
         "behera"
     ], 
+    "⏭️": [
+        "hurrengo abestira joateko botoia", 
+        "hurrengo eszena", 
+        "hurrengo abestia", 
+        "triangelu", 
+        "gezi", 
+        "hiruki"
+    ], 
+    "⏮️": [
+        "azken abestia erreproduzitzeko botoia", 
+        "aurreko eszena", 
+        "triangelu", 
+        "aurreko abestia", 
+        "gezi", 
+        "hiruki"
+    ], 
+    "⏯️": [
+        "pausatu", 
+        "erreproduzitzeko edo pausatzeko botoia", 
+        "triangelu", 
+        "erreproduzitu", 
+        "gezi", 
+        "hiruki", 
+        "eskuin"
+    ], 
     "⏰": [
         "alarma", 
         "erloju"
+    ], 
+    "⏱️": [
+        "erloju", 
+        "kronometroa"
+    ], 
+    "⏲️": [
+        "tenporizadorea", 
+        "erloju", 
+        "tenporizadore"
     ], 
     "⏳": [
         "harea-erlojua harea dariola", 
         "erloju", 
         "harea", 
         "tenporizadore"
+    ], 
+    "⏸️": [
+        "pausatzeko botoia", 
+        "barra", 
+        "bertikal", 
+        "pausatu", 
+        "bikoitz"
+    ], 
+    "⏹️": [
+        "karratu", 
+        "gelditzeko botoia", 
+        "stop", 
+        "gelditu"
+    ], 
+    "⏺️": [
+        "biribil", 
+        "grabatu", 
+        "grabatzeko botoia"
+    ], 
+    "Ⓜ️": [
+        "m", 
+        "“m” hizkia zirkulu batean", 
+        "zirkulu"
+    ], 
+    "▪️": [
+        "karratu", 
+        "geometriko", 
+        "karratu beltz txikia"
+    ], 
+    "▫️": [
+        "karratu zuri txikia", 
+        "karratu", 
+        "geometriko"
+    ], 
+    "▶️": [
+        "triangelu", 
+        "erreproduzitu", 
+        "gezi", 
+        "hiruki", 
+        "erreproduzitzeko botoia", 
+        "eskuin"
+    ], 
+    "◀️": [
+        "alderantziz erreproduzitzeko botoia", 
+        "atzera", 
+        "triangelu", 
+        "gezi", 
+        "hiruki", 
+        "ezker"
+    ], 
+    "◻️": [
+        "karratu", 
+        "geometriko", 
+        "karratu zuri ertaina"
+    ], 
+    "◼️": [
+        "karratu beltz ertaina", 
+        "karratu", 
+        "geometriko"
     ], 
     "◽": [
         "karratu zuri ertaina/txikia", 
@@ -51,6 +276,44 @@
         "karratu", 
         "geometriko", 
         "karratu beltz ertaina/txikia"
+    ], 
+    "☀️": [
+        "eguzkia", 
+        "espazio", 
+        "argi", 
+        "eguzkitsu", 
+        "eguraldi", 
+        "izpi"
+    ], 
+    "☁️": [
+        "eguraldi", 
+        "hodei"
+    ], 
+    "☂️": [
+        "aterki", 
+        "euri", 
+        "eguraldi", 
+        "babes"
+    ], 
+    "☃️": [
+        "elur", 
+        "eguraldi", 
+        "elurrezko gizona", 
+        "hotz"
+    ], 
+    "☄️": [
+        "kometa", 
+        "espazioa"
+    ], 
+    "☎️": [
+        "telefonoa", 
+        "telefono"
+    ], 
+    "☑️": [
+        "tileta duen koadroa", 
+        "markatu", 
+        "koadro", 
+        "tilet"
     ], 
     "☔": [
         "aterkia euri-tantekin", 
@@ -68,6 +331,93 @@
         "bero", 
         "edari beroa", 
         "edari"
+    ], 
+    "☘️": [
+        "landare", 
+        "hirusta"
+    ], 
+    "☝️": [
+        "gorputz", 
+        "hatz", 
+        "esku", 
+        "seinalatu", 
+        "gora", 
+        "gora seinalatzen ari den hatz erakuslea", 
+        "erakusle"
+    ], 
+    "☠️": [
+        "gorputz", 
+        "buru-hezur", 
+        "buru-hezurra eta hezur gurutzatuak", 
+        "heriotza", 
+        "aurpegi", 
+        "hezur gurutzatuak", 
+        "hil", 
+        "munstro"
+    ], 
+    "☢️": [
+        "erradioaktiboa", 
+        "ikur", 
+        "erradioaktibo"
+    ], 
+    "☣️": [
+        "arrisku biologikoa", 
+        "biologiko", 
+        "arrisku", 
+        "ikur"
+    ], 
+    "☦️": [
+        "kristau", 
+        "erlijio", 
+        "gurutze ortodoxoa", 
+        "gurutze"
+    ], 
+    "☪️": [
+        "izarra eta ilargierdia", 
+        "erlijio", 
+        "musulman", 
+        "islam"
+    ], 
+    "☮️": [
+        "bake", 
+        "bakearen ikurra"
+    ], 
+    "☯️": [
+        "erlijio", 
+        "yin yang", 
+        "taoista", 
+        "yin", 
+        "yang", 
+        "tao"
+    ], 
+    "☸️": [
+        "gurpil", 
+        "dharma", 
+        "budista", 
+        "dharmaren gurpila", 
+        "erlijio"
+    ], 
+    "☹️": [
+        "kopetilun", 
+        "kopeta ilunduta duen aurpegia", 
+        "aurpegi"
+    ], 
+    "☺️": [
+        "nabarmen", 
+        "irribarre", 
+        "irribarre egiten ari den aurpegia", 
+        "aurpegi", 
+        "erlaxatuta"
+    ], 
+    "♀️": [
+        "emakumezko", 
+        "emakume", 
+        "emakumeen ikurra"
+    ], 
+    "♂️": [
+        "gizonen ikurra", 
+        "gizon", 
+        "gizonezko"
     ], 
     "♈": [
         "zikiro", 
@@ -134,14 +484,101 @@
         "zodiako", 
         "arrain"
     ], 
+    "♠️": [
+        "karta", 
+        "joko", 
+        "pika", 
+        "palo"
+    ], 
+    "♣️": [
+        "karta", 
+        "joko", 
+        "klub", 
+        "palo", 
+        "klubak", 
+        "hirustak"
+    ], 
+    "♥️": [
+        "bihotz", 
+        "karta", 
+        "joko", 
+        "bihotza", 
+        "palo", 
+        "bihotzak"
+    ], 
+    "♦️": [
+        "diamanteak", 
+        "karta", 
+        "diamante", 
+        "palo", 
+        "joko"
+    ], 
+    "♨️": [
+        "termal", 
+        "bero", 
+        "iturri", 
+        "iturri termalak", 
+        "ke"
+    ], 
+    "♻️": [
+        "birziklatu", 
+        "birziklatzeko ikurra"
+    ], 
     "♿": [
         "gurpil-aulkia", 
         "erabilerraztasun"
+    ], 
+    "⚒️": [
+        "mailua eta pikotxa", 
+        "tresna", 
+        "pikotx", 
+        "mailu"
     ], 
     "⚓": [
         "aingura", 
         "ontzi", 
         "tresna"
+    ], 
+    "⚔️": [
+        "ezpatak", 
+        "ezpata gurutzatuak", 
+        "gurutzatu", 
+        "arma"
+    ], 
+    "⚕️": [
+        "sendagile", 
+        "medizina", 
+        "Asklepio", 
+        "ikur medikoa"
+    ], 
+    "⚖️": [
+        "balantzak", 
+        "justizia", 
+        "oreka", 
+        "libra", 
+        "zodiako", 
+        "pisu", 
+        "tresna"
+    ], 
+    "⚗️": [
+        "alanbikea", 
+        "kimika", 
+        "tresna"
+    ], 
+    "⚙️": [
+        "tresna", 
+        "engranajea"
+    ], 
+    "⚛️": [
+        "atomoaren ikurra", 
+        "ateista", 
+        "atomo"
+    ], 
+    "⚜️": [
+        "lis-lore"
+    ], 
+    "⚠️": [
+        "abisua"
     ], 
     "⚡": [
         "elektriko", 
@@ -160,6 +597,17 @@
         "zirkulu beltza", 
         "zirkulu", 
         "geometriko"
+    ], 
+    "⚰️": [
+        "heriotza", 
+        "hilkutxa", 
+        "hil"
+    ], 
+    "⚱️": [
+        "heriotza", 
+        "hileta", 
+        "kutxa", 
+        "errautsak gordetzeko kutxa"
     ], 
     "⚽": [
         "baloi", 
@@ -183,11 +631,35 @@
         "hodei", 
         "eguzki"
     ], 
+    "⛈️": [
+        "euri", 
+        "hodeia tximista eta euriarekin", 
+        "eguraldi", 
+        "trumoi", 
+        "hodei"
+    ], 
     "⛎": [
         "suge", 
         "zodiako", 
         "berri-ekarle", 
         "ofiuko"
+    ], 
+    "⛏️": [
+        "meatzaritza", 
+        "tresna", 
+        "pikotxa"
+    ], 
+    "⛑️": [
+        "kaskoa gurutze zuriarekin", 
+        "gurutze", 
+        "laguntza", 
+        "txano", 
+        "aurpegi", 
+        "kasko"
+    ], 
+    "⛓️": [
+        "kateak", 
+        "kate"
     ], 
     "⛔": [
         "galarazita", 
@@ -197,12 +669,29 @@
         "debekatuta", 
         "sarrera debekatuta"
     ], 
+    "⛩️": [
+        "shinto", 
+        "shinto santutegia", 
+        "erlijio", 
+        "santutegi"
+    ], 
     "⛪": [
         "kristau", 
         "eliza", 
         "eraikin", 
         "erlijio", 
         "gurutze"
+    ], 
+    "⛰️": [
+        "mendi", 
+        "mendia"
+    ], 
+    "⛱️": [
+        "aterki", 
+        "aterkia hondartzan", 
+        "euri", 
+        "eguraldi", 
+        "eguzki"
     ], 
     "⛲": [
         "iturria", 
@@ -213,12 +702,30 @@
         "zulo", 
         "golf"
     ], 
+    "⛴️": [
+        "itsasontzi", 
+        "ferrya"
+    ], 
     "⛵": [
         "resort", 
         "itsasontzi", 
         "ibilgailu", 
         "itsaso", 
         "belaontzia"
+    ], 
+    "⛷️": [
+        "eski", 
+        "elur", 
+        "eskiatzailea"
+    ], 
+    "⛸️": [
+        "patinaje", 
+        "izotz-patinajea", 
+        "izotz"
+    ], 
+    "⛹️‍♂️": [
+        "baloi", 
+        "baloi bat duen pertsona"
     ], 
     "⛺": [
         "denda", 
@@ -231,27 +738,127 @@
         "gasolindegi", 
         "gasolina-bonba"
     ], 
+    "✂️": [
+        "tresna", 
+        "guraizeak"
+    ], 
     "✅": [
         "tilet zuri lodia", 
         "tilet", 
         "markatu"
     ], 
+    "✈️": [
+        "ibilgailu", 
+        "hegazkina"
+    ], 
+    "✉️": [
+        "gutun-azal", 
+        "posta", 
+        "mezu", 
+        "elektroniko"
+    ], 
     "✊": [
         "gorputz", 
+        "5. mota", 
+        "ukabil altxatua: 6. mota", 
+        "ukabil altxatua: 5. mota", 
+        "ukabil altxatua: bitarteko azal-tonua", 
         "ukabil", 
+        "3. mota", 
         "esku", 
         "ukabilkada", 
+        "ukabil altxatua: 3. mota", 
+        "bitarteko azal-tonua", 
         "estutu", 
-        "ukabil altxatua"
+        "1–2. mota", 
+        "6. mota", 
+        "ukabil altxatua", 
+        "ukabil altxatua: 1–2. mota"
     ], 
     "✋": [
         "gorputz", 
+        "5. mota", 
+        "esku altxatua: bitarteko azal-tonua", 
+        "esku altxatua: 6. mota", 
+        "6. mota", 
+        "3. mota", 
         "esku", 
-        "esku altxatua"
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "esku altxatua: 3. mota", 
+        "esku altxatua", 
+        "esku altxatua: 1–2. mota", 
+        "esku altxatua: 5. mota"
+    ], 
+    "✌️": [
+        "gorputz", 
+        "garaipen", 
+        "garaipena adierazten duen eskua", 
+        "esku", 
+        "v"
+    ], 
+    "✍️": [
+        "gorputz", 
+        "idatzi", 
+        "esku", 
+        "idazten ari den eskua"
+    ], 
+    "✏️": [
+        "arkatz", 
+        "arkatza"
+    ], 
+    "✒️": [
+        "punta", 
+        "luma beltza", 
+        "luma"
+    ], 
+    "✔️": [
+        "tileta lodia", 
+        "tilet", 
+        "markatu"
+    ], 
+    "✖️": [
+        "utzi bertan behera", 
+        "biderketa", 
+        "bider", 
+        "biderketa-ikur lodia", 
+        "x", 
+        "utzi"
+    ], 
+    "✝️": [
+        "gurutze latindarra", 
+        "kristau", 
+        "erlijio", 
+        "gurutze"
+    ], 
+    "✡️": [
+        "erlijio", 
+        "daviden izarra", 
+        "judaismo", 
+        "david", 
+        "izar", 
+        "judu"
     ], 
     "✨": [
         "izar", 
         "distira"
+    ], 
+    "✳️": [
+        "izartxo", 
+        "zortzi puntako izartxoa"
+    ], 
+    "✴️": [
+        "izar", 
+        "zortzi puntako izarra"
+    ], 
+    "❄️": [
+        "elur", 
+        "eguraldi", 
+        "hotz", 
+        "elur-maluta"
+    ], 
+    "❇️": [
+        "txinparta"
     ], 
     "❌": [
         "utzi bertan behera", 
@@ -293,6 +900,17 @@
         "harridura-marka", 
         "marka"
     ], 
+    "❣️": [
+        "bihotz", 
+        "bihotz-itxurako harridura-marka", 
+        "puntuazioa", 
+        "marka", 
+        "harridura"
+    ], 
+    "❤️": [
+        "bihotz", 
+        "bihotz gorria"
+    ], 
     "➕": [
         "plus zeinu lodia", 
         "plus", 
@@ -308,6 +926,13 @@
         "matematika", 
         "zatiketa"
     ], 
+    "➡️": [
+        "ekialde", 
+        "norabide", 
+        "gezi", 
+        "kardinal", 
+        "eskuinera gezia"
+    ], 
     "➰": [
         "malguki", 
         "malgukia"
@@ -316,6 +941,37 @@
         "malguki", 
         "malguki bikoitza", 
         "bikoitz"
+    ], 
+    "⤴️": [
+        "gora okertzen den eskuinera gezia", 
+        "gezi"
+    ], 
+    "⤵️": [
+        "gezi", 
+        "behera okertzen den eskuinera gezia", 
+        "behera"
+    ], 
+    "⬅️": [
+        "norabide", 
+        "mendebalde", 
+        "ezkerrera gezia", 
+        "gezi", 
+        "kardinal"
+    ], 
+    "⬆️": [
+        "gora gezia", 
+        "norabide", 
+        "gezi", 
+        "kardinal", 
+        "ipar"
+    ], 
+    "⬇️": [
+        "behera", 
+        "behera gezia", 
+        "kardinal", 
+        "norabide", 
+        "gezi", 
+        "hego"
     ], 
     "⬛": [
         "karratu beltz handia", 
@@ -336,6 +992,30 @@
         "zirkulu lodi handia", 
         "o"
     ], 
+    "〰️": [
+        "puntuazio", 
+        "marratxo ondulatua", 
+        "ondulatu", 
+        "marratxo"
+    ], 
+    "〽️": [
+        "txanda-markatzailea", 
+        "txanda", 
+        "markatu"
+    ], 
+    "㊗️": [
+        "zoriontzeko ideograma zirkulu batean", 
+        "zorionak", 
+        "zorion", 
+        "txinera", 
+        "ideograma"
+    ], 
+    "㊙️": [
+        "sekretua irudikatzen duen ideograma zirkulu batean", 
+        "txinera", 
+        "sekretu", 
+        "ideograma"
+    ], 
     "🀄": [
         "joko", 
         "mahjong", 
@@ -347,6 +1027,26 @@
         "jolastu", 
         "karta", 
         "joko"
+    ], 
+    "🅰️": [
+        "a", 
+        "a botoia", 
+        "odol"
+    ], 
+    "🅱️": [
+        "b", 
+        "odol", 
+        "b botoia"
+    ], 
+    "🅾️": [
+        "“o” botoia", 
+        "odol", 
+        "o"
+    ], 
+    "🅿️": [
+        "parking", 
+        "“p” botoia", 
+        "aparkaleku"
     ], 
     "🆎": [
         "ab botoia", 
@@ -1440,6 +2140,10 @@
         "katakana koko karratu batean", 
         "japoniera"
     ], 
+    "🈂️": [
+        "japoniera", 
+        "katakana sa karratu batean"
+    ], 
     "🈚": [
         "japoniera", 
         "ezeztapena irudikatzen duen ideograma karratu batean"
@@ -1467,6 +2171,10 @@
     "🈶": [
         "japoniera", 
         "existentzia irudikatzen duen ideograma karratu batean"
+    ], 
+    "🈷️": [
+        "japoniera", 
+        "ilargia irudikatzen duen ideograma karratu batean"
     ], 
     "🈸": [
         "inprimaki bat irudikatzen duen ideograma karratu batean", 
@@ -1719,6 +2427,67 @@
         "izar-uxoa", 
         "iheskor"
     ], 
+    "🌡️": [
+        "termometro", 
+        "eguraldi"
+    ], 
+    "🌤️": [
+        "eguzkia hodei txiki baten atzean", 
+        "eguraldi", 
+        "hodei", 
+        "eguzki"
+    ], 
+    "🌥️": [
+        "eguraldi", 
+        "hodei", 
+        "eguzkia hodei handi baten atzean", 
+        "eguzki"
+    ], 
+    "🌦️": [
+        "euri", 
+        "eguzkia hodei baten atzean euriarekin", 
+        "eguraldi", 
+        "hodei", 
+        "eguzki"
+    ], 
+    "🌧️": [
+        "hodeia euriarekin", 
+        "euri", 
+        "eguraldi", 
+        "hodei"
+    ], 
+    "🌨️": [
+        "elur", 
+        "eguraldi", 
+        "hodeia elurrarekin", 
+        "hodei", 
+        "hotz"
+    ], 
+    "🌩️": [
+        "eguraldi", 
+        "hodeia tximistarekin", 
+        "hodei", 
+        "tximista"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "eguraldi", 
+        "zurrunbilo", 
+        "hodei"
+    ], 
+    "🌫️": [
+        "eguraldi", 
+        "lainoa", 
+        "hodei"
+    ], 
+    "🌬️": [
+        "haize-aurpegia", 
+        "putz", 
+        "eguraldi", 
+        "haize", 
+        "aurpegi", 
+        "hodei"
+    ], 
     "🌭": [
         "hot dog", 
         "saltxitxa", 
@@ -1764,6 +2533,13 @@
     "🌵": [
         "landare", 
         "kaktusa"
+    ], 
+    "🌶️": [
+        "bizi", 
+        "landare", 
+        "piper", 
+        "txilea", 
+        "txile"
     ], 
     "🌷": [
         "landare", 
@@ -2187,6 +2963,14 @@
         "esne", 
         "biberoia"
     ], 
+    "🍽️": [
+        "janari", 
+        "sardeska", 
+        "labana", 
+        "prestatu", 
+        "plater", 
+        "platera, sardeska eta labanarekin"
+    ], 
     "🍾": [
         "bar", 
         "botila", 
@@ -2233,10 +3017,20 @@
         "zuhaitz"
     ], 
     "🎅": [
+        "3. mota", 
         "fantasia", 
+        "6. mota", 
+        "5. mota", 
         "ospakizun", 
+        "aita noel: 5. mota", 
+        "aita noel: 6. mota", 
+        "bitarteko azal-tonua", 
+        "aita noel: 1–2. mota", 
+        "aita noel: bitarteko azal-tonua", 
         "ipuin", 
+        "aita noel: 3. mota", 
         "santa", 
+        "1–2. mota", 
         "gabonak", 
         "aita", 
         "aita noel"
@@ -2324,6 +3118,45 @@
         "arropa", 
         "graduazio", 
         "ospakizun"
+    ], 
+    "🎖️": [
+        "domina militarra", 
+        "ospakizun", 
+        "domina", 
+        "militar"
+    ], 
+    "🎗️": [
+        "gogorarazle", 
+        "ospakizun", 
+        "xingola"
+    ], 
+    "🎙️": [
+        "estudio", 
+        "mikrofono", 
+        "estudioko mikrofonoa", 
+        "musika"
+    ], 
+    "🎚️": [
+        "maila", 
+        "musika", 
+        "graduatzailea"
+    ], 
+    "🎛️": [
+        "kontrol", 
+        "musika", 
+        "kontrolak"
+    ], 
+    "🎞️": [
+        "zinema", 
+        "filmeko fotogramak", 
+        "film", 
+        "fotograma"
+    ], 
+    "🎟️": [
+        "sarbide", 
+        "sarrera-txartelak", 
+        "sarrera", 
+        "txartel"
     ], 
     "🎠": [
         "karrusela", 
@@ -2518,19 +3351,50 @@
         "lasterketa"
     ], 
     "🏂": [
-        "eski", 
+        "5. mota", 
         "elur", 
         "snowboardlaria", 
-        "snowboard"
+        "snowboardlaria: 5. mota", 
+        "snowboardlaria: 3. mota", 
+        "snowboardlaria: 1–2. mota", 
+        "3. mota", 
+        "eski", 
+        "bitarteko azal-tonua", 
+        "snowboard", 
+        "1–2. mota", 
+        "snowboardlaria: bitarteko azal-tonua", 
+        "6. mota", 
+        "snowboardlaria: 6. mota"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "emakume", 
+        "korrika ari den emakumea", 
         "maratoi", 
-        "korrika ari den pertsona", 
-        "korrika"
+        "emakumezko", 
+        "korrika", 
+        "lasterketa"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "korrika ari den gizona", 
+        "gizon", 
+        "korrika ari den pertsona", 
+        "maratoi", 
+        "korrika", 
+        "lasterketa", 
+        "gizonezko"
+    ], 
+    "🏄‍♀️": [
         "surf", 
-        "surflaria"
+        "emakumezko", 
+        "emakume", 
+        "emakume surflaria"
+    ], 
+    "🏄‍♂️": [
+        "surf", 
+        "gizon surflaria", 
+        "gizon", 
+        "surflaria", 
+        "gizonezko"
     ], 
     "🏅": [
         "domina", 
@@ -2541,10 +3405,20 @@
         "sari"
     ], 
     "🏇": [
-        "zaldi", 
+        "zaldi-lasterketa", 
         "zaldizko", 
-        "lasterketa", 
-        "zaldi-lasterketa"
+        "5. mota", 
+        "zaldi-lasterketa: 3. mota", 
+        "3. mota", 
+        "zaldi-lasterketa: 1–2. mota", 
+        "zaldi-lasterketa: bitarteko azal-tonua", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "zaldi-lasterketa: 5. mota", 
+        "6. mota", 
+        "zaldi-lasterketa: 6. mota", 
+        "zaldi", 
+        "lasterketa"
     ], 
     "🏈": [
         "baloi", 
@@ -2558,9 +3432,37 @@
         "futbol", 
         "errugbia"
     ], 
-    "🏊": [
-        "igerilaria", 
+    "🏊‍♀️": [
+        "emakume igerilaria", 
+        "emakumezko", 
+        "emakume", 
         "igeri"
+    ], 
+    "🏊‍♂️": [
+        "gizonezko", 
+        "igerilaria", 
+        "gizon", 
+        "gizon igerilaria", 
+        "igeri"
+    ], 
+    "🏋️‍♂️": [
+        "pisuak altxatzen ari den pertsona", 
+        "pisu", 
+        "jasotzaile"
+    ], 
+    "🏌️‍♂️": [
+        "pilota", 
+        "golflaria", 
+        "golf"
+    ], 
+    "🏍️": [
+        "motozikleta", 
+        "lasterketa"
+    ], 
+    "🏎️": [
+        "auto", 
+        "lasterketa", 
+        "lasterketa-autoa"
     ], 
     "🏏": [
         "pilota", 
@@ -2595,6 +3497,65 @@
         "tenis", 
         "ping-pong", 
         "erraketa"
+    ], 
+    "🏔️": [
+        "mendi", 
+        "elur", 
+        "hotz", 
+        "tontorrean elurra duen mendia"
+    ], 
+    "🏕️": [
+        "kanpin", 
+        "kanpina"
+    ], 
+    "🏖️": [
+        "eguzkitakoa hondartzan", 
+        "hondartza", 
+        "eguzkitako"
+    ], 
+    "🏗️": [
+        "eraikuntza", 
+        "eraikuntza-lanak", 
+        "lanak", 
+        "eraikin"
+    ], 
+    "🏘️": [
+        "etxebizitzak", 
+        "etxe", 
+        "eraikin"
+    ], 
+    "🏙️": [
+        "eraikin", 
+        "hiri-paisaia", 
+        "hiri"
+    ], 
+    "🏚️": [
+        "etxe abandonatua", 
+        "etxe", 
+        "eraikin", 
+        "abandonatu"
+    ], 
+    "🏛️": [
+        "eraikin historikoa", 
+        "eraikin", 
+        "historiko"
+    ], 
+    "🏜️": [
+        "basamortu", 
+        "basamortua"
+    ], 
+    "🏝️": [
+        "uharte", 
+        "basamortu", 
+        "uharte bakartia"
+    ], 
+    "🏞️": [
+        "parke", 
+        "parke nazionala"
+    ], 
+    "🏟️": [
+        "estadioa", 
+        "estadio"
     ], 
     "🏠": [
         "etxe", 
@@ -2689,6 +3650,15 @@
         "gaztelua", 
         "eraikin"
     ], 
+    "🏳️": [
+        "dantzatzen ari den bandera zuria", 
+        "dantzan"
+    ], 
+    "🏳️‍🌈": [
+        "bandera", 
+        "ortzadarraren bandera", 
+        "ortzadar"
+    ], 
     "🏴": [
         "dantzan", 
         "dantzatzen ari den bandera beltza"
@@ -2704,6 +3674,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Gales", 
         "bandera"
+    ], 
+    "🏵️": [
+        "landare", 
+        "saria"
+    ], 
+    "🏷️": [
+        "etiketa"
     ], 
     "🏸": [
         "pilota", 
@@ -3057,19 +4034,48 @@
         "aztarna", 
         "atzapar-aztarnak"
     ], 
+    "🐿️": [
+        "lurreko urtxintxa", 
+        "lur", 
+        "urtxintxa"
+    ], 
     "👀": [
         "gorputz", 
         "begiak", 
         "aurpegi", 
         "begi"
     ], 
+    "👁️": [
+        "gorputz", 
+        "begi"
+    ], 
     "👂": [
         "gorputz", 
-        "belarria"
+        "5. mota", 
+        "belarria: 3. mota", 
+        "3. mota", 
+        "belarria: 5. mota", 
+        "bitarteko azal-tonua", 
+        "belarria: 6. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "belarria: 1–2. mota", 
+        "belarria", 
+        "belarria: bitarteko azal-tonua"
     ], 
     "👃": [
         "gorputz", 
-        "sudurra"
+        "5. mota", 
+        "3. mota", 
+        "6. mota", 
+        "sudurra: 6. mota", 
+        "sudurra: 1–2. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "sudurra: 5. mota", 
+        "sudurra: bitarteko azal-tonua", 
+        "sudurra", 
+        "sudurra: 3. mota"
     ], 
     "👄": [
         "gorputz", 
@@ -3082,82 +4088,192 @@
     ], 
     "👆": [
         "gorputz", 
+        "5. mota", 
         "hatz", 
+        "bitarteko azal-tonua", 
         "esku", 
+        "gora seinalatzen ari den hatz erakuslearen atzealdea: 6. mota", 
+        "3. mota", 
         "gora seinalatzen ari den hatz erakuslearen atzealdea", 
+        "gora seinalatzen ari den hatz erakuslearen atzealdea: bitarteko azal-tonua", 
         "seinalatu", 
         "gora", 
-        "erakusle"
+        "1–2. mota", 
+        "gora seinalatzen ari den hatz erakuslearen atzealdea: 1–2. mota", 
+        "6. mota", 
+        "erakusle", 
+        "gora seinalatzen ari den hatz erakuslearen atzealdea: 3. mota", 
+        "gora seinalatzen ari den hatz erakuslearen atzealdea: 5. mota"
     ], 
     "👇": [
         "gorputz", 
+        "5. mota", 
         "hatz", 
+        "behera seinalatzen ari den hatz erakuslearen atzealdea: 5. mota", 
         "behera", 
         "behera seinalatzen ari den hatz erakuslearen atzealdea", 
+        "3. mota", 
         "esku", 
         "seinalatu", 
-        "erakusle"
+        "behera seinalatzen ari den hatz erakuslearen atzealdea: 3. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "behera seinalatzen ari den hatz erakuslearen atzealdea: bitarteko azal-tonua", 
+        "erakusle", 
+        "behera seinalatzen ari den hatz erakuslearen atzealdea: 6. mota", 
+        "behera seinalatzen ari den hatz erakuslearen atzealdea: 1–2. mota", 
+        "bitarteko azal-tonua"
     ], 
     "👈": [
         "gorputz", 
+        "5. mota", 
+        "ezkerrera seinalatzen ari den hatz erakuslea: 5. mota", 
         "hatz", 
+        "ezkerrera seinalatzen ari den hatz erakuslea: 1–2. mota", 
+        "ezkerrera seinalatzen ari den hatz erakuslea: 6. mota", 
+        "3. mota", 
         "esku", 
+        "ezkerrera seinalatzen ari den hatz erakuslea: bitarteko azal-tonua", 
         "seinalatu", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
         "erakusle", 
+        "ezkerrera seinalatzen ari den hatz erakuslea: 3. mota", 
         "ezkerrera seinalatzen ari den hatz erakuslea"
     ], 
     "👉": [
         "eskuinera seinalatzen ari den hatz erakuslea", 
         "gorputz", 
         "hatz", 
+        "5. mota", 
+        "eskuinera seinalatzen ari den hatz erakuslea: bitarteko azal-tonua", 
+        "3. mota", 
         "esku", 
+        "eskuinera seinalatzen ari den hatz erakuslea: 3. mota", 
         "seinalatu", 
-        "erakusle"
+        "eskuinera seinalatzen ari den hatz erakuslea: 1–2. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "eskuinera seinalatzen ari den hatz erakuslea: 6. mota", 
+        "6. mota", 
+        "erakusle", 
+        "eskuinera seinalatzen ari den hatz erakuslea: 5. mota"
     ], 
     "👊": [
         "gorputz", 
+        "5. mota", 
+        "ukabilkada: 1–2. mota", 
+        "ukabilkada: 3. mota", 
+        "ukabilkada: 6. mota", 
         "ukabil", 
-        "estutu", 
+        "3. mota", 
         "esku", 
-        "ukabilkada"
+        "ukabilkada", 
+        "bitarteko azal-tonua", 
+        "estutu", 
+        "1–2. mota", 
+        "6. mota", 
+        "ukabilkada: bitarteko azal-tonua", 
+        "ukabilkada: 5. mota"
     ], 
     "👋": [
         "gorputz", 
-        "mugitzen ari den eskua", 
+        "5. mota", 
+        "bitarteko azal-tonua", 
+        "mugitzen ari den eskua: 3. mota", 
+        "3. mota", 
         "esku", 
+        "mugitzen ari den eskua: 6. mota", 
+        "mugitzen ari den eskua: bitarteko azal-tonua", 
+        "mugitzen ari den eskua", 
+        "mugitzen ari den eskua: 5. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "mugitzen ari den eskua: 1–2. mota", 
         "mugitu"
     ], 
     "👌": [
         "gorputz", 
-        "ados", 
+        "5. mota", 
         "ok", 
+        "adostasuna adierazten duen eskua", 
+        "adostasuna adierazten duen eskua: bitarteko azal-tonua", 
+        "3. mota", 
         "esku", 
-        "adostasuna adierazten duen eskua"
+        "adostasuna adierazten duen eskua: 3. mota", 
+        "bitarteko azal-tonua", 
+        "adostasuna adierazten duen eskua: 5. mota", 
+        "adostasuna adierazten duen eskua: 1–2. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "ados", 
+        "adostasuna adierazten duen eskua: 6. mota"
     ], 
     "👍": [
         "gorputz", 
-        "erpurua gora", 
-        "esku", 
+        "erpurua gora: bitarteko azal-tonua", 
         "erpuru", 
-        "gora"
+        "6. mota", 
+        "gora", 
+        "erpurua gora: 6. mota", 
+        "3. mota", 
+        "esku", 
+        "erpurua gora", 
+        "1–2. mota", 
+        "erpurua gora: 5. mota", 
+        "erpurua gora: 3. mota", 
+        "5. mota", 
+        "bitarteko azal-tonua", 
+        "erpurua gora: 1–2. mota"
     ], 
     "👎": [
         "gorputz", 
-        "erpurua behera", 
-        "esku", 
+        "erpurua behera: 1–2. mota", 
+        "3. mota", 
         "erpuru", 
-        "behera"
+        "erpurua behera", 
+        "behera", 
+        "esku", 
+        "bitarteko azal-tonua", 
+        "erpurua behera: 3. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "erpurua behera: 5. mota", 
+        "erpurua behera: bitarteko azal-tonua", 
+        "5. mota", 
+        "erpurua behera: 6. mota"
     ], 
     "👏": [
         "gorputz", 
-        "txaloka ari diren eskuak", 
+        "txaloka ari diren eskuak: 1–2. mota", 
+        "3. mota", 
+        "txaloka ari diren eskuak: bitarteko azal-tonua", 
+        "txaloka ari diren eskuak: 5. mota", 
         "txalo", 
-        "esku"
+        "esku", 
+        "txaloka ari diren eskuak: 6. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "txaloka ari diren eskuak", 
+        "5. mota", 
+        "txaloka ari diren eskuak: 3. mota"
     ], 
     "👐": [
         "gorputz", 
+        "5. mota", 
         "esku irekiak", 
+        "esku irekiak: 5. mota", 
+        "6. mota", 
+        "esku irekiak: 3. mota", 
+        "3. mota", 
         "esku", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "esku irekiak: 1–2. mota", 
+        "esku irekiak: bitarteko azal-tonua", 
+        "esku irekiak: 6. mota", 
         "ireki"
     ], 
     "👑": [
@@ -3278,71 +4394,208 @@
         "soinen siluetak"
     ], 
     "👦": [
+        "5. mota", 
         "mutil", 
+        "mutila: bitarteko azal-tonua", 
+        "6. mota", 
+        "mutila: 1–2. mota", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "mutila: 5. mota", 
+        "gizon", 
+        "mutila: 3. mota", 
         "mutila", 
-        "gizon"
+        "mutila: 6. mota"
     ], 
     "👧": [
+        "5. mota", 
         "emakume", 
-        "neska"
+        "neska: 6. mota", 
+        "neska: 5. mota", 
+        "neska: 3. mota", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "neska: bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "neska", 
+        "neska: 1–2. mota"
     ], 
     "👨": [
+        "5. mota", 
         "gizona", 
+        "gizona: bitarteko azal-tonua", 
+        "gizona: 1–2. mota", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "gizona: 5. mota", 
+        "6. mota", 
+        "gizona: 3. mota", 
         "gizon", 
+        "gizona: 6. mota", 
         "gizonezko"
     ], 
-    "👨‍🌾": [
-        "gizon nekazaria", 
+    "👨‍⚕️": [
         "gizon", 
+        "sendagile", 
+        "gizon sendagilea", 
+        "osasun", 
+        "erizaina", 
+        "terapeuta", 
+        "gizonezko"
+    ], 
+    "👨‍⚖️": [
+        "gizon epailea", 
+        "balantza", 
+        "gizon", 
+        "justizia", 
+        "gizonezko"
+    ], 
+    "👨‍✈️": [
+        "gizon pilotua", 
+        "pilotu", 
+        "gizon", 
+        "hegazkin", 
+        "gizonezko"
+    ], 
+    "👨‍❤️‍👨": [
+        "bihotz", 
+        "gizona", 
+        "bikote", 
+        "bihotza erdian duen bikotea: gizona eta gizona", 
+        "bihotza erdian duen bikotea", 
+        "maitasun"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "bikote", 
+        "musu: gizona eta gizona", 
+        "gizona", 
+        "musu"
+    ], 
+    "👨‍🌾": [
+        "5. mota", 
+        "gizon nekazaria", 
+        "3. mota", 
+        "gizon", 
+        "gizon nekazaria: 3. mota", 
+        "gizon nekazaria: 1–2. mota", 
         "baserritar", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "gizon nekazaria: bitarteko azal-tonua", 
+        "gizon nekazaria: 5. mota", 
+        "gizon nekazaria: 6. mota", 
         "gizonezko", 
         "lorezain", 
         "nekazari"
     ], 
     "👨‍🍳": [
-        "chef", 
-        "gizon sukaldaria", 
-        "sukaldari", 
+        "gizon sukaldaria: 1–2. mota", 
+        "5. mota", 
         "gizon", 
+        "sukaldari", 
+        "gizon sukaldaria: bitarteko azal-tonua", 
+        "3. mota", 
+        "chef", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "gizon sukaldaria", 
+        "gizon sukaldaria: 5. mota", 
+        "gizon sukaldaria: 3. mota", 
+        "gizon sukaldaria: 6. mota", 
         "gizonezko"
     ], 
     "👨‍🎓": [
-        "ikasle", 
+        "5. mota", 
         "mutil ikaslea", 
-        "graduatu", 
         "gizon", 
-        "gizonezko"
+        "6. mota", 
+        "ikasle", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "mutil ikaslea: 5. mota", 
+        "1–2. mota", 
+        "mutil ikaslea: 1–2. mota", 
+        "mutil ikaslea: bitarteko azal-tonua", 
+        "mutil ikaslea: 3. mota", 
+        "gizonezko", 
+        "mutil ikaslea: 6. mota", 
+        "graduatu"
     ], 
     "👨‍🎤": [
+        "5. mota", 
         "abeslari", 
         "gizon", 
+        "gizon abeslaria: 6. mota", 
+        "gizon abeslaria: bitarteko azal-tonua", 
+        "3. mota", 
         "aisia", 
         "izar", 
+        "bitarteko azal-tonua", 
         "gizon abeslaria", 
+        "1–2. mota", 
+        "6. mota", 
         "rock", 
+        "gizon abeslaria: 3. mota", 
         "aktore", 
+        "gizon abeslaria: 5. mota", 
+        "gizon abeslaria: 1–2. mota", 
         "gizonezko"
     ], 
     "👨‍🎨": [
-        "paleta", 
+        "5. mota", 
+        "gizon artista: 1–2. mota", 
         "gizon", 
         "artista", 
+        "gizon artista: 6. mota", 
+        "3. mota", 
         "gizon artista", 
+        "gizon artista: 5. mota", 
+        "bitarteko azal-tonua", 
+        "paleta", 
+        "1–2. mota", 
+        "6. mota", 
+        "gizon artista: bitarteko azal-tonua", 
+        "gizon artista: 3. mota", 
         "gizonezko"
     ], 
     "👨‍🏫": [
-        "irakasle", 
-        "gizonezko", 
+        "5. mota", 
         "gizon", 
+        "6. mota", 
+        "3. mota", 
+        "gizon irakaslea", 
+        "gizon irakaslea: 5. mota", 
+        "bitarteko azal-tonua", 
+        "gizon irakaslea: 3. mota", 
+        "1–2. mota", 
         "maisu", 
-        "gizon irakaslea"
+        "gizon irakaslea: 6. mota", 
+        "irakasle", 
+        "gizon irakaslea: 1–2. mota", 
+        "gizon irakaslea: bitarteko azal-tonua", 
+        "gizonezko"
     ], 
     "👨‍🏭": [
+        "5. mota", 
+        "fabrikako gizon langilea: 6. mota", 
+        "3. mota", 
         "gizon", 
         "fabrika", 
         "langile", 
         "fabrikako gizon langilea", 
+        "fabrikako gizon langilea: bitarteko azal-tonua", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "fabrikako gizon langilea: 3. mota", 
+        "fabrikako gizon langilea: 1–2. mota", 
         "mihiztatu", 
+        "fabrikako gizon langilea: 5. mota", 
         "industria", 
         "gizonezko"
     ], 
@@ -3492,28 +4745,58 @@
     "👨‍💻": [
         "garatzaile", 
         "asmatzaile", 
+        "gizon teknologialaria: bitarteko azal-tonua", 
+        "5. mota", 
         "gizon", 
+        "gizon teknologialaria: 5. mota", 
+        "bitarteko azal-tonua", 
         "teknologia", 
+        "3. mota", 
+        "gizon teknologialaria: 1–2. mota", 
+        "gizon teknologialaria: 3. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "gizon teknologialaria: 6. mota", 
         "gizon teknologialaria", 
         "software", 
         "kodetzaile", 
         "gizonezko"
     ], 
     "👨‍💼": [
+        "5. mota", 
         "gizon", 
+        "gizon bulegaria: 3. mota", 
+        "bitarteko azal-tonua", 
+        "gizon bulegaria: bitarteko azal-tonua", 
         "alkandora", 
+        "3. mota", 
         "kudeatzaile", 
+        "gizon bulegaria: 1–2. mota", 
         "bulego", 
+        "1–2. mota", 
+        "6. mota", 
         "gizon bulegaria", 
         "arkitekto", 
+        "gizon bulegaria: 6. mota", 
         "enpresa", 
+        "gizon bulegaria: 5. mota", 
         "gizonezko"
     ], 
     "👨‍🔧": [
         "mekarikari", 
+        "5. mota", 
         "elektrikari", 
+        "gizon mekanikaria: 6. mota", 
         "gizon", 
+        "gizon mekanikaria: 3. mota", 
+        "bitarteko azal-tonua", 
+        "3. mota", 
+        "gizon mekanikaria: 5. mota", 
+        "gizon mekanikaria: 1–2. mota", 
+        "gizon mekanikaria: bitarteko azal-tonua", 
         "saltzaile", 
+        "6. mota", 
+        "1–2. mota", 
         "iturgin", 
         "gizon mekanikaria", 
         "gizonezko"
@@ -3523,85 +4806,248 @@
         "zientzialari", 
         "gizon", 
         "ingeniari", 
+        "5. mota", 
+        "gizon zientzialaria: 5. mota", 
+        "3. mota", 
+        "gizon zientzialaria: bitarteko azal-tonua", 
         "gizon zientzialaria", 
+        "bitarteko azal-tonua", 
+        "gizon zientzialaria: 3. mota", 
         "biologo", 
         "kimikari", 
+        "6. mota", 
+        "gizon zientzialaria: 1–2. mota", 
+        "1–2. mota", 
         "matematikari", 
+        "gizon zientzialaria: 6. mota", 
         "gizonezko"
     ], 
     "👨‍🚀": [
+        "gizon astronauta: bitarteko azal-tonua", 
+        "5. mota", 
         "gizon", 
+        "6. mota", 
+        "bitarteko azal-tonua", 
+        "gizon astronauta: 6. mota", 
+        "3. mota", 
         "suziri", 
         "gizon astronauta", 
+        "1–2. mota", 
+        "gizon astronauta: 5. mota", 
         "espazioa", 
+        "gizon astronauta: 3. mota", 
+        "gizon astronauta: 1–2. mota", 
         "astronauta", 
         "gizonezko"
     ], 
     "👨‍🚒": [
         "suhiltzaile", 
-        "suhiltzaile-kamioi", 
         "gizon", 
+        "6. mota", 
+        "5. mota", 
+        "gizon suhiltzailea: 6. mota", 
+        "3. mota", 
+        "gizon suhiltzailea: 1–2. mota", 
+        "suhiltzaile-kamioi", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
         "gizon suhiltzailea", 
+        "gizon suhiltzailea: 5. mota", 
+        "gizon suhiltzailea: bitarteko azal-tonua", 
+        "gizon suhiltzailea: 3. mota", 
         "gizonezko"
     ], 
     "👩": [
+        "5. mota", 
+        "emakume", 
+        "emakumea: bitarteko azal-tonua", 
+        "emakumea", 
+        "emakumea: 5. mota", 
+        "3. mota", 
+        "emakumea: 3. mota", 
+        "emakumea: 6. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "emakumezko", 
+        "emakumea: 1–2. mota"
+    ], 
+    "👩‍⚕️": [
+        "emakume", 
+        "sendagile", 
+        "emakume sendagilea", 
+        "osasun", 
+        "erizain", 
+        "emakumezko", 
+        "terapeuta"
+    ], 
+    "👩‍⚖️": [
         "emakumezko", 
         "emakume", 
-        "emakumea"
+        "balantzak", 
+        "epaiketa", 
+        "emakume epailea"
+    ], 
+    "👩‍✈️": [
+        "emakumezko", 
+        "emakume", 
+        "pilotu", 
+        "emakume pilotua", 
+        "hegazkin"
+    ], 
+    "👩‍❤️‍👨": [
+        "bihotz", 
+        "gizona", 
+        "bihotza erdian duen bikotea: emakumea eta gizona", 
+        "emakumea", 
+        "bikote", 
+        "bihotza erdian duen bikotea", 
+        "maitasun"
+    ], 
+    "👩‍❤️‍👩": [
+        "bihotz", 
+        "emakumea", 
+        "bihotza erdian duen bikotea: emakumea eta emakumea", 
+        "bikote", 
+        "bihotza erdian duen bikotea", 
+        "maitasun"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "musu: emakumea eta gizona", 
+        "bikote", 
+        "gizona", 
+        "emakumea", 
+        "musu"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "bikote", 
+        "musu: emakumea eta emakumea", 
+        "emakumea", 
+        "musu"
     ], 
     "👩‍🌾": [
+        "emakume nekazaria: bitarteko azal-tonua", 
         "emakume", 
+        "3. mota", 
+        "5. mota", 
+        "emakume nekazaria: 6. mota", 
         "baserritar", 
+        "emakume nekazaria: 5. mota", 
         "emakume nekazaria", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "emakume nekazaria: 3. mota", 
         "emakumezko", 
+        "emakume nekazaria: 1–2. mota", 
         "lorezain", 
         "nekazari"
     ], 
     "👩‍🍳": [
-        "chef", 
-        "emakumezko", 
+        "5. mota", 
         "emakume", 
+        "emakume sukaldaria: bitarteko azal-tonua", 
+        "emakume sukaldaria: 3. mota", 
+        "6. mota", 
+        "sukaldari", 
+        "3. mota", 
+        "chef", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "emakume sukaldaria: 1–2. mota", 
+        "emakume sukaldaria: 6. mota", 
+        "emakumezko", 
         "emakume sukaldaria", 
-        "sukaldari"
+        "emakume sukaldaria: 5. mota"
     ], 
     "👩‍🎓": [
-        "emakumezko", 
+        "neska ikaslea: bitarteko azal-tonua", 
         "emakume", 
+        "3. mota", 
+        "neska ikaslea: 6. mota", 
         "ikasle", 
         "neska ikaslea", 
+        "neska ikaslea: 1–2. mota", 
+        "neska ikaslea: 3. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "emakumezko", 
+        "neska ikaslea: 5. mota", 
+        "5. mota", 
         "graduatu"
     ], 
     "👩‍🎤": [
         "emakume abeslaria", 
+        "5. mota", 
         "emakume", 
         "abeslari", 
+        "emakume abeslaria: 3. mota", 
+        "3. mota", 
+        "emakume abeslaria: 1–2. mota", 
         "aisia", 
         "izar", 
+        "bitarteko azal-tonua", 
+        "emakume abeslaria: 6. mota", 
+        "emakume abeslaria: bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
         "rock", 
         "emakumezko", 
-        "aktore"
+        "aktore", 
+        "emakume abeslaria: 5. mota"
     ], 
     "👩‍🎨": [
-        "emakume artista", 
-        "emakumezko", 
+        "5. mota", 
         "emakume", 
+        "artista", 
+        "bitarteko azal-tonua", 
+        "emakume artista", 
+        "emakume artista: 6. mota", 
+        "3. mota", 
+        "emakume artista: 3. mota", 
+        "emakume artista: 1–2. mota", 
         "paleta", 
-        "artista"
+        "1–2. mota", 
+        "emakume artista: 5. mota", 
+        "6. mota", 
+        "emakume artista: bitarteko azal-tonua", 
+        "emakumezko"
     ], 
     "👩‍🏫": [
+        "5. mota", 
+        "emakume", 
+        "emakume irakaslea: bitarteko azal-tonua", 
+        "emakume irakaslea", 
+        "emakume irakaslea: 5. mota", 
+        "3. mota", 
+        "emakume irakaslea: 3. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "emakume irakaslea: 6. mota", 
         "irakasle", 
         "emakumezko", 
-        "emakume", 
-        "emakume irakaslea", 
+        "emakume irakaslea: 1–2. mota", 
         "andereño"
     ], 
     "👩‍🏭": [
+        "5. mota", 
         "emakume", 
+        "3. mota", 
+        "6. mota", 
         "fabrika", 
+        "fabrikako emakume langilea: 6. mota", 
         "langile", 
+        "fabrikako emakume langilea: 5. mota", 
+        "fabrikako emakume langilea: 1–2. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
         "fabrikako emakume langilea", 
         "emakumezko", 
         "mihiztatu", 
+        "fabrikako emakume langilea: bitarteko azal-tonua", 
+        "fabrikako emakume langilea: 3. mota", 
         "industria"
     ], 
     "👩‍👦": [
@@ -3700,27 +5146,57 @@
         "garatzaile", 
         "asmatzaile", 
         "emakume", 
+        "1–2. mota", 
+        "emakume teknologialaria: 3. mota", 
         "teknologia", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "emakume teknologialaria: 1–2. mota", 
         "emakume teknologialaria", 
+        "emakume teknologialaria: bitarteko azal-tonua", 
+        "6. mota", 
+        "emakume teknologialaria: 5. mota", 
         "emakumezko", 
+        "5. mota", 
         "kodetzaile", 
+        "emakume teknologialaria: 6. mota", 
         "software"
     ], 
     "👩‍💼": [
+        "5. mota", 
         "emakume", 
+        "emakume bulegaria: 5. mota", 
         "alkandora", 
+        "3. mota", 
+        "emakume bulegaria: 6. mota", 
+        "emakume bulegaria: 3. mota", 
+        "emakume bulegaria: 1–2. mota", 
         "kudeatzaile", 
+        "bitarteko azal-tonua", 
         "bulego", 
+        "1–2. mota", 
+        "6. mota", 
         "emakumezko", 
         "arkitekto", 
         "emakume bulegaria", 
-        "enpresa"
+        "enpresa", 
+        "emakume bulegaria: bitarteko azal-tonua"
     ], 
     "👩‍🔧": [
+        "5. mota", 
         "elektrikari", 
+        "1–2. mota", 
+        "emakume mekanikaria: 6. mota", 
+        "3. mota", 
+        "emakume mekanikaria: 3. mota", 
         "emakume", 
+        "emakume mekanikaria: 5. mota", 
+        "bitarteko azal-tonua", 
+        "emakume mekanikaria: 1–2. mota", 
         "saltzaile", 
+        "6. mota", 
         "emakumezko", 
+        "emakume mekanikaria: bitarteko azal-tonua", 
         "emakume mekanikaria", 
         "iturgin"
     ], 
@@ -3728,33 +5204,57 @@
         "fisikari", 
         "zientzialari", 
         "emakume", 
+        "1–2. mota", 
         "ingeniari", 
+        "6. mota", 
+        "emakume zientzialaria: 1–2. mota", 
+        "3. mota", 
+        "emakume zientzialaria: bitarteko azal-tonua", 
+        "bitarteko azal-tonua", 
         "biologo", 
         "emakume zientzialaria", 
+        "emakume zientzialaria: 5. mota", 
         "emakumezko", 
+        "5. mota", 
         "matematikari", 
+        "emakume zientzialaria: 6. mota", 
+        "emakume zientzialaria: 3. mota", 
         "kimikari"
     ], 
     "👩‍🚀": [
+        "emakume astronauta: 5. mota", 
+        "emakume astronauta: 1–2. mota", 
         "emakume", 
+        "6. mota", 
+        "5. mota", 
+        "3. mota", 
+        "emakume astronauta: 3. mota", 
         "suziri", 
+        "emakume astronauta: 6. mota", 
+        "bitarteko azal-tonua", 
+        "emakume astronauta: bitarteko azal-tonua", 
+        "1–2. mota", 
         "espazioa", 
         "emakume astronauta", 
         "emakumezko", 
         "astronauta"
     ], 
     "👩‍🚒": [
-        "emakumezko", 
+        "suhiltzaile", 
         "emakume", 
+        "5. mota", 
+        "emakume suhiltzailea: 1–2. mota", 
+        "3. mota", 
         "suhiltzaile-kamioi", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "emakumezko", 
+        "emakume suhiltzailea: 6. mota", 
         "emakume suhiltzailea", 
-        "suhiltzaile"
-    ], 
-    "👪": [
-        "ama", 
-        "aita", 
-        "haur", 
-        "familia"
+        "emakume suhiltzailea: bitarteko azal-tonua", 
+        "emakume suhiltzailea: 5. mota", 
+        "emakume suhiltzailea: 3. mota"
     ], 
     "👫": [
         "emakume", 
@@ -3781,67 +5281,176 @@
         "bi emakume batak bestearen eskuari eusten", 
         "emakume"
     ], 
-    "👮": [
-        "polizia", 
-        "aginte"
+    "👮‍♀️": [
+        "emakumezko", 
+        "emakume", 
+        "emakume polizia", 
+        "aginte", 
+        "polizia"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "polizia", 
+        "gizon polizia", 
+        "gizon", 
+        "aginte", 
+        "gizonezko"
+    ], 
+    "👯‍♀️": [
         "belarri", 
         "emakume", 
         "untxi", 
+        "parranda", 
+        "parrandan ari diren emakumeak", 
         "parrandan ari den jendea", 
         "neska", 
         "emakumezko", 
         "dantzari"
     ], 
-    "👰": [
-        "beloa daraman emaztegaia", 
-        "emaztegai", 
-        "belo", 
-        "ezkontza"
+    "👯‍♂️": [
+        "belarri", 
+        "gizon", 
+        "untxi", 
+        "parranda", 
+        "dantzari", 
+        "parrandan ari diren gizonak", 
+        "gizonezko"
     ], 
-    "👱": [
+    "👰": [
+        "5. mota", 
+        "belo", 
+        "beloa daraman emaztegaia: 5. mota", 
+        "beloa daraman emaztegaia: 6. mota", 
+        "beloa daraman emaztegaia", 
+        "3. mota", 
+        "ezkontza", 
+        "bitarteko azal-tonua", 
+        "emaztegai", 
+        "1–2. mota", 
+        "6. mota", 
+        "beloa daraman emaztegaia: 1–2. mota", 
+        "beloa daraman emaztegaia: bitarteko azal-tonua", 
+        "beloa daraman emaztegaia: 3. mota"
+    ], 
+    "👱‍♀️": [
+        "emakumezko", 
+        "emakume", 
         "ilehori", 
-        "pertsona ilehoria"
+        "emakume ilehoria"
+    ], 
+    "👱‍♂️": [
+        "gizon ilehoria", 
+        "ilehori", 
+        "gizon", 
+        "pertsona ilehoria", 
+        "gizonezko"
     ], 
     "👲": [
-        "gua pi mao", 
-        "txano txinatarra daraman gizona", 
+        "txano txinatarra daraman gizona: 1–2. mota", 
         "gizon", 
-        "txano"
+        "txano", 
+        "txano txinatarra daraman gizona", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "gua pi mao", 
+        "txano txinatarra daraman gizona: bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "txano txinatarra daraman gizona: 5. mota", 
+        "txano txinatarra daraman gizona: 3. mota", 
+        "5. mota", 
+        "txano txinatarra daraman gizona: 6. mota"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "emakumezko", 
+        "emakume", 
+        "turbantea duen emakumea", 
+        "turbante"
+    ], 
+    "👳‍♂️": [
         "turbante", 
-        "turbantea duen petsona"
+        "turbantea duen gizona", 
+        "gizon", 
+        "turbantea duen petsona", 
+        "gizonezko"
     ], 
     "👴": [
-        "aitona", 
-        "agure", 
+        "5. mota", 
+        "3. mota", 
         "gizon", 
+        "aitona: 6. mota", 
+        "aitona: bitarteko azal-tonua", 
+        "agure", 
+        "aitona: 5. mota", 
+        "aitona", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "aitona: 1–2. mota", 
+        "aitona: 3. mota", 
         "zahar", 
         "gizonezko"
     ], 
     "👵": [
-        "emakumezko", 
+        "5. mota", 
         "emakume", 
+        "3. mota", 
+        "6. mota", 
+        "amona", 
+        "amona: 1–2. mota", 
         "agure", 
-        "zahar", 
-        "amona"
+        "amona: 5. mota", 
+        "amona: bitarteko azal-tonua", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "amona: 3. mota", 
+        "emakumezko", 
+        "amona: 6. mota", 
+        "zahar"
     ], 
     "👶": [
+        "haurtxoa: 1–2. mota", 
+        "5. mota", 
+        "3. mota", 
+        "haurtxoa: bitarteko azal-tonua", 
+        "haurtxoa: 5. mota", 
+        "haurtxoa: 3. mota", 
+        "haurtxoa: 6. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
         "haurtxoa", 
         "haurtxo"
     ], 
-    "👷": [
+    "👷‍♀️": [
         "eraikuntza", 
-        "eskulangilea", 
+        "emakumezko", 
+        "emakume", 
         "langile", 
-        "kasko"
+        "emakume eskulangilea"
+    ], 
+    "👷‍♂️": [
+        "eskulangilea", 
+        "gizon", 
+        "kasko", 
+        "langile", 
+        "eraikuntza", 
+        "gizon eskulangilea", 
+        "gizonezko"
     ], 
     "👸": [
-        "fantasia", 
+        "5. mota", 
+        "printzesa: 6. mota", 
+        "printzesa: 1–2. mota", 
+        "3. mota", 
+        "printzesa: 5. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "printzesa", 
         "ipuin", 
-        "printzesa"
+        "printzesa: bitarteko azal-tonua", 
+        "fantasia", 
+        "printzesa: 3. mota"
     ], 
     "👹": [
         "ogroa", 
@@ -3870,12 +5479,22 @@
         "munstro"
     ], 
     "👼": [
+        "5. mota", 
+        "aingeru-itxura duen haurtxoa: 1–2. mota", 
         "aingeru", 
         "aingeru-itxura duen haurtxoa", 
+        "6. mota", 
+        "aingeru-itxura duen haurtxoa: bitarteko azal-tonua", 
+        "3. mota", 
+        "aingeru-itxura duen haurtxoa: 3. mota", 
+        "bitarteko azal-tonua", 
         "ipuin", 
         "aurpegi", 
+        "1–2. mota", 
+        "aingeru-itxura duen haurtxoa: 5. mota", 
         "fantasia", 
-        "haurtxo"
+        "haurtxo", 
+        "aingeru-itxura duen haurtxoa: 6. mota"
     ], 
     "👽": [
         "estralurtar", 
@@ -3915,22 +5534,51 @@
         "hil", 
         "munstro"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "emakume", 
         "informazio", 
         "laguntza", 
         "esku", 
         "eskupeko", 
         "kokin", 
-        "eskean dabilen pertsona"
+        "emakumezko", 
+        "eskean dabilen pertsona", 
+        "eskean dabilen emakumea"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "kokin", 
+        "eskupeko", 
+        "gizon", 
+        "eskean dabilen gizona", 
+        "gizonezko"
+    ], 
+    "💂‍♀️": [
+        "emakume zaindaria", 
+        "emakume", 
+        "zaindari", 
+        "emakumezko"
+    ], 
+    "💂‍♂️": [
         "zaindaria", 
-        "zaindari"
+        "gizon zaindaria", 
+        "zaindari", 
+        "gizon", 
+        "gizonezko"
     ], 
     "💃": [
-        "dantzan ari den emakumea", 
+        "5. mota", 
         "dantza", 
-        "emakume"
+        "dantzan ari den emakumea: 5. mota", 
+        "dantzan ari den emakumea: 6. mota", 
+        "dantzan ari den emakumea", 
+        "3. mota", 
+        "emakume", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "dantzan ari den emakumea: 1–2. mota", 
+        "dantzan ari den emakumea: bitarteko azal-tonua", 
+        "dantzan ari den emakumea: 3. mota"
     ], 
     "💄": [
         "makillaje", 
@@ -3939,25 +5587,54 @@
     ], 
     "💅": [
         "gorputz", 
+        "5. mota", 
+        "3. mota", 
         "esmalte", 
         "kosmetika", 
         "azazkaletako esmaltea", 
         "edertasun", 
+        "azazkaletako esmaltea: 6. mota", 
+        "bitarteko azal-tonua", 
+        "azazkaletako esmaltea: 3. mota", 
+        "1–2. mota", 
+        "azazkaletako esmaltea: bitarteko azal-tonua", 
+        "6. mota", 
         "azazkal", 
-        "manikura"
+        "azazkaletako esmaltea: 5. mota", 
+        "manikura", 
+        "azazkaletako esmaltea: 1–2. mota"
     ], 
-    "💆": [
-        "masajea egiten ari dioten pertsona", 
+    "💆‍♀️": [
         "zentro", 
+        "aurpegian masajea egiten ari dioten emakumea", 
+        "masajea egiten ari dioten pertsona", 
+        "masaje", 
+        "emakume", 
         "aurpegi", 
-        "masaje"
+        "emakumezko"
     ], 
-    "💇": [
-        "ile-apaintzaile", 
-        "ilea mozten ari dioten pertsona", 
+    "💆‍♂️": [
+        "masaje", 
+        "gizonezko", 
+        "gizon", 
+        "aurpegi", 
+        "aurpegian masajea egiten ari dioten pertsona"
+    ], 
+    "💇‍♀️": [
         "zentro", 
         "moztu", 
-        "edertasun"
+        "ile-apaintzaile", 
+        "emakume", 
+        "edertasun", 
+        "ilea mozten ari dioten emakumea", 
+        "ilea mozten ari dioten pertsona", 
+        "emakumezko"
+    ], 
+    "💇‍♂️": [
+        "gizon", 
+        "moztu", 
+        "ilea mozten ari dioten gizona", 
+        "gizonezko"
     ], 
     "💈": [
         "bizargin", 
@@ -4002,20 +5679,10 @@
         "harribitxia", 
         "bitxi"
     ], 
-    "💏": [
-        "bikote", 
-        "musu"
-    ], 
     "💐": [
         "lore", 
         "sorta", 
         "lore sorta"
-    ], 
-    "💑": [
-        "bihotz", 
-        "bikote", 
-        "maitasun", 
-        "bihotza erdian duen bikotea"
     ], 
     "💒": [
         "kapera", 
@@ -4159,11 +5826,21 @@
     ], 
     "💪": [
         "gorputz", 
+        "5. mota", 
         "flexio", 
+        "bizepsak: bitarteko azal-tonua", 
         "bizeps", 
+        "6. mota", 
         "gihar", 
+        "bizepsak: 3. mota", 
+        "3. mota", 
+        "bizepsak: 5. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
         "kokimi", 
-        "bizepsak"
+        "bizepsak", 
+        "bizepsak: 1–2. mota", 
+        "bizepsak: 6. mota"
     ], 
     "💫": [
         "izar", 
@@ -4670,6 +6347,13 @@
         "zinta", 
         "vhs"
     ], 
+    "📽️": [
+        "bideo", 
+        "zinema", 
+        "proiektore", 
+        "film-proiektorea", 
+        "film"
+    ], 
     "📿": [
         "erlijio", 
         "arrosarioa", 
@@ -5053,6 +6737,17 @@
         "gorri", 
         "behera"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "erlijio"
+    ], 
+    "🕊️": [
+        "hegan", 
+        "uxoa", 
+        "bake", 
+        "txori"
+    ], 
     "🕋": [
         "kaaba", 
         "erlijio", 
@@ -5293,23 +6988,125 @@
         "12:30", 
         "hamabi"
     ], 
+    "🕯️": [
+        "argi", 
+        "kandela"
+    ], 
+    "🕰️": [
+        "mahai gaineko erlojua", 
+        "erloju"
+    ], 
+    "🕳️": [
+        "zuloa", 
+        "zulo"
+    ], 
+    "🕴️": [
+        "trajea daraman eta lebitatzen ari den gizona", 
+        "traje", 
+        "enpresa", 
+        "gizon"
+    ], 
+    "🕵️‍♂️": [
+        "detektibea", 
+        "espia", 
+        "detektibe"
+    ], 
+    "🕶️": [
+        "ilun", 
+        "eguzkitako betaurrekoak", 
+        "betaurreko", 
+        "begi"
+    ], 
+    "🕷️": [
+        "armiarma", 
+        "intsektu"
+    ], 
+    "🕸️": [
+        "armiarma", 
+        "armiarma-sarea", 
+        "sare"
+    ], 
+    "🕹️": [
+        "bideo", 
+        "joko-palanka", 
+        "joko"
+    ], 
     "🕺": [
+        "5. mota", 
         "dantza", 
+        "gizona dantzan: bitarteko azal-tonua", 
         "gizon", 
+        "gizona dantzan: 6. mota", 
+        "3. mota", 
+        "gizona dantzan: 3. mota", 
+        "gizona dantzan: 1–2. mota", 
+        "gizona dantzan: 5. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
         "gizona dantzan"
+    ], 
+    "🖇️": [
+        "klip", 
+        "elkarri lotutako klipak", 
+        "lotu"
+    ], 
+    "🖊️": [
+        "boligrafo", 
+        "bolaluma"
+    ], 
+    "🖋️": [
+        "estilografikoa", 
+        "luma estilografikoa", 
+        "luma"
+    ], 
+    "🖌️": [
+        "brotxa", 
+        "margotu"
+    ], 
+    "🖍️": [
+        "margoa", 
+        "margo"
+    ], 
+    "🖐️": [
+        "gorputz", 
+        "esku altxatua eta hatz hedatuak", 
+        "hatz", 
+        "esku", 
+        "hedatu"
     ], 
     "🖕": [
         "gorputz", 
-        "erdiko hatza", 
+        "erdiko hatza: 3. mota", 
         "hatz", 
-        "esku"
+        "5. mota", 
+        "erdiko hatza: 6. mota", 
+        "3. mota", 
+        "esku", 
+        "erdiko hatza: bitarteko azal-tonua", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "erdiko hatza", 
+        "erdiko hatza: 5. mota", 
+        "erdiko hatza: 1–2. mota"
     ], 
     "🖖": [
         "gorputz", 
+        "5. mota", 
+        "vulkaniar agurra: 6. mota", 
         "hatz", 
+        "6. mota", 
+        "bitarteko azal-tonua", 
         "vulkaniar", 
+        "3. mota", 
         "esku", 
+        "vulkaniar agurra: 1–2. mota", 
+        "vulkaniar agurra: bitarteko azal-tonua", 
         "spock", 
+        "1–2. mota", 
+        "vulkaniar agurra: 3. mota", 
+        "vulkaniar agurra: 5. mota", 
         "vulkaniar agurra"
     ], 
     "🖤": [
@@ -5318,6 +7115,120 @@
         "zital", 
         "beltz", 
         "bihotz beltza"
+    ], 
+    "🖥️": [
+        "ordenagailu", 
+        "mahaigaineko ordenagailua", 
+        "mahaigain"
+    ], 
+    "🖨️": [
+        "ordenagailua", 
+        "inprimagailua"
+    ], 
+    "🖱️": [
+        "ordenagailu", 
+        "botoi", 
+        "hiru", 
+        "3", 
+        "ordenagailuko sagua", 
+        "sagu"
+    ], 
+    "🖲️": [
+        "ordenagailu", 
+        "kontrolagailua"
+    ], 
+    "🖼️": [
+        "koadroa markoarekin", 
+        "marko", 
+        "museo", 
+        "arte", 
+        "koadro", 
+        "margo"
+    ], 
+    "🗂️": [
+        "artxibo", 
+        "bereizle", 
+        "artxibo-bereizleak", 
+        "txartel"
+    ], 
+    "🗃️": [
+        "fitxategi", 
+        "artxibatu", 
+        "kaxa", 
+        "artxibatzeko kaxa"
+    ], 
+    "🗄️": [
+        "artxibo", 
+        "artxibategia", 
+        "artxibategi"
+    ], 
+    "🗑️": [
+        "zakarrontzia", 
+        "zakarrontzi"
+    ], 
+    "🗒️": [
+        "ohar", 
+        "koaderno kiribilduna", 
+        "blok", 
+        "kiribil"
+    ], 
+    "🗓️": [
+        "koaderno", 
+        "kiribil", 
+        "egutegi kiribilduna", 
+        "egutegi"
+    ], 
+    "🗜️": [
+        "konprimatzea", 
+        "tresna"
+    ], 
+    "🗝️": [
+        "giltza zaharra", 
+        "giltza", 
+        "blokeo", 
+        "pista", 
+        "itxi", 
+        "zahar"
+    ], 
+    "🗞️": [
+        "egunkari", 
+        "albisteak", 
+        "egunkari bildua", 
+        "bildu"
+    ], 
+    "🗡️": [
+        "aizto", 
+        "daga", 
+        "arma"
+    ], 
+    "🗣️": [
+        "hitz", 
+        "buru", 
+        "silueta", 
+        "aurpegi", 
+        "egin", 
+        "aurrera hitz egiten ari den burua"
+    ], 
+    "🗨️": [
+        "hizketa", 
+        "ezkerrera doan bunbuiloa", 
+        "elkarrizketa"
+    ], 
+    "🗯️": [
+        "bunbuilo", 
+        "eskuinera doan sumindura-bunbuiloa", 
+        "sumindu", 
+        "haserre"
+    ], 
+    "🗳️": [
+        "kutxa eta txartela", 
+        "kutxa", 
+        "txartel"
+    ], 
+    "🗺️": [
+        "munduko mapa", 
+        "mapa", 
+        "mundu"
     ], 
     "🗻": [
         "fuji", 
@@ -5806,26 +7717,66 @@
         "aurpegi", 
         "biraka"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "galarazita", 
+        "ez konforme", 
         "ados ez dagoela adierazten ari den pertsona", 
+        "esku", 
+        "emakume", 
+        "ados ez dagoela adierazten ari den emakumea", 
+        "keinu", 
+        "ez", 
+        "emakumezko", 
+        "debekatuta"
+    ], 
+    "🙅‍♂️": [
+        "galarazita", 
+        "gizon", 
+        "ez konforme", 
+        "ados ez dagoela adierazten ari den gizona", 
         "esku", 
         "keinu", 
         "ez", 
-        "debekatuta"
+        "debekatuta", 
+        "gizonezko"
     ], 
-    "🙆": [
+    "🙆‍♀️": [
+        "emakume", 
+        "esku", 
         "ados dagoela adierazten ari den pertsona", 
-        "ados", 
         "keinu", 
-        "esku"
+        "ados dagoela adierazten ari den emakumea", 
+        "emakumezko", 
+        "ados"
     ], 
-    "🙇": [
-        "burua makurtzen ari den pertsona", 
+    "🙆‍♂️": [
+        "gizon", 
+        "esku", 
+        "ados dagoela adierazten ari den gizona", 
+        "keinu", 
+        "ados", 
+        "gizonezko"
+    ], 
+    "🙇‍♀️": [
+        "emakume", 
+        "mesede", 
         "keinu", 
         "barkamen", 
         "makurtu", 
+        "burua makurtzen ari den emakumea", 
+        "emakumezko", 
         "barkatu"
+    ], 
+    "🙇‍♂️": [
+        "gizon", 
+        "burua makurtzen ari den gizona", 
+        "burua makurtzen ari den pertsona", 
+        "mesede", 
+        "keinu", 
+        "barkamen", 
+        "makurtu", 
+        "barkatu", 
+        "gizonezko"
     ], 
     "🙈": [
         "tximu", 
@@ -5857,43 +7808,95 @@
         "aurpegi", 
         "ez"
     ], 
-    "🙋": [
-        "eskua altxatzen ari den pertsona", 
-        "pozik", 
-        "keinu", 
+    "🙋‍♀️": [
+        "emakume", 
+        "eskua altxatuta", 
         "esku", 
-        "altxatuta"
+        "altxatuta", 
+        "eskua altxatzen ari den pertsona", 
+        "keinu", 
+        "eskua altxatzen ari den emakumea", 
+        "emakumezko", 
+        "pozik"
+    ], 
+    "🙋‍♂️": [
+        "keinu", 
+        "eskua altxatuta", 
+        "eskua altxatzen ari den gizona", 
+        "gizon", 
+        "gizonezko"
     ], 
     "🙌": [
         "gorputz", 
+        "3. mota", 
         "ospakizun", 
+        "eskuak altxatzen ari den pertsona: bitarteko azal-tonua", 
         "altxatu", 
+        "5. mota", 
         "eskuak altxatzen ari den pertsona", 
         "esku", 
-        "keinu"
-    ], 
-    "🙍": [
-        "kopeta", 
+        "eskuak altxatzen ari den pertsona: 6. mota", 
+        "bitarteko azal-tonua", 
         "keinu", 
+        "1–2. mota", 
+        "6. mota", 
+        "eskuak altxatzen ari den pertsona: 5. mota", 
+        "eskuak altxatzen ari den pertsona: 3. mota", 
+        "eskuak altxatzen ari den pertsona: 1–2. mota"
+    ], 
+    "🙍‍♀️": [
+        "emakume", 
         "zimurtu", 
-        "kopeta zimurtzen ari den pertsona"
-    ], 
-    "🙎": [
+        "kopeta zimurtzen ari den emakumea", 
+        "kopeta zimurtzen ari den pertsona", 
         "keinu", 
+        "kopeta", 
+        "emakumezko"
+    ], 
+    "🙍‍♂️": [
+        "zimurtu", 
+        "gizon", 
+        "keinu", 
+        "kopeta", 
+        "kopeta zimurtzen ari den gizona", 
+        "gizonezko"
+    ], 
+    "🙎‍♀️": [
+        "emakume", 
         "pertsona muturtua", 
-        "muturtu"
+        "muturtu", 
+        "keinu", 
+        "emakumezko", 
+        "emakume muturtua"
+    ], 
+    "🙎‍♂️": [
+        "keinu", 
+        "gizon", 
+        "muturtu", 
+        "gizon muturtua", 
+        "gizonezko"
     ], 
     "🙏": [
         "gorputz", 
+        "5. mota", 
+        "erregutzen ari diren eskuak: bitarteko azal-tonua", 
+        "erregutzen ari diren eskuak: 1–2. mota", 
+        "6. mota", 
         "mesedez", 
+        "3. mota", 
         "esku", 
         "otoitz", 
         "keinu", 
+        "bitarteko azal-tonua", 
         "eskatu", 
+        "1–2. mota", 
+        "erregutzen ari diren eskuak: 6. mota", 
         "makurtu", 
         "erregu", 
         "eskerrak", 
-        "erregutzen ari diren eskuak"
+        "erregutzen ari diren eskuak: 3. mota", 
+        "erregutzen ari diren eskuak", 
+        "erregutzen ari diren eskuak: 5. mota"
     ], 
     "🚀": [
         "espazio", 
@@ -6101,11 +8104,21 @@
         "itsasontzia", 
         "ibilgailu"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
         "arraun", 
+        "emakume", 
         "ontzi", 
+        "emakume arraunlaria", 
+        "emakumezko"
+    ], 
+    "🚣‍♂️": [
+        "gizon", 
+        "ibilgailu", 
+        "gizon arraunlaria", 
+        "ontzi", 
+        "arraun", 
         "arraunlaria", 
-        "ibilgailu"
+        "gizonezko"
     ], 
     "🚤": [
         "itsasontzi", 
@@ -6202,23 +8215,56 @@
         "debekatuta", 
         "bizikletarik ez"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "gizon", 
+        "emakume txirrindularia", 
+        "txirringa", 
+        "txirrindulari", 
+        "bizikleta", 
+        "gizonezko"
+    ], 
+    "🚴‍♂️": [
+        "gizon", 
         "txirrindularia", 
         "txirringa", 
+        "gizon txirrindularia", 
+        "bizikleta", 
+        "txirrindulari", 
+        "gizonezko"
+    ], 
+    "🚵‍♀️": [
+        "emakume", 
+        "mendiko bizikletan dabilen emakumea", 
+        "txirringa", 
+        "mendi", 
+        "emakumezko", 
         "bizikleta", 
         "txirrindulari"
     ], 
-    "🚵": [
+    "🚵‍♂️": [
+        "mendiko bizikletan dabilen pertsona", 
+        "gizon", 
+        "txirringa", 
         "mendi", 
+        "mendiko bizikletan dabilen gizona", 
         "txirrindulari", 
         "bizikleta", 
-        "mendiko bizikletan dabilen pertsona", 
-        "txirringa"
+        "gizonezko"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "emakumezko", 
+        "emakume", 
+        "oinez ari den emakumea", 
         "ibili", 
-        "oinez ari den pertsona", 
         "oinez"
+    ], 
+    "🚶‍♂️": [
+        "gizon", 
+        "oinez ari den gizona", 
+        "oinez ari den pertsona", 
+        "ibili", 
+        "oinez", 
+        "gizonezko"
     ], 
     "🚷": [
         "galarazita", 
@@ -6271,9 +8317,19 @@
         "ur"
     ], 
     "🛀": [
+        "5. mota", 
+        "pertsona bat bainatzen: 1–2. mota", 
         "bainuontzi", 
-        "bainu", 
-        "pertsona bat bainatzen"
+        "pertsona bat bainatzen: bitarteko azal-tonua", 
+        "3. mota", 
+        "pertsona bat bainatzen: 3. mota", 
+        "pertsona bat bainatzen", 
+        "pertsona bat bainatzen: 5. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "pertsona bat bainatzen: 6. mota", 
+        "bainu"
     ], 
     "🛁": [
         "bainu", 
@@ -6298,9 +8354,42 @@
         "ahaztutako maletak", 
         "maleta"
     ], 
+    "🛋️": [
+        "lanpara", 
+        "sofa", 
+        "sofa eta lanpara", 
+        "hotel"
+    ], 
     "🛌": [
+        "5. mota", 
+        "hotel", 
+        "bitarteko azal-tonua", 
         "lo", 
+        "3. mota", 
+        "pertsona bat ohean: 3. mota", 
         "pertsona bat ohean", 
+        "pertsona bat ohean: 5. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "pertsona bat ohean: bitarteko azal-tonua", 
+        "pertsona bat ohean: 6. mota", 
+        "pertsona bat ohean: 1–2. mota"
+    ], 
+    "🛍️": [
+        "hotel", 
+        "erosketa-poltsak", 
+        "poltsa", 
+        "erosketa"
+    ], 
+    "🛎️": [
+        "txirrin", 
+        "kanpai", 
+        "hotel", 
+        "mahai gaineko txirrina"
+    ], 
+    "🛏️": [
+        "ohea", 
+        "lo", 
         "hotel"
     ], 
     "🛐": [
@@ -6321,6 +8410,42 @@
         "erosketa", 
         "erosketa-orga"
     ], 
+    "🛠️": [
+        "tresna", 
+        "mailua eta giltza ingelesa", 
+        "giltza ingeles", 
+        "mailu"
+    ], 
+    "🛡️": [
+        "ezkutua", 
+        "arma"
+    ], 
+    "🛢️": [
+        "upel", 
+        "olio", 
+        "olio-upela"
+    ], 
+    "🛣️": [
+        "errepide", 
+        "autobidea", 
+        "autobide"
+    ], 
+    "🛤️": [
+        "trenbide", 
+        "trenbidearen erraila", 
+        "tren"
+    ], 
+    "🛥️": [
+        "itsasontzi", 
+        "motorra", 
+        "motordun txalupa", 
+        "ibilgailu"
+    ], 
+    "🛩️": [
+        "hegazkin", 
+        "hegazkin txikia", 
+        "ibilgailu"
+    ], 
     "🛫": [
         "ibilgailu", 
         "irteera", 
@@ -6339,6 +8464,17 @@
         "hegazkin", 
         "iritsierak", 
         "iritsiera"
+    ], 
+    "🛰️": [
+        "espazio", 
+        "satelitea", 
+        "ibilgailu"
+    ], 
+    "🛳️": [
+        "gurutzaontzia", 
+        "itsasontzi", 
+        "bidaiari", 
+        "ibilgailu"
     ], 
     "🛴": [
         "scooter", 
@@ -6412,29 +8548,79 @@
     "🤘": [
         "adarrak adierazten dituen eskua", 
         "gorputz", 
-        "adar", 
         "hatz", 
-        "esku"
+        "adarrak adierazten dituen eskua: bitarteko azal-tonua", 
+        "adar", 
+        "3. mota", 
+        "esku", 
+        "adarrak adierazten dituen eskua: 1–2. mota", 
+        "bitarteko azal-tonua", 
+        "adarrak adierazten dituen eskua: 6. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "adarrak adierazten dituen eskua: 3. mota", 
+        "5. mota", 
+        "adarrak adierazten dituen eskua: 5. mota"
     ], 
     "🤙": [
+        "5. mota", 
+        "deitzeko esku-keinua: 5. mota", 
+        "deitzeko esku-keinua: 1–2. mota", 
+        "deitzeko esku-keinua: bitarteko azal-tonua", 
+        "6. mota", 
+        "deitzeko esku-keinua: 3. mota", 
+        "3. mota", 
         "esku", 
         "deitzeko esku-keinua", 
-        "deitu"
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "deitu", 
+        "deitzeko esku-keinua: 6. mota"
     ], 
     "🤚": [
+        "5. mota", 
+        "esku-azpia altxatuta: 5. mota", 
+        "6. mota", 
+        "3. mota", 
+        "altxatuta", 
+        "esku-azpia altxatuta: 6. mota", 
         "esku-azpi", 
+        "bitarteko azal-tonua", 
         "esku-azpia altxatuta", 
-        "altxatuta"
+        "1–2. mota", 
+        "esku-azpia altxatuta: 1–2. mota", 
+        "esku-azpia altxatuta: bitarteko azal-tonua", 
+        "esku-azpia altxatuta: 3. mota"
     ], 
     "🤛": [
         "ezkerrera", 
+        "5. mota", 
+        "6. mota", 
         "ukabil", 
-        "ukabila ezkerrera begira"
+        "ukabila ezkerrera begira: 1–2. mota", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "ukabila ezkerrera begira", 
+        "ukabila ezkerrera begira: 5. mota", 
+        "ukabila ezkerrera begira: 6. mota", 
+        "ukabila ezkerrera begira: bitarteko azal-tonua", 
+        "ukabila ezkerrera begira: 3. mota"
     ], 
     "🤜": [
+        "5. mota", 
+        "eskuinera", 
+        "6. mota", 
+        "bitarteko azal-tonua", 
         "ukabil", 
+        "3. mota", 
+        "ukabila eskuinera begira: 6. mota", 
+        "ukabila eskuinera begira: 3. mota", 
         "ukabila eskuinera begira", 
-        "eskuinera"
+        "ukabila eskuinera begira: 5. mota", 
+        "1–2. mota", 
+        "ukabila eskuinera begira: 1–2. mota", 
+        "ukabila eskuinera begira: bitarteko azal-tonua"
     ], 
     "🤝": [
         "esku-emate", 
@@ -6444,15 +8630,35 @@
         "bilera"
     ], 
     "🤞": [
-        "hatz gurutzatuak", 
+        "5. mota", 
         "hatz", 
+        "hatz gurutzatuak", 
+        "hatz gurutzatuak: bitarteko azal-tonua", 
+        "3. mota", 
         "esku", 
+        "gurutzatu", 
+        "hatz gurutzatuak: 3. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
         "zorte", 
-        "gurutzatu"
+        "6. mota", 
+        "hatz gurutzatuak: 6. mota", 
+        "hatz gurutzatuak: 1–2. mota", 
+        "hatz gurutzatuak: 5. mota"
     ], 
     "🤟": [
-        "adarren keinu", 
+        "5. mota", 
+        "adarren keinua: 6. mota", 
+        "bitarteko azal-tonua", 
+        "adarren keinua: 1–2. mota", 
+        "3. mota", 
         "esku", 
+        "adarren keinua: 3. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "adarren keinua: bitarteko azal-tonua", 
+        "adarren keinu", 
+        "adarren keinua: 5. mota", 
         "adarren keinua"
     ], 
     "🤠": [
@@ -6491,11 +8697,37 @@
         "aurpegi"
     ], 
     "🤦": [
-        "esku-azpi", 
-        "esku-azpia aurpegian", 
-        "sumindura", 
+        "esku-azpia aurpegian: 3. mota", 
+        "3. mota", 
+        "6. mota", 
+        "5. mota", 
         "sinesgaiztasun", 
-        "aurpegi"
+        "sumindura", 
+        "esku-azpia aurpegian: 1–2. mota", 
+        "esku-azpi", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "aurpegi", 
+        "esku-azpia aurpegian: 5. mota", 
+        "esku-azpia aurpegian", 
+        "esku-azpia aurpegian: 6. mota", 
+        "esku-azpia aurpegian: bitarteko azal-tonua"
+    ], 
+    "🤦‍♀️": [
+        "emakume", 
+        "esku-azpia aurpegian duen emakumea", 
+        "sumindura", 
+        "esku-azpi", 
+        "sinesgaitasun", 
+        "emakumezko"
+    ], 
+    "🤦‍♂️": [
+        "esku-azpia aurpegian duen gizona", 
+        "gizon", 
+        "sumindura", 
+        "esku-azpi", 
+        "sinesgaitasun", 
+        "gizonezko"
     ], 
     "🤧": [
         "muki", 
@@ -6544,62 +8776,211 @@
         "txundituta"
     ], 
     "🤰": [
+        "5. mota", 
         "emakume", 
-        "emakumea haurdun", 
-        "haurdun"
+        "6. mota", 
+        "haurdun", 
+        "3. mota", 
+        "emakumea haurdun: 1–2. mota", 
+        "emakumea haurdun: 6. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "emakumea haurdun: bitarteko azal-tonua", 
+        "emakumea haurdun: 5. mota", 
+        "emakumea haurdun: 3. mota", 
+        "emakumea haurdun"
     ], 
     "🤱": [
-        "haurtxo", 
-        "bularra ematea", 
+        "5. mota", 
+        "bularreko haur", 
+        "bularra ematea: 6. mota", 
+        "3. mota", 
         "bular", 
-        "bularreko haur"
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "bularra ematea: 5. mota", 
+        "6. mota", 
+        "bularra ematea: 3. mota", 
+        "bularra ematea: 1–2. mota", 
+        "bularra ematea", 
+        "haurtxo", 
+        "bularra ematea: bitarteko azal-tonua"
     ], 
     "🤲": [
+        "5. mota", 
         "otoitza", 
+        "esku-azpiak elkartuta: 5. mota", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "esku-azpiak elkartuta: 3. mota", 
+        "esku-azpiak elkartuta: 1–2. mota", 
+        "esku-azpiak elkartuta: 6. mota", 
+        "1–2. mota", 
+        "6. mota", 
+        "esku-azpiak elkartuta: bitarteko azal-tonua", 
         "esku-azpiak elkartuta"
     ], 
     "🤳": [
-        "kamera", 
+        "5. mota", 
+        "autoargazkia: 3. mota", 
+        "3. mota", 
+        "autoargazkia: 6. mota", 
         "autoargazki", 
         "autoargazkia", 
-        "telefono"
+        "autoargazkia: 1–2. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "autoargazkia: 5. mota", 
+        "kamera", 
+        "telefono", 
+        "autoargazkia: bitarteko azal-tonua"
     ], 
     "🤴": [
+        "printzea: 1–2. mota", 
+        "printzea: bitarteko azal-tonua", 
+        "printzea: 6. mota", 
         "printze", 
-        "printzea"
+        "printzea: 3. mota", 
+        "5. mota", 
+        "3. mota", 
+        "printzea", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "printzea: 5. mota"
     ], 
     "🤵": [
-        "gizona esmokinean", 
-        "senargai", 
+        "5. mota", 
         "gizon", 
+        "bitarteko azal-tonua", 
+        "3. mota", 
+        "senargai", 
+        "gizona esmokinean: 3. mota", 
+        "gizona esmokinean", 
+        "gizona esmokinean: 5. mota", 
+        "1–2. mota", 
+        "gizona esmokinean: 6. mota", 
+        "6. mota", 
+        "gizona esmokinean: bitarteko azal-tonua", 
+        "gizona esmokinean: 1–2. mota", 
         "esmokin"
     ], 
     "🤶": [
+        "5. mota", 
+        "gabonetako ama: 3. mota", 
         "ama", 
+        "gabonetako ama: bitarteko azal-tonua", 
+        "3. mota", 
+        "gabonetako ama: 6. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
         "gabonetako ama", 
-        "gabonak"
+        "gabonetako ama: 5. mota", 
+        "gabonak", 
+        "gabonetako ama: 1–2. mota"
     ], 
     "🤷": [
+        "5. mota", 
+        "sorbaldak altxatu: 5. mota", 
         "altxatu", 
         "sorbaldak altxatu", 
         "ezjakintasun", 
         "axolagabekeria", 
+        "3. mota", 
+        "sorbaldak altxatu: 3. mota", 
+        "bitarteko azal-tonua", 
         "zalantza", 
-        "sorbalda"
+        "sorbalda", 
+        "6. mota", 
+        "sorbaldak altxatu: 1–2. mota", 
+        "1–2. mota", 
+        "sorbaldak altxatu: 6. mota", 
+        "sorbaldak altxatu: bitarteko azal-tonua"
+    ], 
+    "🤷‍♀️": [
+        "ezjakintasuna", 
+        "altxatu", 
+        "emakumea", 
+        "axolagabekeria", 
+        "zalantza", 
+        "sorbaldak altxatzen ari den emakumea"
+    ], 
+    "🤷‍♂️": [
+        "ezjakintasuna", 
+        "gizon", 
+        "altxatu", 
+        "axolagabekeria", 
+        "sorbaldak altxatzen ari den gizona", 
+        "zalantza", 
+        "gizonezko"
     ], 
     "🤸": [
-        "alboko gurpil", 
+        "alboko gurpila: bitarteko azal-tonua", 
+        "alboko gurpila: 1–2. mota", 
+        "alboko gurpila: 6. mota", 
+        "5. mota", 
+        "alboko gurpila: 5. mota", 
+        "3. mota", 
+        "gimnasia", 
         "alboko gurpila", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "alboko gurpil", 
         "kirol", 
+        "alboko gurpila: 3. mota", 
+        "pertsona"
+    ], 
+    "🤸‍♀️": [
+        "emakume", 
+        "gimnasia", 
         "pertsona", 
-        "gimnasia"
+        "emakumezko", 
+        "kirol", 
+        "gurpil", 
+        "gurpil-ariketa egiten ari den emakumea"
+    ], 
+    "🤸‍♂️": [
+        "gizon", 
+        "gimnasia", 
+        "gurpil-ariketa egiten ari den gizona", 
+        "kirol", 
+        "gurpil", 
+        "pertsona", 
+        "gizonezko"
     ], 
     "🤹": [
+        "5. mota", 
+        "trebetasun", 
+        "malabarismoa: 5. mota", 
+        "3. mota", 
+        "oreka", 
+        "malabarismoa: bitarteko azal-tonua", 
+        "bitarteko azal-tonua", 
+        "malabarismoa: 3. mota", 
+        "1–2. mota", 
+        "zeregin ugari", 
+        "6. mota", 
+        "malabarismoa: 6. mota", 
         "malabarismo", 
         "malabarismoa", 
+        "malabarismoa: 1–2. mota"
+    ], 
+    "🤹‍♀️": [
+        "emakumezko", 
+        "emakume", 
         "zeregin ugari", 
-        "oreka", 
-        "trebetasun"
+        "emakumea malabarismotan", 
+        "malabarismo"
+    ], 
+    "🤹‍♂️": [
+        "gizona malabarismotan", 
+        "malabarismo", 
+        "gizon", 
+        "zeregin ugari", 
+        "gizonezko"
     ], 
     "🤺": [
         "eskrimalaria", 
@@ -6616,18 +8997,84 @@
         "pertsona", 
         "borrokalariak"
     ], 
-    "🤽": [
-        "waterpolo", 
-        "waterpoloa", 
+    "🤼‍♀️": [
+        "emakume", 
+        "borroka", 
+        "emakumeak borrokan", 
+        "emakumezko", 
         "kirol", 
         "pertsona"
     ], 
+    "🤼‍♂️": [
+        "borroka", 
+        "gizon", 
+        "gizonak borrokan", 
+        "kirol", 
+        "pertsona", 
+        "gizonezko"
+    ], 
+    "🤽": [
+        "5. mota", 
+        "waterpoloa: 6. mota", 
+        "bitarteko azal-tonua", 
+        "waterpoloa: bitarteko azal-tonua", 
+        "3. mota", 
+        "waterpoloa", 
+        "1–2. mota", 
+        "6. mota", 
+        "waterpolo", 
+        "waterpoloa: 5. mota", 
+        "kirol", 
+        "waterpoloa: 3. mota", 
+        "waterpoloa: 1–2. mota", 
+        "pertsona"
+    ], 
+    "🤽‍♀️": [
+        "emakume", 
+        "ur", 
+        "polo", 
+        "emakumezko", 
+        "kirol", 
+        "emakumea waterpoloan jolasten"
+    ], 
+    "🤽‍♂️": [
+        "gizon", 
+        "ur", 
+        "gizona waterpoloan jolasten", 
+        "polo", 
+        "kirol", 
+        "gizonezko"
+    ], 
     "🤾": [
         "baloi", 
-        "eskubaloia", 
-        "kirol", 
+        "eskubaloia: 1–2. mota", 
         "eskubaloi", 
+        "5. mota", 
+        "3. mota", 
+        "eskubaloia", 
+        "eskubaloia: 5. mota", 
+        "bitarteko azal-tonua", 
+        "1–2. mota", 
+        "6. mota", 
+        "eskubaloia: 3. mota", 
+        "eskubaloia: 6. mota", 
+        "kirol", 
+        "eskubaloia: bitarteko azal-tonua", 
         "pertsona"
+    ], 
+    "🤾‍♀️": [
+        "emakumezko", 
+        "emakume", 
+        "emakumea eskubaloian jolasten", 
+        "eskubaloi", 
+        "kirol"
+    ], 
+    "🤾‍♂️": [
+        "gizon", 
+        "kirol", 
+        "gizonezko", 
+        "eskubaloi", 
+        "gizona eskubaloian jolasten"
     ], 
     "🥀": [
         "lore", 
@@ -6990,74 +9437,181 @@
         "aspergarria"
     ], 
     "🧑": [
+        "heldu: 1–2. mota", 
+        "heldu: 6. mota", 
+        "5. mota", 
+        "heldu: bitarteko azal-tonua", 
+        "3. mota", 
+        "heldu", 
+        "bitarteko azal-tonua", 
         "genero neutroko", 
-        "heldu"
+        "1–2. mota", 
+        "6. mota", 
+        "heldu: 5. mota", 
+        "heldu: 3. mota"
     ], 
     "🧒": [
-        "gazte", 
+        "5. mota", 
         "haur", 
-        "genero neutroko"
+        "haur: 6. mota", 
+        "3. mota", 
+        "haur: 1–2. mota", 
+        "genero neutroko", 
+        "haur: 3. mota", 
+        "haur: 5. mota", 
+        "bitarteko azal-tonua", 
+        "gazte", 
+        "1–2. mota", 
+        "6. mota", 
+        "haur: bitarteko azal-tonua"
     ], 
     "🧓": [
-        "genero neutroko", 
+        "5. mota", 
         "agure", 
-        "adineko"
+        "6. mota", 
+        "3. mota", 
+        "agure: 3. mota", 
+        "agure: bitarteko azal-tonua", 
+        "agure: 6. mota", 
+        "bitarteko azal-tonua", 
+        "genero neutroko", 
+        "1–2. mota", 
+        "adineko", 
+        "agure: 5. mota", 
+        "agure: 1–2. mota"
     ], 
     "🧔": [
+        "5. mota", 
+        "pertsona bizarduna: 5. mota", 
+        "pertsona bizarduna: 1–2. mota", 
+        "3. mota", 
+        "bitarteko azal-tonua", 
+        "pertsona bizarduna: 6. mota", 
+        "1–2. mota", 
+        "pertsona bizarduna: bitarteko azal-tonua", 
+        "6. mota", 
+        "pertsona bizarduna", 
         "bizar", 
-        "pertsona bizarduna"
+        "pertsona bizarduna: 3. mota"
     ], 
     "🧕": [
-        "hijab", 
+        "5. mota", 
+        "buruan zapi bat daraman emakumea: 3. mota", 
+        "buruan zapi bat daraman emakumea: 6. mota", 
+        "3. mota", 
+        "buruan zapi bat daraman emakumea: bitarteko azal-tonua", 
+        "buruan zapi bat daraman emakumea: 1–2. mota", 
+        "bitarteko azal-tonua", 
         "mantilla", 
-        "buruan zapi bat daraman emakumea", 
+        "1–2. mota", 
+        "6. mota", 
+        "tichel", 
+        "hijab", 
         "zapi", 
-        "tichel"
+        "buruan zapi bat daraman emakumea", 
+        "buruan zapi bat daraman emakumea: 5. mota"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "emakume bat lurrun-gelan", 
+        "sauna", 
+        "lurrun-gela"
+    ], 
+    "🧖‍♂️": [
+        "gizon bat lurrun-gelan", 
         "sauna", 
         "pertsona bat lurrun-gelan", 
         "lurrun-gela"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "eskalatzailea", 
-        "pertsona bat eskalatzen"
+        "pertsona bat eskalatzen", 
+        "emakume eskalatzaile", 
+        "eskalatzaile"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "eskalatzaile", 
+        "gizon eskalatzaile"
+    ], 
+    "🧘‍♀️": [
         "meditazio", 
         "pertsona bat loto-posizioan", 
-        "yoga"
+        "yoga", 
+        "emakume bat loto-posizioan"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "meditazio", 
+        "yoga", 
+        "gizon bat loto-posizioan"
+    ], 
+    "🧙‍♀️": [
         "azti", 
         "sorgin", 
-        "mago"
+        "mago", 
+        "emakume mago"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "gizon mago", 
+        "belagile"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
+        "(emakume) maitagarri", 
         "Oberon", 
         "maitagarri", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "(gizon) maitagarri", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
         "Drakula", 
         "banpiro", 
-        "hildako bizidun"
+        "hildako bizidun", 
+        "emakume banpiro"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Drakula", 
+        "hildako bizidun", 
+        "gizon banpiro"
+    ], 
+    "🧜‍♀️": [
         "sirena", 
-        "itsas izaki", 
         "lamina"
     ], 
-    "🧝": [
-        "magiko", 
-        "elfo"
+    "🧜‍♂️": [
+        "Triton", 
+        "sirena", 
+        "itsas izaki", 
+        "lamina", 
+        "gizon-itxurako itsas izaki"
     ], 
-    "🧞": [
+    "🧝‍♀️": [
+        "magiko", 
+        "emakume elfo"
+    ], 
+    "🧝‍♂️": [
+        "magiko", 
+        "elfo", 
+        "gizon elfo"
+    ], 
+    "🧞‍♀️": [
+        "emakume iratxo", 
+        "djinn"
+    ], 
+    "🧞‍♂️": [
+        "gizon iratxo", 
         "iratxo", 
         "djinn"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "emakume zonbi", 
+        "hildako ibiltari", 
+        "hildako bizidun"
+    ], 
+    "🧟‍♂️": [
+        "gizon zonbi", 
         "zonbi", 
         "hildako ibiltari", 
         "hildako bizidun"

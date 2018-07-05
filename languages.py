@@ -60,11 +60,11 @@ def getLanguageStructureFromUrl():
 
 def createLanguageStructureFile():
     lang_json = getLanguageStructureFromUrl()
-    with open("EmojiLanguages/_languages.json", 'w') as emojiFile:
+    with open("EmojiData/_languages.json", 'w') as emojiFile:
         json.dump(lang_json, emojiFile, indent=4, ensure_ascii=False)
 
 def getLanguageStructureFromFile():
-    with open("EmojiLanguages/_languages.json") as f:
+    with open("EmojiData/_languages.json") as f:
         return jsonUtil.json_load_byteified(f)
 
 

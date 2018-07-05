@@ -1,4 +1,123 @@
 {
+    "#️⃣": [
+        "keycap", 
+        "keycap: #"
+    ], 
+    "*️⃣": [
+        "keycap", 
+        "keycap: *"
+    ], 
+    "0️⃣": [
+        "keycap", 
+        "keycap: 0"
+    ], 
+    "1️⃣": [
+        "keycap", 
+        "keycap: 1"
+    ], 
+    "2️⃣": [
+        "keycap", 
+        "keycap: 2"
+    ], 
+    "3️⃣": [
+        "keycap", 
+        "keycap: 3"
+    ], 
+    "4️⃣": [
+        "keycap", 
+        "keycap: 4"
+    ], 
+    "5️⃣": [
+        "keycap", 
+        "keycap: 5"
+    ], 
+    "6️⃣": [
+        "keycap: 6", 
+        "keycap"
+    ], 
+    "7️⃣": [
+        "keycap", 
+        "keycap: 7"
+    ], 
+    "8️⃣": [
+        "keycap", 
+        "keycap: 8"
+    ], 
+    "9️⃣": [
+        "keycap", 
+        "keycap: 9"
+    ], 
+    "©️": [
+        "ophavsret", 
+        "copyright-tegn", 
+        "copyright"
+    ], 
+    "®️": [
+        "registreret varemærke", 
+        "registreret"
+    ], 
+    "‼️": [
+        "dobbelt udråbstegn", 
+        "tegnsætning", 
+        "udråbstegn"
+    ], 
+    "⁉️": [
+        "tegnsætning", 
+        "udråbstegn og spørgsmålstegn", 
+        "spørgsmål", 
+        "tegn", 
+        "udråbstegn"
+    ], 
+    "™️": [
+        "TM", 
+        "varemærke"
+    ], 
+    "ℹ️": [
+        "i", 
+        "information", 
+        "turistinformation", 
+        "informationskilde"
+    ], 
+    "↔️": [
+        "pil mod venstre og højre", 
+        "pil"
+    ], 
+    "↕️": [
+        "pil", 
+        "op- og nedadvendt pil"
+    ], 
+    "↖️": [
+        "retning", 
+        "pil", 
+        "nordvest", 
+        "opadvendt pil mod venstre"
+    ], 
+    "↗️": [
+        "retning", 
+        "pil", 
+        "opadvendt pil mod højre", 
+        "nordøst"
+    ], 
+    "↘️": [
+        "retning", 
+        "nedadvendt pil mod højre", 
+        "pil", 
+        "sydøst"
+    ], 
+    "↙️": [
+        "retning", 
+        "nedadvendt pil mod venstre", 
+        "pil", 
+        "sydvest"
+    ], 
+    "↩️": [
+        "pil mod højre med sving til venstre", 
+        "pil"
+    ], 
+    "↪️": [
+        "pil mod venstre med sving til højre", 
+        "pil"
+    ], 
     "⌚": [
         "ur", 
         "armbåndsur"
@@ -7,6 +126,15 @@
         "tid", 
         "sand", 
         "udløbet timeglas"
+    ], 
+    "⌨️": [
+        "tastatur", 
+        "computer"
+    ], 
+    "⏏️": [
+        "skub ud", 
+        "udskubningsknap", 
+        "eject"
     ], 
     "⏩": [
         "højre", 
@@ -28,9 +156,41 @@
         "ned", 
         "dobbeltpil ned"
     ], 
+    "⏭️": [
+        "knap til næste nummer", 
+        "pil", 
+        "næste nummer", 
+        "trekant", 
+        "næste scene"
+    ], 
+    "⏮️": [
+        "knap til forrige nummer", 
+        "pil", 
+        "forrige scene", 
+        "forrige nummer", 
+        "trekant"
+    ], 
+    "⏯️": [
+        "højre", 
+        "play", 
+        "pause", 
+        "pil", 
+        "afspil", 
+        "trekant", 
+        "knap til afspilning og pause"
+    ], 
     "⏰": [
         "alarm", 
         "vækkeur", 
+        "ur"
+    ], 
+    "⏱️": [
+        "stopur", 
+        "ur"
+    ], 
+    "⏲️": [
+        "æggeur", 
+        "tidtager", 
         "ur"
     ], 
     "⏳": [
@@ -38,6 +198,64 @@
         "sand", 
         "timeglas med løbende sand", 
         "timeglas"
+    ], 
+    "⏸️": [
+        "pause", 
+        "dobbelt", 
+        "lodret", 
+        "pauseknap", 
+        "bjælke"
+    ], 
+    "⏹️": [
+        "stopknap", 
+        "stop", 
+        "kvadrat"
+    ], 
+    "⏺️": [
+        "cirkel", 
+        "optageknap", 
+        "optage"
+    ], 
+    "Ⓜ️": [
+        "m i cirkel", 
+        "m", 
+        "cirkel"
+    ], 
+    "▪️": [
+        "geometrisk", 
+        "lille sort kvadrat", 
+        "kvadrat"
+    ], 
+    "▫️": [
+        "geometrisk", 
+        "lille hvidt kvadrat", 
+        "kvadrat"
+    ], 
+    "▶️": [
+        "højre", 
+        "play", 
+        "afspilning", 
+        "pil", 
+        "afspil", 
+        "afspilningsknap", 
+        "trekant"
+    ], 
+    "◀️": [
+        "pil", 
+        "knap til baglæns afspilning", 
+        "baglæns", 
+        "venstre", 
+        "trekant"
+    ], 
+    "◻️": [
+        "geometrisk", 
+        "mellemstort hvidt kvadrat", 
+        "kvadrat"
+    ], 
+    "◼️": [
+        "geometrisk", 
+        "kvadrat", 
+        "mellemstort sort kvadrat"
     ], 
     "◽": [
         "geometrisk", 
@@ -48,6 +266,44 @@
         "geometrisk", 
         "halvlille sort kvadrat", 
         "kvadrat"
+    ], 
+    "☀️": [
+        "rum", 
+        "vejr", 
+        "stråler", 
+        "sol", 
+        "solskin", 
+        "lys"
+    ], 
+    "☁️": [
+        "vejr", 
+        "sky"
+    ], 
+    "☂️": [
+        "regn", 
+        "tøj", 
+        "vejr", 
+        "paraply"
+    ], 
+    "☃️": [
+        "vejr", 
+        "sne", 
+        "kulde", 
+        "snemand"
+    ], 
+    "☄️": [
+        "rummet", 
+        "komet"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "flueben", 
+        "markere", 
+        "stemme", 
+        "afkrydsning", 
+        "afkrydsningsfelt med flueben"
     ], 
     "☔": [
         "tøj", 
@@ -65,6 +321,97 @@
         "varm", 
         "te", 
         "kaffe"
+    ], 
+    "☘️": [
+        "kløver", 
+        "plante"
+    ], 
+    "☝️": [
+        "pege", 
+        "opadvendt", 
+        "rækker finger op", 
+        "finger", 
+        "krop", 
+        "hånd", 
+        "pegefinger", 
+        "op"
+    ], 
+    "☠️": [
+        "monster", 
+        "kranium", 
+        "korslagte knogler", 
+        "kranie og korslagte knogler", 
+        "kranie", 
+        "krop", 
+        "ansigt", 
+        "død"
+    ], 
+    "☢️": [
+        "radioaktivitet", 
+        "advarsel", 
+        "radioaktiv", 
+        "skilt", 
+        "risiko"
+    ], 
+    "☣️": [
+        "fare", 
+        "advarsel", 
+        "biologisk", 
+        "skilt", 
+        "risiko", 
+        "biologisk fare"
+    ], 
+    "☦️": [
+        "religion", 
+        "kristen", 
+        "ortodokst kors", 
+        "kors"
+    ], 
+    "☪️": [
+        "religion", 
+        "muslim", 
+        "stjerne og halvmåne", 
+        "islam"
+    ], 
+    "☮️": [
+        "fredssymbol", 
+        "fred"
+    ], 
+    "☯️": [
+        "taoist", 
+        "yin", 
+        "religion", 
+        "yang", 
+        "yin og yang", 
+        "tao"
+    ], 
+    "☸️": [
+        "dharma", 
+        "religion", 
+        "buddhist", 
+        "dharma-hjul", 
+        "hjul"
+    ], 
+    "☹️": [
+        "ansigt", 
+        "trist ansigt", 
+        "trist"
+    ], 
+    "☺️": [
+        "smilende ansigt", 
+        "smil"
+    ], 
+    "♀️": [
+        "symbol", 
+        "kvinde", 
+        "tegn", 
+        "kvindetegn"
+    ], 
+    "♂️": [
+        "symbol", 
+        "mand", 
+        "tegn", 
+        "mandetegn"
     ], 
     "♈": [
         "vædderen", 
@@ -114,16 +461,101 @@
         "stjernetegn", 
         "fisken"
     ], 
+    "♠️": [
+        "kort", 
+        "spar", 
+        "spil"
+    ], 
+    "♣️": [
+        "kort", 
+        "klør", 
+        "spil"
+    ], 
+    "♥️": [
+        "kort", 
+        "hjerter", 
+        "spil"
+    ], 
+    "♦️": [
+        "kort", 
+        "ruder", 
+        "spil"
+    ], 
+    "♨️": [
+        "varm", 
+        "damp", 
+        "kilder", 
+        "varme kilder"
+    ], 
+    "♻️": [
+        "genbrug", 
+        "genbrugssymbol"
+    ], 
     "♿": [
         "adgang", 
         "rullestol", 
         "symbol for kørestol"
+    ], 
+    "⚒️": [
+        "værktøj", 
+        "hakke", 
+        "hammer og hakke", 
+        "hammer"
     ], 
     "⚓": [
         "værktøj", 
         "skib", 
         "anker", 
         "båd"
+    ], 
+    "⚔️": [
+        "sværd", 
+        "korslagte sværd", 
+        "korslagt", 
+        "våben"
+    ], 
+    "⚕️": [
+        "medicin", 
+        "stav", 
+        "lægekunst", 
+        "æskulap", 
+        "lægevidenskab", 
+        "slange", 
+        "medicinsymbol", 
+        "æskulapstav"
+    ], 
+    "⚖️": [
+        "stjernetegn", 
+        "vægt", 
+        "værktøj", 
+        "retfærdighed", 
+        "balance", 
+        "jura"
+    ], 
+    "⚗️": [
+        "kolbe", 
+        "værktøj", 
+        "kemi"
+    ], 
+    "⚙️": [
+        "værktøj", 
+        "tandhjul"
+    ], 
+    "⚛️": [
+        "ateist", 
+        "atomsymbol", 
+        "atom"
+    ], 
+    "⚜️": [
+        "lilje", 
+        "heraldik", 
+        "fransk lilje", 
+        "fleur-de-lis", 
+        "heraldisk lilje"
+    ], 
+    "⚠️": [
+        "advarsel", 
+        "advarselsskilt"
     ], 
     "⚡": [
         "fare", 
@@ -139,6 +571,15 @@
         "geometrisk", 
         "cirkel", 
         "sort cirkel"
+    ], 
+    "⚰️": [
+        "kiste", 
+        "død"
+    ], 
+    "⚱️": [
+        "begravelse", 
+        "urne", 
+        "død"
     ], 
     "⚽": [
         "fodbold", 
@@ -157,9 +598,32 @@
         "sky", 
         "sol"
     ], 
+    "⛈️": [
+        "regn", 
+        "vejr", 
+        "sky", 
+        "sky med lyn og regn", 
+        "torden"
+    ], 
     "⛎": [
         "stjernebillede", 
         "slangebæreren"
+    ], 
+    "⛏️": [
+        "værktøj", 
+        "hakke", 
+        "mine"
+    ], 
+    "⛑️": [
+        "ansigt", 
+        "kors", 
+        "nødhjælp", 
+        "hjelm med hvidt kors", 
+        "hjelm"
+    ], 
+    "⛓️": [
+        "kæde", 
+        "kæder"
     ], 
     "⛔": [
         "adgang", 
@@ -168,12 +632,28 @@
         "adgang forbudt", 
         "trafik"
     ], 
+    "⛩️": [
+        "religion", 
+        "Shinto-helligdom", 
+        "alter", 
+        "shinto"
+    ], 
     "⛪": [
         "religion", 
         "kirke", 
         "kristen", 
         "kors", 
         "bygning"
+    ], 
+    "⛰️": [
+        "bjerg"
+    ], 
+    "⛱️": [
+        "regn", 
+        "vejr", 
+        "parasol", 
+        "paraply", 
+        "sol"
     ], 
     "⛲": [
         "fontæne", 
@@ -183,9 +663,26 @@
         "golfhul med flag", 
         "golf"
     ], 
+    "⛴️": [
+        "færge", 
+        "båd"
+    ], 
     "⛵": [
         "sejlbåd", 
         "båd"
+    ], 
+    "⛷️": [
+        "skiløber", 
+        "sne", 
+        "ski"
+    ], 
+    "⛸️": [
+        "skøjte", 
+        "is"
+    ], 
+    "⛹️‍♂️": [
+        "bold", 
+        "person med bold"
     ], 
     "⛺": [
         "telt", 
@@ -195,27 +692,127 @@
         "benzinpumpe", 
         "tankstation"
     ], 
+    "✂️": [
+        "værktøj", 
+        "saks"
+    ], 
     "✅": [
         "flueben", 
         "markering"
     ], 
+    "✈️": [
+        "fly", 
+        "fartøj"
+    ], 
+    "✉️": [
+        "e-mail", 
+        "konvolut"
+    ], 
     "✊": [
+        "løftet knytnæve: medium teint", 
         "løftet knytnæve", 
+        "mørk teint", 
         "knytnæve", 
+        "medium til mørk teint", 
+        "løftet knytnæve: medium til lys teint", 
+        "løftet knytnæve: medium til mørk teint", 
+        "medium teint", 
         "knyttet", 
         "slå", 
         "krop", 
-        "hånd"
+        "hånd", 
+        "løftet knytnæve: lys teint", 
+        "lys teint", 
+        "medium til lys teint", 
+        "løftet knytnæve: mørk teint"
     ], 
     "✋": [
         "løftet hånd", 
+        "mørk teint", 
+        "løftet hånd: medium til lys teint", 
+        "løftet hånd: mørk teint", 
+        "medium til mørk teint", 
+        "løftet hånd: medium teint", 
+        "medium teint", 
+        "krop", 
+        "hånd", 
+        "løftet hånd: lys teint", 
+        "lys teint", 
+        "løftet hånd: medium til mørk teint", 
+        "medium til lys teint"
+    ], 
+    "✌️": [
+        "V-tegn", 
+        "yeah", 
+        "v-tegn"
+    ], 
+    "✍️": [
+        "skrive", 
+        "skrivende hånd", 
         "krop", 
         "hånd"
+    ], 
+    "✏️": [
+        "blyant"
+    ], 
+    "✒️": [
+        "pen", 
+        "sort fyldepen", 
+        "fyldepen"
+    ], 
+    "✔️": [
+        "flueben", 
+        "stort flueben"
+    ], 
+    "✖️": [
+        "stort kryds", 
+        "annuller", 
+        "multiplikation", 
+        "gangetegn", 
+        "gange", 
+        "x", 
+        "multiplicer"
+    ], 
+    "✝️": [
+        "religion", 
+        "kristen", 
+        "latinsk kors", 
+        "kors"
+    ], 
+    "✡️": [
+        "jødisk", 
+        "davidsstjerne", 
+        "david", 
+        "religion", 
+        "stjerne", 
+        "jøde"
     ], 
     "✨": [
         "stjerner", 
         "stjerne", 
         "skinne"
+    ], 
+    "✳️": [
+        "stjerne", 
+        "ottetakket spids stjerne", 
+        "asterisk"
+    ], 
+    "✴️": [
+        "stjerne", 
+        "ottetakket stjerne"
+    ], 
+    "❄️": [
+        "vejr", 
+        "snefnug", 
+        "sne", 
+        "kulde"
+    ], 
+    "❇️": [
+        "funklen", 
+        "glitter", 
+        "funkle", 
+        "glans", 
+        "stråle"
     ], 
     "❌": [
         "annuller", 
@@ -253,6 +850,16 @@
         "tegnsætning", 
         "udråbstegn"
     ], 
+    "❣️": [
+        "tegnsætning", 
+        "udråbstegn", 
+        "hjerte", 
+        "hjerte som udråbstegn"
+    ], 
+    "❤️": [
+        "hjerte", 
+        "rødt hjerte"
+    ], 
     "➕": [
         "plustegn", 
         "plus"
@@ -265,6 +872,13 @@
         "division", 
         "divisionstegn"
     ], 
+    "➡️": [
+        "øst", 
+        "pil mod højre", 
+        "retning", 
+        "pil", 
+        "verdenshjørne"
+    ], 
     "➰": [
         "krølle", 
         "loop", 
@@ -276,6 +890,37 @@
         "dobbelt krølle", 
         "loop", 
         "løkke"
+    ], 
+    "⤴️": [
+        "pil", 
+        "pil mod højre med sving opad"
+    ], 
+    "⤵️": [
+        "pil mod højre med sving nedad", 
+        "ned", 
+        "pil"
+    ], 
+    "⬅️": [
+        "retning", 
+        "pil mod venstre", 
+        "vest", 
+        "pil", 
+        "verdenshjørne"
+    ], 
+    "⬆️": [
+        "retning", 
+        "verdenshjørne", 
+        "opadvendt pil", 
+        "pil", 
+        "nord"
+    ], 
+    "⬇️": [
+        "pil", 
+        "verdenshjørne", 
+        "retning", 
+        "ned", 
+        "syd", 
+        "nedadvendt pil"
     ], 
     "⬛": [
         "geometrisk", 
@@ -296,6 +941,31 @@
         "cirkel", 
         "o"
     ], 
+    "〰️": [
+        "bølget", 
+        "bølgestreg", 
+        "tegnsætning", 
+        "tegn"
+    ], 
+    "〽️": [
+        "japansk", 
+        "japansk kommatering", 
+        "del", 
+        "kommatering"
+    ], 
+    "㊗️": [
+        "ideogram", 
+        "cirkulært ideogram for lykønskning", 
+        "kinesisk", 
+        "tillykke", 
+        "lykønskning"
+    ], 
+    "㊙️": [
+        "ideogram", 
+        "hemmelighed", 
+        "kinesisk", 
+        "cirkulært ideogram for hemmelighed"
+    ], 
     "🀄": [
         "rød drage", 
         "drage", 
@@ -306,6 +976,31 @@
         "joker", 
         "kort", 
         "spillekort"
+    ], 
+    "🅰️": [
+        "A", 
+        "blod", 
+        "blodtype A", 
+        "type A", 
+        "blodtype"
+    ], 
+    "🅱️": [
+        "blod", 
+        "B", 
+        "type B", 
+        "blodtype B", 
+        "blodtype"
+    ], 
+    "🅾️": [
+        "type O", 
+        "blodtype O", 
+        "blod", 
+        "O", 
+        "blodtype"
+    ], 
+    "🅿️": [
+        "parkering", 
+        "parkeringsplads"
     ], 
     "🆎": [
         "blod", 
@@ -1398,6 +2093,10 @@
         "japansk", 
         "kvadratisk ideogram for her"
     ], 
+    "🈂️": [
+        "kvadratisk ideogram for serviceafgift", 
+        "japansk"
+    ], 
     "🈚": [
         "japansk", 
         "kvadratisk ideogram for gratis"
@@ -1425,6 +2124,10 @@
     "🈶": [
         "kvadratisk ideogram for ikke gratis", 
         "japansk"
+    ], 
+    "🈷️": [
+        "japansk", 
+        "kvadratisk ideogram for månedligt beløb"
     ], 
     "🈸": [
         "kvadratisk ideogram for anvendelse", 
@@ -1615,6 +2318,68 @@
         "stjerneskud", 
         "stjerne"
     ], 
+    "🌡️": [
+        "vejr", 
+        "termometer"
+    ], 
+    "🌤️": [
+        "sol bag lille sky", 
+        "vejr", 
+        "sky", 
+        "sol"
+    ], 
+    "🌥️": [
+        "sol bag stor sky", 
+        "vejr", 
+        "sky", 
+        "sol"
+    ], 
+    "🌦️": [
+        "regn", 
+        "vejr", 
+        "sky", 
+        "sol", 
+        "sol bag sky med regn"
+    ], 
+    "🌧️": [
+        "regn", 
+        "vejr", 
+        "sky", 
+        "sky med regn"
+    ], 
+    "🌨️": [
+        "vejr", 
+        "sky", 
+        "sky med sne", 
+        "sne", 
+        "kulde"
+    ], 
+    "🌩️": [
+        "lyn", 
+        "vejr", 
+        "sky", 
+        "tordensky"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "vejr", 
+        "sky", 
+        "skypumpe", 
+        "hvirvelvind"
+    ], 
+    "🌫️": [
+        "vejr", 
+        "sky", 
+        "tåge"
+    ], 
+    "🌬️": [
+        "blæse", 
+        "vejr", 
+        "sky", 
+        "vind", 
+        "ansigt", 
+        "vindansigt"
+    ], 
     "🌭": [
         "pølse", 
         "hotdog", 
@@ -1653,6 +2418,12 @@
         "kaktus", 
         "kaktusplante", 
         "plante"
+    ], 
+    "🌶️": [
+        "peber", 
+        "chili", 
+        "plante", 
+        "stærk"
     ], 
     "🌷": [
         "blomst", 
@@ -1993,6 +2764,13 @@
         "sutteflaske", 
         "flaske"
     ], 
+    "🍽️": [
+        "tallerken", 
+        "madlavning", 
+        "gaffel", 
+        "kniv", 
+        "kniv og gaffel med tallerken"
+    ], 
     "🍾": [
         "flaske", 
         "flaske med flyvende prop", 
@@ -2029,9 +2807,19 @@
         "jul"
     ], 
     "🎅": [
+        "julemand: medium til lys teint", 
+        "mørk teint", 
         "julemand", 
+        "julemand: medium teint", 
+        "julemand: mørk teint", 
+        "medium til mørk teint", 
+        "medium teint", 
         "jul", 
-        "nisse"
+        "julemand: medium til mørk teint", 
+        "julemand: lys teint", 
+        "nisse", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "🎆": [
         "fest", 
@@ -2099,6 +2887,44 @@
         "eksamen", 
         "hat", 
         "eksamenshat"
+    ], 
+    "🎖️": [
+        "medalje", 
+        "dekoreret", 
+        "militær", 
+        "fejring", 
+        "militærmedalje"
+    ], 
+    "🎗️": [
+        "minde", 
+        "bånd", 
+        "fejring", 
+        "mindebånd"
+    ], 
+    "🎙️": [
+        "studiemikrofon", 
+        "musik", 
+        "mikrofon", 
+        "studie"
+    ], 
+    "🎚️": [
+        "musik", 
+        "volumenkontrol"
+    ], 
+    "🎛️": [
+        "musik", 
+        "knapper"
+    ], 
+    "🎞️": [
+        "filmstrimmel", 
+        "strimmel", 
+        "film", 
+        "biograf"
+    ], 
+    "🎟️": [
+        "adgang", 
+        "adgangsbillet", 
+        "billet"
     ], 
     "🎠": [
         "karrusel", 
@@ -2282,19 +3108,49 @@
         "ternet flag"
     ], 
     "🏂": [
-        "snowboarding", 
+        "snowboarder: medium til lys teint", 
+        "snowboarder", 
+        "mørk teint", 
+        "snowboarder: medium teint", 
+        "medium til mørk teint", 
+        "snowboarder: medium til mørk teint", 
+        "medium teint", 
         "snowboard", 
+        "snowboarder: lys teint", 
+        "lys teint", 
+        "snowboarding", 
         "sport", 
-        "snowboarder"
+        "medium til lys teint", 
+        "snowboarder: mørk teint"
     ], 
-    "🏃": [
-        "løber", 
-        "sport", 
+    "🏃‍♀️": [
+        "løb", 
+        "kvinde", 
         "løbetræning", 
-        "maraton"
+        "maraton", 
+        "kvinde løber", 
+        "løbetur"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "løb", 
+        "løbetur", 
+        "løber", 
+        "mand løber", 
+        "løbetræning", 
+        "maraton", 
+        "mand", 
+        "sport"
+    ], 
+    "🏄‍♀️": [
+        "surfing", 
+        "kvinde", 
+        "kvindelig surfer", 
+        "surfer"
+    ], 
+    "🏄‍♂️": [
+        "mandlig surfer", 
         "sport", 
+        "mand", 
         "surfing", 
         "surfer"
     ], 
@@ -2309,11 +3165,21 @@
     ], 
     "🏇": [
         "jockey", 
+        "mørk teint", 
         "hestesport", 
         "galop", 
+        "medium til mørk teint", 
         "hestevæddeløb", 
+        "hestevæddeløb: lys teint", 
+        "medium teint", 
+        "hestevæddeløb: medium teint", 
+        "hestevæddeløb: medium til mørk teint", 
+        "lys teint", 
+        "hestevæddeløb: medium til lys teint", 
         "hest", 
-        "væddeløbshest"
+        "væddeløbshest", 
+        "medium til lys teint", 
+        "hestevæddeløb: mørk teint"
     ], 
     "🏈": [
         "amerikansk fodbold", 
@@ -2326,11 +3192,38 @@
         "bold", 
         "rugbybold"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
         "svømning", 
+        "svømmepige", 
+        "kvindelig svømmer", 
+        "kvinde"
+    ], 
+    "🏊‍♂️": [
+        "mandlig svømmer", 
         "svømmer", 
-        "sport", 
-        "svømme"
+        "mand", 
+        "svømme", 
+        "svømning", 
+        "sport"
+    ], 
+    "🏋️‍♂️": [
+        "vægt", 
+        "vægtløfter", 
+        "løfter"
+    ], 
+    "🏌️‍♂️": [
+        "golfspiller", 
+        "golf", 
+        "bold"
+    ], 
+    "🏍️": [
+        "motorcykel", 
+        "racerløb"
+    ], 
+    "🏎️": [
+        "racerbil", 
+        "bil", 
+        "racerløb"
     ], 
     "🏏": [
         "bat", 
@@ -2365,6 +3258,64 @@
         "pingpong", 
         "bord", 
         "spil"
+    ], 
+    "🏔️": [
+        "bjerg", 
+        "koldt", 
+        "sne", 
+        "sneklædt bjerg"
+    ], 
+    "🏕️": [
+        "telt", 
+        "camping"
+    ], 
+    "🏖️": [
+        "strand med parasol", 
+        "parasol", 
+        "strand"
+    ], 
+    "🏗️": [
+        "byggeplads", 
+        "konstruktion", 
+        "bygning"
+    ], 
+    "🏘️": [
+        "hus", 
+        "huse", 
+        "bygning"
+    ], 
+    "🏙️": [
+        "bylandskab", 
+        "by", 
+        "bygning"
+    ], 
+    "🏚️": [
+        "hus", 
+        "faldefærdig", 
+        "faldefærdigt hus", 
+        "bygning"
+    ], 
+    "🏛️": [
+        "klassisk", 
+        "klassisk bygning", 
+        "bygning"
+    ], 
+    "🏜️": [
+        "kaktus", 
+        "sol", 
+        "ørken"
+    ], 
+    "🏝️": [
+        "ø", 
+        "øde", 
+        "øde ø"
+    ], 
+    "🏞️": [
+        "park", 
+        "nationalpark"
+    ], 
+    "🏟️": [
+        "stadion"
     ], 
     "🏠": [
         "hjem", 
@@ -2448,6 +3399,15 @@
         "slot", 
         "bygning"
     ], 
+    "🏳️": [
+        "blafrende", 
+        "hvidt flag"
+    ], 
+    "🏳️‍🌈": [
+        "flag", 
+        "regnbueflag", 
+        "regnbue"
+    ], 
     "🏴": [
         "blafrende", 
         "sort flag"
@@ -2463,6 +3423,16 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Wales", 
         "flag"
+    ], 
+    "🏵️": [
+        "roset", 
+        "plante"
+    ], 
+    "🏷️": [
+        "seddel", 
+        "mærkat", 
+        "etiket", 
+        "label"
     ], 
     "🏸": [
         "fjerbold", 
@@ -2820,21 +3790,48 @@
         "dyr", 
         "poteaftryk"
     ], 
+    "🐿️": [
+        "jordegern"
+    ], 
     "👀": [
         "ansigt", 
         "se", 
         "øjne"
     ], 
-    "👂": [
-        "øre", 
-        "høre", 
+    "👁️": [
+        "øje", 
         "krop"
     ], 
-    "👃": [
-        "dufte", 
-        "næse", 
+    "👂": [
+        "øre", 
+        "øre: medium teint", 
+        "mørk teint", 
+        "øre: medium til lys teint", 
+        "medium til mørk teint", 
+        "øre: medium til mørk teint", 
+        "medium teint", 
+        "øre: mørk teint", 
         "krop", 
-        "lugte ansigt"
+        "øre: lys teint", 
+        "lys teint", 
+        "høre", 
+        "medium til lys teint"
+    ], 
+    "👃": [
+        "næse: medium til lys teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "næse: mørk teint", 
+        "lugte ansigt", 
+        "næse", 
+        "næse: lys teint", 
+        "medium teint", 
+        "næse: medium til mørk teint", 
+        "krop", 
+        "dufte", 
+        "lys teint", 
+        "næse: medium teint", 
+        "medium til lys teint"
     ], 
     "👄": [
         "læber", 
@@ -2848,64 +3845,174 @@
         "krop"
     ], 
     "👆": [
-        "pegefinger", 
+        "peger opad: medium til lys teint", 
+        "peger opad: medium teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
         "finger peger op", 
-        "finger", 
+        "medium teint", 
         "peger op", 
-        "peger opad"
+        "peger opad: medium til mørk teint", 
+        "peger opad: lys teint", 
+        "finger", 
+        "peger opad", 
+        "pegefinger", 
+        "lys teint", 
+        "peger opad: mørk teint", 
+        "medium til lys teint"
     ], 
     "👇": [
+        "peger nedad: medium til mørk teint", 
+        "peger nedad: mørk teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "finger peger ned", 
+        "medium teint", 
+        "peger nedad: medium teint", 
+        "peger nedad: medium til lys teint", 
+        "finger", 
+        "lys teint", 
         "pegefinger", 
         "peger ned", 
-        "finger peger ned", 
         "peger nedad", 
-        "finger"
+        "peger nedad: lys teint", 
+        "medium til lys teint"
     ], 
     "👈": [
         "finger peger til venstre", 
-        "pegefinger", 
-        "peger til venstre", 
+        "medium til lys teint", 
+        "peger mod venstre: medium teint", 
+        "peger mod venstre: mørk teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "peger mod venstre: medium til lys teint", 
         "finger", 
-        "peger mod venstre"
+        "peger mod venstre", 
+        "pegefinger", 
+        "lys teint", 
+        "peger til venstre", 
+        "peger mod venstre: medium til mørk teint", 
+        "peger mod venstre: lys teint"
     ], 
     "👉": [
-        "pegefinger", 
         "peger mod højre", 
+        "medium til lys teint", 
+        "mørk teint", 
+        "peger mod højre: medium til mørk teint", 
         "peger til højre", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "peger mod højre: mørk teint", 
+        "peger mod højre: medium teint", 
+        "peger mod højre: medium til lys teint", 
         "finger", 
-        "finger peger til højre"
+        "finger peger til højre", 
+        "pegefinger", 
+        "lys teint", 
+        "peger mod højre: lys teint"
     ], 
     "👊": [
-        "knyttet hånd", 
+        "mørk teint", 
+        "knytnæve: medium til lys teint", 
+        "knytnæve: medium teint", 
         "knytnæve", 
-        "hånd"
+        "medium til mørk teint", 
+        "knytnæve: mørk teint", 
+        "medium teint", 
+        "knytnæve: medium til mørk teint", 
+        "knytnæve: lys teint", 
+        "hånd", 
+        "knyttet hånd", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "👋": [
+        "vinker: medium til lys teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "vinker: mørk teint", 
+        "vinker: medium teint", 
         "vinker", 
-        "hånd"
+        "hånd", 
+        "lys teint", 
+        "vinker: lys teint", 
+        "vinker: medium til mørk teint", 
+        "medium til lys teint"
     ], 
     "👌": [
+        "ok-tegn: medium til lys teint", 
         "OK-håndtegn", 
+        "mørk teint", 
+        "ok-tegn: medium til mørk teint", 
+        "medium til mørk teint", 
+        "ok-tegn: medium teint", 
+        "medium teint", 
+        "ok-tegn", 
         "OK-tegn", 
-        "ok-tegn"
+        "lys teint", 
+        "ok-tegn: mørk teint", 
+        "medium til lys teint", 
+        "ok-tegn: lys teint"
     ], 
     "👍": [
+        "mørk teint", 
+        "tommelfinger op: medium til mørk teint", 
+        "medium til mørk teint", 
+        "tommelfinger op: mørk teint", 
         "håndtegn", 
-        "tommelfinger op"
+        "tommelfinger op: lys teint", 
+        "tommelfinger op", 
+        "tommelfinger op: medium teint", 
+        "medium teint", 
+        "lys teint", 
+        "tommelfinger op: medium til lys teint", 
+        "medium til lys teint"
     ], 
     "👎": [
+        "tommelfinger ned: medium teint", 
         "tommelfinger ned", 
-        "håndtegn"
+        "mørk teint", 
+        "medium til mørk teint", 
+        "håndtegn", 
+        "medium teint", 
+        "tommelfinger ned: medium til lys teint", 
+        "tommelfinger ned: lys teint", 
+        "tommelfinger ned: medium til mørk teint", 
+        "lys teint", 
+        "tommelfinger ned: mørk teint", 
+        "medium til lys teint"
     ], 
     "👏": [
         "klapper", 
+        "klappende hænder: mørk teint", 
+        "mørk teint", 
+        "klappende hænder: medium til mørk teint", 
+        "medium til mørk teint", 
         "håndtegn", 
+        "klappende hænder: medium teint", 
+        "medium teint", 
+        "lys teint", 
+        "klappende hænder: lys teint", 
+        "klappende hænder: medium til lys teint", 
+        "medium til lys teint", 
         "klappende hænder"
     ], 
     "👐": [
-        "åbne hænder", 
+        "åbne hænder: medium teint", 
+        "åbne hænder: medium til lys teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
         "håndtegn", 
-        "åbne hænder-tegn"
+        "åbne hænder-tegn", 
+        "medium teint", 
+        "åbne hænder", 
+        "åbne hænder: mørk teint", 
+        "åbne hænder: lys teint", 
+        "lys teint", 
+        "medium til lys teint", 
+        "åbne hænder: medium til mørk teint"
     ], 
     "👑": [
         "krone", 
@@ -3001,72 +4108,207 @@
         "buster"
     ], 
     "👦": [
+        "dreng: lys teint", 
+        "dreng: medium til mørk teint", 
+        "mørk teint", 
+        "menneske", 
+        "dreng: medium til lys teint", 
+        "medium til mørk teint", 
+        "medium teint", 
         "person", 
+        "dreng: medium teint", 
+        "lys teint", 
         "dreng", 
-        "menneske"
+        "medium til lys teint", 
+        "dreng: mørk teint"
     ], 
     "👧": [
-        "person", 
         "pige", 
-        "menneske"
+        "menneske", 
+        "pige: mørk teint", 
+        "medium til mørk teint", 
+        "pige: medium til mørk teint", 
+        "medium teint", 
+        "person", 
+        "pige: medium teint", 
+        "mørk teint", 
+        "lys teint", 
+        "pige: lys teint", 
+        "medium til lys teint", 
+        "pige: medium til lys teint"
     ], 
     "👨": [
+        "mand: lys teint", 
+        "menneske", 
+        "mand: medium teint", 
+        "medium til mørk teint", 
+        "mand: medium til lys teint", 
+        "medium teint", 
+        "mand: mørk teint", 
         "person", 
         "mand", 
-        "menneske"
+        "mand: medium til mørk teint", 
+        "mørk teint", 
+        "lys teint", 
+        "medium til lys teint"
+    ], 
+    "👨‍⚕️": [
+        "mandlig sundhedsperson", 
+        "læge", 
+        "mand", 
+        "kittel", 
+        "sygeplejerske"
+    ], 
+    "👨‍⚖️": [
+        "lov", 
+        "retfærdighed", 
+        "jura", 
+        "mand", 
+        "mandlig dommer"
+    ], 
+    "👨‍✈️": [
+        "fly", 
+        "pilot", 
+        "mand", 
+        "mandlig pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "kærlighed", 
+        "mand", 
+        "par med hjerte", 
+        "par med hjerte: mand og mand", 
+        "romantik"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "par med hjerte", 
+        "romantik", 
+        "kærlighed", 
+        "mand", 
+        "kys", 
+        "kys: mand og mand"
     ], 
     "👨‍🌾": [
+        "bondemand", 
+        "landmand: medium teint", 
+        "medium til mørk teint", 
+        "landmand: lys teint", 
+        "landmand: medium til lys teint", 
+        "medium teint", 
         "bonde", 
         "landmand", 
         "mand", 
-        "bondemand", 
+        "medium til lys teint", 
+        "landmand: medium til mørk teint", 
+        "landmand: mørk teint", 
+        "mørk teint", 
+        "lys teint", 
         "gartner"
     ], 
     "👨‍🍳": [
-        "stegepande", 
+        "mandlig kok: medium til lys teint", 
         "kok", 
+        "mandlig kok: medium til mørk teint", 
+        "mørk teint", 
+        "mandlig kok: mørk teint", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "madlavning", 
+        "stegepande", 
+        "mandlig kok: lys teint", 
         "mand", 
+        "lys teint", 
         "mandlig kok", 
-        "madlavning"
+        "mandlig kok: medium teint", 
+        "medium til lys teint"
     ], 
     "👨‍🎓": [
         "mandlig studerende", 
-        "studerende", 
-        "mand", 
+        "mandlig studerende: medium til lys teint", 
         "eksamenshat", 
+        "mørk teint", 
+        "mandlig studerende: medium teint", 
+        "studerende", 
+        "mandlig studerende: lys teint", 
+        "medium teint", 
+        "mandlig studerende: medium til mørk teint", 
+        "mand", 
+        "mandlig studerende: mørk teint", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "medium til lys teint", 
         "dimittend"
     ], 
     "👨‍🎤": [
+        "sanger: medium til lys teint", 
+        "mørk teint", 
         "synge", 
+        "sanger: mørk teint", 
+        "medium til mørk teint", 
+        "sanger: lys teint", 
+        "medium teint", 
         "sang", 
+        "sanger: medium teint", 
         "mand", 
+        "lys teint", 
         "entertainer", 
         "stjerne", 
         "sanger", 
         "skuespiller", 
-        "karaoke"
+        "karaoke", 
+        "medium til lys teint", 
+        "sanger: medium til mørk teint"
     ], 
     "👨‍🎨": [
         "billedkunstner", 
+        "mandlig kunstner: medium til lys teint", 
+        "mandlig kunstner: medium til mørk teint", 
+        "mørk teint", 
+        "mandlig kunstner: lys teint", 
+        "medium til mørk teint", 
         "kreativ", 
+        "mandlig kunstner: medium teint", 
         "kunstmaler", 
+        "medium teint", 
+        "mandlig kunstner: mørk teint", 
         "pensler", 
+        "lys teint", 
         "palet", 
-        "mandlig kunstner"
+        "mandlig kunstner", 
+        "medium til lys teint"
     ], 
     "👨‍🏫": [
-        "lærer", 
         "mandlig lærer", 
+        "mandlig lærer: mørk teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
         "professor", 
+        "medium teint", 
+        "underviser", 
+        "mandlig lærer: medium til mørk teint", 
+        "mandlig lærer: medium teint", 
         "mand", 
-        "underviser"
+        "mandlig lærer: medium til lys teint", 
+        "mandlig lærer: lys teint", 
+        "lærer", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "👨‍🏭": [
-        "arbejder", 
-        "industri", 
         "mandlig fabriksarbejder", 
+        "mørk teint", 
+        "mandlig fabriksarbejder: medium til lys teint", 
+        "arbejder", 
+        "fabrik", 
+        "mandlig fabriksarbejder: mørk teint", 
+        "medium teint", 
+        "mandlig fabriksarbejder: medium til mørk teint", 
+        "mandlig fabriksarbejder: medium teint", 
         "mand", 
-        "fabrik"
+        "mandlig fabriksarbejder: lys teint", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "industri", 
+        "medium til lys teint"
     ], 
     "👨‍👦": [
         "familie: mand og dreng", 
@@ -3229,111 +4471,303 @@
     "👨‍💻": [
         "skærm", 
         "programmør", 
+        "mørk teint", 
+        "mandlig IT-medarbejder: lys teint", 
+        "medium til mørk teint", 
+        "mandlig IT-medarbejder: mørk teint", 
         "it", 
+        "medium teint", 
         "pc", 
         "computer", 
         "mand", 
         "mandlig IT-medarbejder", 
+        "mandlig IT-medarbejder: medium til lys teint", 
         "udvikler", 
+        "lys teint", 
         "teknologi", 
+        "mandlig IT-medarbejder: medium teint", 
+        "mandlig IT-medarbejder: medium til mørk teint", 
+        "medium til lys teint", 
         "software"
     ], 
     "👨‍💼": [
         "kontor", 
         "mappe", 
+        "mandlig kontoransat: medium til mørk teint", 
+        "mørk teint", 
         "business", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "mandlig kontoransat: mørk teint", 
+        "mandlig kontoransat: medium teint", 
         "kontormand", 
+        "mandlig kontoransat: medium til lys teint", 
+        "medium til lys teint", 
         "jakkesæt", 
-        "mandlig kontoransat"
+        "lys teint", 
+        "mandlig kontoransat", 
+        "mandlig kontoransat: lys teint"
     ], 
     "👨‍🔧": [
         "mandlig mekaniker", 
         "skruenøgle", 
+        "mandlig mekaniker: medium til mørk teint", 
+        "medium til mørk teint", 
+        "mørk teint", 
         "mekaniker", 
+        "mandlig mekaniker: medium teint", 
         "håndværker", 
+        "medium teint", 
+        "mandlig mekaniker: mørk teint", 
         "værktøj", 
-        "mand"
+        "mandlig mekaniker: medium til lys teint", 
+        "mand", 
+        "mandlig mekaniker: lys teint", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "👨‍🔬": [
-        "naturvidenskabsmand", 
-        "videnskabsmand", 
+        "mandlig forsker: medium til lys teint", 
         "mandlig forsker", 
+        "mandlig forsker: lys teint", 
+        "mandlig forsker: medium teint", 
+        "medium til mørk teint", 
+        "mandlig forsker: medium til mørk teint", 
+        "naturvidenskabsmand", 
+        "medium teint", 
+        "mandlig forsker: mørk teint", 
+        "videnskabsmand", 
+        "medium til lys teint", 
+        "mørk teint", 
+        "lys teint", 
         "videnskab", 
         "naturvidenskab"
     ], 
     "👨‍🚀": [
         "rummet", 
         "rumfartøj", 
+        "mandlig astronaut: mørk teint", 
         "rumskib", 
+        "mørk teint", 
         "mandlig astronaut", 
+        "mandlig astronaut: lys teint", 
+        "medium teint", 
         "rumdragt", 
         "mand", 
-        "raket"
+        "mandlig astronaut: medium teint", 
+        "mandlig astronaut: medium til lys teint", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "raket", 
+        "medium til lys teint", 
+        "mandlig astronaut: medium til mørk teint"
     ], 
     "👨‍🚒": [
+        "brandmand: medium til lys teint", 
+        "mørk teint", 
         "brandbil", 
+        "medium til mørk teint", 
         "brand", 
+        "brandmand: mørk teint", 
+        "medium teint", 
+        "brandmand: medium teint", 
+        "brandmand: lys teint", 
         "mand", 
+        "hjelm", 
+        "lys teint", 
+        "brandmand: medium til mørk teint", 
         "brandmand", 
-        "hjelm"
+        "medium til lys teint"
     ], 
     "👩": [
-        "person", 
+        "kvinde: mørk teint", 
+        "mørk teint", 
+        "menneske", 
+        "medium til mørk teint", 
         "kvinde", 
-        "menneske"
+        "medium teint", 
+        "person", 
+        "kvinde: medium teint", 
+        "kvinde: lys teint", 
+        "kvinde: medium til mørk teint", 
+        "lys teint", 
+        "medium til lys teint", 
+        "kvinde: medium til lys teint"
+    ], 
+    "👩‍⚕️": [
+        "kvindelig sundhedsperson", 
+        "læge", 
+        "kittel", 
+        "sygeplejerske", 
+        "kvinde"
+    ], 
+    "👩‍⚖️": [
+        "lov", 
+        "jura", 
+        "kvinde", 
+        "retfærdighed", 
+        "kvindelig dommer"
+    ], 
+    "👩‍✈️": [
+        "fly", 
+        "kvindelig pilot", 
+        "kvinde", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "romantik", 
+        "kvinde", 
+        "par med hjerte", 
+        "kærlighed", 
+        "mand", 
+        "par med hjerte: kvinde og mand"
+    ], 
+    "👩‍❤️‍👩": [
+        "par med hjerte: kvinde og kvinde", 
+        "kærlighed", 
+        "kvinde", 
+        "par med hjerte", 
+        "romantik"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "romantik", 
+        "kvinde", 
+        "par med hjerte", 
+        "kærlighed", 
+        "mand", 
+        "kys", 
+        "kys: kvinde og mand"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "romantik", 
+        "kys: kvinde og kvinde", 
+        "kvinde", 
+        "par med hjerte", 
+        "kærlighed", 
+        "kys"
     ], 
     "👩‍🌾": [
-        "kvindelig landmand", 
+        "medium til lys teint", 
+        "kvindelig landmand: medium til lys teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "kvinde", 
+        "medium teint", 
         "bonde", 
         "landmand", 
-        "kvinde", 
-        "gartner"
+        "kvindelig landmand: mørk teint", 
+        "gartner", 
+        "kvindelig landmand: medium til mørk teint", 
+        "kvindelig landmand: medium teint", 
+        "lys teint", 
+        "kvindelig landmand: lys teint", 
+        "kvindelig landmand"
     ], 
     "👩‍🍳": [
-        "stegepande", 
-        "kvindelig kok", 
+        "kvindelig kok: medium til mørk teint", 
         "kok", 
+        "kvindelig kok: medium teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "kvindelig kok: medium til lys teint", 
         "kvinde", 
-        "madlavning"
+        "madlavning", 
+        "stegepande", 
+        "medium teint", 
+        "kvindelig kok: lys teint", 
+        "lys teint", 
+        "kvindelig kok", 
+        "kvindelig kok: mørk teint", 
+        "medium til lys teint"
     ], 
     "👩‍🎓": [
-        "kvindelig studerende", 
-        "studerende", 
-        "kvinde", 
         "eksamenshat", 
+        "mørk teint", 
+        "kvindelig studerende: medium til mørk teint", 
+        "studerende", 
+        "kvindelig studerende: medium til lys teint", 
+        "kvinde", 
+        "kvindelig studerende: mørk teint", 
+        "medium teint", 
+        "kvindelig studerende: lys teint", 
+        "kvindelig studerende: medium teint", 
+        "kvindelig studerende", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "medium til lys teint", 
         "dimittend"
     ], 
     "👩‍🎤": [
         "sangerinde", 
+        "sangerinde: medium teint", 
+        "mørk teint", 
         "synge", 
+        "sangerinde: medium til lys teint", 
+        "medium til mørk teint", 
+        "sangerinde: medium til mørk teint", 
         "kvinde", 
+        "medium teint", 
+        "sangerinde: mørk teint", 
         "sang", 
         "stjerne", 
+        "sangerinde: lys teint", 
         "entertainer", 
+        "lys teint", 
         "skuespiller", 
-        "karaoke"
+        "karaoke", 
+        "medium til lys teint"
     ], 
     "👩‍🎨": [
         "billedkunstner", 
+        "mørk teint", 
+        "kvindelig kunstner: medium til mørk teint", 
+        "medium til mørk teint", 
+        "kvindelig kunstner: medium til lys teint", 
         "kunstmaler", 
         "kvinde", 
         "kvindelig kunstner", 
+        "kvindelig kunstner: mørk teint", 
+        "medium teint", 
         "pensler", 
-        "palet"
+        "lys teint", 
+        "palet", 
+        "kvindelig kunstner: medium teint", 
+        "kvindelig kunstner: lys teint", 
+        "medium til lys teint"
     ], 
     "👩‍🏫": [
+        "mørk teint", 
+        "kvindelig lærer: medium til mørk teint", 
+        "medium til mørk teint", 
         "professor", 
-        "underviser", 
         "lærerinde", 
         "kvinde", 
-        "kvindelig lærer"
+        "underviser", 
+        "kvindelig lærer: lys teint", 
+        "medium teint", 
+        "kvindelig lærer", 
+        "kvindelig lærer: mørk teint", 
+        "lys teint", 
+        "kvindelig lærer: medium til lys teint", 
+        "kvindelig lærer: medium teint", 
+        "medium til lys teint"
     ], 
     "👩‍🏭": [
+        "mørk teint", 
+        "medium teint", 
         "arbejder", 
-        "industri", 
-        "kvindelig fabriksarbejder", 
+        "kvindelig fabriksarbejder: medium til lys teint", 
+        "kvindelig fabriksarbejder: lys teint", 
         "fabrik", 
-        "kvinde"
+        "kvindelig fabriksarbejder", 
+        "kvindelig fabriksarbejder: mørk teint", 
+        "kvinde", 
+        "kvindelig fabriksarbejder: medium teint", 
+        "kvindelig fabriksarbejder: medium til mørk teint", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "industri", 
+        "medium til lys teint"
     ], 
     "👩‍👦": [
         "familie: kvinde og dreng", 
@@ -3440,58 +4874,111 @@
     "👩‍💻": [
         "skærm", 
         "programmør", 
+        "kvindelig IT-medarbejder: medium til lys teint", 
+        "mørk teint", 
+        "kvindelig IT-medarbejder: lys teint", 
+        "medium teint", 
+        "kvindelig IT-medarbejder: medium teint", 
+        "medium til mørk teint", 
         "it", 
+        "kvindelig IT-medarbejder: mørk teint", 
         "kvinde", 
         "pc", 
         "computer", 
         "kvindelig IT-medarbejder", 
+        "kvindelig IT-medarbejder: medium til mørk teint", 
         "udvikler", 
+        "lys teint", 
+        "medium til lys teint", 
         "software"
     ], 
     "👩‍💼": [
-        "mappe", 
         "kontor", 
+        "mappe", 
+        "mørk teint", 
+        "business", 
+        "kvindelig kontoransat: medium teint", 
+        "medium til mørk teint", 
+        "kvindelig kontoransat: lys teint", 
+        "medium teint", 
         "kvindelig kontoransat", 
         "kvinde", 
-        "business"
+        "kvindelig kontoransat: medium til lys teint", 
+        "lys teint", 
+        "kvindelig kontoransat: medium til mørk teint", 
+        "kvindelig kontoransat: mørk teint", 
+        "medium til lys teint"
     ], 
     "👩‍🔧": [
         "skruenøgle", 
+        "mørk teint", 
+        "kvindelig mekaniker: medium teint", 
         "mekaniker", 
+        "medium til mørk teint", 
         "håndværker", 
         "kvinde", 
         "kvindelig mekaniker", 
-        "værktøj"
+        "værktøj", 
+        "kvindelig mekaniker: lys teint", 
+        "medium teint", 
+        "kvindelig mekaniker: medium til lys teint", 
+        "kvindelig mekaniker: medium til mørk teint", 
+        "lys teint", 
+        "kvindelig mekaniker: mørk teint", 
+        "medium til lys teint"
     ], 
     "👩‍🔬": [
+        "kvindelig forsker: lys teint", 
+        "naturvidenskab", 
+        "mørk teint", 
+        "medium til mørk teint", 
         "kvindelig forsker", 
-        "videnskabsmand", 
         "kvinde", 
+        "medium teint", 
+        "kvindelig forsker: mørk teint", 
+        "videnskabsmand", 
+        "medium til lys teint", 
+        "lys teint", 
+        "kvindelig forsker: medium teint", 
+        "kvindelig forsker: medium til lys teint", 
         "videnskab", 
-        "naturvidenskab"
+        "kvindelig forsker: medium til mørk teint"
     ], 
     "👩‍🚀": [
         "rumfartøj", 
         "rummet", 
+        "kvindelig astronaut: mørk teint", 
         "rumskib", 
+        "mørk teint", 
         "kvindelig astronaut", 
+        "medium til mørk teint", 
         "kvinde", 
+        "medium teint", 
+        "kvindelig astronaut: lys teint", 
         "rumdragt", 
-        "raket"
+        "kvindelig astronaut: medium teint", 
+        "lys teint", 
+        "kvindelig astronaut: medium til mørk teint", 
+        "raket", 
+        "kvindelig astronaut: medium til lys teint", 
+        "medium til lys teint"
     ], 
     "👩‍🚒": [
+        "kvindelig brandmand: medium til mørk teint", 
+        "mørk teint", 
         "brandbil", 
+        "medium til mørk teint", 
         "brand", 
-        "kvindelig brandmand", 
         "kvinde", 
-        "hjelm"
-    ], 
-    "👪": [
-        "far", 
-        "mor", 
-        "familie", 
-        "menneske", 
-        "barn"
+        "medium teint", 
+        "kvindelig brandmand: medium teint", 
+        "kvindelig brandmand: medium til lys teint", 
+        "medium til lys teint", 
+        "hjelm", 
+        "kvindelig brandmand: mørk teint", 
+        "lys teint", 
+        "kvindelig brandmand", 
+        "kvindelig brandmand: lys teint"
     ], 
     "👫": [
         "mand og kvinde hånd i hånd", 
@@ -3505,56 +4992,166 @@
         "to kvinder hånd i hånd", 
         "par"
     ], 
-    "👮": [
-        "politibetjent", 
+    "👮‍♀️": [
         "politi", 
+        "betjent", 
+        "kvindelig politibetjent", 
+        "kvinde"
+    ], 
+    "👮‍♂️": [
+        "mandlig politibetjent", 
+        "politi", 
+        "politibetjent", 
+        "politimand", 
+        "mand", 
         "betjent"
     ], 
-    "👯": [
+    "👯‍♀️": [
+        "ører", 
         "personer med kaninører", 
-        "kvinder", 
-        "ører"
+        "kaninører", 
+        "dans", 
+        "kvinder med kaninører", 
+        "fest", 
+        "kvinder"
+    ], 
+    "👯‍♂️": [
+        "mænd", 
+        "fest", 
+        "kaninører", 
+        "dans", 
+        "mænd med kaninører"
     ], 
     "👰": [
+        "mørk teint", 
+        "brud: medium til mørk teint", 
+        "brud: mørk teint", 
+        "medium til mørk teint", 
+        "brud med slør", 
+        "medium teint", 
+        "brud: medium teint", 
+        "lys teint", 
         "brud", 
-        "brud med slør"
+        "brud: lys teint", 
+        "brud: medium til lys teint", 
+        "medium til lys teint"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "blond kvinde", 
+        "lyshåret", 
+        "kvinde", 
+        "blondine"
+    ], 
+    "👱‍♂️": [
         "menneske", 
-        "blond person"
+        "blond mand", 
+        "lyshåret", 
+        "blond person", 
+        "mand", 
+        "blond"
     ], 
     "👲": [
+        "mand med kinesisk hat: medium teint", 
+        "mand med kinesisk hat: medium til mørk teint", 
         "mand med kinesisk hat", 
-        "menneske"
+        "menneske", 
+        "medium til mørk teint", 
+        "mand med kinesisk hat: lys teint", 
+        "medium teint", 
+        "mørk teint", 
+        "lys teint", 
+        "mand med kinesisk hat: medium til lys teint", 
+        "mand med kinesisk hat: mørk teint", 
+        "medium til lys teint"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "turban", 
+        "kvinde", 
+        "kvinde med turban"
+    ], 
+    "👳‍♂️": [
         "person med turban", 
+        "turban", 
+        "mand", 
+        "mand med turban", 
         "menneske"
     ], 
     "👴": [
-        "mand", 
         "gammel mand", 
-        "menneske"
+        "gammel mand: medium teint", 
+        "menneske", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "gammel mand: mørk teint", 
+        "mand", 
+        "gammel mand: lys teint", 
+        "gammel mand: medium til lys teint", 
+        "gammel mand: medium til mørk teint", 
+        "mørk teint", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "👵": [
-        "gammel kvinde", 
+        "gammel kvinde: medium teint", 
+        "mørk teint", 
+        "menneske", 
+        "medium til mørk teint", 
+        "gammel kvinde: medium til lys teint", 
         "kvinde", 
-        "menneske"
+        "medium teint", 
+        "gammel kvinde: medium til mørk teint", 
+        "gammel kvinde: lys teint", 
+        "lys teint", 
+        "gammel kvinde", 
+        "gammel kvinde: mørk teint", 
+        "medium til lys teint"
     ], 
     "👶": [
-        "baby", 
+        "mørk teint", 
+        "baby: medium til lys teint", 
         "menneske", 
+        "medium til mørk teint", 
+        "baby: mørk teint", 
+        "medium teint", 
+        "baby: medium teint", 
+        "baby: lys teint", 
+        "baby", 
+        "lys teint", 
+        "baby: medium til mørk teint", 
+        "medium til lys teint", 
         "barn"
     ], 
-    "👷": [
+    "👷‍♀️": [
         "arbejder", 
+        "byggearbejder", 
+        "kvinde", 
+        "kvindelig bygningsarbejder", 
+        "byggeri", 
+        "hammer"
+    ], 
+    "👷‍♂️": [
         "bygningsarbejder", 
-        "byggeri"
+        "arbejder", 
+        "byggearbejder", 
+        "mand", 
+        "byggeri", 
+        "mandlig bygningsarbejder", 
+        "hammer"
     ], 
     "👸": [
+        "prinsesse: medium teint", 
         "prinsesse", 
+        "eventyr", 
         "menneske", 
-        "eventyr"
+        "prinsesse: lys teint", 
+        "medium til mørk teint", 
+        "prinsesse: medium til mørk teint", 
+        "medium teint", 
+        "prinsesse: medium til lys teint", 
+        "mørk teint", 
+        "lys teint", 
+        "medium til lys teint", 
+        "prinsesse: mørk teint"
     ], 
     "👹": [
         "trold", 
@@ -3575,8 +5172,18 @@
         "væsen"
     ], 
     "👼": [
+        "babyengel: lys teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "engel", 
+        "babyengel: medium til lys teint", 
+        "lys teint", 
         "babyengel", 
-        "engel"
+        "babyengel: medium til mørk teint", 
+        "babyengel: mørk teint", 
+        "medium til lys teint", 
+        "babyengel: medium teint"
     ], 
     "👽": [
         "alien", 
@@ -3602,18 +5209,54 @@
         "dødningehoved", 
         "kranium"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "information", 
         "hjælp", 
-        "person vender håndfladen op"
+        "flabet", 
+        "kvinde", 
+        "kvinde vender håndfladen op", 
+        "person vender håndfladen op", 
+        "håndflade"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "information", 
+        "hjælp", 
+        "mand", 
+        "flabet", 
+        "mand vender håndfladen op"
+    ], 
+    "💂‍♀️": [
+        "livgarde", 
+        "kvinde", 
+        "sikkerhed", 
+        "kvindelig garder", 
+        "vagt", 
+        "bevogtning"
+    ], 
+    "💂‍♂️": [
+        "mandlig garder", 
+        "livgarde", 
+        "sikkerhed", 
+        "mand", 
+        "garderofficer", 
         "garder", 
+        "vagt", 
         "gardist", 
-        "garderofficer"
+        "bevogtning"
     ], 
     "💃": [
         "danser", 
-        "dans"
+        "mørk teint", 
+        "medium til mørk teint", 
+        "dans", 
+        "medium teint", 
+        "danser: medium til lys teint", 
+        "danser: medium teint", 
+        "danser: mørk teint", 
+        "danser: lys teint", 
+        "lys teint", 
+        "danser: medium til mørk teint", 
+        "medium til lys teint"
     ], 
     "💄": [
         "makeup", 
@@ -3621,20 +5264,51 @@
         "læbestift"
     ], 
     "💅": [
-        "negle", 
-        "neglelak", 
+        "neglelak: medium teint", 
+        "neglelak: medium til mørk teint", 
+        "neglelak: lys teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "neglelak: medium til lys teint", 
+        "manicure", 
         "kosmetik", 
-        "manicure"
+        "medium teint", 
+        "negle", 
+        "lys teint", 
+        "neglelak", 
+        "medium til lys teint", 
+        "neglelak: mørk teint"
     ], 
-    "💆": [
+    "💆‍♀️": [
         "salon", 
-        "massage", 
-        "ansigtsmassage"
+        "kvinde", 
+        "ansigtsmassage", 
+        "ansigt", 
+        "kvinde får ansigtsmassage", 
+        "massage"
     ], 
-    "💇": [
-        "klipning", 
+    "💆‍♂️": [
+        "mand får ansigtsmassage", 
+        "ansigt", 
+        "mand", 
+        "massage"
+    ], 
+    "💇‍♀️": [
         "hår", 
+        "kvinde", 
+        "frisør", 
+        "kvinde bliver klippet", 
+        "klipning", 
+        "klippe", 
         "bliver klippet"
+    ], 
+    "💇‍♂️": [
+        "mand bliver klippet", 
+        "hår", 
+        "frisør", 
+        "klipning", 
+        "mand", 
+        "klippe"
     ], 
     "💈": [
         "barbersalon", 
@@ -3668,21 +5342,10 @@
         "romantik", 
         "ædelsten"
     ], 
-    "💏": [
-        "kys", 
-        "kærlighed", 
-        "par med hjerte", 
-        "romantik"
-    ], 
     "💐": [
         "buket", 
         "blomster", 
         "blomsterbuket"
-    ], 
-    "💑": [
-        "kærlighed", 
-        "par med hjerte", 
-        "romantik"
     ], 
     "💒": [
         "bryllup", 
@@ -3814,9 +5477,19 @@
         "bunke bæ"
     ], 
     "💪": [
+        "armmuskler: medium teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
         "stærk", 
+        "armmuskler: medium til mørk teint", 
+        "medium teint", 
+        "armmuskler: mørk teint", 
+        "muskel", 
+        "armmuskler: lys teint", 
         "armmuskler", 
-        "muskel"
+        "lys teint", 
+        "armmuskler: medium til lys teint", 
+        "medium til lys teint"
     ], 
     "💫": [
         "se stjerner", 
@@ -4189,6 +5862,13 @@
         "video", 
         "videobånd"
     ], 
+    "📽️": [
+        "filmprojektor", 
+        "video", 
+        "projektor", 
+        "film", 
+        "biograf"
+    ], 
     "📿": [
         "påklædning", 
         "bedekrans", 
@@ -4505,6 +6185,17 @@
         "ned-knap", 
         "nedad"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "religion"
+    ], 
+    "🕊️": [
+        "fred", 
+        "due", 
+        "fugl", 
+        "flyve"
+    ], 
     "🕋": [
         "Kabaen", 
         "religion", 
@@ -4661,25 +6352,128 @@
         "halv et", 
         "0.30"
     ], 
-    "🕺": [
-        "mand", 
-        "danser", 
-        "dans", 
-        "dansende mand"
+    "🕯️": [
+        "stearinlys", 
+        "lys"
     ], 
-    "🖕": [
-        "langefinger", 
+    "🕰️": [
+        "pynteur", 
+        "ur"
+    ], 
+    "🕳️": [
+        "hul", 
+        "sort"
+    ], 
+    "🕴️": [
+        "forretningsmand", 
+        "svævende forretningsmand", 
+        "forretning", 
+        "mand", 
+        "jakkesæt"
+    ], 
+    "🕵️‍♂️": [
+        "spion", 
+        "detektiv"
+    ], 
+    "🕶️": [
+        "solbriller", 
+        "øje", 
+        "briller", 
+        "mørk"
+    ], 
+    "🕷️": [
+        "insekt", 
+        "edderkop"
+    ], 
+    "🕸️": [
+        "spind", 
+        "edderkoppespind", 
+        "edderkop"
+    ], 
+    "🕹️": [
+        "joystick", 
+        "videospil", 
+        "spil"
+    ], 
+    "🕺": [
+        "dansende mand: medium teint", 
+        "danser", 
+        "dansende mand", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "dansende mand: medium til lys teint", 
+        "dans", 
+        "medium teint", 
+        "dansende mand: medium til mørk teint", 
+        "mand", 
+        "lys teint", 
+        "dansende mand: lys teint", 
+        "dansende mand: mørk teint", 
+        "medium til lys teint"
+    ], 
+    "🖇️": [
+        "papirclip", 
+        "sammensat", 
+        "sammensatte papirclips"
+    ], 
+    "🖊️": [
+        "pen", 
+        "kuglepen"
+    ], 
+    "🖋️": [
+        "pen", 
+        "fyldepen"
+    ], 
+    "🖌️": [
+        "maleri", 
+        "malerpensel", 
+        "maling"
+    ], 
+    "🖍️": [
+        "farveblyant", 
+        "farvekridt", 
+        "fedtfarve"
+    ], 
+    "🖐️": [
+        "spredte", 
+        "hånd med spredte fingre", 
         "finger", 
         "krop", 
         "hånd"
     ], 
+    "🖕": [
+        "langefinger", 
+        "mørk teint", 
+        "langefinger: medium teint", 
+        "medium til mørk teint", 
+        "krop", 
+        "langefinger: medium til mørk teint", 
+        "medium teint", 
+        "finger", 
+        "langefinger: lys teint", 
+        "hånd", 
+        "lys teint", 
+        "langefinger: medium til lys teint", 
+        "medium til lys teint", 
+        "langefinger: mørk teint"
+    ], 
     "🖖": [
         "vulcan-hilsen", 
+        "lys teint", 
+        "vulcan-hilsen: mørk teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "vulcan-hilsen: lys teint", 
+        "vulcan-hilsen: medium til mørk teint", 
+        "medium teint", 
+        "vulcan-hilsen: medium teint", 
+        "vulcan-hilsen: medium til lys teint", 
         "vulcan", 
         "finger", 
         "krop", 
         "hånd", 
-        "spock"
+        "spock", 
+        "medium til lys teint"
     ], 
     "🖤": [
         "sort", 
@@ -4687,6 +6481,123 @@
         "hjerte", 
         "sort hjerte", 
         "ondt"
+    ], 
+    "🖥️": [
+        "stationær", 
+        "computer", 
+        "stationær computer"
+    ], 
+    "🖨️": [
+        "stationær", 
+        "computer", 
+        "printer"
+    ], 
+    "🖱️": [
+        "knap", 
+        "computer", 
+        "computermus", 
+        "mus"
+    ], 
+    "🖲️": [
+        "computer", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "maleri", 
+        "museum", 
+        "ramme med billede", 
+        "billede", 
+        "kunst", 
+        "ramme"
+    ], 
+    "🗂️": [
+        "kort", 
+        "kartotek", 
+        "kartotekskort"
+    ], 
+    "🗃️": [
+        "arkiv", 
+        "pap", 
+        "arkivkasse", 
+        "kasse"
+    ], 
+    "🗄️": [
+        "arkiv", 
+        "skab", 
+        "arkivskab"
+    ], 
+    "🗑️": [
+        "papirkurv", 
+        "skraldespand"
+    ], 
+    "🗒️": [
+        "notesblok", 
+        "noter", 
+        "spiral", 
+        "spiralryg", 
+        "note", 
+        "blok"
+    ], 
+    "🗓️": [
+        "spiralkalender", 
+        "blok", 
+        "spiral", 
+        "kalender"
+    ], 
+    "🗜️": [
+        "værktøj", 
+        "skruetvinge", 
+        "skruestik"
+    ], 
+    "🗝️": [
+        "nøgle", 
+        "lås", 
+        "gammel nøgle", 
+        "gammel"
+    ], 
+    "🗞️": [
+        "nyheder", 
+        "sammenrullet avis", 
+        "avis", 
+        "sammenrullet"
+    ], 
+    "🗡️": [
+        "daggert", 
+        "kniv", 
+        "våben"
+    ], 
+    "🗣️": [
+        "silhuet", 
+        "tale", 
+        "talende hoved", 
+        "talende", 
+        "hoved", 
+        "ansigt"
+    ], 
+    "🗨️": [
+        "tale", 
+        "taleboble til venstre", 
+        "snak", 
+        "dialog"
+    ], 
+    "🗯️": [
+        "vred taleboble til højre", 
+        "vred", 
+        "boble", 
+        "ballon", 
+        "mad"
+    ], 
+    "🗳️": [
+        "valgurne med stemmeseddel", 
+        "urne", 
+        "stemme", 
+        "kasse", 
+        "boks"
+    ], 
+    "🗺️": [
+        "kort", 
+        "verdenskort", 
+        "verden"
     ], 
     "🗻": [
         "Fuji", 
@@ -5065,19 +6976,56 @@
         "ansigt med rullende øjne", 
         "øjne"
     ], 
-    "🙅": [
-        "signalerer nej", 
+    "🙅‍♀️": [
+        "kvinde signalerer nej", 
         "nej", 
-        "forbudt"
+        "forbudt", 
+        "kvinde", 
+        "ikke i orden", 
+        "gestus", 
+        "signalerer nej"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "nej", 
+        "forbudt", 
+        "ikke i orden", 
+        "gestus", 
+        "mand signalerer nej", 
+        "mand"
+    ], 
+    "🙆‍♀️": [
+        "ok", 
+        "allright", 
+        "tilladt", 
+        "kvinde", 
+        "kvinde signalerer ok", 
+        "gestus", 
         "ansigt", 
         "signalerer ok", 
-        "allright"
+        "i orden"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "ok", 
+        "tilladt", 
+        "gestus", 
+        "mand signalerer ok", 
+        "mand", 
+        "i orden"
+    ], 
+    "🙇‍♀️": [
+        "buk", 
+        "kvinde bukker dybt", 
+        "undskyld", 
+        "kvinde", 
+        "undskyldning"
+    ], 
+    "🙇‍♂️": [
         "bukker", 
-        "undskyld"
+        "mand bukker dybt", 
+        "buk", 
+        "undskyld", 
+        "mand", 
+        "undskyldning"
     ], 
     "🙈": [
         "tre vise aber", 
@@ -5091,28 +7039,83 @@
         "ikke tale", 
         "tre vise aber"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "løftet hånd", 
-        "hej", 
-        "person med løftet hånd"
+        "hilsen", 
+        "kvinde", 
+        "person med løftet hånd", 
+        "gestus", 
+        "kvinde med løftet hånd", 
+        "hej"
+    ], 
+    "🙋‍♂️": [
+        "løftet hånd", 
+        "hilsen", 
+        "gestus", 
+        "mand", 
+        "mand med løftet hånd", 
+        "hej"
     ], 
     "🙌": [
         "hurra", 
-        "begge hænder oppe"
+        "begge hænder oppe", 
+        "mørk teint", 
+        "hurra: lys teint", 
+        "hurra: medium til lys teint", 
+        "hurra: medium til mørk teint", 
+        "hurra: mørk teint", 
+        "medium teint", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "hurra: medium teint", 
+        "medium til lys teint"
     ], 
-    "🙍": [
-        "utilfreds", 
+    "🙍‍♀️": [
+        "rynket pande", 
         "udtryk", 
+        "kvinde med rynkede bryn", 
+        "kvinde", 
+        "rynke panden", 
+        "rynkede bryn", 
+        "utilfreds"
+    ], 
+    "🙍‍♂️": [
+        "rynket pande", 
+        "mand med rynkede bryn", 
+        "rynke panden", 
+        "mand", 
+        "utilfreds", 
         "rynkede bryn"
     ], 
-    "🙎": [
-        "surmulende person", 
+    "🙎‍♀️": [
+        "surmulende kvinde", 
+        "kvinde", 
+        "surmule", 
         "gestus", 
-        "surmule"
+        "sur", 
+        "surmulende person", 
+        "utilfreds"
+    ], 
+    "🙎‍♂️": [
+        "surmulende mand", 
+        "mand", 
+        "sur", 
+        "surmule", 
+        "utilfreds"
     ], 
     "🙏": [
         "foldede hænder", 
-        "bøn"
+        "foldede hænder: medium teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "bøn", 
+        "foldede hænder: medium til lys teint", 
+        "foldede hænder: medium til mørk teint", 
+        "foldede hænder: lys teint", 
+        "lys teint", 
+        "foldede hænder: mørk teint", 
+        "medium til lys teint"
     ], 
     "🚀": [
         "rumfartøj", 
@@ -5291,8 +7294,19 @@
         "fartøj", 
         "skib"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "roning", 
+        "roer", 
+        "kvinde", 
+        "båd", 
+        "kvinde i robåd"
+    ], 
+    "🚣‍♂️": [
         "robåd", 
+        "mand i robåd", 
+        "mand", 
+        "roning", 
+        "roer", 
         "båd"
     ], 
     "🚤": [
@@ -5368,23 +7382,60 @@
         "cykler forbudt", 
         "ingen cykler"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "cykelrytter", 
         "cyklist", 
-        "cykel"
-    ], 
-    "🚵": [
-        "cyklist", 
-        "bjerg", 
+        "kvinde", 
         "cykel", 
+        "cykle", 
+        "kvindelig cyklist"
+    ], 
+    "🚴‍♂️": [
+        "cykelrytter", 
+        "cyklist", 
+        "mandlig cyklist", 
+        "mand", 
+        "cykel", 
+        "cykle"
+    ], 
+    "🚵‍♀️": [
+        "cykelrytter", 
+        "kvinde på mountainbike", 
+        "kvinde", 
+        "mountainbike"
+    ], 
+    "🚵‍♂️": [
+        "cykelrytter", 
+        "cyklist", 
+        "mand på mountainbike", 
         "mountainbike", 
+        "bjerg", 
+        "mand", 
+        "cykel", 
         "mountainbikerytter"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "vandre", 
+        "kvinde går", 
+        "gå", 
+        "hike", 
+        "fodgænger", 
+        "kvinde", 
+        "vandretur", 
+        "gang", 
+        "gåtur", 
+        "vandring"
+    ], 
+    "🚶‍♂️": [
         "vandre", 
         "gå", 
         "hike", 
         "fodgænger", 
+        "vandretur", 
+        "mand", 
         "gang", 
+        "gåtur", 
+        "mand går", 
         "vandring"
     ], 
     "🚷": [
@@ -5429,8 +7480,18 @@
         "brusebad"
     ], 
     "🛀": [
+        "bad: mørk teint", 
+        "bad: medium til mørk teint", 
+        "mørk teint", 
+        "bad: medium teint", 
+        "medium til mørk teint", 
+        "bad: lys teint", 
+        "bad: medium til lys teint", 
+        "medium teint", 
         "bad", 
-        "badekar"
+        "lys teint", 
+        "badekar", 
+        "medium til lys teint"
     ], 
     "🛁": [
         "bad", 
@@ -5451,9 +7512,41 @@
         "baggage", 
         "bagage"
     ], 
-    "🛌": [
-        "person i seng", 
+    "🛋️": [
+        "sofa", 
+        "lampe", 
         "hotel", 
+        "sofa og lampe"
+    ], 
+    "🛌": [
+        "person i seng: mørk teint", 
+        "mørk teint", 
+        "person i seng: medium til mørk teint", 
+        "medium til mørk teint", 
+        "hotel", 
+        "medium teint", 
+        "person i seng: lys teint", 
+        "lys teint", 
+        "person i seng", 
+        "person i seng: medium til lys teint", 
+        "sove", 
+        "medium til lys teint", 
+        "person i seng: medium teint"
+    ], 
+    "🛍️": [
+        "indkøbsposer", 
+        "hotel", 
+        "shopping", 
+        "pose"
+    ], 
+    "🛎️": [
+        "hotelklokke", 
+        "hotel", 
+        "klokke"
+    ], 
+    "🛏️": [
+        "hotel", 
+        "seng", 
         "sove"
     ], 
     "🛐": [
@@ -5477,6 +7570,41 @@
         "forretning", 
         "køb"
     ], 
+    "🛠️": [
+        "værktøj", 
+        "hammer og skruenøgle", 
+        "skruenøgle", 
+        "svensknøgle", 
+        "hammer"
+    ], 
+    "🛡️": [
+        "skjold", 
+        "våben"
+    ], 
+    "🛢️": [
+        "olietønde", 
+        "tønde", 
+        "olie"
+    ], 
+    "🛣️": [
+        "motorvej", 
+        "vej"
+    ], 
+    "🛤️": [
+        "spor", 
+        "tog", 
+        "togspor"
+    ], 
+    "🛥️": [
+        "fartøj", 
+        "motorbåd", 
+        "båd"
+    ], 
+    "🛩️": [
+        "fly", 
+        "fartøj", 
+        "lille fly"
+    ], 
     "🛫": [
         "fly", 
         "fartøj", 
@@ -5492,6 +7620,17 @@
         "ankomst", 
         "ankomme", 
         "flyankomst"
+    ], 
+    "🛰️": [
+        "rummet", 
+        "fartøj", 
+        "satellit"
+    ], 
+    "🛳️": [
+        "fartøj", 
+        "passager", 
+        "skib", 
+        "passagerskib"
     ], 
     "🛴": [
         "transportmiddel", 
@@ -5566,48 +7705,98 @@
     ], 
     "🤘": [
         "djævletegn", 
+        "djævletegn: mørk teint", 
+        "mørk teint", 
+        "djævletegn: medium til lys teint", 
+        "medium til mørk teint", 
+        "djævletegn: medium teint", 
         "rock", 
         "hånd", 
         "metal", 
+        "medium teint", 
         "horn", 
+        "djævletegn: medium til mørk teint", 
         "finger", 
         "krop", 
-        "heavy metal"
+        "heavy metal", 
+        "lys teint", 
+        "djævletegn: lys teint", 
+        "medium til lys teint"
     ], 
     "🤙": [
+        "ring til mig-hånd: mørk teint", 
         "telefonhånd", 
+        "mørk teint", 
+        "medium til mørk teint", 
         "ringer", 
+        "ring til mig-hånd: medium teint", 
+        "ring til mig-hånd: lys teint", 
+        "medium teint", 
+        "ring til mig-hånd: medium til mørk teint", 
         "opringning", 
         "krop", 
         "hånd", 
+        "lys teint", 
+        "ring til mig-hånd: medium til lys teint", 
+        "medium til lys teint", 
         "ring til mig-hånd"
     ], 
     "🤚": [
         "baghånd", 
-        "løftet", 
+        "løftet baghånd: medium teint", 
+        "løftet baghånd: medium til mørk teint", 
         "løftet baghånd", 
+        "mørk teint", 
+        "løftet baghånd: mørk teint", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "løftet baghånd: medium til lys teint", 
+        "løftet", 
+        "løftet baghånd: lys teint", 
         "krop", 
-        "hånd"
+        "hånd", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "🤛": [
+        "venstrevendt knytnæve: medium til mørk teint", 
+        "venstrevendt knytnæve: lys teint", 
+        "venstrevendt knytnæve: medium til lys teint", 
+        "mørk teint", 
         "knytnæve", 
+        "medium til mørk teint", 
         "venstrevendt", 
         "hånd knyttet mod venstre", 
         "venstre", 
+        "medium teint", 
         "venstrevendt knytnæve", 
+        "venstrevendt knytnæve: medium teint", 
         "krop", 
         "hånd", 
-        "knyttet hånd"
+        "knyttet hånd", 
+        "lys teint", 
+        "venstrevendt knytnæve: mørk teint", 
+        "medium til lys teint"
     ], 
     "🤜": [
         "højre", 
+        "højrevendt knytnæve: mørk teint", 
+        "mørk teint", 
         "knytnæve", 
+        "medium til mørk teint", 
         "hånd knyttet mod højre", 
         "højrevendt", 
+        "medium teint", 
+        "højrevendt knytnæve: medium til lys teint", 
+        "højrevendt knytnæve: medium teint", 
         "højrevendt knytnæve", 
         "krop", 
         "hånd", 
-        "knyttet hånd"
+        "knyttet hånd", 
+        "lys teint", 
+        "højrevendt knytnæve: medium til mørk teint", 
+        "medium til lys teint", 
+        "højrevendt knytnæve: lys teint"
     ], 
     "🤝": [
         "hilsen", 
@@ -5620,18 +7809,38 @@
         "hilser"
     ], 
     "🤞": [
+        "krydsede fingre: medium til mørk teint", 
         "krydser fingre", 
+        "lys teint", 
+        "krydsede fingre: mørk teint", 
+        "mørk teint", 
+        "krydsede fingre: medium til lys teint", 
         "held og lykke", 
+        "medium til mørk teint", 
+        "krydsede fingre: medium teint", 
+        "medium teint", 
+        "krydsede fingre: lys teint", 
         "finger", 
         "krop", 
         "hånd", 
         "krydsede fingre", 
-        "håb"
+        "håb", 
+        "medium til lys teint"
     ], 
     "🤟": [
         "elsker dig gestus", 
+        "elsker dig gestus: medium til mørk teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "elsker dig gestus: medium teint", 
+        "Hånd", 
+        "medium teint", 
+        "elsker dig gestus: mørk teint", 
+        "elsker dig gestus: medium til lys teint", 
         "Elsker dig", 
-        "Hånd"
+        "elsker dig gestus: lys teint", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "🤠": [
         "ansigt med cowboyhat", 
@@ -5685,11 +7894,41 @@
     "🤦": [
         "irriteret", 
         "dumt", 
+        "medium til lys teint", 
+        "mørk teint", 
         "skepsis", 
         "slå sig for panden", 
+        "medium til mørk teint", 
         "hånd", 
+        "medium teint", 
+        "slå sig for panden: medium til mørk teint", 
+        "slå sig for panden: medium teint", 
+        "slå sig for panden: lys teint", 
         "irritation", 
+        "lys teint", 
         "ansigt", 
+        "slå sig for panden: mørk teint", 
+        "slå sig for panden: medium til lys teint", 
+        "håndflade"
+    ], 
+    "🤦‍♀️": [
+        "irriteret", 
+        "skepsis", 
+        "facepalm", 
+        "kvinde", 
+        "kvinde slår sig for panden", 
+        "græmmes", 
+        "irritation", 
+        "håndflade"
+    ], 
+    "🤦‍♂️": [
+        "irriteret", 
+        "mand slår sig for panden", 
+        "skepsis", 
+        "facepalm", 
+        "mand", 
+        "græmmes", 
+        "irritation", 
         "håndflade"
     ], 
     "🤧": [
@@ -5744,92 +7983,242 @@
         "chokeret"
     ], 
     "🤰": [
+        "mørk teint", 
+        "gravid kvinde: medium til mørk teint", 
+        "gravid kvinde: lys teint", 
         "mor", 
         "gravid", 
+        "medium til mørk teint", 
         "gravid kvinde", 
+        "gravid kvinde: medium til lys teint", 
         "mave", 
         "kvinde", 
-        "vordende mor"
+        "gravid kvinde: mørk teint", 
+        "medium teint", 
+        "vordende mor", 
+        "gravid kvinde: medium teint", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "🤱": [
-        "baby", 
+        "kvinde, der ammer: medium teint", 
         "kvinde, der ammer", 
         "bryst", 
-        "kvinde"
+        "mørk teint", 
+        "kvinde, der ammer: medium til lys teint", 
+        "kvinde, der ammer: medium til mørk teint", 
+        "kvinde", 
+        "medium teint", 
+        "kvinde, der ammer: lys teint", 
+        "medium til mørk teint", 
+        "baby", 
+        "lys teint", 
+        "medium til lys teint", 
+        "kvinde, der ammer: mørk teint"
     ], 
     "🤲": [
+        "håndflader samlet og løftet: medium til mørk teint", 
+        "håndflader samlet og løftet: mørk teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "håndflader samlet og løftet: lys teint", 
+        "medium teint", 
+        "bøn", 
+        "håndflader samlet og løftet: medium teint", 
         "håndflader samlet og løftet", 
-        "bøn"
+        "lys teint", 
+        "håndflader samlet og løftet: medium til lys teint", 
+        "medium til lys teint"
     ], 
     "🤳": [
         "foto", 
+        "selfie: medium teint", 
         "selfie", 
+        "mørk teint", 
+        "selfie: medium til mørk teint", 
+        "medium til mørk teint", 
         "fotograf", 
         "mobiltelefon", 
+        "selfie: lys teint", 
+        "medium teint", 
         "telefon", 
+        "selfie: medium til lys teint", 
         "fotograferer", 
         "mobil", 
+        "lys teint", 
+        "selfie: mørk teint", 
         "tager billeder", 
         "kamera", 
         "fotografi", 
-        "arm"
+        "arm", 
+        "medium til lys teint"
     ], 
     "🤴": [
-        "krone", 
         "kongesøn", 
-        "kongelig", 
+        "krone", 
+        "mørk teint", 
+        "prins: medium til mørk teint", 
+        "medium til mørk teint", 
+        "prins: mørk teint", 
         "royal", 
+        "prins: medium til lys teint", 
+        "medium teint", 
+        "kongelig", 
+        "prins: medium teint", 
+        "lys teint", 
+        "prins: lys teint", 
+        "medium til lys teint", 
         "prins"
     ], 
     "🤵": [
         "gom", 
+        "mand i smoking: lys teint", 
+        "lys teint", 
+        "medium til mørk teint", 
+        "mand i smoking: medium til mørk teint", 
+        "mand i smoking: medium teint", 
         "brudgom", 
+        "mand i smoking: medium til lys teint", 
+        "medium teint", 
         "festtøj", 
         "mand", 
+        "mand i smoking: mørk teint", 
         "mand i smoking", 
+        "mørk teint", 
         "smoking", 
-        "festdeltager"
+        "festdeltager", 
+        "medium til lys teint"
     ], 
     "🤶": [
         "julekvinde", 
+        "julemandens kone: lys teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
         "julemandens kone", 
+        "julemandens kone: medium teint", 
         "kvinde", 
         "jul", 
+        "medium teint", 
+        "julemandens kone: medium til mørk teint", 
+        "julemandens kone: medium til lys teint", 
         "fru julemand", 
+        "lys teint", 
         "julemandinde", 
+        "julemandens kone: mørk teint", 
+        "medium til lys teint", 
         "dame"
     ], 
     "🤷": [
+        "medium til mørk teint", 
+        "ligegyldigt", 
+        "medium teint", 
+        "trækker på skuldrene: medium teint", 
+        "træk", 
+        "lys teint", 
+        "medium til lys teint", 
+        "trækker på skuldrene: mørk teint", 
         "pas", 
         "ved det ikke", 
-        "trækker på skuldrene", 
-        "ligegyldigt", 
-        "tvivl", 
+        "ligegyldighed", 
+        "ligeglad", 
+        "uvidenhed", 
+        "trækker på skuldrene: lys teint", 
         "ved ikke", 
         "aner det ikke", 
-        "ligegyldighed", 
-        "uvidenhed", 
-        "træk", 
         "skulder", 
+        "skuldre", 
+        "mørk teint", 
+        "tvivl", 
+        "trækker på skuldrene: medium til mørk teint", 
+        "trækker på skuldrene", 
+        "trækker på skuldrene: medium til lys teint"
+    ], 
+    "🤷‍♀️": [
+        "pas", 
+        "kvinde trækker på skuldrene", 
+        "ingen anelse", 
+        "uvidenhed", 
+        "kvinde", 
+        "tvivl", 
+        "ligegyldighed", 
+        "skuldre", 
+        "ligeglad"
+    ], 
+    "🤷‍♂️": [
+        "pas", 
+        "mand trækker på skuldrene", 
+        "ingen anelse", 
+        "uvidenhed", 
+        "tvivl", 
+        "mand", 
+        "ligegyldighed", 
         "skuldre", 
         "ligeglad"
     ], 
     "🤸": [
+        "vejrmølle: medium teint", 
+        "vejrmølle: medium til lys teint", 
+        "vejrmølle: medium til mørk teint", 
+        "menneske", 
+        "medium til mørk teint", 
+        "medium teint", 
+        "gymnastik", 
         "person", 
+        "mørk teint", 
+        "lys teint", 
+        "vejrmølle: mørk teint", 
         "sport", 
         "vejrmølle", 
-        "menneske", 
+        "vejrmølle: lys teint", 
+        "medium til lys teint"
+    ], 
+    "🤸‍♀️": [
+        "kvinde slår vejrmøller", 
+        "vejrmølle", 
+        "kvinde", 
+        "gymnastik"
+    ], 
+    "🤸‍♂️": [
+        "vejrmølle", 
+        "mand slår vejrmøller", 
+        "mand", 
         "gymnastik"
     ], 
     "🤹": [
+        "jonglerer: medium teint", 
+        "mørk teint", 
         "jonglerer", 
         "dygtighed", 
         "behændighed", 
         "jonglør", 
         "jonglere", 
+        "medium teint", 
         "multitaske", 
+        "jonglerer: lys teint", 
+        "medium til mørk teint", 
         "multitasking", 
-        "balance"
+        "lys teint", 
+        "jonglerer: mørk teint", 
+        "balance", 
+        "jonglerer: medium til mørk teint", 
+        "medium til lys teint", 
+        "jonglerer: medium til lys teint"
+    ], 
+    "🤹‍♀️": [
+        "bolde", 
+        "kvindelig jonglør", 
+        "kvinde", 
+        "jonglere", 
+        "multitaske", 
+        "multitasking"
+    ], 
+    "🤹‍♂️": [
+        "bolde", 
+        "mandlig jonglør", 
+        "jonglere", 
+        "multitakse", 
+        "mand", 
+        "multitasking"
     ], 
     "🤺": [
         "sværd", 
@@ -5845,18 +8234,74 @@
         "sport", 
         "brydning"
     ], 
+    "🤼‍♀️": [
+        "brydere", 
+        "brydning", 
+        "wrestling", 
+        "kvinder", 
+        "kvindelige brydere"
+    ], 
+    "🤼‍♂️": [
+        "brydere", 
+        "brydning", 
+        "mandlige brydere", 
+        "wrestling", 
+        "mænd"
+    ], 
     "🤽": [
-        "polo", 
+        "vandpolo: mørk teint", 
+        "vandpolo: medium teint", 
+        "mørk teint", 
+        "vandpolo: medium til lys teint", 
+        "medium til mørk teint", 
+        "vandpolo: lys teint", 
+        "medium teint", 
         "vandsport", 
-        "sport", 
+        "vandpolo: medium til mørk teint", 
         "vand", 
+        "polo", 
+        "lys teint", 
+        "sport", 
+        "vandpolo", 
+        "medium til lys teint"
+    ], 
+    "🤽‍♀️": [
+        "kvindelig vandpolospiller", 
+        "kvinde", 
+        "vandpolo"
+    ], 
+    "🤽‍♂️": [
+        "mandlig vandpolospiller", 
+        "mand", 
         "vandpolo"
     ], 
     "🤾": [
+        "bold", 
+        "mørk teint", 
+        "håndbold: medium teint", 
+        "medium til mørk teint", 
+        "håndbold: lys teint", 
+        "håndbold: medium til lys teint", 
+        "medium teint", 
         "person", 
         "håndbold", 
+        "håndbold: mørk teint", 
+        "håndbold: medium til mørk teint", 
+        "lys teint", 
         "sport", 
-        "bold"
+        "medium til lys teint"
+    ], 
+    "🤾‍♀️": [
+        "håndbold", 
+        "kvinde", 
+        "håndboldspiller", 
+        "kvindelig håndboldspiller"
+    ], 
+    "🤾‍♂️": [
+        "håndbold", 
+        "mand", 
+        "mandlig håndboldspiller", 
+        "håndboldspiller"
     ], 
     "🥀": [
         "afblomstret", 
@@ -6269,71 +8714,194 @@
         "ansigt med monokel"
     ], 
     "🧑": [
+        "voksen: medium teint", 
+        "voksen: medium til lys teint", 
+        "voksen: lys teint", 
         "voksen", 
-        "person"
+        "medium til mørk teint", 
+        "medium teint", 
+        "voksen: mørk teint", 
+        "voksen: medium til mørk teint", 
+        "person", 
+        "mørk teint", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "🧒": [
+        "barn: medium teint", 
+        "mørk teint", 
+        "barn: medium til lys teint", 
+        "barn: medium til mørk teint", 
         "ungt menneske", 
+        "medium teint", 
+        "barn: lys teint", 
+        "barn: mørk teint", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "medium til lys teint", 
         "barn"
     ], 
     "🧓": [
+        "gammel person: medium til mørk teint", 
+        "mørk teint", 
+        "gammel person: lys teint", 
+        "gammel person: medium til lys teint", 
+        "gammel person", 
+        "medium teint", 
         "ældre menneske", 
-        "gammel person"
+        "gammel person: medium teint", 
+        "gammel person: mørk teint", 
+        "medium til mørk teint", 
+        "lys teint", 
+        "medium til lys teint"
     ], 
     "🧔": [
+        "mand med skæg: medium teint", 
+        "mand med skæg: medium til mørk teint", 
+        "mørk teint", 
+        "medium til mørk teint", 
+        "mand med skæg: medium til lys teint", 
+        "fuldskæg", 
+        "medium teint", 
+        "lys teint", 
+        "mand med skæg: mørk teint", 
         "mand med skæg", 
-        "fuldskæg"
+        "mand med skæg: lys teint", 
+        "medium til lys teint"
     ], 
     "🧕": [
+        "kvinde med tørklæde: lys teint", 
+        "mørk teint", 
+        "kvinde med tørklæde: medium teint", 
+        "kvinde med tørklæde: medium til mørk teint", 
         "kvinde med tørklæde", 
+        "medium til mørk teint", 
+        "kvinde med tørklæde: medium til lys teint", 
+        "medium teint", 
+        "kvinde med tørklæde: mørk teint", 
+        "lys teint", 
         "hijab", 
-        "tørklæde"
+        "tørklæde", 
+        "medium til lys teint"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
         "dampbad", 
-        "person i damptåge", 
+        "kvinde", 
+        "kvinde i damptåge", 
         "sauna"
     ], 
-    "🧗": [
+    "🧖‍♂️": [
+        "dampbad", 
+        "person i damptåge", 
+        "mand i damptåge", 
+        "mand", 
+        "sauna"
+    ], 
+    "🧗‍♀️": [
         "klatring", 
         "bjerg", 
-        "bjergbestiger"
+        "bjergbestiger", 
+        "kvinde", 
+        "kvindelig bjergbestiger"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "klatring", 
+        "bjerg", 
+        "mandlig bjergbestiger", 
+        "mand"
+    ], 
+    "🧘‍♀️": [
         "lotusstilling", 
+        "kvinde i lotusstilling", 
         "yoga", 
-        "meditation"
+        "meditation", 
+        "kvinde"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "yoga", 
+        "meditation", 
+        "mand", 
+        "mand i lotusstilling"
+    ], 
+    "🧙‍♀️": [
+        "kvinde", 
+        "magiker", 
+        "kvindelig magiker", 
         "magi", 
         "mand", 
-        "magiker"
+        "troldkvinde"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
         "magi", 
-        "fe"
+        "mand", 
+        "mandlig magiker"
     ], 
-    "🧛": [
+    "🧚‍♀️": [
+        "kvindelig fe", 
+        "magi", 
+        "fe", 
+        "kvinde"
+    ], 
+    "🧚‍♂️": [
+        "magi", 
+        "mand", 
+        "mandlig fe"
+    ], 
+    "🧛‍♀️": [
         "Dracula", 
-        "vampyr"
+        "vampyr", 
+        "kvindelig vampyr"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Dracula", 
+        "mandlig vampyr"
+    ], 
+    "🧜‍♀️": [
+        "havfrue", 
+        "kvinde", 
+        "hav"
+    ], 
+    "🧜‍♂️": [
+        "mand", 
+        "havmand", 
         "havfolk", 
         "havvæsen", 
         "hav"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
         "magi", 
+        "elverkvinde", 
+        "kvinde"
+    ], 
+    "🧝‍♂️": [
+        "magi", 
+        "elvermand", 
+        "mand", 
         "elver"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "magi", 
+        "kvinde", 
+        "kvindelig magisk ånd"
+    ], 
+    "🧞‍♂️": [
         "magisk ånd", 
         "lampe", 
-        "magi"
+        "mand", 
+        "magi", 
+        "mandlig magisk ånd"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "levende død", 
+        "kvinde", 
+        "kvindelig zombie"
+    ], 
+    "🧟‍♂️": [
         "zombie", 
-        "levende død"
+        "lavende død", 
+        "levende død", 
+        "mand", 
+        "mandlig zombie"
     ], 
     "🧠": [
         "intelligent", 

@@ -1,4 +1,126 @@
 {
+    "#️⃣": [
+        "mũ phím: #", 
+        "mũ phím"
+    ], 
+    "*️⃣": [
+        "mũ phím: *", 
+        "mũ phím"
+    ], 
+    "0️⃣": [
+        "mũ phím: 0", 
+        "mũ phím"
+    ], 
+    "1️⃣": [
+        "mũ phím: 1", 
+        "mũ phím"
+    ], 
+    "2️⃣": [
+        "mũ phím: 2", 
+        "mũ phím"
+    ], 
+    "3️⃣": [
+        "mũ phím: 3", 
+        "mũ phím"
+    ], 
+    "4️⃣": [
+        "mũ phím: 4", 
+        "mũ phím"
+    ], 
+    "5️⃣": [
+        "mũ phím: 5", 
+        "mũ phím"
+    ], 
+    "6️⃣": [
+        "mũ phím: 6", 
+        "mũ phím"
+    ], 
+    "7️⃣": [
+        "mũ phím: 7", 
+        "mũ phím"
+    ], 
+    "8️⃣": [
+        "mũ phím: 8", 
+        "mũ phím"
+    ], 
+    "9️⃣": [
+        "mũ phím: 9", 
+        "mũ phím"
+    ], 
+    "©️": [
+        "bản quyền"
+    ], 
+    "®️": [
+        "đã đăng ký"
+    ], 
+    "‼️": [
+        "chấm", 
+        "chấm than", 
+        "dấu chấm than kép", 
+        "chấm câu", 
+        "cảm thán"
+    ], 
+    "⁉️": [
+        "dấu hỏi", 
+        "dấu chấm than và dấu chấm hỏi", 
+        "chấm câu", 
+        "cảm thán", 
+        "chấm", 
+        "chấm than"
+    ], 
+    "™️": [
+        "tm", 
+        "dấu", 
+        "nhãn hiệu"
+    ], 
+    "ℹ️": [
+        "i", 
+        "thông tin"
+    ], 
+    "↔️": [
+        "mũi tên trái phải", 
+        "mũi tên"
+    ], 
+    "↕️": [
+        "mũi tên lên xuống", 
+        "mũi tên"
+    ], 
+    "↖️": [
+        "hướng", 
+        "tây bắc", 
+        "nhiều hướng", 
+        "mũi tên lên sang trái", 
+        "mũi tên"
+    ], 
+    "↗️": [
+        "đông bắc", 
+        "hướng", 
+        "mũi tên lên sang phải", 
+        "nhiều hướng", 
+        "mũi tên"
+    ], 
+    "↘️": [
+        "hướng", 
+        "nhiều hướng", 
+        "mũi tên xuống sang phải", 
+        "mũi tên", 
+        "đông nam"
+    ], 
+    "↙️": [
+        "hướng", 
+        "tây nam", 
+        "nhiều hướng", 
+        "mũi tên xuống sang trái", 
+        "mũi tên"
+    ], 
+    "↩️": [
+        "mũi tên", 
+        "mũi tên phải cong sang trái"
+    ], 
+    "↪️": [
+        "mũi tên trái cong sang phải", 
+        "mũi tên"
+    ], 
     "⌚": [
         "đồng hồ"
     ], 
@@ -6,6 +128,14 @@
         "bộ định thời", 
         "cát", 
         "đồng hồ cát đã chảy hết"
+    ], 
+    "⌨️": [
+        "bàn phím", 
+        "máy tính"
+    ], 
+    "⏏️": [
+        "nút đẩy ra", 
+        "bỏ qua"
     ], 
     "⏩": [
         "nút tua đi nhanh", 
@@ -31,9 +161,40 @@
         "nút xuống nhanh", 
         "mũi tên"
     ], 
+    "⏭️": [
+        "nút bài tiếp theo", 
+        "tam giác", 
+        "mũi tên", 
+        "cảnh tiếp theo", 
+        "bài hát kế tiếp"
+    ], 
+    "⏮️": [
+        "cảnh trước", 
+        "bản nhạc trước", 
+        "tam giác", 
+        "nút bài cuối", 
+        "mũi tên"
+    ], 
+    "⏯️": [
+        "tạm dừng", 
+        "tam giác", 
+        "bên phải", 
+        "nút phát hoặc tạm dừng", 
+        "phát", 
+        "mũi tên"
+    ], 
     "⏰": [
         "báo thức", 
         "đồng hồ báo thức", 
+        "đồng hồ"
+    ], 
+    "⏱️": [
+        "đồng hồ bấm giờ", 
+        "đồng hồ"
+    ], 
+    "⏲️": [
+        "đồng hồ hẹn giờ", 
+        "bộ định thời", 
         "đồng hồ"
     ], 
     "⏳": [
@@ -41,6 +202,62 @@
         "đồng hồ cát đang chảy", 
         "bộ định thời", 
         "cát"
+    ], 
+    "⏸️": [
+        "kép", 
+        "tạm dừng", 
+        "dọc", 
+        "thanh", 
+        "nút tạm dừng"
+    ], 
+    "⏹️": [
+        "dừng", 
+        "nút dừng", 
+        "hình vuông"
+    ], 
+    "⏺️": [
+        "nút ghi", 
+        "ghi lại", 
+        "hình tròn"
+    ], 
+    "Ⓜ️": [
+        "chữ M trong hình tròn", 
+        "m", 
+        "hình tròn"
+    ], 
+    "▪️": [
+        "hình vuông nhỏ màu đen", 
+        "hình học", 
+        "hình vuông"
+    ], 
+    "▫️": [
+        "hình vuông nhỏ màu trắng", 
+        "hình học", 
+        "hình vuông"
+    ], 
+    "▶️": [
+        "nút phát", 
+        "tam giác", 
+        "bên phải", 
+        "mũi tên", 
+        "phát"
+    ], 
+    "◀️": [
+        "đảo ngược", 
+        "nút đảo ngược", 
+        "tam giác", 
+        "mũi tên", 
+        "thoát"
+    ], 
+    "◻️": [
+        "hình vuông trung bình màu trắng", 
+        "hình học", 
+        "hình vuông"
+    ], 
+    "◼️": [
+        "hình vuông trung bình màu đen", 
+        "hình học", 
+        "hình vuông"
     ], 
     "◽": [
         "hình vuông nhỏ vừa màu trắng", 
@@ -51,6 +268,43 @@
         "hình vuông nhỏ vừa màu đen", 
         "hình học", 
         "hình vuông"
+    ], 
+    "☀️": [
+        "sáng", 
+        "nắng", 
+        "mặt trời", 
+        "thời tiết", 
+        "tia", 
+        "vũ trụ"
+    ], 
+    "☁️": [
+        "thời tiết", 
+        "đám mây"
+    ], 
+    "☂️": [
+        "quần áo", 
+        "thời tiết", 
+        "mưa", 
+        "cái ô"
+    ], 
+    "☃️": [
+        "tuyết", 
+        "lạnh", 
+        "thời tiết", 
+        "người tuyết"
+    ], 
+    "☄️": [
+        "sao chổi", 
+        "vũ trụ"
+    ], 
+    "☎️": [
+        "điện thoại"
+    ], 
+    "☑️": [
+        "hộp kiểm có dấu kiểm", 
+        "lá phiếu", 
+        "cái hộp", 
+        "kiểm tra"
     ], 
     "☔": [
         "chiếc ô", 
@@ -68,6 +322,89 @@
         "đồ uống", 
         "cà phê", 
         "trà"
+    ], 
+    "☘️": [
+        "thực vật", 
+        "cỏ ba lá"
+    ], 
+    "☝️": [
+        "trỏ", 
+        "ngón tay", 
+        "tay", 
+        "lên", 
+        "ngón trỏ", 
+        "ngón trỏ chỉ lên trên", 
+        "cơ thể người"
+    ], 
+    "☠️": [
+        "xương bắt chéo", 
+        "cái chết", 
+        "sọ", 
+        "khuôn mặt", 
+        "con quái vật", 
+        "đầu lâu xương chéo", 
+        "cơ thể người"
+    ], 
+    "☢️": [
+        "phóng xạ", 
+        "ký hiệu"
+    ], 
+    "☣️": [
+        "ký hiệu", 
+        "chất độc sinh học"
+    ], 
+    "☦️": [
+        "chữ thập", 
+        "cơ đốc", 
+        "tôn giáo", 
+        "thánh giá chính thống giáo"
+    ], 
+    "☪️": [
+        "hồi giáo", 
+        "sao và trăng lưỡi liềm", 
+        "người theo đạo hồi", 
+        "tôn giáo"
+    ], 
+    "☮️": [
+        "biểu tượng hòa bình", 
+        "hòa bình"
+    ], 
+    "☯️": [
+        "dương", 
+        "tôn giáo", 
+        "âm", 
+        "đạo", 
+        "âm dương", 
+        "người theo đạo"
+    ], 
+    "☸️": [
+        "bánh xe", 
+        "pháp luân", 
+        "tôn giáo", 
+        "pháp", 
+        "phật giáo"
+    ], 
+    "☹️": [
+        "cau mày", 
+        "mặt cau mày", 
+        "mặt"
+    ], 
+    "☺️": [
+        "thoải mái", 
+        "mặt", 
+        "thư giãn", 
+        "mặt cười", 
+        "cười"
+    ], 
+    "♀️": [
+        "phụ nữ", 
+        "nữ", 
+        "ký hiệu nữ"
+    ], 
+    "♂️": [
+        "ký hiệu nam", 
+        "đàn ông", 
+        "nam"
     ], 
     "♈": [
         "cung hoàng đạo", 
@@ -133,14 +470,102 @@
         "song ngư", 
         "con cá"
     ], 
+    "♠️": [
+        "thẻ", 
+        "bích", 
+        "trò chơi", 
+        "bộ bích", 
+        "bộ"
+    ], 
+    "♣️": [
+        "nhép", 
+        "bộ", 
+        "quân nhép", 
+        "thẻ", 
+        "bộ nhép", 
+        "trò chơi"
+    ], 
+    "♥️": [
+        "cơ", 
+        "bộ cơ", 
+        "quân cơ", 
+        "bộ", 
+        "thẻ", 
+        "trò chơi"
+    ], 
+    "♦️": [
+        "bộ rô", 
+        "rô", 
+        "quân rô", 
+        "bộ", 
+        "thẻ", 
+        "trò chơi"
+    ], 
+    "♨️": [
+        "nóng", 
+        "suối", 
+        "hơi nước", 
+        "suối nước nóng"
+    ], 
+    "♻️": [
+        "tái chế", 
+        "biểu tượng tái chế"
+    ], 
     "♿": [
         "biểu tượng xe lăn", 
         "lối vào"
+    ], 
+    "⚒️": [
+        "búa", 
+        "búa và cuốc", 
+        "cuốc", 
+        "dụng cụ"
     ], 
     "⚓": [
         "tàu", 
         "mỏ neo", 
         "dụng cụ"
+    ], 
+    "⚔️": [
+        "gươm", 
+        "vũ khí", 
+        "kiếm bắt chéo"
+    ], 
+    "⚕️": [
+        "y học", 
+        "biểu tượng y tế", 
+        "rắn thần", 
+        "cán bộ"
+    ], 
+    "⚖️": [
+        "cân nặng", 
+        "cân thăng bằng", 
+        "thiên bình", 
+        "công bằng", 
+        "dụng cụ", 
+        "cung hoàng đạo", 
+        "cân"
+    ], 
+    "⚗️": [
+        "hóa học", 
+        "nồi chưng", 
+        "dụng cụ"
+    ], 
+    "⚙️": [
+        "bánh răng", 
+        "dụng cụ"
+    ], 
+    "⚛️": [
+        "người vô thần", 
+        "biểu tượng nguyên tử", 
+        "nguyên tử"
+    ], 
+    "⚜️": [
+        "hoa bách hợp", 
+        "hoa irit"
+    ], 
+    "⚠️": [
+        "cảnh báo"
     ], 
     "⚡": [
         "điện", 
@@ -160,6 +585,16 @@
         "hình tròn màu đen", 
         "hình học", 
         "hình tròn"
+    ], 
+    "⚰️": [
+        "cái chết", 
+        "quan tài"
+    ], 
+    "⚱️": [
+        "tang lễ", 
+        "bình đựng di cốt", 
+        "cái chết", 
+        "bình đựng tro cốt"
     ], 
     "⚽": [
         "bóng đá", 
@@ -182,12 +617,35 @@
         "mặt trời sau đám mây", 
         "mặt trời"
     ], 
+    "⛈️": [
+        "đám mây với tia chớp và mưa", 
+        "sấm", 
+        "thời tiết", 
+        "mưa", 
+        "mây"
+    ], 
     "⛎": [
         "vật mang", 
         "cung hoàng đạo", 
         "Xà Phu", 
         "con rắn", 
         "rắn"
+    ], 
+    "⛏️": [
+        "cuốc", 
+        "khai thác", 
+        "dụng cụ"
+    ], 
+    "⛑️": [
+        "chữ thập", 
+        "cái mũ", 
+        "mũ bảo hiểm của lính cứu hộ", 
+        "cứu", 
+        "khuôn mặt", 
+        "nón bảo hộ"
+    ], 
+    "⛓️": [
+        "dây xích"
     ], 
     "⛔": [
         "cấm", 
@@ -198,12 +656,28 @@
         "miễn vào", 
         "lối vào"
     ], 
+    "⛩️": [
+        "tôn giáo", 
+        "đền thờ", 
+        "đền thờ shinto"
+    ], 
     "⛪": [
         "nhà thờ", 
         "tôn giáo", 
         "chữ thập", 
         "đạo cơ đốc", 
         "tòa nhà"
+    ], 
+    "⛰️": [
+        "ngọn núi", 
+        "núi"
+    ], 
+    "⛱️": [
+        "mưa", 
+        "thời tiết", 
+        "chiếc ô", 
+        "cái ô trên mặt đất", 
+        "mặt trời"
     ], 
     "⛲": [
         "đài phun nước", 
@@ -214,6 +688,10 @@
         "cờ trong lỗ", 
         "lỗ"
     ], 
+    "⛴️": [
+        "phà", 
+        "thuyền"
+    ], 
     "⛵": [
         "thuyền", 
         "xe cộ", 
@@ -221,6 +699,19 @@
         "biển", 
         "khu nghỉ mát", 
         "du thuyền"
+    ], 
+    "⛷️": [
+        "người sử dụng ván trượt tuyết", 
+        "trượt tuyết", 
+        "tuyết"
+    ], 
+    "⛸️": [
+        "băng", 
+        "giày trượt băng"
+    ], 
+    "⛹️‍♂️": [
+        "người chơi bóng", 
+        "quả bóng"
     ], 
     "⛺": [
         "lều", 
@@ -233,28 +724,126 @@
         "bơm nhiên liệu", 
         "nhiên liệu"
     ], 
+    "✂️": [
+        "kéo", 
+        "dụng cụ"
+    ], 
     "✅": [
         "dấu", 
         "chọn", 
         "dầu kiểm đậm màu trắng"
     ], 
+    "✈️": [
+        "xe cộ", 
+        "máy bay"
+    ], 
+    "✉️": [
+        "phong bì", 
+        "e-mail", 
+        "email"
+    ], 
     "✊": [
         "nắm tay", 
+        "nắm đấm giơ lên: màu da sáng", 
         "cú đấm", 
+        "màu da tối", 
+        "màu da trung bình", 
         "siết chặt", 
+        "nắm đấm giơ lên: màu da sáng trung bình", 
         "tay", 
+        "màu da sáng trung bình", 
+        "nắm đấm giơ lên: màu da tối", 
+        "màu da tối trung bình", 
         "nắm đấm giơ lên", 
-        "cơ thể người"
+        "màu da sáng", 
+        "nắm đấm giơ lên: màu da tối trung bình", 
+        "cơ thể người", 
+        "nắm đấm giơ lên: màu da trung bình"
     ], 
     "✋": [
         "bàn tay giơ lên", 
+        "bàn tay giơ lên: màu da tối trung bình", 
+        "màu da trung bình", 
+        "bàn tay giơ lên: màu da sáng trung bình", 
+        "bàn tay giơ lên: màu da sáng", 
+        "tay", 
+        "bàn tay giơ lên: màu da tối", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "bàn tay giơ lên: màu da trung bình", 
+        "cơ thể người", 
+        "màu da tối"
+    ], 
+    "✌️": [
+        "tay chiến thắng", 
+        "chiến thắng", 
+        "tay", 
+        "cơ thể người", 
+        "v"
+    ], 
+    "✍️": [
+        "bàn tay đang viết", 
+        "viết", 
         "tay", 
         "cơ thể người"
+    ], 
+    "✏️": [
+        "bút chì"
+    ], 
+    "✒️": [
+        "ngòi bút đen", 
+        "ngòi", 
+        "bút"
+    ], 
+    "✔️": [
+        "dấu kiểm đậm", 
+        "dấu", 
+        "chọn"
+    ], 
+    "✖️": [
+        "x", 
+        "dấu nhân đậm", 
+        "hủy bỏ", 
+        "nhân", 
+        "phép nhân"
+    ], 
+    "✝️": [
+        "thánh giá la-tinh", 
+        "chữ thập", 
+        "cơ đốc", 
+        "tôn giáo"
+    ], 
+    "✡️": [
+        "người do thái", 
+        "ngôi sao", 
+        "tôn giáo", 
+        "do thái", 
+        "david", 
+        "ngôi sao sáu cánh"
     ], 
     "✨": [
         "ánh lấp lánh", 
         "ngôi sao", 
         "lấp lánh"
+    ], 
+    "✳️": [
+        "hoa thị tám cánh", 
+        "hoa thị"
+    ], 
+    "✴️": [
+        "sao", 
+        "sao tám cánh"
+    ], 
+    "❄️": [
+        "bông tuyết", 
+        "lạnh", 
+        "thời tiết", 
+        "tuyết"
+    ], 
+    "❇️": [
+        "chói sáng", 
+        "tia lửa"
     ], 
     "❌": [
         "phép nhân", 
@@ -295,6 +884,17 @@
         "dấu", 
         "cảm thán"
     ], 
+    "❣️": [
+        "chấm", 
+        "dấu chấm than hình trái tim đậm", 
+        "chấm câu", 
+        "hình trái tim", 
+        "cảm thán"
+    ], 
+    "❤️": [
+        "trái tim", 
+        "trái tim màu đỏ"
+    ], 
     "➕": [
         "dấu cộng đậm", 
         "dấu cộng", 
@@ -310,6 +910,13 @@
         "dấu chia đậm", 
         "toán"
     ], 
+    "➡️": [
+        "hướng", 
+        "mũi tên phải", 
+        "đông", 
+        "chính", 
+        "mũi tên"
+    ], 
     "➰": [
         "vòng lặp", 
         "cong"
@@ -318,6 +925,37 @@
         "kép", 
         "vòng lặp kép", 
         "cong"
+    ], 
+    "⤴️": [
+        "mũi tên phải cong lên", 
+        "mũi tên"
+    ], 
+    "⤵️": [
+        "xuống", 
+        "mũi tên phải cong xuống", 
+        "mũi tên"
+    ], 
+    "⬅️": [
+        "tây", 
+        "mũi tên trái", 
+        "chiều hướng", 
+        "chính", 
+        "mũi tên"
+    ], 
+    "⬆️": [
+        "bắc", 
+        "hướng", 
+        "mũi tên lên", 
+        "chính", 
+        "mũi tên"
+    ], 
+    "⬇️": [
+        "xuống", 
+        "mũi tên xuống", 
+        "nam", 
+        "hướng", 
+        "chính", 
+        "mũi tên"
     ], 
     "⬛": [
         "hình học", 
@@ -338,6 +976,29 @@
         "vòng tròn", 
         "o"
     ], 
+    "〰️": [
+        "dấu gạch ngang lượn sóng", 
+        "gợn sóng", 
+        "gạch ngang", 
+        "dấu"
+    ], 
+    "〽️": [
+        "phần", 
+        "dấu thay đổi luân phiên riêng", 
+        "dấu"
+    ], 
+    "㊗️": [
+        "chữ tượng hình", 
+        "chúc mừng", 
+        "chữ tượng hình chúc mừng trong hình tròn", 
+        "tiếng trung"
+    ], 
+    "㊙️": [
+        "bí mật", 
+        "chữ tượng hình", 
+        "chữ tượng hình bí mật trong hình tròn", 
+        "tiếng trung"
+    ], 
     "🀄": [
         "đỏ", 
         "mạt chược rồng đỏ", 
@@ -349,6 +1010,25 @@
         "trò chơi", 
         "quân phăng teo", 
         "chơi"
+    ], 
+    "🅰️": [
+        "a", 
+        "máu", 
+        "nút A (nhóm máu)"
+    ], 
+    "🅱️": [
+        "b", 
+        "nút B (nhóm máu)", 
+        "máu"
+    ], 
+    "🅾️": [
+        "nút O (nhóm máu)", 
+        "o", 
+        "máu"
+    ], 
+    "🅿️": [
+        "đoỗ xe", 
+        "nút P"
     ], 
     "🆎": [
         "ab", 
@@ -1435,6 +2115,10 @@
         "tiếng nhật", 
         "chữ kolo katakana trong hình vuông"
     ], 
+    "🈂️": [
+        "chữ sa katakana trong hình vuông", 
+        "tiếng nhật"
+    ], 
     "🈚": [
         "tiếng nhật", 
         "chữ tượng hình phủ định trong hình vuông"
@@ -1462,6 +2146,10 @@
     "🈶": [
         "tiếng nhật", 
         "chữ tượng hình tồn tại trong hình vuông"
+    ], 
+    "🈷️": [
+        "tiếng nhật", 
+        "chữ tượng hình trăng trong hình vuông"
     ], 
     "🈸": [
         "chữ tượng hình áp dụng trong hình vuông", 
@@ -1716,6 +2404,67 @@
         "bắn", 
         "rơi"
     ], 
+    "🌡️": [
+        "thời tiết", 
+        "nhiệt kế"
+    ], 
+    "🌤️": [
+        "mây", 
+        "thời tiết", 
+        "mặt trời sau đám mây nhỏ", 
+        "mặt trời"
+    ], 
+    "🌥️": [
+        "mặt trời sau đám mây lớn", 
+        "thời tiết", 
+        "mây", 
+        "mặt trời"
+    ], 
+    "🌦️": [
+        "mặt trời sau đám mây mưa", 
+        "thời tiết", 
+        "mây", 
+        "mưa", 
+        "mặt trời"
+    ], 
+    "🌧️": [
+        "mây và mưa", 
+        "thời tiết", 
+        "mưa", 
+        "mây"
+    ], 
+    "🌨️": [
+        "tuyết", 
+        "lạnh", 
+        "thời tiết", 
+        "mây và tuyết", 
+        "mây"
+    ], 
+    "🌩️": [
+        "mây và sét", 
+        "thời tiết", 
+        "sét", 
+        "mây"
+    ], 
+    "🌪️": [
+        "thời tiết", 
+        "mây", 
+        "cơn lốc", 
+        "lốc xoáy"
+    ], 
+    "🌫️": [
+        "thời tiết", 
+        "sương mù", 
+        "mây"
+    ], 
+    "🌬️": [
+        "khuôn mặt", 
+        "mặt gió", 
+        "gió", 
+        "mây", 
+        "thời tiết", 
+        "thổi"
+    ], 
     "🌭": [
         "lạp xưởng", 
         "dồi", 
@@ -1756,6 +2505,11 @@
     "🌵": [
         "thực vật", 
         "cây xương rồng"
+    ], 
+    "🌶️": [
+        "nóng", 
+        "quả ớt", 
+        "thực vật"
     ], 
     "🌷": [
         "thực vật", 
@@ -2163,6 +2917,13 @@
         "bình sữa trẻ em", 
         "uống"
     ], 
+    "🍽️": [
+        "nĩa", 
+        "dĩa và dao với đĩa", 
+        "dao", 
+        "đĩa", 
+        "nấu nướng"
+    ], 
     "🍾": [
         "chai có nút bật lên", 
         "bật lên", 
@@ -2210,10 +2971,20 @@
     "🎅": [
         "cha", 
         "Ông già Noel", 
+        "Ông già Noel: màu da sáng trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
         "truyện cổ tích", 
+        "Ông già Noel: màu da sáng", 
+        "màu da sáng trung bình", 
+        "Ông già Noel: màu da tối trung bình", 
         "lễ kỷ niệm", 
         "giáng sinh", 
         "ông già noel", 
+        "Ông già Noel: màu da tối", 
+        "màu da tối trung bình", 
+        "Ông già Noel: màu da trung bình", 
+        "màu da sáng", 
         "tưởng tượng"
     ], 
     "🎆": [
@@ -2303,6 +3074,48 @@
         "lễ kỷ niệm", 
         "quần áo", 
         "tốt nghiệp"
+    ], 
+    "🎖️": [
+        "huân chương quân đội", 
+        "lễ kỷ niệm", 
+        "quân sự", 
+        "huy chương"
+    ], 
+    "🎗️": [
+        "lễ kỷ niệm", 
+        "dây băng", 
+        "nhắc nhở", 
+        "ruy băng nhắc nhở"
+    ], 
+    "🎙️": [
+        "phòng thu", 
+        "micrô phòng thu âm", 
+        "mic", 
+        "micrô", 
+        "nhạc"
+    ], 
+    "🎚️": [
+        "nhạc", 
+        "cấp độ", 
+        "thanh trượt cấp độ", 
+        "thanh trượt"
+    ], 
+    "🎛️": [
+        "nhạc", 
+        "điều khiển", 
+        "núm điều khiển", 
+        "núm"
+    ], 
+    "🎞️": [
+        "phim", 
+        "khung hình phim", 
+        "khung", 
+        "rạp chiếu bóng"
+    ], 
+    "🎟️": [
+        "vào cửa", 
+        "vé vào cửa", 
+        "vé"
     ], 
     "🎠": [
         "ngựa đu quay", 
@@ -2495,19 +3308,52 @@
         "ca rô"
     ], 
     "🏂": [
-        "tấm chắn tuyết", 
-        "trượt tuyết", 
+        "màu da tối", 
+        "màu da trung bình", 
         "tuyết", 
-        "người trượt ván tuyết"
+        "người trượt ván tuyết", 
+        "tấm chắn tuyết", 
+        "người trượt ván tuyết: màu da tối trung bình", 
+        "người trượt ván tuyết: màu da tối", 
+        "người trượt ván tuyết: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "người trượt ván tuyết: màu da trung bình", 
+        "màu da sáng", 
+        "trượt tuyết", 
+        "người trượt ván tuyết: màu da sáng"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "chạy", 
+        "đua", 
+        "nữ", 
+        "người phụ nữ đang chạy", 
+        "phụ nữ", 
+        "maratông"
+    ], 
+    "🏃‍♂️": [
+        "người đàn ông", 
+        "người đàn ông đang chạy", 
+        "đang chạy", 
+        "nam", 
         "người chạy", 
-        "chạy đua maratông", 
-        "chạy bộ"
+        "chạy bộ", 
+        "đua xe", 
+        "maratông", 
+        "chạy đua maratông"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "phụ nữ", 
+        "người phụ nữ lướt sóng", 
+        "lướt", 
+        "nữ"
+    ], 
+    "🏄‍♂️": [
         "người lướt sóng", 
-        "lướt sóng"
+        "lướt sóng", 
+        "người đàn ông lướt sóng", 
+        "người đàn ông", 
+        "nam"
     ], 
     "🏅": [
         "huy chương thể thao", 
@@ -2518,11 +3364,21 @@
         "giải thưởng"
     ], 
     "🏇": [
-        "cuộc đua", 
+        "màu da tối", 
+        "màu da trung bình", 
         "con ngựa", 
-        "người cưỡi ngựa đua", 
+        "ngựa đua", 
+        "đua ngựa: màu da sáng", 
+        "đua ngựa: màu da sáng trung bình", 
+        "cuộc đua", 
+        "màu da sáng trung bình", 
         "đua ngựa", 
-        "ngựa đua"
+        "màu da tối trung bình", 
+        "đua ngựa: màu da tối trung bình", 
+        "màu da sáng", 
+        "người cưỡi ngựa đua", 
+        "đua ngựa: màu da tối", 
+        "đua ngựa: màu da trung bình"
     ], 
     "🏈": [
         "bóng đá", 
@@ -2535,9 +3391,36 @@
         "quả bóng", 
         "bóng bầu dục"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "phụ nữ", 
+        "người phụ nữ đang bơi", 
+        "bơi", 
+        "nữ"
+    ], 
+    "🏊‍♂️": [
+        "người đàn ông", 
         "người bơi", 
-        "bơi"
+        "người đàn ông đang bơi", 
+        "bơi", 
+        "nam"
+    ], 
+    "🏋️‍♂️": [
+        "người cử tạ", 
+        "trọng lượng"
+    ], 
+    "🏌️‍♂️": [
+        "gôn", 
+        "quả bóng", 
+        "người chơi gôn"
+    ], 
+    "🏍️": [
+        "xe máy", 
+        "đua xe"
+    ], 
+    "🏎️": [
+        "xe", 
+        "xe đua", 
+        "đua xe"
     ], 
     "🏏": [
         "con dơi", 
@@ -2571,6 +3454,61 @@
         "quả bóng", 
         "bóng bàn", 
         "vợt đánh bóng"
+    ], 
+    "🏔️": [
+        "đỉnh núi phủ tuyết", 
+        "lạnh", 
+        "tuyết", 
+        "núi"
+    ], 
+    "🏕️": [
+        "cắm trại"
+    ], 
+    "🏖️": [
+        "bãi biển", 
+        "bãi biển với chiếc ô", 
+        "ô"
+    ], 
+    "🏗️": [
+        "công trường xây dựng", 
+        "tòa nhà", 
+        "xây dựng"
+    ], 
+    "🏘️": [
+        "những ngôi nhà", 
+        "tòa nhà", 
+        "ngôi nhà"
+    ], 
+    "🏙️": [
+        "khung cảnh thành phố", 
+        "thành phố", 
+        "tòa nhà"
+    ], 
+    "🏚️": [
+        "ngôi nhà bỏ hoang", 
+        "bỏ hoang", 
+        "tòa nhà", 
+        "ngôi nhà"
+    ], 
+    "🏛️": [
+        "cổ điển", 
+        "tòa nhà", 
+        "tòa nhà cổ điển"
+    ], 
+    "🏜️": [
+        "sa mạc"
+    ], 
+    "🏝️": [
+        "đảo", 
+        "sa mạc", 
+        "đảo hoang"
+    ], 
+    "🏞️": [
+        "công viên", 
+        "công viên quốc gia"
+    ], 
+    "🏟️": [
+        "sân vận động"
     ], 
     "🏠": [
         "tòa nhà", 
@@ -2663,6 +3601,15 @@
         "lâu đài", 
         "kiểu châu âu"
     ], 
+    "🏳️": [
+        "vẫy", 
+        "cờ trắng"
+    ], 
+    "🏳️‍🌈": [
+        "cờ", 
+        "cầu vồng", 
+        "cờ cầu vồng"
+    ], 
     "🏴": [
         "vẫy", 
         "cờ đen"
@@ -2678,6 +3625,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "cờ", 
         "Xứ Wales"
+    ], 
+    "🏵️": [
+        "thực vật", 
+        "nơ hoa hồng"
+    ], 
+    "🏷️": [
+        "nhãn"
     ], 
     "🏸": [
         "trái cầu lông", 
@@ -3032,19 +3986,47 @@
         "dấu", 
         "chân"
     ], 
+    "🐿️": [
+        "con sóc", 
+        "sóc chuột"
+    ], 
     "👀": [
         "khuôn mặt", 
         "mắt", 
         "cơ thể người", 
         "đôi mắt"
     ], 
+    "👁️": [
+        "cơ thể", 
+        "mắt"
+    ], 
     "👂": [
         "cơ thể", 
-        "tai"
+        "màu da trung bình", 
+        "tai: màu da sáng", 
+        "tai: màu da trung bình", 
+        "tai: màu da tối trung bình", 
+        "màu da sáng trung bình", 
+        "tai: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "tai: màu da tối", 
+        "tai", 
+        "màu da tối"
     ], 
     "👃": [
         "mũi", 
-        "cơ thể"
+        "cơ thể", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "mũi: màu da sáng", 
+        "mũi: màu da trung bình", 
+        "mũi: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "mũi: màu da tối", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "mũi: màu da tối trung bình"
     ], 
     "👄": [
         "môi", 
@@ -3056,88 +4038,198 @@
         "lưỡi"
     ], 
     "👆": [
+        "ngón trỏ trái chỉ lên: màu da trung bình", 
         "trỏ", 
         "ngón tay", 
+        "màu da trung bình", 
         "ngón trỏ trái chỉ lên", 
+        "ngón trỏ trái chỉ lên: màu da tối", 
+        "ngón trỏ trái chỉ lên: màu da sáng", 
         "tay", 
         "tay sấp", 
+        "ngón trỏ trái chỉ lên: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "ngón trỏ trái chỉ lên: màu da tối trung bình", 
+        "màu da tối trung bình", 
         "lên", 
         "ngón trỏ", 
-        "cơ thể người"
+        "màu da sáng", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "👇": [
+        "ngón trỏ trái chỉ xuống: màu da sáng", 
         "trỏ", 
         "ngón tay", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "ngón trỏ trái chỉ xuống: màu da trung bình", 
         "tay", 
         "tay sấp", 
         "ngón trỏ trái chỉ xuống", 
+        "màu da sáng trung bình", 
+        "ngón trỏ trái chỉ xuống: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "ngón trỏ", 
+        "ngón trỏ trái chỉ xuống: màu da tối trung bình", 
+        "ngón trỏ trái chỉ xuống: màu da tối", 
         "cơ thể người"
     ], 
     "👈": [
+        "ngón trỏ trái chỉ sang trái: màu da tối", 
+        "ngón trỏ trái chỉ sang trái: màu da sáng trung bình", 
         "trỏ", 
         "ngón tay", 
+        "màu da tối", 
+        "màu da trung bình", 
         "ngón trỏ trái chỉ sang trái", 
         "tay", 
         "tay sấp", 
+        "ngón trỏ trái chỉ sang trái: màu da tối trung bình", 
+        "ngón trỏ trái chỉ sang trái: màu da sáng", 
+        "ngón trỏ trái chỉ sang trái: màu da trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "ngón trỏ", 
+        "màu da sáng trung bình", 
         "cơ thể người"
     ], 
     "👉": [
         "trỏ", 
         "ngón tay", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "ngón trỏ trái chỉ sang phải: màu da tối trung bình", 
         "tay", 
         "tay sấp", 
+        "màu da sáng trung bình", 
+        "ngón trỏ trái chỉ sang phải: màu da sáng", 
         "cơ thể người", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "ngón trỏ trái chỉ sang phải: màu da trung bình", 
         "ngón trỏ", 
+        "ngón trỏ trái chỉ sang phải: màu da tối", 
+        "ngón trỏ trái chỉ sang phải: màu da sáng trung bình", 
         "ngón trỏ trái chỉ sang phải"
     ], 
     "👊": [
         "nắm tay", 
+        "nắm đấm: màu da trung bình", 
         "cú đấm", 
+        "màu da tối", 
+        "màu da trung bình", 
         "siết chặt", 
         "tay", 
+        "nắm đấm: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "nắm đấm: màu da tối trung bình", 
+        "nắm đấm: màu da sáng", 
+        "màu da tối trung bình", 
+        "nắm đấm: màu da tối", 
+        "màu da sáng", 
         "nắm đấm", 
         "cơ thể người"
     ], 
     "👋": [
-        "vẫy tay", 
+        "vẫy tay: màu da tối trung bình", 
+        "vẫy tay: màu da tối", 
+        "vẫy tay: màu da sáng trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
         "vẫy", 
         "tay", 
+        "vẫy tay: màu da sáng", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "vẫy tay", 
+        "màu da sáng", 
+        "vẫy tay: màu da trung bình", 
         "cơ thể người"
     ], 
     "👌": [
+        "bàn tay làm dấu OK: màu da sáng trung bình", 
+        "bàn tay làm dấu OK: màu da trung bình", 
         "ok", 
-        "cơ thể người", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "bàn tay làm dấu OK: màu da tối", 
+        "tay", 
         "bàn tay làm dấu OK", 
-        "tay"
+        "bàn tay làm dấu OK: màu da tối trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "bàn tay làm dấu OK: màu da sáng", 
+        "màu da sáng", 
+        "cơ thể người"
     ], 
     "👍": [
         "ngón tay cái", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "dấu ra hiệu đồng ý: màu da sáng", 
         "tay", 
+        "dấu ra hiệu đồng ý: màu da tối trung bình", 
+        "dấu ra hiệu đồng ý: màu da tối", 
         "+1", 
+        "dấu ra hiệu đồng ý: màu da trung bình", 
         "lên", 
         "dấu ra hiệu đồng ý", 
-        "cơ thể người"
+        "màu da sáng", 
+        "dấu ra hiệu đồng ý: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "👎": [
         "xuống", 
         "ngón tay cái", 
+        "dấu ra hiệu từ chối: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "dấu ra hiệu từ chối: màu da sáng", 
+        "dấu ra hiệu từ chối: màu da trung bình", 
         "tay", 
+        "màu da sáng trung bình", 
+        "dấu ra hiệu từ chối: màu da tối", 
         "-1", 
         "dấu ra hiệu từ chối", 
-        "cơ thể người"
+        "màu da sáng", 
+        "dấu ra hiệu từ chối: màu da tối trung bình", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "👏": [
-        "vỗ tay", 
+        "vỗ tay: màu da tối trung bình", 
+        "vỗ tay: màu da sáng", 
+        "màu da tối", 
+        "màu da trung bình", 
         "tay", 
+        "vỗ tay: màu da sáng trung bình", 
+        "vỗ tay: màu da tối", 
+        "màu da sáng trung bình", 
+        "vỗ tay", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "vỗ tay: màu da trung bình", 
         "cơ thể người"
     ], 
     "👐": [
-        "hai bàn tay đang xòe", 
         "mở ra", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "hai bàn tay đang xòe: màu da sáng trung bình", 
+        "hai bàn tay đang xòe: màu da tối", 
+        "hai bàn tay đang xòe", 
         "tay", 
-        "cơ thể người"
+        "hai bàn tay đang xòe: màu da sáng", 
+        "màu da sáng trung bình", 
+        "hai bàn tay đang xòe: màu da trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "cơ thể người", 
+        "hai bàn tay đang xòe: màu da tối trung bình"
     ], 
     "👑": [
         "quần áo", 
@@ -3257,75 +4349,214 @@
         "bóng"
     ], 
     "👦": [
+        "con trai: màu da tối", 
         "cậu bé", 
-        "con trai"
+        "con trai: màu da tối trung bình", 
+        "màu da trung bình", 
+        "con trai: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "con trai: màu da sáng", 
+        "màu da sáng", 
+        "con trai: màu da trung bình", 
+        "con trai", 
+        "màu da tối"
     ], 
     "👧": [
         "thời con gái", 
         "hoàng đạo", 
+        "màu da trung bình", 
+        "con gái: màu da sáng trung bình", 
         "xử nữ", 
+        "con gái: màu da tối", 
+        "gái trinh", 
+        "con gái: màu da trung bình", 
+        "con gái: màu da sáng", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "con gái", 
-        "gái trinh"
+        "con gái: màu da tối trung bình", 
+        "màu da tối"
     ], 
     "👨": [
+        "nam: màu da tối trung bình", 
         "đàn ông", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "nam: màu da tối", 
+        "nam", 
+        "màu da sáng trung bình", 
+        "nam: màu da sáng", 
+        "màu da tối trung bình", 
+        "nam: màu da trung bình", 
+        "màu da sáng", 
+        "nam: màu da sáng trung bình"
+    ], 
+    "👨‍⚕️": [
+        "y tá", 
+        "người đàn ông", 
+        "trị liệu", 
+        "bác sĩ", 
+        "nam", 
+        "nhân viên y tế nam", 
+        "chăm sóc sức khỏe"
+    ], 
+    "👨‍⚖️": [
+        "cầm cân nảy mực", 
+        "thẩm phán nam", 
+        "công lý", 
+        "người đàn ông", 
         "nam"
+    ], 
+    "👨‍✈️": [
+        "người đàn ông", 
+        "phi công", 
+        "phi công nam", 
+        "máy bay", 
+        "nam"
+    ], 
+    "👨‍❤️‍👨": [
+        "cặp đôi", 
+        "hình trái tim", 
+        "yêu", 
+        "lãng mạn", 
+        "nam", 
+        "cặp đôi với trái tim", 
+        "cặp đôi với trái tim: nam, nam"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "cặp đôi", 
+        "nụ hôn: nam, nam", 
+        "nam", 
+        "lãng mạn", 
+        "nụ hôn"
     ], 
     "👨‍🌾": [
         "làm vườn", 
         "đàn ông", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "nông dân nam: màu da trung bình", 
+        "nông dân nam: màu da sáng", 
         "nông dân", 
         "nam", 
+        "nông dân nam: màu da tối", 
+        "màu da sáng trung bình", 
         "người nuôi súc vật", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "nông dân nam: màu da sáng trung bình", 
+        "nông dân nam: màu da tối trung bình", 
         "nông dân nam"
     ], 
     "👨‍🍳": [
-        "đầu bếp", 
+        "đầu bếp nam: màu da trung bình", 
         "bếp", 
         "đàn ông", 
         "nữ", 
-        "đầu bếp nam"
+        "màu da trung bình", 
+        "đầu bếp nam: màu da tối", 
+        "màu da sáng trung bình", 
+        "đầu bếp nam: màu da sáng trung bình", 
+        "đầu bếp", 
+        "đầu bếp nam: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "đầu bếp nam: màu da sáng", 
+        "đầu bếp nam", 
+        "màu da tối"
     ], 
     "👨‍🎓": [
+        "sinh viên nam: màu da trung bình", 
+        "sinh viên nam: màu da tối trung bình", 
         "người đàn ông", 
-        "tốt nghiệp", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "sinh viên nam: màu da sáng", 
+        "sinh viên nam: màu da tối", 
         "sinh viên nam", 
+        "nam", 
+        "sinh viên nam: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
         "sinh viên", 
-        "nam"
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "tốt nghiệp"
     ], 
     "👨‍🎤": [
         "người đàn ông", 
+        "nam ca sĩ: màu da trung bình", 
+        "màu da trung bình", 
+        "nam ca sĩ: màu da sáng", 
         "nam ca sĩ", 
+        "nam ca sĩ: màu da sáng trung bình", 
         "ngôi sao", 
         "nghệ sĩ", 
         "nam", 
         "ca sĩ", 
         "nhạc rock", 
-        "diễn viên"
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "diễn viên", 
+        "nam ca sĩ: màu da tối", 
+        "nam ca sĩ: màu da tối trung bình", 
+        "màu da tối"
     ], 
     "👨‍🎨": [
-        "họa sĩ nam", 
         "người đàn ông", 
-        "nam", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "họa sĩ nam", 
+        "họa sĩ nam: màu da tối trung bình", 
+        "họa sĩ nam: màu da sáng", 
         "nghệ sĩ", 
-        "bảng màu"
+        "nam", 
+        "màu da sáng trung bình", 
+        "họa sĩ nam: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "họa sĩ nam: màu da tối", 
+        "bảng màu", 
+        "họa sĩ nam: màu da trung bình"
     ], 
     "👨‍🏫": [
+        "giáo viên nam: màu da tối trung bình", 
         "giáo viên nam", 
         "giáo sư", 
         "giáo viên", 
+        "màu da trung bình", 
+        "màu da tối", 
+        "giáo viên nam: màu da tối", 
         "người đàn ông", 
         "nam", 
-        "người hướng dẫn"
+        "màu da sáng trung bình", 
+        "giáo viên nam: màu da trung bình", 
+        "người hướng dẫn", 
+        "màu da tối trung bình", 
+        "giáo viên nam: màu da sáng trung bình", 
+        "màu da sáng", 
+        "giáo viên nam: màu da sáng"
     ], 
     "👨‍🏭": [
         "lắp ráp", 
         "công nghiệp", 
+        "công nhân nhà máy nam: màu da sáng trung bình", 
+        "màu da trung bình", 
         "công nhân nhà máy nam", 
         "công nhân", 
+        "công nhân nhà máy nam: màu da trung bình", 
+        "công nhân nhà máy nam: màu da tối trung bình", 
         "người đàn ông", 
         "nam", 
-        "nhà máy"
+        "công nhân nhà máy nam: màu da tối", 
+        "nhà máy", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "màu da sáng trung bình", 
+        "công nhân nhà máy nam: màu da sáng", 
+        "màu da tối"
     ], 
     "👨‍👦": [
         "cha", 
@@ -3473,107 +4704,294 @@
     "👨‍💻": [
         "kỹ sư công nghệ nam", 
         "người đàn ông", 
+        "màu da tối", 
         "phần mềm", 
+        "màu da trung bình", 
         "người viết mật mã", 
+        "kỹ sư công nghệ nam: màu da trung bình", 
+        "kỹ sư công nghệ nam: màu da tối", 
         "kỹ thuật viên", 
         "nam", 
+        "màu da sáng trung bình", 
+        "kỹ sư công nghệ nam: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "nhà phát triển", 
-        "phát minh"
+        "phát minh", 
+        "kỹ sư công nghệ nam: màu da sáng", 
+        "kỹ sư công nghệ nam: màu da sáng trung bình"
     ], 
     "👨‍💼": [
         "người đàn ông", 
+        "nhân viên văn phòng nam: màu da sáng trung bình", 
+        "màu da trung bình", 
         "văn phòng", 
+        "màu da tối", 
+        "nhân viên văn phòng nam: màu da trung bình", 
+        "nhân viên văn phòng nam: màu da sáng", 
+        "nhân viên văn phòng nam: màu da tối", 
         "nam", 
         "công việc văn phòng", 
         "quản lý", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "nhân viên văn phòng nam", 
+        "màu da sáng trung bình", 
+        "nhân viên văn phòng nam: màu da tối trung bình", 
         "kinh doanh", 
         "kiến trúc sư"
     ], 
     "👨‍🔧": [
         "thợ sửa ống nước", 
         "người đàn ông", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "thợ máy nam: màu da sáng trung bình", 
         "thợ điện", 
+        "thợ máy nam: màu da tối", 
         "thợ", 
         "nam", 
+        "thợ máy nam: màu da sáng", 
+        "màu da sáng trung bình", 
         "thợ máy nam", 
-        "cơ khí"
+        "cơ khí", 
+        "thợ máy nam: màu da trung bình", 
+        "màu da sáng", 
+        "thợ máy nam: màu da tối trung bình", 
+        "màu da tối"
     ], 
     "👨‍🔬": [
+        "nhà khoa học nam: màu da tối", 
         "người đàn ông", 
+        "nhà khoa học nam: màu da trung bình", 
         "sinh vật học", 
+        "màu da trung bình", 
+        "nhà khoa học nam: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "nhà khoa học nam: màu da sáng trung bình", 
         "hóa học", 
+        "màu da sáng trung bình", 
         "nhà khoa học nam", 
         "toán học", 
         "làm", 
+        "màu da sáng", 
+        "nhà khoa học nam: màu da sáng", 
         "vật lý", 
         "nhà khoa học", 
-        "kỹ sư"
+        "kỹ sư", 
+        "màu da tối"
     ], 
     "👨‍🚀": [
+        "màu da trung bình", 
         "người đàn ông", 
+        "phi hành gia nam: màu da tối", 
+        "phi hành gia nam: màu da sáng trung bình", 
         "không gian", 
         "phi hành gia nam", 
+        "phi hành gia nam: màu da sáng", 
         "phi hành gia", 
         "nam", 
-        "tên lửa"
+        "phi hành gia nam: màu da trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "phi hành gia nam: màu da tối trung bình", 
+        "màu da sáng", 
+        "tên lửa", 
+        "màu da tối"
     ], 
     "👨‍🚒": [
-        "xe chữa cháy", 
+        "lính cứu hỏa nam: màu da trung bình", 
+        "màu da tối", 
         "đàn ông", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "lính cứu hỏa nam: màu da tối trung bình", 
+        "lính cứu hỏa nam: màu da tối", 
+        "nam", 
+        "màu da sáng trung bình", 
         "lính cứu hỏa nam", 
+        "màu da sáng", 
+        "lính cứu hỏa nam: màu da sáng trung bình", 
+        "lính cứu hỏa nam: màu da sáng", 
         "lính cứu hỏa", 
-        "nam"
+        "xe chữa cháy"
     ], 
     "👩": [
+        "phụ nữ: màu da tối trung bình", 
+        "màu da tối", 
+        "nữ", 
+        "màu da trung bình", 
         "phụ nữ", 
-        "nữ"
+        "phụ nữ: màu da trung bình", 
+        "màu da sáng trung bình", 
+        "phụ nữ: màu da sáng trung bình", 
+        "phụ nữ: màu da tối", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "phụ nữ: màu da sáng"
+    ], 
+    "👩‍⚕️": [
+        "nữ", 
+        "trị liệu", 
+        "bác sĩ", 
+        "nhân viên y tế nữ", 
+        "phụ nữ", 
+        "y tá", 
+        "chăm sóc sức khỏe"
+    ], 
+    "👩‍⚖️": [
+        "công lý", 
+        "thẩm phán nữ", 
+        "phụ nữ", 
+        "nữ", 
+        "thẩm phán"
+    ], 
+    "👩‍✈️": [
+        "phi công", 
+        "phụ nữ", 
+        "nữ", 
+        "máy bay", 
+        "phi công nữ"
+    ], 
+    "👩‍❤️‍👨": [
+        "cặp đôi", 
+        "hình trái tim", 
+        "yêu", 
+        "phụ nữ", 
+        "lãng mạn", 
+        "nam", 
+        "cặp đôi với trái tim", 
+        "cặp đôi với trái tim: phụ nữ, nam"
+    ], 
+    "👩‍❤️‍👩": [
+        "cặp đôi", 
+        "hình trái tim", 
+        "yêu", 
+        "cặp đôi với trái tim: phụ nữ, phụ nữ", 
+        "phụ nữ", 
+        "lãng mạn", 
+        "cặp đôi với trái tim"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "cặp đôi", 
+        "phụ nữ", 
+        "lãng mạn", 
+        "nam", 
+        "nụ hôn", 
+        "nụ hôn: phụ nữ, nam"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "cặp đôi", 
+        "nụ hôn: phụ nữ, phụ nữ", 
+        "phụ nữ", 
+        "lãng mạn", 
+        "nụ hôn"
     ], 
     "👩‍🌾": [
         "làm vườn", 
         "nữ", 
+        "màu da trung bình", 
+        "màu da tối", 
+        "nông dân nữ: màu da tối trung bình", 
+        "nông dân nữ: màu da trung bình", 
         "nông dân", 
         "phụ nữ", 
+        "nông dân nữ: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
         "nông dân nữ", 
+        "màu da tối trung bình", 
+        "nông dân nữ: màu da tối", 
+        "màu da sáng", 
+        "nông dân nữ: màu da sáng", 
         "chủ trại"
     ], 
     "👩‍🍳": [
-        "đầu bếp", 
         "bếp", 
-        "phụ nữ", 
         "nữ", 
-        "đầu bếp nữ"
+        "màu da trung bình", 
+        "màu da tối", 
+        "đầu bếp nữ: màu da tối trung bình", 
+        "đầu bếp nữ: màu da tối", 
+        "phụ nữ", 
+        "màu da sáng trung bình", 
+        "đầu bếp", 
+        "đầu bếp nữ: màu da sáng trung bình", 
+        "đầu bếp nữ", 
+        "màu da tối trung bình", 
+        "đầu bếp nữ: màu da trung bình", 
+        "màu da sáng", 
+        "đầu bếp nữ: màu da sáng"
     ], 
     "👩‍🎓": [
+        "sinh viên nữ: màu da tối trung bình", 
         "sinh viên nữ", 
-        "phụ nữ", 
+        "màu da tối", 
         "nữ", 
+        "màu da trung bình", 
+        "sinh viên nữ: màu da tối", 
+        "phụ nữ", 
+        "màu da sáng trung bình", 
+        "sinh viên nữ: màu da trung bình", 
+        "tốt nghiệp", 
+        "màu da tối trung bình", 
+        "sinh viên nữ: màu da sáng trung bình", 
+        "màu da sáng", 
         "sinh viên", 
-        "tốt nghiệp"
+        "sinh viên nữ: màu da sáng"
     ], 
     "👩‍🎤": [
+        "nữ ca sĩ: màu da sáng trung bình", 
+        "nữ ca sĩ: màu da tối trung bình", 
+        "nữ ca sĩ: màu da trung bình", 
         "nữ", 
+        "màu da trung bình", 
         "ngôi sao", 
         "phụ nữ", 
         "nghệ sĩ", 
+        "nữ ca sĩ: màu da sáng", 
         "ca sĩ", 
         "nhạc rock", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "diễn viên", 
-        "nữ ca sĩ"
+        "nữ ca sĩ: màu da tối", 
+        "nữ ca sĩ", 
+        "màu da tối"
     ], 
     "👩‍🎨": [
-        "họa sĩ nữ", 
-        "phụ nữ", 
+        "họa sĩ nữ: màu da sáng", 
+        "màu da tối", 
         "nữ", 
+        "màu da trung bình", 
+        "họa sĩ nữ: màu da tối trung bình", 
+        "họa sĩ nữ: màu da sáng trung bình", 
+        "phụ nữ", 
         "nghệ sĩ", 
-        "bảng màu"
+        "bảng màu", 
+        "họa sĩ nữ: màu da tối", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "họa sĩ nữ", 
+        "màu da sáng", 
+        "họa sĩ nữ: màu da trung bình"
     ], 
     "👩‍🏫": [
+        "giáo viên nữ: màu da sáng trung bình", 
         "giáo sư", 
+        "giáo viên nữ: màu da tối trung bình", 
         "giáo viên", 
+        "màu da trung bình", 
+        "màu da tối", 
+        "giáo viên nữ: màu da sáng", 
         "phụ nữ", 
         "giáo viên nữ", 
+        "giáo viên nữ: màu da trung bình", 
+        "màu da sáng trung bình", 
         "người hướng dẫn", 
+        "giáo viên nữ: màu da tối", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "nữ"
     ], 
     "👩‍🏭": [
@@ -3581,9 +4999,19 @@
         "lắp ráp", 
         "công nghiệp", 
         "nữ", 
+        "màu da trung bình", 
         "công nhân", 
+        "công nhân nhà máy nữ: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "công nhân nhà máy nữ: màu da trung bình", 
         "nhà máy", 
-        "người phụ nữ"
+        "công nhân nhà máy nữ: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "công nhân nhà máy nữ: màu da sáng", 
+        "công nhân nhà máy nữ: màu da tối", 
+        "màu da sáng", 
+        "người phụ nữ", 
+        "màu da tối"
     ], 
     "👩‍👦": [
         "cha", 
@@ -3679,64 +5107,118 @@
     ], 
     "👩‍💻": [
         "người viết mật mã", 
+        "màu da tối", 
         "phần mềm", 
+        "màu da trung bình", 
+        "kỹ sư công nghệ nữ: màu da tối trung bình", 
+        "kỹ sư công nghệ nữ: màu da tối", 
         "kỹ thuật viên", 
         "phụ nữ", 
+        "kỹ sư công nghệ nữ: màu da sáng trung bình", 
+        "kỹ sư công nghệ nữ: màu da sáng", 
+        "màu da sáng trung bình", 
+        "kỹ sư công nghệ nữ: màu da trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "nhà phát triển", 
         "phát minh", 
         "kỹ sư công nghệ nữ", 
         "nữ"
     ], 
     "👩‍💼": [
+        "nhân viên văn phòng nữ: màu da sáng", 
+        "màu da tối", 
+        "màu da trung bình", 
         "nữ", 
         "văn phòng", 
+        "nhân viên văn phòng nữ: màu da trung bình", 
         "phụ nữ", 
+        "màu da sáng trung bình", 
         "nhân viên văn phòng nữ", 
+        "nhân viên văn phòng nữ: màu da tối", 
         "công việc văn phòng", 
         "quản lý", 
+        "nhân viên văn phòng nữ: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "nhân viên văn phòng nữ: màu da tối trung bình", 
         "kinh doanh", 
         "kiến trúc sư"
     ], 
     "👩‍🔧": [
+        "thợ máy nữ: màu da trung bình", 
         "thợ sửa ống nước", 
         "thợ", 
         "thợ máy nữ", 
+        "thợ máy nữ: màu da tối", 
         "nữ", 
+        "màu da trung bình", 
         "thợ điện", 
         "phụ nữ", 
-        "cơ khí"
+        "thợ máy nữ: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "thợ máy nữ: màu da sáng", 
+        "cơ khí", 
+        "thợ máy nữ: màu da tối trung bình", 
+        "màu da tối"
     ], 
     "👩‍🔬": [
+        "nhà khoa học nữ: màu da sáng", 
+        "màu da tối", 
         "nữ", 
+        "màu da trung bình", 
         "khoa học", 
         "phụ nữ", 
+        "nhà khoa học nữ: màu da sáng trung bình", 
         "hóa học", 
+        "màu da sáng trung bình", 
         "toán học", 
         "sinh vật học", 
         "vật lý", 
+        "màu da tối trung bình", 
         "nhà khoa học nữ", 
-        "kỹ sư"
+        "nhà khoa học nữ: màu da tối", 
+        "màu da sáng", 
+        "kỹ sư", 
+        "nhà khoa học nữ: màu da trung bình", 
+        "nhà khoa học nữ: màu da tối trung bình"
     ], 
     "👩‍🚀": [
+        "màu da tối", 
         "không gian", 
+        "màu da trung bình", 
+        "phi hành gia nữ: màu da sáng", 
+        "phi hành gia nữ: màu da sáng trung bình", 
         "phụ nữ", 
+        "phi hành gia nữ: màu da tối", 
         "phi hành gia", 
+        "phi hành gia nữ: màu da tối trung bình", 
+        "phi hành gia nữ: màu da trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "tên lửa", 
         "phi hành gia nữ", 
         "nữ"
     ], 
     "👩‍🚒": [
-        "xe chữa cháy", 
-        "phụ nữ", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "nữ", 
         "lính cứu hỏa nữ", 
+        "lính cứu hỏa nữ: màu da tối trung bình", 
+        "phụ nữ", 
+        "lính cứu hỏa nữ: màu da sáng", 
+        "lính cứu hỏa nữ: màu da trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "lính cứu hỏa nữ: màu da sáng trung bình", 
+        "màu da sáng", 
+        "lính cứu hỏa nữ: màu da tối", 
         "lính cứu hỏa", 
-        "nữ"
-    ], 
-    "👪": [
-        "trẻ em", 
-        "cha", 
-        "mẹ", 
-        "gia đình"
+        "xe chữa cháy"
     ], 
     "👫": [
         "cặp đôi", 
@@ -3763,64 +5245,175 @@
         "tay", 
         "hai người phụ nữ nắm tay"
     ], 
-    "👮": [
-        "công an", 
-        "nhân viên văn phòng", 
+    "👮‍♀️": [
+        "sĩ quan", 
+        "nữ", 
+        "phụ nữ", 
+        "cảnh sát nữ", 
         "cảnh sát"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "người đàn ông", 
+        "nhân viên văn phòng", 
+        "cảnh sát nam", 
+        "công an", 
+        "sĩ quan", 
+        "nam", 
+        "cảnh sát"
+    ], 
+    "👯‍♀️": [
+        "tai thỏ", 
+        "vũ công", 
         "diễn viên múa", 
+        "những người phụ nữ đeo tai thỏ", 
         "phụ nữ", 
+        "tiệc tùng", 
         "những người đeo tai thỏ", 
         "điệu múa thỏ", 
         "con gái", 
-        "tai"
+        "tai", 
+        "nữ"
+    ], 
+    "👯‍♂️": [
+        "tai thỏ", 
+        "vũ công", 
+        "đàn ông", 
+        "tiệc tùng", 
+        "nam", 
+        "những người đàn ông đeo tai thỏ"
     ], 
     "👰": [
-        "cô dâu với khăn voan", 
-        "cưới", 
+        "màu da tối", 
+        "màu da trung bình", 
         "cô dâu", 
-        "mạng che mặt"
+        "cô dâu với khăn voan: màu da sáng", 
+        "cô dâu với khăn voan: màu da tối trung bình", 
+        "cô dâu với khăn voan", 
+        "màu da sáng trung bình", 
+        "cô dâu với khăn voan: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "mạng che mặt", 
+        "màu da sáng", 
+        "cô dâu với khăn voan: màu da tối", 
+        "cưới", 
+        "cô dâu với khăn voan: màu da trung bình"
     ], 
-    "👱": [
-        "người tóc vàng hoe", 
+    "👱‍♀️": [
+        "người phụ nữ tóc vàng hoe", 
+        "phụ nữ", 
+        "nữ", 
         "tóc vàng hoe"
     ], 
-    "👲": [
-        "mũ", 
-        "người đàn ông đội mũ Trung Quốc", 
+    "👱‍♂️": [
+        "người đàn ông tóc vàng hoe", 
+        "người tóc vàng hoe", 
         "đàn ông", 
-        "mũ Khang Hy"
+        "tóc vàng hoe", 
+        "nam"
     ], 
-    "👳": [
+    "👲": [
+        "người đàn ông đội mũ Trung Quốc: màu da tối trung bình", 
+        "đàn ông", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "mũ", 
+        "người đàn ông đội mũ Trung Quốc: màu da sáng", 
+        "người đàn ông đội mũ Trung Quốc: màu da sáng trung bình", 
+        "mũ Khang Hy", 
+        "màu da sáng trung bình", 
+        "người đàn ông đội mũ Trung Quốc: màu da trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "người đàn ông đội mũ Trung Quốc", 
+        "người đàn ông đội mũ Trung Quốc: màu da tối"
+    ], 
+    "👳‍♀️": [
+        "người phụ nữ đội khăn xếp", 
+        "khăn xếp", 
+        "phụ nữ", 
+        "nữ"
+    ], 
+    "👳‍♂️": [
         "người đàn ông", 
         "khăn xếp", 
+        "nam", 
+        "người đàn ông đội khăn xếp", 
         "người đội khăn xếp"
     ], 
     "👴": [
         "cụ ông", 
+        "màu da tối", 
         "đàn ông", 
-        "già"
+        "cụ ông: màu da sáng trung bình", 
+        "màu da trung bình", 
+        "già", 
+        "cụ ông: màu da tối", 
+        "màu da sáng trung bình", 
+        "cụ ông: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "cụ ông: màu da sáng", 
+        "cụ ông: màu da trung bình"
     ], 
     "👵": [
         "già", 
+        "cụ bà: màu da tối trung bình", 
+        "cụ bà: màu da sáng", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "phụ nữ", 
+        "cụ bà: màu da sáng trung bình", 
+        "cụ bà: màu da tối", 
+        "màu da sáng trung bình", 
         "cụ bà", 
-        "phụ nữ"
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "cụ bà: màu da trung bình"
     ], 
     "👶": [
+        "trẻ con: màu da sáng trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "trẻ con: màu da trung bình", 
+        "trẻ con", 
+        "trẻ con: màu da sáng", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
         "trẻ em", 
-        "trẻ con"
+        "màu da sáng", 
+        "trẻ con: màu da tối", 
+        "trẻ con: màu da tối trung bình"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "công nhân", 
+        "người phụ nữ", 
+        "xây dựng", 
+        "nữ", 
+        "công nhân xây dựng nữ"
+    ], 
+    "👷‍♂️": [
+        "công nhân xây dựng nam", 
+        "người đàn ông", 
         "công nhân", 
         "cái mũ", 
+        "nam", 
         "công nhân xây dựng", 
         "xây dựng"
     ], 
     "👸": [
+        "công chúa: màu da sáng trung bình", 
+        "công chúa: màu da tối", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "công chúa", 
+        "công chúa: màu da trung bình", 
+        "màu da sáng trung bình", 
         "truyện cổ tích", 
-        "tưởng tượng", 
-        "công chúa"
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "công chúa: màu da tối trung bình", 
+        "công chúa: màu da sáng", 
+        "tưởng tượng"
     ], 
     "👹": [
         "sinh vật", 
@@ -3850,8 +5443,18 @@
     ], 
     "👼": [
         "thiên thần nhỏ", 
+        "màu da tối", 
+        "thiên thần nhỏ: màu da trung bình", 
+        "thiên thần nhỏ: màu da tối trung bình", 
+        "màu da trung bình", 
+        "thiên thần nhỏ: màu da sáng", 
+        "thiên thần nhỏ: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "thiên thần nhỏ: màu da tối", 
         "khuôn mặt", 
         "truyện cổ tích", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "bé con", 
         "tưởng tượng", 
         "thiên thần"
@@ -3895,20 +5498,51 @@
         "quái vật", 
         "cơ thể người"
     ], 
-    "💁": [
-        "giúp", 
+    "💁‍♀️": [
         "thông tin", 
-        "hỗn láo", 
         "người trợ giúp", 
-        "tay"
+        "giúp", 
+        "phụ nữ", 
+        "tay", 
+        "người phụ nữ ra hiệu trợ giúp", 
+        "hỗn láo", 
+        "tươi tắn", 
+        "tay ra hiệu", 
+        "nữ"
     ], 
-    "💂": [
-        "bảo vệ"
+    "💁‍♂️": [
+        "người đàn ông ra hiệu trợ giúp", 
+        "người đàn ông", 
+        "tay ra hiệu", 
+        "tươi tắn", 
+        "nam"
+    ], 
+    "💂‍♀️": [
+        "bảo vệ nữ", 
+        "phụ nữ", 
+        "bảo vệ", 
+        "nữ"
+    ], 
+    "💂‍♂️": [
+        "bảo vệ nam", 
+        "đàn ông", 
+        "bảo vệ", 
+        "nam"
     ], 
     "💃": [
         "khiêu vũ", 
+        "người phụ nữ đang khiêu vũ", 
+        "màu da trung bình", 
+        "người phụ nữ đang khiêu vũ: màu da sáng trung bình", 
+        "người phụ nữ đang khiêu vũ: màu da sáng", 
         "phụ nữ", 
-        "người phụ nữ đang khiêu vũ"
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "người phụ nữ đang khiêu vũ: màu da tối", 
+        "người phụ nữ đang khiêu vũ: màu da tối trung bình", 
+        "màu da sáng", 
+        "người phụ nữ đang khiêu vũ: màu da trung bình", 
+        "màu da tối"
     ], 
     "💄": [
         "trang điểm", 
@@ -3916,24 +5550,54 @@
         "mỹ phẩm"
     ], 
     "💅": [
+        "sơn móng tay: màu da sáng trung bình", 
         "chăm sóc", 
+        "màu da trung bình", 
         "đánh bóng", 
+        "màu da tối", 
+        "sơn móng tay: màu da sáng", 
         "mỹ phẩm", 
         "sơn móng tay", 
+        "màu da sáng trung bình", 
         "cắt móng tay", 
+        "sơn móng tay: màu da tối", 
+        "sơn móng tay: màu da trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "móng tay", 
-        "cơ thể người"
+        "cơ thể người", 
+        "sơn móng tay: màu da tối trung bình"
     ], 
-    "💆": [
+    "💆‍♀️": [
         "thẩm mĩ viện", 
+        "nữ", 
         "xoa bóp", 
-        "xoa bóp mặt"
+        "phụ nữ", 
+        "người phụ nữ được xoa bóp mặt", 
+        "xoa bóp mặt", 
+        "mặt"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "người đàn ông được xoa bóp mặt", 
+        "xoa bóp", 
+        "người đàn ông", 
+        "mặt", 
+        "nam"
+    ], 
+    "💇‍♀️": [
+        "người phụ nữ được cắt tóc", 
         "phòng", 
+        "nữ", 
         "làm đẹp", 
+        "phụ nữ", 
+        "thợ cắt tóc", 
+        "cắt tóc"
+    ], 
+    "💇‍♂️": [
+        "người đàn ông được cắt tóc", 
+        "đàn ông", 
         "cắt tóc", 
-        "thợ cắt tóc"
+        "nam"
     ], 
     "💈": [
         "thợ cạo", 
@@ -3983,23 +5647,11 @@
         "kim cương", 
         "lãng mạn"
     ], 
-    "💏": [
-        "cặp đôi", 
-        "lãng mạn", 
-        "nụ hôn"
-    ], 
     "💐": [
         "cây", 
         "hoa", 
         "lãng mạn", 
         "bó hoa"
-    ], 
-    "💑": [
-        "cặp đôi", 
-        "cặp đôi với trái tim", 
-        "yêu", 
-        "hình trái tim", 
-        "lãng mạn"
     ], 
     "💒": [
         "nhà thờ nhỏ", 
@@ -4143,11 +5795,21 @@
     ], 
     "💪": [
         "cơ bắp", 
+        "màu da trung bình", 
         "hài hước", 
         "bắp tay gập lại", 
         "dẻo", 
+        "bắp tay gập lại: màu da sáng trung bình", 
+        "bắp tay gập lại: màu da tối", 
+        "màu da sáng trung bình", 
+        "bắp tay gập lại: màu da trung bình", 
         "bắp tay", 
-        "cơ thể người"
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "bắp tay gập lại: màu da tối trung bình", 
+        "bắp tay gập lại: màu da sáng", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "💫": [
         "ngôi sao", 
@@ -4650,6 +6312,14 @@
         "băng hình", 
         "vhs"
     ], 
+    "📽️": [
+        "máy chiếu", 
+        "bộ phim", 
+        "máy chiếu phim", 
+        "phim", 
+        "video", 
+        "rạp chiếu phim"
+    ], 
     "📿": [
         "hạt", 
         "tôn giáo", 
@@ -5030,6 +6700,17 @@
         "nút xuống", 
         "mũi tên"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "tôn giáo"
+    ], 
+    "🕊️": [
+        "bồ câu", 
+        "chim", 
+        "hòa bình", 
+        "bay"
+    ], 
     "🕋": [
         "hồi giáo", 
         "tôn giáo", 
@@ -5271,24 +6952,124 @@
         "đồng hồ", 
         "12:30"
     ], 
+    "🕯️": [
+        "nến", 
+        "ánh sáng"
+    ], 
+    "🕰️": [
+        "đồng hồ để bàn", 
+        "đồng hồ"
+    ], 
+    "🕳️": [
+        "cái lỗ", 
+        "lỗ"
+    ], 
+    "🕴️": [
+        "người đàn ông mặc vest đang bay lên", 
+        "đàn ông", 
+        "bộ đồ", 
+        "kinh doanh"
+    ], 
+    "🕵️‍♂️": [
+        "gián điệp", 
+        "thám tử"
+    ], 
+    "🕶️": [
+        "mắt", 
+        "đeo kính", 
+        "kính mắt", 
+        "bóng tối", 
+        "kính râm"
+    ], 
+    "🕷️": [
+        "côn trùng", 
+        "nhện"
+    ], 
+    "🕸️": [
+        "mạng nhện", 
+        "nhện"
+    ], 
+    "🕹️": [
+        "trò chơi điện tử", 
+        "trò chơi", 
+        "cần điều khiển"
+    ], 
     "🕺": [
         "khiêu vũ", 
+        "người đàn ông đang khiêu vũ: màu da sáng", 
         "người đàn ông", 
-        "người đàn ông đang khiêu vũ"
+        "màu da tối", 
+        "màu da trung bình", 
+        "người đàn ông đang khiêu vũ: màu da trung bình", 
+        "người đàn ông đang khiêu vũ: màu da sáng trung bình", 
+        "người đàn ông đang khiêu vũ: màu da tối", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "người đàn ông đang khiêu vũ", 
+        "người đàn ông đang khiêu vũ: màu da tối trung bình"
+    ], 
+    "🖇️": [
+        "kẹp giấy", 
+        "kẹp giấy nối liền", 
+        "nối liền"
+    ], 
+    "🖊️": [
+        "bút bi", 
+        "bút"
+    ], 
+    "🖋️": [
+        "máy", 
+        "bút máy", 
+        "bút"
+    ], 
+    "🖌️": [
+        "bút vẽ"
+    ], 
+    "🖍️": [
+        "bút chì màu", 
+        "bút sáp màu"
+    ], 
+    "🖐️": [
+        "xòe", 
+        "tay xòe ngón giơ lên", 
+        "ngón tay", 
+        "tay", 
+        "cơ thể người"
     ], 
     "🖕": [
-        "ngón giữa", 
+        "ngón giữa: màu da trung bình", 
+        "ngón giữa: màu da tối", 
         "ngón tay", 
+        "ngón giữa: màu da sáng trung bình", 
+        "màu da trung bình", 
+        "ngón giữa: màu da sáng", 
         "tay", 
-        "cơ thể người"
+        "ngón giữa", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "ngón giữa: màu da tối trung bình", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "🖖": [
+        "tay thần lửa: màu da sáng", 
         "ngón tay", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
         "thần lửa", 
+        "tay thần lửa: màu da tối trung bình", 
         "tay", 
+        "tay thần lửa: màu da trung bình", 
+        "màu da sáng trung bình", 
         "người spock", 
         "tay thần lửa", 
-        "cơ thể người"
+        "tay thần lửa: màu da sáng trung bình", 
+        "màu da sáng", 
+        "tay thần lửa: màu da tối", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "🖤": [
         "điều ác", 
@@ -5296,6 +7077,119 @@
         "điều xấu", 
         "đen", 
         "tim đen"
+    ], 
+    "🖥️": [
+        "máy tính", 
+        "máy tính để bàn", 
+        "máy để bàn"
+    ], 
+    "🖨️": [
+        "máy tính", 
+        "máy in"
+    ], 
+    "🖱️": [
+        "chuột máy tính", 
+        "3", 
+        "nút", 
+        "máy tính bàn", 
+        "số ba", 
+        "chuột"
+    ], 
+    "🖲️": [
+        "máy tính", 
+        "bi xoay"
+    ], 
+    "🖼️": [
+        "vẽ", 
+        "ảnh", 
+        "khung", 
+        "tranh trong khung", 
+        "nghệ thuật", 
+        "bảo tàng"
+    ], 
+    "🗂️": [
+        "bảng liệt kê", 
+        "ngăn chỉ mục thẻ", 
+        "ngăn", 
+        "thẻ"
+    ], 
+    "🗃️": [
+        "hộp đựng hồ sơ", 
+        "bìa", 
+        "tệp", 
+        "hộp"
+    ], 
+    "🗄️": [
+        "tủ hồ sơ", 
+        "tệp", 
+        "tủ"
+    ], 
+    "🗑️": [
+        "sọt rác"
+    ], 
+    "🗒️": [
+        "ghi chú", 
+        "xoắn ốc", 
+        "sổ ghi chú gáy xoắn", 
+        "bảng"
+    ], 
+    "🗓️": [
+        "xoắn ốc", 
+        "lịch gáy xoắn", 
+        "lịch", 
+        "bảng"
+    ], 
+    "🗜️": [
+        "cái kẹp", 
+        "dụng cụ"
+    ], 
+    "🗝️": [
+        "chìa khóa cũ", 
+        "đầu mối", 
+        "cũ", 
+        "chìa khóa", 
+        "khóa"
+    ], 
+    "🗞️": [
+        "báo", 
+        "tờ báo được cuộn tròn", 
+        "tạp chí", 
+        "cuộn"
+    ], 
+    "🗡️": [
+        "vũ khí", 
+        "dao", 
+        "dao găm"
+    ], 
+    "🗣️": [
+        "hình bóng", 
+        "cái đầu", 
+        "khuôn mặt", 
+        "nói", 
+        "đang nói", 
+        "đầu người đang nói"
+    ], 
+    "🗨️": [
+        "bong bóng lời nói trái", 
+        "thoại", 
+        "bài diễn văn"
+    ], 
+    "🗯️": [
+        "tức giận", 
+        "điên", 
+        "bong bóng góc phải", 
+        "bong bóng", 
+        "khí cầu"
+    ], 
+    "🗳️": [
+        "lá phiếu", 
+        "hòm phiếu với lá phiếu", 
+        "thùng phiếu"
+    ], 
+    "🗺️": [
+        "bản đồ thế giới", 
+        "thế giới", 
+        "bản đồ"
     ], 
     "🗻": [
         "núi Phú Sĩ", 
@@ -5787,27 +7681,68 @@
         "mắt", 
         "đu đưa"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "cấm", 
+        "nữ", 
         "không có", 
         "cử chỉ", 
         "không cho phép", 
+        "phụ nữ", 
         "tay", 
         "không", 
-        "phản đối"
+        "phản đối", 
+        "người phụ nữ ra hiệu phản đối", 
+        "không ok"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "cấm", 
+        "người đàn ông", 
         "cử chỉ", 
-        "ok", 
+        "người đàn ông ra hiệu phản đối", 
+        "tay", 
+        "nam", 
+        "không ok", 
+        "không"
+    ], 
+    "🙆‍♀️": [
+        "người phụ nữ ra hiệu đồng ý", 
+        "nữ", 
+        "cử chỉ", 
+        "phụ nữ", 
         "đồng ý", 
-        "tay"
+        "tay", 
+        "trên", 
+        "ok"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "người đàn ông", 
         "cử chỉ", 
+        "người đàn ông ra hiệu đồng ý", 
+        "tay", 
+        "nam", 
+        "được"
+    ], 
+    "🙇‍♀️": [
+        "cúi", 
+        "nữ", 
+        "cử chỉ", 
+        "phụ nữ", 
         "lời xin lỗi", 
-        "người đang cúi đầu", 
+        "xin lỗi", 
+        "người phụ nữ cúi đầu", 
+        "ủng hộ"
+    ], 
+    "🙇‍♂️": [
+        "cúi", 
+        "người đàn ông", 
+        "ủng hộ", 
         "lấy làm tiếc", 
-        "cúi người"
+        "cử chỉ", 
+        "cúi người", 
+        "lời xin lỗi", 
+        "nam", 
+        "người đàn ông cúi đầu", 
+        "người đang cúi đầu"
     ], 
     "🙈": [
         "cấm", 
@@ -5845,43 +7780,95 @@
         "con khỉ", 
         "khỉ không nói điều xấu"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
+        "giơ tay", 
+        "nữ", 
         "cử chỉ", 
-        "nâng lên", 
+        "phụ nữ", 
         "tay", 
+        "người vui vẻ giơ cao tay", 
+        "nâng lên", 
         "vui vẻ", 
-        "người vui vẻ giơ cao tay"
+        "người phụ nữ giơ cao tay"
+    ], 
+    "🙋‍♂️": [
+        "cử chỉ", 
+        "giơ tay", 
+        "người đàn ông", 
+        "người đàn ông giơ cao tay", 
+        "nam"
     ], 
     "🙌": [
+        "người đang giơ tay: màu da tối trung bình", 
+        "người đang giơ tay: màu da sáng", 
+        "màu da trung bình", 
+        "người đang giơ tay: màu da tối", 
         "cử chỉ", 
         "tay", 
+        "người đang giơ tay: màu da sáng trung bình", 
         "lễ kỷ niệm", 
         "nâng lên", 
+        "màu da sáng trung bình", 
+        "người đang giơ tay: màu da trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "hoan hô", 
         "người đang giơ tay", 
-        "cơ thể người"
+        "cơ thể người", 
+        "màu da tối"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
+        "nữ", 
         "cử chỉ", 
+        "phụ nữ", 
+        "người phụ nữ cau mày", 
         "cau mày", 
         "người đang cau mày"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
         "cử chỉ", 
+        "người đàn ông cau mày", 
+        "cau mày", 
+        "đàn ông", 
+        "nam"
+    ], 
+    "🙎‍♀️": [
+        "bĩu môi", 
+        "nữ", 
+        "cử chỉ", 
+        "phụ nữ", 
+        "người phụ nữ bĩu môi", 
         "hờn dỗi", 
         "người đang bĩu môi"
     ], 
+    "🙎‍♂️": [
+        "bĩu môi", 
+        "cử chỉ", 
+        "người đàn ông", 
+        "người đàn ông bĩu môi", 
+        "nam"
+    ], 
     "🙏": [
         "làm ơn", 
+        "chắp tay: màu da tối trung bình", 
+        "màu da trung bình", 
         "hỏi", 
         "cử chỉ", 
+        "chắp tay: màu da sáng trung bình", 
+        "chắp tay: màu da sáng", 
         "tay", 
         "cúi người", 
         "cảm ơn", 
         "chắp tay", 
+        "màu da sáng trung bình", 
+        "chắp tay: màu da trung bình", 
         "gập người", 
+        "chắp tay: màu da tối", 
+        "màu da tối trung bình", 
         "nguyện cầu", 
-        "cơ thể người"
+        "màu da sáng", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "🚀": [
         "tên lửa", 
@@ -6089,10 +8076,20 @@
         "xe cộ", 
         "tàu"
     ], 
-    "🚣": [
-        "xe cộ", 
+    "🚣‍♀️": [
+        "người phụ nữ chèo thuyền", 
+        "phụ nữ", 
+        "nữ", 
         "thuyền chèo", 
         "thuyền"
+    ], 
+    "🚣‍♂️": [
+        "người đàn ông", 
+        "thuyền", 
+        "xe cộ", 
+        "thuyền chèo", 
+        "nam", 
+        "người đàn ông chèo thuyền"
     ], 
     "🚤": [
         "xe cộ", 
@@ -6193,21 +8190,57 @@
         "không", 
         "xe đạp"
     ], 
-    "🚴": [
-        "người đi xe đạp", 
+    "🚴‍♀️": [
+        "đi xe đạp", 
+        "nữ", 
+        "người phụ nữ đi xe đạp", 
+        "phụ nữ", 
+        "đua xe đạp", 
         "xe đạp"
     ], 
-    "🚵": [
-        "người đi xe đạp leo núi", 
+    "🚴‍♂️": [
+        "đi xe đạp", 
+        "đàn ông", 
+        "xe đạp", 
+        "nam", 
+        "đua xe đạp", 
         "người đi xe đạp", 
+        "người đàn ông đi xe đạp"
+    ], 
+    "🚵‍♀️": [
+        "đi xe đạp", 
+        "nữ", 
+        "phụ nữ", 
         "núi", 
+        "người phụ nữ đi xe đạp leo núi", 
+        "đua xe đạp", 
         "xe đạp"
     ], 
-    "🚶": [
+    "🚵‍♂️": [
+        "người đàn ông", 
+        "xe đạp", 
+        "núi", 
+        "nam", 
+        "đua xe đạp", 
+        "người đi xe đạp leo núi", 
+        "người đàn ông đi xe đạp leo núi", 
+        "người đi xe đạp"
+    ], 
+    "🚶‍♀️": [
+        "phụ nữ", 
+        "người phụ nữ đi bộ", 
+        "đi lang thang", 
+        "đi bộ", 
+        "nữ"
+    ], 
+    "🚶‍♂️": [
+        "người đàn ông", 
+        "người đàn ông đi bộ", 
+        "đi bộ", 
+        "nam", 
         "đang đi bộ", 
         "người đi bộ", 
-        "đi lang thang", 
-        "đi bộ"
+        "đi lang thang"
     ], 
     "🚷": [
         "cấm", 
@@ -6265,9 +8298,19 @@
         "nước"
     ], 
     "🛀": [
-        "người đang tắm bồn", 
         "tắm", 
-        "bồn tắm"
+        "người đang tắm bồn: màu da sáng trung bình", 
+        "người đang tắm bồn: màu da tối trung bình", 
+        "màu da trung bình", 
+        "bồn tắm", 
+        "người đang tắm bồn", 
+        "màu da sáng trung bình", 
+        "người đang tắm bồn: màu da tối", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "người đang tắm bồn: màu da sáng", 
+        "người đang tắm bồn: màu da trung bình", 
+        "màu da tối"
     ], 
     "🛁": [
         "tắm", 
@@ -6291,9 +8334,41 @@
         "hành lý gửi", 
         "tủ khóa"
     ], 
+    "🛋️": [
+        "khách sạn", 
+        "ghế dài và đèn", 
+        "đi văng", 
+        "đèn"
+    ], 
     "🛌": [
-        "ngủ", 
+        "người trên giường: màu da trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "khách sạn", 
         "người trên giường", 
+        "người trên giường: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "người trên giường: màu da tối", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "người trên giường: màu da tối trung bình", 
+        "ngủ", 
+        "người trên giường: màu da sáng"
+    ], 
+    "🛍️": [
+        "túi", 
+        "túi mua sắm", 
+        "mua sắm", 
+        "khách sạn"
+    ], 
+    "🛎️": [
+        "chuông", 
+        "chuông lễ tân", 
+        "khách sạn"
+    ], 
+    "🛏️": [
+        "ngủ", 
+        "giường", 
         "khách sạn"
     ], 
     "🛐": [
@@ -6314,6 +8389,39 @@
         "mua hàng", 
         "giỏ"
     ], 
+    "🛠️": [
+        "búa", 
+        "cờ lê", 
+        "búa và cờ lê", 
+        "dụng cụ"
+    ], 
+    "🛡️": [
+        "vũ khí", 
+        "cái khiên"
+    ], 
+    "🛢️": [
+        "dầu", 
+        "trống", 
+        "thùng dầu"
+    ], 
+    "🛣️": [
+        "đường", 
+        "đường cao tốc"
+    ], 
+    "🛤️": [
+        "tàu hỏa", 
+        "đường sắt"
+    ], 
+    "🛥️": [
+        "xe cộ", 
+        "thuyền máy", 
+        "thuyền"
+    ], 
+    "🛩️": [
+        "xe cộ", 
+        "máy bay nhỏ", 
+        "máy bay"
+    ], 
     "🛫": [
         "xe cộ", 
         "đăng ký", 
@@ -6329,6 +8437,17 @@
         "đến", 
         "máy bay đến nơi", 
         "máy bay"
+    ], 
+    "🛰️": [
+        "phương tiện", 
+        "vũ trụ", 
+        "vệ tinh"
+    ], 
+    "🛳️": [
+        "xe cộ", 
+        "hành khách", 
+        "con tàu", 
+        "tàu chở khách"
     ], 
     "🛴": [
         "xe hẩy", 
@@ -6400,31 +8519,81 @@
     ], 
     "🤘": [
         "ngón tay", 
+        "màu da trung bình", 
+        "ký hiệu cặp sừng: màu da sáng", 
         "sừng", 
+        "ký hiệu cặp sừng: màu da trung bình", 
         "ký hiệu cặp sừng", 
         "tay", 
+        "ký hiệu cặp sừng: màu da tối trung bình", 
+        "màu da sáng trung bình", 
+        "ký hiệu cặp sừng: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "chiến thắng", 
-        "cơ thể người"
+        "ký hiệu cặp sừng: màu da tối", 
+        "cơ thể người", 
+        "màu da tối"
     ], 
     "🤙": [
         "gọi điện", 
+        "bàn tay gọi cho tôi: màu da tối", 
+        "bàn tay gọi cho tôi: màu da trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "bàn tay gọi cho tôi: màu da tối trung bình", 
+        "bàn tay gọi cho tôi: màu da sáng", 
+        "màu da sáng trung bình", 
         "bàn tay", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "bàn tay gọi cho tôi: màu da sáng trung bình", 
         "bàn tay gọi cho tôi"
     ], 
     "🤚": [
-        "giơ lên", 
+        "mu bàn tay giơ lên: màu da sáng", 
+        "phía sau bàn tay", 
+        "mu bàn tay giơ lên: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "mu bàn tay giơ lên: màu da tối", 
+        "màu da sáng trung bình", 
         "mu bàn tay giơ lên", 
-        "phía sau bàn tay"
+        "mu bàn tay giơ lên: màu da sáng trung bình", 
+        "màu da sáng", 
+        "giơ lên", 
+        "mu bàn tay giơ lên: màu da trung bình", 
+        "màu da tối"
     ], 
     "🤛": [
+        "nắm đấm hướng phía trái: màu da trung bình", 
         "hướng trái", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "nắm đấm hướng phía trái", 
+        "màu da sáng trung bình", 
+        "nắm đấm hướng phía trái: màu da tối", 
+        "màu da tối trung bình", 
+        "nắm đấm hướng phía trái: màu da sáng", 
+        "màu da sáng", 
         "nắm đấm", 
-        "nắm đấm hướng phía trái"
+        "nắm đấm hướng phía trái: màu da sáng trung bình", 
+        "nắm đấm hướng phía trái: màu da tối trung bình"
     ], 
     "🤜": [
         "nắm đấm hướng sang phải", 
+        "nắm đấm hướng sang phải: màu da tối trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "nắm đấm hướng sang phải: màu da sáng trung bình", 
+        "nắm đấm hướng sang phải: màu da sáng", 
+        "hướng phải", 
+        "nắm đấm hướng sang phải: màu da tối", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "nắm đấm", 
-        "hướng phải"
+        "nắm đấm hướng sang phải: màu da trung bình"
     ], 
     "🤝": [
         "tay", 
@@ -6434,18 +8603,38 @@
         "gặp mặt"
     ], 
     "🤞": [
-        "chéo", 
         "ngón tay", 
-        "hai ngón tay bắt chéo", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "hai ngón tay bắt chéo: màu da sáng", 
+        "hai ngón tay bắt chéo: màu da tối", 
+        "hai ngón tay bắt chéo: màu da tối trung bình", 
+        "chéo", 
+        "màu da sáng trung bình", 
         "bàn tay", 
-        "may mắn"
+        "hai ngón tay bắt chéo: màu da trung bình", 
+        "màu da sáng", 
+        "hai ngón tay bắt chéo", 
+        "may mắn", 
+        "hai ngón tay bắt chéo: màu da sáng trung bình", 
+        "màu da tối"
     ], 
     "🤟": [
-        "ILY", 
-        "em yêu anh", 
-        "cử chỉ yêu nhau", 
+        "cử chỉ yêu nhau: màu da tối trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "cử chỉ yêu nhau: màu da tối", 
+        "cử chỉ yêu nhau: màu da trung bình", 
         "tay", 
-        "anh yêu em"
+        "anh yêu em", 
+        "em yêu anh", 
+        "màu da sáng trung bình", 
+        "cử chỉ yêu nhau", 
+        "màu da tối trung bình", 
+        "cử chỉ yêu nhau: màu da sáng trung bình", 
+        "màu da sáng", 
+        "cử chỉ yêu nhau: màu da sáng", 
+        "ILY"
     ], 
     "🤠": [
         "cao bồi", 
@@ -6483,11 +8672,37 @@
         "pinocchio"
     ], 
     "🤦": [
+        "lấy tay che mặt: màu da sáng trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "hoài nghi", 
+        "lấy tay che mặt: màu da sáng", 
+        "lấy tay che mặt: màu da trung bình", 
         "tức giận", 
         "lấy tay che mặt", 
+        "màu da sáng trung bình", 
+        "lấy tay che mặt: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "lấy tay che mặt: màu da tối", 
+        "màu da sáng", 
         "mặt", 
-        "lòng bàn tay", 
-        "hoài nghi"
+        "lòng bàn tay"
+    ], 
+    "🤦‍♀️": [
+        "người phụ nữ lấy tay che mặt", 
+        "nữ", 
+        "sự hoài nghi", 
+        "phụ nữ", 
+        "bực tức", 
+        "lòng bàn tay"
+    ], 
+    "🤦‍♂️": [
+        "đàn ông", 
+        "sự hoài nghi", 
+        "nam", 
+        "bực tức", 
+        "người đàn ông lấy tay che mặt", 
+        "lòng bàn tay"
     ], 
     "🤧": [
         "sức khỏe", 
@@ -6532,56 +8747,206 @@
         "đầu nổ tung"
     ], 
     "🤰": [
+        "người phụ nữ có thai: màu da sáng trung bình", 
+        "người phụ nữ có thai: màu da trung bình", 
         "đang mang thai", 
+        "người phụ nữ có thai: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
         "phụ nữ", 
-        "người phụ nữ có thai"
+        "màu da sáng trung bình", 
+        "người phụ nữ có thai", 
+        "người phụ nữ có thai: màu da tối", 
+        "màu da sáng", 
+        "người phụ nữ có thai: màu da sáng", 
+        "màu da tối"
     ], 
     "🤱": [
-        "vú", 
-        "cho con bú", 
+        "cho con bú: màu da tối", 
+        "màu da trung bình", 
         "cho bú", 
-        "em bé"
+        "cho con bú", 
+        "cho con bú: màu da tối trung bình", 
+        "cho con bú: màu da trung bình", 
+        "màu da sáng trung bình", 
+        "cho con bú: màu da sáng trung bình", 
+        "em bé", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "vú", 
+        "cho con bú: màu da sáng", 
+        "màu da tối"
     ], 
     "🤲": [
-        "hai bàn tay chạm vào nhau"
+        "hai bàn tay chạm vào nhau: màu da sáng trung bình", 
+        "hai bàn tay chạm vào nhau: màu da sáng", 
+        "màu da trung bình", 
+        "hai bàn tay chạm vào nhau", 
+        "hai bàn tay chạm vào nhau: màu da tối", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "hai bàn tay chạm vào nhau: màu da trung bình", 
+        "hai bàn tay chạm vào nhau: màu da tối trung bình", 
+        "màu da tối"
     ], 
     "🤳": [
+        "tự sướng: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "tự sướng: màu da tối trung bình", 
+        "tự sướng: màu da sáng", 
+        "màu da sáng trung bình", 
         "tự sướng", 
+        "tự sướng: màu da tối", 
         "máy ảnh", 
-        "điện thoại"
+        "tự sướng: màu da trung bình", 
+        "màu da sáng", 
+        "điện thoại", 
+        "màu da tối"
     ], 
     "🤴": [
+        "màu da tối", 
+        "màu da trung bình", 
+        "hoàng tử: màu da trung bình", 
+        "hoàng tử: màu da sáng trung bình", 
+        "hoàng tử: màu da tối", 
+        "màu da sáng trung bình", 
+        "hoàng tử: màu da tối trung bình", 
+        "hoàng tử: màu da sáng", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
         "hoàng tử"
     ], 
     "🤵": [
-        "người nam", 
+        "người mặc áo ximôckinh", 
+        "màu da trung bình", 
+        "người mặc áo ximôckinh: màu da trung bình", 
+        "người mặc áo ximôckinh: màu da sáng trung bình", 
         "chú rể", 
+        "người mặc áo ximôckinh: màu da tối", 
+        "màu da sáng trung bình", 
         "áo ximôckinh", 
-        "người mặc áo ximôckinh"
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "người nam", 
+        "người mặc áo ximôckinh: màu da tối trung bình", 
+        "người mặc áo ximôckinh: màu da sáng", 
+        "màu da tối"
     ], 
     "🤶": [
-        "giáng sinh", 
+        "màu da trung bình", 
+        "mẹ giáng sinh: màu da trung bình", 
         "mẹ giáng sinh", 
         "mẹ", 
-        "bà già Noel"
+        "mẹ giáng sinh: màu da sáng trung bình", 
+        "mẹ giáng sinh: màu da tối", 
+        "màu da sáng trung bình", 
+        "mẹ giáng sinh: màu da sáng", 
+        "giáng sinh", 
+        "màu da tối trung bình", 
+        "bà già Noel", 
+        "màu da sáng", 
+        "mẹ giáng sinh: màu da tối trung bình", 
+        "màu da tối"
     ], 
     "🤷": [
+        "nhún vai: màu da tối", 
+        "nhún vai", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "nhún vai: màu da trung bình", 
         "hững hờ", 
+        "màu da sáng trung bình", 
+        "nhún vai: màu da tối trung bình", 
+        "nhún vai: màu da sáng trung bình", 
+        "màu da sáng", 
         "nghi ngờ", 
+        "nhún vai: màu da sáng", 
         "thờ ơ", 
-        "nhún vai"
+        "màu da tối"
+    ], 
+    "🤷‍♀️": [
+        "nhún vai", 
+        "nữ", 
+        "sự thờ ơ", 
+        "vô minh", 
+        "phụ nữ", 
+        "người phụ nữ nhún vai", 
+        "nghi ngờ"
+    ], 
+    "🤷‍♂️": [
+        "người đàn ông", 
+        "nhún vai", 
+        "vô minh", 
+        "nam", 
+        "sự thờ ơ", 
+        "nghi ngờ", 
+        "người đàn ông nhún vai"
     ], 
     "🤸": [
-        "nhào lộn", 
-        "thể thao", 
         "thể dục", 
-        "người"
+        "nhào lộn: màu da trung bình", 
+        "màu da trung bình", 
+        "nhào lộn: màu da sáng", 
+        "nhào lộn: màu da sáng trung bình", 
+        "thể thao", 
+        "người", 
+        "nhào lộn", 
+        "màu da sáng trung bình", 
+        "nhào lộn: màu da tối trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "nhào lộn: màu da tối", 
+        "màu da tối"
+    ], 
+    "🤸‍♀️": [
+        "nữ", 
+        "thể thao", 
+        "phụ nữ", 
+        "người", 
+        "nhào lộn", 
+        "người phụ nữ nhào lộn", 
+        "thể dục dụng cụ"
+    ], 
+    "🤸‍♂️": [
+        "người đàn ông", 
+        "thể thao", 
+        "người", 
+        "nam", 
+        "nhào lộn", 
+        "thể dục dụng cụ", 
+        "người đàn ông nhào lộn"
     ], 
     "🤹": [
+        "tung hứng: màu da tối", 
+        "tung hứng: màu da tối trung bình", 
+        "màu da trung bình", 
         "kỹ năng", 
-        "tung hứng", 
+        "tung hứng: màu da sáng trung bình", 
+        "tung hứng: màu da sáng", 
+        "màu da sáng trung bình", 
+        "tung hứng: màu da trung bình", 
         "cân bằng", 
-        "đa nhiệm"
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "tung hứng", 
+        "đa nhiệm", 
+        "màu da tối"
+    ], 
+    "🤹‍♀️": [
+        "tung hứng", 
+        "phụ nữ", 
+        "người phụ nữ tung hứng", 
+        "đa nhiệm", 
+        "nữ"
+    ], 
+    "🤹‍♂️": [
+        "tung hứng", 
+        "đàn ông", 
+        "người đàn ông tung hứng", 
+        "đa nhiệm", 
+        "nam"
     ], 
     "🤺": [
         "người đấu kiếm", 
@@ -6596,17 +8961,81 @@
         "người", 
         "vật"
     ], 
-    "🤽": [
-        "nước", 
-        "bóng nước", 
+    "🤼‍♀️": [
+        "vật lộn", 
+        "nữ", 
+        "phụ nữ chơi vật", 
         "thể thao", 
+        "phụ nữ", 
         "người"
     ], 
+    "🤼‍♂️": [
+        "vật lộn", 
+        "đàn ông", 
+        "thể thao", 
+        "người", 
+        "nam", 
+        "đàn ông chơi vật"
+    ], 
+    "🤽": [
+        "bóng nước: màu da sáng", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "bóng nước", 
+        "thể thao", 
+        "bóng nước: màu da tối trung bình", 
+        "người", 
+        "bóng nước: màu da sáng trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "nước", 
+        "bóng nước: màu da trung bình", 
+        "bóng nước: màu da tối"
+    ], 
+    "🤽‍♀️": [
+        "bóng nước", 
+        "thể thao", 
+        "phụ nữ", 
+        "người phụ nữ chơi bóng nước", 
+        "nữ"
+    ], 
+    "🤽‍♂️": [
+        "thủy cầu", 
+        "người đàn ông", 
+        "thể thao", 
+        "người đàn ông chơi bóng nước", 
+        "nam"
+    ], 
     "🤾": [
+        "màu da tối", 
+        "màu da trung bình", 
+        "bóng ném: màu da sáng trung bình", 
         "thể thao", 
         "bóng", 
         "người", 
+        "bóng ném: màu da tối", 
+        "bóng ném: màu da tối trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "bóng ném: màu da sáng", 
+        "bóng ném: màu da trung bình", 
+        "màu da sáng", 
         "bóng ném"
+    ], 
+    "🤾‍♀️": [
+        "thể thao", 
+        "phụ nữ", 
+        "người phụ nữ chơi bóng ném", 
+        "bóng ném", 
+        "nữ"
+    ], 
+    "🤾‍♂️": [
+        "người đàn ông", 
+        "thể thao", 
+        "người đàn ông chơi bóng ném", 
+        "bóng ném", 
+        "nam"
     ], 
     "🥀": [
         "héo", 
@@ -6955,75 +9384,182 @@
         "ngột ngạt"
     ], 
     "🧑": [
+        "người lớn: màu da trung bình", 
         "người lớn", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "người lớn: màu da tối", 
+        "người lớn: màu da sáng", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "người lớn: màu da tối trung bình", 
+        "người lớn: màu da sáng trung bình", 
         "giới tính chung"
     ], 
     "🧒": [
-        "trẻ em", 
+        "trẻ em: màu da tối trung bình", 
+        "màu da tối", 
+        "màu da trung bình", 
+        "trẻ em: màu da sáng trung bình", 
+        "trẻ em: màu da trung bình", 
         "trẻ", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "trẻ em", 
+        "màu da sáng", 
+        "trẻ em: màu da sáng", 
+        "trẻ em: màu da tối", 
         "giới tính chung"
     ], 
     "🧓": [
         "già", 
+        "màu da trung bình", 
+        "giới tính trung lập", 
+        "người lớn tuổi: màu da sáng", 
+        "người lớn tuổi: màu da tối trung bình", 
+        "người lớn tuổi: màu da tối", 
+        "màu da sáng trung bình", 
         "người lớn tuổi", 
-        "giới tính trung lập"
+        "người lớn tuổi: màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "người lớn tuổi: màu da trung bình", 
+        "màu da tối"
     ], 
     "🧔": [
+        "người có râu: màu da sáng", 
+        "người có râu: màu da sáng trung bình", 
+        "màu da trung bình", 
+        "râu", 
+        "người có râu: màu da trung bình", 
         "người có râu", 
-        "râu"
+        "người có râu: màu da tối", 
+        "người có râu: màu da tối trung bình", 
+        "màu da sáng trung bình", 
+        "màu da tối trung bình", 
+        "màu da sáng", 
+        "màu da tối"
     ], 
     "🧕": [
-        "tichel", 
-        "hijab", 
-        "khăn trùm đầu", 
+        "người phụ nữ quàng khăn trùm đầu: màu da sáng trung bình", 
+        "người phụ nữ quàng khăn trùm đầu: màu da sáng", 
+        "màu da tối trung bình", 
+        "màu da trung bình", 
+        "màu da tối", 
+        "người phụ nữ quàng khăn trùm đầu: màu da tối", 
         "khăn vuông", 
+        "màu da sáng trung bình", 
+        "người phụ nữ quàng khăn trùm đầu: màu da tối trung bình", 
+        "người phụ nữ quàng khăn trùm đầu: màu da trung bình", 
+        "hijab", 
+        "tichel", 
+        "khăn trùm đầu", 
+        "màu da sáng", 
         "người phụ nữ quàng khăn trùm đầu"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "phòng xông hơi", 
+        "người phụ nữ ở trong phòng xông hơi", 
+        "sauna"
+    ], 
+    "🧖‍♂️": [
+        "người đàn ông ở trong phòng xông hơi", 
         "phòng xông hơi", 
         "người ở trong phòng xông hơi", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "người leo trèo", 
+        "người phụ nữ đang leo núi", 
         "người đang leo núi"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "người leo trèo", 
+        "người đàn ông đang leo núi"
+    ], 
+    "🧘‍♀️": [
         "yoga", 
         "người ngồi kiết già", 
+        "người phụ nữ ngồi kiết già", 
         "thiền"
     ], 
-    "🧙": [
-        "đạo sĩ", 
-        "phù thủy", 
-        "pháp sư", 
-        "pháp sĩ"
+    "🧘‍♂️": [
+        "yoga", 
+        "người đàn ông ngồi kiết già", 
+        "thiền"
     ], 
-    "🧚": [
+    "🧙‍♀️": [
+        "pháp sư nữ", 
+        "phù thủy", 
+        "pháp sĩ", 
+        "đạo sĩ", 
+        "bà cốt", 
+        "pháp sư"
+    ], 
+    "🧙‍♂️": [
+        "pháp sư nam", 
+        "phù thủy", 
+        "pháp sư"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
         "Oberon", 
+        "bà tiên", 
         "Titania", 
         "tiên"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "ông tiên", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
         "Dracula", 
         "xác sống", 
+        "ma cà rồng nữ", 
         "ma cà rồng"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Dracula", 
+        "xác sống", 
+        "ma cà rồng nam"
+    ], 
+    "🧜‍♀️": [
+        "công chúa cá", 
+        "nàng tiên cá"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
+        "chàng tiên cá", 
         "công chúa cá", 
         "người cá", 
         "nàng tiên cá"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "phép thuật", 
+        "nữ quỷ"
+    ], 
+    "🧝‍♂️": [
+        "nam quỷ", 
         "quỷ"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "nữ thần"
+    ], 
+    "🧞‍♂️": [
         "thần", 
+        "nam thần", 
         "djinn"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
         "xác sống", 
+        "xác chết nữ sống lại", 
+        "xác chết sống lại"
+    ], 
+    "🧟‍♂️": [
+        "xác sống", 
+        "xác chết nam sống lại", 
         "xác chết sống lại"
     ], 
     "🧠": [

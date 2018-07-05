@@ -1,4 +1,120 @@
 {
+    "#️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: #"
+    ], 
+    "*️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: *"
+    ], 
+    "0️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 0"
+    ], 
+    "1️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 1"
+    ], 
+    "2️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 2"
+    ], 
+    "3️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 3"
+    ], 
+    "4️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 4"
+    ], 
+    "5️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 5"
+    ], 
+    "6️⃣": [
+        "gorchudd bysell: 6", 
+        "gorchudd bysell"
+    ], 
+    "7️⃣": [
+        "gorchudd bysell: 7", 
+        "gorchudd bysell"
+    ], 
+    "8️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 8"
+    ], 
+    "9️⃣": [
+        "gorchudd bysell", 
+        "gorchudd bysell: 9"
+    ], 
+    "©️": [
+        "hawlfraint"
+    ], 
+    "®️": [
+        "cofrestredig"
+    ], 
+    "‼️": [
+        "bangbang", 
+        "ebychnod", 
+        "atalnodiad", 
+        "ebychnod dwbl", 
+        "marc"
+    ], 
+    "⁉️": [
+        "holnod ebychol", 
+        "ebychnod", 
+        "cwestiwn", 
+        "marc cwestiwn ag ebychnod", 
+        "marc"
+    ], 
+    "™️": [
+        "nod masnachu", 
+        "marc"
+    ], 
+    "ℹ️": [
+        "i", 
+        "gwybodaeth"
+    ], 
+    "↔️": [
+        "saeth chwith-dde", 
+        "saeth"
+    ], 
+    "↕️": [
+        "saeth i fyny-lawr", 
+        "saeth"
+    ], 
+    "↖️": [
+        "saeth i fyny-chwith", 
+        "saeth", 
+        "cyfeiriad", 
+        "Gogledd-orllewin"
+    ], 
+    "↗️": [
+        "Gogledd-ddwyrain", 
+        "saeth", 
+        "cyfeiriad", 
+        "saeth i fyny-dde"
+    ], 
+    "↘️": [
+        "saeth i lawr-dde", 
+        "De-ddwyrain", 
+        "saeth", 
+        "cyfeiriad"
+    ], 
+    "↙️": [
+        "saeth i lawr-chwith", 
+        "De-orllewin", 
+        "saeth", 
+        "cyfeiriad"
+    ], 
+    "↩️": [
+        "saeth", 
+        "saeth i’r dde yn troi i’r chwith"
+    ], 
+    "↪️": [
+        "saeth", 
+        "saeth i’r chwith yn troi i’r dde"
+    ], 
     "⌚": [
         "oriawr", 
         "cloc"
@@ -7,6 +123,14 @@
         "amserydd", 
         "tywod", 
         "awrwydr"
+    ], 
+    "⌨️": [
+        "bysellfwrdd", 
+        "cyfrifiadur"
+    ], 
+    "⏏️": [
+        "allfwrw", 
+        "botwm allfwrw"
     ], 
     "⏩": [
         "dwbl", 
@@ -32,9 +156,39 @@
         "saeth", 
         "botwm i lawr cyflym"
     ], 
+    "⏭️": [
+        "botwm trac nesaf", 
+        "triongl", 
+        "golygfa nesaf", 
+        "saeth", 
+        "trac nesaf"
+    ], 
+    "⏮️": [
+        "triongl", 
+        "golygfa olaf", 
+        "saeth", 
+        "botwm trac olaf", 
+        "trac olaf"
+    ], 
+    "⏯️": [
+        "chwarae", 
+        "triongl", 
+        "botwm chwarae neu saib", 
+        "saeth", 
+        "saib"
+    ], 
     "⏰": [
         "larwm", 
         "cloc larwm", 
+        "cloc"
+    ], 
+    "⏱️": [
+        "stop wats", 
+        "cloc"
+    ], 
+    "⏲️": [
+        "amserydd", 
+        "cloc ag amserydd", 
         "cloc"
     ], 
     "⏳": [
@@ -42,6 +196,62 @@
         "awrwydr gyda thywod yn llifo", 
         "tywod", 
         "awrwydr"
+    ], 
+    "⏸️": [
+        "fertigol", 
+        "dwbl", 
+        "bar", 
+        "saib", 
+        "botwm saib"
+    ], 
+    "⏹️": [
+        "botwm stop", 
+        "stop", 
+        "sgwâr"
+    ], 
+    "⏺️": [
+        "botwm recordio", 
+        "cylch", 
+        "recordio"
+    ], 
+    "Ⓜ️": [
+        "cylch", 
+        "m", 
+        "llythyren M mewn cylch"
+    ], 
+    "▪️": [
+        "sgwâr bach du", 
+        "sgwâr", 
+        "geometrig"
+    ], 
+    "▫️": [
+        "sgwâr", 
+        "geometrig", 
+        "sgwâr bach gwyn"
+    ], 
+    "▶️": [
+        "chwarae", 
+        "botwm chwarae", 
+        "triongl", 
+        "saeth", 
+        "dde"
+    ], 
+    "◀️": [
+        "botwm cildroi", 
+        "triongl", 
+        "saeth", 
+        "cildroi", 
+        "chwith"
+    ], 
+    "◻️": [
+        "sgwâr canolig gwyn", 
+        "sgwâr", 
+        "geometrig"
+    ], 
+    "◼️": [
+        "sgwâr", 
+        "geometrig", 
+        "sgwâr canolig du"
     ], 
     "◽": [
         "sgwâr", 
@@ -52,6 +262,42 @@
         "sgwâr canolig-bach du", 
         "sgwâr", 
         "geometrig"
+    ], 
+    "☀️": [
+        "heulog", 
+        "haul", 
+        "pelydrau", 
+        "golau", 
+        "tywydd"
+    ], 
+    "☁️": [
+        "tywydd", 
+        "cwmwl"
+    ], 
+    "☂️": [
+        "dillad", 
+        "ymbarel", 
+        "glaw", 
+        "tywydd"
+    ], 
+    "☃️": [
+        "tywydd", 
+        "eira", 
+        "dyn eira", 
+        "oerfel"
+    ], 
+    "☄️": [
+        "comed", 
+        "gofod"
+    ], 
+    "☎️": [
+        "ffôn"
+    ], 
+    "☑️": [
+        "blwch pleidlais gyda thic", 
+        "blwch", 
+        "pleidlais", 
+        "tic"
     ], 
     "☔": [
         "dillad", 
@@ -66,6 +312,84 @@
         "coffi", 
         "te", 
         "diod boeth"
+    ], 
+    "☘️": [
+        "samrog", 
+        "planhigyn"
+    ], 
+    "☝️": [
+        "pwyntio", 
+        "corff", 
+        "mynegfys yn pwyntio i fyny", 
+        "mynegfys", 
+        "i fyny"
+    ], 
+    "☠️": [
+        "corff", 
+        "esgyrn croes", 
+        "penglog ac esgyrn croes", 
+        "penglog", 
+        "marwolaeth"
+    ], 
+    "☢️": [
+        "ymbelydrol", 
+        "arwydd"
+    ], 
+    "☣️": [
+        "bioberyg", 
+        "arwydd"
+    ], 
+    "☦️": [
+        "crefydd", 
+        "croes uniongred", 
+        "croes", 
+        "cristnogol"
+    ], 
+    "☪️": [
+        "crefydd", 
+        "mwslim", 
+        "seren a chilgant", 
+        "islam"
+    ], 
+    "☮️": [
+        "symbol hedd", 
+        "heddwch"
+    ], 
+    "☯️": [
+        "crefydd", 
+        "tao", 
+        "taoaidd", 
+        "yin yang"
+    ], 
+    "☸️": [
+        "crefydd", 
+        "dharma", 
+        "bwdhaidd", 
+        "olwyn", 
+        "olwyn dharma"
+    ], 
+    "☹️": [
+        "gwg", 
+        "cuchio", 
+        "wyneb gwgus", 
+        "wyneb"
+    ], 
+    "☺️": [
+        "amlinelliad", 
+        "gwên", 
+        "wyneb yn gwenu", 
+        "wyneb", 
+        "ymlacio"
+    ], 
+    "♀️": [
+        "benywaidd", 
+        "menyw", 
+        "arwydd benyw"
+    ], 
+    "♂️": [
+        "dyn", 
+        "gwrywaidd", 
+        "arwydd gwrw"
     ], 
     "♈": [
         "hwrdd", 
@@ -132,14 +456,96 @@
         "sidydd", 
         "pysgod"
     ], 
+    "♠️": [
+        "siwt rhofiau", 
+        "gêm", 
+        "siwt", 
+        "cardiau", 
+        "rhofiau"
+    ], 
+    "♣️": [
+        "siwt clybiau", 
+        "gêm", 
+        "clybiau", 
+        "siwt", 
+        "cardiau"
+    ], 
+    "♥️": [
+        "gêm", 
+        "siwt calonnau", 
+        "calonnau", 
+        "cardiau", 
+        "siwt"
+    ], 
+    "♦️": [
+        "gêm", 
+        "siwt diemwntau", 
+        "siwt", 
+        "cardiau", 
+        "diemwntau"
+    ], 
+    "♨️": [
+        "tarddelli poeth", 
+        "poeth", 
+        "stêm", 
+        "tarddelli"
+    ], 
+    "♻️": [
+        "ailgylchu", 
+        "symbol ailgylchu"
+    ], 
     "♿": [
         "mynediad", 
         "cadair olwyn"
+    ], 
+    "⚒️": [
+        "morthwyl a chaib", 
+        "offeryn", 
+        "caib", 
+        "morthwyl"
     ], 
     "⚓": [
         "angor", 
         "llong", 
         "offer"
+    ], 
+    "⚔️": [
+        "cleddyfau wedi croesi", 
+        "wedi croesi", 
+        "cleddyfau", 
+        "arf"
+    ], 
+    "⚕️": [
+        "staff", 
+        "arwydd meddygol", 
+        "esgwlapaidd", 
+        "meddyginiaeth"
+    ], 
+    "⚖️": [
+        "pwysau", 
+        "offeryn", 
+        "clorian", 
+        "mantol"
+    ], 
+    "⚗️": [
+        "cemeg", 
+        "distyllydd", 
+        "offeryn"
+    ], 
+    "⚙️": [
+        "offeryn", 
+        "gêr"
+    ], 
+    "⚛️": [
+        "anffyddiwr", 
+        "symbol o atom", 
+        "atom"
+    ], 
+    "⚜️": [
+        "gellesgen"
+    ], 
+    "⚠️": [
+        "rhybudd"
     ], 
     "⚡": [
         "foltedd uchel", 
@@ -156,6 +562,16 @@
         "cylch", 
         "geometrig", 
         "cylch du"
+    ], 
+    "⚰️": [
+        "arch", 
+        "marwolaeth"
+    ], 
+    "⚱️": [
+        "wrn", 
+        "wrn angladd", 
+        "angladd", 
+        "marwolaeth"
     ], 
     "⚽": [
         "pêl", 
@@ -178,6 +594,13 @@
         "haul tu ôl i gwmwl", 
         "cwmwl"
     ], 
+    "⛈️": [
+        "tywydd", 
+        "glau", 
+        "storm", 
+        "cwmwl â mellt a glaw", 
+        "cwmwl"
+    ], 
     "⛎": [
         "sarff", 
         "neidr", 
@@ -185,11 +608,33 @@
         "ophiuchus", 
         "cludwr"
     ], 
+    "⛏️": [
+        "cloddio", 
+        "offeryn", 
+        "caib"
+    ], 
+    "⛑️": [
+        "het", 
+        "cymorth", 
+        "croes", 
+        "helmed â chroes wen", 
+        "wyneb"
+    ], 
+    "⛓️": [
+        "cadwyn", 
+        "cadwyni"
+    ], 
     "⛔": [
         "gwahardd", 
         "dim mynediad", 
         "mynediad", 
         "traffig"
+    ], 
+    "⛩️": [
+        "crefydd", 
+        "cysegrfa shinto", 
+        "cysegrfa", 
+        "shinto"
     ], 
     "⛪": [
         "crefydd", 
@@ -197,6 +642,16 @@
         "cristnogol", 
         "eglwys", 
         "adeilad"
+    ], 
+    "⛰️": [
+        "mynydd"
+    ], 
+    "⛱️": [
+        "ymbarel ar lawr", 
+        "ymbarel", 
+        "haul", 
+        "glaw", 
+        "tywydd"
     ], 
     "⛲": [
         "ffynnon"
@@ -206,11 +661,29 @@
         "golff", 
         "twll"
     ], 
+    "⛴️": [
+        "fferi", 
+        "cwch"
+    ], 
     "⛵": [
         "môr", 
         "cyrchfan", 
         "cwch hwylio", 
         "cwch"
+    ], 
+    "⛷️": [
+        "sgi", 
+        "eira", 
+        "sgïwr"
+    ], 
+    "⛸️": [
+        "iâ", 
+        "sglefrio iâ", 
+        "sglefrio"
+    ], 
+    "⛹️‍♂️": [
+        "pêl", 
+        "person â phêl"
     ], 
     "⛺": [
         "pabell", 
@@ -222,26 +695,121 @@
         "gorsaf", 
         "pwmp tanwydd"
     ], 
+    "✂️": [
+        "siswrn", 
+        "offeryn"
+    ], 
     "✅": [
         "marc tic gwyn trwm", 
         "tic", 
         "marc"
     ], 
+    "✈️": [
+        "cerbyd", 
+        "awyren"
+    ], 
+    "✉️": [
+        "e-bost", 
+        "amlen"
+    ], 
     "✊": [
-        "llaw", 
-        "corff", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "dwrn wedi codi: arlliw croen canolog", 
         "dwrn", 
+        "arlliw croen tywyll", 
+        "dwrn wedi codi: arlliw croen golau", 
+        "cau", 
+        "dwrn wedi codi: arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "dwrn wedi codi: arlliw croen tywyll", 
         "dwrn wedi codi", 
-        "cau"
+        "arlliw croen canolog", 
+        "llaw", 
+        "dwrn wedi codi: arlliw croen canolig-golau"
     ], 
     "✋": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "llaw wedi codi: arlliw croen canolig-golau", 
+        "llaw wedi codi: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "corff", 
+        "llaw wedi codi", 
+        "llaw wedi codi: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "llaw wedi codi: arlliw croen canolog", 
+        "llaw wedi codi: arlliw croen canolig-tywyll"
+    ], 
+    "✌️": [
         "llaw", 
         "corff", 
-        "llaw wedi codi"
+        "llaw fuddugol", 
+        "buddugoliaeth", 
+        "v"
+    ], 
+    "✍️": [
+        "llaw", 
+        "corff", 
+        "ysgrifennu", 
+        "dwylo yn ysgrifennu"
+    ], 
+    "✏️": [
+        "pensil"
+    ], 
+    "✒️": [
+        "nib", 
+        "pen", 
+        "nib du"
+    ], 
+    "✔️": [
+        "marc tic trwm", 
+        "tic", 
+        "marc"
+    ], 
+    "✖️": [
+        "x", 
+        "lluosiad", 
+        "canslo", 
+        "lluosi", 
+        "lluosi x trwm"
+    ], 
+    "✝️": [
+        "crefydd", 
+        "croes ladin", 
+        "croes", 
+        "cristnogol"
+    ], 
+    "✡️": [
+        "Iddew", 
+        "Iddewig", 
+        "seren Dafydd", 
+        "Dafydd", 
+        "seren"
     ], 
     "✨": [
         "gwreichion", 
         "seren"
+    ], 
+    "✳️": [
+        "asterics", 
+        "asterics wyth pwynt"
+    ], 
+    "✴️": [
+        "seren", 
+        "seren wyth pwynt"
+    ], 
+    "❄️": [
+        "oer", 
+        "tywydd", 
+        "eira", 
+        "pluen eira"
+    ], 
+    "❇️": [
+        "fflachiad"
     ], 
     "❌": [
         "x", 
@@ -280,6 +848,17 @@
         "atalnodiad", 
         "marc"
     ], 
+    "❣️": [
+        "marc", 
+        "calon", 
+        "ebychiad trwm galon", 
+        "atalnodiad", 
+        "ebychiad"
+    ], 
+    "❤️": [
+        "calon goch", 
+        "calon"
+    ], 
     "➕": [
         "math", 
         "arwydd adio trwm", 
@@ -295,6 +874,12 @@
         "rhannu", 
         "math"
     ], 
+    "➡️": [
+        "saeth i’r dde", 
+        "saeth", 
+        "cyfeiriad", 
+        "Dwyrain"
+    ], 
     "➰": [
         "cwrl", 
         "dolen gyrliog", 
@@ -305,6 +890,33 @@
         "dwbl", 
         "dolen gyrliog ddwbl", 
         "dolen"
+    ], 
+    "⤴️": [
+        "saeth i’r dde yn troi i fyny", 
+        "saeth"
+    ], 
+    "⤵️": [
+        "saeth i’r dde yn troi i lawr", 
+        "i lawr", 
+        "saeth"
+    ], 
+    "⬅️": [
+        "Gorllewin", 
+        "saeth i’r chwith", 
+        "saeth", 
+        "cyfeiriad"
+    ], 
+    "⬆️": [
+        "saeth i fyny", 
+        "saeth", 
+        "cyfeiriad", 
+        "Gogledd"
+    ], 
+    "⬇️": [
+        "De", 
+        "saeth", 
+        "cyfeiriad", 
+        "saeth i lawr"
     ], 
     "⬛": [
         "sgwâr mawr du", 
@@ -325,6 +937,30 @@
         "cylch mawr trwm", 
         "o"
     ], 
+    "〰️": [
+        "llinell donnog", 
+        "tonnog", 
+        "atalnodiad", 
+        "llinell"
+    ], 
+    "〽️": [
+        "marc aryneilio rhannol", 
+        "rhan", 
+        "marc"
+    ], 
+    "㊗️": [
+        "Tsieineaidd", 
+        "llongyfarchiad", 
+        "ideograff cyfarchion mewn cylch", 
+        "ideograff", 
+        "llongyfarchiadau"
+    ], 
+    "㊙️": [
+        "Tsieineaidd", 
+        "ideograff cyfrinach mewn cylch", 
+        "cyfrinach", 
+        "ideograff"
+    ], 
     "🀄": [
         "gêm", 
         "mahjong", 
@@ -336,6 +972,25 @@
         "gêm", 
         "cellweiriwr", 
         "cardiau"
+    ], 
+    "🅰️": [
+        "a", 
+        "gwaed", 
+        "botwm A (grwp gwaed)"
+    ], 
+    "🅱️": [
+        "botwm B (grwp gwaed)", 
+        "gwaed", 
+        "b"
+    ], 
+    "🅾️": [
+        "gwaed", 
+        "o", 
+        "botwm O (grwp gwaed)"
+    ], 
+    "🅿️": [
+        "parcio", 
+        "botwm P"
     ], 
     "🆎": [
         "gwaed", 
@@ -1422,6 +2077,10 @@
         "katakana koko mewn sgwâr", 
         "Japaneaidd"
     ], 
+    "🈂️": [
+        "katakana sa mewn sgwâr", 
+        "Japaneaidd"
+    ], 
     "🈚": [
         "ideograff negyddiad mewn sgwâr", 
         "Japaneaidd"
@@ -1448,6 +2107,10 @@
     ], 
     "🈶": [
         "ideograff bodoli mewn sgwâr", 
+        "Japaneaidd"
+    ], 
+    "🈷️": [
+        "ideograff lleuad mewn sgwâr", 
         "Japaneaidd"
     ], 
     "🈸": [
@@ -1674,6 +2337,66 @@
         "gwibio", 
         "syrthio"
     ], 
+    "🌡️": [
+        "tywydd", 
+        "thermomedr"
+    ], 
+    "🌤️": [
+        "haul", 
+        "haul tu ôl i gwmwl bach", 
+        "tywydd", 
+        "cwmwl"
+    ], 
+    "🌥️": [
+        "haul", 
+        "tywydd", 
+        "haul tu ôl i gwmwl mawr", 
+        "cwmwl"
+    ], 
+    "🌦️": [
+        "haul tu ôl i gwmwl gyda glaw", 
+        "haul", 
+        "tywydd", 
+        "glaw", 
+        "cwmwl"
+    ], 
+    "🌧️": [
+        "tywydd", 
+        "cwmwl gyda glaw", 
+        "glaw", 
+        "cwmwl"
+    ], 
+    "🌨️": [
+        "oer", 
+        "tywydd", 
+        "cwmwl gydag eira", 
+        "eira", 
+        "cwmwl"
+    ], 
+    "🌩️": [
+        "cwmwl gyda mellt", 
+        "tywydd", 
+        "mellt", 
+        "cwmwl"
+    ], 
+    "🌪️": [
+        "tywydd", 
+        "chwyrlwynt", 
+        "corwynt", 
+        "cwmwl"
+    ], 
+    "🌫️": [
+        "niwl", 
+        "tywydd", 
+        "cwmwl"
+    ], 
+    "🌬️": [
+        "chwythu", 
+        "tywydd", 
+        "wyneb gwyntog", 
+        "wyneb", 
+        "cwmwl"
+    ], 
     "🌭": [
         "selsigen mewn bynen", 
         "frankfurter"
@@ -1714,6 +2437,12 @@
     "🌵": [
         "planhigyn", 
         "cactws"
+    ], 
+    "🌶️": [
+        "twym", 
+        "planhigyn", 
+        "pupur twym", 
+        "pupur"
     ], 
     "🌷": [
         "tiwlip", 
@@ -2106,6 +2835,13 @@
         "llaeth", 
         "diod"
     ], 
+    "🍽️": [
+        "plât", 
+        "cyllell", 
+        "fforc", 
+        "fforc a chyllell gyda phlât", 
+        "coginio"
+    ], 
     "🍾": [
         "corcyn", 
         "botel", 
@@ -2146,10 +2882,20 @@
         "nadolig"
     ], 
     "🎅": [
-        "dathliad", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "Nadolig", 
+        "Siôn Corn: arlliw croen tywyll", 
+        "Siôn Corn: arlliw croen golau", 
+        "Siôn Corn: arlliw croen canolig-tywyll", 
         "Siôn Corn", 
+        "arlliw croen golau", 
+        "Siôn Corn: arlliw croen canolog", 
+        "arlliw croen tywyll", 
         "santa", 
-        "Nadolig"
+        "arlliw croen canolog", 
+        "dathliad", 
+        "Siôn Corn: arlliw croen canolig-golau"
     ], 
     "🎆": [
         "dathliad", 
@@ -2235,6 +2981,47 @@
         "cap", 
         "dathlu", 
         "het"
+    ], 
+    "🎖️": [
+        "dathliad", 
+        "medal", 
+        "milwrol", 
+        "medal filwrol"
+    ], 
+    "🎗️": [
+        "rhuban atgoffa", 
+        "dathliad", 
+        "rhuban", 
+        "atgoffa"
+    ], 
+    "🎙️": [
+        "stiwdio", 
+        "meic", 
+        "cerddoriaeth", 
+        "meicroffon", 
+        "meicroffon stiwdio"
+    ], 
+    "🎚️": [
+        "llithrydd lefel", 
+        "cerddoriaeth", 
+        "lefel"
+    ], 
+    "🎛️": [
+        "rheoli", 
+        "dyrnau rheoli", 
+        "cerddoriaeth", 
+        "dyrnau"
+    ], 
+    "🎞️": [
+        "ffilm", 
+        "fframiau ffilm", 
+        "sinema", 
+        "fframiau"
+    ], 
+    "🎟️": [
+        "mynediad", 
+        "tocynnau mynediad", 
+        "tocyn"
     ], 
     "🎠": [
         "ceffyl", 
@@ -2414,19 +3201,46 @@
         "sgwariog"
     ], 
     "🏂": [
-        "sgi", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
         "eirafyrddiwr", 
+        "eirafyrddiwr: arlliw croen tywyll", 
         "eira", 
-        "eirafyrddio"
+        "eirafyrddio", 
+        "eirafyrddiwr: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "sgi", 
+        "eirafyrddiwr: arlliw croen canolog", 
+        "eirafyrddiwr: arlliw croen golau", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "eirafyrddiwr: arlliw croen canolig-tywyll"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "menyw", 
+        "rhedeg", 
+        "menyw yn rhedeg", 
+        "marathon", 
+        "ras"
+    ], 
+    "🏃‍♂️": [
         "person yn rhedeg", 
         "rhedeg", 
+        "dyn", 
+        "ras", 
+        "dyn yn rhedeg", 
         "marathon"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "menyw", 
+        "menyw yn syrffio", 
+        "syrffio"
+    ], 
+    "🏄‍♂️": [
         "syrffio", 
-        "person yn syrffio"
+        "dyn", 
+        "person yn syrffio", 
+        "dyn yn syrffio"
     ], 
     "🏅": [
         "medal", 
@@ -2437,10 +3251,20 @@
         "gwobr"
     ], 
     "🏇": [
+        "arlliw croen canolig-tywyll", 
         "ceffyl", 
+        "rasio ceffylau: arlliw croen tywyll", 
+        "rasio ceffylau: arlliw croen golau", 
         "rasio", 
-        "joci", 
-        "rasio ceffylau"
+        "rasio ceffylau: arlliw croen canolig-golau", 
+        "rasio ceffylau: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "rasio ceffylau", 
+        "rasio ceffylau: arlliw croen canolig-tywyll", 
+        "joci"
     ], 
     "🏈": [
         "americanaidd", 
@@ -2454,9 +3278,35 @@
         "pêl rygbi", 
         "pêl droed"
     ], 
-    "🏊": [
-        "person yn nofio", 
+    "🏊‍♀️": [
+        "menyw", 
+        "menyw yn nofio", 
         "nofio"
+    ], 
+    "🏊‍♂️": [
+        "person yn nofio", 
+        "dyn yn nofio", 
+        "nofio", 
+        "dyn"
+    ], 
+    "🏋️‍♂️": [
+        "codwr", 
+        "person yn codi pwysau", 
+        "pwysau"
+    ], 
+    "🏌️‍♂️": [
+        "pêl", 
+        "person yn chwarae golff", 
+        "golff"
+    ], 
+    "🏍️": [
+        "rasio", 
+        "beic modur"
+    ], 
+    "🏎️": [
+        "car", 
+        "rasio", 
+        "car rasio"
     ], 
     "🏏": [
         "gêm", 
@@ -2489,6 +3339,62 @@
         "tenis", 
         "ping-pong", 
         "pêl"
+    ], 
+    "🏔️": [
+        "mynydd wedi’i orchuddio mewn eira", 
+        "oer", 
+        "mynydd", 
+        "eira"
+    ], 
+    "🏕️": [
+        "gwersyllu", 
+        "gwersylla"
+    ], 
+    "🏖️": [
+        "traeth ag ymbarél", 
+        "traeth", 
+        "ymbarel"
+    ], 
+    "🏗️": [
+        "adeiladwaith adeilad", 
+        "adeiladwaith", 
+        "adeilad"
+    ], 
+    "🏘️": [
+        "tŷ", 
+        "adeiladu", 
+        "tai"
+    ], 
+    "🏙️": [
+        "dinas", 
+        "dinaslun", 
+        "adeiladu"
+    ], 
+    "🏚️": [
+        "tŷ", 
+        "tŷ gwag", 
+        "gwag", 
+        "adeilad"
+    ], 
+    "🏛️": [
+        "adeilad clasurol", 
+        "clasurol", 
+        "adeilad"
+    ], 
+    "🏜️": [
+        "anialwch"
+    ], 
+    "🏝️": [
+        "ynys anghyfannedd", 
+        "ynys", 
+        "anghyfannedd"
+    ], 
+    "🏞️": [
+        "parc cenedlaethol", 
+        "parc"
+    ], 
+    "🏟️": [
+        "stadiwm"
     ], 
     "🏠": [
         "cartref", 
@@ -2581,9 +3487,25 @@
         "castell", 
         "adeilad"
     ], 
+    "🏳️": [
+        "chwifio baner wen", 
+        "chwifio"
+    ], 
+    "🏳️‍🌈": [
+        "baner enfys", 
+        "baner", 
+        "enfys"
+    ], 
     "🏴": [
         "chwifio baner ddu", 
         "chwifio"
+    ], 
+    "🏵️": [
+        "planhigyn", 
+        "rhosglwm"
+    ], 
+    "🏷️": [
+        "label"
     ], 
     "🏸": [
         "gêm", 
@@ -2893,19 +3815,46 @@
         "olion pawen", 
         "traed"
     ], 
+    "🐿️": [
+        "gwiwer resog"
+    ], 
     "👀": [
         "corff", 
         "llygad", 
         "wyneb", 
         "llygaid"
     ], 
-    "👂": [
+    "👁️": [
         "corff", 
-        "clust"
+        "llygad"
+    ], 
+    "👂": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "clust", 
+        "clust: arlliw croen canolig-golau", 
+        "clust: arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "clust: arlliw croen tywyll", 
+        "clust: arlliw croen canolog", 
+        "clust: arlliw croen golau", 
+        "arlliw croen canolog"
     ], 
     "👃": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "trwyn: arlliw croen canolig-golau", 
+        "trwyn", 
+        "trwyn: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "corff", 
-        "trwyn"
+        "arlliw croen canolog", 
+        "trwyn: arlliw croen canolog", 
+        "trwyn: arlliw croen canolig-tywyll", 
+        "trwyn: arlliw croen golau"
     ], 
     "👄": [
         "ceg", 
@@ -2918,74 +3867,184 @@
     ], 
     "👆": [
         "gwrthlaw", 
-        "corff", 
-        "bys", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
         "mynegfys", 
-        "mynegfys yr wrthlaw yn pwyntio i fyny"
+        "mynegfys yr wrthlaw yn pwyntio i fyny: arlliw croen canolig-tywyll", 
+        "mynegfys yr wrthlaw yn pwyntio i fyny", 
+        "mynegfys yr wrthlaw yn pwyntio i fyny: arlliw croen tywyll", 
+        "bys", 
+        "mynegfys yr wrthlaw yn pwyntio i fyny: arlliw croen canolig-golau", 
+        "arlliw croen golau", 
+        "corff", 
+        "mynegfys yr wrthlaw yn pwyntio i fyny: arlliw croen canolog", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "mynegfys yr wrthlaw yn pwyntio i fyny: arlliw croen golau"
     ], 
     "👇": [
         "gwrthlaw", 
-        "corff", 
-        "bys", 
+        "arlliw croen canolig-golau", 
+        "mynegfys yr wrthlaw yn pwyntio i lawr: arlliw croen canolog", 
+        "mynegfys yr wrthlaw yn pwyntio i lawr: arlliw croen tywyll", 
         "mynegfys", 
-        "mynegfys yr wrthlaw yn pwyntio i lawr"
+        "mynegfys yr wrthlaw yn pwyntio i lawr: arlliw croen canolig-golau", 
+        "bys", 
+        "mynegfys yr wrthlaw yn pwyntio i lawr: arlliw croen golau", 
+        "arlliw croen golau", 
+        "corff", 
+        "arlliw croen canolig-tywyll", 
+        "mynegfys yr wrthlaw yn pwyntio i lawr", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "mynegfys yr wrthlaw yn pwyntio i lawr: arlliw croen canolig-tywyll"
     ], 
     "👈": [
         "gwrthlaw", 
-        "corff", 
-        "mynegfys yr wrthlaw yn pwyntio i’r chwith", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "mynegfys yr wrthlaw yn pwyntio i’r chwith: arlliw croen canolig-tywyll", 
+        "mynegfys yr wrthlaw yn pwyntio i’r chwith: arlliw croen tywyll", 
+        "arlliw croen canolog", 
         "bys", 
-        "llaw"
+        "mynegfys yr wrthlaw yn pwyntio i’r chwith: arlliw croen canolig-golau", 
+        "arlliw croen golau", 
+        "corff", 
+        "mynegfys yr wrthlaw yn pwyntio i’r chwith: arlliw croen canolog", 
+        "arlliw croen canolig-tywyll", 
+        "mynegfys yr wrthlaw yn pwyntio i’r chwith: arlliw croen golau", 
+        "llaw", 
+        "mynegfys yr wrthlaw yn pwyntio i’r chwith"
     ], 
     "👉": [
         "gwrthlaw", 
-        "corff", 
-        "mynegfys yr wrthlaw yn pwyntio i’r dde", 
+        "arlliw croen canolig-golau", 
+        "mynegfys yr wrthlaw yn pwyntio i’r dde: arlliw croen canolig-tywyll", 
+        "mynegfys yr wrthlaw yn pwyntio i’r dde: arlliw croen canolig-golau", 
+        "mynegfys yr wrthlaw yn pwyntio i’r dde: arlliw croen tywyll", 
         "bys", 
-        "llaw"
+        "mynegfys yr wrthlaw yn pwyntio i’r dde", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "mynegfys yr wrthlaw yn pwyntio i’r dde: arlliw croen canolog", 
+        "mynegfys yr wrthlaw yn pwyntio i’r dde: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "arlliw croen canolig-tywyll"
     ], 
     "👊": [
-        "llaw", 
-        "corff", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "dwrn", 
+        "dwrn yn agosáu: arlliw croen golau", 
+        "dwrn yn agosáu: arlliw croen tywyll", 
+        "dwrn yn agosáu: arlliw croen canolig-tywyll", 
+        "cau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "dwrn yn agosáu: arlliw croen canolog", 
         "dwrn yn agosáu", 
-        "cau"
+        "arlliw croen canolog", 
+        "llaw", 
+        "dwrn yn agosáu: arlliw croen canolig-golau"
     ], 
     "👋": [
-        "llaw", 
-        "corff", 
+        "llaw yn chwifio: arlliw croen canolog", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
         "chwifio", 
-        "llaw yn chwifio"
+        "llaw yn chwifio", 
+        "arlliw croen golau", 
+        "corff", 
+        "llaw yn chwifio: arlliw croen canolig-golau", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "llaw yn chwifio: arlliw croen golau", 
+        "llaw yn chwifio: arlliw croen tywyll", 
+        "llaw yn chwifio: arlliw croen canolig-tywyll"
     ], 
     "👌": [
-        "llaw", 
-        "corff", 
+        "llaw ocê: arlliw croen golau", 
+        "arlliw croen canolig-golau", 
         "llaw ocê", 
-        "ok"
+        "llaw ocê: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "llaw ocê: arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "ok", 
+        "llaw ocê: arlliw croen tywyll", 
+        "llaw ocê: arlliw croen canolig-golau"
     ], 
     "👍": [
-        "bys bawd i fyny", 
-        "bys bawd", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "bys bawd i fyny: arlliw croen canolog", 
         "ok", 
-        "corff"
+        "bys bawd i fyny: arlliw croen canolig-tywyll", 
+        "bys bawd i fyny: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "bys bawd i fyny", 
+        "bys bawd i fyny: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "bys bawd i fyny: arlliw croen canolig-golau", 
+        "bys bawd"
     ], 
     "👎": [
-        "llaw", 
-        "corff", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "bys bawd i lawr: arlliw croen canolog", 
         "i lawr", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "bys bawd i lawr: arlliw croen golau", 
         "bys bawd", 
-        "bys bawd i lawr"
+        "bys bawd i lawr: arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "bys bawd i lawr: arlliw croen canolig-tywyll", 
+        "bys bawd i lawr", 
+        "bys bawd i lawr: arlliw croen tywyll"
     ], 
     "👏": [
-        "dwylo yn curo", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "dwylo yn curo: arlliw croen canolog", 
+        "dwylo yn curo: arlliw croen golau", 
+        "dwylo yn curo: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "corff", 
+        "dwylo yn curo: arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "dwylo yn curo", 
+        "curo", 
         "llaw", 
-        "curo"
+        "dwylo yn curo: arlliw croen canolig-tywyll"
     ], 
     "👐": [
-        "llaw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "dwylo agored: arlliw croen canolig-golau", 
+        "dwylo agored: arlliw croen canolig-tywyll", 
+        "dwylo agored: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "corff", 
+        "dwylo agored: arlliw croen tywyll", 
         "dwylo agored", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "dwylo agored: arlliw croen golau", 
         "agored"
     ], 
     "👑": [
@@ -3100,59 +4159,194 @@
         "bronnau mewn silwét"
     ], 
     "👦": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "bachgen", 
-        "gwrywaidd"
+        "bachgen: arlliw croen canolig-golau", 
+        "bachgen: arlliw croen tywyll", 
+        "bachgen: arlliw croen golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen canolog", 
+        "bachgen: arlliw croen canolig-tywyll", 
+        "gwrywaidd", 
+        "bachgen: arlliw croen canolog"
     ], 
     "👧": [
-        "benywaidd", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "merch: arlliw croen canolig-golau", 
+        "arlliw croen golau", 
+        "merch: arlliw croen tywyll", 
+        "morwyn", 
+        "arlliw croen tywyll", 
         "merch", 
-        "morwyn"
+        "merch: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "benywaidd", 
+        "merch: arlliw croen canolog", 
+        "merch: arlliw croen golau"
     ], 
     "👨": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "dyn: arlliw croen tywyll", 
+        "dyn: arlliw croen golau", 
+        "dyn: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "dyn", 
-        "gwrywaidd"
+        "dyn: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "gwrywaidd", 
+        "dyn: arlliw croen canolog"
     ], 
-    "👨‍🌾": [
-        "garddwr", 
+    "👨‍⚕️": [
+        "gweithiwr iechyd gwrywaidd", 
+        "gwrywaidd", 
+        "meddyg", 
+        "gofal iechyd", 
+        "nyrs"
+    ], 
+    "👨‍⚖️": [
         "dyn", 
         "gwrywaidd", 
-        "ffermwr"
+        "clorian", 
+        "barnwr", 
+        "cyfiawnder"
+    ], 
+    "👨‍✈️": [
+        "dyn", 
+        "gwrywaidd", 
+        "peilot", 
+        "awyren", 
+        "peilot gwrywaidd"
+    ], 
+    "👨‍❤️‍👨": [
+        "pâr a chalon: dyn, dyn", 
+        "pâr", 
+        "pâr a chalon", 
+        "dyn", 
+        "cariad", 
+        "calon"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "dyn", 
+        "pâr", 
+        "cusan: dyn, dyn", 
+        "cusan"
+    ], 
+    "👨‍🌾": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "garddwr", 
+        "ffermwr: arlliw croen canolig-tywyll", 
+        "ffermwr: arlliw croen canolig-golau", 
+        "ffermwr: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "dyn", 
+        "ffermwr: arlliw croen canolog", 
+        "ffermwr: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "ffermwr", 
+        "gwrywaidd"
     ], 
     "👨‍🍳": [
         "cogydd", 
+        "cogydd: arlliw croen golau", 
+        "cogydd: arlliw croen canolig-tywyll", 
+        "cogydd: arlliw croen canolig-golau", 
+        "cogydd: arlliw croen tywyll", 
+        "cogydd: arlliw croen canolog", 
+        "coginio", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
         "dyn", 
-        "gwrywaidd", 
-        "coginio"
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "gwrywaidd"
     ], 
     "👨‍🎓": [
-        "dyn", 
-        "gwrywaidd", 
+        "arlliw croen canolig-tywyll", 
+        "myfyriwr: arlliw croen golau", 
         "myfyriwr", 
-        "graddio"
+        "myfyriwr: arlliw croen canolog", 
+        "myfyriwr: arlliw croen canolig-tywyll", 
+        "graddio", 
+        "arlliw croen golau", 
+        "dyn", 
+        "myfyriwr: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "gwrywaidd", 
+        "myfyriwr: arlliw croen canolig-golau"
     ], 
     "👨‍🎤": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "actor", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "dyn", 
         "cantor", 
+        "cantor: arlliw croen canolig-golau", 
         "adlonni", 
-        "actor"
+        "arlliw croen canolog", 
+        "cantor: arlliw croen canolig-tywyll", 
+        "cantor: arlliw croen canolog", 
+        "cantor: arlliw croen tywyll", 
+        "cantor: arlliw croen golau"
     ], 
     "👨‍🎨": [
-        "palet", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlunydd: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "arlunydd: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "dyn", 
-        "arlunydd"
+        "arlunydd", 
+        "arlunydd: arlliw croen canolig-golau", 
+        "arlunydd: arlliw croen canolog", 
+        "palet", 
+        "arlunydd: arlliw croen golau"
     ], 
     "👨‍🏫": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "athro: arlliw croen canolig-golau", 
+        "athro: arlliw croen canolig-tywyll", 
+        "athro: arlliw croen canolog", 
+        "hyfforddwr", 
+        "arlliw croen golau", 
+        "athro: arlliw croen golau", 
         "dyn", 
-        "gwrywaidd", 
+        "athro: arlliw croen tywyll", 
         "athro", 
-        "hyfforddwr"
+        "arlliw croen canolog", 
+        "gwrywaidd"
     ], 
     "👨‍🏭": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "gweithiwr ffatri: arlliw croen tywyll", 
+        "gweithiwr ffatri: arlliw croen golau", 
+        "gweithiwr ffatri: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
         "cydosod", 
-        "gweithiwr ffatri", 
+        "gweithiwr ffatri: arlliw croen canolog", 
         "dyn", 
-        "ffatri", 
-        "diwydiant"
+        "diwydiant", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "gweithiwr ffatri", 
+        "gweithiwr ffatri: arlliw croen canolig-tywyll", 
+        "ffatri"
     ], 
     "👨‍👦": [
         "teulu: dyn, bachgen", 
@@ -3298,90 +4492,281 @@
         "teulu: dyn, menyw, merch, merch"
     ], 
     "👨‍💻": [
-        "dyn", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "technolegwr: arlliw croen canolig-golau", 
         "dyfeisio", 
+        "technolegwr: arlliw croen golau", 
+        "arlliw croen golau", 
+        "dyn", 
         "technolegwr", 
         "datblygydd", 
-        "codydd"
+        "arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "technolegwr: arlliw croen canolig-tywyll", 
+        "technolegwr: arlliw croen canolog", 
+        "codydd", 
+        "technolegwr: arlliw croen tywyll"
     ], 
     "👨‍💼": [
-        "swyddfa", 
-        "busnes", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "gweithiwr swyddfa gwrywaidd: arlliw croen canolig-tywyll", 
         "pensaer", 
+        "busnes", 
+        "gweithiwr swyddfa gwrywaidd: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "dyn", 
+        "gweithiwr swyddfa gwrywaidd: arlliw croen golau", 
+        "gweithiwr swyddfa gwrywaidd: arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "swyddfa", 
+        "gweithiwr swyddfa gwrywaidd: arlliw croen canolig-golau", 
         "gweithiwr swyddfa gwrywaidd"
     ], 
     "👨‍🔧": [
-        "peiriannydd", 
-        "peiriannydd gwrywaidd", 
-        "dyn", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "trydanwr", 
-        "plymwr"
+        "peiriannydd gwrywaidd: arlliw croen tywyll", 
+        "peiriannydd", 
+        "peiriannydd gwrywaidd: arlliw croen canolig-tywyll", 
+        "plymwr", 
+        "arlliw croen golau", 
+        "peiriannydd gwrywaidd: arlliw croen canolig-golau", 
+        "dyn", 
+        "peiriannydd gwrywaidd: arlliw croen canolog", 
+        "peiriannydd gwrywaidd: arlliw croen golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "peiriannydd gwrywaidd"
     ], 
     "👨‍🔬": [
-        "biolegydd", 
-        "gwyddonydd", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "gwyddonydd: arlliw croen canolog", 
+        "gwyddonydd: arlliw croen tywyll", 
+        "cemegydd", 
         "dyn", 
-        "cemegydd"
+        "gwyddonydd: arlliw croen golau", 
+        "arlliw croen golau", 
+        "gwyddonydd: arlliw croen canolig-tywyll", 
+        "biolegydd", 
+        "gwyddonydd: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "gwyddonydd"
     ], 
     "👨‍🚀": [
-        "gofodwr", 
-        "dyn", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "gofod", 
-        "roced"
+        "gofodwr", 
+        "arlliw croen canolog", 
+        "gofodwr: arlliw croen canolog", 
+        "gofodwr: arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "dyn", 
+        "arlliw croen tywyll", 
+        "roced", 
+        "gofodwr: arlliw croen golau", 
+        "gofodwr: arlliw croen canolig-golau", 
+        "gofodwr: arlliw croen tywyll"
     ], 
     "👨‍🚒": [
-        "dyn", 
+        "dyn tân: arlliw croen golau", 
+        "arlliw croen canolig-golau", 
+        "lori tân", 
         "dyn tân", 
-        "lori tân"
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
+        "dyn", 
+        "dyn tân: arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "dyn tân: arlliw croen canolig-tywyll", 
+        "dyn tân: arlliw croen tywyll", 
+        "dyn tân: arlliw croen canolog"
     ], 
     "👩": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen tywyll", 
+        "menyw: arlliw croen canolog", 
+        "menyw: arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "menyw", 
+        "menyw: arlliw croen golau", 
+        "arlliw croen canolog", 
         "benywaidd", 
-        "menyw"
+        "menyw: arlliw croen tywyll", 
+        "menyw: arlliw croen canolig-golau"
+    ], 
+    "👩‍⚕️": [
+        "benywaidd", 
+        "gweithiwr iechyd benywaidd", 
+        "meddyg", 
+        "gofal iechyd", 
+        "nyrs"
+    ], 
+    "👩‍⚖️": [
+        "benywaidd", 
+        "menyw", 
+        "barnwres", 
+        "clorian", 
+        "cyfiawnder"
+    ], 
+    "👩‍✈️": [
+        "benywaidd", 
+        "menyw", 
+        "peilot benywaidd", 
+        "peilot", 
+        "awyren"
+    ], 
+    "👩‍❤️‍👨": [
+        "pâr", 
+        "pâr a chalon", 
+        "dyn", 
+        "cariad", 
+        "menyw", 
+        "calon", 
+        "pâr a chalon: menyw, dyn"
+    ], 
+    "👩‍❤️‍👩": [
+        "pâr", 
+        "pâr a chalon", 
+        "cariad", 
+        "menyw", 
+        "calon", 
+        "pâr a chalon: menyw, menyw"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "menyw", 
+        "dyn", 
+        "pâr", 
+        "cusan: menyw, dyn", 
+        "cusan"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "menyw", 
+        "pâr", 
+        "cusan: menyw, menyw", 
+        "cusan"
     ], 
     "👩‍🌾": [
-        "benywaidd", 
         "ffarmwraig", 
-        "menyw", 
         "garddio", 
+        "ffarmwraig: arlliw croen canolig-tywyll", 
+        "ffarmwraig: arlliw croen canolig-golau", 
+        "ffarmwraig: arlliw croen golau", 
+        "ffarmwraig: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "ffarmwraig: arlliw croen tywyll", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "benywaidd", 
         "ffermio"
     ], 
     "👩‍🍳": [
-        "benywaidd", 
         "cogydd", 
+        "arlliw croen canolig-golau", 
+        "cogyddes: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "cogyddes: arlliw croen canolog", 
+        "cogyddes: arlliw croen golau", 
+        "cogyddes: arlliw croen canolig-tywyll", 
+        "coginio", 
+        "arlliw croen golau", 
         "menyw", 
-        "cogyddes", 
-        "coginio"
+        "arlliw croen canolig-tywyll", 
+        "cogyddes: arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "benywaidd", 
+        "cogyddes"
     ], 
     "👩‍🎓": [
-        "benywaidd", 
-        "menyw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "myfyrwraig: arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
+        "myfyrwraig: arlliw croen canolog", 
         "myfyrwraig", 
-        "graddio"
+        "graddio", 
+        "arlliw croen golau", 
+        "menyw", 
+        "myfyrwraig: arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "benywaidd", 
+        "myfyrwraig: arlliw croen golau", 
+        "myfyrwraig: arlliw croen tywyll"
     ], 
     "👩‍🎤": [
-        "menyw", 
-        "adlonni", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "cantores: arlliw croen tywyll", 
+        "cantores: arlliw croen canolog", 
+        "cantores: arlliw croen golau", 
+        "cantores: arlliw croen canolig-tywyll", 
+        "cantores: arlliw croen canolig-golau", 
         "actor", 
-        "cantores"
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "cantores", 
+        "adlonni", 
+        "arlliw croen canolog"
     ], 
     "👩‍🎨": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlunwraig: arlliw croen tywyll", 
+        "arlunwraig: arlliw croen golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlunwraig: arlliw croen canolig-tywyll", 
+        "arlunwraig: arlliw croen canolig-golau", 
+        "benyw", 
+        "arlliw croen canolog", 
         "palet", 
-        "arlunwraig", 
-        "benyw"
+        "arlunwraig: arlliw croen canolog", 
+        "arlunwraig"
     ], 
     "👩‍🏫": [
-        "benywaidd", 
-        "menyw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "hyfforddwraig", 
-        "athrawes"
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "athrawes: arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "benywaidd", 
+        "athrawes: arlliw croen golau", 
+        "athrawes: arlliw croen tywyll", 
+        "athrawes", 
+        "athrawes: arlliw croen canolog", 
+        "athrawes: arlliw croen canolig-tywyll"
     ], 
     "👩‍🏭": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "gweithwraig ffatri: arlliw croen golau", 
+        "gweithwraig ffatri: arlliw croen canolog", 
+        "gweithwraig ffatri: arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
         "cydosod", 
-        "ffatri", 
-        "gweithwraig ffatri", 
         "diwydiant", 
-        "benyw"
+        "gweithwraig ffatri: arlliw croen canolig-golau", 
+        "gweithwraig ffatri", 
+        "benyw", 
+        "arlliw croen canolog", 
+        "gweithwraig ffatri: arlliw croen tywyll", 
+        "ffatri"
     ], 
     "👩‍👦": [
         "bachgen", 
@@ -3476,48 +4861,102 @@
         "mam"
     ], 
     "👩‍💻": [
+        "technolegwraig: arlliw croen canolog", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "technolegwraig: arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
         "menyw", 
         "dyfeisio", 
+        "technolegwraig: arlliw croen golau", 
         "datblygydd", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "technolegwraig: arlliw croen tywyll", 
+        "technolegwraig: arlliw croen canolig-golau", 
         "codydd", 
         "technolegwraig"
     ], 
     "👩‍💼": [
-        "menyw", 
+        "gweithiwr swyddfa benywaidd: arlliw croen canolig-golau", 
+        "arlliw croen canolig-golau", 
+        "pensaer", 
+        "gweithiwr swyddfa benywaidd: arlliw croen golau", 
         "busnes", 
+        "gweithiwr swyddfa benywaidd: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "gweithiwr swyddfa benywaidd: arlliw croen tywyll", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "gweithiwr swyddfa benywaidd: arlliw croen canolig-tywyll", 
         "swyddfa", 
-        "gweithiwr swyddfa benywaidd", 
-        "pensaer"
+        "gweithiwr swyddfa benywaidd"
     ], 
     "👩‍🔧": [
-        "benywaidd", 
-        "peiriannydd", 
+        "arlliw croen canolog", 
+        "arlliw croen canolig-golau", 
         "trydanwr", 
+        "peiriannydd benywaidd: arlliw croen canolog", 
+        "peiriannydd benywaidd: arlliw croen tywyll", 
+        "peiriannydd", 
+        "peiriannydd benywaidd: arlliw croen canolig-golau", 
         "plymio", 
-        "peiriannydd benywaidd"
+        "peiriannydd benywaidd: arlliw croen golau", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
+        "peiriannydd benywaidd", 
+        "benywaidd", 
+        "peiriannydd benywaidd: arlliw croen canolig-tywyll"
     ], 
     "👩‍🔬": [
+        "gwyddonwraig: arlliw croen canolig-golau", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "gwyddonwraig: arlliw croen tywyll", 
+        "cemegydd", 
+        "gwyddonwraig: arlliw croen golau", 
+        "gwyddonwraig: arlliw croen canolog", 
+        "gwyddonwraig: arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
         "menyw", 
         "biolegydd", 
-        "gwyddonwraig", 
-        "cemegydd"
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "gwyddonwraig"
     ], 
     "👩‍🚀": [
-        "menyw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "gofod", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "gofodwraig: arlliw croen canolog", 
+        "gofodwraig: arlliw croen tywyll", 
         "gofodwraig", 
-        "roced"
+        "roced", 
+        "arlliw croen canolog", 
+        "gofodwraig: arlliw croen canolig-golau", 
+        "gofodwraig: arlliw croen canolig-tywyll", 
+        "gofodwraig: arlliw croen golau"
     ], 
     "👩‍🚒": [
-        "menyw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "menyw tân: arlliw croen canolog", 
+        "menyw tân: arlliw croen tywyll", 
+        "menyw tân", 
+        "menyw tân: arlliw croen canolig-golau", 
         "lori tân", 
-        "menyw tân"
-    ], 
-    "👪": [
-        "tad", 
-        "plentyn", 
-        "teulu", 
-        "mam"
+        "menyw tân: arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "menyw tân: arlliw croen golau"
     ], 
     "👫": [
         "dal", 
@@ -3539,63 +4978,170 @@
         "dwy fenyw yn dal dwylo", 
         "pâr"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "benywaidd", 
+        "heddlu", 
+        "swyddog heddlu benywaidd", 
+        "plismon", 
+        "swyddog"
+    ], 
+    "👮‍♂️": [
         "swyddog", 
         "heddlu", 
         "plismon", 
-        "heddwas"
+        "swyddog heddlu gwrywaidd", 
+        "heddwas", 
+        "gwrywaidd"
     ], 
-    "👯": [
-        "merch", 
-        "dawnsiwr", 
-        "pobl mewn parti", 
+    "👯‍♀️": [
         "clust", 
-        "menyw"
+        "menyw", 
+        "parti", 
+        "merch", 
+        "menyw mewn parti", 
+        "dawnsiwr", 
+        "menywod", 
+        "pobl mewn parti"
+    ], 
+    "👯‍♂️": [
+        "dawnsiwr", 
+        "dyn", 
+        "dynion", 
+        "dyn mewn parti", 
+        "parti"
     ], 
     "👰": [
-        "priodferch â fêl", 
+        "priodferch â fêl: arlliw croen canolig-golau", 
         "priodas", 
+        "priodferch â fêl: arlliw croen canolig-tywyll", 
         "fêl", 
+        "priodferch â fêl", 
+        "priodferch â fêl: arlliw croen canolog", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
+        "priodferch â fêl: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "priodferch â fêl: arlliw croen golau", 
         "priodferch"
     ], 
-    "👱": [
+    "👱‍♀️": [
         "gwallt golau", 
+        "blonde", 
+        "menyw â gwallt golau", 
+        "menyw"
+    ], 
+    "👱‍♂️": [
+        "gwallt golau", 
+        "dyn", 
+        "dyn â gwallt golau", 
+        "blond", 
         "person â gwallt golau"
     ], 
     "👲": [
         "het", 
+        "arlliw croen canolig-golau", 
+        "dyn â chap Tsieineaidd: arlliw croen canolog", 
+        "dyn â chap Tsieineaidd: arlliw croen golau", 
+        "dyn â chap Tsieineaidd", 
+        "dyn â chap Tsieineaidd: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "gua pi mao", 
         "dyn", 
-        "dyn â chap Tsieineaidd"
+        "arlliw croen canolig-tywyll", 
+        "dyn â chap Tsieineaidd: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "dyn â chap Tsieineaidd: arlliw croen canolig-golau"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "benywaidd", 
+        "menyw", 
         "twrban", 
+        "menyw â thwrban"
+    ], 
+    "👳‍♂️": [
+        "twrban", 
+        "dyn", 
+        "gwrywaidd", 
+        "dyn â thwrban", 
         "person yn gwisgo twrban"
     ], 
     "👴": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "hen ddyn: arlliw croen canolig-tywyll", 
+        "hen ddyn: arlliw croen canolig-golau", 
+        "hen ddyn: arlliw croen tywyll", 
+        "hen ddyn", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "dyn", 
-        "gwrywaidd", 
+        "hen ddyn: arlliw croen canolog", 
+        "hen ddyn: arlliw croen golau", 
+        "arlliw croen canolog", 
         "hen", 
-        "hen ddyn"
+        "gwrywaidd"
     ], 
     "👵": [
-        "benywaidd", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "hen fenyw: arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "hen fenyw: arlliw croen canolig-golau", 
+        "arlliw croen golau", 
         "menyw", 
+        "arlliw croen tywyll", 
+        "hen fenyw", 
+        "benywaidd", 
         "hen", 
-        "hen fenyw"
+        "hen fenyw: arlliw croen canolog", 
+        "hen fenyw: arlliw croen canolig-tywyll", 
+        "hen fenyw: arlliw croen golau"
     ], 
     "👶": [
-        "babi"
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "babi: arlliw croen canolig-tywyll", 
+        "babi", 
+        "babi: arlliw croen golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "babi: arlliw croen canolog", 
+        "arlliw croen canolog", 
+        "babi: arlliw croen tywyll", 
+        "babi: arlliw croen canolig-golau"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "benywaidd", 
+        "menyw", 
+        "adeiladu", 
+        "gweithiwr adeiladu benywaidd", 
+        "gweithwraig"
+    ], 
+    "👷‍♂️": [
         "het", 
         "gweithiwr", 
+        "adeiladwr", 
+        "dyn", 
         "adeiladu", 
-        "adeiladwr"
+        "gweithiwr adeiladu gwrywaidd", 
+        "gwrywaidd"
     ], 
     "👸": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "tywysoges: arlliw croen canolig-golau", 
+        "tywysoges: arlliw croen canolog", 
         "tywysoges", 
-        "ffantasi"
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "tywysoges: arlliw croen tywyll", 
+        "ffantasi", 
+        "tywysoges: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "tywysoges: arlliw croen golau"
     ], 
     "👹": [
         "creadur", 
@@ -3618,11 +5164,21 @@
         "anghenfil"
     ], 
     "👼": [
-        "babi", 
-        "ffantasi", 
-        "wyneb", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "angel", 
-        "babi angel"
+        "wyneb", 
+        "babi", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "babi angel: arlliw croen canolog", 
+        "babi angel: arlliw croen tywyll", 
+        "ffantasi", 
+        "babi angel", 
+        "arlliw croen canolog", 
+        "babi angel: arlliw croen canolig-golau", 
+        "babi angel: arlliw croen canolig-tywyll", 
+        "babi angel: arlliw croen golau"
     ], 
     "👽": [
         "estron", 
@@ -3655,44 +5211,98 @@
         "marwolaeth", 
         "anghenfil"
     ], 
-    "💁": [
-        "llaw", 
-        "tipio", 
+    "💁‍♀️": [
         "help", 
-        "gwybodaeth", 
-        "person yn gwyro llaw"
+        "tipio", 
+        "menyw", 
+        "menyw yn gwyro ei llaw", 
+        "person yn gwyro llaw", 
+        "llaw", 
+        "gwybodaeth"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "llaw", 
+        "dyn yn gwyro ei law", 
+        "dyn", 
+        "tipio", 
+        "gwybodaeth"
+    ], 
+    "💂‍♀️": [
+        "benywaidd", 
+        "gwarchodydd benywaidd", 
+        "menyw", 
+        "gwarchod"
+    ], 
+    "💂‍♂️": [
+        "dyn", 
+        "gwarchodydd gwrywaidd", 
+        "gwrywaidd", 
         "gwarchodfilwr", 
         "gwarchod"
     ], 
     "💃": [
-        "menyw", 
+        "menyw yn dawnsio: arlliw croen canolig-golau", 
+        "arlliw croen canolig-golau", 
+        "menyw yn dawnsio: arlliw croen golau", 
+        "menyw yn dawnsio: arlliw croen tywyll", 
         "menyw yn dawnsio", 
-        "dawnsio"
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "menyw yn dawnsio: arlliw croen canolig-tywyll", 
+        "dawnsio", 
+        "menyw yn dawnsio: arlliw croen canolog"
     ], 
     "💄": [
         "colur", 
         "minlliw"
     ], 
     "💅": [
-        "corff", 
-        "farnais ewinedd", 
-        "triniaeth", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "gofal", 
-        "ewyn"
+        "farnais ewinedd", 
+        "arlliw croen canolog", 
+        "farnais ewinedd: arlliw croen canolig-golau", 
+        "farnais ewinedd: arlliw croen canolog", 
+        "triniaeth", 
+        "arlliw croen golau", 
+        "corff", 
+        "arlliw croen tywyll", 
+        "farnais ewinedd: arlliw croen golau", 
+        "ewyn", 
+        "farnais ewinedd: arlliw croen canolig-tywyll", 
+        "farnais ewinedd: arlliw croen tywyll"
     ], 
-    "💆": [
-        "tyluniad", 
+    "💆‍♀️": [
         "salon", 
         "person yn derbyn tyluniad", 
+        "wyneb", 
+        "tyluniad", 
+        "menyw", 
+        "menyw yn derbyn tyluniad i’w wyneb"
+    ], 
+    "💆‍♂️": [
+        "tyluniad", 
+        "dyn", 
+        "dyn yn derbyn tyluniad i’w wyneb", 
         "wyneb"
     ], 
-    "💇": [
+    "💇‍♀️": [
         "barbwr", 
-        "torri", 
-        "harddwch", 
+        "gwallt", 
+        "menyw yn cael ei gwallt wedi’u torri", 
+        "menyw", 
         "person yn cael ei wallt wedi’u torri", 
+        "torri", 
+        "harddwch"
+    ], 
+    "💇‍♂️": [
+        "dyn", 
+        "dyn yn cael ei wallt wedi’u torri", 
+        "torri", 
         "gwallt"
     ], 
     "💈": [
@@ -3736,20 +5346,10 @@
         "gem", 
         "diemwnt"
     ], 
-    "💏": [
-        "pâr", 
-        "cusan"
-    ], 
     "💐": [
         "tusw", 
         "planhigyn", 
         "blodyn"
-    ], 
-    "💑": [
-        "calon", 
-        "pâr a chalon", 
-        "cariad", 
-        "pâr"
     ], 
     "💒": [
         "rhamant", 
@@ -3884,9 +5484,19 @@
         "anghenfil"
     ], 
     "💪": [
-        "corff", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "cyhyrau deuben wedi eu hystwytho: arlliw croen canolig-golau", 
+        "cyhyrau deuben wedi eu hystwytho: arlliw croen canolig-tywyll", 
         "ystwytho", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
         "cyhyrau", 
+        "cyhyrau deuben wedi eu hystwytho: arlliw croen canolog", 
+        "cyhyrau deuben wedi eu hystwytho: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "cyhyrau deuben wedi eu hystwytho: arlliw croen tywyll", 
         "cyhyrau deuben wedi eu hystwytho"
     ], 
     "💫": [
@@ -4335,6 +5945,13 @@
         "casét fideo", 
         "vhs"
     ], 
+    "📽️": [
+        "taflunydd ffilm", 
+        "ffilm", 
+        "taflunydd", 
+        "fideo", 
+        "sinema"
+    ], 
     "📿": [
         "dillad", 
         "gleiniau", 
@@ -4693,6 +6310,17 @@
         "botwm", 
         "coch"
     ], 
+    "🕉️": [
+        "crefydd", 
+        "om", 
+        "hindŵ"
+    ], 
+    "🕊️": [
+        "colomen", 
+        "hedfan", 
+        "aderyn", 
+        "heddwch"
+    ], 
     "🕋": [
         "crefydd", 
         "mwslim", 
@@ -4886,23 +6514,120 @@
         "hanner awr wedi deuddeg", 
         "30"
     ], 
+    "🕯️": [
+        "cannwyll", 
+        "golau"
+    ], 
+    "🕰️": [
+        "cloc silff ben tân", 
+        "cloc"
+    ], 
+    "🕳️": [
+        "twll"
+    ], 
+    "🕴️": [
+        "gwisg", 
+        "busnes", 
+        "dyn mewn gwisg fusnes yn ymddyrchafu", 
+        "dyn"
+    ], 
+    "🕵️‍♂️": [
+        "ditectif", 
+        "ysbïwr"
+    ], 
+    "🕶️": [
+        "sbectol haul", 
+        "tywyll", 
+        "llygad", 
+        "sbectol"
+    ], 
+    "🕷️": [
+        "pry copyn", 
+        "chwilen"
+    ], 
+    "🕸️": [
+        "gwe", 
+        "gwe pry cop", 
+        "pry copyn"
+    ], 
+    "🕹️": [
+        "gêm", 
+        "fideo", 
+        "ffon reoli"
+    ], 
     "🕺": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "dyn yn dawnsio: arlliw croen golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "dyn yn dawnsio", 
         "dyn", 
+        "dyn yn dawnsio: arlliw croen canolig-tywyll", 
+        "dyn yn dawnsio: arlliw croen canolig-golau", 
+        "dyn yn dawnsio: arlliw croen canolog", 
+        "arlliw croen canolog", 
+        "dyn yn dawnsio: arlliw croen tywyll", 
         "dawnsio"
     ], 
-    "🖕": [
+    "🖇️": [
+        "clipiau papur wedi’u cysylltu", 
+        "linc", 
+        "clip papur"
+    ], 
+    "🖊️": [
+        "beiro", 
+        "blaengrwn"
+    ], 
+    "🖋️": [
+        "ysgrifbin"
+    ], 
+    "🖌️": [
+        "brwsh paent", 
+        "paentio"
+    ], 
+    "🖍️": [
+        "pensil lliw"
+    ], 
+    "🖐️": [
         "llaw", 
         "corff", 
+        "wedi lledu", 
+        "bys", 
+        "llaw wedi ei chodi â bysedd wedi eu lledu"
+    ], 
+    "🖕": [
+        "bys canol: arlliw croen golau", 
+        "arlliw croen canolig-golau", 
         "bys canol", 
-        "bys"
+        "bys canol: arlliw croen canolog", 
+        "bys canol: arlliw croen tywyll", 
+        "bys", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "bys canol: arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "bys canol: arlliw croen canolig-golau"
     ], 
     "🖖": [
-        "llaw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "saliwt fulcanaidd: arlliw croen tywyll", 
+        "saliwt fulcanaidd: arlliw croen golau", 
+        "bys", 
+        "saliwt fulcanaidd: arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "corff", 
         "spock", 
-        "bys", 
-        "saliwt fulcanaidd"
+        "saliwt fulcanaidd", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "saliwt fulcanaidd: arlliw croen canolig-golau", 
+        "saliwt fulcanaidd: arlliw croen canolog"
     ], 
     "🖤": [
         "calon du", 
@@ -4910,6 +6635,115 @@
         "calon", 
         "du", 
         "drwg"
+    ], 
+    "🖥️": [
+        "ben desg", 
+        "cyfrifiadur"
+    ], 
+    "🖨️": [
+        "argraffydd", 
+        "cyfrifiadur"
+    ], 
+    "🖱️": [
+        "llygoden", 
+        "tri", 
+        "3", 
+        "botwm", 
+        "llygoden gyfrifiadurol"
+    ], 
+    "🖲️": [
+        "pelen lwybro", 
+        "cyfrifiadur"
+    ], 
+    "🖼️": [
+        "ffrâm", 
+        "ffrâm gyda llun", 
+        "celf", 
+        "amgueddfa"
+    ], 
+    "🗂️": [
+        "rhanwyr", 
+        "mynegai", 
+        "card", 
+        "rhanwyr mynegai cardiau"
+    ], 
+    "🗃️": [
+        "card", 
+        "blwch", 
+        "blwch ffeilio cardiau", 
+        "ffeilio"
+    ], 
+    "🗄️": [
+        "ffeil gabinet", 
+        "ffeilio", 
+        "cabinet"
+    ], 
+    "🗑️": [
+        "bin sbwriel"
+    ], 
+    "🗒️": [
+        "troellog", 
+        "nodyn", 
+        "llyfr nodiadau", 
+        "llyfr nodiadau troellog"
+    ], 
+    "🗓️": [
+        "pad", 
+        "troellog", 
+        "calendr", 
+        "calendr troellog"
+    ], 
+    "🗜️": [
+        "cywasgedd", 
+        "feis", 
+        "offeryn"
+    ], 
+    "🗝️": [
+        "cliw", 
+        "hen", 
+        "hen allwedd", 
+        "cloi", 
+        "allwedd"
+    ], 
+    "🗞️": [
+        "papur newydd wedi’i rolio", 
+        "papur", 
+        "wedi’i rolio", 
+        "papur newydd", 
+        "newyddion"
+    ], 
+    "🗡️": [
+        "cyllell", 
+        "dagr", 
+        "arf"
+    ], 
+    "🗣️": [
+        "pen yn siarad", 
+        "pen", 
+        "siarad", 
+        "wyneb", 
+        "silwét"
+    ], 
+    "🗨️": [
+        "swigen yn siarad i’r chwith", 
+        "siarad", 
+        "deialog"
+    ], 
+    "🗯️": [
+        "dig", 
+        "balŵn", 
+        "swigen ddig i’r dde", 
+        "swigen"
+    ], 
+    "🗳️": [
+        "blwch pleidlais gyda phleidlais", 
+        "blwch", 
+        "pleidlais"
+    ], 
+    "🗺️": [
+        "map", 
+        "byd", 
+        "map o’r byd"
     ], 
     "🗻": [
         "fuji", 
@@ -5369,25 +7203,53 @@
         "rolio", 
         "wyneb â llygaid yn rholio"
     ], 
-    "🙅": [
-        "llaw", 
+    "🙅‍♀️": [
+        "ystum", 
+        "menyw yn ystumio nad yw’n iawn", 
+        "person yn ystumio nad yw’n iawn", 
         "na", 
         "gwaharddedig", 
-        "ystum", 
-        "person yn ystumio nad yw’n iawn"
+        "menyw", 
+        "llaw"
     ], 
-    "🙆": [
-        "llaw", 
+    "🙅‍♂️": [
+        "na", 
+        "dyn", 
+        "gwaharddedig", 
+        "ystum", 
+        "dyn yn ystumio nad yw’n iawn"
+    ], 
+    "🙆‍♀️": [
         "iawn", 
+        "ok", 
+        "menyw yn ystumio iawn", 
+        "ystum", 
+        "person yn ystumio iawn", 
+        "menyw", 
+        "llaw"
+    ], 
+    "🙆‍♂️": [
+        "iawn", 
+        "dyn", 
         "ystum", 
         "ok", 
-        "person yn ystumio iawn"
+        "dyn yn ystumio iawn"
     ], 
-    "🙇": [
-        "ystum", 
+    "🙇‍♀️": [
+        "menyw", 
         "ymgrymiad", 
         "ymddiheuriad", 
+        "ffafr", 
+        "menyw yn ymgrymu’n isel"
+    ], 
+    "🙇‍♂️": [
+        "ymgrymiad", 
+        "ffafr", 
+        "ystum", 
         "person yn ymgrymu", 
+        "ymddiheuriad", 
+        "dyn", 
+        "dyn yn ymgrymu’n isel", 
         "sori"
     ], 
     "🙈": [
@@ -5411,35 +7273,81 @@
         "wyneb", 
         "mwnci"
     ], 
-    "🙋": [
-        "llaw", 
-        "hapus", 
+    "🙋‍♀️": [
+        "menyw yn codi ei llaw", 
         "ystum", 
-        "person yn codi llaw"
+        "menyw", 
+        "person yn codi llaw", 
+        "llaw", 
+        "hapus"
+    ], 
+    "🙋‍♂️": [
+        "llaw", 
+        "dyn", 
+        "ystum", 
+        "hapus", 
+        "dyn yn codi ei law"
     ], 
     "🙌": [
-        "llaw", 
-        "corff", 
+        "arlliw croen canolig-tywyll", 
+        "person yn codi dwylo: arlliw croen golau", 
+        "person yn codi dwylo: arlliw croen canolig-tywyll", 
+        "person yn codi dwylo: arlliw croen canolig-golau", 
         "ystum", 
+        "person yn codi dwylo: arlliw croen canolog", 
+        "arlliw croen golau", 
+        "corff", 
+        "person yn codi dwylo", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "llaw", 
         "dathliad", 
-        "person yn codi dwylo"
+        "person yn codi dwylo: arlliw croen tywyll"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "gwg", 
         "ystum", 
+        "menyw yn gwgu", 
+        "menyw", 
+        "gwgu", 
         "person yn gwgu"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "dyn", 
+        "ystum", 
+        "gwgu", 
+        "dyn yn gwgu"
+    ], 
+    "🙎‍♀️": [
+        "menyw yn pwdu", 
+        "menyw", 
         "pwdu", 
         "ystum", 
         "person yn pwdu"
     ], 
+    "🙎‍♂️": [
+        "dyn", 
+        "ystum", 
+        "pwdu", 
+        "dyn yn pwdu"
+    ], 
     "🙏": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "dwylo wedi plygu: arlliw croen canolig-tywyll", 
+        "gweddi", 
+        "dwylo wedi plygu: arlliw croen canolig-golau", 
+        "ystum", 
+        "dwylo wedi plygu: arlliw croen golau", 
+        "arlliw croen tywyll", 
         "plygu", 
         "corff", 
-        "ystum", 
-        "gweddi", 
-        "dwylo wedi plygu"
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "dwylo wedi plygu", 
+        "dwylo wedi plygu: arlliw croen canolog", 
+        "dwylo wedi plygu: arlliw croen tywyll"
     ], 
     "🚀": [
         "cerbyd", 
@@ -5634,9 +7542,17 @@
         "cerbyd", 
         "llong"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "menyw", 
+        "menyw yn rhwyfo cwch", 
+        "rhwyfo", 
+        "cwch"
+    ], 
+    "🚣‍♂️": [
+        "dyn", 
         "person yn rhwyfo cwch", 
         "rhwyfo", 
+        "dyn yn rhwyfo cwch", 
         "cwch"
     ], 
     "🚤": [
@@ -5723,18 +7639,43 @@
         "dim beiciau", 
         "beic"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "beicio", 
+        "menyw", 
+        "menyw yn beicio", 
+        "beic"
+    ], 
+    "🚴‍♂️": [
+        "dyn yn beicio", 
+        "beicio", 
+        "dyn", 
         "person yn beicio", 
         "beic"
     ], 
-    "🚵": [
+    "🚵‍♀️": [
         "beicio", 
-        "person yn beicio mynydd", 
+        "menyw", 
+        "menyw yn beicio mynydd", 
         "mynydd", 
         "beic"
     ], 
-    "🚶": [
+    "🚵‍♂️": [
+        "dyn yn beicio mynydd", 
+        "mynydd", 
+        "beic", 
+        "beicio", 
+        "person yn beicio mynydd", 
+        "dyn"
+    ], 
+    "🚶‍♀️": [
+        "menyw yn cerdded", 
+        "menyw", 
+        "cerdded", 
+        "heicio"
+    ], 
+    "🚶‍♂️": [
+        "dyn yn cerdded", 
+        "dyn", 
         "person yn cerdded", 
         "cerdded", 
         "heicio"
@@ -5787,9 +7728,19 @@
         "cawod"
     ], 
     "🛀": [
-        "person mewn bath", 
+        "bath", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "person mewn bath: arlliw croen tywyll", 
         "twba", 
-        "bath"
+        "person mewn bath", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
+        "person mewn bath: arlliw croen canolig-golau", 
+        "person mewn bath: arlliw croen canolog", 
+        "person mewn bath: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "person mewn bath: arlliw croen golau"
     ], 
     "🛁": [
         "twba bath", 
@@ -5813,10 +7764,42 @@
         "bagiau wedi’u gadael", 
         "bagiau"
     ], 
+    "🛋️": [
+        "gwesty", 
+        "lamp", 
+        "soffa a lamp", 
+        "soffa"
+    ], 
     "🛌": [
+        "person mewn gwely: arlliw croen canolog", 
+        "arlliw croen canolig-golau", 
+        "person mewn gwely: arlliw croen canolig-golau", 
+        "person mewn gwely: arlliw croen tywyll", 
+        "person mewn gwely: arlliw croen canolig-tywyll", 
+        "person mewn gwely", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "gwesty", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "cysgu", 
+        "person mewn gwely: arlliw croen golau"
+    ], 
+    "🛍️": [
+        "bag", 
+        "gwesty", 
+        "siopa", 
+        "bagiau siopa"
+    ], 
+    "🛎️": [
+        "gwesty", 
+        "cloch", 
+        "porthor"
+    ], 
+    "🛏️": [
         "gwesty", 
         "cysgu", 
-        "person mewn gwely"
+        "gwely"
     ], 
     "🛐": [
         "crefydd", 
@@ -5835,6 +7818,40 @@
         "troli", 
         "troli siopa"
     ], 
+    "🛠️": [
+        "sbaner", 
+        "morthwyl a sbaner", 
+        "caib", 
+        "morthwyl"
+    ], 
+    "🛡️": [
+        "tarian", 
+        "arf"
+    ], 
+    "🛢️": [
+        "olew", 
+        "drwm olew", 
+        "drwm"
+    ], 
+    "🛣️": [
+        "heol", 
+        "traffordd"
+    ], 
+    "🛤️": [
+        "rheilffordd", 
+        "trac rheilffordd", 
+        "trên"
+    ], 
+    "🛥️": [
+        "cerbyd", 
+        "cwch modur", 
+        "cwch"
+    ], 
+    "🛩️": [
+        "cerbyd", 
+        "awyren fach", 
+        "awyren"
+    ], 
     "🛫": [
         "ymadawiad", 
         "cofrestru", 
@@ -5846,6 +7863,17 @@
         "dyfodiadau", 
         "dyfodiad awyren", 
         "awyren"
+    ], 
+    "🛰️": [
+        "lloeren", 
+        "cerbyd", 
+        "gofod"
+    ], 
+    "🛳️": [
+        "teithwyr", 
+        "cerbyd", 
+        "llong", 
+        "llong deithwyr"
     ], 
     "🛴": [
         "sgwter", 
@@ -5917,30 +7945,80 @@
         "cwtsh"
     ], 
     "🤘": [
-        "llaw", 
+        "arlliw croen canolig-tywyll", 
         "arwydd y cyrn", 
+        "arlliw croen tywyll", 
+        "arwydd y cyrn: arlliw croen golau", 
+        "arwydd y cyrn: arlliw croen canolog", 
         "cyrn", 
         "bys", 
-        "corff"
+        "arwydd y cyrn: arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "corff", 
+        "arwydd y cyrn: arlliw croen canolig-golau", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "arwydd y cyrn: arlliw croen tywyll"
     ], 
     "🤙": [
-        "llaw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "llaw ffonia fi: arlliw croen canolig-golau", 
+        "ffonio", 
+        "llaw ffonia fi: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "llaw ffonia fi", 
-        "ffonio"
+        "llaw ffonia fi: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "llaw ffonia fi: arlliw croen canolog", 
+        "llaw ffonia fi: arlliw croen canolig-tywyll"
     ], 
     "🤚": [
-        "cefn llaw wedi’i chodi", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "wedi’i chodi", 
+        "cefn llaw wedi’i chodi: arlliw croen canolig-tywyll", 
+        "cefn llaw wedi’i chodi: arlliw croen canolog", 
+        "cefn llaw wedi’i chodi: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "cefn llaw wedi’i chodi: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "cefn llaw wedi’i chodi", 
+        "cefn llaw wedi’i chodi: arlliw croen tywyll", 
         "cefn llaw"
     ], 
     "🤛": [
-        "dwrn tua’r chwith", 
         "tua’r chwith", 
-        "dwrn"
+        "arlliw croen golau", 
+        "dwrn", 
+        "dwrn tua’r chwith: arlliw croen canolig-tywyll", 
+        "dwrn tua’r chwith: arlliw croen tywyll", 
+        "dwrn tua’r chwith: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "dwrn tua’r chwith", 
+        "dwrn tua’r chwith: arlliw croen golau", 
+        "dwrn tua’r chwith: arlliw croen canolog"
     ], 
     "🤜": [
-        "tua’r dde", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "dwrn", 
+        "dwrn tua’r dde: arlliw croen tywyll", 
+        "tua’r dde", 
+        "dwrn tua’r dde: arlliw croen canolig-golau", 
+        "arlliw croen golau", 
+        "dwrn tua’r dde: arlliw croen golau", 
+        "dwrn tua’r dde: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "dwrn tua’r dde: arlliw croen canolig-tywyll", 
         "dwrn tua’r dde"
     ], 
     "🤝": [
@@ -5951,15 +8029,35 @@
         "ysgwyd"
     ], 
     "🤞": [
-        "llaw", 
+        "arlliw croen canolig-tywyll", 
         "bysedd wedi’u croesi", 
-        "lwc", 
+        "bysedd wedi’u croesi: arlliw croen canolig-tywyll", 
+        "croesi", 
+        "bysedd wedi’u croesi: arlliw croen canolog", 
+        "bysedd wedi’u croesi: arlliw croen golau", 
         "bys", 
-        "croesi"
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "bysedd wedi’u croesi: arlliw croen canolig-golau", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "lwc", 
+        "bysedd wedi’u croesi: arlliw croen tywyll"
     ], 
     "🤟": [
-        "llaw", 
+        "arwydd caru ti: arlliw croen canolog", 
+        "arlliw croen canolig-golau", 
         "caru ti", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
+        "arwydd caru ti: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "llaw", 
+        "arwydd caru ti: arlliw croen tywyll", 
+        "arwydd caru ti: arlliw croen canolig-golau", 
+        "arwydd caru ti: arlliw croen canolig-tywyll", 
         "arwydd caru ti"
     ], 
     "🤠": [
@@ -5999,10 +8097,34 @@
         "pinocchio"
     ], 
     "🤦": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "wyneb", 
+        "cledr i’r wyneb: arlliw croen tywyll", 
+        "cledr i’r wyneb: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "cledr i’r wyneb: arlliw croen canolig-golau", 
+        "anghrediniaeth", 
+        "cythrudd", 
+        "cledr i’r wyneb: arlliw croen golau", 
         "cledr", 
         "cledr i’r wyneb", 
-        "anghrediniaeth", 
-        "wyneb", 
+        "cledr i’r wyneb: arlliw croen canolog"
+    ], 
+    "🤦‍♀️": [
+        "cledr", 
+        "menyw", 
+        "anghoel", 
+        "menyw yn codi cledr i’w wyneb", 
+        "cythrudd"
+    ], 
+    "🤦‍♂️": [
+        "dyn yn codi cledr i’w wyneb", 
+        "cledr", 
+        "dyn", 
+        "anghoel", 
         "cythrudd"
     ], 
     "🤧": [
@@ -6052,56 +8174,196 @@
         "pen yn ffrwydro"
     ], 
     "🤰": [
-        "menyw", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "menyw feichiog: arlliw croen canolog", 
+        "menyw feichiog: arlliw croen tywyll", 
         "menyw feichiog", 
-        "beichiog"
+        "menyw feichiog: arlliw croen canolig-golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "menyw", 
+        "menyw feichiog: arlliw croen canolig-tywyll", 
+        "arlliw croen canolog", 
+        "beichiog", 
+        "menyw feichiog: arlliw croen golau"
     ], 
     "🤱": [
-        "babi", 
         "bwydo o’r fron", 
+        "arlliw croen canolig-golau", 
+        "bwydo o’r fron: arlliw croen canolig-golau", 
+        "babi", 
+        "bwydo o’r fron: arlliw croen tywyll", 
+        "bwydo o’r fron: arlliw croen golau", 
+        "bwydo o’r fron: arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
         "bron", 
-        "nyrsio"
+        "nyrsio", 
+        "arlliw croen canolog", 
+        "bwydo o’r fron: arlliw croen canolig-tywyll"
     ], 
     "🤲": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "cledrau dwylo yn yr awyr gyda’u gilydd: arlliw croen canolog", 
+        "cledrau dwylo yn yr awyr gyda’u gilydd: arlliw croen golau", 
+        "cledrau dwylo yn yr awyr gyda’u gilydd: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
         "gweddïo", 
+        "cledrau dwylo yn yr awyr gyda’u gilydd: arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "cledrau dwylo yn yr awyr gyda’u gilydd: arlliw croen canolig-tywyll", 
         "cledrau dwylo yn yr awyr gyda’u gilydd"
     ], 
     "🤳": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "hunlun: arlliw croen canolig-golau", 
+        "hunlun: arlliw croen tywyll", 
+        "hunlun: arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
         "ffôn", 
+        "hunlun: arlliw croen golau", 
+        "camera", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
         "hunlun", 
-        "camera"
+        "hunlun: arlliw croen canolog"
     ], 
     "🤴": [
-        "tywysog"
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "tywysog: arlliw croen canolog", 
+        "tywysog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "tywysog: arlliw croen canolig-tywyll", 
+        "tywysog: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "tywysog: arlliw croen tywyll", 
+        "tywysog: arlliw croen canolig-golau"
     ], 
     "🤵": [
         "dyn mewn tycs", 
+        "arlliw croen canolig-golau", 
+        "dyn mewn tycs: arlliw croen canolig-golau", 
         "priodfab", 
+        "dyn mewn tycs: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
         "dyn", 
-        "tycs"
+        "tycs", 
+        "arlliw croen canolog", 
+        "dyn mewn tycs: arlliw croen canolig-tywyll", 
+        "dyn mewn tycs: arlliw croen canolog", 
+        "dyn mewn tycs: arlliw croen golau"
     ], 
     "🤶": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "Siân Corn: arlliw croen canolog", 
+        "Siân Corn: arlliw croen tywyll", 
+        "Siân Corn", 
+        "Siân Corn: arlliw croen canolig-golau", 
+        "Siân Corn: arlliw croen canolig-tywyll", 
         "y Nadolig", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
         "mam", 
-        "Siân Corn"
+        "Siân Corn: arlliw croen golau"
     ], 
     "🤷": [
-        "anwybodaeth", 
-        "difaterwch", 
+        "arlliw croen canolog", 
+        "arlliw croen canolig-golau", 
+        "codi gwar: arlliw croen canolig-golau", 
+        "codi gwar: arlliw croen canolog", 
+        "codi gwar: arlliw croen tywyll", 
+        "codi gwar: arlliw croen canolig-tywyll", 
         "codi gwar", 
+        "amheuaeth", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
+        "difaterwch", 
+        "anwybodaeth", 
+        "codi gwar: arlliw croen golau"
+    ], 
+    "🤷‍♀️": [
+        "anwybodaeth", 
+        "menyw", 
+        "codi gwar", 
+        "menyw yn codi gwar", 
+        "amheuaeth"
+    ], 
+    "🤷‍♂️": [
+        "anwybodaeth", 
+        "dyn", 
+        "codi gwar", 
+        "dyn yn codi gwar", 
         "amheuaeth"
     ], 
     "🤸": [
+        "arlliw croen canolig-tywyll", 
         "chwaraeon", 
+        "olwyn droi: arlliw croen canolig-golau", 
+        "olwyn droi: arlliw croen golau", 
+        "arlliw croen canolig-golau", 
+        "olwyn droi: arlliw croen canolog", 
+        "olwyn droi: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "person", 
         "olwyn droi", 
         "gymnasteg", 
-        "person"
+        "arlliw croen canolog", 
+        "olwyn droi: arlliw croen canolig-tywyll"
+    ], 
+    "🤸‍♀️": [
+        "menyw yn gwneud olwyn dro", 
+        "chwaraeon", 
+        "olwyn dro", 
+        "gymnasteg", 
+        "menyw"
+    ], 
+    "🤸‍♂️": [
+        "chwaraeon", 
+        "dyn", 
+        "olwyn dro", 
+        "gymnasteg", 
+        "dyn yn gwneud olwyn dro"
     ], 
     "🤹": [
-        "amldasgio", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "jyglo: arlliw croen canolig-tywyll", 
         "jyglo", 
-        "cydbwyso", 
-        "sgil"
+        "jyglo: arlliw croen tywyll", 
+        "jyglo: arlliw croen canolog", 
+        "amldasgio", 
+        "sgil", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "jyglo: arlliw croen golau", 
+        "jyglo: arlliw croen canolig-golau", 
+        "cydbwyso"
+    ], 
+    "🤹‍♀️": [
+        "amldasgio", 
+        "menyw", 
+        "menyw yn jyglo", 
+        "jyglo"
+    ], 
+    "🤹‍♂️": [
+        "amldasgio", 
+        "dyn", 
+        "jyglo", 
+        "dyn yn jyglo"
     ], 
     "🤺": [
         "chwaraeon", 
@@ -6117,18 +8379,76 @@
         "taflwyr codwm", 
         "person"
     ], 
+    "🤼‍♀️": [
+        "chwaraeon", 
+        "menywod yn reslo", 
+        "reslo", 
+        "menyw"
+    ], 
+    "🤼‍♂️": [
+        "dynion yn reslo", 
+        "chwaraeon", 
+        "dyn", 
+        "reslo"
+    ], 
     "🤽": [
+        "arlliw croen canolig-tywyll", 
+        "chwaraeon", 
+        "polo dŵr: arlliw croen tywyll", 
+        "polo dŵr: arlliw croen golau", 
+        "polo dŵr: arlliw croen canolig-golau", 
+        "polo dŵr", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "person", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "polo", 
+        "polo dŵr: arlliw croen canolig-tywyll", 
+        "dŵr", 
+        "polo dŵr: arlliw croen canolog"
+    ], 
+    "🤽‍♀️": [
         "polo", 
         "chwaraeon", 
+        "menyw yn chwarae polo dŵr", 
         "dŵr", 
-        "polo dŵr", 
-        "person"
+        "menyw"
+    ], 
+    "🤽‍♂️": [
+        "polo", 
+        "chwaraeon", 
+        "dyn", 
+        "dŵr", 
+        "dyn yn chwarae polo dŵr"
     ], 
     "🤾": [
+        "arlliw croen canolig-tywyll", 
+        "chwaraeon", 
+        "pêl-law: arlliw croen golau", 
+        "pêl", 
+        "pêl-law: arlliw croen canolig-golau", 
+        "pêl-law: arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "person", 
+        "pêl-law", 
+        "arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "pêl-law: arlliw croen canolog", 
+        "pêl-law: arlliw croen tywyll"
+    ], 
+    "🤾‍♀️": [
         "chwaraeon", 
         "pêl-law", 
-        "person", 
-        "pêl"
+        "menyw yn chwarae pêl law", 
+        "menyw"
+    ], 
+    "🤾‍♂️": [
+        "chwaraeon", 
+        "dyn", 
+        "pêl-law", 
+        "dyn yn chwarae pêl law"
     ], 
     "🥀": [
         "blodyn", 
@@ -6471,79 +8791,186 @@
         "clòs"
     ], 
     "🧑": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "oedolyn", 
+        "oedolyn: arlliw croen canolig-golau", 
+        "oedolyn: arlliw croen golau", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "oedolyn: arlliw croen tywyll", 
+        "arlliw croen canolog", 
+        "oedolyn: arlliw croen canolig-tywyll", 
+        "oedolyn: arlliw croen canolog", 
         "niwtral o ran rhyw"
     ], 
     "🧒": [
-        "plentyn", 
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
         "ifanc", 
-        "niwtral o ran rhyw"
+        "plentyn: arlliw croen canolig-golau", 
+        "arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "plentyn: arlliw croen golau", 
+        "plentyn", 
+        "plentyn: arlliw croen tywyll", 
+        "niwtral o ran rhyw", 
+        "plentyn: arlliw croen canolog", 
+        "plentyn: arlliw croen canolig-tywyll"
     ], 
     "🧓": [
+        "arlliw croen canolig-tywyll", 
+        "arlliw croen canolig-golau", 
+        "oedolyn oedranus: arlliw croen canolig-golau", 
+        "oedolyn oedranus: arlliw croen golau", 
+        "oedolyn oedranus", 
+        "oedolyn oedranus: arlliw croen canolog", 
+        "oedolyn oedranus: arlliw croen canolig-tywyll", 
+        "arlliw croen golau", 
+        "oedolyn oedranus: arlliw croen tywyll", 
+        "arlliw croen tywyll", 
+        "arlliw croen canolog", 
         "hen", 
-        "niwtral o ran rhyw", 
-        "oedolyn oedranus"
+        "niwtral o ran rhyw"
     ], 
     "🧔": [
-        "person barfog", 
-        "barf"
+        "arlliw croen canolig-tywyll", 
+        "person barfog: arlliw croen canolig-golau", 
+        "person barfog: arlliw croen tywyll", 
+        "person barfog: arlliw croen canolig-tywyll", 
+        "person barfog: arlliw croen canolog", 
+        "person barfog: arlliw croen golau", 
+        "arlliw croen canolog", 
+        "arlliw croen tywyll", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-golau", 
+        "barf", 
+        "person barfog"
     ], 
     "🧕": [
+        "menyw â phensgarff: arlliw croen golau", 
+        "arlliw croen canolig-golau", 
         "menyw â phensgarff", 
-        "hijab", 
-        "mantilla", 
         "pensgarff", 
-        "tichel"
+        "menyw â phensgarff: arlliw croen canolog", 
+        "arlliw croen golau", 
+        "arlliw croen canolig-tywyll", 
+        "mantilla", 
+        "menyw â phensgarff: arlliw croen canolig-tywyll", 
+        "arlliw croen tywyll", 
+        "tichel", 
+        "menyw â phensgarff: arlliw croen tywyll", 
+        "hijab", 
+        "arlliw croen canolog", 
+        "menyw â phensgarff: arlliw croen canolig-golau"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "ystafell stêm", 
+        "sawna", 
+        "menyw mewn ystafell llawn stêm"
+    ], 
+    "🧖‍♂️": [
         "person mewn ystafell llawn stêm", 
+        "dyn mewn ystafell llawn stêm", 
         "sawna", 
         "ystafell stêm"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "menyw yn dringo", 
         "person yn dringo", 
         "dringwr"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "dyn yn dringo", 
+        "dringwr"
+    ], 
+    "🧘‍♀️": [
+        "menyw mewn ystum lingroes", 
         "yoga", 
         "person mewn ystum lingroes", 
         "myfyrdod"
     ], 
-    "🧙": [
-        "swynwraig", 
-        "gwrach", 
-        "dewin", 
-        "swynwr"
+    "🧘‍♂️": [
+        "yoga", 
+        "myfyrdod", 
+        "dyn mewn ystum lingroes"
     ], 
-    "🧚": [
+    "🧙‍♀️": [
+        "swynwr", 
+        "swynwraig", 
+        "dewin benywaidd", 
+        "dewin", 
+        "dewines", 
+        "gwrach"
+    ], 
+    "🧙‍♂️": [
+        "dewin gwrywaidd", 
+        "swynwr", 
+        "dewin"
+    ], 
+    "🧚‍♀️": [
         "tylwyth teg", 
         "Puck", 
         "Oberon", 
+        "tylwythen deg", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "Oberon", 
+        "tylwythen teg"
+    ], 
+    "🧛‍♀️": [
+        "fampir benywaidd", 
         "fampir", 
         "meirw byw", 
         "Draciwla"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "fampir gwrywaidd", 
+        "meirw byw", 
+        "Draciwla"
+    ], 
+    "🧜‍♀️": [
+        "môr-fenyw", 
+        "môr-forwyn"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
         "môrberson", 
         "morwas", 
         "môr-fenyw", 
         "môr-forwyn"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "hudol", 
+        "coblyn benywaidd"
+    ], 
+    "🧝‍♂️": [
+        "coblyn gwrwywaidd", 
         "hudol", 
         "coblyn"
     ], 
-    "🧞": [
-        "genie", 
+    "🧞‍♀️": [
+        "genie benywaidd", 
         "djinn"
     ], 
-    "🧟": [
-        "sombi", 
+    "🧞‍♂️": [
+        "genie", 
+        "djinn", 
+        "genie gwrywaidd"
+    ], 
+    "🧟‍♀️": [
+        "sombi benywaidd", 
         "meirw ar droed", 
         "meirw byw"
+    ], 
+    "🧟‍♂️": [
+        "sombi", 
+        "meirw ar droed", 
+        "meirw byw", 
+        "sombi gwrywaidd"
     ], 
     "🧠": [
         "ymennydd", 

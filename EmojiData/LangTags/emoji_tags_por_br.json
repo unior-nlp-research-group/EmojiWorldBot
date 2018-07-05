@@ -1,4 +1,136 @@
 {
+    "#️⃣": [
+        "tecla", 
+        "tecla: #"
+    ], 
+    "*️⃣": [
+        "tecla", 
+        "tecla: *"
+    ], 
+    "0️⃣": [
+        "tecla", 
+        "tecla: 0"
+    ], 
+    "1️⃣": [
+        "tecla", 
+        "tecla: 1"
+    ], 
+    "2️⃣": [
+        "tecla", 
+        "tecla: 2"
+    ], 
+    "3️⃣": [
+        "tecla", 
+        "tecla: 3"
+    ], 
+    "4️⃣": [
+        "tecla", 
+        "tecla: 4"
+    ], 
+    "5️⃣": [
+        "tecla", 
+        "tecla: 5"
+    ], 
+    "6️⃣": [
+        "tecla", 
+        "tecla: 6"
+    ], 
+    "7️⃣": [
+        "tecla", 
+        "tecla: 7"
+    ], 
+    "8️⃣": [
+        "tecla", 
+        "tecla: 8"
+    ], 
+    "9️⃣": [
+        "tecla", 
+        "tecla: 9"
+    ], 
+    "©️": [
+        "Símbolo de copyright", 
+        "Copyright"
+    ], 
+    "®️": [
+        "Marca registrada", 
+        "Marca registrada “R”"
+    ], 
+    "‼️": [
+        "dupla exclamação", 
+        "pontuação", 
+        "exclamação dupla"
+    ], 
+    "⁉️": [
+        "exclamação com interrogação", 
+        "interrogação", 
+        "exclamação", 
+        "pontuação"
+    ], 
+    "™️": [
+        "marca registrada", 
+        "Marca registrada “TM”", 
+        "símbolo"
+    ], 
+    "ℹ️": [
+        "símbolo de informações", 
+        "símbolo", 
+        "informações"
+    ], 
+    "↔️": [
+        "seta para esquerda e direita", 
+        "horizontal", 
+        "lados", 
+        "seta"
+    ], 
+    "↕️": [
+        "vertical", 
+        "para cima", 
+        "seta", 
+        "seta para cima e para baixo", 
+        "para baixo"
+    ], 
+    "↖️": [
+        "direção", 
+        "seta para esquerda superior", 
+        "noroeste", 
+        "diagonal superior esquerda", 
+        "seta"
+    ], 
+    "↗️": [
+        "direção", 
+        "diagonal superior direita", 
+        "seta", 
+        "nordeste", 
+        "seta para a direita superior"
+    ], 
+    "↘️": [
+        "direção", 
+        "seta para a direita inferior", 
+        "sudeste", 
+        "seta", 
+        "diagonal inferior direita"
+    ], 
+    "↙️": [
+        "direção", 
+        "sudoeste", 
+        "diagonal inferior esquerda", 
+        "seta", 
+        "seta para a esquerda inferior"
+    ], 
+    "↩️": [
+        "curva", 
+        "retorno", 
+        "voltar à esquerda", 
+        "seta", 
+        "seta curva da direita para a esquerda"
+    ], 
+    "↪️": [
+        "curva", 
+        "retorno", 
+        "voltar à direita", 
+        "seta", 
+        "seta curva da esquerda para a direita"
+    ], 
     "⌚": [
         "relógio", 
         "relógio de pulso"
@@ -6,6 +138,15 @@
     "⌛": [
         "ampulheta", 
         "areia"
+    ], 
+    "⌨️": [
+        "digitação", 
+        "teclado", 
+        "acessório", 
+        "computador"
+    ], 
+    "⏏️": [
+        "ejetar"
     ], 
     "⏩": [
         "seta", 
@@ -31,15 +172,99 @@
         "seta", 
         "para baixo"
     ], 
+    "⏭️": [
+        "próxima faixa", 
+        "próxima cena", 
+        "seta", 
+        "seta dupla para a direita"
+    ], 
+    "⏮️": [
+        "cena anterior", 
+        "seta dupla para a esquerda", 
+        "faixa anterior", 
+        "última faixa"
+    ], 
+    "⏯️": [
+        "reproduzir ou pausar", 
+        "pausar", 
+        "reproduzir", 
+        "seta para a direita"
+    ], 
     "⏰": [
         "despertador", 
         "relógio", 
         "alarme"
     ], 
+    "⏱️": [
+        "relógio", 
+        "cronômetro"
+    ], 
+    "⏲️": [
+        "relógio", 
+        "relógio temporizador", 
+        "cronômetro"
+    ], 
     "⏳": [
         "relógio", 
         "relógio de areia", 
         "ampulheta cheia em cima"
+    ], 
+    "⏸️": [
+        "barra", 
+        "pausar", 
+        "dobrar", 
+        "vertical"
+    ], 
+    "⏹️": [
+        "parar", 
+        "quadrado"
+    ], 
+    "⏺️": [
+        "círculo", 
+        "gravar"
+    ], 
+    "Ⓜ️": [
+        "círculo", 
+        "círculo com a letra M", 
+        "letra M"
+    ], 
+    "▪️": [
+        "quadrado preto pequeno", 
+        "geométrico", 
+        "pequeno", 
+        "quadrado", 
+        "preto"
+    ], 
+    "▫️": [
+        "branco", 
+        "geométrico", 
+        "quadrado branco pequeno", 
+        "pequeno", 
+        "quadrado"
+    ], 
+    "▶️": [
+        "reproduzir", 
+        "seta para a direita", 
+        "triângulo"
+    ], 
+    "◀️": [
+        "voltar", 
+        "seta para a esquerda", 
+        "triângulo"
+    ], 
+    "◻️": [
+        "branco", 
+        "geométrico", 
+        "quadrado branco médio", 
+        "quadrado", 
+        "médio"
+    ], 
+    "◼️": [
+        "médio", 
+        "geométrico", 
+        "quadrado preto médio", 
+        "preto", 
+        "quadrado"
     ], 
     "◽": [
         "médio", 
@@ -57,6 +282,48 @@
         "quadrado preto médio menor", 
         "preto"
     ], 
+    "☀️": [
+        "dia claro", 
+        "tempo", 
+        "sol", 
+        "solar", 
+        "raios", 
+        "clima"
+    ], 
+    "☁️": [
+        "clima", 
+        "nuvem"
+    ], 
+    "☂️": [
+        "chuva", 
+        "clima", 
+        "acessório", 
+        "sombrinha aberta"
+    ], 
+    "☃️": [
+        "frio", 
+        "clima", 
+        "neve", 
+        "boneco de neve na neve", 
+        "boneco"
+    ], 
+    "☄️": [
+        "meteoro", 
+        "espaço", 
+        "cometa", 
+        "estrela cadente", 
+        "satélite"
+    ], 
+    "☎️": [
+        "telefone no gancho", 
+        "gancho", 
+        "telefone"
+    ], 
+    "☑️": [
+        "verificação", 
+        "caixa", 
+        "marca de verificação cinza"
+    ], 
     "☔": [
         "acessório", 
         "sombrinha na chuva", 
@@ -68,6 +335,90 @@
     "☕": [
         "xícara de café quente", 
         "café"
+    ], 
+    "☘️": [
+        "trevo de três folhas", 
+        "trevo"
+    ], 
+    "☝️": [
+        "dedo apontando para cima", 
+        "indicador apontando para cima", 
+        "indicador", 
+        "mão", 
+        "dedo"
+    ], 
+    "☠️": [
+        "caveira e ossos cruzados", 
+        "morte", 
+        "ossos cruzados", 
+        "pirata", 
+        "caveira", 
+        "rosto"
+    ], 
+    "☢️": [
+        "radiação", 
+        "radioativo"
+    ], 
+    "☣️": [
+        "resíduos", 
+        "risco biológico", 
+        "biológico"
+    ], 
+    "☦️": [
+        "cristão", 
+        "cruz", 
+        "religião", 
+        "cruz ortodoxa"
+    ], 
+    "☪️": [
+        "islã", 
+        "estrela e lua crescente", 
+        "religião", 
+        "muçulmano"
+    ], 
+    "☮️": [
+        "símbolo da paz", 
+        "paz", 
+        "símbolo"
+    ], 
+    "☯️": [
+        "yin", 
+        "yang", 
+        "taoistas", 
+        "religião", 
+        "yin yang"
+    ], 
+    "☸️": [
+        "roda", 
+        "dharma", 
+        "budista", 
+        "roda do Dharma", 
+        "religião"
+    ], 
+    "☹️": [
+        "decepção", 
+        "rosto insatisfeito", 
+        "decepcionado", 
+        "rosto franzido", 
+        "rosto"
+    ], 
+    "☺️": [
+        "rosto sorridente", 
+        "rosto sorrindo não preenchido", 
+        "rosto", 
+        "sorridente"
+    ], 
+    "♀️": [
+        "feminino", 
+        "símbolo de feminino", 
+        "gênero", 
+        "símbolo"
+    ], 
+    "♂️": [
+        "símbolo de masculino", 
+        "masculino", 
+        "gênero", 
+        "símbolo"
     ], 
     "♈": [
         "zodíaco", 
@@ -117,15 +468,109 @@
         "zodíaco", 
         "signo de Peixes"
     ], 
+    "♠️": [
+        "baralho", 
+        "naipe de espadas", 
+        "espadas", 
+        "jogo", 
+        "naipe", 
+        "carta"
+    ], 
+    "♣️": [
+        "baralho", 
+        "paus", 
+        "jogo", 
+        "naipe", 
+        "carta", 
+        "naipe de paus"
+    ], 
+    "♥️": [
+        "baralho", 
+        "copas", 
+        "jogo", 
+        "naipe", 
+        "carta", 
+        "naipe de copas"
+    ], 
+    "♦️": [
+        "baralho", 
+        "ouro", 
+        "naipe de ouros", 
+        "jogo", 
+        "naipe", 
+        "carta"
+    ], 
+    "♨️": [
+        "fogo", 
+        "chamas", 
+        "calor"
+    ], 
+    "♻️": [
+        "sinal", 
+        "símbolo de reciclagem sólido universal", 
+        "reciclagem", 
+        "símbolo de reciclagem", 
+        "universal"
+    ], 
     "♿": [
         "símbolo de cadeira de rodas", 
         "cadeira de rodas", 
         "acesso", 
         "sinal"
     ], 
+    "⚒️": [
+        "martelo e picareta", 
+        "geologia", 
+        "ferramenta", 
+        "picareta", 
+        "martelo"
+    ], 
     "⚓": [
         "sinal", 
         "âncora"
+    ], 
+    "⚔️": [
+        "guerra", 
+        "cruzadas", 
+        "espadas cruzadas", 
+        "espadas", 
+        "arma"
+    ], 
+    "⚕️": [
+        "esculápio", 
+        "bastão de asclépio", 
+        "medicina", 
+        "símbolo da medicina", 
+        "símbolo"
+    ], 
+    "⚖️": [
+        "ferramenta", 
+        "justiça", 
+        "peso", 
+        "zodíaco", 
+        "libra", 
+        "balança"
+    ], 
+    "⚗️": [
+        "química", 
+        "ferramenta", 
+        "alambique"
+    ], 
+    "⚙️": [
+        "ferramenta", 
+        "engrenagem"
+    ], 
+    "⚛️": [
+        "átomo", 
+        "ateísmo"
+    ], 
+    "⚜️": [
+        "flor-de-lis", 
+        "símbolo"
+    ], 
+    "⚠️": [
+        "sinal", 
+        "aviso"
     ], 
     "⚡": [
         "sinal de alta tensão", 
@@ -147,6 +592,20 @@
         "geométrico", 
         "preto", 
         "círculo preto"
+    ], 
+    "⚰️": [
+        "caixão funerário", 
+        "velório", 
+        "funeral", 
+        "morte", 
+        "caixão"
+    ], 
+    "⚱️": [
+        "funeral", 
+        "urna", 
+        "morte", 
+        "cinzas", 
+        "urna funerária"
     ], 
     "⚽": [
         "bola", 
@@ -170,9 +629,31 @@
         "nuvem", 
         "sol"
     ], 
+    "⛈️": [
+        "chuva", 
+        "chuva com trovão", 
+        "nuvem", 
+        "trovão", 
+        "clima"
+    ], 
     "⛎": [
         "zodíaco", 
         "signo de Ofiúco"
+    ], 
+    "⛏️": [
+        "ferramenta", 
+        "picareta"
+    ], 
+    "⛑️": [
+        "capacete com cruz branca", 
+        "vermelho", 
+        "cruz", 
+        "capacete"
+    ], 
+    "⛓️": [
+        "correntes de metal", 
+        "metal", 
+        "corrente"
     ], 
     "⛔": [
         "sinal", 
@@ -181,9 +662,25 @@
         "não", 
         "proibido"
     ], 
+    "⛩️": [
+        "japonês", 
+        "santuário japonês", 
+        "oriental", 
+        "religião"
+    ], 
     "⛪": [
         "prédio", 
         "igreja"
+    ], 
+    "⛰️": [
+        "montanha"
+    ], 
+    "⛱️": [
+        "chuva", 
+        "clima", 
+        "sombrinha", 
+        "guarda-sol", 
+        "sol"
     ], 
     "⛲": [
         "chafariz", 
@@ -195,12 +692,32 @@
         "bandeira no buraco", 
         "bandeira de golfe"
     ], 
+    "⛴️": [
+        "barco", 
+        "balsa"
+    ], 
     "⛵": [
         "barco", 
         "resort", 
         "barco a vela", 
         "resort marítimo", 
         "iate"
+    ], 
+    "⛷️": [
+        "neve", 
+        "esqui", 
+        "esquiador"
+    ], 
+    "⛸️": [
+        "patins", 
+        "patins de gelo", 
+        "gelo"
+    ], 
+    "⛹️‍♂️": [
+        "basquete", 
+        "bola", 
+        "esporte", 
+        "jogador de basquete"
     ], 
     "⛺": [
         "acampamento", 
@@ -213,24 +730,132 @@
         "bomba de combustível", 
         "combustível"
     ], 
+    "✂️": [
+        "tesoura", 
+        "aberta", 
+        "tesoura aberta", 
+        "ferramenta"
+    ], 
     "✅": [
         "marca de verificação", 
         "verificação", 
         "marca de verificação grande"
     ], 
+    "✈️": [
+        "avião", 
+        "aéreo", 
+        "veículo"
+    ], 
+    "✉️": [
+        "envelope", 
+        "correspondência"
+    ], 
     "✊": [
+        "pele escura", 
+        "punho levantado: pele morena clara", 
+        "punho levantado: pele morena escura", 
+        "pele morena", 
+        "pele clara", 
+        "punho levantado: pele escura", 
         "punho erguido", 
-        "punho levantado"
+        "punho levantado", 
+        "punho levantado: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "punho levantado: pele clara"
     ], 
     "✋": [
+        "pele escura", 
+        "mão levantada: pele escura", 
+        "mão levantada: pele morena escura", 
+        "pele clara", 
+        "mão levantada: pele morena clara", 
+        "pele morena", 
         "mão levantada", 
-        "mão erguida"
+        "mão erguida", 
+        "pele morena escura", 
+        "mão levantada: pele clara", 
+        "pele morena clara", 
+        "mão levantada: pele morena"
+    ], 
+    "✌️": [
+        "mão com sinal de vitória", 
+        "mão em V de vitória", 
+        "sim!", 
+        "vitória"
+    ], 
+    "✍️": [
+        "escrevendo", 
+        "caneta", 
+        "mão", 
+        "escrevendo à mão"
+    ], 
+    "✏️": [
+        "lápis"
+    ], 
+    "✒️": [
+        "tinteiro", 
+        "caneta", 
+        "canhoto", 
+        "caneta tinteiro canhoto"
+    ], 
+    "✔️": [
+        "marca de verificação simples", 
+        "selecionar", 
+        "marcar"
+    ], 
+    "✖️": [
+        "multiplicação", 
+        "multiplicar", 
+        "cancelar", 
+        "X preto", 
+        "X"
+    ], 
+    "✝️": [
+        "cruz latina", 
+        "cristão", 
+        "cruz", 
+        "religião"
+    ], 
+    "✡️": [
+        "judaico", 
+        "estrela de Davi", 
+        "judeu", 
+        "religião", 
+        "estrela", 
+        "davi"
     ], 
     "✨": [
         "brilhos", 
         "estrelas", 
         "estrelas brilhantes", 
         "faíscas"
+    ], 
+    "✳️": [
+        "estrela", 
+        "asterisco", 
+        "verde", 
+        "asterisco de oito pontas", 
+        "quadrado"
+    ], 
+    "✴️": [
+        "estrela", 
+        "estrela de quatro pontas", 
+        "laranja", 
+        "quadrado", 
+        "quatro pontas"
+    ], 
+    "❄️": [
+        "frio", 
+        "clima", 
+        "neve", 
+        "floco", 
+        "floco de neve"
+    ], 
+    "❇️": [
+        "brilho", 
+        "verde", 
+        "quadrado"
     ], 
     "❌": [
         "multiplicação", 
@@ -259,6 +884,17 @@
         "ponto de exclamação vermelho", 
         "exclamação"
     ], 
+    "❣️": [
+        "exclamação de coração", 
+        "ponto de exclamação vermelho", 
+        "exclamação", 
+        "coração"
+    ], 
+    "❤️": [
+        "amor", 
+        "coração vermelho", 
+        "coração"
+    ], 
     "➕": [
         "sinal", 
         "sinal de maior", 
@@ -277,6 +913,13 @@
         "divisão", 
         "sinal de divisão grande"
     ], 
+    "➡️": [
+        "direção", 
+        "seta para a direita", 
+        "leste", 
+        "direita", 
+        "seta"
+    ], 
     "➰": [
         "volta", 
         "loop ondulado", 
@@ -287,6 +930,38 @@
         "loop ondulado", 
         "discagem grátis", 
         "loop duplo ondulado"
+    ], 
+    "⤴️": [
+        "curva", 
+        "seta para cima", 
+        "seta curva de baixo para cima"
+    ], 
+    "⤵️": [
+        "curva", 
+        "seta curva de cima para baixo", 
+        "seta para baixo"
+    ], 
+    "⬅️": [
+        "direção", 
+        "seta para a esquerda", 
+        "seta", 
+        "esquerda", 
+        "oeste"
+    ], 
+    "⬆️": [
+        "direção", 
+        "norte", 
+        "seta para cima", 
+        "cardinal", 
+        "seta"
+    ], 
+    "⬇️": [
+        "direção", 
+        "seta", 
+        "para baixo", 
+        "sul", 
+        "cardinal", 
+        "seta para baixo"
     ], 
     "⬛": [
         "quadrado preto grande", 
@@ -311,6 +986,29 @@
         "círculo vermelho vazio", 
         "aro"
     ], 
+    "〰️": [
+        "travessão", 
+        "ondulado", 
+        "marca de som longo", 
+        "travessão ondulado"
+    ], 
+    "〽️": [
+        "canto", 
+        "japonês", 
+        "símbolo japonês de canto"
+    ], 
+    "㊗️": [
+        "alfabeto", 
+        "ideográfico circular “parabéns”", 
+        "parabéns", 
+        "chinês"
+    ], 
+    "㊙️": [
+        "alfabeto", 
+        "segredo", 
+        "chinês", 
+        "ideográfico circular “segredo”"
+    ], 
     "🀄": [
         "dragão", 
         "peça", 
@@ -323,6 +1021,31 @@
         "Carta curinga", 
         "carta", 
         "carta de baralho"
+    ], 
+    "🅰️": [
+        "A", 
+        "tipo sanguíneo", 
+        "sangue", 
+        "tipo sanguíneo A", 
+        "tipo A"
+    ], 
+    "🅱️": [
+        "tipo sanguíneo", 
+        "B", 
+        "sangue", 
+        "tipo B", 
+        "tipo sanguíneo B"
+    ], 
+    "🅾️": [
+        "tipo sanguíneo O", 
+        "tipo sanguíneo", 
+        "tipo O", 
+        "sangue", 
+        "O"
+    ], 
+    "🅿️": [
+        "estacionamento", 
+        "estacionar"
     ], 
     "🆎": [
         "tipo sanguíneo", 
@@ -1421,6 +2144,13 @@
         "letra “koko” em katakana", 
         "katanaka"
     ], 
+    "🈂️": [
+        "alfabeto", 
+        "japonês", 
+        "letra “sa” em katakana", 
+        "letra sa", 
+        "katanaka"
+    ], 
     "🈚": [
         "alfabeto", 
         "japonês", 
@@ -1462,6 +2192,12 @@
         "ideograma quadrado \"possuir\"", 
         "existir", 
         "japonês"
+    ], 
+    "🈷️": [
+        "alfabeto", 
+        "japonês", 
+        "ideográfico quadrado “lua”", 
+        "lua"
     ], 
     "🈸": [
         "alfabeto", 
@@ -1692,6 +2428,69 @@
         "cadente", 
         "estrela cadente"
     ], 
+    "🌡️": [
+        "clima", 
+        "tempo", 
+        "termômetro"
+    ], 
+    "🌤️": [
+        "sol com nuvens", 
+        "clima", 
+        "nuvem", 
+        "sol"
+    ], 
+    "🌥️": [
+        "clima", 
+        "nuvem", 
+        "sol", 
+        "nublado"
+    ], 
+    "🌦️": [
+        "chuva", 
+        "clima", 
+        "nuvem", 
+        "sol", 
+        "sol com chuva"
+    ], 
+    "🌧️": [
+        "chuva", 
+        "clima", 
+        "nuvem com chuva", 
+        "nuvem"
+    ], 
+    "🌨️": [
+        "frio", 
+        "clima", 
+        "neve", 
+        "nuvem com neve", 
+        "nuvem"
+    ], 
+    "🌩️": [
+        "clima", 
+        "relâmpago", 
+        "nuvem", 
+        "nuvem com trovão"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "clima", 
+        "nuvem", 
+        "furacão"
+    ], 
+    "🌫️": [
+        "clima", 
+        "nuvem", 
+        "furacão", 
+        "neblina"
+    ], 
+    "🌬️": [
+        "nuvem", 
+        "vento", 
+        "sopro", 
+        "rosto de vento", 
+        "clima", 
+        "rosto"
+    ], 
     "🌭": [
         "hot dog", 
         "cachorro-quente", 
@@ -1733,6 +2532,10 @@
     "🌵": [
         "planta", 
         "cacto"
+    ], 
+    "🌶️": [
+        "pimenta", 
+        "tempero"
     ], 
     "🌷": [
         "flor", 
@@ -2111,6 +2914,12 @@
         "beber", 
         "leite"
     ], 
+    "🍽️": [
+        "restaurante", 
+        "prato com garfo e faca", 
+        "prato com talheres ao lado", 
+        "prato com talheres"
+    ], 
     "🍾": [
         "celebração com espumante", 
         "champanhe", 
@@ -2151,10 +2960,20 @@
         "árvore"
     ], 
     "🎅": [
+        "pele escura", 
+        "noel: pele clara", 
+        "noel: pele morena clara", 
+        "pele morena", 
+        "noel: pele morena", 
+        "pele clara", 
+        "noel: pele morena escura", 
+        "comemoração", 
         "natal", 
-        "papai noel", 
+        "pele morena escura", 
         "noel", 
-        "comemoração"
+        "papai noel", 
+        "pele morena clara", 
+        "noel: pele escura"
     ], 
     "🎆": [
         "fogos de artifício", 
@@ -2237,6 +3056,46 @@
         "chapéu", 
         "chapéu de formatura", 
         "comemoração"
+    ], 
+    "🎖️": [
+        "medalha militar", 
+        "condecoração", 
+        "militar", 
+        "prêmio", 
+        "medalha"
+    ], 
+    "🎗️": [
+        "laço", 
+        "celebração", 
+        "lembrete", 
+        "fita de lembrete"
+    ], 
+    "🎙️": [
+        "música", 
+        "microfone", 
+        "estúdio"
+    ], 
+    "🎚️": [
+        "controle", 
+        "música", 
+        "controle de volume", 
+        "volume"
+    ], 
+    "🎛️": [
+        "controle", 
+        "música", 
+        "botões", 
+        "botões giratórios"
+    ], 
+    "🎞️": [
+        "rolo de filmes", 
+        "filme", 
+        "cinema"
+    ], 
+    "🎟️": [
+        "ingresso", 
+        "ingresso de cinema", 
+        "entrada"
     ], 
     "🎠": [
         "carrossel", 
@@ -2453,20 +3312,47 @@
         "esporte"
     ], 
     "🏂": [
-        "praticante de snowboard", 
+        "pele escura", 
+        "praticante de snowboard: pele clara", 
+        "praticante de snowboard: pele morena clara", 
+        "pele clara", 
+        "praticante de snowboard: pele escura", 
+        "pele morena", 
         "snowboard", 
-        "esporte"
+        "esporte", 
+        "praticante de snowboard", 
+        "pele morena escura", 
+        "praticante de snowboard: pele morena escura", 
+        "pele morena clara", 
+        "praticante de snowboard: pele morena"
     ], 
-    "🏃": [
-        "maratona", 
+    "🏃‍♀️": [
+        "mulher", 
         "corrida", 
-        "maratonista", 
+        "mulher correndo", 
         "esporte"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "corrida", 
+        "esporte", 
+        "maratona", 
+        "homem correndo", 
+        "maratonista", 
+        "homem"
+    ], 
+    "🏄‍♀️": [
+        "mulher", 
+        "mulher surfista", 
+        "surfe", 
+        "esporte"
+    ], 
+    "🏄‍♂️": [
         "surf", 
         "surfista", 
-        "esporte"
+        "surfe", 
+        "esporte", 
+        "homem surfista", 
+        "homem"
     ], 
     "🏅": [
         "medalha esportiva", 
@@ -2478,12 +3364,22 @@
         "prêmio"
     ], 
     "🏇": [
+        "pele escura", 
+        "corrida de cavalos: pele morena", 
+        "pele morena", 
+        "corrida de cavalos: pele morena clara", 
         "jóquei", 
+        "pele clara", 
         "esporte", 
         "cavalo de corrida", 
         "corrida", 
         "corrida de cavalos", 
-        "cavalo"
+        "corrida de cavalos: pele morena escura", 
+        "cavalo", 
+        "pele morena clara", 
+        "corrida de cavalos: pele escura", 
+        "corrida de cavalos: pele clara", 
+        "pele morena escura"
     ], 
     "🏈": [
         "americano", 
@@ -2497,11 +3393,40 @@
         "bola de futebol", 
         "esporte"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "mulher", 
+        "natação", 
+        "esporte", 
+        "nadadora"
+    ], 
+    "🏊‍♂️": [
+        "homem nadando", 
         "nadador", 
         "natação", 
         "esporte", 
         "nadar"
+    ], 
+    "🏋️‍♂️": [
+        "levantador de peso", 
+        "levantador", 
+        "esporte", 
+        "força", 
+        "peso"
+    ], 
+    "🏌️‍♂️": [
+        "bola", 
+        "golfe", 
+        "jogador de golfe", 
+        "esporte"
+    ], 
+    "🏍️": [
+        "motocicleta", 
+        "corrida"
+    ], 
+    "🏎️": [
+        "carro de corrida", 
+        "corrida", 
+        "carro"
     ], 
     "🏏": [
         "bola", 
@@ -2535,6 +3460,58 @@
         "tênis de mesa", 
         "mesa", 
         "pingue-pongue"
+    ], 
+    "🏔️": [
+        "frio", 
+        "neve", 
+        "montanha com neve", 
+        "montanha"
+    ], 
+    "🏕️": [
+        "acampamento", 
+        "barraca"
+    ], 
+    "🏖️": [
+        "praia", 
+        "guarda-sol", 
+        "praia e guarda-sol"
+    ], 
+    "🏗️": [
+        "obra", 
+        "construção"
+    ], 
+    "🏘️": [
+        "casas"
+    ], 
+    "🏙️": [
+        "prédios", 
+        "cidade"
+    ], 
+    "🏚️": [
+        "casa", 
+        "casa abandonada"
+    ], 
+    "🏛️": [
+        "clássico", 
+        "arquitetura", 
+        "prédio grego", 
+        "grego"
+    ], 
+    "🏜️": [
+        "deserto"
+    ], 
+    "🏝️": [
+        "ilha", 
+        "ilha deserta"
+    ], 
+    "🏞️": [
+        "rio", 
+        "parque", 
+        "parque com rio"
+    ], 
+    "🏟️": [
+        "estádio", 
+        "estágio"
     ], 
     "🏠": [
         "construção", 
@@ -2626,6 +3603,17 @@
         "castelo", 
         "prédio"
     ], 
+    "🏳️": [
+        "paz", 
+        "bandeira", 
+        "bandeira branca", 
+        "branca"
+    ], 
+    "🏳️‍🌈": [
+        "arco-íris", 
+        "bandeira do arco-íris", 
+        "bandeira"
+    ], 
     "🏴": [
         "bandeira preta", 
         "preta", 
@@ -2642,6 +3630,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "bandeira", 
         "País de Gales"
+    ], 
+    "🏵️": [
+        "flor amarela", 
+        "primavera"
+    ], 
+    "🏷️": [
+        "etiqueta"
     ], 
     "🏸": [
         "raquete", 
@@ -3005,18 +4000,47 @@
         "pegada de pata", 
         "animal"
     ], 
+    "🐿️": [
+        "esquilo", 
+        "animal"
+    ], 
     "👀": [
         "olhos", 
         "rosto"
     ], 
+    "👁️": [
+        "olho", 
+        "rosto", 
+        "parte do corpo"
+    ], 
     "👂": [
+        "pele escura", 
+        "pele morena", 
+        "pele clara", 
+        "orelha", 
+        "orelha: pele clara", 
+        "orelha: pele morena escura", 
+        "orelha: pele escura", 
+        "orelha: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
         "corpo", 
-        "orelha"
+        "orelha: pele morena clara"
     ], 
     "👃": [
+        "pele escura", 
+        "nariz: pele morena escura", 
+        "nariz: pele morena clara", 
+        "pele clara", 
+        "nariz: pele clara", 
+        "pele morena", 
+        "nariz", 
+        "nariz: pele morena", 
+        "nariz: pele escura", 
+        "pele morena clara", 
         "corpo", 
         "rosto", 
-        "nariz"
+        "pele morena escura"
     ], 
     "👄": [
         "rosto", 
@@ -3030,76 +4054,186 @@
         "rosto"
     ], 
     "👆": [
+        "pele escura", 
         "dedo indicador", 
-        "dedo apontado para cima", 
         "costas da mão", 
         "dorso da mão com dedo indicador apontando para cima", 
-        "dedo"
+        "pele clara", 
+        "pele morena", 
+        "dorso da mão com dedo indicador apontando para cima: pele morena escura", 
+        "dorso da mão com dedo indicador apontando para cima: pele escura", 
+        "dorso da mão com dedo indicador apontando para cima: pele clara", 
+        "dorso da mão com dedo indicador apontando para cima: pele morena clara", 
+        "dorso da mão com dedo indicador apontando para cima: pele morena", 
+        "dedo", 
+        "pele morena clara", 
+        "dedo apontado para cima", 
+        "pele morena escura"
     ], 
     "👇": [
-        "dedo apontado para baixo", 
-        "dorso da mão com dedo indicador apontando para baixo", 
+        "pele escura", 
         "dedo indicador", 
         "costas da mão", 
-        "dedo"
+        "pele clara", 
+        "dorso da mão com dedo indicador apontando para baixo", 
+        "pele morena", 
+        "dorso da mão com dedo indicador apontando para baixo: pele clara", 
+        "dorso da mão com dedo indicador apontando para baixo: pele morena", 
+        "dedo apontado para baixo", 
+        "pele morena escura", 
+        "dedo", 
+        "pele morena clara", 
+        "dorso da mão com dedo indicador apontando para baixo: pele morena clara", 
+        "dorso da mão com dedo indicador apontando para baixo: pele morena escura", 
+        "dorso da mão com dedo indicador apontando para baixo: pele escura"
     ], 
     "👈": [
+        "pele escura", 
+        "pele morena", 
         "dedo indicador", 
-        "dorso da mão com dedo indicador apontando para a esquerda", 
-        "dedo apontado para esquerda", 
         "costas da mão", 
-        "dedo"
+        "dorso da mão com dedo indicador apontando para a esquerda: pele morena clara", 
+        "dorso da mão com dedo indicador apontando para a esquerda: pele morena escura", 
+        "pele clara", 
+        "dedo apontado para esquerda", 
+        "dorso da mão com dedo indicador apontando para a esquerda: pele clara", 
+        "dorso da mão com dedo indicador apontando para a esquerda: pele escura", 
+        "dorso da mão com dedo indicador apontando para a esquerda", 
+        "pele morena escura", 
+        "dedo", 
+        "pele morena clara", 
+        "dorso da mão com dedo indicador apontando para a esquerda: pele morena"
     ], 
     "👉": [
-        "dorso da mão com dedo indicador apontando para a direita", 
+        "pele escura", 
         "dedo indicador", 
         "costas da mão", 
+        "dorso da mão com dedo indicador apontando para a direita", 
+        "pele clara", 
+        "dorso da mão com dedo indicador apontando para a direita: pele clara", 
+        "pele morena", 
         "dedo apontado para direita", 
-        "dedo"
+        "pele morena escura", 
+        "dedo", 
+        "dorso da mão com dedo indicador apontando para a direita: pele morena", 
+        "pele morena clara", 
+        "dorso da mão com dedo indicador apontando para a direita: pele escura", 
+        "dorso da mão com dedo indicador apontando para a direita: pele morena clara", 
+        "dorso da mão com dedo indicador apontando para a direita: pele morena escura"
     ], 
     "👊": [
+        "pele escura", 
+        "soco: pele morena escura", 
+        "pele morena", 
+        "mão", 
+        "pele clara", 
         "soco", 
         "punho", 
-        "mão"
+        "soco: pele morena clara", 
+        "soco: pele clara", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "soco: pele escura", 
+        "soco: pele morena"
     ], 
     "👋": [
+        "pele escura", 
+        "pele morena", 
+        "mão", 
+        "pele clara", 
+        "mão acenando: pele escura", 
         "aceno", 
+        "mão acenando: pele clara", 
         "mão acenando", 
-        "mão"
+        "mão acenando: pele morena", 
+        "mão acenando: pele morena clara", 
+        "mão acenando: pele morena escura", 
+        "pele morena escura", 
+        "pele morena clara"
     ], 
     "👌": [
-        "sinal", 
-        "mão sinalizando ok", 
-        "sinal de ok", 
+        "pele escura", 
+        "pele morena", 
         "ok", 
-        "mão"
+        "sinal de ok: pele morena", 
+        "mão", 
+        "pele clara", 
+        "sinal de ok: pele morena clara", 
+        "sinal de ok", 
+        "mão sinalizando ok", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "sinal de ok: pele escura", 
+        "sinal", 
+        "sinal de ok: pele clara", 
+        "sinal de ok: pele morena escura"
     ], 
     "👍": [
-        "sinal", 
+        "polegar para cima: pele morena", 
         "para cima", 
         "dedão", 
         "mão", 
-        "polegar para cima"
+        "pele clara", 
+        "pele escura", 
+        "pele morena", 
+        "polegar para cima: pele clara", 
+        "polegar para cima: pele escura", 
+        "polegar para cima", 
+        "polegar para cima: pele morena clara", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "sinal", 
+        "polegar para cima: pele morena escura"
     ], 
     "👎": [
-        "sinal", 
+        "pele escura", 
         "dedão", 
-        "polegar para baixo", 
+        "pele morena", 
+        "polegar para baixo: pele morena", 
         "mão", 
-        "para baixo"
+        "pele clara", 
+        "polegar para baixo: pele morena clara", 
+        "para baixo", 
+        "polegar para baixo: pele escura", 
+        "polegar para baixo: pele clara", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "polegar para baixo", 
+        "sinal", 
+        "polegar para baixo: pele morena escura"
     ], 
     "👏": [
+        "mãos aplaudindo: pele morena clara", 
+        "pele escura", 
+        "mãos aplaudindo: pele morena escura", 
+        "pele clara", 
+        "mãos aplaudindo: pele escura", 
+        "pele morena", 
+        "mãos aplaudindo: pele morena", 
         "mãos", 
-        "sinal", 
+        "pele morena clara", 
         "aplauso", 
-        "mãos aplaudindo"
+        "mãos aplaudindo", 
+        "pele morena escura", 
+        "sinal", 
+        "mãos aplaudindo: pele clara"
     ], 
     "👐": [
-        "mãos abertas", 
-        "sinal", 
+        "pele escura", 
         "abertas", 
         "mão", 
-        "sinal de mãos abertas"
+        "pele clara", 
+        "mãos abertas: pele escura", 
+        "pele morena", 
+        "mãos abertas: pele morena escura", 
+        "mãos abertas: pele clara", 
+        "sinal", 
+        "mãos abertas: pele morena", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "mãos abertas", 
+        "sinal de mãos abertas", 
+        "mãos abertas: pele morena clara"
     ], 
     "👑": [
         "coroa", 
@@ -3208,59 +4342,195 @@
         "busto"
     ], 
     "👦": [
+        "pele escura", 
+        "menino: pele morena", 
+        "menino: pele morena clara", 
+        "pele clara", 
         "pessoas", 
+        "menino: pele morena escura", 
+        "pele morena", 
+        "pele morena escura", 
+        "menino: pele clara", 
+        "pele morena clara", 
+        "menino: pele escura", 
         "menino"
     ], 
     "👧": [
+        "pele escura", 
+        "menina: pele escura", 
+        "pele morena", 
+        "menina: pele clara", 
+        "menina: pele morena clara", 
+        "pessoas", 
+        "pele clara", 
+        "menina: pele morena", 
         "menina", 
-        "pessoas"
+        "pele morena escura", 
+        "pele morena clara", 
+        "menina: pele morena escura"
     ], 
     "👨": [
+        "pele escura", 
+        "pele clara", 
+        "pessoas", 
+        "pele morena", 
+        "homem: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "homem: pele morena escura", 
+        "homem: pele morena clara", 
+        "homem: pele clara", 
+        "homem: pele escura", 
+        "homem"
+    ], 
+    "👨‍⚕️": [
+        "enfermeiro", 
+        "terapeuta", 
+        "homem profissional da saúde", 
+        "médico", 
+        "doutor", 
+        "saúde", 
+        "homem"
+    ], 
+    "👨‍⚖️": [
+        "justiça", 
+        "juiz", 
+        "homem"
+    ], 
+    "👨‍✈️": [
+        "avião", 
+        "piloto de avião homem", 
+        "homem"
+    ], 
+    "👨‍❤️‍👨": [
+        "casal com um coração", 
+        "coração", 
+        "pessoas", 
+        "romance", 
+        "casal apaixonado: homem e homem", 
+        "casal apaixonado", 
+        "homem"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "beijo: homem e homem", 
+        "beijar", 
+        "romance", 
+        "beijo", 
         "pessoas", 
         "homem"
     ], 
     "👨‍🌾": [
+        "pele escura", 
+        "pele clara", 
         "agricultor", 
-        "fazendeiro", 
+        "pele morena", 
         "jardineiro", 
+        "fazendeiro: pele escura", 
+        "fazendeiro: pele morena", 
+        "fazendeiro: pele clara", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "fazendeiro", 
+        "fazendeiro: pele morena clara", 
+        "fazendeiro: pele morena escura", 
         "homem"
     ], 
     "👨‍🍳": [
+        "pele escura", 
+        "cozinheiro: pele morena clara", 
+        "pele clara", 
+        "cozinheiro: pele escura", 
+        "pele morena", 
         "chef", 
+        "pele morena escura", 
         "cozinheiro", 
+        "cozinheiro: pele morena escura", 
+        "pele morena clara", 
+        "cozinheiro: pele clara", 
+        "cozinheiro: pele morena", 
         "homem"
     ], 
     "👨‍🎓": [
-        "aluno", 
-        "formando", 
+        "pele escura", 
         "estudante", 
+        "pele clara", 
+        "formando: pele morena escura", 
+        "pele morena", 
+        "formando", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "formando: pele clara", 
+        "aluno", 
+        "formando: pele escura", 
+        "formando: pele morena", 
+        "formando: pele morena clara", 
         "homem"
     ], 
     "👨‍🎤": [
+        "pele escura", 
+        "cantor: pele clara", 
         "artista", 
+        "cantor: pele escura", 
+        "pele clara", 
         "ator", 
+        "pele morena", 
+        "cantor: pele morena clara", 
         "pop", 
         "cantor", 
+        "pele morena escura", 
+        "cantor: pele morena escura", 
         "rock", 
+        "pele morena clara", 
+        "cantor: pele morena", 
         "homem"
     ], 
     "👨‍🎨": [
+        "pele escura", 
+        "artista plástico: pele clara", 
+        "artista", 
+        "pele clara", 
+        "artista plástico: pele escura", 
+        "pele morena", 
+        "artista plástico: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "artista plástico: pele morena clara", 
         "artista plástico", 
         "pintura", 
-        "artista", 
+        "artista plástico: pele morena escura", 
         "homem"
     ], 
     "👨‍🏫": [
-        "mestre", 
+        "pele escura", 
+        "professor: pele morena clara", 
+        "professor: pele clara", 
+        "professor: pele escura", 
+        "pele clara", 
         "professor", 
+        "pele morena", 
+        "pele morena escura", 
+        "professor: pele morena escura", 
+        "professor: pele morena", 
+        "pele morena clara", 
+        "mestre", 
         "homem"
     ], 
     "👨‍🏭": [
+        "pele escura", 
+        "pele morena", 
+        "operário: pele morena clara", 
+        "operário: pele morena", 
         "operário", 
-        "trabalhador", 
-        "homem", 
+        "operário: pele clara", 
+        "operário: pele morena escura", 
+        "pele clara", 
+        "operário: pele escura", 
+        "pele morena escura", 
         "indústria", 
-        "fábrica"
+        "fábrica", 
+        "pele morena clara", 
+        "trabalhador", 
+        "homem"
     ], 
     "👨‍👦": [
         "pessoas", 
@@ -3421,95 +4691,290 @@
         "homem"
     ], 
     "👨‍💻": [
+        "pele escura", 
+        "pele morena", 
         "criador", 
         "tecnólogo", 
+        "tecnólogo: pele clara", 
+        "tecnólogo: pele morena escura", 
+        "pele clara", 
         "computador", 
         "desenvolvedor", 
+        "pele morena escura", 
+        "tecnólogo: pele morena", 
+        "tecnólogo: pele escura", 
+        "pele morena clara", 
+        "tecnólogo: pele morena clara", 
         "software", 
         "codificador", 
         "homem"
     ], 
     "👨‍💼": [
-        "homem", 
+        "empresário: pele morena escura", 
         "gerente", 
+        "escritório", 
+        "empresário: pele escura", 
+        "pele clara", 
+        "pele escura", 
         "arquiteto", 
+        "empresário: pele morena", 
         "empresário", 
-        "escritório"
+        "pele morena", 
+        "empresário: pele clara", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "empresário: pele morena clara", 
+        "homem"
     ], 
     "👨‍🔧": [
-        "prestador de serviços", 
-        "encanador", 
-        "mecânico", 
+        "pele escura", 
+        "mecânico: pele morena escura", 
         "eletricista", 
+        "mecânico: pele morena", 
+        "pele clara", 
+        "prestador de serviços", 
+        "pele morena", 
+        "pele morena escura", 
+        "mecânico: pele morena clara", 
+        "mecânico: pele clara", 
+        "mecânico: pele escura", 
+        "pele morena clara", 
+        "mecânico", 
+        "encanador", 
         "homem"
     ], 
     "👨‍🔬": [
+        "pele escura", 
+        "cientista homem: pele morena clara", 
+        "pele clara", 
         "professor", 
+        "pele morena", 
+        "cientista homem: pele morena", 
+        "pele morena clara", 
         "químico", 
+        "pele morena escura", 
+        "cientista homem: pele morena escura", 
         "físico", 
+        "cientista homem: pele clara", 
         "cientista homem", 
         "biólogo", 
+        "cientista homem: pele escura", 
         "homem"
     ], 
     "👨‍🚀": [
-        "foguete", 
+        "astronauta homem: pele morena clara", 
+        "pele escura", 
+        "astronauta homem: pele morena escura", 
+        "pele clara", 
+        "astronauta homem: pele escura", 
         "espaço", 
+        "pele morena", 
+        "astronauta homem: pele morena", 
         "astronauta homem", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "astronauta homem: pele clara", 
+        "foguete", 
         "homem"
     ], 
     "👨‍🚒": [
-        "corpo de bombeiros", 
-        "homem", 
-        "fogo", 
+        "pele escura", 
+        "pele clara", 
+        "bombeiro homem: pele clara", 
+        "bombeiro homem: pele escura", 
+        "pele morena", 
         "incêndio", 
-        "bombeiro homem"
+        "bombeiro homem: pele morena", 
+        "bombeiro homem", 
+        "pele morena clara", 
+        "bombeiro homem: pele morena escura", 
+        "bombeiro homem: pele morena clara", 
+        "pele morena escura", 
+        "corpo de bombeiros", 
+        "fogo", 
+        "homem"
     ], 
     "👩": [
+        "mulher: pele morena escura", 
+        "pele escura", 
+        "mulher: pele morena clara", 
+        "mulher: pele clara", 
+        "pele clara", 
+        "pessoas", 
+        "pele morena", 
         "mulher", 
-        "pessoas"
+        "mulher: pele morena", 
+        "pele morena escura", 
+        "mulher: pele escura", 
+        "pele morena clara"
     ], 
-    "👩‍🌾": [
+    "👩‍⚕️": [
+        "terapeuta", 
+        "enfermeira", 
+        "mulher profissional da saúde", 
         "mulher", 
-        "agricultora", 
-        "jardineira", 
-        "fazendeira"
+        "médica", 
+        "doutora", 
+        "saúde"
     ], 
-    "👩‍🍳": [
-        "chef", 
-        "cozinheira", 
+    "👩‍⚖️": [
+        "mulher", 
+        "justiça", 
+        "juíza"
+    ], 
+    "👩‍✈️": [
+        "avião", 
+        "piloto de avião mulher", 
         "mulher"
     ], 
-    "👩‍🎓": [
+    "👩‍❤️‍👨": [
+        "casal com um coração", 
+        "coração", 
+        "pessoas", 
+        "romance", 
         "mulher", 
-        "formanda", 
+        "casal apaixonado", 
+        "casal apaixonado: mulher e homem", 
+        "homem"
+    ], 
+    "👩‍❤️‍👩": [
+        "casal com um coração", 
+        "coração", 
+        "pessoas", 
+        "casal apaixonado: mulher e mulher", 
+        "romance", 
+        "mulher", 
+        "casal apaixonado"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "beijar", 
+        "beijo: mulher e homem", 
+        "romance", 
+        "mulher", 
+        "beijo", 
+        "pessoas", 
+        "homem"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "beijar", 
+        "romance", 
+        "mulher", 
+        "beijo", 
+        "pessoas", 
+        "beijo: mulher e mulher"
+    ], 
+    "👩‍🌾": [
+        "fazendeira: pele morena", 
+        "pele escura", 
+        "jardineira", 
+        "pele clara", 
+        "agricultora", 
+        "pele morena", 
+        "fazendeira: pele morena escura", 
+        "fazendeira: pele morena clara", 
+        "mulher", 
+        "fazendeira", 
+        "pele morena clara", 
+        "fazendeira: pele clara", 
+        "fazendeira: pele escura", 
+        "pele morena escura"
+    ], 
+    "👩‍🍳": [
+        "pele escura", 
+        "pele morena", 
+        "mulher", 
+        "cozinheira: pele clara", 
+        "cozinheira: pele morena clara", 
+        "pele clara", 
+        "cozinheira: pele morena escura", 
+        "chef", 
+        "pele morena clara", 
+        "cozinheira: pele morena", 
+        "pele morena escura", 
+        "cozinheira", 
+        "cozinheira: pele escura"
+    ], 
+    "👩‍🎓": [
+        "pele escura", 
+        "aluna", 
         "estudante", 
-        "aluna"
+        "pele clara", 
+        "pele morena", 
+        "mulher", 
+        "formanda: pele morena clara", 
+        "formanda: pele morena", 
+        "formanda", 
+        "pele morena clara", 
+        "formanda: pele clara", 
+        "formanda: pele morena escura", 
+        "formanda: pele escura", 
+        "pele morena escura"
     ], 
     "👩‍🎤": [
+        "pele escura", 
         "artista", 
+        "pele clara", 
+        "pele morena", 
         "pop", 
         "mulher", 
+        "cantora: pele morena clara", 
+        "cantora: pele morena", 
+        "pele morena escura", 
         "rock", 
+        "pele morena clara", 
         "cantora", 
-        "atriz"
+        "atriz", 
+        "cantora: pele morena escura", 
+        "cantora: pele clara", 
+        "cantora: pele escura"
     ], 
     "👩‍🎨": [
-        "mulher", 
-        "pintura", 
+        "pele escura", 
+        "pele morena", 
+        "artista plástica: pele morena escura", 
         "artista", 
-        "artista plástica"
+        "pele clara", 
+        "artista plástica: pele escura", 
+        "artista plástica: pele morena clara", 
+        "artista plástica: pele morena", 
+        "mulher", 
+        "artista plástica", 
+        "pele morena clara", 
+        "artista plástica: pele clara", 
+        "pintura", 
+        "pele morena escura"
     ], 
     "👩‍🏫": [
-        "mulher", 
+        "pele escura", 
         "professora", 
+        "professora: pele morena escura", 
+        "professora: pele morena", 
+        "pele clara", 
+        "pele morena", 
+        "professora: pele escura", 
+        "mulher", 
+        "professora: pele morena clara", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "professora: pele clara", 
         "mestra"
     ], 
     "👩‍🏭": [
-        "trabalhadora", 
-        "mulher", 
+        "pele escura", 
+        "pele morena", 
+        "operária: pele clara", 
+        "pele clara", 
+        "operária: pele morena", 
         "operária", 
+        "operária: pele morena clara", 
+        "operária: pele morena escura", 
+        "mulher", 
+        "operária: pele escura", 
         "indústria", 
-        "fábrica"
+        "fábrica", 
+        "pele morena clara", 
+        "trabalhadora", 
+        "pele morena escura"
     ], 
     "👩‍👦": [
         "pessoas", 
@@ -3614,55 +5079,108 @@
         "família"
     ], 
     "👩‍💻": [
+        "pele escura", 
+        "tecnóloga: pele morena clara", 
+        "tecnóloga: pele escura", 
         "criadora", 
+        "tecnóloga: pele clara", 
+        "pele clara", 
         "codificadora", 
         "tecnóloga", 
+        "pele morena", 
         "computador", 
+        "tecnóloga: pele morena escura", 
         "mulher", 
+        "tecnóloga: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
         "desenvolvedora", 
         "software"
     ], 
     "👩‍💼": [
-        "mulher", 
+        "pele escura", 
         "gerente", 
+        "empresária: pele morena escura", 
         "empresária", 
         "arquiteta", 
-        "escritório"
+        "pele clara", 
+        "pele morena", 
+        "empresária: pele morena clara", 
+        "mulher", 
+        "empresária: pele escura", 
+        "escritório", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "empresária: pele clara", 
+        "empresária: pele morena"
     ], 
     "👩‍🔧": [
-        "encanadora", 
+        "pele escura", 
         "eletricista", 
         "prestadora de serviços", 
+        "pele clara", 
+        "mecânica: pele morena clara", 
+        "pele morena", 
+        "mecânica: pele morena", 
+        "mulher", 
+        "mecânica: pele escura", 
+        "encanadora", 
+        "pele morena escura", 
+        "mecânica: pele morena escura", 
+        "pele morena clara", 
         "mecânica", 
-        "mulher"
+        "mecânica: pele clara"
     ], 
     "👩‍🔬": [
+        "cientista mulher: pele morena", 
+        "pele escura", 
         "professora", 
+        "pele morena", 
+        "pele clara", 
+        "cientista mulher: pele morena clara", 
+        "cientista mulher: pele morena escura", 
         "mulher", 
         "bióloga", 
+        "pele morena escura", 
+        "cientista mulher: pele clara", 
         "física", 
+        "pele morena clara", 
         "cientista mulher", 
-        "química"
+        "química", 
+        "cientista mulher: pele escura"
     ], 
     "👩‍🚀": [
-        "foguete", 
-        "espaço", 
+        "pele escura", 
+        "pele morena", 
+        "astronauta mulher: pele morena clara", 
         "astronauta mulher", 
-        "mulher"
+        "pele clara", 
+        "espaço", 
+        "astronauta mulher: pele clara", 
+        "astronauta mulher: pele escura", 
+        "mulher", 
+        "astronauta mulher: pele morena escura", 
+        "pele morena escura", 
+        "astronauta mulher: pele morena", 
+        "pele morena clara", 
+        "foguete"
     ], 
     "👩‍🚒": [
-        "corpo de bombeiros", 
-        "mulher", 
-        "fogo", 
+        "pele escura", 
+        "bombeiro mulher: pele clara", 
+        "bombeiro mulher: pele escura", 
+        "bombeiro mulher", 
+        "pele clara", 
+        "bombeiro mulher: pele morena escura", 
+        "pele morena", 
         "incêndio", 
-        "bombeiro mulher"
-    ], 
-    "👪": [
-        "pai", 
-        "pessoas", 
-        "mãe", 
-        "família", 
-        "filho"
+        "bombeiro mulher: pele morena", 
+        "mulher", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "corpo de bombeiros", 
+        "fogo", 
+        "bombeiro mulher: pele morena clara"
     ], 
     "👫": [
         "homem e mulher de mãos dadas", 
@@ -3687,69 +5205,174 @@
         "mãos dadas", 
         "pessoas"
     ], 
-    "👮": [
+    "👮‍♀️": [
         "autoridade", 
-        "pessoas", 
-        "policial", 
-        "polícia"
+        "mulher", 
+        "tira", 
+        "policial mulher"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "tira", 
+        "policial", 
+        "pessoas", 
+        "polícia", 
+        "autoridade", 
+        "policial homem", 
+        "homem"
+    ], 
+    "👯‍♀️": [
+        "festa", 
+        "pessoas", 
+        "dança", 
         "mulher", 
         "orelhas de coelho", 
-        "coelhinhas", 
         "garota", 
-        "pessoas"
+        "diversão", 
+        "fantasia", 
+        "coelhinhas", 
+        "mulheres fantasiadas"
+    ], 
+    "👯‍♂️": [
+        "festa", 
+        "dança", 
+        "homens fantasiados", 
+        "orelhas de coelho", 
+        "diversão", 
+        "fantasia", 
+        "homem"
     ], 
     "👰": [
+        "pele escura", 
+        "casamento", 
+        "pele clara", 
         "noiva", 
         "pessoas", 
-        "casamento", 
+        "pele morena", 
+        "noiva: pele morena escura", 
         "véu", 
-        "noiva com véu"
+        "noiva: pele clara", 
+        "noiva: pele morena", 
+        "pele morena escura", 
+        "noiva: pele escura", 
+        "pele morena clara", 
+        "noiva com véu", 
+        "noiva: pele morena clara"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "mulher", 
+        "loira", 
+        "loura"
+    ], 
+    "👱‍♂️": [
+        "louro", 
         "pessoa loira", 
+        "homem", 
         "loiro", 
         "pessoas"
     ], 
     "👲": [
+        "pele escura", 
+        "pele morena", 
+        "pele clara", 
+        "pessoas", 
+        "homem de boné: pele clara", 
+        "homem de boné: pele morena", 
         "homem com gua pi mao", 
         "gua pi mao", 
+        "homem de boné: pele morena clara", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "homem de boné: pele escura", 
         "homem de boné", 
-        "pessoas"
+        "homem de boné: pele morena escura"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "mulher", 
+        "mulher vestindo turbante", 
+        "turbante"
+    ], 
+    "👳‍♂️": [
         "pessoas", 
+        "homem vestindo turbante", 
         "homem com turbante", 
         "pessoa vestindo turbante", 
         "turbante"
     ], 
     "👴": [
-        "pessoas", 
+        "pele escura", 
+        "pele morena", 
         "homem idoso", 
-        "idoso", 
-        "homem"
+        "pele clara", 
+        "homem idoso: pele morena", 
+        "pessoas", 
+        "homem idoso: pele clara", 
+        "homem idoso: pele morena clara", 
+        "homem idoso: pele morena escura", 
+        "homem idoso: pele escura", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "homem", 
+        "idoso"
     ], 
     "👵": [
-        "mulher idosa", 
-        "mulher", 
+        "pele escura", 
+        "mulher idosa: pele morena clara", 
         "idosa", 
-        "pessoas"
+        "mulher idosa: pele morena escura", 
+        "mulher", 
+        "mulher idosa: pele morena", 
+        "pessoas", 
+        "pele clara", 
+        "mulher idosa: pele escura", 
+        "pele morena", 
+        "mulher idosa", 
+        "pele morena escura", 
+        "mulher idosa: pele clara", 
+        "pele morena clara"
     ], 
     "👶": [
+        "bebê: pele morena escura", 
+        "pele escura", 
+        "bebê: pele morena clara", 
+        "pele clara", 
+        "bebê: pele morena", 
         "bebê", 
-        "pessoas"
+        "pele morena", 
+        "bebê: pele clara", 
+        "pele morena escura", 
+        "pessoas", 
+        "pele morena clara", 
+        "bebê: pele escura"
     ], 
-    "👷": [
+    "👷‍♀️": [
         "construção", 
+        "operária", 
+        "pedreira", 
+        "mulher"
+    ], 
+    "👷‍♂️": [
+        "operário", 
+        "pessoas", 
         "trabalhador de construção civil", 
+        "pedreiro", 
+        "construção", 
         "trabalhador", 
-        "pessoas"
+        "homem"
     ], 
     "👸": [
-        "pessoas", 
+        "pele escura", 
+        "princesa: pele escura", 
+        "princesa: pele morena", 
         "conto de fadas", 
-        "princesa"
+        "pele clara", 
+        "pessoas", 
+        "pele morena", 
+        "princesa", 
+        "princesa: pele clara", 
+        "princesa: pele morena clara", 
+        "pele morena escura", 
+        "princesa: pele morena escura", 
+        "pele morena clara"
     ], 
     "👹": [
         "conto de fadas", 
@@ -3772,10 +5395,20 @@
         "fantasma"
     ], 
     "👼": [
+        "pele escura", 
         "conto de fadas", 
+        "bebê anjo: pele morena clara", 
+        "pele clara", 
+        "bebê anjo: pele escura", 
+        "pele morena", 
         "anjo", 
-        "rosto", 
-        "bebê anjo"
+        "pele morena escura", 
+        "bebê anjo", 
+        "bebê anjo: pele morena escura", 
+        "pele morena clara", 
+        "bebê anjo: pele clara", 
+        "bebê anjo: pele morena", 
+        "rosto"
     ], 
     "👽": [
         "extraterrestre", 
@@ -3803,21 +5436,48 @@
         "caveira", 
         "rosto"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "mulher dando uma dica", 
         "pessoas", 
-        "recepção", 
         "ajuda", 
-        "informações"
+        "mulher", 
+        "recepção", 
+        "informações", 
+        "informação"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "homem dando uma dica", 
+        "informação", 
+        "ajuda", 
+        "homem"
+    ], 
+    "💂‍♀️": [
+        "mulher", 
+        "guarda", 
+        "segurança", 
+        "guarda mulher"
+    ], 
+    "💂‍♂️": [
         "pessoas", 
         "guarda", 
-        "segurança"
+        "segurança", 
+        "guarda homem", 
+        "homem"
     ], 
     "💃": [
         "bailarina", 
+        "pele escura", 
+        "bailarina: pele morena", 
+        "pele clara", 
+        "bailarina: pele morena escura", 
         "pessoas", 
-        "dança"
+        "dança", 
+        "pele morena", 
+        "bailarina: pele morena clara", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "bailarina: pele escura", 
+        "bailarina: pele clara"
     ], 
     "💄": [
         "maquiagem", 
@@ -3825,21 +5485,48 @@
         "cosméticos"
     ], 
     "💅": [
-        "esmalte de unha", 
+        "esmalte de unha: pele clara", 
+        "pele escura", 
+        "pele morena", 
         "esmalte", 
+        "esmalte de unha: pele escura", 
         "unhas", 
-        "cosméticos"
+        "pele clara", 
+        "esmalte de unha: pele morena", 
+        "cosméticos", 
+        "esmalte de unha: pele morena escura", 
+        "pele morena escura", 
+        "esmalte de unha", 
+        "pele morena clara", 
+        "esmalte de unha: pele morena clara"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "relaxamento", 
+        "massagem", 
+        "mulher", 
+        "mulher recebendo massagem facial", 
         "pele", 
-        "massagem facial", 
-        "massagem"
+        "massagem facial"
     ], 
-    "💇": [
-        "beleza", 
-        "corte de cabelo", 
+    "💆‍♂️": [
+        "relaxamento", 
+        "homem recebendo massagem facial", 
+        "massagem", 
+        "homem"
+    ], 
+    "💇‍♀️": [
         "salão", 
-        "salão de beleza"
+        "mulher cortando o cabelo", 
+        "beleza", 
+        "mulher", 
+        "salão de beleza", 
+        "corte de cabelo"
+    ], 
+    "💇‍♂️": [
+        "homem cortando o cabelo", 
+        "salão de beleza", 
+        "corte de cabelo", 
+        "homem"
     ], 
     "💈": [
         "pólo", 
@@ -3880,23 +5567,10 @@
         "romance", 
         "diamante"
     ], 
-    "💏": [
-        "romance", 
-        "beijar", 
-        "beijo", 
-        "pessoas"
-    ], 
     "💐": [
         "buquê", 
         "flor", 
         "romance"
-    ], 
-    "💑": [
-        "romance", 
-        "casal com um coração", 
-        "casal apaixonado", 
-        "coração", 
-        "pessoas"
     ], 
     "💒": [
         "romance", 
@@ -4060,11 +5734,21 @@
         "pilha de cocô"
     ], 
     "💪": [
+        "pele escura", 
+        "bíceps: pele morena clara", 
+        "bíceps: pele morena escura", 
+        "pele clara", 
+        "bíceps: pele clara", 
+        "pele morena", 
+        "contraído", 
         "forte", 
         "engraçado", 
-        "contraído", 
+        "músculo", 
+        "pele morena clara", 
+        "bíceps: pele morena", 
+        "bíceps: pele escura", 
         "bíceps", 
-        "músculo"
+        "pele morena escura"
     ], 
     "💫": [
         "olhando para as estrelas", 
@@ -4525,6 +6209,13 @@
         "vídeo", 
         "cassete"
     ], 
+    "📽️": [
+        "projetor de filmes", 
+        "vídeo", 
+        "projetor", 
+        "filme", 
+        "cinema"
+    ], 
     "📿": [
         "oração", 
         "reza", 
@@ -4873,6 +6564,18 @@
         "botão de triângulo apontando para baixo", 
         "triângulo"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "religião"
+    ], 
+    "🕊️": [
+        "pomba branca", 
+        "pomba", 
+        "paz", 
+        "ave branca", 
+        "animal"
+    ], 
     "🕋": [
         "islã", 
         "religião", 
@@ -5030,31 +6733,247 @@
         "12h30", 
         "doze e meia"
     ], 
-    "🕺": [
-        "dançando", 
-        "homem dançando", 
+    "🕯️": [
+        "acesa", 
+        "vela acesa", 
+        "vela"
+    ], 
+    "🕰️": [
+        "relógio", 
+        "relógio de mesa"
+    ], 
+    "🕳️": [
+        "buraco", 
+        "buraco no chão"
+    ], 
+    "🕴️": [
+        "terno", 
+        "homem de terno", 
         "homem"
     ], 
-    "🖕": [
-        "dedo do meio", 
+    "🕵️‍♂️": [
+        "rosto com lupa", 
+        "rosto", 
+        "detetive"
+    ], 
+    "🕶️": [
+        "óculos de sol", 
+        "óculos escuros", 
+        "óculos"
+    ], 
+    "🕷️": [
+        "halloween", 
+        "animal", 
+        "aranha"
+    ], 
+    "🕸️": [
+        "teia", 
+        "halloween", 
+        "teia de aranha"
+    ], 
+    "🕹️": [
+        "controle", 
+        "joystick", 
+        "video game", 
+        "jogo"
+    ], 
+    "🕺": [
+        "pele escura", 
+        "homem dançando: pele morena clara", 
+        "pele clara", 
+        "dançando", 
+        "homem dançando: pele escura", 
+        "pele morena", 
+        "homem dançando", 
+        "homem dançando: pele morena escura", 
+        "homem dançando: pele morena", 
+        "pele morena escura", 
+        "homem dançando: pele clara", 
+        "pele morena clara", 
+        "homem"
+    ], 
+    "🖇️": [
+        "clipes de papel", 
+        "clipes", 
+        "clipe"
+    ], 
+    "🖊️": [
+        "preta", 
+        "caneta"
+    ], 
+    "🖋️": [
+        "tinteiro", 
+        "destro", 
+        "caneta", 
+        "caneta tinteiro destro"
+    ], 
+    "🖌️": [
+        "pincel", 
+        "pintar"
+    ], 
+    "🖍️": [
+        "giz", 
+        "giz de cera"
+    ], 
+    "🖐️": [
+        "dedos", 
+        "cinco dedos", 
+        "mão aberta indicando cinco", 
         "mão", 
+        "palma da mão"
+    ], 
+    "🖕": [
+        "pele escura", 
+        "dedo do meio: pele morena clara", 
+        "mão", 
+        "pele clara", 
+        "pele morena", 
+        "dedo do meio: pele morena escura", 
+        "dedo do meio: pele clara", 
+        "dedo do meio: pele morena", 
         "gesto ofensivo", 
-        "dedo"
+        "dedo", 
+        "pele morena clara", 
+        "dedo do meio", 
+        "dedo do meio: pele escura", 
+        "pele morena escura"
     ], 
     "🖖": [
         "dedos", 
+        "pele escura", 
+        "pele morena escura", 
         "mão", 
+        "pele clara", 
+        "saudação vulcana: pele morena", 
+        "pele morena", 
+        "saudação vulcana: pele clara", 
+        "saudação vulcana: pele escura", 
         "star trek", 
         "saudação vulcana", 
         "spock", 
         "saudação", 
-        "jornada nas estrelas"
+        "saudação vulcana: pele morena escura", 
+        "pele morena clara", 
+        "jornada nas estrelas", 
+        "saudação vulcana: pele morena clara"
     ], 
     "🖤": [
         "coração preto", 
         "coração", 
         "negro", 
         "preto"
+    ], 
+    "🖥️": [
+        "computador de mesa", 
+        "mesa", 
+        "computador"
+    ], 
+    "🖨️": [
+        "acessório", 
+        "computador", 
+        "impressora"
+    ], 
+    "🖱️": [
+        "mouse", 
+        "acessório", 
+        "computador"
+    ], 
+    "🖲️": [
+        "mouse", 
+        "acessório", 
+        "computador", 
+        "mouse de bolinha"
+    ], 
+    "🖼️": [
+        "moldura", 
+        "quadro emoldurado", 
+        "pintura", 
+        "quadro"
+    ], 
+    "🗂️": [
+        "índice", 
+        "pastas", 
+        "divisor", 
+        "divisores de pastas"
+    ], 
+    "🗃️": [
+        "arquivo", 
+        "caixa de arquivos", 
+        "caixa"
+    ], 
+    "🗄️": [
+        "gavetas de escritório", 
+        "gabinete", 
+        "arquivo", 
+        "escritório", 
+        "gavetas"
+    ], 
+    "🗑️": [
+        "cesto de lixo", 
+        "lixeira"
+    ], 
+    "🗒️": [
+        "bloco espiral", 
+        "espiral", 
+        "bloco"
+    ], 
+    "🗓️": [
+        "calendário", 
+        "espiral", 
+        "calendário espiral"
+    ], 
+    "🗜️": [
+        "ferramenta", 
+        "ferramenta de compressão", 
+        "compressão"
+    ], 
+    "🗝️": [
+        "chave", 
+        "fechadura", 
+        "antiga", 
+        "chave antiga"
+    ], 
+    "🗞️": [
+        "jornal", 
+        "enrolado", 
+        "jornal enrolado"
+    ], 
+    "🗡️": [
+        "faca", 
+        "adaga", 
+        "arma"
+    ], 
+    "🗣️": [
+        "falando", 
+        "silhueta", 
+        "silhueta falando", 
+        "cabeça", 
+        "voz"
+    ], 
+    "🗨️": [
+        "balão de diálogo", 
+        "balão de diálogo à esquerda"
+    ], 
+    "🗯️": [
+        "balão de raiva à direita", 
+        "raiva", 
+        "balão de diálogo", 
+        "irado", 
+        "discurso furioso", 
+        "enérgico"
+    ], 
+    "🗳️": [
+        "voto", 
+        "urna eleitoral com cédula", 
+        "cédula", 
+        "urna", 
+        "votar"
+    ], 
+    "🗺️": [
+        "mapa-múndi", 
+        "mapa", 
+        "mundo", 
+        "geografia"
     ], 
     "🗻": [
         "Monte Fuji", 
@@ -5519,23 +7438,56 @@
         "revirando os olhos", 
         "rosto com olhos revirados"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
+        "pare", 
+        "não", 
+        "mulher dizendo “não”", 
+        "gesto para “não é bom”", 
         "não é bom", 
+        "muher", 
         "proibido", 
-        "rosto", 
-        "gesto", 
-        "gesto para “não é bom”"
-    ], 
-    "🙆": [
-        "gesto para “OK”", 
-        "tudo bem", 
         "gesto", 
         "rosto"
     ], 
-    "🙇": [
+    "🙅‍♂️": [
+        "pare", 
+        "homem dizendo “não”", 
+        "não", 
         "gesto", 
+        "homem"
+    ], 
+    "🙆‍♀️": [
+        "gesto para “OK”", 
+        "gesto", 
+        "mulher", 
+        "sim", 
+        "mulher dizendo “ok”", 
+        "tudo bem", 
+        "rosto"
+    ], 
+    "🙆‍♂️": [
+        "sim", 
+        "tudo bem", 
+        "gesto", 
+        "homem dizendo “ok”", 
+        "homem"
+    ], 
+    "🙇‍♀️": [
+        "mulher pedindo desculpas", 
+        "desculpas", 
+        "respeito", 
+        "mulher", 
+        "reverência", 
+        "gesto"
+    ], 
+    "🙇‍♂️": [
+        "homem pedindo desculpas", 
+        "desculpas", 
+        "gesto", 
+        "homem", 
         "desculpa", 
         "reverência", 
+        "respeito", 
         "perdão", 
         "pessoa", 
         "reverência respeitosa"
@@ -5555,35 +7507,86 @@
         "macaco não fale o mal", 
         "macaco"
     ], 
-    "🙋": [
-        "pessoa levantando a mão", 
+    "🙋‍♀️": [
+        "mulher levantando a mão", 
+        "mão", 
         "feliz", 
+        "pedir a palavra", 
+        "mulher", 
         "levantando a mão", 
+        "pessoa levantando a mão", 
+        "pessoa", 
+        "gesto"
+    ], 
+    "🙋‍♂️": [
+        "mão", 
+        "pedir a palavra", 
         "gesto", 
-        "pessoa"
+        "homem levantando a mão", 
+        "homem"
     ], 
     "🙌": [
-        "levantando ambas as mãos para comemorar", 
+        "pele escura", 
+        "mãos para cima: pele clara", 
         "ambas as mãos", 
+        "mãos para cima: pele escura", 
+        "pele clara", 
+        "comemoração", 
+        "mãos para cima: pele morena", 
+        "pele morena", 
+        "pele morena clara", 
+        "pele morena escura", 
         "mãos para cima", 
-        "comemoração"
+        "levantando ambas as mãos para comemorar", 
+        "mãos para cima: pele morena clara", 
+        "mãos para cima: pele morena escura"
     ], 
-    "🙍": [
-        "pessoa", 
-        "pessoa franzindo a sobrancelha", 
+    "🙍‍♀️": [
+        "desconfiada", 
+        "mulher", 
         "franzindo a sobrancelha", 
+        "mulher franzindo a sobrancelha", 
+        "pessoa", 
+        "carrancuda", 
+        "gesto", 
+        "pessoa franzindo a sobrancelha"
+    ], 
+    "🙍‍♂️": [
+        "homem franzindo a sobrancelha", 
+        "desconfiado", 
+        "carrancudo", 
+        "homem"
+    ], 
+    "🙎‍♀️": [
+        "mulher fazendo bico", 
+        "bico", 
+        "pessoa fazendo bico", 
+        "cara feia", 
+        "mulher", 
+        "fazendo bico", 
+        "pessoa", 
         "gesto"
     ], 
-    "🙎": [
-        "pessoa fazendo bico", 
-        "pessoa", 
-        "fazendo bico", 
-        "gesto"
+    "🙎‍♂️": [
+        "bico", 
+        "homem fazendo bico", 
+        "homem", 
+        "cara feia"
     ], 
     "🙏": [
+        "pele escura", 
         "mão", 
+        "pele clara", 
+        "mãos juntas: pele clara", 
+        "mãos juntas: pele morena clara", 
+        "pele morena", 
         "reza", 
+        "mãos juntas: pele morena", 
         "rezar", 
+        "mãos juntas: pele morena escura", 
+        "pele morena escura", 
+        "mãos juntas: pele escura", 
+        "pele morena clara", 
         "rezando", 
         "gesto", 
         "mãos juntas"
@@ -5785,10 +7788,20 @@
         "veículo aquático", 
         "navio"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "mulher", 
+        "remo", 
+        "esporte", 
+        "remadora"
+    ], 
+    "🚣‍♂️": [
         "barco", 
+        "remo", 
+        "esporte", 
+        "veículo", 
+        "remador", 
         "barco a remo", 
-        "veículo"
+        "homem"
     ], 
     "🚤": [
         "barco", 
@@ -5875,19 +7888,50 @@
         "bicicletas não são permitidas", 
         "bicicleta"
     ], 
-    "🚴": [
-        "ciclista", 
+    "🚴‍♀️": [
+        "mulher", 
+        "mulher ciclista", 
+        "passeio", 
+        "esporte", 
         "bicicleta"
     ], 
-    "🚵": [
+    "🚴‍♂️": [
+        "ciclista", 
+        "esporte", 
+        "bicicleta", 
+        "homem ciclista", 
+        "passeio", 
+        "homem"
+    ], 
+    "🚵‍♀️": [
+        "mulher", 
+        "mulher fazendo mountain bike", 
+        "ciclista", 
+        "esporte", 
+        "montanha"
+    ], 
+    "🚵‍♂️": [
+        "ciclista", 
+        "esporte", 
+        "bicicleta", 
         "ciclista das montanhas", 
-        "ciclista", 
+        "homem fazendo mountain bike", 
         "montanha", 
-        "bicicleta"
+        "homem"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "mulher andando", 
+        "caminhada", 
+        "passeio", 
+        "mulher"
+    ], 
+    "🚶‍♂️": [
+        "pedestre", 
+        "caminhada", 
         "caminhante", 
-        "pedestre"
+        "homem andando", 
+        "homem", 
+        "passeio"
     ], 
     "🚷": [
         "proibida a passagem de pedestres", 
@@ -5940,8 +7984,18 @@
         "água"
     ], 
     "🛀": [
-        "banheira", 
+        "banho: pele morena", 
         "banho", 
+        "pele clara", 
+        "pele escura", 
+        "pele morena", 
+        "banho: pele morena escura", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "banho: pele clara", 
+        "banheira", 
+        "banho: pele escura", 
+        "banho: pele morena clara", 
         "água"
     ], 
     "🛁": [
@@ -5968,9 +8022,41 @@
         "serviço de bagagem", 
         "depósito de bagagem"
     ], 
+    "🛋️": [
+        "sofá e luminária", 
+        "sofá", 
+        "hotel", 
+        "lâmpada"
+    ], 
     "🛌": [
         "pessoa deitada na cama", 
+        "pele escura", 
+        "pele morena", 
+        "pessoa deitada na cama: pele morena escura", 
+        "pele clara", 
+        "hotel", 
+        "sono", 
+        "pessoa deitada na cama: pele escura", 
+        "pessoa deitada na cama: pele morena clara", 
+        "pele morena escura", 
+        "pessoa deitada na cama: pele clara", 
+        "pele morena clara", 
         "pessoa", 
+        "pessoa deitada na cama: pele morena"
+    ], 
+    "🛍️": [
+        "sacolas de compras", 
+        "sacolas", 
+        "compras", 
+        "sacolas de shopping"
+    ], 
+    "🛎️": [
+        "sino", 
+        "hotel", 
+        "sineta"
+    ], 
+    "🛏️": [
+        "cama", 
         "hotel", 
         "sono"
     ], 
@@ -5990,6 +8076,41 @@
         "carrinho de compras", 
         "carrinho"
     ], 
+    "🛠️": [
+        "chave", 
+        "ferramenta", 
+        "martelo", 
+        "inglesa", 
+        "martelo e chave-inglesa"
+    ], 
+    "🛡️": [
+        "escudo", 
+        "arma"
+    ], 
+    "🛢️": [
+        "óleo", 
+        "lata", 
+        "lata de óleo"
+    ], 
+    "🛣️": [
+        "caminho", 
+        "estrada"
+    ], 
+    "🛤️": [
+        "trilhos", 
+        "trem"
+    ], 
+    "🛥️": [
+        "barco", 
+        "veículo", 
+        "motor"
+    ], 
+    "🛩️": [
+        "avião pequeno", 
+        "veículo pequeno", 
+        "aéreo", 
+        "veículo"
+    ], 
     "🛫": [
         "avião decolando", 
         "decolando", 
@@ -6003,6 +8124,16 @@
         "veículo", 
         "aterrissando", 
         "aterrissagem"
+    ], 
+    "🛰️": [
+        "satélite", 
+        "veículo"
+    ], 
+    "🛳️": [
+        "veículo", 
+        "passageiros", 
+        "cruzeiro", 
+        "navio"
     ], 
     "🛴": [
         "patinete", 
@@ -6080,32 +8211,82 @@
     ], 
     "🤘": [
         "dedos", 
-        "chifres", 
+        "pele escura", 
+        "saudação do rock: pele morena", 
         "mão", 
-        "saudação do rock"
+        "pele clara", 
+        "saudação do rock: pele morena clara", 
+        "pele morena", 
+        "pele morena clara", 
+        "chifres", 
+        "saudação do rock: pele escura", 
+        "saudação do rock", 
+        "saudação do rock: pele clara", 
+        "saudação do rock: pele morena escura", 
+        "pele morena escura"
     ], 
     "🤙": [
+        "pele escura", 
+        "sinal \"me liga\": pele morena clara", 
+        "sinal \"me liga\": pele morena escura", 
+        "pele morena", 
+        "pele clara", 
+        "sinal \"me liga\": pele escura", 
         "sinal \"me liga\"", 
-        "ligar"
+        "sinal \"me liga\": pele morena", 
+        "ligar", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "sinal \"me liga\": pele clara"
     ], 
     "🤚": [
+        "pele escura", 
         "pare", 
-        "palma", 
-        "dorso da mão levantado", 
+        "levantada", 
         "mão", 
-        "levantada"
+        "pele clara", 
+        "dorso da mão levantado: pele morena", 
+        "pele morena", 
+        "dorso da mão levantado: pele morena escura", 
+        "dorso da mão levantado: pele escura", 
+        "palma", 
+        "pele morena escura", 
+        "dorso da mão levantado: pele morena clara", 
+        "pele morena clara", 
+        "dorso da mão levantado: pele clara", 
+        "dorso da mão levantado"
     ], 
     "🤛": [
-        "esquerdo", 
+        "punho esquerdo: pele morena clara", 
+        "pele escura", 
+        "pele morena", 
+        "pele clara", 
         "soco", 
         "punho", 
-        "punho esquerdo"
+        "esquerdo", 
+        "punho esquerdo", 
+        "punho esquerdo: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "punho esquerdo: pele escura", 
+        "punho esquerdo: pele morena escura", 
+        "punho esquerdo: pele clara"
     ], 
     "🤜": [
+        "pele escura", 
+        "pele morena", 
+        "pele clara", 
         "soco", 
+        "punho", 
+        "punho direito: pele morena", 
+        "pele morena escura", 
+        "punho direito: pele clara", 
+        "punho direito: pele morena escura", 
         "direito", 
-        "punho direito", 
-        "punho"
+        "punho direito: pele morena clara", 
+        "punho direito: pele escura", 
+        "pele morena clara", 
+        "punho direito"
     ], 
     "🤝": [
         "cumprimento", 
@@ -6116,12 +8297,32 @@
     ], 
     "🤞": [
         "dedos", 
-        "dedos cruzados", 
+        "pele escura", 
         "cruzados", 
+        "mão", 
+        "pele clara", 
+        "pele morena", 
         "sorte", 
-        "mão"
+        "dedos cruzados: pele clara", 
+        "dedos cruzados: pele morena clara", 
+        "dedos cruzados: pele morena escura", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "dedos cruzados: pele morena", 
+        "dedos cruzados", 
+        "dedos cruzados: pele escura"
     ], 
     "🤟": [
+        "\"te amo\" em libras: pele morena escura", 
+        "pele escura", 
+        "pele clara", 
+        "pele morena", 
+        "\"te amo\" em libras: pele morena clara", 
+        "\"te amo\" em libras: pele morena", 
+        "pele morena escura", 
+        "\"te amo\" em libras: pele clara", 
+        "\"te amo\" em libras: pele escura", 
+        "pele morena clara", 
         "\"te amo\" em libras"
     ], 
     "🤠": [
@@ -6159,8 +8360,30 @@
     ], 
     "🤦": [
         "decepção", 
+        "pele escura", 
+        "pele morena", 
+        "pele clara", 
+        "pessoa dececionada: pele clara", 
+        "pessoa dececionada: pele morena escura", 
+        "pessoa dececionada", 
+        "pele morena escura", 
+        "pessoa dececionada: pele morena", 
+        "pessoa dececionada: pele escura", 
+        "pele morena clara", 
+        "pessoa dececionada: pele morena clara", 
+        "desapontamento"
+    ], 
+    "🤦‍♀️": [
+        "decepção", 
+        "mulher", 
+        "mulher decepcionada", 
+        "desapontamento"
+    ], 
+    "🤦‍♂️": [
+        "decepção", 
+        "homem decepcionado", 
         "desapontamento", 
-        "pessoa dececionada"
+        "homem"
     ], 
     "🤧": [
         "rosto espirrando", 
@@ -6208,58 +8431,200 @@
         "cabeça explodindo"
     ], 
     "🤰": [
+        "pele escura", 
         "grávida", 
-        "mulher grávida", 
-        "mulher"
+        "mulher", 
+        "mulher grávida: pele morena clara", 
+        "pele clara", 
+        "pele morena", 
+        "pele morena clara", 
+        "mulher grávida: pele morena", 
+        "pele morena escura", 
+        "mulher grávida: pele morena escura", 
+        "mulher grávida: pele clara", 
+        "mulher grávida: pele escura", 
+        "mulher grávida"
     ], 
     "🤱": [
-        "amamentando"
+        "pele escura", 
+        "amamentando: pele morena escura", 
+        "amamentando", 
+        "pele clara", 
+        "amamentando: pele clara", 
+        "pele morena", 
+        "pele morena escura", 
+        "amamentando: pele escura", 
+        "pele morena clara", 
+        "amamentando: pele morena", 
+        "amamentando: pele morena clara"
     ], 
     "🤲": [
+        "pele escura", 
+        "oração", 
+        "pele clara", 
+        "pele morena", 
+        "palmas unidas para cima: pele morena clara", 
+        "palmas unidas para cima: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
         "palmas unidas para cima", 
-        "oração"
+        "palmas unidas para cima: pele morena escura", 
+        "palmas unidas para cima: pele clara", 
+        "palmas unidas para cima: pele escura"
     ], 
     "🤳": [
-        "smartphone", 
+        "pele escura", 
         "foto", 
-        "camera", 
+        "smartphone", 
+        "pele clara", 
+        "selfie: pele morena", 
         "selfie", 
-        "celular"
+        "pele morena", 
+        "selfie: pele clara", 
+        "camera", 
+        "celular", 
+        "pele morena clara", 
+        "selfie: pele morena escura", 
+        "selfie: pele morena clara", 
+        "selfie: pele escura", 
+        "pele morena escura"
     ], 
     "🤴": [
-        "príncipe"
+        "pele escura", 
+        "pele morena", 
+        "príncipe", 
+        "príncipe: pele escura", 
+        "pele clara", 
+        "príncipe: pele morena escura", 
+        "príncipe: pele clara", 
+        "príncipe: pele morena clara", 
+        "pele morena escura", 
+        "príncipe: pele morena", 
+        "pele morena clara"
     ], 
     "🤵": [
+        "pele escura", 
         "homem de smoking", 
+        "homem de smoking: pele morena clara", 
+        "homem de smoking: pele morena escura", 
         "festa", 
         "noivo", 
+        "pele clara", 
+        "pele morena", 
+        "pele morena escura", 
+        "homem de smoking: pele morena", 
         "gala", 
+        "pele morena clara", 
         "smoking", 
+        "homem de smoking: pele escura", 
+        "homem de smoking: pele clara", 
         "homem"
     ], 
     "🤶": [
+        "pele escura", 
+        "pele clara", 
         "mamãe", 
+        "mamãe noel: pele morena", 
+        "pele morena", 
+        "mamãe noel: pele escura", 
+        "mamãe noel", 
+        "mamãe noel: pele clara", 
         "natal", 
+        "pele morena escura", 
         "noel", 
-        "mamãe noel"
+        "pele morena clara", 
+        "mamãe noel: pele morena clara", 
+        "mamãe noel: pele morena escura"
     ], 
     "🤷": [
+        "pele escura", 
+        "pele morena", 
+        "pele clara", 
+        "dar de ombros: pele morena clara", 
+        "ombros", 
         "indiferença", 
         "ignorância", 
-        "ombros", 
+        "dar de ombros: pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "dar de ombros: pele morena escura", 
+        "dar de ombros: pele clara", 
+        "dar de ombros: pele escura", 
         "dar de ombros"
     ], 
+    "🤷‍♀️": [
+        "indiferença", 
+        "dar de ombros", 
+        "mulher dando de ombros", 
+        "mulher"
+    ], 
+    "🤷‍♂️": [
+        "indiferença", 
+        "homem dando de ombros", 
+        "dar de ombros", 
+        "homem"
+    ], 
     "🤸": [
+        "pele escura", 
+        "pele clara", 
+        "pele morena", 
+        "esporte", 
+        "estrela: pele morena clara", 
+        "estrela: pele morena", 
+        "ginástica", 
+        "pessoa", 
+        "pele morena clara", 
+        "estrela", 
+        "estrela: pele escura", 
+        "estrela: pele morena escura", 
+        "estrela: pele clara", 
+        "pele morena escura"
+    ], 
+    "🤸‍♀️": [
+        "estrela", 
+        "mulher fazendo estrela", 
+        "esporte", 
+        "ginástica", 
+        "mulher"
+    ], 
+    "🤸‍♂️": [
+        "homem fazendo estrela", 
         "estrela", 
         "esporte", 
         "ginástica", 
-        "pessoa"
+        "homem"
     ], 
     "🤹": [
+        "pele escura", 
+        "pele morena", 
+        "malabarismo: pele morena clara", 
+        "malabarismo: pele clara", 
+        "pele clara", 
+        "malabarismo: pele morena escura", 
+        "equilíbrio", 
+        "malabarismo: pele morena", 
+        "multitarefa", 
+        "pele morena escura", 
+        "habilidade", 
+        "pele morena clara", 
+        "malabarismo", 
+        "malabarismo: pele escura"
+    ], 
+    "🤹‍♀️": [
+        "equilíbrio", 
+        "multitarefa", 
+        "mulher malabarista", 
+        "mulher", 
+        "habilidade", 
+        "malabarismo"
+    ], 
+    "🤹‍♂️": [
+        "equilíbrio", 
+        "multitarefa", 
+        "homem malabarista", 
         "malabarismo", 
         "habilidade", 
-        "multitarefa", 
-        "equilíbrio"
+        "homem"
     ], 
     "🤺": [
         "esgimista", 
@@ -6275,18 +8640,82 @@
         "lutadores", 
         "esporte"
     ], 
+    "🤼‍♀️": [
+        "luta", 
+        "mulher", 
+        "mulheres lutando", 
+        "lutadora", 
+        "esporte"
+    ], 
+    "🤼‍♂️": [
+        "luta", 
+        "lutador", 
+        "homens lutando", 
+        "esporte", 
+        "homem"
+    ], 
     "🤽": [
+        "pele escura", 
+        "polo aquático: pele morena clara", 
+        "polo aquático: pele morena escura", 
+        "pele clara", 
+        "polo aquático: pele morena", 
+        "polo aquático", 
+        "pele morena", 
+        "esporte", 
+        "polo aquático: pele escura", 
+        "pele morena clara", 
+        "pele morena escura", 
+        "pessoa", 
         "polo", 
         "aquático", 
-        "polo aquático", 
+        "polo aquático: pele clara"
+    ], 
+    "🤽‍♀️": [
+        "polo", 
+        "mulher", 
+        "jogadora de polo aquático", 
         "esporte", 
-        "pessoa"
+        "piscina"
+    ], 
+    "🤽‍♂️": [
+        "polo", 
+        "piscina", 
+        "esporte", 
+        "jogador de polo aquático", 
+        "homem"
     ], 
     "🤾": [
         "bola", 
-        "pessoa", 
+        "pele escura", 
+        "pele morena", 
+        "handebol: pele clara", 
+        "handebol: pele morena clara", 
+        "pele clara", 
         "handebol", 
-        "esporte"
+        "esporte", 
+        "handebol: pele morena escura", 
+        "pele morena escura", 
+        "handebol: pele morena", 
+        "pele morena clara", 
+        "pessoa", 
+        "handebol: pele escura"
+    ], 
+    "🤾‍♀️": [
+        "bola", 
+        "jogadora de handebol", 
+        "quadra", 
+        "handebol", 
+        "esporte", 
+        "mulher"
+    ], 
+    "🤾‍♂️": [
+        "bola", 
+        "quadra", 
+        "handebol", 
+        "esporte", 
+        "jogador de handebol", 
+        "homem"
     ], 
     "🥀": [
         "murcha", 
@@ -6589,48 +9018,138 @@
         "rosto com monóculo"
     ], 
     "🧑": [
-        "adulto"
+        "pele escura", 
+        "pele morena", 
+        "pele clara", 
+        "adulto: pele morena escura", 
+        "adulto: pele morena clara", 
+        "adulto: pele escura", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "adulto", 
+        "adulto: pele morena", 
+        "adulto: pele clara"
     ], 
     "🧒": [
-        "criança"
+        "pele escura", 
+        "criança: pele morena", 
+        "criança: pele morena clara", 
+        "pele clara", 
+        "pele morena", 
+        "criança: pele escura", 
+        "criança: pele clara", 
+        "criança", 
+        "criança: pele morena escura", 
+        "pele morena escura", 
+        "pele morena clara"
     ], 
     "🧓": [
-        "adulto idoso"
+        "adulto idoso", 
+        "pele escura", 
+        "adulto idoso: pele morena escura", 
+        "pele clara", 
+        "adulto idoso: pele morena clara", 
+        "pele morena", 
+        "adulto idoso: pele clara", 
+        "adulto idoso: pele escura", 
+        "adulto idoso: pele morena", 
+        "pele morena escura", 
+        "pele morena clara"
     ], 
     "🧔": [
-        "pessoa com barba"
+        "pele escura", 
+        "pele clara", 
+        "pessoa com barba: pele morena", 
+        "pessoa com barba: pele escura", 
+        "pessoa com barba: pele clara", 
+        "pessoa com barba", 
+        "pessoa com barba: pele morena escura", 
+        "pele morena", 
+        "pele morena escura", 
+        "pele morena clara", 
+        "pessoa com barba: pele morena clara"
     ], 
     "🧕": [
-        "mulher com véu"
+        "pele escura", 
+        "mulher com véu: pele morena clara", 
+        "pele clara", 
+        "pele morena", 
+        "mulher com véu", 
+        "mulher com véu: pele morena escura", 
+        "mulher com véu: pele morena", 
+        "pele morena escura", 
+        "mulher com véu: pele clara", 
+        "pele morena clara", 
+        "mulher com véu: pele escura"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "mulher na sauna"
+    ], 
+    "🧖‍♂️": [
+        "homem na sauna", 
         "pessoa na sauna"
     ], 
-    "🧗": [
-        "pessoa escalando"
+    "🧗‍♀️": [
+        "pessoa escalando", 
+        "mulher escalando"
     ], 
-    "🧘": [
-        "pessoa na posição de lótus"
+    "🧗‍♂️": [
+        "homem escalando"
     ], 
-    "🧙": [
+    "🧘‍♀️": [
+        "pessoa na posição de lótus", 
+        "mulher na posição de lótus"
+    ], 
+    "🧘‍♂️": [
+        "homem na posição de lótus"
+    ], 
+    "🧙‍♀️": [
+        "mulher maga", 
         "mago"
     ], 
-    "🧚": [
-        "fada"
+    "🧙‍♂️": [
+        "homem mago"
     ], 
-    "🧛": [
+    "🧚‍♀️": [
+        "fada", 
+        "mulher fada"
+    ], 
+    "🧚‍♂️": [
+        "homem fada"
+    ], 
+    "🧛‍♀️": [
+        "mulher vampira", 
         "vampiro"
     ], 
-    "🧜": [
-        "pessoa sereia"
+    "🧛‍♂️": [
+        "homem vampiro"
     ], 
-    "🧝": [
+    "🧜‍♀️": [
+        "sereia"
+    ], 
+    "🧜‍♂️": [
+        "pessoa sereia", 
+        "sereio"
+    ], 
+    "🧝‍♀️": [
+        "elfa"
+    ], 
+    "🧝‍♂️": [
+        "homem elfo", 
         "elfo"
     ], 
-    "🧞": [
-        "gênio"
+    "🧞‍♀️": [
+        "mulher gênio"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "gênio", 
+        "homem gênio"
+    ], 
+    "🧟‍♀️": [
+        "mulher zumbi"
+    ], 
+    "🧟‍♂️": [
+        "homem zumbi", 
         "zumbi"
     ], 
     "🧠": [

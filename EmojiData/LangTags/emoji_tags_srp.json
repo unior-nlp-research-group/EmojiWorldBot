@@ -1,4 +1,122 @@
 {
+    "#️⃣": [
+        "taster", 
+        "taster: #"
+    ], 
+    "*️⃣": [
+        "taster", 
+        "taster: *"
+    ], 
+    "0️⃣": [
+        "taster", 
+        "taster: 0"
+    ], 
+    "1️⃣": [
+        "taster", 
+        "taster: 1"
+    ], 
+    "2️⃣": [
+        "taster", 
+        "taster: 2"
+    ], 
+    "3️⃣": [
+        "taster", 
+        "taster: 3"
+    ], 
+    "4️⃣": [
+        "taster: 4", 
+        "taster"
+    ], 
+    "5️⃣": [
+        "taster: 5", 
+        "taster"
+    ], 
+    "6️⃣": [
+        "taster: 6", 
+        "taster"
+    ], 
+    "7️⃣": [
+        "taster", 
+        "taster: 7"
+    ], 
+    "8️⃣": [
+        "taster", 
+        "taster: 8"
+    ], 
+    "9️⃣": [
+        "taster", 
+        "taster: 9"
+    ], 
+    "©️": [
+        "autorska prava"
+    ], 
+    "®️": [
+        "registrovano"
+    ], 
+    "‼️": [
+        "interpunkcija", 
+        "dvostruki uzvičnik", 
+        "znak", 
+        "uzvičnik"
+    ], 
+    "⁉️": [
+        "interpunkcija", 
+        "uzvičnik i upitnik", 
+        "znak", 
+        "pitanje", 
+        "uzvičnik", 
+        "upitnik"
+    ], 
+    "™️": [
+        "znak", 
+        "žig", 
+        "zaštitni znak"
+    ], 
+    "ℹ️": [
+        "i", 
+        "izvor informacija", 
+        "informacije"
+    ], 
+    "↔️": [
+        "strelica", 
+        "strelica nalevo i nadesno"
+    ], 
+    "↕️": [
+        "strelica", 
+        "strelica nagore i nadole"
+    ], 
+    "↖️": [
+        "strelica nagore i nalevo", 
+        "strelica", 
+        "smer", 
+        "severozapad"
+    ], 
+    "↗️": [
+        "strelica", 
+        "severoistok", 
+        "smer", 
+        "strelica nagore i nadesno"
+    ], 
+    "↘️": [
+        "strelica nadole i nadesno", 
+        "strelica", 
+        "jugoistok", 
+        "smer"
+    ], 
+    "↙️": [
+        "jugozapad", 
+        "strelica nadole i nalevo", 
+        "strelica", 
+        "smer"
+    ], 
+    "↩️": [
+        "strelica", 
+        "strelica za polukružni okret udesno"
+    ], 
+    "↪️": [
+        "strelica", 
+        "strelica za polukružni okret ulevo"
+    ], 
     "⌚": [
         "sat"
     ], 
@@ -6,6 +124,14 @@
         "pesak", 
         "peščani sat", 
         "vreme"
+    ], 
+    "⌨️": [
+        "računar", 
+        "tastatura"
+    ], 
+    "⏏️": [
+        "dugme za izbacivanje", 
+        "izbacivanje"
     ], 
     "⏩": [
         "unapred", 
@@ -33,15 +159,102 @@
         "dugme za brzo kretanje nadole", 
         "dole"
     ], 
+    "⏭️": [
+        "strelica", 
+        "dugme za sledeću pesmu", 
+        "sledeći prizor", 
+        "sledeća pesma", 
+        "trougao"
+    ], 
+    "⏮️": [
+        "strelica", 
+        "prethodni prizor", 
+        "prethodna pesma", 
+        "dugme za poslednju pesmu", 
+        "trougao"
+    ], 
+    "⏯️": [
+        "strelica", 
+        "trougao", 
+        "reprodukcija", 
+        "desno", 
+        "pauza", 
+        "dugme za reprodukciju ili pauzu"
+    ], 
     "⏰": [
         "alarm", 
         "budilnik", 
+        "sat"
+    ], 
+    "⏱️": [
+        "štoperica", 
+        "sat"
+    ], 
+    "⏲️": [
+        "tajmer", 
         "sat"
     ], 
     "⏳": [
         "pesak", 
         "peščani sat sa peskom koji teče", 
         "vreme"
+    ], 
+    "⏸️": [
+        "pauziranje", 
+        "uspravno", 
+        "dvostruko", 
+        "trake", 
+        "dugme za pauzu"
+    ], 
+    "⏹️": [
+        "zaustavljanje", 
+        "stop", 
+        "kvadrat", 
+        "dugme za zaustavljanje"
+    ], 
+    "⏺️": [
+        "snimanje", 
+        "dugme za snimanje", 
+        "krug"
+    ], 
+    "Ⓜ️": [
+        "slovo m u krugu", 
+        "m", 
+        "krug"
+    ], 
+    "▪️": [
+        "mali crni kvadrat", 
+        "geometrija", 
+        "kvadrat"
+    ], 
+    "▫️": [
+        "geometrija", 
+        "kvadrat", 
+        "mali beli kvadrat"
+    ], 
+    "▶️": [
+        "desno", 
+        "strelica", 
+        "dugme za reprodukciju", 
+        "trougao", 
+        "reprodukcija"
+    ], 
+    "◀️": [
+        "strelica", 
+        "levo", 
+        "vraćanje", 
+        "trougao", 
+        "dugme za reprodukciju unazad"
+    ], 
+    "◻️": [
+        "beli kvadrat srednje veličine", 
+        "geometrija", 
+        "kvadrat"
+    ], 
+    "◼️": [
+        "crni kvadrat srednje veličine", 
+        "geometrija", 
+        "kvadrat"
     ], 
     "◽": [
         "srednjemali beli kvadrat", 
@@ -52,6 +265,43 @@
         "srednjemali crni kvadrat", 
         "geometrija", 
         "kvadrat"
+    ], 
+    "☀️": [
+        "sunčano", 
+        "vedro", 
+        "vreme", 
+        "sunce", 
+        "zraci", 
+        "svemir"
+    ], 
+    "☁️": [
+        "oblak", 
+        "vreme"
+    ], 
+    "☂️": [
+        "odeća", 
+        "vreme", 
+        "kišobran", 
+        "kiša"
+    ], 
+    "☃️": [
+        "sneg", 
+        "hladno", 
+        "vreme", 
+        "sneško belić"
+    ], 
+    "☄️": [
+        "kometa", 
+        "svemir"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "okvir", 
+        "opcija", 
+        "opcija sa znakom potvrde", 
+        "znak"
     ], 
     "☔": [
         "kišobran", 
@@ -67,6 +317,89 @@
         "topli napitak", 
         "vruće", 
         "kafa"
+    ], 
+    "☘️": [
+        "detelina", 
+        "biljka"
+    ], 
+    "☝️": [
+        "ruka", 
+        "pokazivanje", 
+        "prst", 
+        "kažiprst koji pokazuje nagore", 
+        "gore", 
+        "šaka", 
+        "kažiprst", 
+        "telo"
+    ], 
+    "☠️": [
+        "čudovište", 
+        "lobanja sa ukrštenim kostima", 
+        "lice", 
+        "kosti", 
+        "telo", 
+        "smrt", 
+        "lobanja"
+    ], 
+    "☢️": [
+        "radioaktivno"
+    ], 
+    "☣️": [
+        "znak", 
+        "opasno po život", 
+        "opasnost"
+    ], 
+    "☦️": [
+        "pravoslavni krst", 
+        "hrišćanstvo", 
+        "krst", 
+        "religija"
+    ], 
+    "☪️": [
+        "zvezda i polumesec", 
+        "religija", 
+        "muslimani", 
+        "islam"
+    ], 
+    "☮️": [
+        "mir", 
+        "simbol mira"
+    ], 
+    "☯️": [
+        "jin", 
+        "religija", 
+        "jang", 
+        "taoizam", 
+        "jin i jang"
+    ], 
+    "☸️": [
+        "točak", 
+        "budizam", 
+        "darma", 
+        "darmin točak", 
+        "religija"
+    ], 
+    "☹️": [
+        "namršteno lice", 
+        "lice", 
+        "mrštenje"
+    ], 
+    "☺️": [
+        "rumeno", 
+        "zadovoljno", 
+        "lice", 
+        "osmeh", 
+        "nasmejano lice"
+    ], 
+    "♀️": [
+        "žena", 
+        "žensko", 
+        "ženski znak"
+    ], 
+    "♂️": [
+        "muško", 
+        "muški znak", 
+        "muškarac"
     ], 
     "♈": [
         "ovan u horoskopu", 
@@ -128,14 +461,93 @@
         "ribe", 
         "zodijak"
     ], 
+    "♠️": [
+        "karta", 
+        "pik", 
+        "igra"
+    ], 
+    "♣️": [
+        "karta", 
+        "tref", 
+        "igra"
+    ], 
+    "♥️": [
+        "herc", 
+        "karta", 
+        "igra"
+    ], 
+    "♦️": [
+        "karta", 
+        "karo", 
+        "igra"
+    ], 
+    "♨️": [
+        "vruće", 
+        "termalni izvori", 
+        "termalno", 
+        "para", 
+        "izvor"
+    ], 
+    "♻️": [
+        "recikliranje", 
+        "simbol za recikliranje"
+    ], 
     "♿": [
         "pristup", 
         "invalidska kolica"
+    ], 
+    "⚒️": [
+        "pijuk", 
+        "alat", 
+        "čekić i pijuk", 
+        "čekić"
     ], 
     "⚓": [
         "sidro", 
         "brod", 
         "alat"
+    ], 
+    "⚔️": [
+        "ukršteni mačevi", 
+        "oružje", 
+        "mačevi", 
+        "ukršteno"
+    ], 
+    "⚕️": [
+        "znak", 
+        "osoblje", 
+        "medicina", 
+        "eskulapijus", 
+        "medicinski znak"
+    ], 
+    "⚖️": [
+        "pravda", 
+        "terazije", 
+        "vaga", 
+        "alat", 
+        "teg", 
+        "zodijak"
+    ], 
+    "⚗️": [
+        "hemija", 
+        "alat", 
+        "alembik"
+    ], 
+    "⚙️": [
+        "zupčanik", 
+        "alat"
+    ], 
+    "⚛️": [
+        "simbol za atom", 
+        "ateizam", 
+        "atom"
+    ], 
+    "⚜️": [
+        "ljiljan", 
+        "heraldika"
+    ], 
+    "⚠️": [
+        "upozorenje"
     ], 
     "⚡": [
         "munja", 
@@ -154,6 +566,16 @@
         "geometrija", 
         "crni krug", 
         "krug"
+    ], 
+    "⚰️": [
+        "smrt", 
+        "kovčeg"
+    ], 
+    "⚱️": [
+        "posmrtna urna", 
+        "smrt", 
+        "urna", 
+        "sahrana"
     ], 
     "⚽": [
         "lopta", 
@@ -177,10 +599,34 @@
         "sunce iza oblaka", 
         "sunce"
     ], 
+    "⛈️": [
+        "oblak", 
+        "vreme", 
+        "oblak sa munjom i kišom", 
+        "grmljavina", 
+        "kiša"
+    ], 
     "⛎": [
         "zmijonoša", 
         "zmija", 
         "zodijak"
+    ], 
+    "⛏️": [
+        "pijuk", 
+        "alat", 
+        "rudarstvo"
+    ], 
+    "⛑️": [
+        "pomoć", 
+        "lice", 
+        "krst", 
+        "šlem", 
+        "kaciga", 
+        "kaciga sa belim krstom"
+    ], 
+    "⛓️": [
+        "lanac", 
+        "lanci"
     ], 
     "⛔": [
         "zabranjen ulaz", 
@@ -190,12 +636,28 @@
         "ulaz", 
         "zabranjeno"
     ], 
+    "⛩️": [
+        "religija", 
+        "šintoistički hram", 
+        "hram", 
+        "šintoizam", 
+        "svetilište"
+    ], 
     "⛪": [
         "religija", 
         "hrišćanstvo", 
         "crkva", 
         "krst", 
         "zgrada"
+    ], 
+    "⛰️": [
+        "planina"
+    ], 
+    "⛱️": [
+        "suncobran", 
+        "suncobran na zemlji", 
+        "vreme", 
+        "sunce"
     ], 
     "⛲": [
         "fontana", 
@@ -206,6 +668,10 @@
         "zastavica u rupi", 
         "rupa"
     ], 
+    "⛴️": [
+        "čamac", 
+        "trajekt"
+    ], 
     "⛵": [
         "čamac", 
         "jedrenjak", 
@@ -213,6 +679,19 @@
         "odmor", 
         "jahta", 
         "more"
+    ], 
+    "⛷️": [
+        "skijanje", 
+        "sneg", 
+        "skijaš"
+    ], 
+    "⛸️": [
+        "klizaljka", 
+        "led"
+    ], 
+    "⛹️‍♂️": [
+        "lopta", 
+        "osoba sa loptom"
     ], 
     "⛺": [
         "kampovanje", 
@@ -225,29 +704,127 @@
         "stanica", 
         "pumpa"
     ], 
+    "✂️": [
+        "alat", 
+        "makaze"
+    ], 
     "✅": [
         "znak", 
         "dugme sa znakom potvrde", 
         "potvrda"
     ], 
+    "✈️": [
+        "vozilo", 
+        "avion"
+    ], 
+    "✉️": [
+        "e-pošta", 
+        "koverta", 
+        "imejl"
+    ], 
     "✊": [
+        "tip kože 1–2", 
         "ruka", 
+        "pesnica: tip kože 4", 
         "stisnuto", 
+        "pesnica: tip kože 6", 
+        "pesnica: tip kože 1–2", 
+        "pesnica: tip kože 3", 
         "udarac", 
+        "tip kože 3", 
         "pesnica", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "pesnica: tip kože 5", 
+        "tip kože 4", 
         "šaka", 
         "telo"
     ], 
     "✋": [
+        "tip kože 1–2", 
+        "ruka", 
+        "podignuta ruka: tip kože 3", 
+        "podignuta ruka: tip kože 4", 
+        "podignuta ruka: tip kože 5", 
+        "podignuta ruka: tip kože 6", 
+        "podignuta ruka: tip kože 1–2", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "podignuta ruka", 
         "šaka", 
-        "ruka", 
         "telo"
+    ], 
+    "✌️": [
+        "znak pobede", 
+        "pobeda", 
+        "ruka", 
+        "v", 
+        "šaka", 
+        "telo"
+    ], 
+    "✍️": [
+        "telo", 
+        "ruka", 
+        "pisanje", 
+        "ruka koja piše"
+    ], 
+    "✏️": [
+        "olovka"
+    ], 
+    "✒️": [
+        "mastilo", 
+        "pero", 
+        "crno pero"
+    ], 
+    "✔️": [
+        "crni znak potvrde", 
+        "znak", 
+        "potvrda"
+    ], 
+    "✖️": [
+        "otkazivanje", 
+        "množenje", 
+        "puta", 
+        "crni znak za množenje", 
+        "x"
+    ], 
+    "✝️": [
+        "religija", 
+        "hrišćanstvo", 
+        "latinski krst", 
+        "krst"
+    ], 
+    "✡️": [
+        "jevreji", 
+        "religija", 
+        "judaizam", 
+        "david", 
+        "davidova zvezda", 
+        "zvezda"
     ], 
     "✨": [
         "iskre", 
         "iskra", 
         "zvezda"
+    ], 
+    "✳️": [
+        "zvezdica", 
+        "osmokraka zvezda"
+    ], 
+    "✴️": [
+        "osmokraka zvezdica", 
+        "zvezda"
+    ], 
+    "❄️": [
+        "pahulja", 
+        "sneg", 
+        "hladno", 
+        "vreme"
+    ], 
+    "❇️": [
+        "iskra"
     ], 
     "❌": [
         "iks", 
@@ -287,6 +864,16 @@
         "znak", 
         "uzvičnik"
     ], 
+    "❣️": [
+        "interpunkcija", 
+        "ukrasni uzvičnik u obliku velikog srca", 
+        "uzvičnik", 
+        "srce"
+    ], 
+    "❤️": [
+        "srce", 
+        "crveno srce"
+    ], 
     "➕": [
         "crni znak plus", 
         "plus", 
@@ -302,6 +889,12 @@
         "deljenje", 
         "matematika"
     ], 
+    "➡️": [
+        "strelica nadesno", 
+        "strelica", 
+        "smer", 
+        "istok"
+    ], 
     "➰": [
         "petlja", 
         "zaobljeno"
@@ -311,6 +904,32 @@
         "dvostruka petlja", 
         "dvostruko", 
         "zaobljeno"
+    ], 
+    "⤴️": [
+        "strelica koja skreće nagore", 
+        "strelica"
+    ], 
+    "⤵️": [
+        "strelica", 
+        "strelica koja skreće nadole"
+    ], 
+    "⬅️": [
+        "zapad", 
+        "strelica nalevo", 
+        "strelica", 
+        "smer"
+    ], 
+    "⬆️": [
+        "strelica", 
+        "strelica nagore", 
+        "smer", 
+        "sever"
+    ], 
+    "⬇️": [
+        "strelica", 
+        "strelica nadole", 
+        "jug", 
+        "smer"
     ], 
     "⬛": [
         "veliki crni kvadrat", 
@@ -331,6 +950,29 @@
         "o", 
         "krug"
     ], 
+    "〰️": [
+        "interpunkcija", 
+        "talasasto", 
+        "crta", 
+        "talasasta crta"
+    ], 
+    "〽️": [
+        "znak za razdvajanje delova", 
+        "znak", 
+        "deo"
+    ], 
+    "㊗️": [
+        "čestitanje", 
+        "kineski", 
+        "ideograf „čestitati“ u krugu", 
+        "ideograf"
+    ], 
+    "㊙️": [
+        "ideograf „tajna“ u krugu", 
+        "ideograf", 
+        "kineski", 
+        "tajna"
+    ], 
     "🀄": [
         "crveni zmaj iz mahdžonga", 
         "crveno", 
@@ -342,6 +984,25 @@
         "kartanje", 
         "karte", 
         "igra"
+    ], 
+    "🅰️": [
+        "a", 
+        "krv", 
+        "dugme sa slovom a"
+    ], 
+    "🅱️": [
+        "b", 
+        "krv", 
+        "dugme sa slovom b"
+    ], 
+    "🅾️": [
+        "0", 
+        "krv", 
+        "dugme o"
+    ], 
+    "🅿️": [
+        "znak za parking", 
+        "parkiranje"
     ], 
     "🆎": [
         "ab", 
@@ -1432,6 +2093,10 @@
         "japanski", 
         "katakana koko u kvadratu"
     ], 
+    "🈂️": [
+        "japanski", 
+        "katakana sa u kvadratu"
+    ], 
     "🈚": [
         "ideograf za negaciju u kvadratu", 
         "japanski"
@@ -1459,6 +2124,10 @@
     "🈶": [
         "japanski", 
         "ideograf „postoji“ u kvadratu"
+    ], 
+    "🈷️": [
+        "japanski", 
+        "ideograf „mesec“ u kvadratu"
     ], 
     "🈸": [
         "ideograf „primeniti“ u kvadratu", 
@@ -1715,6 +2384,67 @@
         "svemir", 
         "padanje"
     ], 
+    "🌡️": [
+        "termometar", 
+        "vreme"
+    ], 
+    "🌤️": [
+        "oblak", 
+        "sunce iza malog oblaka", 
+        "vreme", 
+        "sunce"
+    ], 
+    "🌥️": [
+        "oblak", 
+        "sunce iza velikog oblaka", 
+        "vreme", 
+        "sunce"
+    ], 
+    "🌦️": [
+        "oblak", 
+        "sunce iza kišnog oblaka", 
+        "vreme", 
+        "kiša", 
+        "sunce"
+    ], 
+    "🌧️": [
+        "oblak", 
+        "oblak sa kišom", 
+        "vreme", 
+        "kiša"
+    ], 
+    "🌨️": [
+        "oblak", 
+        "oblak sa snegom", 
+        "sneg", 
+        "hladno", 
+        "vreme"
+    ], 
+    "🌩️": [
+        "oblak", 
+        "oblak sa munjom", 
+        "munja", 
+        "vreme"
+    ], 
+    "🌪️": [
+        "oblak", 
+        "tornado", 
+        "vrtlog", 
+        "vreme"
+    ], 
+    "🌫️": [
+        "oblak", 
+        "magla", 
+        "vreme"
+    ], 
+    "🌬️": [
+        "vetar", 
+        "duvanje", 
+        "lice", 
+        "lice vetra", 
+        "vreme", 
+        "oblak"
+    ], 
     "🌭": [
         "kobasica", 
         "viršla", 
@@ -1755,6 +2485,13 @@
     ], 
     "🌵": [
         "kaktus", 
+        "biljka"
+    ], 
+    "🌶️": [
+        "paprika", 
+        "ljuto", 
+        "papričica", 
+        "ljuta papričica", 
         "biljka"
     ], 
     "🌷": [
@@ -2166,6 +2903,13 @@
         "bočica", 
         "flašica za bebe"
     ], 
+    "🍽️": [
+        "viljuška", 
+        "tanjir", 
+        "kuvanje", 
+        "nož", 
+        "viljuška i nož sa tanjirom"
+    ], 
     "🍾": [
         "bar", 
         "čep", 
@@ -2212,12 +2956,22 @@
         "drvo"
     ], 
     "🎅": [
+        "tip kože 1–2", 
         "božić", 
+        "tip kože 5", 
         "božić bata", 
+        "tip kože 6", 
         "bajka", 
         "proslava", 
+        "Deda Mraz: tip kože 6", 
         "mašta", 
+        "Deda Mraz: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
         "deda mraz", 
+        "Deda Mraz: tip kože 5", 
+        "Deda Mraz: tip kože 4", 
+        "Deda Mraz: tip kože 1–2", 
         "Deda Mraz"
     ], 
     "🎆": [
@@ -2307,6 +3061,48 @@
         "odeća", 
         "matura", 
         "kapa"
+    ], 
+    "🎖️": [
+        "orden", 
+        "proslava", 
+        "vojska", 
+        "medalja"
+    ], 
+    "🎗️": [
+        "spomen-traka", 
+        "proslava", 
+        "traka", 
+        "spomen", 
+        "podsetnik"
+    ], 
+    "🎙️": [
+        "studijski mikrofon", 
+        "muzika", 
+        "studio", 
+        "mikrofon"
+    ], 
+    "🎚️": [
+        "klizač za podešavanje", 
+        "muzika", 
+        "nivo", 
+        "klizač"
+    ], 
+    "🎛️": [
+        "kontrola", 
+        "kontrolna dugmad", 
+        "muzika", 
+        "dugmad"
+    ], 
+    "🎞️": [
+        "kadrovi filma", 
+        "film", 
+        "bioskop", 
+        "kadrovi"
+    ], 
+    "🎟️": [
+        "ulaznica", 
+        "ulaznice", 
+        "ulaz"
     ], 
     "🎠": [
         "konj sa vrteške", 
@@ -2493,19 +3289,46 @@
         "karirana"
     ], 
     "🏂": [
-        "skijanje", 
-        "vozač snouborda", 
+        "tip kože 1–2", 
+        "vozač snouborda: tip kože 1–2", 
         "sneg", 
-        "snoubord"
+        "tip kože 6", 
+        "skijanje", 
+        "snoubord", 
+        "vozač snouborda: tip kože 3", 
+        "vozač snouborda", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "vozač snouborda: tip kože 4", 
+        "vozač snouborda: tip kože 5", 
+        "vozač snouborda: tip kože 6"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "žena", 
         "trčanje", 
-        "trkač", 
+        "žena trči", 
+        "trka", 
         "maraton"
     ], 
-    "🏄": [
-        "osoba surfuje", 
+    "🏃‍♂️": [
+        "trka", 
+        "maraton", 
+        "trkač", 
+        "muškarac trči", 
+        "muškarac", 
+        "trčanje"
+    ], 
+    "🏄‍♀️": [
+        "žena", 
+        "surferka", 
         "surfovanje"
+    ], 
+    "🏄‍♂️": [
+        "osoba surfuje", 
+        "surfovanje", 
+        "surfer", 
+        "muškarac"
     ], 
     "🏅": [
         "medalja", 
@@ -2517,10 +3340,20 @@
         "pehar"
     ], 
     "🏇": [
+        "tip kože 1–2", 
         "džokej", 
         "konj", 
         "trke konja", 
-        "trka"
+        "tip kože 6", 
+        "trka", 
+        "trke konja: tip kože 5", 
+        "trke konja: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "trke konja: tip kože 3", 
+        "trke konja: tip kože 1–2", 
+        "trke konja: tip kože 6"
     ], 
     "🏈": [
         "lopta", 
@@ -2533,9 +3366,35 @@
         "lopta", 
         "lopta za ragbi"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "žena", 
+        "plivačica", 
+        "plivanje"
+    ], 
+    "🏊‍♂️": [
         "plivanje", 
+        "plivač", 
+        "muškarac", 
         "osoba pliva"
+    ], 
+    "🏋️‍♂️": [
+        "dizač", 
+        "tegovi", 
+        "osoba diže tegove"
+    ], 
+    "🏌️‍♂️": [
+        "osoba igra golf", 
+        "loptica", 
+        "golf"
+    ], 
+    "🏍️": [
+        "trka", 
+        "motocikl"
+    ], 
+    "🏎️": [
+        "automobil", 
+        "trka", 
+        "trkački automobil"
     ], 
     "🏏": [
         "palica", 
@@ -2571,6 +3430,62 @@
         "sto", 
         "stoni tenis", 
         "igra"
+    ], 
+    "🏔️": [
+        "snežni vrh planine", 
+        "sneg", 
+        "hladno", 
+        "planina"
+    ], 
+    "🏕️": [
+        "kampovanje"
+    ], 
+    "🏖️": [
+        "suncobran", 
+        "plaža sa suncobranom", 
+        "plaža"
+    ], 
+    "🏗️": [
+        "gradilište", 
+        "zgrada", 
+        "gradnja"
+    ], 
+    "🏘️": [
+        "kuća", 
+        "kuće", 
+        "zgrada"
+    ], 
+    "🏙️": [
+        "zgrada", 
+        "grad", 
+        "gradski pejzaž"
+    ], 
+    "🏚️": [
+        "kuća", 
+        "zapuštena kuća", 
+        "zapušteno", 
+        "zgrada"
+    ], 
+    "🏛️": [
+        "građevina", 
+        "zgrada", 
+        "antika", 
+        "antička građevina"
+    ], 
+    "🏜️": [
+        "pustinja"
+    ], 
+    "🏝️": [
+        "pusto ostrvo", 
+        "pusto", 
+        "ostrvo"
+    ], 
+    "🏞️": [
+        "park", 
+        "nacionalni park"
+    ], 
+    "🏟️": [
+        "stadion"
     ], 
     "🏠": [
         "kuća", 
@@ -2660,6 +3575,17 @@
         "dvorac", 
         "evropa"
     ], 
+    "🏳️": [
+        "bela zastava", 
+        "zastava", 
+        "vijorenje"
+    ], 
+    "🏳️‍🌈": [
+        "duga", 
+        "zastava", 
+        "dugina zastava", 
+        "vijori"
+    ], 
     "🏴": [
         "zastava", 
         "crna zastava", 
@@ -2676,6 +3602,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "zastava", 
         "Vels"
+    ], 
+    "🏵️": [
+        "rozeta", 
+        "biljka"
+    ], 
+    "🏷️": [
+        "oznaka"
     ], 
     "🏸": [
         "reket", 
@@ -3020,16 +3953,43 @@
         "stopala", 
         "otisak"
     ], 
+    "🐿️": [
+        "veverica"
+    ], 
     "👀": [
         "lice", 
         "oko", 
         "oči"
     ], 
-    "👂": [
+    "👁️": [
         "telo", 
-        "uvo"
+        "oko"
+    ], 
+    "👂": [
+        "tip kože 1–2", 
+        "uvo: tip kože 5", 
+        "uvo: tip kože 4", 
+        "uvo: tip kože 6", 
+        "uvo: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "uvo", 
+        "uvo: tip kože 1–2", 
+        "telo"
     ], 
     "👃": [
+        "tip kože 1–2", 
+        "nos: tip kože 1–2", 
+        "tip kože 6", 
+        "nos: tip kože 6", 
+        "nos: tip kože 5", 
+        "nos: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "nos: tip kože 3", 
         "telo", 
         "nos"
     ], 
@@ -3042,99 +4002,209 @@
         "jezik"
     ], 
     "👆": [
+        "tip kože 1–2", 
         "pokazivanje", 
+        "tip kože 4", 
+        "tip kože 3", 
+        "kažiprst koji pokazuje nagore otpozadi: tip kože 4", 
+        "kažiprst koji pokazuje nagore otpozadi: tip kože 1–2", 
+        "kažiprst koji pokazuje nagore otpozadi: tip kože 6", 
         "nagore", 
         "prst", 
         "ruka", 
         "kažiprst koji pokazuje nagore otpozadi", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "kažiprst koji pokazuje nagore otpozadi: tip kože 5", 
         "prednja strana", 
         "šaka", 
+        "kažiprst koji pokazuje nagore otpozadi: tip kože 3", 
         "kažiprst", 
         "telo"
     ], 
     "👇": [
+        "tip kože 1–2", 
         "ruka", 
+        "tip kože 3", 
         "nadole", 
+        "kažiprst koji pokazuje nadole otpozadi: tip kože 3", 
+        "kažiprst koji pokazuje nadole otpozadi: tip kože 1–2", 
+        "kažiprst koji pokazuje nadole otpozadi: tip kože 6", 
+        "kažiprst koji pokazuje nadole otpozadi: tip kože 5", 
         "prst", 
         "pokazivanje", 
+        "tip kože 4", 
         "kažiprst koji pokazuje nadole otpozadi", 
+        "tip kože 6", 
         "šaka", 
+        "kažiprst koji pokazuje nadole otpozadi: tip kože 4", 
         "kažiprst", 
-        "telo"
+        "telo", 
+        "tip kože 5"
     ], 
     "👈": [
+        "tip kože 1–2", 
         "kažiprst koji pokazuje ulevo", 
         "pokazivanje", 
+        "tip kože 3", 
+        "kažiprst koji pokazuje ulevo: tip kože 6", 
+        "kažiprst koji pokazuje ulevo: tip kože 5", 
+        "kažiprst koji pokazuje ulevo: tip kože 4", 
+        "kažiprst koji pokazuje ulevo: tip kože 3", 
         "prst", 
         "ruka", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "prednja strana", 
         "šaka", 
+        "kažiprst koji pokazuje ulevo: tip kože 1–2", 
         "kažiprst", 
         "telo"
     ], 
     "👉": [
+        "tip kože 1–2", 
+        "kažiprst koji pokazuje udesno: tip kože 3", 
         "pokazivanje", 
+        "kažiprst koji pokazuje udesno: tip kože 5", 
+        "kažiprst koji pokazuje udesno: tip kože 1–2", 
+        "tip kože 3", 
+        "kažiprst koji pokazuje udesno: tip kože 6", 
         "prst", 
         "ruka", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "prednja strana", 
         "šaka", 
         "kažiprst koji pokazuje udesno", 
         "kažiprst", 
-        "telo"
+        "telo", 
+        "kažiprst koji pokazuje udesno: tip kože 4"
     ], 
     "👊": [
+        "tip kože 1–2", 
         "usmerena pesnica", 
         "ruka", 
         "stisnuto", 
+        "usmerena pesnica: tip kože 4", 
+        "usmerena pesnica: tip kože 1–2", 
         "udarac", 
+        "usmerena pesnica: tip kože 6", 
+        "usmerena pesnica: tip kože 5", 
+        "tip kože 3", 
+        "usmerena pesnica: tip kože 3", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "tip kože 4", 
         "šaka", 
         "telo"
     ], 
     "👋": [
-        "telo", 
-        "šaka", 
-        "mahanje", 
+        "tip kože 1–2", 
+        "ruka koja maše: tip kože 5", 
+        "tip kože 5", 
         "ruka", 
-        "ruka koja maše"
+        "ruka koja maše: tip kože 1–2", 
+        "mahanje", 
+        "ruka koja maše: tip kože 6", 
+        "ruka koja maše: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "ruka koja maše", 
+        "tip kože 6", 
+        "šaka", 
+        "telo", 
+        "ruka koja maše: tip kože 3"
     ], 
     "👌": [
-        "šaka", 
+        "tip kože 1–2", 
         "ruka", 
+        "znak rukom „u redu“: tip kože 1–2", 
+        "u redu", 
+        "znak rukom „u redu“: tip kože 4", 
+        "znak rukom „u redu“: tip kože 5", 
+        "znak rukom „u redu“: tip kože 6", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "znak rukom „u redu“: tip kože 3", 
+        "šaka", 
         "znak rukom „u redu“", 
-        "telo", 
-        "u redu"
+        "telo"
     ], 
     "👍": [
+        "tip kože 1–2", 
         "ruka", 
+        "tip kože 6", 
+        "tip kože 3", 
         "palac nagore", 
         "nagore", 
         "ocena", 
+        "palac nagore: tip kože 6", 
+        "palac nagore: tip kože 5", 
+        "palac nagore: tip kože 4", 
         "+1", 
         "dobro", 
+        "tip kože 4", 
+        "palac nagore: tip kože 1–2", 
+        "palac nagore: tip kože 3", 
         "palac", 
-        "telo"
+        "telo", 
+        "tip kože 5"
     ], 
     "👎": [
+        "tip kože 1–2", 
         "ruka", 
+        "tip kože 4", 
+        "palac nadole: tip kože 5", 
+        "palac nadole: tip kože 6", 
         "nadole", 
         "loše", 
         "palac nadole", 
         "ocena", 
         "palac", 
+        "tip kože 3", 
         "-1", 
-        "telo"
+        "palac nadole: tip kože 3", 
+        "palac nadole: tip kože 4", 
+        "tip kože 6", 
+        "palac nadole: tip kože 1–2", 
+        "telo", 
+        "tip kože 5"
     ], 
     "👏": [
-        "tapšanje", 
+        "tip kože 1–2", 
         "ruka", 
-        "telo", 
-        "ruke koje tapšu"
+        "ruke koje tapšu: tip kože 1–2", 
+        "tapšanje", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "ruke koje tapšu", 
+        "tip kože 6", 
+        "ruke koje tapšu: tip kože 6", 
+        "ruke koje tapšu: tip kože 4", 
+        "ruke koje tapšu: tip kože 5", 
+        "ruke koje tapšu: tip kože 3", 
+        "telo"
     ], 
     "👐": [
-        "otvoreno", 
+        "tip kože 1–2", 
         "ruka", 
+        "rasklopljene šake: tip kože 1–2", 
+        "otvoreno", 
+        "rasklopljene šake", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "rasklopljene šake: tip kože 3", 
+        "rasklopljene šake: tip kože 5", 
+        "rasklopljene šake: tip kože 4", 
         "telo", 
-        "rasklopljene šake"
+        "rasklopljene šake: tip kože 6"
     ], 
     "👑": [
         "odeća", 
@@ -3249,59 +4319,193 @@
         "gornji deo tela"
     ], 
     "👦": [
+        "tip kože 1–2", 
+        "dečak: tip kože 3", 
+        "dečak: tip kože 6", 
+        "tip kože 6", 
+        "dečak: tip kože 4", 
+        "dečak: tip kože 5", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "dečak: tip kože 1–2", 
         "mladost", 
         "dečak"
     ], 
     "👧": [
+        "tip kože 1–2", 
+        "devojčica: tip kože 4", 
+        "devojčica: tip kože 6", 
         "devojčica", 
+        "devojčica: tip kože 5", 
+        "devojčica: tip kože 3", 
+        "zodijak", 
+        "devojčica: tip kože 1–2", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "devica", 
-        "mladost", 
-        "zodijak"
+        "mladost"
     ], 
     "👨": [
+        "tip kože 1–2", 
+        "muškarac: tip kože 5", 
+        "muškarac: tip kože 4", 
+        "muškarac: tip kože 6", 
+        "muškarac: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "muškarac: tip kože 1–2", 
+        "tip kože 6", 
+        "muškarac", 
+        "tip kože 5"
+    ], 
+    "👨‍⚕️": [
+        "zdravstveni radnik", 
+        "zdravstvo", 
+        "muškarac", 
+        "lekar", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "pravda", 
+        "muškarac sudija", 
+        "sudija", 
         "muškarac"
+    ], 
+    "👨‍✈️": [
+        "pilot", 
+        "avion", 
+        "muškarac"
+    ], 
+    "👨‍❤️‍👨": [
+        "par", 
+        "ljubav", 
+        "srce", 
+        "romantika", 
+        "par sa srcem: muškarac i muškarac", 
+        "muškarac", 
+        "par sa srcem"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "poljubac", 
+        "par", 
+        "muškarac", 
+        "poljubac: muškarac i muškarac", 
+        "romantika"
     ], 
     "👨‍🌾": [
         "farma", 
-        "poljoprivrednik", 
-        "bašta", 
+        "tip kože 1–2", 
         "selo", 
-        "muškarac"
+        "poljoprivrednik: tip kože 1–2", 
+        "poljoprivrednik: tip kože 6", 
+        "poljoprivrednik: tip kože 5", 
+        "poljoprivrednik: tip kože 4", 
+        "poljoprivrednik: tip kože 3", 
+        "bašta", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "muškarac", 
+        "poljoprivrednik"
     ], 
     "👨‍🍳": [
+        "tip kože 1–2", 
+        "kuvar: tip kože 6", 
+        "kuvar: tip kože 4", 
+        "kuvar: tip kože 5", 
+        "kuvar: tip kože 3", 
+        "kuvar: tip kože 1–2", 
         "kuvar", 
-        "šef", 
         "kuhinja", 
+        "šef", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "muškarac"
     ], 
     "👨‍🎓": [
-        "matura", 
+        "tip kože 1–2", 
+        "tip kože 6", 
+        "student: tip kože 1–2", 
         "diploma", 
+        "matura", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
         "student", 
-        "muškarac"
+        "muškarac", 
+        "student: tip kože 6", 
+        "student: tip kože 4", 
+        "student: tip kože 5", 
+        "student: tip kože 3"
     ], 
     "👨‍🎤": [
-        "glumac", 
+        "tip kože 1–2", 
         "rok", 
+        "tip kože 3", 
+        "pevač: tip kože 3", 
+        "glumac", 
+        "pevač: tip kože 6", 
+        "pevač: tip kože 5", 
+        "pevač: tip kože 4", 
+        "pevač: tip kože 1–2", 
+        "tip kože 4", 
         "pevač", 
-        "muškarac"
+        "tip kože 6", 
+        "muškarac", 
+        "tip kože 5"
     ], 
     "👨‍🎨": [
+        "tip kože 1–2", 
+        "tip kože 6", 
+        "umetnik: tip kože 5", 
+        "umetnik", 
+        "umetnik: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "umetnik: tip kože 4", 
+        "muškarac", 
+        "umetnik: tip kože 6", 
         "slikar", 
         "slikarstvo", 
-        "umetnik", 
-        "muškarac"
+        "umetnik: tip kože 1–2"
     ], 
     "👨‍🏫": [
+        "tip kože 1–2", 
+        "profesor: tip kože 3", 
+        "profesor: tip kože 1–2", 
+        "profesor: tip kože 6", 
+        "profesor: tip kože 4", 
+        "profesor: tip kože 5", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "muškarac", 
         "profesor", 
-        "učitelj", 
-        "muškarac"
+        "učitelj"
     ], 
     "👨‍🏭": [
+        "tip kože 1–2", 
         "radnik", 
-        "industrija", 
+        "radnik: tip kože 3", 
+        "fabrika", 
+        "radnik: tip kože 5", 
+        "radnik: tip kože 1–2", 
+        "radnik: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "muškarac", 
-        "fabrika"
+        "radnik: tip kože 6", 
+        "industrija"
     ], 
     "👨‍👦": [
         "porodica", 
@@ -3447,92 +4651,285 @@
         "porodica: muškarac i žena i devojčica i devojčica"
     ], 
     "👨‍💻": [
-        "programer", 
-        "softver", 
+        "tip kože 1–2", 
         "pronalazač", 
+        "tehnolog: tip kože 6", 
+        "softver", 
+        "tehnolog: tip kože 1–2", 
+        "programer", 
+        "tehnolog: tip kože 3", 
+        "tip kože 3", 
         "tehnolog", 
-        "muškarac"
+        "tehnolog: tip kože 4", 
+        "tip kože 6", 
+        "muškarac", 
+        "tip kože 4", 
+        "tehnolog: tip kože 5", 
+        "tip kože 5"
     ], 
     "👨‍💼": [
+        "tip kože 1–2", 
         "sekretarica", 
-        "muškarac u kancelariji", 
+        "tip kože 6", 
+        "muškarac u kancelariji: tip kože 1–2", 
+        "muškarac u kancelariji: tip kože 6", 
         "asistent", 
         "kancelarija", 
+        "muškarac u kancelariji", 
+        "muškarac u kancelariji: tip kože 5", 
+        "muškarac u kancelariji: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "muškarac u kancelariji: tip kože 3", 
         "muškarac"
     ], 
     "👨‍🔧": [
+        "tip kože 1–2", 
+        "tip kože 5", 
         "mehaničar", 
+        "mehaničar: tip kože 5", 
+        "mehaničar: tip kože 1–2", 
+        "mehaničar: tip kože 6", 
+        "mehaničar: tip kože 4", 
+        "tip kože 3", 
         "alat", 
         "majstor", 
-        "muškarac"
+        "tip kože 6", 
+        "muškarac", 
+        "tip kože 4", 
+        "mehaničar: tip kože 3"
     ], 
     "👨‍🔬": [
-        "biolog", 
+        "tip kože 1–2", 
+        "naučnik: tip kože 1–2", 
+        "naučnik: tip kože 3", 
         "hemičar", 
-        "naučnik", 
-        "muškarac"
+        "naučnik: tip kože 6", 
+        "naučnik: tip kože 5", 
+        "naučnik: tip kože 4", 
+        "biolog", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "muškarac", 
+        "naučnik"
     ], 
     "👨‍🚀": [
-        "kosmonaut", 
+        "tip kože 1–2", 
+        "kosmonaut: tip kože 1–2", 
+        "tip kože 6", 
+        "kosmonaut: tip kože 4", 
+        "kosmonaut: tip kože 3", 
         "raketa", 
+        "kosmonaut: tip kože 5", 
+        "kosmonaut: tip kože 6", 
+        "tip kože 3", 
         "astronaut", 
+        "tip kože 5", 
         "svemir", 
-        "muškarac"
+        "muškarac", 
+        "tip kože 4", 
+        "kosmonaut"
     ], 
     "👨‍🚒": [
-        "vatrogasac", 
-        "muškarac", 
+        "tip kože 1–2", 
+        "tip kože 3", 
+        "kamion", 
         "vatra", 
-        "kamion"
+        "vatrogasac", 
+        "vatrogasac: tip kože 1–2", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "muškarac", 
+        "vatrogasac: tip kože 3", 
+        "vatrogasac: tip kože 6", 
+        "vatrogasac: tip kože 5", 
+        "vatrogasac: tip kože 4"
     ], 
     "👩": [
-        "žena"
+        "žena", 
+        "tip kože 1–2", 
+        "žena: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "žena: tip kože 1–2", 
+        "žena: tip kože 5", 
+        "žena: tip kože 6", 
+        "žena: tip kože 3"
+    ], 
+    "👩‍⚕️": [
+        "zdravstvo", 
+        "žena", 
+        "lekar", 
+        "zdravstvena radnica", 
+        "doktor"
+    ], 
+    "👩‍⚖️": [
+        "pravda", 
+        "žena", 
+        "sudija", 
+        "žena sudija"
+    ], 
+    "👩‍✈️": [
+        "žena", 
+        "žena pilot", 
+        "avion", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "žena", 
+        "par", 
+        "ljubav", 
+        "srce", 
+        "romantika", 
+        "par sa srcem: žena i muškarac", 
+        "muškarac", 
+        "par sa srcem"
+    ], 
+    "👩‍❤️‍👩": [
+        "žena", 
+        "par", 
+        "ljubav", 
+        "srce", 
+        "romantika", 
+        "par sa srcem: žena i žena", 
+        "par sa srcem"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "žena", 
+        "par", 
+        "romantika", 
+        "poljubac", 
+        "poljubac: žena i muškarac", 
+        "muškarac"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "poljubac", 
+        "žena", 
+        "par", 
+        "poljubac: žena i žena", 
+        "romantika"
     ], 
     "👩‍🌾": [
         "farma", 
         "žena", 
-        "bašta", 
+        "selo", 
         "poljoprivrednica", 
-        "selo"
+        "bašta", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 1–2", 
+        "tip kože 6", 
+        "poljoprivrednica: tip kože 5", 
+        "poljoprivrednica: tip kože 4", 
+        "poljoprivrednica: tip kože 6", 
+        "poljoprivrednica: tip kože 1–2", 
+        "poljoprivrednica: tip kože 3", 
+        "tip kože 5"
     ], 
     "👩‍🍳": [
         "žena", 
-        "kuvar", 
+        "tip kože 1–2", 
+        "kuvarica: tip kože 3", 
         "kuvarica", 
+        "kuvarica: tip kože 5", 
+        "kuvarica: tip kože 6", 
+        "kuvar", 
         "kuhinja", 
-        "šef"
+        "šef", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "kuvarica: tip kože 4", 
+        "kuvarica: tip kože 1–2"
     ], 
     "👩‍🎓": [
         "žena", 
+        "tip kože 1–2", 
+        "tip kože 6", 
         "studentkinja", 
-        "matura", 
         "diploma", 
-        "student"
+        "matura", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "student", 
+        "studentkinja: tip kože 3", 
+        "studentkinja: tip kože 6", 
+        "studentkinja: tip kože 1–2", 
+        "studentkinja: tip kože 4", 
+        "studentkinja: tip kože 5"
     ], 
     "👩‍🎤": [
-        "rok", 
-        "pevačica", 
         "žena", 
-        "glumica"
+        "tip kože 1–2", 
+        "pevačica: tip kože 5", 
+        "rok", 
+        "pevačica: tip kože 3", 
+        "tip kože 3", 
+        "pevačica: tip kože 6", 
+        "pevačica", 
+        "glumica", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "pevačica: tip kože 1–2", 
+        "pevačica: tip kože 4"
     ], 
     "👩‍🎨": [
-        "umetnik", 
         "žena", 
-        "slikar", 
+        "tip kože 1–2", 
+        "umetnica: tip kože 1–2", 
         "slikarstvo", 
-        "umetnica"
+        "umetnica: tip kože 6", 
+        "umetnica: tip kože 4", 
+        "umetnica: tip kože 5", 
+        "umetnica: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "umetnica", 
+        "tip kože 6", 
+        "umetnik", 
+        "slikar"
     ], 
     "👩‍🏫": [
         "žena", 
-        "profesor", 
+        "tip kože 1–2", 
+        "profesorka: tip kože 6", 
+        "profesorka: tip kože 3", 
         "profesorka", 
-        "učitelj"
+        "tip kože 3", 
+        "tip kože 4", 
+        "profesorka: tip kože 4", 
+        "tip kože 6", 
+        "profesor", 
+        "profesorka: tip kože 5", 
+        "profesorka: tip kože 1–2", 
+        "učitelj", 
+        "tip kože 5"
     ], 
     "👩‍🏭": [
         "žena", 
-        "industrija", 
+        "tip kože 1–2", 
+        "radnica: tip kože 6", 
+        "radnica: tip kože 1–2", 
+        "tip kože 6", 
+        "fabrika", 
+        "radnica: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "radnica: tip kože 5", 
+        "radnica: tip kože 4", 
         "radnica", 
-        "fabrika"
+        "industrija"
     ], 
     "👩‍👦": [
         "žena", 
@@ -3627,51 +5024,105 @@
         "otac"
     ], 
     "👩‍💻": [
-        "programer", 
-        "softver", 
-        "pronalazač", 
         "žena", 
-        "žena tehnolog"
+        "tip kože 1–2", 
+        "pronalazač", 
+        "žena tehnolog: tip kože 1–2", 
+        "softver", 
+        "žena tehnolog: tip kože 6", 
+        "programer", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "žena tehnolog", 
+        "tip kože 6", 
+        "žena tehnolog: tip kože 3", 
+        "tip kože 5", 
+        "žena tehnolog: tip kože 5", 
+        "žena tehnolog: tip kože 4"
     ], 
     "👩‍💼": [
         "žena", 
         "sekretarica", 
+        "žena u kancelariji: tip kože 4", 
+        "žena u kancelariji: tip kože 1–2", 
+        "žena u kancelariji: tip kože 6", 
         "asistent", 
         "kancelarija", 
-        "žena u kancelariji"
+        "žena u kancelariji: tip kože 3", 
+        "tip kože 3", 
+        "žena u kancelariji", 
+        "tip kože 1–2", 
+        "tip kože 6", 
+        "žena u kancelariji: tip kože 5", 
+        "tip kože 4", 
+        "tip kože 5"
     ], 
     "👩‍🔧": [
         "žena", 
+        "tip kože 1–2", 
+        "tip kože 4", 
+        "mehaničarka: tip kože 3", 
+        "mehaničarka: tip kože 4", 
+        "mehaničarka: tip kože 5", 
+        "mehaničarka: tip kože 6", 
+        "tip kože 3", 
         "mehaničarka", 
+        "majstor", 
+        "tip kože 6", 
         "alat", 
-        "majstor"
+        "mehaničarka: tip kože 1–2", 
+        "tip kože 5"
     ], 
     "👩‍🔬": [
         "žena", 
-        "biolog", 
+        "tip kože 1–2", 
+        "naučnica: tip kože 6", 
+        "naučnica: tip kože 3", 
+        "naučnica: tip kože 4", 
         "hemičar", 
+        "naučnica: tip kože 1–2", 
+        "biolog", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "naučnica: tip kože 5", 
         "naučnik", 
         "naučnica"
     ], 
     "👩‍🚀": [
         "žena", 
+        "tip kože 1–2", 
         "kosmonautkinja", 
+        "tip kože 6", 
+        "kosmonautkinja: tip kože 4", 
+        "kosmonautkinja: tip kože 5", 
+        "kosmonautkinja: tip kože 6", 
+        "tip kože 4", 
         "raketa", 
+        "kosmonautkinja: tip kože 3", 
+        "tip kože 3", 
         "astronaut", 
-        "svemir"
+        "tip kože 5", 
+        "svemir", 
+        "kosmonautkinja: tip kože 1–2"
     ], 
     "👩‍🚒": [
         "žena", 
-        "žena vatrogasac", 
+        "tip kože 1–2", 
+        "kamion", 
         "vatra", 
         "vatrogasac", 
-        "kamion"
-    ], 
-    "👪": [
-        "otac", 
-        "porodica", 
-        "dete", 
-        "majka"
+        "žena vatrogasac: tip kože 1–2", 
+        "žena vatrogasac: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "žena vatrogasac", 
+        "žena vatrogasac: tip kože 5", 
+        "žena vatrogasac: tip kože 6", 
+        "žena vatrogasac: tip kože 3"
     ], 
     "👫": [
         "žena", 
@@ -3697,62 +5148,165 @@
         "držanje", 
         "par"
     ], 
-    "👮": [
-        "policajac", 
-        "predstavnik policije", 
-        "pozornik", 
+    "👮‍♀️": [
+        "žena", 
+        "policajka", 
+        "pandurka", 
         "policija"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "policija", 
+        "pandur", 
+        "policajac", 
+        "pozornik", 
+        "muškarac", 
+        "predstavnik policije"
+    ], 
+    "👯‍♀️": [
         "uši", 
         "žena", 
         "ples", 
+        "žurka", 
         "osobe u provodu", 
+        "zečice", 
+        "žene u provodu", 
         "zečica", 
-        "devojka"
+        "devojka", 
+        "žene", 
+        "provod"
+    ], 
+    "👯‍♂️": [
+        "muškarci u provodu", 
+        "provod", 
+        "ples", 
+        "žurka", 
+        "muškarci"
     ], 
     "👰": [
-        "veo", 
+        "tip kože 1–2", 
         "nevesta sa velom", 
         "nevesta", 
-        "venčanje"
+        "venčanje", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "nevesta sa velom: tip kože 4", 
+        "nevesta sa velom: tip kože 5", 
+        "veo", 
+        "nevesta sa velom: tip kože 6", 
+        "nevesta sa velom: tip kože 1–2", 
+        "nevesta sa velom: tip kože 3"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "žena", 
+        "plavuša", 
+        "plava kosa"
+    ], 
+    "👱‍♂️": [
+        "plav muškarac", 
+        "muškarac", 
         "plava kosa", 
         "osoba sa plavom kosom"
     ], 
     "👲": [
+        "tip kože 1–2", 
+        "tip kože 5", 
+        "čovek sa kineskom kapom: tip kože 6", 
         "kina", 
+        "čovek sa kineskom kapom", 
+        "čovek sa kineskom kapom: tip kože 5", 
+        "čovek sa kineskom kapom: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
         "kapa", 
+        "tip kože 6", 
         "muškarac", 
-        "čovek sa kineskom kapom"
+        "čovek sa kineskom kapom: tip kože 1–2", 
+        "čovek sa kineskom kapom: tip kože 4"
     ], 
-    "👳": [
-        "osoba sa turbanom", 
+    "👳‍♀️": [
+        "žena", 
+        "žena sa turbanom", 
         "turban"
     ], 
+    "👳‍♂️": [
+        "osoba sa turbanom", 
+        "čovek sa turbanom", 
+        "turban", 
+        "muškarac"
+    ], 
     "👴": [
+        "tip kože 1–2", 
+        "starac", 
         "starost", 
-        "starac"
+        "starac: tip kože 6", 
+        "starac: tip kože 4", 
+        "starac: tip kože 5", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "starac: tip kože 3", 
+        "starac: tip kože 1–2"
     ], 
     "👵": [
+        "tip kože 1–2", 
+        "starica: tip kože 5", 
         "starost", 
-        "starica"
+        "starica", 
+        "starica: tip kože 6", 
+        "starica: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "starica: tip kože 3", 
+        "tip kože 6", 
+        "starica: tip kože 1–2", 
+        "tip kože 5"
     ], 
     "👶": [
+        "tip kože 1–2", 
         "beba", 
+        "beba: tip kože 3", 
+        "beba: tip kože 4", 
+        "beba: tip kože 5", 
+        "beba: tip kože 6", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "beba: tip kože 1–2", 
         "mladost"
     ], 
-    "👷": [
-        "građevinski radnik", 
+    "👷‍♀️": [
+        "žena", 
+        "građevinarka", 
+        "šlem", 
+        "radnica", 
+        "građevinar"
+    ], 
+    "👷‍♂️": [
+        "građevinar", 
+        "radnik", 
         "građevinski", 
         "šlem", 
-        "radnik"
+        "građevinski radnik", 
+        "muškarac"
     ], 
     "👸": [
-        "princeza", 
+        "tip kože 1–2", 
         "bajka", 
-        "mašta"
+        "princeza", 
+        "princeza: tip kože 5", 
+        "princeza: tip kože 6", 
+        "mašta", 
+        "princeza: tip kože 1–2", 
+        "princeza: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "princeza: tip kože 3"
     ], 
     "👹": [
         "japan", 
@@ -3777,12 +5331,22 @@
         "mašta"
     ], 
     "👼": [
+        "tip kože 1–2", 
         "beba anđeo", 
         "beba", 
         "bajka", 
         "lice", 
         "anđeo", 
-        "mašta"
+        "mašta", 
+        "beba anđeo: tip kože 1–2", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "beba anđeo: tip kože 3", 
+        "beba anđeo: tip kože 5", 
+        "beba anđeo: tip kože 4", 
+        "beba anđeo: tip kože 6"
     ], 
     "👽": [
         "čudovište", 
@@ -3819,19 +5383,48 @@
         "smrt", 
         "telo"
     ], 
-    "💁": [
-        "pomoć", 
+    "💁‍♀️": [
+        "žena", 
         "ruka", 
+        "ruke", 
+        "gestikulacija", 
+        "pomoć", 
         "informacije", 
+        "žena otkriva namere", 
         "osoba koja daje informacije"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "muškarac otkriva namere", 
+        "gestikulacija", 
+        "ruke", 
+        "informacije", 
+        "muškarac"
+    ], 
+    "💂‍♀️": [
+        "žena", 
         "stražar", 
-        "čuvar"
+        "čuvar", 
+        "gardistkinja"
+    ], 
+    "💂‍♂️": [
+        "stražar", 
+        "čuvar", 
+        "muškarac", 
+        "gardista"
     ], 
     "💃": [
+        "tip kože 1–2", 
+        "plesačica: tip kože 1–2", 
+        "plesačica: tip kože 6", 
+        "plesačica: tip kože 5", 
+        "plesačica: tip kože 4", 
         "plesanje", 
-        "plesačica"
+        "plesačica", 
+        "plesačica: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6"
     ], 
     "💄": [
         "karmin", 
@@ -3839,24 +5432,53 @@
         "kozmetika"
     ], 
     "💅": [
+        "tip kože 1–2", 
+        "lak za nokte: tip kože 6", 
         "manikir", 
+        "lak za nokte: tip kože 5", 
         "nokti", 
+        "lak za nokte: tip kože 3", 
         "lak", 
+        "lak za nokte: tip kože 4", 
+        "lak za nokte: tip kože 1–2", 
+        "tip kože 3", 
+        "tip kože 4", 
         "telo", 
+        "tip kože 6", 
         "kozmetika", 
         "nega", 
-        "lak za nokte"
+        "lak za nokte", 
+        "tip kože 5"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "žena", 
         "salon", 
         "masaža", 
+        "ženska masaža lica", 
+        "lice", 
         "masaža lica"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "muška masaža lica", 
+        "masaža", 
+        "lice", 
+        "salon", 
+        "muškarac"
+    ], 
+    "💇‍♀️": [
+        "žena", 
+        "salon", 
+        "frizer", 
+        "ulepšavanje", 
+        "žensko šišanje", 
+        "šišanje"
+    ], 
+    "💇‍♂️": [
         "ulepšavanje", 
         "salon", 
-        "šišanje", 
-        "frizer"
+        "muško šišanje", 
+        "frizer", 
+        "muškarac"
     ], 
     "💈": [
         "stub", 
@@ -3905,23 +5527,11 @@
         "dragulj", 
         "romantika"
     ], 
-    "💏": [
-        "poljubac", 
-        "par", 
-        "romantika"
-    ], 
     "💐": [
         "buket", 
         "cvet", 
         "romantika", 
         "biljka"
-    ], 
-    "💑": [
-        "par", 
-        "par sa srcem", 
-        "ljubav", 
-        "srce", 
-        "romantika"
     ], 
     "💒": [
         "crkva", 
@@ -4064,10 +5674,20 @@
         "izmet"
     ], 
     "💪": [
-        "mišić", 
+        "tip kože 1–2", 
         "biceps", 
-        "stegnuti biceps", 
         "stegnut", 
+        "mišić", 
+        "stegnuti biceps", 
+        "tip kože 6", 
+        "stegnuti biceps: tip kože 1–2", 
+        "stegnuti biceps: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "stegnuti biceps: tip kože 4", 
+        "stegnuti biceps: tip kože 5", 
+        "stegnuti biceps: tip kože 6", 
         "telo"
     ], 
     "💫": [
@@ -4539,6 +6159,13 @@
         "video kaseta", 
         "vhs"
     ], 
+    "📽️": [
+        "filmski projektor", 
+        "video", 
+        "film", 
+        "bioskop", 
+        "projektor"
+    ], 
     "📿": [
         "perle", 
         "molitva", 
@@ -4912,6 +6539,17 @@
         "dugme", 
         "dole"
     ], 
+    "🕉️": [
+        "religija", 
+        "om", 
+        "hinduizam"
+    ], 
+    "🕊️": [
+        "golubica", 
+        "ptica", 
+        "letenje", 
+        "mir"
+    ], 
     "🕋": [
         "religija", 
         "kaba", 
@@ -5141,32 +6779,244 @@
         "12:30", 
         "sat"
     ], 
+    "🕯️": [
+        "svetlo", 
+        "sveća"
+    ], 
+    "🕰️": [
+        "stoni sat", 
+        "sat"
+    ], 
+    "🕳️": [
+        "rupa"
+    ], 
+    "🕴️": [
+        "muškarac u poslovnom odelu koji lebdi", 
+        "odelo", 
+        "posao", 
+        "muškarac"
+    ], 
+    "🕵️‍♂️": [
+        "špijun", 
+        "inspektor", 
+        "detektiv"
+    ], 
+    "🕶️": [
+        "naočari za sunce", 
+        "tamno", 
+        "naočari", 
+        "oko"
+    ], 
+    "🕷️": [
+        "insekt", 
+        "pauk"
+    ], 
+    "🕸️": [
+        "mreža", 
+        "paukova mreža", 
+        "pauk"
+    ], 
+    "🕹️": [
+        "džojstik", 
+        "video igra", 
+        "igra"
+    ], 
     "🕺": [
+        "tip kože 1–2", 
+        "plesač: tip kože 4", 
+        "plesač: tip kože 6", 
         "ples", 
+        "plesač: tip kože 3", 
+        "tip kože 4", 
+        "plesač: tip kože 5", 
+        "tip kože 3", 
         "čovek", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "plesač: tip kože 1–2", 
         "plesač"
+    ], 
+    "🖇️": [
+        "veza", 
+        "spajalica", 
+        "povezane spajalice"
+    ], 
+    "🖊️": [
+        "hemijska olovka"
+    ], 
+    "🖋️": [
+        "pero", 
+        "nalivpero"
+    ], 
+    "🖌️": [
+        "slikarska četkica", 
+        "slikanje"
+    ], 
+    "🖍️": [
+        "voštana bojica"
+    ], 
+    "🖐️": [
+        "rašireno", 
+        "ruka", 
+        "šaka sa raširenim prstima", 
+        "prst", 
+        "šaka", 
+        "telo"
     ], 
     "🖕": [
         "srednji prst", 
-        "šaka", 
+        "tip kože 1–2", 
         "ruka", 
-        "telo", 
-        "prst"
+        "srednji prst: tip kože 4", 
+        "srednji prst: tip kože 5", 
+        "srednji prst: tip kože 6", 
+        "prst", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "srednji prst: tip kože 1–2", 
+        "šaka", 
+        "srednji prst: tip kože 3", 
+        "telo"
     ], 
     "🖖": [
+        "tip kože 1–2", 
+        "tip kože 5", 
         "ruka", 
+        "tip kože 6", 
+        "tip kože 3", 
+        "vulkanski pozdrav: tip kože 6", 
         "prst", 
+        "vulkanski pozdrav: tip kože 3", 
         "spok", 
+        "tip kože 4", 
         "vulkanski pozdrav", 
+        "vulkanski pozdrav: tip kože 5", 
+        "vulkanski pozdrav: tip kože 4", 
         "šaka", 
         "vulkan", 
-        "telo"
+        "telo", 
+        "vulkanski pozdrav: tip kože 1–2"
     ], 
     "🖤": [
         "ljubomora", 
         "crno srce", 
         "crno", 
         "srce"
+    ], 
+    "🖥️": [
+        "stoni računar", 
+        "računar"
+    ], 
+    "🖨️": [
+        "računar", 
+        "štampač"
+    ], 
+    "🖱️": [
+        "tri", 
+        "miš", 
+        "računar", 
+        "3", 
+        "računarski miš", 
+        "dugme"
+    ], 
+    "🖲️": [
+        "kuglica za kretanje", 
+        "računar"
+    ], 
+    "🖼️": [
+        "muzej", 
+        "ram", 
+        "ram sa slikom", 
+        "umetnost", 
+        "slikarstvo", 
+        "slika"
+    ], 
+    "🗂️": [
+        "indeks", 
+        "razdelnici za katalog kartica", 
+        "kartica", 
+        "razdelnik"
+    ], 
+    "🗃️": [
+        "kutija sa karticama", 
+        "kutija", 
+        "dokument", 
+        "kartica"
+    ], 
+    "🗄️": [
+        "kartoteka", 
+        "ormar", 
+        "ormar za kartoteku"
+    ], 
+    "🗑️": [
+        "korpa za đubre", 
+        "đubre", 
+        "korpa"
+    ], 
+    "🗒️": [
+        "beleška", 
+        "beležnica sa spiralom", 
+        "blok", 
+        "spirala"
+    ], 
+    "🗓️": [
+        "kalendar", 
+        "blok", 
+        "kalendar sa spiralom", 
+        "spirala"
+    ], 
+    "🗜️": [
+        "alat", 
+        "stega"
+    ], 
+    "🗝️": [
+        "znak", 
+        "staro", 
+        "stari ključ", 
+        "ključ", 
+        "brava"
+    ], 
+    "🗞️": [
+        "vesti", 
+        "novine", 
+        "umotano", 
+        "umotane novine", 
+        "papir"
+    ], 
+    "🗡️": [
+        "oružje", 
+        "nož", 
+        "bodež"
+    ], 
+    "🗣️": [
+        "silueta", 
+        "govor", 
+        "glava", 
+        "lice", 
+        "glava koja govori"
+    ], 
+    "🗨️": [
+        "govor", 
+        "oblačić za govor usmeren nalevo", 
+        "dijalog"
+    ], 
+    "🗯️": [
+        "oblačić za ljutiti govor", 
+        "bes", 
+        "oblačić", 
+        "ljutnja"
+    ], 
+    "🗳️": [
+        "kutija", 
+        "glasačka kutija sa listićem", 
+        "glasanje"
+    ], 
+    "🗺️": [
+        "svet", 
+        "karta", 
+        "mapa sveta"
     ], 
     "🗻": [
         "planina fudži", 
@@ -5656,28 +7506,60 @@
         "lice koje koluta očima", 
         "oči"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
+        "žena", 
         "ruka", 
         "nema", 
+        "ruke", 
+        "gestikulacija", 
         "pokret", 
         "ne", 
         "osoba koja pokazuje „ne“", 
-        "zabranjeno"
+        "zabranjeno", 
+        "žena pokazuje „ne“"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "ruke", 
+        "gestikulacija", 
+        "muškarac pokazuje „ne“", 
+        "ne", 
+        "muškarac"
+    ], 
+    "🙆‍♀️": [
+        "žena", 
         "ruka", 
         "ok", 
         "u redu", 
+        "gestikulacija", 
         "osoba koja pokazuje „u redu“", 
         "pokret", 
-        "dobro"
+        "žena pokazuje „ok“", 
+        "dobro", 
+        "ruke"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "gestikulacija", 
+        "ruke", 
+        "muškarac pokazuje „ok“", 
+        "ok", 
+        "muškarac"
+    ], 
+    "🙇‍♀️": [
+        "žena", 
+        "gestikulacija", 
+        "naklon", 
+        "izvinjenje", 
+        "ženski duboki naklon"
+    ], 
+    "🙇‍♂️": [
+        "naklon", 
+        "izvinjenje", 
         "klanjanje", 
         "kretanje", 
-        "naklon", 
+        "muškarac", 
+        "gestikulacija", 
         "osoba koja se klanja", 
-        "izvinjenje"
+        "muški duboki naklon"
     ], 
     "🙈": [
         "zlo", 
@@ -5709,41 +7591,87 @@
         "zabranjeno", 
         "zlo"
     ], 
-    "🙋": [
-        "kretanje", 
+    "🙋‍♀️": [
+        "žena", 
         "ruka", 
+        "žena podiže ruku", 
+        "ruke", 
+        "gestikulacija", 
+        "kretanje", 
         "podići", 
+        "srećna osoba sa podignutom rukom", 
         "sreća", 
-        "srećna osoba sa podignutom rukom"
+        "informacije"
+    ], 
+    "🙋‍♂️": [
+        "gestikulacija", 
+        "muškarac podiže ruku", 
+        "informacije", 
+        "ruke", 
+        "muškarac"
     ], 
     "🙌": [
         "slava", 
+        "tip kože 1–2", 
         "ura", 
         "ruke", 
         "podignute ruke", 
         "bravo", 
         "podići", 
-        "pokret"
+        "pokret", 
+        "podignute ruke: tip kože 1–2", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "podignute ruke: tip kože 3", 
+        "podignute ruke: tip kože 4", 
+        "podignute ruke: tip kože 5", 
+        "podignute ruke: tip kože 6"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "namrštena osoba", 
+        "žena", 
         "kretanje", 
-        "mrštenje"
+        "mrštenje", 
+        "namrštena žena"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "namršten muškarac", 
+        "mrštenje", 
+        "muškarac"
+    ], 
+    "🙎‍♀️": [
         "durenje", 
+        "žena", 
         "kretanje", 
-        "nadurena osoba"
+        "nadurena osoba", 
+        "nadurena žena"
+    ], 
+    "🙎‍♂️": [
+        "durenje", 
+        "naduren muškarac", 
+        "muškarac"
     ], 
     "🙏": [
+        "tip kože 1–2", 
         "molitva", 
+        "tip kože 3", 
         "ruke", 
+        "spojeni dlanovi: tip kože 1–2", 
         "kretanje", 
         "zahvalnost", 
         "naklon", 
         "spojeni dlanovi", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "spojeni dlanovi: tip kože 5", 
+        "spojeni dlanovi: tip kože 4", 
+        "tip kože 4", 
+        "spojeni dlanovi: tip kože 6", 
         "moljenje", 
-        "telo"
+        "telo", 
+        "spojeni dlanovi: tip kože 3"
     ], 
     "🚀": [
         "vozilo", 
@@ -5947,9 +7875,18 @@
         "brod", 
         "vozilo"
     ], 
-    "🚣": [
-        "vozilo", 
+    "🚣‍♀️": [
+        "veslanje", 
+        "veslačica", 
+        "žena", 
+        "čamac"
+    ], 
+    "🚣‍♂️": [
         "čamac", 
+        "veslanje", 
+        "vozilo", 
+        "veslač", 
+        "muškarac", 
         "čamac na vesla"
     ], 
     "🚤": [
@@ -6045,21 +7982,46 @@
         "saobraćaj", 
         "zabranjeno"
     ], 
-    "🚴": [
-        "osoba na biciklu", 
-        "bicikl"
-    ], 
-    "🚵": [
-        "osoba na brdskom biciklu", 
+    "🚴‍♀️": [
+        "žena", 
         "biciklista", 
-        "brdo", 
         "bicikl", 
-        "planina"
+        "biciklistkinja"
     ], 
-    "🚶": [
+    "🚴‍♂️": [
+        "biciklista", 
+        "osoba na biciklu", 
+        "bicikl", 
+        "muškarac"
+    ], 
+    "🚵‍♀️": [
+        "žena", 
+        "biciklista", 
+        "bicikl", 
+        "planina", 
+        "brdska biciklistkinja"
+    ], 
+    "🚵‍♂️": [
+        "brdo", 
+        "planina", 
+        "biciklista", 
+        "bicikl", 
+        "brdski biciklista", 
+        "osoba na brdskom biciklu", 
+        "muškarac"
+    ], 
+    "🚶‍♀️": [
+        "žena", 
+        "šetanje", 
+        "hodanje", 
+        "žena hoda"
+    ], 
+    "🚶‍♂️": [
         "pešak", 
         "šetanje", 
-        "hodanje"
+        "hodanje", 
+        "muškarac hoda", 
+        "muškarac"
     ], 
     "🚷": [
         "nema", 
@@ -6111,8 +8073,18 @@
         "tuš"
     ], 
     "🛀": [
-        "osoba koja se kupa", 
+        "tip kože 1–2", 
+        "osoba koja se kupa: tip kože 1–2", 
         "kada", 
+        "osoba koja se kupa: tip kože 3", 
+        "osoba koja se kupa: tip kože 4", 
+        "osoba koja se kupa: tip kože 5", 
+        "osoba koja se kupa: tip kože 6", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "osoba koja se kupa", 
         "kupanje"
     ], 
     "🛁": [
@@ -6138,10 +8110,43 @@
         "prtljag", 
         "ostavljeni prtljag"
     ], 
+    "🛋️": [
+        "kauč", 
+        "hotel", 
+        "lampa", 
+        "kauč i lampa"
+    ], 
     "🛌": [
+        "tip kože 1–2", 
+        "osoba u krevetu: tip kože 1–2", 
+        "hotel", 
+        "osoba u krevetu: tip kože 4", 
+        "osoba u krevetu: tip kože 5", 
+        "osoba u krevetu: tip kože 6", 
+        "spavanje", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "osoba u krevetu: tip kože 3", 
+        "tip kože 6", 
+        "osoba u krevetu", 
+        "tip kože 5"
+    ], 
+    "🛍️": [
+        "kupovanje", 
+        "torbe za kupovinu", 
+        "hotel", 
+        "torba"
+    ], 
+    "🛎️": [
+        "recepcija", 
+        "zvono", 
+        "hotel", 
+        "zvono na recepciji"
+    ], 
+    "🛏️": [
         "spavanje", 
         "hotel", 
-        "osoba u krevetu"
+        "krevet"
     ], 
     "🛐": [
         "verski objekat", 
@@ -6162,6 +8167,41 @@
         "korpa", 
         "kolica za kupovinu"
     ], 
+    "🛠️": [
+        "čekić i francuski ključ", 
+        "francuski ključ", 
+        "alat", 
+        "čekić"
+    ], 
+    "🛡️": [
+        "štit", 
+        "oružje"
+    ], 
+    "🛢️": [
+        "bure", 
+        "bure nafte", 
+        "nafta"
+    ], 
+    "🛣️": [
+        "put", 
+        "autoput"
+    ], 
+    "🛤️": [
+        "železnica", 
+        "železnička pruga", 
+        "voz"
+    ], 
+    "🛥️": [
+        "vozilo", 
+        "čamac", 
+        "motor", 
+        "jahta"
+    ], 
+    "🛩️": [
+        "mali avion", 
+        "vozilo", 
+        "avion"
+    ], 
     "🛫": [
         "poletanje aviona", 
         "odlazak", 
@@ -6176,6 +8216,17 @@
         "vozilo", 
         "avion", 
         "dolazak"
+    ], 
+    "🛰️": [
+        "vozilo", 
+        "svemir", 
+        "satelit"
+    ], 
+    "🛳️": [
+        "brod", 
+        "vozilo", 
+        "putnički brod", 
+        "putnik"
     ], 
     "🛴": [
         "trotinet"
@@ -6248,36 +8299,86 @@
         "grljenje"
     ], 
     "🤘": [
+        "tip kože 1–2", 
         "ruka", 
+        "znak rogova: tip kože 1–2", 
         "rogovi", 
         "metal", 
         "prst", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "znak rogova: tip kože 3", 
+        "tip kože 6", 
         "znak rogova", 
+        "znak rogova: tip kože 5", 
+        "znak rogova: tip kože 4", 
         "šaka", 
-        "telo"
+        "znak rogova: tip kože 6", 
+        "telo", 
+        "tip kože 5"
     ], 
     "🤙": [
+        "tip kože 1–2", 
         "znak rukom za telefon", 
-        "zovi", 
         "ruka", 
-        "telefon"
+        "znak rukom za telefon: tip kože 1–2", 
+        "telefon", 
+        "zovi", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "znak rukom za telefon: tip kože 6", 
+        "znak rukom za telefon: tip kože 5", 
+        "znak rukom za telefon: tip kože 4", 
+        "znak rukom za telefon: tip kože 3"
     ], 
     "🤚": [
         "podignuto", 
-        "dlan", 
+        "tip kože 1–2", 
         "podignut dlan", 
+        "podignut dlan: tip kože 6", 
+        "dlan", 
+        "podignut dlan: tip kože 4", 
+        "podignut dlan: tip kože 5", 
+        "podignut dlan: tip kože 3", 
+        "podignut dlan: tip kože 1–2", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "stani", 
         "šaka"
     ], 
     "🤛": [
-        "ulevo", 
+        "tip kože 1–2", 
+        "pesnica ulevo: tip kože 1–2", 
         "pesnica ulevo", 
-        "pesnica"
+        "ulevo", 
+        "tip kože 3", 
+        "pesnica", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "tip kože 4", 
+        "pesnica ulevo: tip kože 3", 
+        "pesnica ulevo: tip kože 5", 
+        "pesnica ulevo: tip kože 4", 
+        "pesnica ulevo: tip kože 6"
     ], 
     "🤜": [
         "udesno", 
+        "tip kože 1–2", 
+        "tip kože 6", 
+        "pesnica udesno", 
+        "pesnica udesno: tip kože 3", 
+        "tip kože 3", 
         "pesnica", 
-        "pesnica udesno"
+        "tip kože 5", 
+        "pesnica udesno: tip kože 5", 
+        "pesnica udesno: tip kože 4", 
+        "tip kože 4", 
+        "pesnica udesno: tip kože 1–2", 
+        "pesnica udesno: tip kože 6"
     ], 
     "🤝": [
         "rešeno", 
@@ -6287,17 +8388,37 @@
         "sastanak"
     ], 
     "🤞": [
+        "tip kože 1–2", 
+        "tip kože 5", 
         "obećanje", 
+        "tip kože 6", 
         "želja", 
         "prsti", 
+        "prekršteni prsti: tip kože 6", 
+        "prekršteni prsti: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
         "prekršteni prsti", 
+        "prekršteni prsti: tip kože 5", 
+        "prekršteni prsti: tip kože 4", 
         "katanac", 
-        "sreća"
+        "sreća", 
+        "prekršteni prsti: tip kože 1–2"
     ], 
     "🤟": [
-        "pokret volim te", 
+        "tip kože 1–2", 
+        "pokret volim te: tip kože 1–2", 
         "ruka", 
-        "volim te"
+        "tip kože 6", 
+        "pokret volim te", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "volim te", 
+        "pokret volim te: tip kože 3", 
+        "pokret volim te: tip kože 4", 
+        "pokret volim te: tip kože 5", 
+        "pokret volim te: tip kože 6"
     ], 
     "🤠": [
         "šešir", 
@@ -6337,10 +8458,34 @@
         "nos"
     ], 
     "🤦": [
-        "čelo", 
+        "tip kože 1–2", 
         "šaka o čelo", 
+        "tip kože 3", 
+        "čelo", 
+        "šaka o čelo: tip kože 4", 
+        "glupost", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "šaka o čelo: tip kože 1–2", 
+        "šaka o čelo: tip kože 5", 
+        "šaka o čelo: tip kože 6", 
+        "kajanje", 
+        "šaka o čelo: tip kože 3"
+    ], 
+    "🤦‍♀️": [
+        "žena", 
+        "gestikulacija", 
+        "žena s rukom na čelu", 
         "glupost", 
         "kajanje"
+    ], 
+    "🤦‍♂️": [
+        "muškarac s rukom na čelu", 
+        "gestikulacija", 
+        "glupost", 
+        "kajanje", 
+        "muškarac"
     ], 
     "🤧": [
         "nazdravlje", 
@@ -6390,57 +8535,199 @@
     ], 
     "🤰": [
         "žena", 
+        "tip kože 1–2", 
+        "trudnica: tip kože 3", 
+        "trudnica: tip kože 1–2", 
+        "trudnica: tip kože 6", 
+        "trudnica: tip kože 4", 
+        "trudnica: tip kože 5", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "trudnica"
     ], 
     "🤱": [
         "grudi", 
+        "tip kože 1–2", 
+        "dojenje: tip kože 4", 
+        "dojenje: tip kože 5", 
         "beba", 
+        "dojenje: tip kože 3", 
+        "dojenje: tip kože 1–2", 
+        "dojenje: tip kože 6", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "dojenje"
     ], 
     "🤲": [
+        "tip kože 1–2", 
+        "dlanovi nagore zajedno: tip kože 1–2", 
+        "molitva", 
+        "dlanovi nagore zajedno: tip kože 4", 
+        "dlanovi nagore zajedno: tip kože 5", 
+        "dlanovi nagore zajedno: tip kože 6", 
         "dlanovi nagore zajedno", 
-        "molitva"
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "dlanovi nagore zajedno: tip kože 3"
     ], 
     "🤳": [
+        "tip kože 1–2", 
         "ruka", 
-        "slikanje", 
+        "selfi", 
         "telefon", 
-        "selfi"
+        "selfi: tip kože 1–2", 
+        "slikanje", 
+        "tip kože 4", 
+        "tip kože 3", 
+        "tip kože 6", 
+        "selfi: tip kože 3", 
+        "selfi: tip kože 5", 
+        "selfi: tip kože 6", 
+        "selfi: tip kože 4", 
+        "tip kože 5"
     ], 
     "🤴": [
-        "princ"
+        "tip kože 1–2", 
+        "princ: tip kože 4", 
+        "princ: tip kože 6", 
+        "princ: tip kože 3", 
+        "princ", 
+        "princ: tip kože 5", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "princ: tip kože 1–2"
     ], 
     "🤵": [
-        "smoking", 
-        "mladoženja", 
+        "tip kože 1–2", 
+        "tip kože 4", 
+        "tip kože 6", 
+        "čovek u smokingu: tip kože 6", 
+        "čovek u smokingu: tip kože 5", 
+        "čovek u smokingu: tip kože 4", 
+        "tip kože 3", 
         "čovek", 
-        "čovek u smokingu"
+        "tip kože 5", 
+        "čovek u smokingu: tip kože 3", 
+        "smoking", 
+        "čovek u smokingu", 
+        "čovek u smokingu: tip kože 1–2", 
+        "mladoženja"
     ], 
     "🤶": [
-        "baka Mraz", 
+        "tip kože 1–2", 
         "božić", 
         "mraz", 
+        "baka Mraz: tip kože 1–2", 
+        "baka Mraz: tip kože 4", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "baka Mraz", 
+        "baka Mraz: tip kože 5", 
+        "baka Mraz: tip kože 6", 
+        "baka Mraz: tip kože 3", 
         "baka"
     ], 
     "🤷": [
-        "sleganje ramenima", 
-        "sumnja", 
-        "nznm", 
+        "tip kože 1–2", 
+        "sleganje ramenima: tip kože 4", 
+        "sleganje ramenima: tip kože 6", 
         "ravnodušnost", 
-        "neznanje"
+        "tip kože 3", 
+        "sleganje ramenima: tip kože 3", 
+        "neznanje", 
+        "sleganje ramenima: tip kože 5", 
+        "sleganje ramenima", 
+        "sleganje ramenima: tip kože 1–2", 
+        "nznm", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "sumnja"
+    ], 
+    "🤷‍♀️": [
+        "žena", 
+        "gestikulacija", 
+        "ravnodušnost", 
+        "neznanje", 
+        "žena sleže ramenima"
+    ], 
+    "🤷‍♂️": [
+        "gestikulacija", 
+        "muškarac sleže ramenima", 
+        "ravnodušnost", 
+        "neznanje", 
+        "muškarac"
     ], 
     "🤸": [
+        "tip kože 1–2", 
+        "gimnastičarska zvezda: tip kože 6", 
         "gimnastičarska zvezda", 
+        "gimnastika", 
+        "akrobata", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "gimnastičarska zvezda: tip kože 3", 
+        "tip kože 6", 
+        "gimnastičarska zvezda: tip kože 4", 
+        "gimnastičarska zvezda: tip kože 5", 
+        "gimnastičarska zvezda: tip kože 1–2", 
         "sport", 
+        "zvezda", 
+        "tip kože 5"
+    ], 
+    "🤸‍♀️": [
+        "žena", 
+        "zvezda", 
+        "gimnastika", 
+        "gimnastičarka", 
+        "akrobata"
+    ], 
+    "🤸‍♂️": [
+        "muškarac", 
+        "gimnastičar", 
         "zvezda", 
         "gimnastika", 
         "akrobata"
     ], 
     "🤹": [
+        "tip kože 1–2", 
         "osoba žonglira", 
+        "tip kože 6", 
+        "tip kože 3", 
+        "veština", 
+        "osoba žonglira: tip kože 3", 
+        "osoba žonglira: tip kože 6", 
+        "osoba žonglira: tip kože 4", 
+        "osoba žonglira: tip kože 5", 
         "cirkus", 
         "žongliranje", 
+        "tip kože 5", 
+        "osoba žonglira: tip kože 1–2", 
+        "tip kože 4"
+    ], 
+    "🤹‍♀️": [
+        "žena", 
+        "žongliranje", 
+        "cirkus", 
+        "žonglerka", 
         "veština"
+    ], 
+    "🤹‍♂️": [
+        "žongliranje", 
+        "žongler", 
+        "cirkus", 
+        "veština", 
+        "muškarac"
     ], 
     "🤺": [
         "sport", 
@@ -6455,16 +8742,77 @@
         "rvanje", 
         "rvači"
     ], 
+    "🤼‍♀️": [
+        "žene", 
+        "sport", 
+        "rvanje", 
+        "rvačice", 
+        "rvači"
+    ], 
+    "🤼‍♂️": [
+        "sport", 
+        "rvači", 
+        "rvanje", 
+        "muškarci"
+    ], 
     "🤽": [
+        "tip kože 1–2", 
+        "vaterpolo: tip kože 6", 
+        "vaterpolo: tip kože 5", 
+        "vaterpolo: tip kože 1–2", 
+        "vaterpolo: tip kože 3", 
+        "tip kože 6", 
+        "tip kože 3", 
+        "voda", 
         "vaterpolo", 
         "bazen", 
-        "sport", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "vaterpolo: tip kože 4", 
+        "sport"
+    ], 
+    "🤽‍♀️": [
+        "žena", 
+        "vaterpolo", 
+        "bazen", 
+        "vaterpolistkinja", 
         "voda"
     ], 
+    "🤽‍♂️": [
+        "vaterpolista", 
+        "vaterpolo", 
+        "bazen", 
+        "voda", 
+        "muškarac"
+    ], 
     "🤾": [
+        "tip kože 1–2", 
+        "tip kože 5", 
+        "rukomet: tip kože 1–2", 
+        "rukomet", 
+        "rukomet: tip kože 6", 
+        "rukomet: tip kože 4", 
+        "rukomet: tip kože 5", 
+        "rukomet: tip kože 3", 
         "lopta", 
         "osoba", 
+        "tip kože 4", 
+        "tip kože 3", 
+        "tip kože 6", 
         "sport", 
+        "bacanje"
+    ], 
+    "🤾‍♀️": [
+        "žena", 
+        "lopta", 
+        "rukometašica", 
+        "rukomet", 
+        "bacanje"
+    ], 
+    "🤾‍♂️": [
+        "lopta", 
+        "rukometaš", 
+        "muškarac", 
         "rukomet", 
         "bacanje"
     ], 
@@ -6802,73 +9150,184 @@
         "lice sa monoklom"
     ], 
     "🧑": [
+        "tip kože 1–2", 
         "neutralan pol", 
-        "odrasla osoba"
+        "odrasla osoba: tip kože 1–2", 
+        "odrasla osoba", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "odrasla osoba: tip kože 3", 
+        "odrasla osoba: tip kože 5", 
+        "odrasla osoba: tip kože 4", 
+        "odrasla osoba: tip kože 6"
     ], 
     "🧒": [
+        "tip kože 1–2", 
+        "dete: tip kože 1–2", 
+        "dete: tip kože 6", 
         "dete", 
-        "mladost"
+        "dete: tip kože 3", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "dete: tip kože 4", 
+        "mladost", 
+        "dete: tip kože 5"
     ], 
     "🧓": [
+        "tip kože 1–2", 
+        "starija odrasla osoba: tip kože 1–2", 
+        "tip kože 4", 
+        "starija odrasla osoba: tip kože 4", 
         "neutralan pol", 
-        "starija odrasla osoba", 
-        "starost"
+        "starost", 
+        "starija odrasla osoba: tip kože 6", 
+        "starija odrasla osoba: tip kože 5", 
+        "tip kože 3", 
+        "starija odrasla osoba: tip kože 3", 
+        "tip kože 5", 
+        "tip kože 6", 
+        "starija odrasla osoba"
     ], 
     "🧔": [
+        "tip kože 1–2", 
+        "osoba sa bradom: tip kože 3", 
+        "osoba sa bradom: tip kože 6", 
+        "osoba sa bradom: tip kože 4", 
+        "osoba sa bradom: tip kože 5", 
+        "tip kože 3", 
+        "tip kože 4", 
+        "tip kože 5", 
+        "tip kože 6", 
         "osoba sa bradom", 
-        "brada"
+        "brada", 
+        "osoba sa bradom: tip kože 1–2"
     ], 
     "🧕": [
+        "tip kože 1–2", 
+        "žena sa maramom na glavi: tip kože 1–2", 
+        "marama za na glavu", 
         "žena sa maramom na glavi", 
+        "žena sa maramom na glavi: tip kože 5", 
+        "žena sa maramom na glavi: tip kože 6", 
+        "žena sa maramom na glavi: tip kože 3", 
+        "žena sa maramom na glavi: tip kože 4", 
+        "tip kože 3", 
         "hidžab", 
-        "marama za na glavu"
+        "tip kože 5", 
+        "tip kože 6", 
+        "tip kože 4"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "žena u parnom kupatilu", 
+        "parno kupatilo", 
+        "sauna"
+    ], 
+    "🧖‍♂️": [
+        "muškarac u parnom kupatilu", 
         "parno kupatilo", 
         "osoba u parnom kupatilu", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "penjačica", 
         "penjanje", 
+        "penjač", 
+        "žena se penje"
+    ], 
+    "🧗‍♂️": [
+        "muškarac se penje", 
         "penjač"
     ], 
-    "🧘": [
+    "🧘‍♀️": [
         "joga", 
         "meditacija", 
-        "lotus poza"
+        "lotus poza", 
+        "žena u lotus pozi"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "joga", 
+        "meditacija", 
+        "muškarac u lotus pozi"
+    ], 
+    "🧙‍♀️": [
+        "čarobnica", 
         "veštica", 
         "čarobnjak", 
         "mag"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "veštac", 
+        "čarobnjak"
+    ], 
+    "🧚‍♀️": [
         "Titanija", 
         "vila", 
         "Oberon", 
-        "Pak"
+        "Pak", 
+        "žena vila"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Oberon", 
+        "Pak", 
+        "vilenjak"
+    ], 
+    "🧛‍♀️": [
         "Drakula", 
         "vampir", 
+        "ženski vampir", 
         "povampiren"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "muški vampir", 
+        "Drakula", 
+        "povampiren"
+    ], 
+    "🧜‍♀️": [
         "sirena", 
+        "žena iz mora"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
+        "sirena", 
+        "muškarac iz mora", 
         "osoba iz mora"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "magična žena", 
+        "žena vilovnjak"
+    ], 
+    "🧝‍♂️": [
+        "muškarac vilovnjak", 
         "vilovnjak", 
+        "magičan muškarac", 
         "magično"
     ], 
-    "🧞": [
-        "džin", 
-        "dobri duh"
+    "🧞‍♀️": [
+        "ženski dobri duh", 
+        "ženski džin"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "muški džin", 
+        "džin", 
+        "dobri duh", 
+        "muški dobri duh"
+    ], 
+    "🧟‍♀️": [
         "povampiren", 
         "hodajući mrtvac", 
-        "zombi"
+        "žena zombi"
+    ], 
+    "🧟‍♂️": [
+        "hodajuća mrtvakinja", 
+        "hodajući mrtvac", 
+        "povampiren", 
+        "zombi", 
+        "povampirena", 
+        "muškarac zombi"
     ], 
     "🧠": [
         "mozak", 

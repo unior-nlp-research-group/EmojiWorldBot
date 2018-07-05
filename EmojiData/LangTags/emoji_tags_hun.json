@@ -1,4 +1,127 @@
 {
+    "#️⃣": [
+        "gombfej", 
+        "gombfej: #"
+    ], 
+    "*️⃣": [
+        "gombfej: *", 
+        "gombfej"
+    ], 
+    "0️⃣": [
+        "gombfej", 
+        "gombfej: 0"
+    ], 
+    "1️⃣": [
+        "gombfej", 
+        "gombfej: 1"
+    ], 
+    "2️⃣": [
+        "gombfej: 2", 
+        "gombfej"
+    ], 
+    "3️⃣": [
+        "gombfej", 
+        "gombfej: 3"
+    ], 
+    "4️⃣": [
+        "gombfej: 4", 
+        "gombfej"
+    ], 
+    "5️⃣": [
+        "gombfej: 5", 
+        "gombfej"
+    ], 
+    "6️⃣": [
+        "gombfej: 6", 
+        "gombfej"
+    ], 
+    "7️⃣": [
+        "gombfej: 7", 
+        "gombfej"
+    ], 
+    "8️⃣": [
+        "gombfej", 
+        "gombfej: 8"
+    ], 
+    "9️⃣": [
+        "gombfej", 
+        "gombfej: 9"
+    ], 
+    "©️": [
+        "védett", 
+        "copyright (szerzői jog által védett)", 
+        "szerzői jog"
+    ], 
+    "®️": [
+        "bejegyzett", 
+        "védjegy", 
+        "registered (bejegyzett)"
+    ], 
+    "‼️": [
+        "központozás", 
+        "írásjel", 
+        "felkiáltás", 
+        "dupla felkiáltójel"
+    ], 
+    "⁉️": [
+        "kérdés", 
+        "központozás", 
+        "felkiáltójel kérdőjellel", 
+        "felkiáltás", 
+        "írásjel"
+    ], 
+    "™️": [
+        "tm", 
+        "bejegyzett védjegy", 
+        "védjegy"
+    ], 
+    "ℹ️": [
+        "i", 
+        "információforrás", 
+        "információ", 
+        "tájékoztatás"
+    ], 
+    "↔️": [
+        "nyíl", 
+        "balra-jobbra mutató nyíl"
+    ], 
+    "↕️": [
+        "nyíl", 
+        "fel-le mutató nyíl"
+    ], 
+    "↖️": [
+        "irány", 
+        "nyíl", 
+        "balra felfelé mutató nyíl", 
+        "északnyugat"
+    ], 
+    "↗️": [
+        "irány", 
+        "északkelet", 
+        "nyíl", 
+        "jobbra felfelé mutató nyíl", 
+        "felfelé"
+    ], 
+    "↘️": [
+        "irány", 
+        "nyíl", 
+        "délkelet", 
+        "jobbra lefelé mutató nyíl"
+    ], 
+    "↙️": [
+        "irány", 
+        "nyíl", 
+        "balra lefelé mutató nyíl", 
+        "délnyugat"
+    ], 
+    "↩️": [
+        "nyíl", 
+        "balra görbülő jobb nyíl"
+    ], 
+    "↪️": [
+        "nyíl", 
+        "jobbra görbülő bal nyíl"
+    ], 
     "⌚": [
         "óra", 
         "karóra"
@@ -8,6 +131,15 @@
         "homok", 
         "idő", 
         "homokóra"
+    ], 
+    "⌨️": [
+        "számítógép", 
+        "billentyűzet"
+    ], 
+    "⏏️": [
+        "lemez kiadása gomb", 
+        "kiadás", 
+        "gomb"
     ], 
     "⏩": [
         "dupla nyíl", 
@@ -34,17 +166,99 @@
         "lefelé", 
         "gomb"
     ], 
+    "⏭️": [
+        "következő szám gomb", 
+        "következő szám", 
+        "következő jelenet"
+    ], 
+    "⏮️": [
+        "nyíl", 
+        "előző jelenet", 
+        "legutóbbi szám gomb", 
+        "előző szám"
+    ], 
+    "⏯️": [
+        "lejátszás", 
+        "lejátszás vagy szünet gomb", 
+        "szüneteltetés"
+    ], 
     "⏰": [
         "óra", 
         "ébresztés", 
         "ébresztőóra", 
         "vekker"
     ], 
+    "⏱️": [
+        "óra", 
+        "stopper", 
+        "stopperóra"
+    ], 
+    "⏲️": [
+        "óra", 
+        "visszaszámlálás", 
+        "visszaszámláló óra", 
+        "időzítő"
+    ], 
     "⏳": [
         "homok", 
         "homokóra csordogáló homokkal", 
         "homokóra", 
         "idő"
+    ], 
+    "⏸️": [
+        "szüneteltetés gomb", 
+        "gomb", 
+        "szünet", 
+        "függőleges", 
+        "dupla vonal"
+    ], 
+    "⏹️": [
+        "leállítás gomb", 
+        "leállítás", 
+        "négyzet", 
+        "gomb"
+    ], 
+    "⏺️": [
+        "felvétel", 
+        "felvétel gomb", 
+        "kör", 
+        "gomb"
+    ], 
+    "Ⓜ️": [
+        "bekarikázott m betű", 
+        "m", 
+        "kör"
+    ], 
+    "▪️": [
+        "geometria", 
+        "kis fekete négyzet", 
+        "négyzet"
+    ], 
+    "▫️": [
+        "geometria", 
+        "kis fehér négyzet", 
+        "négyzet"
+    ], 
+    "▶️": [
+        "lejátszás", 
+        "nyíl", 
+        "jobbra nyíl", 
+        "lejátszás gomb"
+    ], 
+    "◀️": [
+        "vissza", 
+        "visszajátszás gomb", 
+        "balra nyíl"
+    ], 
+    "◻️": [
+        "geometria", 
+        "közepes fehér négyzet", 
+        "négyzet"
+    ], 
+    "◼️": [
+        "geometria", 
+        "közepes fekete négyzet", 
+        "négyzet"
     ], 
     "◽": [
         "geometria", 
@@ -54,6 +268,42 @@
     "◾": [
         "geometria", 
         "kis-közepes fekete négyzet", 
+        "négyzet"
+    ], 
+    "☀️": [
+        "nap", 
+        "időjárás", 
+        "fényes sugarak", 
+        "napos", 
+        "napsugarak"
+    ], 
+    "☁️": [
+        "időjárás", 
+        "felhő"
+    ], 
+    "☂️": [
+        "kiegészítő", 
+        "időjárás", 
+        "esernyő", 
+        "eső"
+    ], 
+    "☃️": [
+        "hó", 
+        "hideg", 
+        "időjárás", 
+        "hóember"
+    ], 
+    "☄️": [
+        "űr", 
+        "üstökös"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "jelölőnégyzet pipával", 
+        "szavazás", 
+        "pipa", 
         "négyzet"
     ], 
     "☔": [
@@ -71,6 +321,87 @@
         "gőzölgő", 
         "forró ital", 
         "forró"
+    ], 
+    "☘️": [
+        "lóhere", 
+        "növény"
+    ], 
+    "☝️": [
+        "felfelé", 
+        "mutatóujj", 
+        "kéz felfelé mutató ujjal", 
+        "kéz", 
+        "ujj", 
+        "test"
+    ], 
+    "☠️": [
+        "koponya csontokkal", 
+        "halál", 
+        "csontok", 
+        "arc", 
+        "csont", 
+        "koponya"
+    ], 
+    "☢️": [
+        "nukleáris veszély", 
+        "radioaktív"
+    ], 
+    "☣️": [
+        "biológiai", 
+        "biológiai veszély", 
+        "veszély"
+    ], 
+    "☦️": [
+        "vallás", 
+        "ortodox kereszt", 
+        "kereszt", 
+        "kereszténység"
+    ], 
+    "☪️": [
+        "iszlám", 
+        "csillag és félhold", 
+        "muszlim", 
+        "vallás"
+    ], 
+    "☮️": [
+        "béke", 
+        "békejel"
+    ], 
+    "☯️": [
+        "jin-jang", 
+        "jin", 
+        "vallás", 
+        "taoizmus", 
+        "jang", 
+        "tao"
+    ], 
+    "☸️": [
+        "dharma-kerék", 
+        "vallás", 
+        "buddhizmus", 
+        "buddha", 
+        "kerék"
+    ], 
+    "☹️": [
+        "rosszallás", 
+        "arc", 
+        "rosszalló arc"
+    ], 
+    "☺️": [
+        "nyugodt", 
+        "arc", 
+        "mosoly", 
+        "mosolygó arc"
+    ], 
+    "♀️": [
+        "női", 
+        "nem", 
+        "női nem jelképe"
+    ], 
+    "♂️": [
+        "férfi", 
+        "férfi nem jelképe", 
+        "nem"
     ], 
     "♈": [
         "horoszkóp", 
@@ -132,14 +463,104 @@
         "halak", 
         "halak csillagjegy"
     ], 
+    "♠️": [
+        "játék", 
+        "pikk szín", 
+        "szín", 
+        "francia kártya", 
+        "pikk"
+    ], 
+    "♣️": [
+        "treff", 
+        "játék", 
+        "szín", 
+        "francia kártya", 
+        "treff szín"
+    ], 
+    "♥️": [
+        "kőr szín", 
+        "kőr", 
+        "játék", 
+        "szín", 
+        "francia kártya"
+    ], 
+    "♦️": [
+        "káró szín", 
+        "játék", 
+        "szín", 
+        "francia kártya", 
+        "káró"
+    ], 
+    "♨️": [
+        "forró", 
+        "forrás", 
+        "hőforrás", 
+        "gőz"
+    ], 
+    "♻️": [
+        "újrahasznosítás szimbólum", 
+        "újra", 
+        "újrahasznosítás"
+    ], 
     "♿": [
         "kerekesszék", 
         "akadálymentesség"
+    ], 
+    "⚒️": [
+        "kalapács és csákány", 
+        "kalapács", 
+        "szerszám", 
+        "csákány"
     ], 
     "⚓": [
         "vasmacska", 
         "kikötés", 
         "hajózás"
+    ], 
+    "⚔️": [
+        "fegyver", 
+        "keresztbe tett", 
+        "keresztezett", 
+        "kardok", 
+        "keresztezett kardok"
+    ], 
+    "⚕️": [
+        "orvosi szimbólum", 
+        "orvos", 
+        "Aszklépiosz", 
+        "orvoslás", 
+        "bot"
+    ], 
+    "⚖️": [
+        "kétkarú mérleg", 
+        "tömeg", 
+        "felszerelés", 
+        "mérleg", 
+        "eszköz"
+    ], 
+    "⚗️": [
+        "lombik", 
+        "felszerelés", 
+        "kémia", 
+        "eszköz"
+    ], 
+    "⚙️": [
+        "fogaskerék", 
+        "szerszám"
+    ], 
+    "⚛️": [
+        "ateista", 
+        "atom szimbólum", 
+        "atom"
+    ], 
+    "⚜️": [
+        "Anjou", 
+        "Anjou-liliom", 
+        "liliom"
+    ], 
+    "⚠️": [
+        "figyelmeztetés", 
+        "figyelem"
     ], 
     "⚡": [
         "nagyfeszültség", 
@@ -156,6 +577,16 @@
         "fekete kör", 
         "kör", 
         "alakzat"
+    ], 
+    "⚰️": [
+        "koporsó", 
+        "halál"
+    ], 
+    "⚱️": [
+        "temetés", 
+        "halál", 
+        "halotti urna", 
+        "urna"
     ], 
     "⚽": [
         "foci", 
@@ -179,10 +610,31 @@
         "nap", 
         "nap egy felhő mögött"
     ], 
+    "⛈️": [
+        "időjárás", 
+        "felhő", 
+        "felhő villámmal és esővel", 
+        "mennydörgés", 
+        "eső"
+    ], 
     "⛎": [
         "horoszkóp", 
         "kígyótartó", 
         "csillagjegy"
+    ], 
+    "⛏️": [
+        "szerszám", 
+        "bányászat", 
+        "csákány"
+    ], 
+    "⛑️": [
+        "sisak vörös kereszttel", 
+        "sisak", 
+        "elsősegély"
+    ], 
+    "⛓️": [
+        "lánc", 
+        "láncszemek"
     ], 
     "⛔": [
         "nincs behajtás", 
@@ -192,12 +644,29 @@
         "tiltott", 
         "közlekedési tábla"
     ], 
+    "⛩️": [
+        "vallás", 
+        "szentély", 
+        "sintó szentély", 
+        "sintó"
+    ], 
     "⛪": [
         "épület", 
         "templom", 
         "kereszt", 
         "keresztény", 
         "vallás"
+    ], 
+    "⛰️": [
+        "hegy", 
+        "hegység"
+    ], 
+    "⛱️": [
+        "eső", 
+        "nap", 
+        "időjárás", 
+        "ernyő a földön", 
+        "ernyő"
     ], 
     "⛲": [
         "szökőkút"
@@ -207,6 +676,11 @@
         "golf", 
         "zászló a lyuknál"
     ], 
+    "⛴️": [
+        "komp", 
+        "hajó", 
+        "utasszállítás"
+    ], 
     "⛵": [
         "tenger", 
         "jacht", 
@@ -214,6 +688,22 @@
         "vitorlás", 
         "vitorlás hajó", 
         "vízi jármű"
+    ], 
+    "⛷️": [
+        "hó", 
+        "síelés", 
+        "téli sportok", 
+        "síelő"
+    ], 
+    "⛸️": [
+        "jég", 
+        "jégkorcsolya", 
+        "korcsolya"
+    ], 
+    "⛹️‍♂️": [
+        "sportoló", 
+        "labda", 
+        "ember labdával"
     ], 
     "⛺": [
         "sátor", 
@@ -228,27 +718,126 @@
         "kút", 
         "benzinkút"
     ], 
+    "✂️": [
+        "olló", 
+        "eszköz"
+    ], 
     "✅": [
         "pipa", 
         "jel", 
         "vastag fehér pipa"
     ], 
+    "✈️": [
+        "légi jármű", 
+        "repülőgép"
+    ], 
+    "✉️": [
+        "e-mail", 
+        "levél", 
+        "boríték"
+    ], 
     "✊": [
-        "felemelt", 
-        "test", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "felemelt ököl: sötét bőrtónus", 
+        "felemelt ököl: közepesen világos bőrtónus", 
+        "felemelt ököl: közepesen sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "felemelt ököl: világos bőrtónus", 
         "felemelt ököl", 
+        "ütés", 
+        "test", 
         "ököl", 
-        "ütés"
+        "világos bőrtónus", 
+        "felemelt", 
+        "felemelt ököl: közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "✋": [
-        "test", 
+        "felemelt kéz: közepes bőrtónus", 
+        "közepes bőrtónus", 
+        "felemelt kéz: sötét bőrtónus", 
+        "felemelt kéz: közepesen világos bőrtónus", 
         "fel", 
+        "közepesen sötét bőrtónus", 
+        "felemelt kéz: világos bőrtónus", 
+        "sötét bőrtónus", 
         "kéz", 
-        "felemelt kéz"
+        "világos bőrtónus", 
+        "test", 
+        "felemelt kéz: közepesen sötét bőrtónus", 
+        "felemelt kéz", 
+        "közepesen világos bőrtónus"
+    ], 
+    "✌️": [
+        "betű", 
+        "kéz", 
+        "kézjel", 
+        "test", 
+        "jel", 
+        "győzelmi jelet mutató kéz"
+    ], 
+    "✍️": [
+        "test", 
+        "írás", 
+        "író kéz", 
+        "kéz"
+    ], 
+    "✏️": [
+        "ceruza", 
+        "írószer"
+    ], 
+    "✒️": [
+        "írószer", 
+        "toll", 
+        "tollhegy", 
+        "fekete tollhegy"
+    ], 
+    "✔️": [
+        "pipa", 
+        "vastag pipa", 
+        "jel"
+    ], 
+    "✖️": [
+        "szorzás", 
+        "mégse", 
+        "vastag szorzásjel", 
+        "jel", 
+        "x"
+    ], 
+    "✝️": [
+        "vallás", 
+        "kereszt", 
+        "kereszténység", 
+        "latin kereszt"
+    ], 
+    "✡️": [
+        "vallás", 
+        "Dávid-csillag", 
+        "csillag", 
+        "zsidó", 
+        "Dávid"
     ], 
     "✨": [
         "csillag", 
         "szikrák", 
+        "szikra"
+    ], 
+    "✳️": [
+        "nyolcágú csillag", 
+        "csillag"
+    ], 
+    "✴️": [
+        "csillag", 
+        "nyolcas csillag"
+    ], 
+    "❄️": [
+        "hó", 
+        "hideg", 
+        "időjárás", 
+        "hópehely"
+    ], 
+    "❇️": [
         "szikra"
     ], 
     "❌": [
@@ -289,6 +878,17 @@
         "felkiáltás", 
         "felkiáltójel"
     ], 
+    "❣️": [
+        "nagy szív alakú felkiáltójel", 
+        "központozás", 
+        "írásjel", 
+        "szív"
+    ], 
+    "❤️": [
+        "piros", 
+        "szív", 
+        "vörös szív"
+    ], 
     "➕": [
         "vastag pluszjel", 
         "matematika", 
@@ -304,6 +904,13 @@
         "vastag osztásjel", 
         "matematika"
     ], 
+    "➡️": [
+        "irány", 
+        "jobbra mutató nyíl", 
+        "nyíl", 
+        "jobbra", 
+        "kelet"
+    ], 
     "➰": [
         "hurok"
     ], 
@@ -311,6 +918,36 @@
         "dupla", 
         "dupla hurok", 
         "hurok"
+    ], 
+    "⤴️": [
+        "nyíl", 
+        "felfelé görbülő jobb nyíl"
+    ], 
+    "⤵️": [
+        "nyíl", 
+        "lefelé", 
+        "lefelé görbülő jobb nyíl"
+    ], 
+    "⬅️": [
+        "irány", 
+        "nyíl", 
+        "nyugat", 
+        "balra mutató nyíl", 
+        "balra"
+    ], 
+    "⬆️": [
+        "irány", 
+        "nyíl", 
+        "felfelé mutató nyíl", 
+        "észak", 
+        "felfelé"
+    ], 
+    "⬇️": [
+        "irány", 
+        "lefelé", 
+        "nyíl", 
+        "dél", 
+        "lefelé mutató nyíl"
     ], 
     "⬛": [
         "geometria", 
@@ -331,6 +968,30 @@
         "o", 
         "kör"
     ], 
+    "〰️": [
+        "gondolatjel", 
+        "hullámos", 
+        "központozás", 
+        "hullámos gondolatjel"
+    ], 
+    "〽️": [
+        "választó", 
+        "részelválasztó", 
+        "jel"
+    ], 
+    "㊗️": [
+        "képírásjel", 
+        "gratuláció", 
+        "kínai", 
+        "gratulálok", 
+        "bekarikázott „gratuláció” képírásjel"
+    ], 
+    "㊙️": [
+        "képírásjel", 
+        "titok", 
+        "kínai", 
+        "bekarikázott „titok” képírásjel"
+    ], 
     "🀄": [
         "madzsong vörös sárkány", 
         "játék", 
@@ -341,6 +1002,25 @@
         "játék", 
         "dzsóker", 
         "francia kártya"
+    ], 
+    "🅰️": [
+        "a", 
+        "a gomb", 
+        "vértípus"
+    ], 
+    "🅱️": [
+        "b gomb", 
+        "vértípus", 
+        "b"
+    ], 
+    "🅾️": [
+        "0", 
+        "vértípus", 
+        "0 gomb"
+    ], 
+    "🅿️": [
+        "parkolás", 
+        "p gomb"
     ], 
     "🆎": [
         "ab gomb", 
@@ -1432,6 +2112,10 @@
         "bekeretezett „koko” katakana", 
         "japán"
     ], 
+    "🈂️": [
+        "bekeretezett „sa” katakana", 
+        "japán"
+    ], 
     "🈚": [
         "bekeretezett „kivonás” képírásjel", 
         "japán"
@@ -1458,6 +2142,10 @@
     ], 
     "🈶": [
         "bekeretezett „létezik” képírásjel", 
+        "japán"
+    ], 
+    "🈷️": [
+        "bekeretezett „hold” képírásjel", 
         "japán"
     ], 
     "🈸": [
@@ -1708,6 +2396,65 @@
         "csillag", 
         "hullócsillag"
     ], 
+    "🌡️": [
+        "időjárás", 
+        "hőmérő"
+    ], 
+    "🌤️": [
+        "nap egy kis felhő mögött", 
+        "időjárás", 
+        "felhő", 
+        "nap"
+    ], 
+    "🌥️": [
+        "időjárás", 
+        "felhő", 
+        "nap", 
+        "nap egy nagy felhő mögött"
+    ], 
+    "🌦️": [
+        "időjárás", 
+        "felhő", 
+        "nap", 
+        "eső", 
+        "nap a felhő mögött esővel"
+    ], 
+    "🌧️": [
+        "felhő esővel", 
+        "időjárás", 
+        "felhő", 
+        "eső"
+    ], 
+    "🌨️": [
+        "felhő hóval", 
+        "hideg", 
+        "felhő", 
+        "időjárás", 
+        "hó"
+    ], 
+    "🌩️": [
+        "felhő villámmal", 
+        "időjárás", 
+        "felhő", 
+        "villám"
+    ], 
+    "🌪️": [
+        "időjárás", 
+        "felhő", 
+        "tornádó"
+    ], 
+    "🌫️": [
+        "köd", 
+        "időjárás", 
+        "felhő"
+    ], 
+    "🌬️": [
+        "időjárás", 
+        "arc", 
+        "szél", 
+        "szeles", 
+        "szélarc"
+    ], 
     "🌭": [
         "kolbász", 
         "hot dog", 
@@ -1754,6 +2501,12 @@
     "🌵": [
         "kaktusz", 
         "növény"
+    ], 
+    "🌶️": [
+        "erős", 
+        "növény", 
+        "erőspaprika", 
+        "paprika"
     ], 
     "🌷": [
         "tulipán", 
@@ -2159,6 +2912,13 @@
         "tej", 
         "cumi"
     ], 
+    "🍽️": [
+        "tányér", 
+        "kés", 
+        "tálalás", 
+        "villa", 
+        "kés és villa tányérral"
+    ], 
     "🍾": [
         "kupak", 
         "ital", 
@@ -2215,10 +2975,20 @@
     ], 
     "🎅": [
         "ünnep", 
+        "közepes bőrtónus", 
+        "mikulás: közepesen világos bőrtónus", 
+        "mikulás: világos bőrtónus", 
         "télapó", 
+        "közepesen sötét bőrtónus", 
         "fej", 
+        "mikulás: sötét bőrtónus", 
+        "mikulás: közepes bőrtónus", 
         "arc", 
         "mikulás", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "mikulás: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
         "ünneplés"
     ], 
     "🎆": [
@@ -2323,6 +3093,49 @@
         "diplomaosztó", 
         "kalap", 
         "ünneplés"
+    ], 
+    "🎖️": [
+        "medál", 
+        "katonai", 
+        "katonai kitüntetés", 
+        "megemlékezés", 
+        "kitüntetés"
+    ], 
+    "🎗️": [
+        "emlékezés", 
+        "megemlékezés", 
+        "szalag", 
+        "emlékező szalag"
+    ], 
+    "🎙️": [
+        "zene", 
+        "stúdiómikrofon", 
+        "mikrofon", 
+        "stúdió"
+    ], 
+    "🎚️": [
+        "csúszka", 
+        "zene", 
+        "hangerő"
+    ], 
+    "🎛️": [
+        "irányítás", 
+        "zene", 
+        "vezérlőgombok", 
+        "gombok"
+    ], 
+    "🎞️": [
+        "kockák", 
+        "filmtekercs", 
+        "filmkockák", 
+        "mozi", 
+        "kocka", 
+        "film"
+    ], 
+    "🎟️": [
+        "belépőjegyek", 
+        "belépő", 
+        "jegy"
     ], 
     "🎠": [
         "ló a körhintáról", 
@@ -2510,18 +3323,47 @@
     ], 
     "🏂": [
         "hó", 
-        "snowboard", 
-        "téli sportok", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "snowboardozó: közepesen sötét bőrtónus", 
+        "snowboardozó: közepesen világos bőrtónus", 
+        "snowboardozó", 
         "hódeszka", 
-        "snowboardozó"
+        "snowboardozó: közepes bőrtónus", 
+        "snowboard", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "snowboardozó: világos bőrtónus", 
+        "téli sportok", 
+        "közepesen világos bőrtónus", 
+        "snowboardozó: sötét bőrtónus"
     ], 
-    "🏃": [
-        "futó", 
+    "🏃‍♀️": [
+        "fut", 
+        "futó nő", 
         "futás", 
-        "maraton"
+        "maraton", 
+        "verseny", 
+        "nő"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "fut", 
+        "futó", 
+        "futó férfi", 
+        "maraton", 
+        "férfi", 
+        "futás", 
+        "verseny"
+    ], 
+    "🏄‍♀️": [
+        "szörföző nő", 
+        "szörf", 
+        "nő"
+    ], 
+    "🏄‍♂️": [
+        "férfi", 
         "szörföző", 
+        "szörföző férfi", 
         "szörf"
     ], 
     "🏅": [
@@ -2534,10 +3376,20 @@
         "díj"
     ], 
     "🏇": [
-        "lóverseny", 
+        "lóverseny: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "ló", 
+        "lóverseny: közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "lóverseny: világos bőrtónus", 
+        "sötét bőrtónus", 
         "zsoké", 
         "versenyló", 
-        "ló"
+        "lóverseny: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "lóverseny", 
+        "lóverseny: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🏈": [
         "amerikai futball", 
@@ -2548,9 +3400,39 @@
         "labda", 
         "rögbi"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
         "úszás", 
-        "úszó"
+        "úszó", 
+        "úszó nő", 
+        "nő"
+    ], 
+    "🏊‍♂️": [
+        "úszás", 
+        "úszó", 
+        "úszó férfi", 
+        "férfi"
+    ], 
+    "🏋️‍♂️": [
+        "súly", 
+        "sportoló", 
+        "súlyemelő"
+    ], 
+    "🏌️‍♂️": [
+        "golfozó", 
+        "golf", 
+        "labda", 
+        "golfütő"
+    ], 
+    "🏍️": [
+        "versenyzés", 
+        "verseny", 
+        "motorkerékpár"
+    ], 
+    "🏎️": [
+        "versenyzés", 
+        "versenyautó", 
+        "autó", 
+        "verseny"
     ], 
     "🏏": [
         "ütő", 
@@ -2586,6 +3468,66 @@
         "sport", 
         "labda", 
         "pingpong"
+    ], 
+    "🏔️": [
+        "hegy hótakaróval", 
+        "hideg", 
+        "hegy", 
+        "hó"
+    ], 
+    "🏕️": [
+        "kemping", 
+        "sátorozás"
+    ], 
+    "🏖️": [
+        "tengerpart", 
+        "napernyő", 
+        "strand napernyővel", 
+        "strand"
+    ], 
+    "🏗️": [
+        "építkezés", 
+        "építés"
+    ], 
+    "🏘️": [
+        "épület", 
+        "lakóházak", 
+        "ház"
+    ], 
+    "🏙️": [
+        "város", 
+        "városkép", 
+        "épületek"
+    ], 
+    "🏚️": [
+        "épület", 
+        "elhagyatott ház", 
+        "ház", 
+        "elhagyatott"
+    ], 
+    "🏛️": [
+        "épület", 
+        "klasszikus épület", 
+        "régi", 
+        "klasszikus"
+    ], 
+    "🏜️": [
+        "kaktusz", 
+        "sivatag"
+    ], 
+    "🏝️": [
+        "sivatag", 
+        "sziget", 
+        "lakatlan sziget"
+    ], 
+    "🏞️": [
+        "védett terület", 
+        "park", 
+        "nemzeti park"
+    ], 
+    "🏟️": [
+        "sportlétesítmény", 
+        "stadion"
     ], 
     "🏠": [
         "épület", 
@@ -2681,6 +3623,16 @@
         "vár", 
         "európai"
     ], 
+    "🏳️": [
+        "lengő", 
+        "lengő fehér zászló"
+    ], 
+    "🏳️‍🌈": [
+        "szivárvány", 
+        "szivárványszínű zászló", 
+        "zászló", 
+        "szivárványszínű"
+    ], 
     "🏴": [
         "lengő", 
         "lengő fekete zászló"
@@ -2696,6 +3648,14 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "zászló", 
         "Wales"
+    ], 
+    "🏵️": [
+        "virág", 
+        "rozetta", 
+        "növény"
+    ], 
+    "🏷️": [
+        "címke"
     ], 
     "🏸": [
         "ütő", 
@@ -3048,23 +4008,51 @@
         "lábnyomok", 
         "lábak"
     ], 
+    "🐿️": [
+        "mókus", 
+        "mogyoró"
+    ], 
     "👀": [
         "test", 
         "arc", 
         "szem", 
         "szemek"
     ], 
-    "👂": [
+    "👁️": [
         "test", 
+        "szem"
+    ], 
+    "👂": [
+        "fül: közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
         "testrész", 
+        "fül", 
+        "fül: közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "fej", 
-        "fül"
+        "fül: sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "fül: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "test", 
+        "fül: világos bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👃": [
-        "test", 
-        "orr", 
+        "közepes bőrtónus", 
         "testrész", 
-        "fej"
+        "orr: sötét bőrtónus", 
+        "fej", 
+        "közepesen sötét bőrtónus", 
+        "orr", 
+        "orr: közepes bőrtónus", 
+        "orr: közepesen világos bőrtónus", 
+        "orr: világos bőrtónus", 
+        "sötét bőrtónus", 
+        "világos bőrtónus", 
+        "test", 
+        "orr: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👄": [
         "test", 
@@ -3076,84 +4064,194 @@
         "nyelv"
     ], 
     "👆": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "tenyér felfelé mutató ujjal: közepesen sötét bőrtónus", 
         "felfelé", 
+        "tenyér felfelé mutató ujjal: közepesen világos bőrtónus", 
         "mutatóujj", 
         "tenyér", 
         "tenyér felfelé mutató ujjal", 
+        "tenyér felfelé mutató ujjal: világos bőrtónus", 
+        "sötét bőrtónus", 
         "kéz", 
         "ujj", 
-        "test"
+        "világos bőrtónus", 
+        "test", 
+        "tenyér felfelé mutató ujjal: sötét bőrtónus", 
+        "tenyér felfelé mutató ujjal: közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👇": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "tenyér lefelé mutató ujjal: közepes bőrtónus", 
         "ujj", 
+        "tenyér lefelé mutató ujjal: világos bőrtónus", 
         "mutatóujj", 
         "tenyér", 
+        "tenyér lefelé mutató ujjal: közepesen világos bőrtónus", 
+        "tenyér lefelé mutató ujjal: sötét bőrtónus", 
+        "sötét bőrtónus", 
         "lefelé", 
         "kéz", 
         "tenyér lefelé mutató ujjal", 
-        "test"
+        "világos bőrtónus", 
+        "test", 
+        "tenyér lefelé mutató ujjal: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👈": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "kéz balra mutató ujjal: közepesen sötét bőrtónus", 
         "mutatóujj", 
         "tenyér", 
+        "kéz balra mutató ujjal: világos bőrtónus", 
+        "sötét bőrtónus", 
         "test", 
         "kéz", 
         "ujj", 
-        "kéz balra mutató ujjal"
+        "világos bőrtónus", 
+        "kéz balra mutató ujjal", 
+        "kéz balra mutató ujjal: közepesen világos bőrtónus", 
+        "kéz balra mutató ujjal: sötét bőrtónus", 
+        "kéz balra mutató ujjal: közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👉": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "kéz jobbra mutató ujjal: világos bőrtónus", 
+        "kéz jobbra mutató ujjal: sötét bőrtónus", 
         "mutatóujj", 
         "tenyér", 
+        "kéz jobbra mutató ujjal: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "kéz jobbra mutató ujjal: közepesen sötét bőrtónus", 
+        "sötét bőrtónus", 
         "kéz jobbra mutató ujjal", 
         "ujj", 
         "kéz", 
-        "test"
+        "test", 
+        "közepesen világos bőrtónus", 
+        "kéz jobbra mutató ujjal: közepes bőrtónus"
     ], 
     "👊": [
-        "felemelt", 
-        "test", 
         "ütésre emelt ököl", 
+        "közepes bőrtónus", 
+        "ütésre emelt ököl: sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "ütés", 
+        "test", 
+        "ütésre emelt ököl: közepes bőrtónus", 
         "ököl", 
-        "ütés"
+        "ütésre emelt ököl: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "felemelt", 
+        "ütésre emelt ököl: világos bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "ütésre emelt ököl: közepesen sötét bőrtónus"
     ], 
     "👋": [
-        "test", 
         "integetés", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "integető kéz: közepesen sötét bőrtónus", 
+        "integető kéz: közepes bőrtónus", 
+        "integető kéz: közepesen világos bőrtónus", 
+        "integető kéz: sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "integető kéz: világos bőrtónus", 
+        "kéz", 
+        "világos bőrtónus", 
+        "test", 
         "integető kéz", 
-        "kéz"
+        "közepesen világos bőrtónus"
     ], 
     "👌": [
+        "közepes bőrtónus", 
+        "ok jel: közepesen világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "ok jel: közepesen sötét bőrtónus", 
+        "ok jel: közepes bőrtónus", 
+        "kéz", 
+        "közepesen világos bőrtónus", 
+        "világos bőrtónus", 
         "test", 
         "ok jel", 
-        "kéz", 
+        "rendben", 
+        "ok jel: világos bőrtónus", 
         "oké", 
-        "rendben"
+        "ok jel: sötét bőrtónus"
     ], 
     "👍": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "felfelé mutató hüvelykujj", 
+        "felfelé mutató hüvelykujj: közepesen sötét bőrtónus", 
+        "felfelé mutató hüvelykujj: világos bőrtónus", 
+        "sötét bőrtónus", 
         "hüvelykujj felfelé", 
+        "felfelé mutató hüvelykujj: sötét bőrtónus", 
+        "felfelé mutató hüvelykujj: közepesen világos bőrtónus", 
         "kéz", 
+        "közepesen világos bőrtónus", 
+        "világos bőrtónus", 
         "test", 
         "rendben", 
+        "felfelé mutató hüvelykujj: közepes bőrtónus", 
         "oké"
     ], 
     "👎": [
+        "lefelé mutató hüvelykujj: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "lefelé mutató hüvelykujj: közepesen világos bőrtónus", 
+        "lefelé mutató hüvelykujj: világos bőrtónus", 
+        "lefelé mutató hüvelykujj: közepesen sötét bőrtónus", 
+        "hüvelykujj lefelé", 
+        "kéz", 
+        "lefelé mutató hüvelykujj: közepes bőrtónus", 
+        "világos bőrtónus", 
         "test", 
         "lefelé mutató hüvelykujj", 
-        "hüvelykujj lefelé", 
-        "kéz"
+        "közepesen világos bőrtónus"
     ], 
     "👏": [
+        "tapsoló kéz: közepesen sötét bőrtónus", 
+        "taps", 
+        "tapsoló kéz: közepesen világos bőrtónus", 
+        "tapsoló kéz: közepes bőrtónus", 
+        "tapsoló kéz: világos bőrtónus", 
+        "közepes bőrtónus", 
+        "tapsoló kéz: sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "kéz", 
+        "közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
         "test", 
         "tapsoló kéz", 
-        "taps", 
-        "kéz"
+        "közepesen világos bőrtónus"
     ], 
     "👐": [
-        "széttárt kéz", 
-        "test", 
+        "széttárt kéz: közepesen világos bőrtónus", 
+        "közepes bőrtónus", 
+        "széttárt kéz: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "széttárt kéz: közepesen sötét bőrtónus", 
+        "széttárt kéz: sötét bőrtónus", 
+        "sötét bőrtónus", 
         "kéz", 
-        "kitárva"
+        "világos bőrtónus", 
+        "test", 
+        "széttárt kéz", 
+        "kitárva", 
+        "közepesen világos bőrtónus", 
+        "széttárt kéz: közepes bőrtónus"
     ], 
     "👑": [
         "kiegészítő", 
@@ -3278,64 +4376,194 @@
         "sziluett"
     ], 
     "👦": [
+        "fiú: közepesen világos bőrtónus", 
+        "fiú: közepesen sötét bőrtónus", 
         "fiú", 
+        "közepesen sötét bőrtónus", 
+        "fiú: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "sötét bőrtónus", 
+        "srác", 
+        "világos bőrtónus", 
         "kisfiú", 
-        "srác"
+        "fiú: közepes bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "fiú: világos bőrtónus"
     ], 
     "👧": [
+        "lány: közepes bőrtónus", 
+        "közepes bőrtónus", 
+        "lány: sötét bőrtónus", 
+        "lány: közepesen világos bőrtónus", 
+        "lány: közepesen sötét bőrtónus", 
         "kislány", 
+        "közepesen sötét bőrtónus", 
+        "lány: világos bőrtónus", 
         "lányka", 
-        "lány"
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "lány", 
+        "közepesen világos bőrtónus"
     ], 
     "👨": [
-        "férfi"
+        "közepes bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "férfi: közepes bőrtónus", 
+        "férfi: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "férfi: közepesen sötét bőrtónus", 
+        "férfi", 
+        "férfi: közepesen világos bőrtónus", 
+        "férfi: világos bőrtónus", 
+        "közepesen világos bőrtónus"
+    ], 
+    "👨‍⚕️": [
+        "terapeuta", 
+        "orvos", 
+        "ápoló", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "bíró"
+    ], 
+    "👨‍✈️": [
+        "férfi", 
+        "pilóta", 
+        "repülő"
+    ], 
+    "👨‍❤️‍👨": [
+        "pár szívvel: férfi és férfi", 
+        "romantika", 
+        "szív", 
+        "szerelem", 
+        "férfi", 
+        "pár szívvel", 
+        "pár"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "férfi", 
+        "csók", 
+        "csók: férfi és férfi", 
+        "pár", 
+        "romantika"
     ], 
     "👨‍🌾": [
-        "férfi", 
-        "földműves", 
+        "közepes bőrtónus", 
+        "gazda: közepes bőrtónus", 
         "gazda", 
-        "kertész"
+        "gazda: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "gazda: közepesen világos bőrtónus", 
+        "földműves", 
+        "gazda: közepesen sötét bőrtónus", 
+        "gazda: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi", 
+        "kertész", 
+        "közepesen világos bőrtónus"
     ], 
     "👨‍🍳": [
-        "férfi", 
+        "szakács: világos bőrtónus", 
+        "szakács: közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "szakács: közepes bőrtónus", 
+        "szakács: közepesen világos bőrtónus", 
+        "séf", 
         "szakács", 
-        "séf"
+        "szakács: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi", 
+        "közepesen világos bőrtónus"
     ], 
     "👨‍🎓": [
         "diák", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "férfi tanuló: közepes bőrtónus", 
+        "férfi tanuló: sötét bőrtónus", 
+        "férfi tanuló: világos bőrtónus", 
         "tanuló", 
+        "férfi tanuló: közepesen világos bőrtónus", 
         "férfi tanuló", 
         "egyetemista", 
-        "férfi"
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi", 
+        "férfi tanuló: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👨‍🎤": [
         "művész", 
+        "közepes bőrtónus", 
         "sztár", 
         "férfi énekes", 
+        "férfi énekes: közepes bőrtónus", 
+        "világos bőrtónus", 
+        "férfi énekes: világos bőrtónus", 
+        "férfi énekes: sötét bőrtónus", 
         "előadó", 
         "énekes", 
+        "férfi énekes: közepesen világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "rock", 
-        "férfi"
+        "sötét bőrtónus", 
+        "férfi", 
+        "férfi énekes: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👨‍🎨": [
         "művész", 
-        "férfi", 
         "festő", 
+        "paletta", 
+        "férfi művész: közepesen sötét bőrtónus", 
+        "férfi művész: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "férfi művész", 
-        "paletta"
+        "férfi művész: világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi művész: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "férfi művész: közepes bőrtónus", 
+        "férfi", 
+        "közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👨‍🏫": [
+        "közepes bőrtónus", 
+        "tanár: közepes bőrtónus", 
+        "tanár: világos bőrtónus", 
+        "tanár: sötét bőrtónus", 
+        "tanár: közepesen világos bőrtónus", 
+        "professzor", 
+        "tanár: közepesen sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
         "oktató", 
         "férfi", 
-        "tanár", 
-        "professzor"
+        "közepesen világos bőrtónus", 
+        "tanár"
     ], 
     "👨‍🏭": [
         "dolgozó", 
-        "munkás", 
-        "férfi munkás", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "gyári", 
-        "férfi"
+        "férfi munkás: közepesen sötét bőrtónus", 
+        "munkás", 
+        "férfi munkás: közepes bőrtónus", 
+        "férfi munkás: közepesen világos bőrtónus", 
+        "férfi munkás: világos bőrtónus", 
+        "férfi munkás: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi", 
+        "férfi munkás", 
+        "közepesen világos bőrtónus"
     ], 
     "👨‍👦": [
         "család", 
@@ -3511,94 +4739,284 @@
         "anya"
     ], 
     "👨‍💻": [
+        "programozó férfi: közepesen világos bőrtónus", 
+        "programozó férfi: közepes bőrtónus", 
         "programozó férfi", 
+        "közepesen sötét bőrtónus", 
+        "programozó férfi: sötét bőrtónus", 
         "programozó", 
+        "sötét bőrtónus", 
+        "világos bőrtónus", 
+        "közepes bőrtónus", 
+        "programozó férfi: közepesen sötét bőrtónus", 
         "fejlesztő", 
+        "programozó férfi: világos bőrtónus", 
         "szoftver", 
         "kódoló", 
         "férfi", 
-        "feltaláló"
+        "feltaláló", 
+        "közepesen világos bőrtónus"
     ], 
     "👨‍💼": [
-        "alkalmazott", 
-        "férfi irodista", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "férfi", 
+        "világos bőrtónus", 
+        "férfi irodista: sötét bőrtónus", 
         "irodai", 
-        "férfi"
+        "közepesen világos bőrtónus", 
+        "férfi irodista: közepesen sötét bőrtónus", 
+        "férfi irodista", 
+        "sötét bőrtónus", 
+        "alkalmazott", 
+        "férfi irodista: közepes bőrtónus", 
+        "férfi irodista: világos bőrtónus", 
+        "férfi irodista: közepesen világos bőrtónus"
     ], 
     "👨‍🔧": [
-        "férfi", 
-        "szerelő", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "szerelő: közepesen sötét bőrtónus", 
+        "vízszerelő", 
+        "szerelő: közepesen világos bőrtónus", 
         "villanyszerelő", 
-        "vízszerelő"
+        "szerelő", 
+        "szerelő: világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi", 
+        "szerelő: közepes bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "szerelő: sötét bőrtónus"
     ], 
     "👨‍🔬": [
         "férfi tudós", 
-        "férfi", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "matematikus", 
+        "férfi tudós: világos bőrtónus", 
+        "fizikus", 
+        "férfi tudós: sötét bőrtónus", 
         "kémikus", 
-        "fizikus"
+        "férfi tudós: közepes bőrtónus", 
+        "férfi tudós: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi", 
+        "közepesen világos bőrtónus", 
+        "férfi tudós: közepesen sötét bőrtónus"
     ], 
     "👨‍🚀": [
         "rakéta", 
+        "közepes bőrtónus", 
+        "űrhajós: közepes bőrtónus", 
+        "űrhajós: sötét bőrtónus", 
+        "űr", 
+        "űrhajós: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "űrhajós: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
         "férfi", 
+        "űrhajós: közepesen sötét bőrtónus", 
         "űrhajós", 
-        "űr"
+        "közepesen világos bőrtónus"
     ], 
     "👨‍🚒": [
+        "közepes bőrtónus", 
+        "tűzoltó: közepesen sötét bőrtónus", 
+        "tűzoltó: sötét bőrtónus", 
+        "tűzoltó: közepesen világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "tűzoltó: világos bőrtónus", 
         "tűz", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
         "férfi", 
-        "tűzoltó"
+        "tűzoltó", 
+        "tűzoltó: közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👩": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "nő: közepesen sötét bőrtónus", 
+        "nő: közepes bőrtónus", 
+        "nő: világos bőrtónus", 
+        "nő: sötét bőrtónus", 
+        "nő: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
-    "👩‍🌾": [
-        "női gazda", 
+    "👩‍⚕️": [
+        "terapeuta", 
+        "ápolónő", 
+        "orvos", 
+        "doktornő", 
+        "nővér"
+    ], 
+    "👩‍⚖️": [
+        "bírónő"
+    ], 
+    "👩‍✈️": [
+        "pilótanő", 
+        "pilóta", 
+        "repülő", 
+        "nő"
+    ], 
+    "👩‍❤️‍👨": [
+        "romantika", 
+        "szív", 
+        "szerelem", 
+        "pár szívvel: nő és férfi", 
+        "férfi", 
+        "pár szívvel", 
+        "pár", 
+        "nő"
+    ], 
+    "👩‍❤️‍👩": [
+        "romantika", 
+        "szív", 
+        "pár szívvel: nő és nő", 
+        "szerelem", 
+        "pár szívvel", 
+        "pár", 
+        "nő"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "romantika", 
+        "csók: nő és férfi", 
+        "csók", 
+        "férfi", 
+        "pár", 
+        "nő"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "csók", 
         "nő", 
-        "földműves", 
+        "csók: nő és nő", 
+        "pár", 
+        "romantika"
+    ], 
+    "👩‍🌾": [
+        "női gazda: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "női gazda: közepesen sötét bőrtónus", 
         "gazda", 
-        "kertész"
+        "női gazda: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "földműves", 
+        "női gazda: közepesen világos bőrtónus", 
+        "női gazda", 
+        "női gazda: közepes bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "kertész", 
+        "közepesen világos bőrtónus", 
+        "nő"
     ], 
     "👩‍🍳": [
-        "séf", 
+        "szakácsnő: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "szakácsnő", 
+        "szakácsnő: közepesen világos bőrtónus", 
+        "szakácsnő: közepesen sötét bőrtónus", 
+        "séf", 
+        "világos bőrtónus", 
+        "szakácsnő: világos bőrtónus", 
+        "sötét bőrtónus", 
+        "szakácsnő: közepes bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍🎓": [
-        "női tanuló", 
+        "női tanuló: világos bőrtónus", 
         "diák", 
-        "tanuló", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "női tanuló: közepes bőrtónus", 
+        "női tanuló", 
+        "világos bőrtónus", 
+        "női tanuló: közepesen sötét bőrtónus", 
+        "női tanuló: sötét bőrtónus", 
         "egyetemista", 
+        "tanuló", 
+        "sötét bőrtónus", 
+        "női tanuló: közepesen világos bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍🎤": [
         "művész", 
+        "közepes bőrtónus", 
         "sztár", 
+        "világos bőrtónus", 
+        "női énekes: közepesen sötét bőrtónus", 
         "előadó", 
         "énekes", 
+        "női énekes: közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
         "rock", 
+        "sötét bőrtónus", 
+        "női énekes: közepesen világos bőrtónus", 
         "női énekes", 
+        "női énekes: sötét bőrtónus", 
+        "női énekes: világos bőrtónus", 
         "nő"
     ], 
     "👩‍🎨": [
         "művész", 
+        "női művész: közepes bőrtónus", 
         "festő", 
-        "női művész", 
+        "női művész: sötét bőrtónus", 
         "paletta", 
+        "női művész: közepesen világos bőrtónus", 
+        "női művész", 
+        "közepesen sötét bőrtónus", 
+        "női művész: világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "női művész: közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍🏫": [
-        "oktató", 
-        "professzorasszony", 
+        "közepes bőrtónus", 
+        "tanárnő: közepesen világos bőrtónus", 
+        "tanárnő: közepesen sötét bőrtónus", 
         "tanárnő", 
+        "tanárnő: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "tanárnő: sötét bőrtónus", 
+        "professzorasszony", 
+        "sötét bőrtónus", 
+        "világos bőrtónus", 
+        "oktató", 
+        "tanárnő: közepes bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍🏭": [
         "dolgozó", 
-        "nő", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "gyári", 
+        "női munkás: közepes bőrtónus", 
+        "munkás", 
+        "női munkás: világos bőrtónus", 
         "női munkás", 
-        "munkás"
+        "női munkás: közepesen világos bőrtónus", 
+        "női munkás: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "női munkás: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "nő"
     ], 
     "👩‍👦": [
         "család", 
@@ -3714,53 +5132,105 @@
     ], 
     "👩‍💻": [
         "programozó nő", 
+        "közepesen sötét bőrtónus", 
         "programozó", 
+        "közepes bőrtónus", 
+        "sötét bőrtónus", 
+        "világos bőrtónus", 
+        "programozó nő: világos bőrtónus", 
+        "programozó nő: közepesen sötét bőrtónus", 
+        "programozó nő: közepes bőrtónus", 
         "fejlesztő", 
+        "programozó nő: közepesen világos bőrtónus", 
         "szoftver", 
         "kódoló", 
+        "programozó nő: sötét bőrtónus", 
         "feltaláló", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍💼": [
-        "alkalmazott", 
+        "közepes bőrtónus", 
+        "női irodista: közepes bőrtónus", 
+        "női", 
+        "női irodista: közepesen világos bőrtónus", 
         "női irodista", 
+        "női irodista: közepesen sötét bőrtónus", 
+        "női irodista: világos bőrtónus", 
+        "női irodista: sötét bőrtónus", 
         "irodai", 
-        "női"
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "alkalmazott", 
+        "közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👩‍🔧": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "szerelőnő: közepesen világos bőrtónus", 
+        "vízszerelő", 
+        "villanyszerelő", 
+        "szerelőnő: közepesen sötét bőrtónus", 
+        "sötét bőrtónus", 
         "szerelőnő", 
         "szerelő", 
-        "villanyszerelő", 
-        "vízszerelő", 
+        "szerelőnő: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "szerelőnő: közepes bőrtónus", 
+        "szerelőnő: világos bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍🔬": [
-        "fizikus", 
+        "női tudós: közepesen világos bőrtónus", 
+        "női tudós: közepesen sötét bőrtónus", 
+        "női tudós: sötét bőrtónus", 
         "matematikus", 
+        "közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "fizikus", 
         "női tudós", 
+        "női tudós: világos bőrtónus", 
         "kémikus", 
+        "női tudós: közepes bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍🚀": [
         "rakéta", 
-        "űrhajós", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "űr", 
+        "sötét bőrtónus", 
+        "űrhajósnő: sötét bőrtónus", 
+        "űrhajósnő: közepesen világos bőrtónus", 
+        "űrhajósnő: közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
+        "űrhajósnő: közepes bőrtónus", 
         "űrhajósnő", 
+        "űrhajós", 
+        "űrhajósnő: világos bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "👩‍🚒": [
+        "tűzoltónő: világos bőrtónus", 
+        "tűzoltónő: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "tűzoltónő: közepes bőrtónus", 
         "tűz", 
-        "tűzoltónő", 
+        "tűzoltónő: közepesen sötét bőrtónus", 
+        "tűzoltónő: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "nő", 
         "tűzoltó", 
-        "nő"
-    ], 
-    "👪": [
-        "család", 
-        "apuka", 
-        "gyermek", 
-        "anyuka", 
-        "apa", 
-        "anya"
+        "közepesen világos bőrtónus", 
+        "tűzoltónő"
     ], 
     "👫": [
         "kézen fogva álló férfi és nő", 
@@ -3780,63 +5250,169 @@
         "kézen fogva", 
         "pár"
     ], 
-    "👮": [
+    "👮‍♀️": [
         "zsaru", 
+        "rendőrnő", 
+        "rendőr", 
+        "nő"
+    ], 
+    "👮‍♂️": [
+        "zsaru", 
+        "férfi", 
+        "rendőr", 
         "rendőrség"
     ], 
-    "👯": [
+    "👯‍♀️": [
         "bulizó emberek", 
         "parti", 
         "lányok", 
+        "táncos", 
         "nyuszi", 
+        "bulizó nők", 
         "buli", 
         "nyuszifül", 
+        "buil", 
+        "nők", 
         "nő"
+    ], 
+    "👯‍♂️": [
+        "parti", 
+        "férfi", 
+        "férfiak", 
+        "táncos", 
+        "nyuszifül", 
+        "buil", 
+        "bulizó férfiak"
     ], 
     "👰": [
         "menyasszony", 
         "esküvő", 
+        "menyasszony fátyollal: közepesen világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "menyasszony fátyollal: közepes bőrtónus", 
+        "menyasszony fátyollal", 
+        "menyasszony fátyollal: világos bőrtónus", 
+        "menyasszony fátyollal: közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "menyasszony fátyollal: sötét bőrtónus", 
         "lakodalom", 
         "fátyol", 
-        "menyasszony fátyollal"
+        "közepesen világos bőrtónus"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "szőke nő", 
+        "szőke", 
+        "nő"
+    ], 
+    "👱‍♂️": [
+        "férfi", 
+        "szőke férfi", 
         "szőke hajú ember", 
         "szőke"
     ], 
     "👲": [
+        "kínai sapkás ember: közepesen világos bőrtónus", 
+        "kínai sapkás ember: világos bőrtónus", 
+        "közepes bőrtónus", 
+        "kínai sapkás ember: sötét bőrtónus", 
+        "kínai sapkás ember: közepesen sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "ember", 
         "sapka", 
-        "kínai sapkás ember"
+        "kínai sapkás ember: közepes bőrtónus", 
+        "kínai sapkás ember", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "turbán", 
+        "turbános nő", 
+        "nő"
+    ], 
+    "👳‍♂️": [
+        "turbános férfi", 
+        "férfi", 
         "turbán", 
         "ember", 
         "turbános ember"
     ], 
     "👴": [
+        "közepes bőrtónus", 
+        "idős férfi: közepes bőrtónus", 
+        "idős férfi: sötét bőrtónus", 
+        "idős férfi: közepesen sötét bőrtónus", 
+        "idős férfi: közepesen világos bőrtónus", 
         "idős férfi", 
-        "öregember"
+        "idős férfi: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "öregember", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "👵": [
+        "idős nő: világos bőrtónus", 
+        "idős nő: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
         "idős nő", 
-        "öreg néni"
+        "idős nő: közepesen sötét bőrtónus", 
+        "öreg néni", 
+        "idős nő: közepesen világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "idős nő: közepes bőrtónus"
     ], 
     "👶": [
         "baba", 
-        "kisbaba"
+        "közepes bőrtónus", 
+        "baba: sötét bőrtónus", 
+        "baba: világos bőrtónus", 
+        "kisbaba", 
+        "közepesen sötét bőrtónus", 
+        "baba: közepes bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "baba: közepesen világos bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "baba: közepesen sötét bőrtónus"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "építőmunkás nő", 
+        "építkezés", 
+        "építőmunkás", 
+        "építőmunkásnő", 
+        "munkás", 
+        "nő"
+    ], 
+    "👷‍♂️": [
+        "építőmunkás férfi", 
+        "építőmunkás", 
         "védősisak", 
         "építkezés", 
         "sisak", 
-        "építőmunkás"
+        "munkás", 
+        "férfi"
     ], 
     "👸": [
-        "fantasy", 
+        "hercegnő: közepes bőrtónus", 
+        "közepes bőrtónus", 
+        "hercegnő: világos bőrtónus", 
+        "hercegnő: sötét bőrtónus", 
         "mesehős", 
-        "mese", 
-        "hercegnő"
+        "közepesen sötét bőrtónus", 
+        "hercegnő: közepesen sötét bőrtónus", 
+        "fantasy", 
+        "hercegnő: közepesen világos bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "hercegnő", 
+        "mese"
     ], 
     "👹": [
         "óriás", 
@@ -3866,10 +5442,20 @@
     ], 
     "👼": [
         "baba", 
-        "babaangyal", 
+        "közepes bőrtónus", 
+        "babaangyal: sötét bőrtónus", 
+        "babaangyal: közepesen világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "babaangyal: közepes bőrtónus", 
         "arc", 
+        "babaangyal", 
+        "közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
         "angyal", 
-        "mese"
+        "babaangyal: világos bőrtónus", 
+        "mese", 
+        "babaangyal: közepesen sötét bőrtónus"
     ], 
     "👽": [
         "idegen", 
@@ -3898,20 +5484,47 @@
         "szörny", 
         "csont"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "nyitott tenyér", 
         "segítség", 
+        "ember az információs pultnál", 
         "kéz", 
+        "nyitott tenyerű nő", 
         "információ", 
-        "ember az információs pultnál"
+        "nő"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "nyitott tenyér", 
+        "férfi", 
+        "nyitott tenyerű férfi", 
+        "információ", 
+        "segítség"
+    ], 
+    "💂‍♀️": [
+        "női őr", 
+        "őr", 
+        "nő"
+    ], 
+    "💂‍♂️": [
+        "férfi", 
+        "őr", 
         "gárdista", 
         "őrség"
     ], 
     "💃": [
-        "tánc", 
-        "táncoló", 
+        "közepes bőrtónus", 
         "táncoló nő", 
+        "táncoló", 
+        "tánc", 
+        "táncoló nő: közepesen sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "táncoló nő: közepes bőrtónus", 
+        "táncoló nő: világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "táncoló nő: sötét bőrtónus", 
+        "táncoló nő: közepesen világos bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "💄": [
@@ -3922,23 +5535,53 @@
     ], 
     "💅": [
         "köröm", 
+        "közepes bőrtónus", 
         "lakk", 
+        "körömlakk: közepes bőrtónus", 
+        "körömlakk: világos bőrtónus", 
         "manikűr", 
+        "sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "körömlakk", 
+        "körömlakk: közepesen világos bőrtónus", 
         "kéz", 
+        "körömlakk: sötét bőrtónus", 
+        "világos bőrtónus", 
         "test", 
         "körömápolás", 
-        "kifestés"
+        "körömlakk: közepesen sötét bőrtónus", 
+        "kifestés", 
+        "közepesen világos bőrtónus"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "nő arcmasszázson", 
         "masszázs", 
+        "arc", 
+        "nő", 
         "arcmasszázs"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "férfi arcmasszázson", 
+        "férfi", 
+        "masszázs", 
+        "arc"
+    ], 
+    "💇‍♀️": [
         "fodrász", 
-        "hajvágás", 
+        "haj", 
+        "nő fodrásznál", 
+        "szépségápolás", 
         "fodrászat", 
-        "szépségápolás"
+        "hajvágás", 
+        "nő"
+    ], 
+    "💇‍♂️": [
+        "fodrász", 
+        "haj", 
+        "férfi fodrásznál", 
+        "fodrászat", 
+        "hajvágás", 
+        "férfi"
     ], 
     "💈": [
         "fodrász", 
@@ -3988,23 +5631,11 @@
         "ékkő", 
         "romantika"
     ], 
-    "💏": [
-        "csók", 
-        "pár", 
-        "romantika"
-    ], 
     "💐": [
         "csokor", 
         "virág", 
         "virágcsokor", 
         "romantika"
-    ], 
-    "💑": [
-        "szerelem", 
-        "szív", 
-        "romantika", 
-        "pár", 
-        "pár szívvel"
     ], 
     "💒": [
         "épület", 
@@ -4144,11 +5775,21 @@
         "kakiarc"
     ], 
     "💪": [
-        "bicepsz", 
+        "közepes bőrtónus", 
         "karizom", 
-        "befeszített bicepsz", 
+        "képregény", 
+        "befeszített bicepsz: közepesen világos bőrtónus", 
+        "befeszített bicepsz: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "izom", 
-        "képregény"
+        "befeszített bicepsz: közepes bőrtónus", 
+        "bicepsz", 
+        "befeszített bicepsz: közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "befeszített bicepsz", 
+        "befeszített bicepsz: világos bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "💫": [
         "szédülés", 
@@ -4653,6 +6294,13 @@
         "szalag", 
         "kazetta"
     ], 
+    "📽️": [
+        "mozi", 
+        "videó", 
+        "filmvetítő", 
+        "vetítő", 
+        "film"
+    ], 
     "📿": [
         "ima", 
         "imafüzér", 
@@ -5014,6 +6662,17 @@
         "lefelé gomb", 
         "gomb"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "vallás"
+    ], 
+    "🕊️": [
+        "madár", 
+        "olajág", 
+        "békegalamb", 
+        "galamb"
+    ], 
     "🕋": [
         "iszlám", 
         "kába", 
@@ -5256,31 +6915,246 @@
         "harminc", 
         "12:30"
     ], 
-    "🕺": [
-        "tánc", 
-        "férfi", 
-        "táncoló férfi"
+    "🕯️": [
+        "gyertya", 
+        "világítás"
     ], 
-    "🖕": [
-        "középső ujj", 
+    "🕰️": [
+        "óra", 
+        "régies óra"
+    ], 
+    "🕳️": [
+        "lyuk"
+    ], 
+    "🕴️": [
+        "öltönyös, lebegő ember", 
+        "üzletember", 
+        "öltöny"
+    ], 
+    "🕵️‍♂️": [
+        "kopó", 
+        "detektív"
+    ], 
+    "🕶️": [
+        "kiegészítő", 
+        "szemüveg", 
+        "napszemüveg", 
+        "szem", 
+        "sötét"
+    ], 
+    "🕷️": [
+        "pók", 
+        "rovar"
+    ], 
+    "🕸️": [
+        "háló", 
+        "pók", 
+        "pókháló"
+    ], 
+    "🕹️": [
+        "játék", 
+        "joystick", 
+        "videojáték"
+    ], 
+    "🕺": [
+        "táncoló férfi: világos bőrtónus", 
+        "közepes bőrtónus", 
+        "táncoló férfi: közepesen világos bőrtónus", 
+        "tánc", 
+        "közepesen sötét bőrtónus", 
+        "táncoló férfi: közepesen sötét bőrtónus", 
+        "táncoló férfi", 
+        "táncoló férfi: közepes bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "férfi", 
+        "táncoló férfi: sötét bőrtónus", 
+        "közepesen világos bőrtónus"
+    ], 
+    "🖇️": [
+        "összekapcsolt gemkapcsok", 
+        "gemkapcsok", 
+        "kapcsolódás"
+    ], 
+    "🖊️": [
+        "golyóstoll", 
+        "toll", 
+        "írószer"
+    ], 
+    "🖋️": [
+        "toll", 
+        "töltőtoll", 
+        "írószer"
+    ], 
+    "🖌️": [
+        "ecset", 
+        "festés", 
+        "írószer"
+    ], 
+    "🖍️": [
+        "zsírkréta", 
+        "rajz"
+    ], 
+    "🖐️": [
+        "szétálló", 
         "test", 
         "kéz", 
+        "felemelt kéz szétálló ujjakkal", 
         "ujj"
     ], 
+    "🖕": [
+        "középső ujj: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "középső ujj: közepesen sötét bőrtónus", 
+        "középső ujj: közepesen világos bőrtónus", 
+        "középső ujj", 
+        "középső ujj: közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "középső ujj: világos bőrtónus", 
+        "sötét bőrtónus", 
+        "kéz", 
+        "ujj", 
+        "világos bőrtónus", 
+        "test", 
+        "közepesen világos bőrtónus"
+    ], 
     "🖖": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "star trek-üdvözlet", 
+        "star trek-üdvözlet: közepesen sötét bőrtónus", 
+        "star trek-üdvözlet: világos bőrtónus", 
         "vulcan", 
+        "világos bőrtónus", 
+        "star trek-üdvözlet: közepes bőrtónus", 
         "star trek", 
+        "sötét bőrtónus", 
+        "star trek-üdvözlet: közepesen világos bőrtónus", 
         "spock", 
+        "star trek-üdvözlet: sötét bőrtónus", 
         "ujj", 
         "kéz", 
-        "test"
+        "test", 
+        "közepesen világos bőrtónus"
     ], 
     "🖤": [
         "fekete", 
         "fekete szív", 
         "szív", 
         "gonosz"
+    ], 
+    "🖥️": [
+        "pc", 
+        "asztali számítógép", 
+        "asztali", 
+        "számítógép"
+    ], 
+    "🖨️": [
+        "nyomtató", 
+        "számítógép"
+    ], 
+    "🖱️": [
+        "három", 
+        "számítógépes egér", 
+        "3 gombos", 
+        "számítógép", 
+        "egér"
+    ], 
+    "🖲️": [
+        "számítógép", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "művészet", 
+        "bekeretezett kép", 
+        "galéria", 
+        "múzeum", 
+        "kép kerettel"
+    ], 
+    "🗂️": [
+        "kartoték", 
+        "kartotékelválasztók", 
+        "elválasztók", 
+        "katalógus"
+    ], 
+    "🗃️": [
+        "kartotékdoboz", 
+        "akták", 
+        "kartoték", 
+        "doboz"
+    ], 
+    "🗄️": [
+        "akták", 
+        "szekrény", 
+        "iratok", 
+        "iratszekrény"
+    ], 
+    "🗑️": [
+        "papírkosár"
+    ], 
+    "🗒️": [
+        "spirálfüzet", 
+        "jegyzettömb", 
+        "tömb", 
+        "spirál"
+    ], 
+    "🗓️": [
+        "spirálos naptár", 
+        "tömb", 
+        "naptár", 
+        "spirál"
+    ], 
+    "🗜️": [
+        "satu", 
+        "szerszám"
+    ], 
+    "🗝️": [
+        "öreg kulcs", 
+        "régi kulcs"
+    ], 
+    "🗞️": [
+        "feltekert újság", 
+        "újság", 
+        "papír", 
+        "feltekert"
+    ], 
+    "🗡️": [
+        "tőr", 
+        "fegyver", 
+        "szúrás"
+    ], 
+    "🗣️": [
+        "beszélő fej", 
+        "arc", 
+        "fej", 
+        "sziluett", 
+        "beszéd"
+    ], 
+    "🗨️": [
+        "képregény", 
+        "buborék", 
+        "párbeszéd", 
+        "balra nyíló szövegbuborék", 
+        "beszéd"
+    ], 
+    "🗯️": [
+        "buborék", 
+        "dühös", 
+        "jobbra nyíló dühös szövegbuborék", 
+        "mérges", 
+        "képregény"
+    ], 
+    "🗳️": [
+        "urna szavazólappal", 
+        "doboz", 
+        "urna", 
+        "szavazás"
+    ], 
+    "🗺️": [
+        "föld", 
+        "térkép", 
+        "világtérkép", 
+        "világ"
     ], 
     "🗻": [
         "Fudzsi-hegy", 
@@ -5751,24 +7625,63 @@
         "szemét forgató arc", 
         "forgó szemek"
     ], 
-    "🙅": [
-        "tiltás mutatása", 
+    "🙅‍♀️": [
+        "gesztus", 
         "nem szabad", 
+        "tiltást mutató nő", 
+        "tiltás", 
+        "kézmozdulat", 
         "kézjel", 
+        "tiltás mutatása", 
+        "tiltott", 
         "tilos", 
-        "tiltott"
+        "nő"
     ], 
-    "🙆": [
-        "rendben", 
+    "🙅‍♂️": [
+        "gesztus", 
+        "kézmozdulat", 
+        "tiltás", 
+        "tilos", 
+        "tiltást mutató férfi", 
+        "férfi"
+    ], 
+    "🙆‍♀️": [
+        "gesztus", 
+        "beleegyezés", 
         "beleegyezés mutatása", 
+        "kézmozdulat", 
+        "beleegyezést mutató nő", 
         "kézjel", 
-        "oké"
+        "rendben", 
+        "oké", 
+        "nő"
     ], 
-    "🙇": [
-        "meghajló ember", 
-        "meghajlás", 
+    "🙆‍♂️": [
+        "gesztus", 
+        "beleegyezés", 
+        "kézmozdulat", 
+        "férfi", 
+        "oké", 
+        "beleegyezést mutató férfi"
+    ], 
+    "🙇‍♀️": [
         "sajnálat", 
-        "bocsánatkérés"
+        "meghajlás", 
+        "meghajló", 
+        "bocsánatkérés", 
+        "meghajló nő", 
+        "bocsánat", 
+        "nő"
+    ], 
+    "🙇‍♂️": [
+        "sajnálat", 
+        "meghajlás", 
+        "meghajló", 
+        "bocsánatkérés", 
+        "meghajló ember", 
+        "meghajló férfi", 
+        "férfi", 
+        "bocsánat"
     ], 
     "🙈": [
         "nem lát semmit", 
@@ -5791,34 +7704,89 @@
         "nem szól semmit", 
         "majom"
     ], 
-    "🙋": [
-        "vidáman intő ember", 
+    "🙋‍♀️": [
+        "gesztus", 
         "vidám", 
         "boldog", 
+        "vidáman intő nő", 
+        "vidáman intő ember", 
+        "kézmozdulat", 
+        "intés", 
+        "nő", 
         "integet"
     ], 
+    "🙋‍♂️": [
+        "vidáman intő férfi", 
+        "gesztus", 
+        "vidám", 
+        "kézmozdulat", 
+        "intés", 
+        "férfi"
+    ], 
     "🙌": [
-        "test", 
+        "kezét felemelő ember: közepesen világos bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "kezét felemelő ember: sötét bőrtónus", 
+        "kezét felemelő ember: közepesen sötét bőrtónus", 
+        "kezét felemelő ember", 
+        "kezét felemelő ember: világos bőrtónus", 
+        "sötét bőrtónus", 
         "vidámság", 
         "kéz", 
-        "ünneplés", 
-        "kezét felemelő ember"
+        "világos bőrtónus", 
+        "test", 
+        "kezét felemelő ember: közepes bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "ünneplés"
     ], 
-    "🙍": [
-        "rosszallás", 
+    "🙍‍♀️": [
+        "gesztus", 
         "rosszalló ember", 
-        "rosszalló tekintet"
+        "rosszallás", 
+        "rosszalló nő", 
+        "rosszalló", 
+        "rosszalló tekintet", 
+        "nő"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "rosszallás", 
+        "férfi", 
+        "gesztus", 
+        "rosszalló", 
+        "rosszalló férfi"
+    ], 
+    "🙎‍♀️": [
+        "gesztus", 
         "duzzogó ember", 
+        "duzzogó", 
+        "duzzogó nő", 
+        "duzzogás", 
+        "nő"
+    ], 
+    "🙎‍♂️": [
+        "férfi", 
+        "gesztus", 
+        "duzzogó férfi", 
+        "duzzogó", 
         "duzzogás"
     ], 
     "🙏": [
         "ima", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "összetett kéz: sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "összetett kéz: közepesen világos bőrtónus", 
+        "kérés", 
+        "összetett kéz: közepesen sötét bőrtónus", 
+        "összetett kéz: világos bőrtónus", 
+        "világos bőrtónus", 
+        "test", 
         "összetett kéz", 
         "köszönet", 
-        "kérés", 
-        "test"
+        "összetett kéz: közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🚀": [
         "jármű", 
@@ -6013,8 +7981,18 @@
         "vízi jármű", 
         "hajó"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "csónak", 
+        "evezés", 
+        "evező nő", 
+        "nő"
+    ], 
+    "🚣‍♂️": [
+        "evezés", 
+        "csónak", 
         "evező ember", 
+        "evező férfi", 
+        "férfi", 
         "vízi jármű"
     ], 
     "🚤": [
@@ -6106,25 +8084,62 @@
         "tilos", 
         "tiltott"
     ], 
-    "🚴": [
-        "bicikli", 
+    "🚴‍♀️": [
+        "kerékpár", 
+        "bicaj", 
+        "kerékpáros", 
+        "kerékpáros nő", 
+        "bicajos", 
+        "nő"
+    ], 
+    "🚴‍♂️": [
+        "kerékpár", 
+        "kerékpáros férfi", 
         "biciklista", 
+        "bicaj", 
+        "bicikli", 
         "sportoló", 
         "kerékpáros", 
-        "kerékpár"
+        "férfi", 
+        "bicajos"
     ], 
-    "🚵": [
+    "🚵‍♀️": [
+        "kerékpár", 
+        "hegy", 
+        "bicaj", 
+        "hegyikerékpáros nő", 
+        "kerékpáros", 
+        "bicajos", 
+        "nő"
+    ], 
+    "🚵‍♂️": [
         "kerékpár", 
         "biciklista", 
         "hegyikerékpáros", 
         "hegy", 
+        "bicaj", 
         "bicikli", 
-        "sportoló"
+        "sportoló", 
+        "kerékpáros", 
+        "férfi", 
+        "hegyikerékpáros férfi", 
+        "bicajos"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "sétáló", 
+        "túra", 
+        "séta", 
+        "sétáló nő", 
+        "nő"
+    ], 
+    "🚶‍♂️": [
+        "sétáló férfi", 
+        "séta", 
         "gyalogos", 
+        "sétáló", 
+        "túra", 
         "gyaloglás", 
-        "séta"
+        "férfi"
     ], 
     "🚷": [
         "gyalog", 
@@ -6180,9 +8195,19 @@
         "vízsugár"
     ], 
     "🛀": [
+        "közepes bőrtónus", 
+        "fürdő ember", 
         "fürdés", 
+        "fürdő ember: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "fürdő ember: sötét bőrtónus", 
+        "fürdő ember: közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "fürdő ember: közepesen világos bőrtónus", 
         "fürdőkád", 
-        "fürdő ember"
+        "közepesen világos bőrtónus", 
+        "fürdő ember: közepes bőrtónus"
     ], 
     "🛁": [
         "fürdés", 
@@ -6208,9 +8233,41 @@
         "csomagmegőrző", 
         "poggyász"
     ], 
+    "🛋️": [
+        "szálloda", 
+        "kanapé és lámpa", 
+        "lámpa", 
+        "kanapé"
+    ], 
     "🛌": [
-        "alvás", 
+        "közepes bőrtónus", 
+        "ember az ágyban: közepesen sötét bőrtónus", 
         "ember az ágyban", 
+        "közepesen sötét bőrtónus", 
+        "alvás", 
+        "sötét bőrtónus", 
+        "szálloda", 
+        "világos bőrtónus", 
+        "ember az ágyban: világos bőrtónus", 
+        "ember az ágyban: sötét bőrtónus", 
+        "ember az ágyban: közepes bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "ember az ágyban: közepesen világos bőrtónus"
+    ], 
+    "🛍️": [
+        "vásárlás", 
+        "bevásárlótáskák", 
+        "táska", 
+        "bevásárlótáska"
+    ], 
+    "🛎️": [
+        "londinerhívó csengő", 
+        "szálloda", 
+        "csengő"
+    ], 
+    "🛏️": [
+        "ágy", 
+        "alvás", 
         "szálloda"
     ], 
     "🛐": [
@@ -6229,6 +8286,42 @@
         "bevásárlókocsi", 
         "vásárlás"
     ], 
+    "🛠️": [
+        "villáskulcs", 
+        "kalapács és csavarkulcs", 
+        "kalapács", 
+        "szerszám", 
+        "csavarkulcs"
+    ], 
+    "🛡️": [
+        "fegyver", 
+        "pajzs"
+    ], 
+    "🛢️": [
+        "olaj", 
+        "olajoshordó", 
+        "hordó"
+    ], 
+    "🛣️": [
+        "pálya", 
+        "autópálya", 
+        "út"
+    ], 
+    "🛤️": [
+        "vasúti sín", 
+        "vasút", 
+        "vonat"
+    ], 
+    "🛥️": [
+        "csónak", 
+        "utasszállítás", 
+        "motorcsónak"
+    ], 
+    "🛩️": [
+        "kisrepülő", 
+        "repülőgép", 
+        "légi jármű"
+    ], 
     "🛫": [
         "felszállás", 
         "indulás", 
@@ -6243,6 +8336,18 @@
         "repülőgép", 
         "leszállás", 
         "érkezés"
+    ], 
+    "🛰️": [
+        "jármű", 
+        "szatelit", 
+        "űr", 
+        "műhold"
+    ], 
+    "🛳️": [
+        "utasszállító hajó", 
+        "csónak", 
+        "vízi jármű", 
+        "utasszállítás"
     ], 
     "🛴": [
         "roller"
@@ -6311,33 +8416,83 @@
         "ölelés"
     ], 
     "🤘": [
+        "közepes bőrtónus", 
         "ördögvilla", 
+        "metálvilla: világos bőrtónus", 
         "szarvak", 
+        "sötét bőrtónus", 
+        "világos bőrtónus", 
         "metál", 
+        "metálvilla: közepes bőrtónus", 
         "kéz", 
+        "közepesen sötét bőrtónus", 
         "metálvilla", 
         "ujj", 
         "rock", 
-        "test"
+        "test", 
+        "metálvilla: közepesen világos bőrtónus", 
+        "metálvilla: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "metálvilla: sötét bőrtónus"
     ], 
     "🤙": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "„hívj fel” kézjel: közepesen világos bőrtónus", 
+        "„hívj fel” kézjel: sötét bőrtónus", 
+        "„hívj fel” kézjel", 
+        "„hívj fel” kézjel: közepes bőrtónus", 
+        "sötét bőrtónus", 
         "kéz", 
+        "közepesen világos bőrtónus", 
+        "„hívj fel” kézjel: közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
         "hívás", 
-        "„hívj fel” kézjel"
+        "„hívj fel” kézjel: világos bőrtónus"
     ], 
     "🤚": [
+        "kézfej: közepesen sötét bőrtónus", 
+        "kézfej: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "kézfej: világos bőrtónus", 
+        "kézfej", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "kézfej: közepesen világos bőrtónus", 
         "felemelt", 
-        "kézfej"
+        "kézfej: közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤛": [
         "bal szélső", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
         "balra néző ököl", 
-        "ököl"
+        "balra néző ököl: közepesen világos bőrtónus", 
+        "balra néző ököl: közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
+        "balra néző ököl: sötét bőrtónus", 
+        "ököl", 
+        "balra néző ököl: világos bőrtónus", 
+        "sötét bőrtónus", 
+        "balra néző ököl: közepes bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤜": [
+        "közepes bőrtónus", 
+        "jobbra néző ököl: közepes bőrtónus", 
+        "jobbra néző ököl: sötét bőrtónus", 
         "jobb szélső", 
+        "jobbra néző ököl: közepesen világos bőrtónus", 
         "jobbra néző ököl", 
-        "ököl"
+        "jobbra néző ököl: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "ököl", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "jobbra néző ököl: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤝": [
         "megállapodás", 
@@ -6347,14 +8502,34 @@
     ], 
     "🤞": [
         "keresztezett ujjak", 
-        "keresztezett", 
+        "közepes bőrtónus", 
         "szerencse", 
-        "ujj"
+        "keresztezett ujjak: világos bőrtónus", 
+        "keresztezett ujjak: közepesen sötét bőrtónus", 
+        "keresztezett ujjak: közepes bőrtónus", 
+        "keresztezett", 
+        "keresztezett ujjak: közepesen világos bőrtónus", 
+        "keresztezett ujjak: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "ujj", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤟": [
-        "szeretlek", 
+        "közepes bőrtónus", 
+        "szeretlek kézmozdulat: közepesen világos bőrtónus", 
+        "szeretlek kézmozdulat", 
+        "szeretlek kézmozdulat: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "szeretlek kézmozdulat: közepes bőrtónus", 
         "kéz", 
-        "szeretlek kézmozdulat"
+        "szeretlek kézmozdulat: közepesen sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "szeretlek kézmozdulat: világos bőrtónus", 
+        "szeretlek", 
+        "közepesen világos bőrtónus"
     ], 
     "🤠": [
         "cowboy kalapos fej", 
@@ -6395,11 +8570,37 @@
         "hazudó"
     ], 
     "🤦": [
-        "nem hiszem el", 
-        "kézbe temetett arc", 
+        "kézbe temetett arc: közepes bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "kézbe temetett arc: világos bőrtónus", 
+        "kézbe temetett arc: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "elkeseredés", 
         "arc", 
+        "kézbe temetett arc", 
         "kéz", 
-        "elkeseredés"
+        "sötét bőrtónus", 
+        "nem hiszem el", 
+        "kézbe temetett arc: közepesen világos bőrtónus", 
+        "kézbe temetett arc: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
+    ], 
+    "🤦‍♀️": [
+        "arcát a kezébe temető nő", 
+        "elkeseredés", 
+        "arc", 
+        "kézbe temetett arc", 
+        "hitetlenség", 
+        "nő"
+    ], 
+    "🤦‍♂️": [
+        "elkeseredés", 
+        "arcát a kezébe temető férfi", 
+        "arc", 
+        "kézbe temetett arc", 
+        "férfi", 
+        "hitetlenség"
     ], 
     "🤧": [
         "tüsszentő fej", 
@@ -6449,57 +8650,205 @@
         "felrobbanó fej"
     ], 
     "🤰": [
+        "terhes nő: közepesen sötét bőrtónus", 
+        "terhes nő: közepes bőrtónus", 
+        "közepes bőrtónus", 
+        "terhes nő: közepesen világos bőrtónus", 
+        "terhes nő: sötét bőrtónus", 
         "terhes nő", 
+        "közepesen sötét bőrtónus", 
+        "terhes nő: világos bőrtónus", 
         "terhes", 
         "várandós", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
         "nő"
     ], 
     "🤱": [
         "baba", 
+        "közepes bőrtónus", 
+        "szoptatás: közepesen világos bőrtónus", 
         "szoptatás", 
-        "mell"
+        "közepesen sötét bőrtónus", 
+        "szoptatás: sötét bőrtónus", 
+        "szoptatás: közepes bőrtónus", 
+        "mell", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "szoptatás: közepesen sötét bőrtónus", 
+        "szoptatás: világos bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤲": [
         "ima", 
-        "felfelé fordított tenyerek"
+        "közepes bőrtónus", 
+        "felfelé fordított tenyerek: közepesen világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "felfelé fordított tenyerek: közepesen sötét bőrtónus", 
+        "felfelé fordított tenyerek", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "felfelé fordított tenyerek: közepes bőrtónus", 
+        "felfelé fordított tenyerek: világos bőrtónus", 
+        "felfelé fordított tenyerek: sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤳": [
         "fényképező", 
+        "szelfi: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "telefon", 
+        "szelfi: közepes bőrtónus", 
+        "sötét bőrtónus", 
         "szelfi", 
-        "telefon"
+        "világos bőrtónus", 
+        "szelfi: világos bőrtónus", 
+        "szelfi: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus", 
+        "szelfi: közepesen világos bőrtónus"
     ], 
     "🤴": [
-        "herceg"
+        "herceg", 
+        "herceg: világos bőrtónus", 
+        "herceg: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "herceg: közepes bőrtónus", 
+        "sötét bőrtónus", 
+        "világos bőrtónus", 
+        "herceg: közepesen világos bőrtónus", 
+        "herceg: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤵": [
-        "férfi", 
-        "szmokingos férfi", 
+        "vőlegény", 
+        "közepes bőrtónus", 
         "szmoking", 
-        "vőlegény"
+        "szmokingos férfi: közepesen sötét bőrtónus", 
+        "sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "szmokingos férfi: közepes bőrtónus", 
+        "szmokingos férfi", 
+        "szmokingos férfi: világos bőrtónus", 
+        "világos bőrtónus", 
+        "szmokingos férfi: közepesen világos bőrtónus", 
+        "férfi", 
+        "szmokingos férfi: sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🤶": [
+        "mikulás ruhás anyó: világos bőrtónus", 
         "karácsony", 
+        "mikulás ruhás anyó: közepesen sötét bőrtónus", 
+        "mikulás ruhás anyó: sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "mikulás ruhás anyó: közepes bőrtónus", 
+        "közepes bőrtónus", 
+        "mikulás ruhás anyó", 
+        "mikulás ruhás anyó: közepesen világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
         "anyó", 
-        "mikulás ruhás anyó"
+        "közepesen világos bőrtónus"
     ], 
     "🤷": [
+        "vállrándítás: közepesen sötét bőrtónus", 
+        "vállrándítás", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "vállrándítás: közepes bőrtónus", 
+        "vállrándítás: sötét bőrtónus", 
+        "váll", 
+        "közömbös", 
+        "vállrándítás: világos bőrtónus", 
+        "sötét bőrtónus", 
+        "világos bőrtónus", 
         "rándít", 
         "nem érdekel", 
-        "közömbös", 
+        "közepesen világos bőrtónus", 
+        "vállrándítás: közepesen világos bőrtónus"
+    ], 
+    "🤷‍♀️": [
         "vállrándítás", 
-        "váll"
+        "közömbös", 
+        "érdektelenség", 
+        "vállrándító nő", 
+        "kétség", 
+        "nem érdekel", 
+        "nő"
+    ], 
+    "🤷‍♂️": [
+        "vállrándítás", 
+        "kétség", 
+        "közömbös", 
+        "érdektelenség", 
+        "vállrándító férfi", 
+        "nem érdekel", 
+        "férfi"
     ], 
     "🤸": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "cigánykerék: sötét bőrtónus", 
+        "torna", 
+        "cigánykerék: közepesen világos bőrtónus", 
+        "cigánykerék: világos bőrtónus", 
+        "cigánykerék: közepes bőrtónus", 
+        "cigánykerék: közepesen sötét bőrtónus", 
         "sportoló", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
         "sport", 
         "cigánykerék", 
-        "torna"
+        "közepesen világos bőrtónus"
+    ], 
+    "🤸‍♀️": [
+        "cigánykerekező nő", 
+        "sport", 
+        "cigánykerék", 
+        "torna", 
+        "nő"
+    ], 
+    "🤸‍♂️": [
+        "férfi", 
+        "sport", 
+        "cigánykerék", 
+        "torna", 
+        "cigánykerekező férfi"
     ], 
     "🤹": [
+        "zsonglőr: közepesen világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "zsonglőr: sötét bőrtónus", 
+        "zsonglőr: világos bőrtónus", 
         "ügyes", 
+        "közepes bőrtónus", 
+        "zsonglőr: közepes bőrtónus", 
         "zsonglőr", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "zsonglőr: közepesen sötét bőrtónus", 
         "egyszerre", 
+        "közepesen világos bőrtónus", 
         "egyensúly"
+    ], 
+    "🤹‍♀️": [
+        "egyensúly", 
+        "zsonglőr nő", 
+        "zsonglőr", 
+        "több feladat", 
+        "egyszerre", 
+        "nő"
+    ], 
+    "🤹‍♂️": [
+        "zsonglőr férfi", 
+        "zsonglőr", 
+        "férfi", 
+        "egyensúly", 
+        "egyszerre", 
+        "több feladat"
     ], 
     "🤺": [
         "vívó", 
@@ -6516,16 +8865,76 @@
         "birkózó", 
         "birkózók"
     ], 
+    "🤼‍♀️": [
+        "sport", 
+        "birkózó nők", 
+        "nő", 
+        "birkozás", 
+        "birkozó"
+    ], 
+    "🤼‍♂️": [
+        "birkózó férfiak", 
+        "férfi", 
+        "sport", 
+        "birkozás", 
+        "birkozó"
+    ], 
     "🤽": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "vízilabda: közepes bőrtónus", 
+        "póló", 
+        "vízilabda: közepesen világos bőrtónus", 
+        "sötét bőrtónus", 
+        "vízilabda", 
+        "víz", 
+        "világos bőrtónus", 
+        "vízilabda: közepesen sötét bőrtónus", 
+        "vízilabda: világos bőrtónus", 
+        "sport", 
+        "vízilabda: sötét bőrtónus", 
+        "közepesen világos bőrtónus"
+    ], 
+    "🤽‍♀️": [
         "vízilabda", 
         "póló", 
         "sport", 
-        "víz"
+        "vízilabdázó nő", 
+        "nő"
+    ], 
+    "🤽‍♂️": [
+        "férfi", 
+        "póló", 
+        "sport", 
+        "vízilabdázó férfi", 
+        "vízilabda"
     ], 
     "🤾": [
-        "sport", 
-        "sportoló", 
+        "közepes bőrtónus", 
+        "kézilabda: világos bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "kézilabda: közepes bőrtónus", 
         "labda", 
+        "kézilabda: közepesen sötét bőrtónus", 
+        "sportoló", 
+        "kézilabda", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "kézilabda: sötét bőrtónus", 
+        "sport", 
+        "kézilabda: közepesen világos bőrtónus", 
+        "közepesen világos bőrtónus"
+    ], 
+    "🤾‍♀️": [
+        "nő", 
+        "sport", 
+        "kézilabda", 
+        "kézilabdázó nő"
+    ], 
+    "🤾‍♂️": [
+        "férfi", 
+        "sport", 
+        "kézilabdázó férfi", 
         "kézilabda"
     ], 
     "🥀": [
@@ -6863,73 +9272,183 @@
         "fej monoklival"
     ], 
     "🧑": [
-        "felnőtt"
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "felnőtt: közepesen világos bőrtónus", 
+        "felnőtt", 
+        "felnőtt: világos bőrtónus", 
+        "felnőtt: közepes bőrtónus", 
+        "felnőtt: sötét bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "felnőtt: közepesen sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🧒": [
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "gyerek: sötét bőrtónus", 
+        "gyerek", 
         "gyermek", 
-        "gyerek"
+        "gyerek: közepesen sötét bőrtónus", 
+        "gyerek: közepes bőrtónus", 
+        "gyerek: világos bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "gyerek: közepesen világos bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🧓": [
+        "idősebb felnőtt: világos bőrtónus", 
+        "közepes bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "idősebb felnőtt: közepesen sötét bőrtónus", 
+        "idősebb felnőtt: közepes bőrtónus", 
+        "idősebb felnőtt: közepesen világos bőrtónus", 
+        "idősebb felnőtt", 
+        "idősebb felnőtt: sötét bőrtónus", 
         "nemi szempontból semleges", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
         "idős", 
-        "idősebb felnőtt"
+        "közepesen világos bőrtónus"
     ], 
     "🧔": [
+        "szakállas ember: közepesen világos bőrtónus", 
+        "közepes bőrtónus", 
+        "szakállas ember: közepes bőrtónus", 
+        "szakáll", 
+        "szakállas ember: közepesen sötét bőrtónus", 
+        "közepesen sötét bőrtónus", 
+        "szakállas ember: világos bőrtónus", 
         "szakállas ember", 
-        "szakáll"
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "szakállas ember: sötét bőrtónus", 
+        "közepesen világos bőrtónus"
     ], 
     "🧕": [
+        "nő fejkendővel: sötét bőrtónus", 
+        "közepes bőrtónus", 
+        "nő fejkendővel: közepesen sötét bőrtónus", 
+        "hidzsáb", 
+        "nő fejkendővel: közepesen világos bőrtónus", 
+        "fejkendő", 
+        "közepesen sötét bőrtónus", 
         "nő fejkendővel", 
         "mantilla", 
-        "hidzsáb", 
-        "fejkendő", 
-        "tichel"
+        "nő fejkendővel: világos bőrtónus", 
+        "nő fejkendővel: közepes bőrtónus", 
+        "világos bőrtónus", 
+        "sötét bőrtónus", 
+        "tichel", 
+        "közepesen világos bőrtónus"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "szauna", 
+        "gőzfürdő", 
+        "nő a gőzfürdőben"
+    ], 
+    "🧖‍♂️": [
         "ember a gőzfürdőben", 
+        "férfi a gőzfürdőben", 
         "gőzfürdő", 
         "szauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "mászó nő", 
         "mászó ember", 
         "mászó"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "mászó férfi", 
+        "mászó"
+    ], 
+    "🧘‍♀️": [
         "meditáció", 
+        "nő lótuszülésben", 
         "ember lótuszülésben", 
         "jóga"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "meditáció", 
+        "jóga", 
+        "férfi lótuszülésben"
+    ], 
+    "🧙‍♀️": [
         "boszorkány", 
         "boszorkánymester", 
         "mágus", 
-        "varázsló"
+        "varázsló", 
+        "varázslónő"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "boszorkánymester", 
+        "férfi varázsló", 
+        "mágus"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
         "tündér", 
         "Oberon", 
+        "női tündér", 
         "Titánia"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "férfi tündér", 
+        "Oberon", 
+        "Puck"
+    ], 
+    "🧛‍♀️": [
         "Drakula", 
+        "női vámpír", 
         "élőhalott", 
+        "élőholt", 
         "vámpír"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Drakula", 
+        "élőhalott", 
+        "élőholt", 
+        "férfi vámpír"
+    ], 
+    "🧜‍♀️": [
+        "női sellő", 
+        "sellőlány"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
         "hableány", 
         "sellő", 
+        "férfi sellő", 
         "hablegény"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "női tünde", 
+        "mágikus"
+    ], 
+    "🧝‍♂️": [
+        "férfi tünde", 
         "tünde", 
         "mágikus"
     ], 
-    "🧞": [
-        "dzsinn"
+    "🧞‍♀️": [
+        "dzsinn", 
+        "női dzsinn"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "dzsinn", 
+        "férfi dzsinn"
+    ], 
+    "🧟‍♀️": [
         "sétáló halott", 
+        "női zombi", 
+        "élőhalott", 
+        "élőholt"
+    ], 
+    "🧟‍♂️": [
+        "sétáló halott", 
+        "férfi zombi", 
         "élőhalott", 
         "élőholt", 
         "zombi"

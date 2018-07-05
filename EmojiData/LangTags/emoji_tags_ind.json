@@ -1,4 +1,130 @@
 {
+    "#️⃣": [
+        "keycap", 
+        "keycap: #"
+    ], 
+    "*️⃣": [
+        "keycap", 
+        "keycap: *"
+    ], 
+    "0️⃣": [
+        "keycap", 
+        "keycap: 0"
+    ], 
+    "1️⃣": [
+        "keycap", 
+        "keycap: 1"
+    ], 
+    "2️⃣": [
+        "keycap", 
+        "keycap: 2"
+    ], 
+    "3️⃣": [
+        "keycap", 
+        "keycap: 3"
+    ], 
+    "4️⃣": [
+        "keycap", 
+        "keycap: 4"
+    ], 
+    "5️⃣": [
+        "keycap", 
+        "keycap: 5"
+    ], 
+    "6️⃣": [
+        "keycap: 6", 
+        "keycap"
+    ], 
+    "7️⃣": [
+        "keycap", 
+        "keycap: 7"
+    ], 
+    "8️⃣": [
+        "keycap", 
+        "keycap: 8"
+    ], 
+    "9️⃣": [
+        "keycap", 
+        "keycap: 9"
+    ], 
+    "©️": [
+        "simbol", 
+        "hak cipta"
+    ], 
+    "®️": [
+        "simbol", 
+        "terdaftar"
+    ], 
+    "‼️": [
+        "bangbang", 
+        "tanda", 
+        "tanda seru ganda", 
+        "tanda baca", 
+        "tanda seru"
+    ], 
+    "⁉️": [
+        "tanda seru dan tanya", 
+        "pertanyaan", 
+        "tanda", 
+        "tanda baca", 
+        "tanda seru", 
+        "tanda seru tanda tanya"
+    ], 
+    "™️": [
+        "tanda", 
+        "tm", 
+        "merek dagang", 
+        "tanda merek"
+    ], 
+    "ℹ️": [
+        "i", 
+        "sumber informasi", 
+        "informasi"
+    ], 
+    "↔️": [
+        "tanda panah kiri kanan", 
+        "panah"
+    ], 
+    "↕️": [
+        "tanda panah atas bawah", 
+        "panah"
+    ], 
+    "↖️": [
+        "barat laut", 
+        "tanda panah kiri atas", 
+        "arah", 
+        "interkardinal", 
+        "panah"
+    ], 
+    "↗️": [
+        "arah", 
+        "interkardinal", 
+        "tanda panah kanan atas", 
+        "timur laut", 
+        "panah"
+    ], 
+    "↘️": [
+        "tanda panah kanan bawah", 
+        "arah", 
+        "interkardinal", 
+        "tenggara", 
+        "panah"
+    ], 
+    "↙️": [
+        "barat daya", 
+        "arah", 
+        "interkardinal", 
+        "tanda panah kiri bawah", 
+        "panah"
+    ], 
+    "↩️": [
+        "tanda panah kanan melengkung ke kiri", 
+        "panah"
+    ], 
+    "↪️": [
+        "tanda panah kanan melengkung ke kanan", 
+        "panah"
+    ], 
     "⌚": [
         "jam tangan", 
         "jam"
@@ -7,6 +133,14 @@
         "jam pasir", 
         "pasir", 
         "pewaktu"
+    ], 
+    "⌨️": [
+        "komputer", 
+        "keyboard"
+    ], 
+    "⏏️": [
+        "tombol keluarkan", 
+        "keluarkan"
     ], 
     "⏩": [
         "maju", 
@@ -32,16 +166,107 @@
         "tombol turun cepat", 
         "panah"
     ], 
+    "⏭️": [
+        "segitiga", 
+        "tombol lagu berikutnya", 
+        "trek berikutnya", 
+        "adegan selanjutnya", 
+        "panah"
+    ], 
+    "⏮️": [
+        "trek sebelumnya", 
+        "segitiga", 
+        "adegan sebelumnya", 
+        "tombol lagu terakhir", 
+        "panah"
+    ], 
+    "⏯️": [
+        "putar", 
+        "kanan", 
+        "tombol putar atau jeda", 
+        "panah", 
+        "segitiga", 
+        "jeda"
+    ], 
     "⏰": [
         "alarm", 
         "jam", 
         "jam weker"
+    ], 
+    "⏱️": [
+        "stopwatch", 
+        "jam"
+    ], 
+    "⏲️": [
+        "jam", 
+        "pewaktu", 
+        "penghitung waktu"
     ], 
     "⏳": [
         "jam pasir yang bergerak", 
         "jam", 
         "pasir", 
         "pewaktu"
+    ], 
+    "⏸️": [
+        "tombol jeda", 
+        "batang", 
+        "jeda", 
+        "dobel", 
+        "vertikal"
+    ], 
+    "⏹️": [
+        "berhenti", 
+        "tombol berhenti", 
+        "kotak"
+    ], 
+    "⏺️": [
+        "rekam", 
+        "lingkaran", 
+        "tombol rekam"
+    ], 
+    "Ⓜ️": [
+        "huruf m dalam lingkaran", 
+        "m", 
+        "lingkaran"
+    ], 
+    "▪️": [
+        "geometri", 
+        "kotak kecil hitam", 
+        "persegi", 
+        "kotak"
+    ], 
+    "▫️": [
+        "geometri", 
+        "persegi", 
+        "kotak kecil putih", 
+        "kotak"
+    ], 
+    "▶️": [
+        "segitiga", 
+        "kanan", 
+        "putar", 
+        "tombol putar", 
+        "panah"
+    ], 
+    "◀️": [
+        "balik", 
+        "segitiga", 
+        "kiri", 
+        "tombol mundur", 
+        "panah"
+    ], 
+    "◻️": [
+        "geometri", 
+        "kotak medium putih", 
+        "persegi", 
+        "kotak"
+    ], 
+    "◼️": [
+        "geometri", 
+        "kotak medium hitam", 
+        "persegi", 
+        "kotak"
     ], 
     "◽": [
         "geometri", 
@@ -53,6 +278,43 @@
         "geometri", 
         "kotak kecil medium hitam", 
         "persegi", 
+        "kotak"
+    ], 
+    "☀️": [
+        "cerah", 
+        "sinar", 
+        "matahari", 
+        "cuaca", 
+        "terang", 
+        "angkasa"
+    ], 
+    "☁️": [
+        "cuaca", 
+        "awan"
+    ], 
+    "☂️": [
+        "cuaca", 
+        "hujan", 
+        "pakaian", 
+        "payung"
+    ], 
+    "☃️": [
+        "cuaca", 
+        "salju", 
+        "boneka salju dengan hujan salju", 
+        "dingin"
+    ], 
+    "☄️": [
+        "komet", 
+        "angkasa"
+    ], 
+    "☎️": [
+        "telepon"
+    ], 
+    "☑️": [
+        "surat suara", 
+        "centang", 
+        "kotak suara bercentang", 
         "kotak"
     ], 
     "☔": [
@@ -69,6 +331,94 @@
         "minuman", 
         "mengepul", 
         "panas"
+    ], 
+    "☘️": [
+        "shamrock", 
+        "tanaman"
+    ], 
+    "☝️": [
+        "jari", 
+        "tangan", 
+        "tunjuk", 
+        "menunjuk ke atas", 
+        "tubuh", 
+        "atas", 
+        "telunjuk", 
+        "badan"
+    ], 
+    "☠️": [
+        "monster", 
+        "tengkorak", 
+        "tulang", 
+        "mayat", 
+        "muka", 
+        "wajah", 
+        "tengkorak dan tulang", 
+        "mati"
+    ], 
+    "☢️": [
+        "tanda", 
+        "radioaktif"
+    ], 
+    "☣️": [
+        "tanda", 
+        "biohazard"
+    ], 
+    "☦️": [
+        "salib", 
+        "salib ortodoks", 
+        "agama", 
+        "kristen"
+    ], 
+    "☪️": [
+        "agama", 
+        "islam", 
+        "muslim", 
+        "bintang dan bulan"
+    ], 
+    "☮️": [
+        "damai", 
+        "simbol damai"
+    ], 
+    "☯️": [
+        "yin yang", 
+        "yin", 
+        "yang", 
+        "taoisme", 
+        "agama", 
+        "tao"
+    ], 
+    "☸️": [
+        "roda", 
+        "budha", 
+        "agama", 
+        "roda darma", 
+        "dharma"
+    ], 
+    "☹️": [
+        "muka", 
+        "cemberut", 
+        "wajah", 
+        "wajah cemberut"
+    ], 
+    "☺️": [
+        "tersipu", 
+        "rileks", 
+        "muka", 
+        "wajah", 
+        "wajah tersenyum", 
+        "santai", 
+        "senyum"
+    ], 
+    "♀️": [
+        "simbol", 
+        "simbol wanita", 
+        "perempuan"
+    ], 
+    "♂️": [
+        "laki-laki", 
+        "simbol pria", 
+        "simbol"
     ], 
     "♈": [
         "zodiak", 
@@ -134,14 +484,97 @@
         "zodiak", 
         "pisces"
     ], 
+    "♠️": [
+        "permainan", 
+        "sekop", 
+        "kartu"
+    ], 
+    "♣️": [
+        "klub", 
+        "permainan", 
+        "keriting", 
+        "kartu"
+    ], 
+    "♥️": [
+        "hati", 
+        "permainan", 
+        "kartu"
+    ], 
+    "♦️": [
+        "permainan", 
+        "kartu", 
+        "wajik"
+    ], 
+    "♨️": [
+        "sumber air panas", 
+        "air", 
+        "mengepul", 
+        "panas", 
+        "mata", 
+        "sumber"
+    ], 
+    "♻️": [
+        "daur ulang", 
+        "simbol daur ulang"
+    ], 
     "♿": [
         "kursi roda", 
         "akses"
+    ], 
+    "⚒️": [
+        "beliung", 
+        "palu", 
+        "palu dan beliung", 
+        "alat"
     ], 
     "⚓": [
         "kapal", 
         "jangkar", 
         "alat"
+    ], 
+    "⚔️": [
+        "pedang bersilang", 
+        "pedang", 
+        "silang", 
+        "senjata"
+    ], 
+    "⚕️": [
+        "apotek", 
+        "simbol", 
+        "kesehatan", 
+        "simbol kedokteran"
+    ], 
+    "⚖️": [
+        "timbangan", 
+        "timbangan gantung", 
+        "seimbang", 
+        "zodiak", 
+        "libra", 
+        "alat", 
+        "adil", 
+        "skala"
+    ], 
+    "⚗️": [
+        "alat", 
+        "kimia", 
+        "alembic"
+    ], 
+    "⚙️": [
+        "alat", 
+        "roda gigi"
+    ], 
+    "⚛️": [
+        "simbol atom", 
+        "ateis", 
+        "atom"
+    ], 
+    "⚜️": [
+        "tanda", 
+        "fleur-de-lis"
+    ], 
+    "⚠️": [
+        "tanda", 
+        "peringatan"
     ], 
     "⚡": [
         "tegangan", 
@@ -160,6 +593,16 @@
         "geometri", 
         "lingkaran hitam", 
         "lingkaran"
+    ], 
+    "⚰️": [
+        "kematian", 
+        "peti mati"
+    ], 
+    "⚱️": [
+        "kematian", 
+        "guci", 
+        "guci abu", 
+        "penguburan"
     ], 
     "⚽": [
         "bola", 
@@ -183,11 +626,35 @@
         "awan", 
         "matahari"
     ], 
+    "⛈️": [
+        "cuaca", 
+        "hujan", 
+        "awan", 
+        "awan dengan petir dan hujan", 
+        "petir"
+    ], 
     "⛎": [
         "ular", 
         "zodiak", 
         "ophiuchus", 
         "pembawa"
+    ], 
+    "⛏️": [
+        "beliung", 
+        "tambang", 
+        "alat"
+    ], 
+    "⛑️": [
+        "p3k", 
+        "palang", 
+        "muka", 
+        "wajah", 
+        "topi", 
+        "helm", 
+        "helm dengan palang putih"
+    ], 
+    "⛓️": [
+        "rantai"
     ], 
     "⛔": [
         "terlarang", 
@@ -197,12 +664,28 @@
         "dilarang masuk", 
         "tidak"
     ], 
+    "⛩️": [
+        "shinto", 
+        "agama", 
+        "kuil Shinto", 
+        "kuil"
+    ], 
     "⛪": [
         "salib", 
         "agama", 
         "gereja", 
         "bangunan", 
         "kristen"
+    ], 
+    "⛰️": [
+        "gunung"
+    ], 
+    "⛱️": [
+        "cuaca", 
+        "hujan", 
+        "payung di tanah", 
+        "payung", 
+        "matahari"
     ], 
     "⛲": [
         "pancuran", 
@@ -214,6 +697,10 @@
         "golf", 
         "bendera di lubang golf"
     ], 
+    "⛴️": [
+        "kapal feri", 
+        "perahu"
+    ], 
     "⛵": [
         "resor", 
         "pesiar", 
@@ -222,6 +709,20 @@
         "kapal", 
         "perahu", 
         "laut"
+    ], 
+    "⛷️": [
+        "salju", 
+        "pemain ski", 
+        "ski"
+    ], 
+    "⛸️": [
+        "seluncur es", 
+        "seluncur", 
+        "es"
+    ], 
+    "⛹️‍♂️": [
+        "bola", 
+        "orang memantulkan bola"
     ], 
     "⛺": [
         "tenda", 
@@ -236,29 +737,127 @@
         "bensin", 
         "SPBU"
     ], 
+    "✂️": [
+        "alat", 
+        "gunting"
+    ], 
     "✅": [
         "centang", 
         "tanda centang putih tebal", 
         "tanda"
     ], 
+    "✈️": [
+        "kendaraan", 
+        "pesawat"
+    ], 
+    "✉️": [
+        "amplop", 
+        "email"
+    ], 
     "✊": [
+        "tangan terkepal ke atas: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
+        "tangan terkepal ke atas: warna kulit jenis 6", 
+        "tangan terkepal ke atas: warna kulit jenis 5", 
         "tangan", 
+        "warna kulit jenis 5", 
         "tangan terkepal ke atas", 
+        "tangan terkepal ke atas: warna kulit jenis 4", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "tangan terkepal ke atas: warna kulit jenis 1–2", 
+        "warna kulit jenis 3", 
         "kepal", 
         "tubuh", 
         "tinju", 
         "badan"
     ], 
     "✋": [
-        "telapak tangan terbuka dengan jari rapat", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "tangan", 
         "rapat", 
-        "badan", 
+        "telapak tangan terbuka dengan jari rapat: warna kulit jenis 6", 
+        "telapak tangan terbuka dengan jari rapat: warna kulit jenis 5", 
+        "telapak tangan terbuka dengan jari rapat: warna kulit jenis 4", 
+        "telapak tangan terbuka dengan jari rapat: warna kulit jenis 3", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "tubuh", 
-        "tangan"
+        "telapak tangan terbuka dengan jari rapat: warna kulit jenis 1–2", 
+        "telapak tangan terbuka dengan jari rapat", 
+        "badan"
+    ], 
+    "✌️": [
+        "jari", 
+        "tangan", 
+        "menang", 
+        "tubuh", 
+        "isyarat kemenangan", 
+        "badan"
+    ], 
+    "✍️": [
+        "tangan menulis", 
+        "tangan", 
+        "tulis", 
+        "tubuh", 
+        "nulis", 
+        "badan"
+    ], 
+    "✏️": [
+        "pensil"
+    ], 
+    "✒️": [
+        "ujung pena", 
+        "pena"
+    ], 
+    "✔️": [
+        "centang", 
+        "tanda centang tebal", 
+        "tanda"
+    ], 
+    "✖️": [
+        "kali", 
+        "perkalian", 
+        "x", 
+        "tanda perkalian tebal", 
+        "batal"
+    ], 
+    "✝️": [
+        "salib", 
+        "salib latin", 
+        "agama", 
+        "kristen"
+    ], 
+    "✡️": [
+        "yahudi", 
+        "bintang david", 
+        "agama", 
+        "bintang", 
+        "daud"
     ], 
     "✨": [
         "berkilau", 
         "bintang"
+    ], 
+    "✳️": [
+        "tanda bintang", 
+        "bintang berujung lancip delapan"
+    ], 
+    "✴️": [
+        "bintang", 
+        "bintang berujung delapan"
+    ], 
+    "❄️": [
+        "cuaca", 
+        "salju", 
+        "serpihan salju", 
+        "dingin"
+    ], 
+    "❇️": [
+        "berkilau", 
+        "kilauan"
     ], 
     "❌": [
         "perkalian", 
@@ -298,6 +897,16 @@
         "tanda baca", 
         "tanda seru"
     ], 
+    "❣️": [
+        "hati", 
+        "tanda", 
+        "seru", 
+        "tanda seru berbentuk hati"
+    ], 
+    "❤️": [
+        "hati", 
+        "hati merah"
+    ], 
     "➕": [
         "tambah", 
         "tanda penjumlahan tebal", 
@@ -313,6 +922,13 @@
         "tanda pembagian tebal", 
         "matematika"
     ], 
+    "➡️": [
+        "tanda panah kanan", 
+        "arah", 
+        "kardinal", 
+        "timur", 
+        "panah"
+    ], 
     "➰": [
         "keriting", 
         "putaran", 
@@ -323,6 +939,37 @@
         "putaran", 
         "dobel", 
         "untaian bergelombang ganda"
+    ], 
+    "⤴️": [
+        "tanda panah kanan melengkung ke atas", 
+        "panah"
+    ], 
+    "⤵️": [
+        "bawah", 
+        "tanda panah kanan melengkung ke bawah", 
+        "panah"
+    ], 
+    "⬅️": [
+        "tanda panah kiri", 
+        "arah", 
+        "kardinal", 
+        "barat", 
+        "panah"
+    ], 
+    "⬆️": [
+        "utara", 
+        "arah", 
+        "kardinal", 
+        "tanda panah atas", 
+        "panah"
+    ], 
+    "⬇️": [
+        "tanda panah bawah", 
+        "kardinal", 
+        "selatan", 
+        "panah", 
+        "bawah", 
+        "arah"
     ], 
     "⬛": [
         "geometri", 
@@ -345,6 +992,31 @@
         "lingkaran", 
         "lingkaran besar tebal"
     ], 
+    "〰️": [
+        "gelombang", 
+        "garis bergelombang", 
+        "tanda pisah", 
+        "tanda baca"
+    ], 
+    "〽️": [
+        "tanda", 
+        "bagian", 
+        "tanda alternasi bagian"
+    ], 
+    "㊗️": [
+        "karakter selamat dalam lingkaran", 
+        "ideograf", 
+        "selamat", 
+        "china", 
+        "cina"
+    ], 
+    "㊙️": [
+        "rahasia", 
+        "ideograf", 
+        "china", 
+        "karakter rahasia dalam lingkaran", 
+        "cina"
+    ], 
     "🀄": [
         "mahyong", 
         "naga merah mahyong", 
@@ -355,6 +1027,25 @@
         "joker", 
         "permainan", 
         "kartu"
+    ], 
+    "🅰️": [
+        "a", 
+        "tombol a", 
+        "darah"
+    ], 
+    "🅱️": [
+        "tombol b", 
+        "b", 
+        "darah"
+    ], 
+    "🅾️": [
+        "tombol o", 
+        "o", 
+        "darah"
+    ], 
+    "🅿️": [
+        "tombol p", 
+        "parkir"
     ], 
     "🆎": [
         "ab", 
@@ -1441,6 +2132,10 @@
         "katakana koko dalam kotak", 
         "jepang"
     ], 
+    "🈂️": [
+        "jepang", 
+        "katakana sa dalam kotak"
+    ], 
     "🈚": [
         "jepang", 
         "karakter negasi dalam kotak"
@@ -1471,6 +2166,10 @@
     "🈶": [
         "jepang", 
         "karakter ada dalam kotak"
+    ], 
+    "🈷️": [
+        "jepang", 
+        "karakter bulan dalam kotak"
     ], 
     "🈸": [
         "karakter terapkan dalam kotak", 
@@ -1729,6 +2428,68 @@
         "bintang", 
         "angkasa"
     ], 
+    "🌡️": [
+        "cuaca", 
+        "termometer"
+    ], 
+    "🌤️": [
+        "cuaca", 
+        "matahari di balik awan kecil", 
+        "awan", 
+        "matahari"
+    ], 
+    "🌥️": [
+        "cuaca", 
+        "matahari di balik awan besar", 
+        "awan", 
+        "matahari"
+    ], 
+    "🌦️": [
+        "cuaca", 
+        "hujan", 
+        "matahari di balik awan hujan", 
+        "awan", 
+        "matahari"
+    ], 
+    "🌧️": [
+        "cuaca", 
+        "hujan", 
+        "awan", 
+        "awan hujan"
+    ], 
+    "🌨️": [
+        "cuaca", 
+        "salju", 
+        "awan salju", 
+        "awan", 
+        "dingin"
+    ], 
+    "🌩️": [
+        "cuaca", 
+        "awan petir", 
+        "awan", 
+        "kilat"
+    ], 
+    "🌪️": [
+        "angin", 
+        "cuaca", 
+        "pusaran", 
+        "tornado", 
+        "awan"
+    ], 
+    "🌫️": [
+        "cuaca", 
+        "kabut", 
+        "awan"
+    ], 
+    "🌬️": [
+        "cuaca", 
+        "hembusan", 
+        "angin", 
+        "wajah", 
+        "wajah tertiup angin", 
+        "awan"
+    ], 
     "🌭": [
         "hot dog", 
         "sosis", 
@@ -1771,6 +2532,12 @@
     "🌵": [
         "tanaman", 
         "kaktus"
+    ], 
+    "🌶️": [
+        "lada", 
+        "cabai pedas", 
+        "pedas", 
+        "tanaman"
     ], 
     "🌷": [
         "tanaman", 
@@ -2188,6 +2955,13 @@
         "botol bayi", 
         "botol"
     ], 
+    "🍽️": [
+        "masak", 
+        "garpu dan pisau dengan piring", 
+        "pisau", 
+        "garpu", 
+        "piring"
+    ], 
     "🍾": [
         "bar", 
         "botol", 
@@ -2238,10 +3012,20 @@
     ], 
     "🎅": [
         "fantasi", 
+        "warna kulit jenis 1–2", 
         "dongeng", 
+        "Sinterklas: warna kulit jenis 3", 
+        "warna kulit jenis 5", 
+        "Sinterklas: warna kulit jenis 6", 
+        "Sinterklas: warna kulit jenis 5", 
+        "Sinterklas: warna kulit jenis 4", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "natal", 
+        "warna kulit jenis 3", 
         "santa", 
         "Sinterklas", 
+        "Sinterklas: warna kulit jenis 1–2", 
         "perayaan"
     ], 
     "🎆": [
@@ -2331,6 +3115,48 @@
         "topi", 
         "wisuda", 
         "toga"
+    ], 
+    "🎖️": [
+        "medali militer", 
+        "militer", 
+        "medali", 
+        "perayaan"
+    ], 
+    "🎗️": [
+        "pita", 
+        "pita pengingat", 
+        "pengingat", 
+        "perayaan"
+    ], 
+    "🎙️": [
+        "studio", 
+        "mik", 
+        "musik", 
+        "mikrofon", 
+        "mikrofon studio"
+    ], 
+    "🎚️": [
+        "penggeser", 
+        "musik", 
+        "penggeser tingkat", 
+        "level"
+    ], 
+    "🎛️": [
+        "kontrol", 
+        "tombol kontrol", 
+        "musik", 
+        "kenop"
+    ], 
+    "🎞️": [
+        "frame film", 
+        "frame", 
+        "film", 
+        "sinema"
+    ], 
+    "🎟️": [
+        "tiket", 
+        "masuk", 
+        "tiket masuk"
     ], 
     "🎠": [
         "karosel", 
@@ -2520,20 +3346,49 @@
         "kotak-kotak"
     ], 
     "🏂": [
+        "peselancar salju: warna kulit jenis 6", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "peselancar salju", 
+        "warna kulit jenis 5", 
         "salju", 
+        "peselancar salju: warna kulit jenis 3", 
+        "warna kulit jenis 4", 
         "papan", 
+        "warna kulit jenis 3", 
+        "peselancar salju: warna kulit jenis 5", 
+        "peselancar salju: warna kulit jenis 4", 
         "ski", 
         "seluncur", 
-        "peselancar salju"
+        "peselancar salju: warna kulit jenis 1–2"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "wanita berlari", 
         "lari", 
-        "orang berlari", 
-        "marathon", 
-        "maraton"
+        "kaki", 
+        "perempuan"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "laki-laki", 
+        "pria berlari", 
+        "kaki", 
+        "orang berlari", 
+        "maraton", 
+        "lari", 
+        "marathon"
+    ], 
+    "🏄‍♀️": [
+        "wanita berselancar", 
+        "ombak", 
+        "selancar", 
+        "perempuan"
+    ], 
+    "🏄‍♂️": [
+        "laki-laki", 
+        "selancar", 
         "orang berselancar", 
+        "pria berselancar", 
+        "ombak", 
         "seluncur"
     ], 
     "🏅": [
@@ -2545,10 +3400,20 @@
         "piala"
     ], 
     "🏇": [
-        "balapan", 
         "pacuan", 
+        "balap kuda: warna kulit jenis 5", 
         "balap kuda", 
+        "balap kuda: warna kulit jenis 6", 
+        "balapan", 
+        "warna kulit jenis 1–2", 
+        "balap kuda: warna kulit jenis 3", 
         "kuda", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "balap kuda: warna kulit jenis 4", 
+        "balap kuda: warna kulit jenis 1–2", 
         "joki"
     ], 
     "🏈": [
@@ -2563,9 +3428,35 @@
         "football", 
         "rugby"
     ], 
-    "🏊": [
-        "orang berenang", 
+    "🏊‍♀️": [
+        "wanita berenang", 
+        "perempuan", 
         "renang"
+    ], 
+    "🏊‍♂️": [
+        "laki-laki", 
+        "orang berenang", 
+        "pria berenang", 
+        "renang"
+    ], 
+    "🏋️‍♂️": [
+        "angkat", 
+        "beban", 
+        "orang mengangkat beban"
+    ], 
+    "🏌️‍♂️": [
+        "bola", 
+        "golf", 
+        "orang bermain golf"
+    ], 
+    "🏍️": [
+        "balapan", 
+        "sepeda motor"
+    ], 
+    "🏎️": [
+        "balapan", 
+        "mobil balap", 
+        "mobil"
     ], 
     "🏏": [
         "bola", 
@@ -2601,6 +3492,63 @@
         "tenis meja", 
         "bet", 
         "ping pong"
+    ], 
+    "🏔️": [
+        "gunung", 
+        "salju", 
+        "gunung dengan puncak bersalju", 
+        "dingin"
+    ], 
+    "🏕️": [
+        "kemah", 
+        "tenda", 
+        "berkemah"
+    ], 
+    "🏖️": [
+        "pantai dan payung", 
+        "payung", 
+        "pantai"
+    ], 
+    "🏗️": [
+        "konstruksi", 
+        "konstruksi bangunan", 
+        "bangunan"
+    ], 
+    "🏘️": [
+        "rumah", 
+        "perumahan", 
+        "bangunan"
+    ], 
+    "🏙️": [
+        "panorama kota", 
+        "bangunan", 
+        "kota"
+    ], 
+    "🏚️": [
+        "rumah", 
+        "rumah terlantar", 
+        "terlantar", 
+        "bangunan"
+    ], 
+    "🏛️": [
+        "klasik", 
+        "bangunan klasik", 
+        "bangunan"
+    ], 
+    "🏜️": [
+        "gurun"
+    ], 
+    "🏝️": [
+        "pulau", 
+        "pulau terpencil", 
+        "gurun"
+    ], 
+    "🏞️": [
+        "taman nasional", 
+        "taman"
+    ], 
+    "🏟️": [
+        "stadion"
     ], 
     "🏠": [
         "rumah", 
@@ -2691,6 +3639,15 @@
         "eropa", 
         "bangunan"
     ], 
+    "🏳️": [
+        "bendera putih berkibar", 
+        "berkibar"
+    ], 
+    "🏳️‍🌈": [
+        "bendera pelangi", 
+        "pelangi", 
+        "bendera"
+    ], 
     "🏴": [
         "bendera hitam berkibar", 
         "berkibar"
@@ -2706,6 +3663,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Wales", 
         "bendera"
+    ], 
+    "🏵️": [
+        "hiasan mawar", 
+        "tanaman"
+    ], 
+    "🏷️": [
+        "label"
     ], 
     "🏸": [
         "game", 
@@ -3066,6 +4030,9 @@
         "jejak", 
         "cakar"
     ], 
+    "🐿️": [
+        "tupai"
+    ], 
     "👀": [
         "dua mata", 
         "mata", 
@@ -3074,15 +4041,40 @@
         "tubuh", 
         "badan"
     ], 
-    "👂": [
-        "tubuh", 
-        "badan", 
-        "telinga"
-    ], 
-    "👃": [
-        "hidung", 
+    "👁️": [
+        "satu mata", 
         "badan", 
         "tubuh"
+    ], 
+    "👂": [
+        "warna kulit jenis 1–2", 
+        "telinga", 
+        "warna kulit jenis 6", 
+        "telinga: warna kulit jenis 1–2", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "tubuh", 
+        "telinga: warna kulit jenis 5", 
+        "telinga: warna kulit jenis 4", 
+        "telinga: warna kulit jenis 6", 
+        "badan", 
+        "telinga: warna kulit jenis 3"
+    ], 
+    "👃": [
+        "warna kulit jenis 1–2", 
+        "hidung: warna kulit jenis 3", 
+        "hidung: warna kulit jenis 6", 
+        "hidung: warna kulit jenis 5", 
+        "hidung: warna kulit jenis 4", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "hidung: warna kulit jenis 1–2", 
+        "warna kulit jenis 3", 
+        "tubuh", 
+        "hidung", 
+        "warna kulit jenis 5", 
+        "badan"
     ], 
     "👄": [
         "mulut", 
@@ -3097,47 +4089,97 @@
     ], 
     "👆": [
         "jari", 
+        "warna kulit jenis 1–2", 
+        "menunjuk ke atas (dibalik): warna kulit jenis 4", 
         "tangan", 
+        "warna kulit jenis 5", 
+        "menunjuk ke atas (dibalik): warna kulit jenis 3", 
         "menunjuk ke atas (dibalik)", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "tunjuk", 
+        "warna kulit jenis 3", 
         "tubuh", 
+        "menunjuk ke atas (dibalik): warna kulit jenis 6", 
+        "menunjuk ke atas (dibalik): warna kulit jenis 5", 
         "atas", 
         "telunjuk", 
-        "badan"
+        "badan", 
+        "menunjuk ke atas (dibalik): warna kulit jenis 1–2"
     ], 
     "👇": [
         "jari", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
         "tengah", 
         "tangan", 
+        "warna kulit jenis 5", 
+        "menunjuk ke bawah: warna kulit jenis 4", 
+        "menunjuk ke bawah: warna kulit jenis 1–2", 
+        "menunjuk ke bawah: warna kulit jenis 3", 
+        "warna kulit jenis 4", 
         "tunjuk", 
+        "warna kulit jenis 3", 
+        "menunjuk ke bawah: warna kulit jenis 5", 
         "tubuh", 
         "bawah", 
+        "menunjuk ke bawah: warna kulit jenis 6", 
         "badan", 
         "menunjuk ke bawah"
     ], 
     "👈": [
         "jari", 
+        "menunjuk ke arah kiri: warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
         "menunjuk ke arah kiri", 
+        "menunjuk ke arah kiri: warna kulit jenis 3", 
         "tunjuk", 
         "tangan", 
+        "warna kulit jenis 5", 
+        "menunjuk ke arah kiri: warna kulit jenis 4", 
+        "menunjuk ke arah kiri: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "kiri", 
+        "warna kulit jenis 3", 
+        "menunjuk ke arah kiri: warna kulit jenis 5", 
         "tubuh", 
         "telunjuk", 
         "badan"
     ], 
     "👉": [
         "jari", 
+        "menunjuk ke arah kanan: warna kulit jenis 1–2", 
+        "warna kulit jenis 1–2", 
         "tangan", 
+        "warna kulit jenis 5", 
         "kanan", 
+        "menunjuk ke arah kanan: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "tunjuk", 
+        "menunjuk ke arah kanan: warna kulit jenis 4", 
+        "warna kulit jenis 3", 
+        "menunjuk ke arah kanan: warna kulit jenis 6", 
         "tubuh", 
         "telunjuk", 
         "badan", 
-        "menunjuk ke arah kanan"
+        "menunjuk ke arah kanan", 
+        "menunjuk ke arah kanan: warna kulit jenis 5"
     ], 
     "👊": [
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
         "tangan", 
+        "tangan terkepal ke depan: warna kulit jenis 3", 
         "tonjok", 
+        "tangan terkepal ke depan: warna kulit jenis 6", 
+        "tangan terkepal ke depan: warna kulit jenis 5", 
+        "tangan terkepal ke depan: warna kulit jenis 4", 
+        "tangan terkepal ke depan: warna kulit jenis 1–2", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "kepal", 
         "tubuh", 
         "tinju", 
@@ -3145,49 +4187,109 @@
         "tangan terkepal ke depan"
     ], 
     "👋": [
-        "lambai", 
         "tangan melambai", 
+        "warna kulit jenis 1–2", 
+        "tangan", 
+        "lambai", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "tangan melambai: warna kulit jenis 1–2", 
         "tubuh", 
+        "tangan melambai: warna kulit jenis 3", 
+        "tangan melambai: warna kulit jenis 6", 
         "badan", 
-        "tangan"
+        "tangan melambai: warna kulit jenis 4", 
+        "tangan melambai: warna kulit jenis 5"
     ], 
     "👌": [
-        "tubuh", 
+        "warna kulit jenis 1–2", 
+        "tangan", 
+        "oke: warna kulit jenis 6", 
+        "oke: warna kulit jenis 1–2", 
+        "oke: warna kulit jenis 5", 
+        "oke: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "oke", 
-        "badan", 
-        "tangan"
+        "warna kulit jenis 3", 
+        "tubuh", 
+        "oke: warna kulit jenis 4", 
+        "badan"
     ], 
     "👍": [
+        "warna kulit jenis 1–2", 
         "jempol", 
         "tangan", 
         "jempol ke atas", 
+        "warna kulit jenis 4", 
+        "jempol ke atas: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
         "+1", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "tubuh", 
+        "jempol ke atas: warna kulit jenis 3", 
         "atas", 
-        "badan"
+        "jempol ke atas: warna kulit jenis 6", 
+        "badan", 
+        "jempol ke atas: warna kulit jenis 4", 
+        "jempol ke atas: warna kulit jenis 5"
     ], 
     "👎": [
+        "jempol ke bawah: warna kulit jenis 1–2", 
+        "warna kulit jenis 1–2", 
         "jempol", 
         "tangan", 
+        "warna kulit jenis 4", 
         "jempol ke bawah", 
+        "warna kulit jenis 6", 
+        "jempol ke bawah: warna kulit jenis 5", 
         "+1", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "tubuh", 
         "bawah", 
-        "badan"
+        "jempol ke bawah: warna kulit jenis 4", 
+        "jempol ke bawah: warna kulit jenis 6", 
+        "badan", 
+        "jempol ke bawah: warna kulit jenis 3"
     ], 
     "👏": [
-        "tepuk tangan", 
+        "warna kulit jenis 6", 
         "tepuk", 
+        "tepuk tangan: warna kulit jenis 1–2", 
+        "tangan", 
+        "tepuk tangan: warna kulit jenis 6", 
+        "tepuk tangan: warna kulit jenis 4", 
+        "tepuk tangan: warna kulit jenis 5", 
+        "warna kulit jenis 1–2", 
+        "tepuk tangan: warna kulit jenis 3", 
+        "tepuk tangan", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "tubuh", 
-        "badan", 
-        "tangan"
+        "badan"
     ], 
     "👐": [
+        "warna kulit jenis 1–2", 
         "terbuka", 
+        "tangan terbuka: warna kulit jenis 4", 
+        "tangan", 
+        "warna kulit jenis 4", 
+        "tangan terbuka: warna kulit jenis 6", 
         "tangan terbuka", 
-        "badan", 
+        "warna kulit jenis 6", 
+        "tangan terbuka: warna kulit jenis 3", 
+        "warna kulit jenis 5", 
+        "tangan terbuka: warna kulit jenis 5", 
+        "tangan terbuka: warna kulit jenis 1–2", 
         "tubuh", 
-        "tangan"
+        "badan", 
+        "warna kulit jenis 3"
     ], 
     "👑": [
         "raja", 
@@ -3306,65 +4408,200 @@
         "beberapa siluet foto setengah badan"
     ], 
     "👦": [
+        "warna kulit jenis 1–2", 
         "anak laki-laki", 
+        "anak laki-laki: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "cowok", 
+        "anak laki-laki: warna kulit jenis 3", 
+        "anak laki-laki: warna kulit jenis 5", 
+        "anak laki-laki: warna kulit jenis 6", 
         "anak", 
-        "cowok"
+        "anak laki-laki: warna kulit jenis 4", 
+        "warna kulit jenis 3"
     ], 
     "👧": [
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "anak perempuan: warna kulit jenis 3", 
+        "anak perempuan: warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "anak perempuan: warna kulit jenis 4", 
+        "anak perempuan: warna kulit jenis 5", 
         "virgo", 
         "zodiak", 
+        "warna kulit jenis 5", 
         "gadis", 
         "cewek", 
         "anak perempuan", 
-        "anak"
+        "anak", 
+        "anak perempuan: warna kulit jenis 1–2", 
+        "warna kulit jenis 3"
     ], 
     "👨": [
-        "pria", 
+        "pria: warna kulit jenis 6", 
         "laki-laki", 
-        "bapak"
+        "pria: warna kulit jenis 5", 
+        "bapak", 
+        "pria: warna kulit jenis 3", 
+        "pria", 
+        "pria: warna kulit jenis 4", 
+        "warna kulit jenis 1–2", 
+        "pria: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3"
+    ], 
+    "👨‍⚕️": [
+        "laki-laki", 
+        "pekerja kesehatan pria", 
+        "dokter", 
+        "perawatan kesehatan"
+    ], 
+    "👨‍⚖️": [
+        "hakim pria", 
+        "laki-laki", 
+        "hukum", 
+        "pengadilan"
+    ], 
+    "👨‍✈️": [
+        "pesawat", 
+        "laki-laki", 
+        "pilot pria", 
+        "pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "pasangan dengan hati", 
+        "pasangan", 
+        "pria", 
+        "pasangan dengan hati: pria, pria", 
+        "hati", 
+        "romantis", 
+        "cinta"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "pasangan", 
+        "pria", 
+        "berciuman: pria, pria", 
+        "romantis", 
+        "cium", 
+        "berciuman"
     ], 
     "👨‍🌾": [
-        "padi", 
-        "sawah", 
+        "warna kulit jenis 6", 
         "laki-laki", 
+        "padi", 
+        "petani pria: warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "petani pria: warna kulit jenis 4", 
+        "petani pria: warna kulit jenis 5", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "petani pria: warna kulit jenis 1–2", 
+        "warna kulit jenis 3", 
+        "petani pria: warna kulit jenis 3", 
+        "sawah", 
         "petani pria"
     ], 
     "👨‍🍳": [
+        "koki pria: warna kulit jenis 3", 
         "laki-laki", 
-        "koki pria", 
         "memasak", 
-        "dapur"
+        "koki pria: warna kulit jenis 6", 
+        "koki pria: warna kulit jenis 5", 
+        "dapur", 
+        "koki pria: warna kulit jenis 4", 
+        "warna kulit jenis 1–2", 
+        "koki pria", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "koki pria: warna kulit jenis 1–2"
     ], 
     "👨‍🎓": [
-        "universitas", 
+        "warna kulit jenis 6", 
         "laki-laki", 
-        "wisuda", 
+        "sarjana pria: warna kulit jenis 4", 
+        "sarjana pria: warna kulit jenis 5", 
+        "sarjana pria: warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "sarjana pria: warna kulit jenis 3", 
+        "universitas", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "sarjana pria: warna kulit jenis 1–2", 
         "sarjana pria", 
+        "wisuda", 
         "toga"
     ], 
     "👨‍🎤": [
-        "lagu", 
         "laki-laki", 
+        "warna kulit jenis 5", 
+        "lagu", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "penyanyi pria: warna kulit jenis 4", 
+        "warna kulit jenis 4", 
         "suara", 
-        "penyanyi pria"
+        "penyanyi pria", 
+        "warna kulit jenis 3", 
+        "penyanyi pria: warna kulit jenis 1–2", 
+        "penyanyi pria: warna kulit jenis 5", 
+        "penyanyi pria: warna kulit jenis 6", 
+        "penyanyi pria: warna kulit jenis 3"
     ], 
     "👨‍🎨": [
+        "warna kulit jenis 6", 
         "laki-laki", 
         "seni", 
+        "seniman pria: warna kulit jenis 4", 
+        "warna kulit jenis 1–2", 
+        "seniman pria", 
+        "seniman pria: warna kulit jenis 3", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "seniman pria: warna kulit jenis 5", 
+        "seniman pria: warna kulit jenis 1–2", 
         "lukisan", 
-        "seniman pria"
+        "seniman pria: warna kulit jenis 6"
     ], 
     "👨‍🏫": [
-        "pengajar", 
-        "pengajar pria", 
+        "sekolah", 
         "laki-laki", 
-        "sekolah"
+        "pengajar pria: warna kulit jenis 1–2", 
+        "pengajar pria: warna kulit jenis 5", 
+        "pengajar pria: warna kulit jenis 4", 
+        "pengajar pria: warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "pengajar pria: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
+        "pengajar pria", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "pengajar"
     ], 
     "👨‍🏭": [
         "laki-laki", 
-        "pabrik", 
+        "pekerja pabrik pria: warna kulit jenis 3", 
+        "pekerja pabrik pria: warna kulit jenis 4", 
         "pekerja", 
-        "pekerja pabrik pria"
+        "pekerja pabrik pria: warna kulit jenis 6", 
+        "pekerja pabrik pria: warna kulit jenis 1–2", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "pabrik", 
+        "warna kulit jenis 3", 
+        "pekerja pabrik pria", 
+        "warna kulit jenis 5", 
+        "pekerja pabrik pria: warna kulit jenis 5"
     ], 
     "👨‍👦": [
         "ayah", 
@@ -3556,87 +4793,281 @@
     ], 
     "👨‍💻": [
         "laki-laki", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "ahli teknologi pria: warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "ahli teknologi pria: warna kulit jenis 4", 
+        "ahli teknologi pria: warna kulit jenis 3", 
+        "warna kulit jenis 3", 
+        "ahli teknologi pria", 
+        "ahli teknologi pria: warna kulit jenis 5", 
         "komputer", 
         "teknologi", 
-        "ahli teknologi pria"
+        "ahli teknologi pria: warna kulit jenis 1–2"
     ], 
     "👨‍💼": [
+        "warna kulit jenis 6", 
         "laki-laki", 
         "kantor", 
-        "pekerja kantor pria", 
-        "karyawan"
+        "warna kulit jenis 1–2", 
+        "karyawan", 
+        "pekerja kantor pria: warna kulit jenis 4", 
+        "pekerja kantor pria: warna kulit jenis 5", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "pekerja kantor pria: warna kulit jenis 1–2", 
+        "warna kulit jenis 3", 
+        "pekerja kantor pria: warna kulit jenis 6", 
+        "pekerja kantor pria: warna kulit jenis 3", 
+        "pekerja kantor pria"
     ], 
     "👨‍🔧": [
+        "montir pria: warna kulit jenis 4", 
+        "montir pria: warna kulit jenis 5", 
         "laki-laki", 
-        "perbaikan", 
+        "montir pria: warna kulit jenis 1–2", 
+        "warna kulit jenis 4", 
+        "montir pria: warna kulit jenis 3", 
         "montir pria", 
+        "montir pria: warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "perbaikan", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "tukang"
     ], 
     "👨‍🔬": [
-        "sains", 
         "laki-laki", 
+        "ilmuwan pria", 
+        "ilmuwan pria: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
+        "ilmuwan pria: warna kulit jenis 5", 
+        "ilmuwan pria: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "sains", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "ilmuwan pria: warna kulit jenis 6", 
         "laboratorium", 
-        "ilmuwan pria"
+        "ilmuwan pria: warna kulit jenis 4", 
+        "warna kulit jenis 3"
     ], 
     "👨‍🚀": [
-        "angkasa luar", 
+        "warna kulit jenis 6", 
         "laki-laki", 
+        "warna kulit jenis 5", 
+        "antariksawan pria: warna kulit jenis 1–2", 
+        "antariksawan pria: warna kulit jenis 3", 
+        "antariksawan pria: warna kulit jenis 5", 
+        "warna kulit jenis 1–2", 
         "antariksawan pria", 
+        "angkasa luar", 
+        "warna kulit jenis 4", 
+        "antariksawan pria: warna kulit jenis 4", 
+        "warna kulit jenis 3", 
+        "antariksawan pria: warna kulit jenis 6", 
         "roket"
     ], 
     "👨‍🚒": [
-        "pemadam kebakaran pria", 
+        "warna kulit jenis 6", 
         "laki-laki", 
+        "pemadam kebakaran pria: warna kulit jenis 6", 
+        "pemadam kebakaran pria: warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "pemadam", 
+        "warna kulit jenis 1–2", 
+        "pemadam kebakaran pria: warna kulit jenis 5", 
+        "pemadam kebakaran pria: warna kulit jenis 1–2", 
+        "warna kulit jenis 4", 
         "api", 
-        "pemadam"
+        "warna kulit jenis 3", 
+        "pemadam kebakaran pria: warna kulit jenis 3", 
+        "pemadam kebakaran pria"
     ], 
     "👩": [
+        "warna kulit jenis 1–2", 
+        "wanita: warna kulit jenis 6", 
+        "wanita: warna kulit jenis 3", 
         "wanita", 
+        "wanita: warna kulit jenis 4", 
+        "wanita: warna kulit jenis 5", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "perempuan", 
         "ibu", 
+        "wanita: warna kulit jenis 1–2", 
+        "warna kulit jenis 3"
+    ], 
+    "👩‍⚕️": [
+        "perempuan", 
+        "pekerja kesehatan wanita", 
+        "dokter", 
+        "perawatan kesehatan"
+    ], 
+    "👩‍⚖️": [
+        "hakim wanita", 
+        "hukum", 
+        "pengadilan", 
         "perempuan"
     ], 
+    "👩‍✈️": [
+        "pesawat", 
+        "pilot wanita", 
+        "perempuan", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "pasangan dengan hati", 
+        "pasangan", 
+        "pria", 
+        "wanita", 
+        "hati", 
+        "pasangan dengan hati: wanita, pria", 
+        "romantis", 
+        "cinta"
+    ], 
+    "👩‍❤️‍👩": [
+        "pasangan dengan hati", 
+        "pasangan", 
+        "wanita", 
+        "hati", 
+        "romantis", 
+        "pasangan dengan hati: wanita, wanita", 
+        "cinta"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "pasangan", 
+        "pria", 
+        "berciuman: wanita, pria", 
+        "wanita", 
+        "romantis", 
+        "cium", 
+        "berciuman"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "berciuman: wanita, wanita", 
+        "pasangan", 
+        "wanita", 
+        "romantis", 
+        "cium", 
+        "berciuman"
+    ], 
     "👩‍🌾": [
+        "warna kulit jenis 1–2", 
         "padi", 
-        "sawah", 
+        "petani wanita: warna kulit jenis 4", 
+        "petani wanita: warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "petani wanita: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
+        "petani wanita: warna kulit jenis 1–2", 
         "petani wanita", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "petani wanita: warna kulit jenis 5", 
+        "sawah", 
         "perempuan"
     ], 
     "👩‍🍳": [
+        "koki wanita: warna kulit jenis 5", 
+        "warna kulit jenis 1–2", 
         "koki wanita", 
         "memasak", 
+        "dapur", 
+        "koki wanita: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "koki wanita: warna kulit jenis 3", 
+        "koki wanita: warna kulit jenis 6", 
         "perempuan", 
-        "dapur"
+        "koki wanita: warna kulit jenis 4"
     ], 
     "👩‍🎓": [
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "sarjana wanita: warna kulit jenis 3", 
+        "sarjana wanita: warna kulit jenis 4", 
+        "sarjana wanita: warna kulit jenis 5", 
+        "sarjana wanita: warna kulit jenis 6", 
         "universitas", 
-        "wisuda", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "sarjana wanita", 
+        "sarjana wanita: warna kulit jenis 1–2", 
+        "wisuda", 
         "perempuan", 
         "toga"
     ], 
     "👩‍🎤": [
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 5", 
         "lagu", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "suara", 
+        "penyanyi wanita: warna kulit jenis 4", 
+        "penyanyi wanita", 
+        "penyanyi wanita: warna kulit jenis 6", 
+        "penyanyi wanita: warna kulit jenis 1–2", 
+        "penyanyi wanita: warna kulit jenis 5", 
+        "penyanyi wanita: warna kulit jenis 3", 
         "perempuan", 
-        "penyanyi wanita"
+        "warna kulit jenis 3"
     ], 
     "👩‍🎨": [
+        "seniman wanita: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
         "seniman wanita", 
-        "lukisan", 
+        "seniman wanita: warna kulit jenis 6", 
+        "seniman wanita: warna kulit jenis 5", 
+        "seniman wanita: warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "seni", 
+        "warna kulit jenis 3", 
+        "lukisan", 
+        "seniman wanita: warna kulit jenis 1–2", 
         "perempuan"
     ], 
     "👩‍🏫": [
-        "pengajar", 
+        "pengajar wanita: warna kulit jenis 5", 
+        "pengajar wanita: warna kulit jenis 4", 
         "sekolah", 
+        "pengajar wanita: warna kulit jenis 6", 
+        "pengajar wanita: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "pengajar wanita", 
-        "perempuan"
+        "pengajar", 
+        "pengajar wanita: warna kulit jenis 1–2", 
+        "perempuan", 
+        "warna kulit jenis 3"
     ], 
     "👩‍🏭": [
-        "perempuan", 
-        "pabrik", 
+        "warna kulit jenis 1–2", 
+        "pekerja pabrik wanita: warna kulit jenis 3", 
+        "pekerja pabrik wanita: warna kulit jenis 1–2", 
         "pekerja", 
-        "pekerja pabrik wanita"
+        "pekerja pabrik wanita: warna kulit jenis 6", 
+        "warna kulit jenis 5", 
+        "pekerja pabrik wanita: warna kulit jenis 5", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "pabrik", 
+        "pekerja pabrik wanita", 
+        "pekerja pabrik wanita: warna kulit jenis 4", 
+        "perempuan", 
+        "warna kulit jenis 3"
     ], 
     "👩‍👦": [
         "ayah", 
@@ -3761,49 +5192,100 @@
         "anak"
     ], 
     "👩‍💻": [
-        "teknologi", 
+        "warna kulit jenis 1–2", 
+        "ahli teknologi wanita: warna kulit jenis 5", 
+        "ahli teknologi wanita", 
+        "ahli teknologi wanita: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "ahli teknologi wanita: warna kulit jenis 4", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "ahli teknologi wanita: warna kulit jenis 3", 
         "komputer", 
+        "ahli teknologi wanita: warna kulit jenis 6", 
         "perempuan", 
-        "ahli teknologi wanita"
+        "teknologi"
     ], 
     "👩‍💼": [
-        "pekerja kantor wanita", 
+        "warna kulit jenis 1–2", 
+        "pekerja kantor wanita: warna kulit jenis 1–2", 
+        "pekerja kantor wanita: warna kulit jenis 5", 
+        "pekerja kantor wanita: warna kulit jenis 6", 
         "kantor", 
-        "perempuan", 
-        "karyawan"
+        "warna kulit jenis 4", 
+        "karyawan", 
+        "pekerja kantor wanita: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
+        "pekerja kantor wanita: warna kulit jenis 4", 
+        "pekerja kantor wanita", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "perempuan"
     ], 
     "👩‍🔧": [
-        "tukang", 
         "montir wanita", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "montir wanita: warna kulit jenis 4", 
         "perbaikan", 
-        "perempuan"
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "tukang", 
+        "montir wanita: warna kulit jenis 1–2", 
+        "montir wanita: warna kulit jenis 5", 
+        "montir wanita: warna kulit jenis 6", 
+        "perempuan", 
+        "montir wanita: warna kulit jenis 3"
     ], 
     "👩‍🔬": [
-        "sains", 
+        "warna kulit jenis 1–2", 
+        "ilmuwan wanita: warna kulit jenis 1–2", 
+        "ilmuwan wanita: warna kulit jenis 3", 
         "ilmuwan wanita", 
+        "ilmuwan wanita: warna kulit jenis 6", 
+        "ilmuwan wanita: warna kulit jenis 5", 
+        "ilmuwan wanita: warna kulit jenis 4", 
+        "warna kulit jenis 6", 
+        "sains", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "laboratorium", 
-        "perempuan"
+        "perempuan", 
+        "warna kulit jenis 3"
     ], 
     "👩‍🚀": [
-        "angkasa luar", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
         "antariksawan wanita", 
+        "antariksawan wanita: warna kulit jenis 3", 
+        "antariksawan wanita: warna kulit jenis 5", 
+        "antariksawan wanita: warna kulit jenis 4", 
+        "antariksawan wanita: warna kulit jenis 6", 
+        "angkasa luar", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "perempuan", 
+        "antariksawan wanita: warna kulit jenis 1–2", 
         "roket", 
-        "perempuan"
+        "warna kulit jenis 3"
     ], 
     "👩‍🚒": [
+        "pemadam kebakaran wanita: warna kulit jenis 1–2", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 5", 
         "pemadam kebakaran wanita", 
-        "api", 
         "pemadam", 
-        "perempuan"
-    ], 
-    "👪": [
-        "ayah", 
-        "bapak", 
-        "papa", 
-        "ibu", 
-        "keluarga", 
-        "mama", 
-        "anak"
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "api", 
+        "warna kulit jenis 3", 
+        "pemadam kebakaran wanita: warna kulit jenis 3", 
+        "pemadam kebakaran wanita: warna kulit jenis 5", 
+        "pemadam kebakaran wanita: warna kulit jenis 4", 
+        "perempuan", 
+        "pemadam kebakaran wanita: warna kulit jenis 6"
     ], 
     "👫": [
         "pria dan wanita bergandengan", 
@@ -3837,76 +5319,178 @@
         "pegangan", 
         "pasangan"
     ], 
-    "👮": [
+    "👮‍♀️": [
         "polisi", 
-        "penegak hukum"
+        "polisi wanita", 
+        "penegak hukum", 
+        "perempuan"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "polisi", 
+        "polisi pria", 
+        "penegak hukum", 
+        "laki-laki"
+    ], 
+    "👯‍♀️": [
+        "wanita dengan telinga kelinci", 
+        "tari", 
         "penari", 
         "perempuan", 
         "orang dengan telinga kelinci", 
+        "kostum", 
+        "pesta", 
         "gadis", 
         "kelinci", 
         "telinga", 
         "cewek", 
         "kuping"
     ], 
+    "👯‍♂️": [
+        "pria dengan telinga kelinci", 
+        "laki-laki", 
+        "kostum", 
+        "pesta", 
+        "tari"
+    ], 
     "👰": [
         "pengantin berpenutup kepala", 
+        "warna kulit jenis 1–2", 
         "kerudung", 
+        "pengantin berpenutup kepala: warna kulit jenis 1–2", 
         "cadar", 
+        "warna kulit jenis 4", 
         "kawin", 
+        "warna kulit jenis 6", 
+        "pengantin berpenutup kepala: warna kulit jenis 3", 
+        "warna kulit jenis 5", 
+        "pengantin berpenutup kepala: warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "pengantin berpenutup kepala: warna kulit jenis 6", 
         "nikah", 
-        "pengantin"
+        "pengantin", 
+        "pengantin berpenutup kepala: warna kulit jenis 4"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "pirang", 
+        "rambut", 
+        "wanita berambut pirang", 
+        "perempuan"
+    ], 
+    "👱‍♂️": [
         "orang berambut pirang", 
+        "laki-laki", 
+        "rambut", 
+        "pria berambut pirang", 
         "pirang"
     ], 
     "👲": [
         "laki-laki", 
         "pria", 
         "orang dengan topi Tionghoa", 
+        "orang dengan topi Tionghoa: warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "orang dengan topi Tionghoa: warna kulit jenis 3", 
         "cina", 
+        "warna kulit jenis 6", 
+        "orang dengan topi Tionghoa: warna kulit jenis 1–2", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "china", 
-        "topi"
+        "warna kulit jenis 3", 
+        "topi", 
+        "orang dengan topi Tionghoa: warna kulit jenis 4", 
+        "orang dengan topi Tionghoa: warna kulit jenis 5"
     ], 
-    "👳": [
-        "pria", 
-        "laki-laki", 
+    "👳‍♀️": [
+        "wanita mengenakan serban", 
         "serban", 
-        "orang mengenakan serban", 
-        "surban"
-    ], 
-    "👴": [
-        "pria", 
-        "tua", 
-        "kakek", 
-        "laki-laki", 
-        "pria tua"
-    ], 
-    "👵": [
-        "tua", 
-        "nenek", 
-        "wanita", 
-        "wanita tua", 
         "perempuan"
     ], 
-    "👶": [
-        "bayi"
+    "👳‍♂️": [
+        "laki-laki", 
+        "pria", 
+        "surban", 
+        "orang mengenakan serban", 
+        "serban", 
+        "pria mengenakan serban"
     ], 
-    "👷": [
-        "pekerja konstruksi", 
+    "👴": [
+        "kakek", 
+        "laki-laki", 
+        "pria", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "pria tua: warna kulit jenis 3", 
+        "pria tua: warna kulit jenis 4", 
+        "warna kulit jenis 3", 
+        "pria tua: warna kulit jenis 6", 
+        "warna kulit jenis 5", 
+        "tua", 
+        "pria tua: warna kulit jenis 1–2", 
+        "pria tua", 
+        "pria tua: warna kulit jenis 5"
+    ], 
+    "👵": [
+        "wanita tua: warna kulit jenis 1–2", 
+        "warna kulit jenis 1–2", 
+        "wanita tua: warna kulit jenis 6", 
+        "warna kulit jenis 5", 
+        "nenek", 
+        "wanita", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "wanita tua: warna kulit jenis 3", 
+        "wanita tua: warna kulit jenis 4", 
+        "warna kulit jenis 3", 
+        "wanita tua", 
+        "tua", 
+        "perempuan", 
+        "wanita tua: warna kulit jenis 5"
+    ], 
+    "👶": [
+        "bayi: warna kulit jenis 1–2", 
+        "warna kulit jenis 1–2", 
+        "bayi", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "bayi: warna kulit jenis 3", 
+        "bayi: warna kulit jenis 5", 
+        "bayi: warna kulit jenis 4", 
+        "bayi: warna kulit jenis 6"
+    ], 
+    "👷‍♀️": [
         "konstruksi", 
-        "pekerja", 
-        "topi", 
+        "wanita", 
+        "pekerja konstruksi wanita", 
         "kontraktor"
+    ], 
+    "👷‍♂️": [
+        "pekerja konstruksi", 
+        "laki-laki", 
+        "pekerja", 
+        "kontraktor", 
+        "konstruksi", 
+        "topi", 
+        "pekerja konstruksi pria"
     ], 
     "👸": [
         "fantasi", 
+        "warna kulit jenis 1–2", 
         "dongeng", 
-        "putri", 
-        "puteri"
+        "putri: warna kulit jenis 1–2", 
+        "puteri", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "putri: warna kulit jenis 3", 
+        "putri: warna kulit jenis 6", 
+        "putri: warna kulit jenis 5", 
+        "putri: warna kulit jenis 4", 
+        "putri"
     ], 
     "👹": [
         "fantasi", 
@@ -3938,13 +5522,23 @@
         "monster"
     ], 
     "👼": [
+        "malaikat bayi: warna kulit jenis 6", 
         "fantasi", 
+        "warna kulit jenis 1–2", 
+        "malaikat bayi: warna kulit jenis 5", 
         "malaikat", 
         "dongeng", 
+        "malaikat bayi: warna kulit jenis 1–2", 
         "bayi", 
+        "malaikat bayi: warna kulit jenis 4", 
         "malaikat bayi", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 6", 
         "muka", 
-        "wajah"
+        "warna kulit jenis 5", 
+        "wajah", 
+        "warna kulit jenis 3", 
+        "malaikat bayi: warna kulit jenis 3"
     ], 
     "👽": [
         "luar", 
@@ -3994,23 +5588,52 @@
         "mati", 
         "dongeng"
     ], 
-    "💁": [
-        "orang menengadahkan tangan", 
+    "💁‍♀️": [
+        "isyarat", 
         "tangan", 
+        "wanita menengadahkan tangan", 
+        "resepsionis", 
         "bantuan", 
+        "orang menengadahkan tangan", 
         "informasi", 
-        "resepsionis"
+        "perempuan"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "isyarat", 
+        "laki-laki", 
+        "bantuan", 
+        "pria menengadahkan tangan", 
+        "tangan"
+    ], 
+    "💂‍♀️": [
+        "perempuan", 
+        "penjaga wanita", 
         "penjaga", 
+        "keamanan"
+    ], 
+    "💂‍♂️": [
+        "laki-laki", 
+        "penjaga pria", 
+        "penjaga", 
+        "keamanan", 
         "pengawal"
     ], 
     "💃": [
-        "pesta", 
+        "wanita menari: warna kulit jenis 1–2", 
         "tari", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "wanita menari: warna kulit jenis 3", 
+        "warna kulit jenis 5", 
+        "pesta", 
+        "warna kulit jenis 3", 
+        "wanita menari: warna kulit jenis 6", 
+        "wanita menari: warna kulit jenis 5", 
         "dansa", 
         "wanita menari", 
-        "perempuan"
+        "perempuan", 
+        "wanita menari: warna kulit jenis 4"
     ], 
     "💄": [
         "dandan", 
@@ -4019,25 +5642,52 @@
     ], 
     "💅": [
         "kuteks", 
+        "warna kulit jenis 1–2", 
+        "poles kuku: warna kulit jenis 6", 
         "manikur", 
+        "poles kuku: warna kulit jenis 1–2", 
         "kosmetik", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "kuku", 
+        "warna kulit jenis 3", 
         "perawatan", 
         "tubuh", 
+        "poles kuku: warna kulit jenis 5", 
         "poles kuku", 
-        "badan"
+        "poles kuku: warna kulit jenis 4", 
+        "badan", 
+        "poles kuku: warna kulit jenis 3"
     ], 
-    "💆": [
+    "💆‍♀️": [
         "salon", 
-        "pijit", 
         "pria dipijat", 
+        "pijit", 
+        "kepala", 
+        "pijat", 
+        "perempuan", 
+        "wanita dipijat"
+    ], 
+    "💆‍♂️": [
+        "laki-laki", 
+        "pria dipijat kepalanya", 
+        "kepala", 
         "pijat"
     ], 
-    "💇": [
-        "orang potong rambut", 
+    "💇‍♀️": [
         "salon", 
         "rambut", 
         "cantik", 
+        "potong", 
+        "wanita potong rambut", 
+        "orang potong rambut", 
+        "perempuan"
+    ], 
+    "💇‍♂️": [
+        "laki-laki", 
+        "rambut", 
+        "pria potong rambut", 
         "potong"
     ], 
     "💈": [
@@ -4086,23 +5736,10 @@
         "permata", 
         "romantis"
     ], 
-    "💏": [
-        "romantis", 
-        "berciuman", 
-        "cium", 
-        "pasangan"
-    ], 
     "💐": [
         "tanaman", 
         "bunga", 
         "karangan bunga", 
-        "romantis"
-    ], 
-    "💑": [
-        "hati", 
-        "pasangan dengan hati", 
-        "pasangan", 
-        "cinta", 
         "romantis"
     ], 
     "💒": [
@@ -4244,11 +5881,21 @@
         "tinja"
     ], 
     "💪": [
-        "otot", 
-        "biseps", 
+        "warna kulit jenis 1–2", 
+        "lengan berotot: warna kulit jenis 6", 
         "lengan berotot", 
+        "warna kulit jenis 4", 
+        "lengan berotot: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "biseps", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "tubuh", 
+        "lengan berotot: warna kulit jenis 3", 
+        "otot", 
         "badan", 
-        "tubuh"
+        "lengan berotot: warna kulit jenis 4", 
+        "lengan berotot: warna kulit jenis 5"
     ], 
     "💫": [
         "komik", 
@@ -4743,6 +6390,13 @@
         "tape", 
         "vhs"
     ], 
+    "📽️": [
+        "proyektor", 
+        "proyektor film", 
+        "video", 
+        "film", 
+        "sinema"
+    ], 
     "📿": [
         "agama", 
         "doa", 
@@ -5125,6 +6779,17 @@
         "tombol", 
         "panah"
     ], 
+    "🕉️": [
+        "hindu", 
+        "agama", 
+        "om"
+    ], 
+    "🕊️": [
+        "terbang", 
+        "damai", 
+        "merpati", 
+        "burung"
+    ], 
     "🕋": [
         "ka’bah", 
         "agama", 
@@ -5364,27 +7029,129 @@
         "jam setengah satu", 
         "tiga puluh"
     ], 
-    "🕺": [
+    "🕯️": [
+        "cahaya", 
+        "lilin"
+    ], 
+    "🕰️": [
+        "jam", 
+        "jam perapian"
+    ], 
+    "🕳️": [
+        "lubang", 
+        "lobang"
+    ], 
+    "🕴️": [
         "pria", 
-        "dansa", 
+        "pria melayang mengenakan jas", 
+        "bisnis", 
+        "laki-laki", 
+        "jas"
+    ], 
+    "🕵️‍♂️": [
+        "detektif", 
+        "mata-mata"
+    ], 
+    "🕶️": [
+        "kacamata hitam", 
+        "kaca", 
+        "hitam", 
+        "mata"
+    ], 
+    "🕷️": [
+        "serangga", 
+        "laba-laba"
+    ], 
+    "🕸️": [
+        "jaring laba-laba", 
+        "sarang", 
+        "laba-laba"
+    ], 
+    "🕹️": [
+        "joystick", 
+        "game", 
+        "game video"
+    ], 
+    "🕺": [
+        "pria menari: warna kulit jenis 1–2", 
+        "warna kulit jenis 1–2", 
         "berdansa", 
+        "pria menari", 
+        "pria", 
+        "pria menari: warna kulit jenis 6", 
+        "warna kulit jenis 6", 
+        "pria menari: warna kulit jenis 5", 
+        "pria menari: warna kulit jenis 4", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "pria menari: warna kulit jenis 3", 
         "menari", 
-        "pria menari"
+        "dansa"
+    ], 
+    "🖇️": [
+        "klip kertas tertaut", 
+        "tautan", 
+        "penjepit kertas"
+    ], 
+    "🖊️": [
+        "bolpoin"
+    ], 
+    "🖋️": [
+        "pen tinta", 
+        "bolpoin", 
+        "pena"
+    ], 
+    "🖌️": [
+        "kuas", 
+        "melukis"
+    ], 
+    "🖍️": [
+        "krayon"
+    ], 
+    "🖐️": [
+        "jari", 
+        "terbuka", 
+        "tangan", 
+        "tos", 
+        "telapak tangan terbuka", 
+        "tubuh", 
+        "badan"
     ], 
     "🖕": [
         "jari", 
+        "warna kulit jenis 1–2", 
+        "jari tengah: warna kulit jenis 4", 
         "tengah", 
         "tangan", 
+        "jari tengah: warna kulit jenis 6", 
+        "jari tengah: warna kulit jenis 1–2", 
+        "jari tengah: warna kulit jenis 5", 
+        "jari tengah: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "jari tengah", 
+        "warna kulit jenis 3", 
         "tubuh", 
         "badan"
     ], 
     "🖖": [
         "jari", 
+        "warna kulit jenis 1–2", 
+        "salam vulcan: warna kulit jenis 4", 
         "tangan", 
+        "warna kulit jenis 5", 
+        "salam vulcan: warna kulit jenis 6", 
         "vulcan", 
+        "salam vulcan: warna kulit jenis 1–2", 
+        "salam vulcan: warna kulit jenis 3", 
         "salam vulcan", 
+        "salam vulcan: warna kulit jenis 5", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "spock", 
+        "warna kulit jenis 3", 
         "tubuh", 
         "badan"
     ], 
@@ -5394,6 +7161,124 @@
         "jahat", 
         "hitam", 
         "hati hitam"
+    ], 
+    "🖥️": [
+        "komputer desktop", 
+        "komputer", 
+        "desktop"
+    ], 
+    "🖨️": [
+        "komputer", 
+        "printer"
+    ], 
+    "🖱️": [
+        "3", 
+        "tiga", 
+        "mouse komputer", 
+        "tombol", 
+        "komputer", 
+        "mouse"
+    ], 
+    "🖲️": [
+        "komputer", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "bingkai bergambar", 
+        "gambar", 
+        "seni", 
+        "bingkai", 
+        "museum", 
+        "lukisan"
+    ], 
+    "🗂️": [
+        "indeks", 
+        "pembagi indeks kartu", 
+        "pembagi", 
+        "kartu"
+    ], 
+    "🗃️": [
+        "kotak file kartu", 
+        "kartu", 
+        "file", 
+        "kotak"
+    ], 
+    "🗄️": [
+        "lemari kartu", 
+        "file", 
+        "kabinet"
+    ], 
+    "🗑️": [
+        "keranjang", 
+        "sampah", 
+        "keranjang sampah"
+    ], 
+    "🗒️": [
+        "catatan", 
+        "catatan spiral", 
+        "kertas", 
+        "spiral"
+    ], 
+    "🗓️": [
+        "kalender spiral", 
+        "kertas", 
+        "spiral", 
+        "kalender"
+    ], 
+    "🗜️": [
+        "pengompres", 
+        "alat", 
+        "penjepit"
+    ], 
+    "🗝️": [
+        "petunjuk", 
+        "kunci antik", 
+        "kunci", 
+        "gembok", 
+        "lawas"
+    ], 
+    "🗞️": [
+        "koran", 
+        "tergulung", 
+        "gulungan koran", 
+        "berita", 
+        "kertas"
+    ], 
+    "🗡️": [
+        "pisau", 
+        "belati", 
+        "senjata"
+    ], 
+    "🗣️": [
+        "siluet", 
+        "bayangan", 
+        "kepala berbicara", 
+        "muka", 
+        "wajah", 
+        "bicara", 
+        "ngomong", 
+        "kepala"
+    ], 
+    "🗨️": [
+        "ucapan", 
+        "gelembung ucapan kiri", 
+        "dialog"
+    ], 
+    "🗯️": [
+        "gelembung marah kanan", 
+        "gelembung", 
+        "marah", 
+        "balon"
+    ], 
+    "🗳️": [
+        "kotak dengan surat suara", 
+        "surat suara", 
+        "kotak"
+    ], 
+    "🗺️": [
+        "peta dunia", 
+        "peta", 
+        "dunia"
     ], 
     "🗻": [
         "fuji", 
@@ -5996,24 +7881,52 @@
         "mata", 
         "atas"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "terlarang", 
+        "isyarat", 
         "tangan", 
         "nggak", 
+        "wanita mengisyaratkan TIDAK", 
         "orang mengisyaratkan TIDAK", 
+        "perempuan", 
         "dilarang", 
         "gerakan", 
         "tidak"
     ], 
-    "🙆": [
-        "gerakan", 
+    "🙅‍♂️": [
+        "laki-laki", 
+        "isyarat", 
+        "tidak", 
+        "pria mengisyaratkan TIDAK"
+    ], 
+    "🙆‍♀️": [
+        "isyarat", 
+        "tangan", 
+        "wanita mengisyaratkan OKE", 
         "orang mengisyaratkan OKE", 
         "oke", 
+        "gerakan", 
+        "perempuan"
+    ], 
+    "🙆‍♂️": [
+        "oke", 
+        "laki-laki", 
+        "pria mengisyaratkan OKE", 
+        "isyarat", 
         "tangan"
     ], 
-    "🙇": [
+    "🙇‍♀️": [
+        "maaf", 
+        "isyarat", 
+        "perempuan", 
+        "wanita membungkuk"
+    ], 
+    "🙇‍♂️": [
         "tunduk", 
+        "laki-laki", 
+        "isyarat", 
         "nunduk", 
+        "pria membungkuk", 
         "orang membungkuk", 
         "gerakan", 
         "bungkuk", 
@@ -6057,38 +7970,88 @@
         "ngomong", 
         "bicara"
     ], 
-    "🙋": [
-        "gerakan", 
+    "🙋‍♀️": [
+        "isyarat", 
+        "tangan", 
         "senang", 
-        "angkat", 
         "orang mengangkat tangan", 
+        "angkat", 
+        "wanita mengangkat tangan", 
+        "gerakan", 
+        "perempuan"
+    ], 
+    "🙋‍♂️": [
+        "angkat", 
+        "isyarat", 
+        "laki-laki", 
+        "pria mengangkat tangan", 
         "tangan"
     ], 
     "🙌": [
+        "warna kulit jenis 1–2", 
         "hore", 
         "perayaan", 
+        "warna kulit jenis 4", 
         "tangan", 
+        "mengangkat tangan: warna kulit jenis 1–2", 
+        "mengangkat tangan: warna kulit jenis 3", 
+        "mengangkat tangan: warna kulit jenis 5", 
         "mengangkat tangan", 
+        "mengangkat tangan: warna kulit jenis 4", 
+        "warna kulit jenis 6", 
         "angkat", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "tubuh", 
         "gerakan", 
+        "mengangkat tangan: warna kulit jenis 6", 
         "badan"
     ], 
-    "🙍": [
-        "gerakan", 
+    "🙍‍♀️": [
+        "marah", 
         "orang marah", 
-        "marah"
-    ], 
-    "🙎": [
+        "muka", 
+        "tidak senang", 
+        "wanita muka tidak senang", 
         "gerakan", 
+        "perempuan"
+    ], 
+    "🙍‍♂️": [
+        "laki-laki", 
+        "tidak senang", 
+        "muka", 
+        "pria muka tidak senang"
+    ], 
+    "🙎‍♀️": [
+        "orang tidak senang", 
         "cemberut", 
-        "orang tidak senang"
+        "wanita tidak senang", 
+        "tidak senang", 
+        "gerakan", 
+        "bibir", 
+        "perempuan"
+    ], 
+    "🙎‍♂️": [
+        "tidak senang", 
+        "laki-laki", 
+        "bibir", 
+        "pria tidak senang"
     ], 
     "🙏": [
+        "warna kulit jenis 1–2", 
+        "melipat tangan: warna kulit jenis 6", 
         "makasih", 
         "tangan", 
+        "melipat tangan: warna kulit jenis 5", 
+        "melipat tangan: warna kulit jenis 1–2", 
         "tubuh", 
+        "melipat tangan: warna kulit jenis 4", 
+        "melipat tangan: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
         "melipat tangan", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
         "mohon", 
         "berdoa", 
         "gerakan", 
@@ -6310,7 +8273,16 @@
         "kendaraan", 
         "kapal"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "dayung", 
+        "wanita mendayung perahu", 
+        "perahu", 
+        "perempuan"
+    ], 
+    "🚣‍♂️": [
+        "pria mendayung perahu", 
+        "laki-laki", 
+        "dayung", 
         "kendaraan", 
         "orang mendayung perahu", 
         "perahu"
@@ -6410,19 +8382,42 @@
         "sepeda", 
         "tidak"
     ], 
-    "🚴": [
-        "orang bersepeda", 
-        "sepeda"
+    "🚴‍♀️": [
+        "wanita bersepeda", 
+        "sepeda", 
+        "perempuan"
     ], 
-    "🚵": [
+    "🚴‍♂️": [
+        "orang bersepeda", 
+        "sepeda", 
+        "laki-laki", 
+        "pria bersepeda"
+    ], 
+    "🚵‍♀️": [
+        "gunung", 
+        "sepeda", 
+        "wanita bersepeda gunung", 
+        "perempuan"
+    ], 
+    "🚵‍♂️": [
+        "laki-laki", 
+        "orang bersepeda gunung", 
         "gunung", 
         "pesepeda", 
         "sepeda", 
-        "orang bersepeda gunung"
+        "pria bersepeda gunung"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "wanita berjalan kaki", 
         "kaki", 
         "jalan", 
+        "perempuan"
+    ], 
+    "🚶‍♂️": [
+        "laki-laki", 
+        "kaki", 
+        "jalan", 
+        "pria berjalan kaki", 
         "orang berjalan kaki"
     ], 
     "🚷": [
@@ -6478,9 +8473,19 @@
         "air"
     ], 
     "🛀": [
+        "warna kulit jenis 1–2", 
+        "orang di bak mandi: warna kulit jenis 1–2", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 4", 
+        "orang di bak mandi", 
+        "warna kulit jenis 6", 
+        "orang di bak mandi: warna kulit jenis 6", 
         "bak mandi", 
-        "mandi", 
-        "orang di bak mandi"
+        "orang di bak mandi: warna kulit jenis 4", 
+        "orang di bak mandi: warna kulit jenis 3", 
+        "warna kulit jenis 3", 
+        "orang di bak mandi: warna kulit jenis 5", 
+        "mandi"
     ], 
     "🛁": [
         "bathtub", 
@@ -6507,9 +8512,42 @@
         "koper", 
         "loker"
     ], 
+    "🛋️": [
+        "sofa", 
+        "lampu", 
+        "hotel", 
+        "sofa dan lampu"
+    ], 
     "🛌": [
+        "warna kulit jenis 1–2", 
         "orang di tempat tidur", 
         "hotel", 
+        "orang di tempat tidur: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "orang di tempat tidur: warna kulit jenis 3", 
+        "tidur", 
+        "orang di tempat tidur: warna kulit jenis 6", 
+        "orang di tempat tidur: warna kulit jenis 4", 
+        "orang di tempat tidur: warna kulit jenis 5"
+    ], 
+    "🛍️": [
+        "tas belanja", 
+        "hotel", 
+        "belanja", 
+        "tas"
+    ], 
+    "🛎️": [
+        "lonceng", 
+        "hotel", 
+        "bel meja", 
+        "pelayan"
+    ], 
+    "🛏️": [
+        "hotel", 
+        "tempat tidur", 
         "tidur"
     ], 
     "🛐": [
@@ -6530,6 +8568,43 @@
         "troli", 
         "troli belanja"
     ], 
+    "🛠️": [
+        "kunci inggris", 
+        "palu", 
+        "alat", 
+        "palu dan kunci inggris"
+    ], 
+    "🛡️": [
+        "perisai", 
+        "senjata"
+    ], 
+    "🛢️": [
+        "drum minyak", 
+        "drum", 
+        "minyak"
+    ], 
+    "🛣️": [
+        "raya", 
+        "jalan", 
+        "jalan raya"
+    ], 
+    "🛤️": [
+        "kereta", 
+        "jalan", 
+        "rel kereta"
+    ], 
+    "🛥️": [
+        "kendaraan", 
+        "bermotor", 
+        "perahu bermotor", 
+        "kapal", 
+        "perahu"
+    ], 
+    "🛩️": [
+        "kendaraan", 
+        "pesawat", 
+        "pesawat kecil"
+    ], 
     "🛫": [
         "pesawat", 
         "kedatangan", 
@@ -6545,6 +8620,17 @@
         "mendarat", 
         "kendaraan", 
         "datang"
+    ], 
+    "🛰️": [
+        "kendaraan", 
+        "satelit", 
+        "angkasa"
+    ], 
+    "🛳️": [
+        "kendaraan", 
+        "kapal", 
+        "penumpang", 
+        "kapal penumpang"
     ], 
     "🛴": [
         "otoped", 
@@ -6630,35 +8716,85 @@
     ], 
     "🤘": [
         "jari", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
         "tanduk", 
         "tangan", 
+        "lambang tanduk: warna kulit jenis 4", 
+        "lambang tanduk: warna kulit jenis 5", 
+        "lambang tanduk: warna kulit jenis 1–2", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "lambang tanduk: warna kulit jenis 3", 
         "tubuh", 
         "lambang tanduk", 
+        "lambang tanduk: warna kulit jenis 6", 
         "badan"
     ], 
     "🤙": [
-        "telepon aku", 
-        "telepon saya", 
+        "warna kulit jenis 1–2", 
+        "panggil saya: warna kulit jenis 3", 
         "telepon", 
-        "panggil saya"
+        "panggil saya: warna kulit jenis 5", 
+        "panggil saya: warna kulit jenis 6", 
+        "warna kulit jenis 6", 
+        "telepon aku", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "panggil saya: warna kulit jenis 1–2", 
+        "warna kulit jenis 3", 
+        "panggil saya", 
+        "panggil saya: warna kulit jenis 4", 
+        "telepon saya"
     ], 
     "🤚": [
         "angkat tangan", 
+        "angkat tangan: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
+        "angkat tangan: warna kulit jenis 6", 
+        "angkat tangan: warna kulit jenis 4", 
+        "angkat tangan: warna kulit jenis 5", 
         "berhenti", 
         "stop", 
-        "jangan"
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "jangan", 
+        "angkat tangan: warna kulit jenis 1–2"
     ], 
     "🤛": [
-        "kepalan tangan", 
+        "tinju kiri: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
         "tinju kiri", 
+        "tinju kiri: warna kulit jenis 6", 
+        "tinju kiri: warna kulit jenis 5", 
+        "tinju kiri: warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "kepalan tangan", 
+        "tonjok", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "kiri", 
-        "tonjok"
+        "warna kulit jenis 3", 
+        "tinju kiri: warna kulit jenis 1–2"
     ], 
     "🤜": [
+        "warna kulit jenis 1–2", 
         "kepalan tangan", 
         "kanan", 
         "tonjok", 
-        "tinju kanan"
+        "tinju kanan", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "tinju kanan: warna kulit jenis 4", 
+        "tinju kanan: warna kulit jenis 5", 
+        "tinju kanan: warna kulit jenis 6", 
+        "tinju kanan: warna kulit jenis 1–2", 
+        "tinju kanan: warna kulit jenis 3"
     ], 
     "🤝": [
         "sepakat", 
@@ -6669,17 +8805,37 @@
     ], 
     "🤞": [
         "jari", 
+        "jari menyilang: warna kulit jenis 3", 
         "semoga beruntung", 
+        "jari menyilang: warna kulit jenis 6", 
+        "jari menyilang: warna kulit jenis 4", 
+        "jari menyilang: warna kulit jenis 5", 
         "semoga hoki", 
         "silang jari", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "jari menyilang", 
+        "warna kulit jenis 3", 
+        "jari menyilang: warna kulit jenis 1–2", 
         "beruntung"
     ], 
     "🤟": [
-        "ILY", 
-        "ILU", 
+        "warna kulit jenis 1–2", 
+        "gerakan sayang kamu: warna kulit jenis 1–2", 
+        "warna kulit jenis 5", 
         "tangan", 
-        "gerakan sayang kamu"
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "ILU", 
+        "warna kulit jenis 3", 
+        "gerakan sayang kamu: warna kulit jenis 6", 
+        "gerakan sayang kamu: warna kulit jenis 5", 
+        "gerakan sayang kamu: warna kulit jenis 4", 
+        "gerakan sayang kamu: warna kulit jenis 3", 
+        "gerakan sayang kamu", 
+        "ILY"
     ], 
     "🤠": [
         "cowgirl", 
@@ -6720,12 +8876,36 @@
         "bohong"
     ], 
     "🤦": [
+        "warna kulit jenis 1–2", 
         "capek deh", 
         "tepuk jidat", 
+        "orang tepuk jidat: warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "orang tepuk jidat: warna kulit jenis 4", 
+        "warna kulit jenis 6", 
         "cape deh", 
+        "warna kulit jenis 5", 
         "yah", 
+        "orang tepuk jidat: warna kulit jenis 1–2", 
+        "orang tepuk jidat: warna kulit jenis 3", 
         "capedeh", 
-        "orang tepuk jidat"
+        "orang tepuk jidat: warna kulit jenis 5", 
+        "orang tepuk jidat", 
+        "warna kulit jenis 3"
+    ], 
+    "🤦‍♀️": [
+        "tangan", 
+        "isyarat", 
+        "wanita tepuk jidat", 
+        "perempuan", 
+        "jidat"
+    ], 
+    "🤦‍♂️": [
+        "pria tepuk jidat", 
+        "laki-laki", 
+        "tangan", 
+        "isyarat", 
+        "jidat"
     ], 
     "🤧": [
         "muka", 
@@ -6779,68 +8959,204 @@
         "kepala meledak"
     ], 
     "🤰": [
+        "warna kulit jenis 1–2", 
+        "wanita hamil: warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "wanita hamil: warna kulit jenis 3", 
+        "wanita hamil: warna kulit jenis 5", 
+        "wanita hamil: warna kulit jenis 1–2", 
+        "wanita", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "wanita hamil", 
+        "warna kulit jenis 3", 
+        "wanita hamil: warna kulit jenis 6", 
         "hamil", 
         "ibu hamil", 
-        "wanita hamil", 
-        "wanita", 
         "perempuan"
     ], 
     "🤱": [
+        "payudara", 
+        "warna kulit jenis 1–2", 
+        "menyusui: warna kulit jenis 4", 
+        "menyusui: warna kulit jenis 3", 
+        "menyusui: warna kulit jenis 6", 
+        "warna kulit jenis 5", 
         "bayi", 
+        "menyusui: warna kulit jenis 5", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "menyusui", 
-        "payudara"
+        "warna kulit jenis 3", 
+        "menyusui: warna kulit jenis 1–2"
     ], 
     "🤲": [
+        "tangan diangkat dan dirapatkan bersama: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
         "doa", 
+        "tangan diangkat dan dirapatkan bersama: warna kulit jenis 6", 
+        "tangan diangkat dan dirapatkan bersama: warna kulit jenis 5", 
+        "tangan diangkat dan dirapatkan bersama: warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "tangan diangkat dan dirapatkan bersama: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "tangan diangkat dan dirapatkan bersama", 
+        "warna kulit jenis 3", 
         "berdoa"
     ], 
     "🤳": [
-        "ponsel", 
+        "selfie: warna kulit jenis 4", 
+        "selfie: warna kulit jenis 5", 
+        "warna kulit jenis 1–2", 
         "kamera", 
-        "selfie", 
         "foto selfie", 
-        "selfi"
+        "selfi", 
+        "selfie: warna kulit jenis 3", 
+        "selfie", 
+        "selfie: warna kulit jenis 1–2", 
+        "selfie: warna kulit jenis 6", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "ponsel"
     ], 
     "🤴": [
-        "pangeran"
+        "warna kulit jenis 1–2", 
+        "pangeran: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "pangeran: warna kulit jenis 3", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "pangeran", 
+        "warna kulit jenis 3", 
+        "pangeran: warna kulit jenis 4", 
+        "pangeran: warna kulit jenis 5", 
+        "pangeran: warna kulit jenis 6"
     ], 
     "🤵": [
+        "warna kulit jenis 1–2", 
+        "pria bertuksedo: warna kulit jenis 5", 
+        "pria bertuksedo: warna kulit jenis 4", 
+        "pria bertuksedo: warna kulit jenis 6", 
         "pria", 
         "tuxedo", 
         "jas", 
         "cowok", 
+        "warna kulit jenis 6", 
         "pria bertuksedo", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "ganteng", 
-        "mempelai pria"
+        "mempelai pria", 
+        "pria bertuksedo: warna kulit jenis 1–2", 
+        "pria bertuksedo: warna kulit jenis 3", 
+        "warna kulit jenis 3"
     ], 
     "🤶": [
-        "Nyonya Claus", 
-        "nenek", 
+        "Nyonya Claus: warna kulit jenis 6", 
         "oma", 
-        "ibu"
+        "nenek", 
+        "warna kulit jenis 1–2", 
+        "Nyonya Claus: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "Nyonya Claus", 
+        "Nyonya Claus: warna kulit jenis 4", 
+        "Nyonya Claus: warna kulit jenis 5", 
+        "ibu", 
+        "Nyonya Claus: warna kulit jenis 3"
     ], 
     "🤷": [
-        "bingung", 
-        "nggak tahu", 
-        "orang mengangkat bahu", 
+        "entah", 
+        "warna kulit jenis 1–2", 
         "tidak tahu", 
-        "entah"
+        "orang mengangkat bahu: warna kulit jenis 6", 
+        "warna kulit jenis 5", 
+        "orang mengangkat bahu: warna kulit jenis 5", 
+        "orang mengangkat bahu: warna kulit jenis 3", 
+        "warna kulit jenis 6", 
+        "orang mengangkat bahu: warna kulit jenis 4", 
+        "warna kulit jenis 4", 
+        "orang mengangkat bahu", 
+        "orang mengangkat bahu: warna kulit jenis 1–2", 
+        "warna kulit jenis 3", 
+        "bingung", 
+        "nggak tahu"
+    ], 
+    "🤷‍♀️": [
+        "angkat", 
+        "wanita mengangkat bahu", 
+        "isyarat", 
+        "perempuan", 
+        "bahu"
+    ], 
+    "🤷‍♂️": [
+        "angkat", 
+        "pria mengangkat bahu", 
+        "isyarat", 
+        "laki-laki", 
+        "bahu"
     ], 
     "🤸": [
         "salto", 
+        "orang melakukan gerakan meroda: warna kulit jenis 1–2", 
         "senam", 
+        "orang melakukan gerakan meroda: warna kulit jenis 3", 
         "orang melakukan gerakan meroda", 
         "orang", 
+        "warna kulit jenis 1–2", 
+        "orang melakukan gerakan meroda: warna kulit jenis 5", 
+        "orang melakukan gerakan meroda: warna kulit jenis 4", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "orang melakukan gerakan meroda: warna kulit jenis 6", 
         "olahraga", 
         "gimnastik"
     ], 
+    "🤸‍♀️": [
+        "balik", 
+        "wanita melakukan gerakan meroda", 
+        "perempuan", 
+        "jungkir"
+    ], 
+    "🤸‍♂️": [
+        "balik", 
+        "laki-laki", 
+        "pria melakukan gerakan meroda", 
+        "jungkir"
+    ], 
     "🤹": [
-        "multitasking", 
-        "orang melempar", 
+        "warna kulit jenis 1–2", 
         "sibuk", 
+        "orang melempar", 
+        "orang melempar: warna kulit jenis 1–2", 
+        "repot", 
+        "warna kulit jenis 6", 
+        "orang melempar: warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "juggling", 
-        "repot"
+        "multitasking", 
+        "orang melempar: warna kulit jenis 4", 
+        "orang melempar: warna kulit jenis 5", 
+        "orang melempar: warna kulit jenis 3", 
+        "warna kulit jenis 3"
+    ], 
+    "🤹‍♀️": [
+        "wanita melempar", 
+        "atraksi", 
+        "perempuan"
+    ], 
+    "🤹‍♂️": [
+        "pria melempar", 
+        "laki-laki", 
+        "atraksi"
     ], 
     "🤺": [
         "anggar", 
@@ -6857,18 +9173,68 @@
         "gulat", 
         "orang bergulat"
     ], 
+    "🤼‍♀️": [
+        "wanita bergulat", 
+        "perempuan", 
+        "gulat"
+    ], 
+    "🤼‍♂️": [
+        "laki-laki", 
+        "pria bergulat", 
+        "gulat"
+    ], 
     "🤽": [
-        "polo", 
-        "orang bermain polo air", 
+        "warna kulit jenis 1–2", 
+        "orang bermain polo air: warna kulit jenis 5", 
+        "orang bermain polo air: warna kulit jenis 1–2", 
+        "orang bermain polo air: warna kulit jenis 6", 
         "orang", 
+        "orang bermain polo air: warna kulit jenis 3", 
         "olahraga", 
-        "air"
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "polo", 
+        "air", 
+        "orang bermain polo air", 
+        "orang bermain polo air: warna kulit jenis 4"
+    ], 
+    "🤽‍♀️": [
+        "polo air", 
+        "wanita bermain polo air", 
+        "perempuan"
+    ], 
+    "🤽‍♂️": [
+        "polo air", 
+        "laki-laki", 
+        "pria bermain polo air"
     ], 
     "🤾": [
         "bola", 
         "orang bermain bola tangan", 
+        "warna kulit jenis 1–2", 
+        "orang bermain bola tangan: warna kulit jenis 6", 
+        "orang bermain bola tangan: warna kulit jenis 3", 
+        "orang bermain bola tangan: warna kulit jenis 4", 
+        "orang bermain bola tangan: warna kulit jenis 5", 
         "orang", 
-        "olahraga", 
+        "orang bermain bola tangan: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "bola tangan", 
+        "olahraga"
+    ], 
+    "🤾‍♀️": [
+        "wanita bermain bola tangan", 
+        "perempuan", 
+        "bola tangan"
+    ], 
+    "🤾‍♂️": [
+        "laki-laki", 
+        "pria bermain bola tangan", 
         "bola tangan"
     ], 
     "🥀": [
@@ -7233,76 +9599,182 @@
         "wajah dengan monokel"
     ], 
     "🧑": [
+        "dewasa: warna kulit jenis 3", 
+        "warna kulit jenis 1–2", 
+        "dewasa: warna kulit jenis 6", 
+        "dewasa: warna kulit jenis 5", 
+        "dewasa: warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "dewasa: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
         "dewasa", 
-        "netral gender"
+        "netral gender", 
+        "warna kulit jenis 3"
     ], 
     "🧒": [
+        "anak: warna kulit jenis 6", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
+        "warna kulit jenis 5", 
+        "anak: warna kulit jenis 5", 
+        "anak: warna kulit jenis 4", 
+        "warna kulit jenis 4", 
         "muda", 
         "netral gender", 
-        "anak"
+        "warna kulit jenis 3", 
+        "anak: warna kulit jenis 3", 
+        "anak", 
+        "anak: warna kulit jenis 1–2"
     ], 
     "🧓": [
-        "tua", 
+        "warna kulit jenis 1–2", 
+        "lanjut usia", 
+        "lanjut usia: warna kulit jenis 6", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
         "netral gender", 
-        "lanjut usia"
+        "warna kulit jenis 3", 
+        "lanjut usia: warna kulit jenis 1–2", 
+        "tua", 
+        "lanjut usia: warna kulit jenis 5", 
+        "lanjut usia: warna kulit jenis 4", 
+        "lanjut usia: warna kulit jenis 3"
     ], 
     "🧔": [
+        "warna kulit jenis 1–2", 
+        "orang berjenggot", 
+        "orang berjenggot: warna kulit jenis 3", 
+        "orang berjenggot: warna kulit jenis 4", 
+        "orang berjenggot: warna kulit jenis 5", 
+        "orang berjenggot: warna kulit jenis 6", 
+        "warna kulit jenis 6", 
+        "warna kulit jenis 4", 
+        "warna kulit jenis 5", 
+        "orang berjenggot: warna kulit jenis 1–2", 
         "janggut", 
-        "orang berjenggot"
+        "warna kulit jenis 3"
     ], 
     "🧕": [
         "wanita dengan kerudung", 
-        "hijab", 
-        "mantilla", 
+        "wanita dengan kerudung: warna kulit jenis 6", 
+        "warna kulit jenis 1–2", 
         "kerudung", 
-        "tichel"
+        "wanita dengan kerudung: warna kulit jenis 3", 
+        "warna kulit jenis 4", 
+        "wanita dengan kerudung: warna kulit jenis 5", 
+        "wanita dengan kerudung: warna kulit jenis 1–2", 
+        "warna kulit jenis 6", 
+        "mantilla", 
+        "warna kulit jenis 5", 
+        "warna kulit jenis 3", 
+        "tichel", 
+        "hijab", 
+        "wanita dengan kerudung: warna kulit jenis 4"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "ruang uap", 
+        "wanita di ruangan beruap", 
+        "sauna"
+    ], 
+    "🧖‍♂️": [
         "orang di ruangan beruap", 
+        "pria di ruangan beruap", 
         "ruang uap", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "wanita memanjat", 
         "pemanjat", 
         "orang memanjat"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "pemanjat", 
+        "pria memanjat"
+    ], 
+    "🧘‍♀️": [
+        "wanita dalam posisi teratai", 
         "yoga", 
         "orang dalam posisi teratai", 
         "meditasi"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "pria dalam posisi teratai", 
+        "yoga", 
+        "meditasi"
+    ], 
+    "🧙‍♀️": [
         "penyihir", 
         "magi", 
+        "tukang sihir", 
+        "magi wanita"
+    ], 
+    "🧙‍♂️": [
+        "penyihir", 
+        "magi pria", 
         "tukang sihir"
     ], 
-    "🧚": [
+    "🧚‍♀️": [
         "Puck", 
         "peri", 
         "Oberon", 
+        "peri wanita", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "peri pria", 
+        "Puck", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
+        "vampir wanita", 
         "Drakula", 
         "vampir", 
         "mayat hidup"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "vampir pria", 
+        "Drakula", 
+        "mayat hidup"
+    ], 
+    "🧜‍♀️": [
+        "wanita duyung", 
+        "putri duyung"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
         "orang duyung", 
         "pria duyung", 
         "putri duyung", 
         "wanita duyung"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "ajaib", 
+        "kurcaci wanita"
+    ], 
+    "🧝‍♂️": [
         "kurcaci", 
-        "ajaib"
+        "ajaib", 
+        "kurcaci pria"
     ], 
-    "🧞": [
-        "jin"
+    "🧞‍♀️": [
+        "jin", 
+        "jin wanita"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "jin", 
+        "jin pria"
+    ], 
+    "🧟‍♀️": [
+        "mayat berjalan", 
+        "zombi wanita", 
+        "mayat hidup"
+    ], 
+    "🧟‍♂️": [
         "mayat berjalan", 
         "zombi", 
+        "zombi pria", 
         "mayat hidup"
     ], 
     "🧠": [

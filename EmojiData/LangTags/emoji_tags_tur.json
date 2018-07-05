@@ -1,4 +1,126 @@
 {
+    "#️⃣": [
+        "tuş", 
+        "tuş: #"
+    ], 
+    "*️⃣": [
+        "tuş: *", 
+        "tuş"
+    ], 
+    "0️⃣": [
+        "tuş", 
+        "tuş: 0"
+    ], 
+    "1️⃣": [
+        "tuş", 
+        "tuş: 1"
+    ], 
+    "2️⃣": [
+        "tuş: 2", 
+        "tuş"
+    ], 
+    "3️⃣": [
+        "tuş", 
+        "tuş: 3"
+    ], 
+    "4️⃣": [
+        "tuş", 
+        "tuş: 4"
+    ], 
+    "5️⃣": [
+        "tuş", 
+        "tuş: 5"
+    ], 
+    "6️⃣": [
+        "tuş", 
+        "tuş: 6"
+    ], 
+    "7️⃣": [
+        "tuş", 
+        "tuş: 7"
+    ], 
+    "8️⃣": [
+        "tuş", 
+        "tuş: 8"
+    ], 
+    "9️⃣": [
+        "tuş", 
+        "tuş: 9"
+    ], 
+    "©️": [
+        "Telif hakkı", 
+        "telif hakkı işareti"
+    ], 
+    "®️": [
+        "Tescilli", 
+        "tescil işareti"
+    ], 
+    "‼️": [
+        "ünlem", 
+        "çift ünlem", 
+        "noktalama", 
+        "işaret"
+    ], 
+    "⁉️": [
+        "soru", 
+        "ünlem", 
+        "noktalama", 
+        "işaret", 
+        "ünlemli soru işareti"
+    ], 
+    "™️": [
+        "ticari marka", 
+        "işaret", 
+        "ticari marka işareti"
+    ], 
+    "ℹ️": [
+        "bilgi", 
+        "i harfi"
+    ], 
+    "↔️": [
+        "sol ve sağ ok", 
+        "ok"
+    ], 
+    "↕️": [
+        "yukarı ve aşağı ok", 
+        "ok"
+    ], 
+    "↖️": [
+        "yön", 
+        "kuzey batı", 
+        "ok", 
+        "sol yukarı ok", 
+        "ara yön"
+    ], 
+    "↗️": [
+        "yön", 
+        "kuzey doğu", 
+        "sağ yukarı ok", 
+        "ok", 
+        "ara yön"
+    ], 
+    "↘️": [
+        "yön", 
+        "güney doğu", 
+        "ok", 
+        "sağ aşağı ok", 
+        "ara yön"
+    ], 
+    "↙️": [
+        "yön", 
+        "sol aşağı ok", 
+        "ok", 
+        "güney batı", 
+        "ara yön"
+    ], 
+    "↩️": [
+        "sola kıvrımlı sağ ok", 
+        "ok"
+    ], 
+    "↪️": [
+        "ok", 
+        "sağa kıvrımlı sol ok"
+    ], 
     "⌚": [
         "saat", 
         "kol saati"
@@ -6,6 +128,14 @@
     "⌛": [
         "kum saati", 
         "kum"
+    ], 
+    "⌨️": [
+        "bilgisayar", 
+        "klavye"
+    ], 
+    "⏏️": [
+        "çıkar", 
+        "çıkarma düğmesi"
     ], 
     "⏩": [
         "sağa çift ok", 
@@ -31,14 +161,101 @@
         "ok", 
         "hızlı aşağı düğmesi"
     ], 
+    "⏭️": [
+        "sonraki sahne", 
+        "üçgen", 
+        "sonraki parça", 
+        "ok", 
+        "sonraki parça düğmesi"
+    ], 
+    "⏮️": [
+        "son parça düğmesi", 
+        "önceki sahne", 
+        "üçgen", 
+        "önceki parça", 
+        "ok"
+    ], 
+    "⏯️": [
+        "duraklatma", 
+        "ok", 
+        "üçgen", 
+        "oynatma veya duraklatma düğmesi", 
+        "oynatma", 
+        "sağ"
+    ], 
     "⏰": [
         "alarm", 
         "saat", 
         "çalar saat"
     ], 
+    "⏱️": [
+        "kronometre", 
+        "saat"
+    ], 
+    "⏲️": [
+        "alarm", 
+        "saat", 
+        "zamanlayıcı"
+    ], 
     "⏳": [
         "kum akan kum saati", 
         "zamanlayıcı"
+    ], 
+    "⏸️": [
+        "duraklatma", 
+        "çift çizgi", 
+        "çubuk", 
+        "duraklatma düğmesi", 
+        "dikey"
+    ], 
+    "⏹️": [
+        "durdur", 
+        "durdurma düğmesi", 
+        "kare"
+    ], 
+    "⏺️": [
+        "daire", 
+        "kayıt düğmesi", 
+        "kayıt"
+    ], 
+    "Ⓜ️": [
+        "daire", 
+        "daire içinde m harfi", 
+        "m"
+    ], 
+    "▪️": [
+        "geometri", 
+        "küçük siyah kare", 
+        "kare"
+    ], 
+    "▫️": [
+        "geometri", 
+        "küçük beyaz kare", 
+        "kare"
+    ], 
+    "▶️": [
+        "oynatma", 
+        "üçgen", 
+        "ok", 
+        "oynatma düğmesi", 
+        "sağ"
+    ], 
+    "◀️": [
+        "ters", 
+        "üçgen", 
+        "ok", 
+        "geri düğmesi", 
+        "sol"
+    ], 
+    "◻️": [
+        "geometri", 
+        "orta boy beyaz kare", 
+        "kare"
+    ], 
+    "◼️": [
+        "geometri", 
+        "orta boy siyah kare", 
+        "kare"
     ], 
     "◽": [
         "geometri", 
@@ -49,6 +266,42 @@
         "geometri", 
         "küçük-orta siyah kare", 
         "kare"
+    ], 
+    "☀️": [
+        "aydınılk", 
+        "ışık", 
+        "hava durumu", 
+        "güneş", 
+        "uzay", 
+        "güneşl"
+    ], 
+    "☁️": [
+        "hava durumu", 
+        "bulut"
+    ], 
+    "☂️": [
+        "yağmur", 
+        "giyim", 
+        "şemsiye", 
+        "hava durumu"
+    ], 
+    "☃️": [
+        "kar", 
+        "kardan adam", 
+        "hava durumu", 
+        "soğuk"
+    ], 
+    "☄️": [
+        "kuyruklu yıldız", 
+        "uzay"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "kutulu", 
+        "kutulu onay işareti", 
+        "onay"
     ], 
     "☔": [
         "yağmur", 
@@ -63,6 +316,86 @@
         "dumanı tüten", 
         "sıcak", 
         "çay"
+    ], 
+    "☘️": [
+        "yonca", 
+        "bitki"
+    ], 
+    "☝️": [
+        "el", 
+        "gösterme", 
+        "parmak", 
+        "beden", 
+        "yukarı", 
+        "yukarıyı gösteren işaret parmağı", 
+        "işaret parmağı"
+    ], 
+    "☠️": [
+        "canavar", 
+        "kuru kafa", 
+        "tehlike", 
+        "beden", 
+        "kemik", 
+        "yüz"
+    ], 
+    "☢️": [
+        "nükleer", 
+        "radyoaktif"
+    ], 
+    "☣️": [
+        "biyolojik tehlike", 
+        "sembol"
+    ], 
+    "☦️": [
+        "din", 
+        "haç", 
+        "ortodoks haçı", 
+        "isa"
+    ], 
+    "☪️": [
+        "ay yıldız", 
+        "din", 
+        "müslüman", 
+        "islam"
+    ], 
+    "☮️": [
+        "barış", 
+        "barış sembolü"
+    ], 
+    "☯️": [
+        "din", 
+        "yin yang", 
+        "yin", 
+        "taocu", 
+        "yang", 
+        "tao"
+    ], 
+    "☸️": [
+        "budist", 
+        "darma", 
+        "çember", 
+        "din", 
+        "darma çemberi"
+    ], 
+    "☹️": [
+        "asık", 
+        "asık surat", 
+        "yüz"
+    ], 
+    "☺️": [
+        "gülen yüz", 
+        "yüz", 
+        "içi boş gülen yüz"
+    ], 
+    "♀️": [
+        "kadın sembolü", 
+        "kadın", 
+        "bayan"
+    ], 
+    "♂️": [
+        "erkek sembolü", 
+        "adam", 
+        "erkek"
     ], 
     "♈": [
         "koç burcu", 
@@ -112,6 +445,42 @@
         "balık burcu", 
         "burçlar"
     ], 
+    "♠️": [
+        "maça", 
+        "pik", 
+        "kart", 
+        "iskambil"
+    ], 
+    "♣️": [
+        "trefl", 
+        "sinek", 
+        "kart", 
+        "iskambil"
+    ], 
+    "♥️": [
+        "kupa", 
+        "kart", 
+        "iskambil", 
+        "kör"
+    ], 
+    "♦️": [
+        "kart", 
+        "karo", 
+        "iskambil"
+    ], 
+    "♨️": [
+        "hamam", 
+        "sıcak", 
+        "ılıca", 
+        "kaplıca"
+    ], 
+    "♻️": [
+        "işaret", 
+        "geri dönüşüm simgesi", 
+        "koyu renk evrensel geri dönüşüm simgesi", 
+        "evrensel", 
+        "geri dönüşüm"
+    ], 
     "♿": [
         "tekerlekli sandalye simgesi", 
         "işaret", 
@@ -119,9 +488,61 @@
         "tekerlekli sandalye", 
         "erişim"
     ], 
+    "⚒️": [
+        "alet", 
+        "çekiç ve kazma", 
+        "kazma", 
+        "çekiç"
+    ], 
     "⚓": [
         "işaret", 
         "çapa"
+    ], 
+    "⚔️": [
+        "çapraz kılıçlar", 
+        "çatma", 
+        "çarpı", 
+        "kılıç", 
+        "silah", 
+        "çapraz"
+    ], 
+    "⚕️": [
+        "aesculapius", 
+        "personel", 
+        "medikal sembolü", 
+        "tıp"
+    ], 
+    "⚖️": [
+        "terazi", 
+        "burç", 
+        "alet", 
+        "ölçek", 
+        "adalet", 
+        "ağırlık", 
+        "denge"
+    ], 
+    "⚗️": [
+        "alet", 
+        "imbik", 
+        "kimya"
+    ], 
+    "⚙️": [
+        "alet", 
+        "dişli"
+    ], 
+    "⚛️": [
+        "ateist", 
+        "atom sembolü", 
+        "atom"
+    ], 
+    "⚜️": [
+        "zambak", 
+        "fleur-de-lis"
+    ], 
+    "⚠️": [
+        "uyarı", 
+        "işaret", 
+        "uyarı işareti"
     ], 
     "⚡": [
         "yüksek voltaj tehlikesi", 
@@ -141,6 +562,18 @@
         "daire", 
         "geometri", 
         "siyah daire"
+    ], 
+    "⚰️": [
+        "tabut", 
+        "cenaze", 
+        "ölüm"
+    ], 
+    "⚱️": [
+        "vazo", 
+        "ölüm", 
+        "kül", 
+        "cenaze", 
+        "kül kavanozu"
     ], 
     "⚽": [
         "topu", 
@@ -162,9 +595,32 @@
         "bulutlar ardındaki güneş", 
         "bulut"
     ], 
+    "⛈️": [
+        "yağmur", 
+        "gökgürültüsü", 
+        "hava durumu", 
+        "şimşek ve yağmurlu bulut", 
+        "bulut"
+    ], 
     "⛎": [
         "Yılancı", 
         "burçlar"
+    ], 
+    "⛏️": [
+        "alet", 
+        "kazma", 
+        "maden"
+    ], 
+    "⛑️": [
+        "şapka", 
+        "yardım ekibi kaskı", 
+        "yüz", 
+        "kask", 
+        "haç", 
+        "yardım"
+    ], 
+    "⛓️": [
+        "zincir"
     ], 
     "⛔": [
         "hayır", 
@@ -173,9 +629,25 @@
         "işaret", 
         "yasak"
     ], 
+    "⛩️": [
+        "şinto", 
+        "tapınak", 
+        "din", 
+        "Şinto tapınağı"
+    ], 
     "⛪": [
         "bina", 
         "kilise"
+    ], 
+    "⛰️": [
+        "dağ"
+    ], 
+    "⛱️": [
+        "yağmur", 
+        "güneş", 
+        "şemsiye", 
+        "hava durumu", 
+        "sabit şemsiye"
     ], 
     "⛲": [
         "çeşme", 
@@ -187,12 +659,30 @@
         "golf bayrağı", 
         "delikteki bayrak"
     ], 
+    "⛴️": [
+        "tekne", 
+        "feribot"
+    ], 
     "⛵": [
         "yelkenli tekne", 
         "yat", 
         "tekne", 
         "deniz tatil yeri", 
         "tatil yeri"
+    ], 
+    "⛷️": [
+        "kayak", 
+        "kar", 
+        "kayakçı"
+    ], 
+    "⛸️": [
+        "buz", 
+        "paten", 
+        "buz pateni"
+    ], 
+    "⛹️‍♂️": [
+        "top", 
+        "top sektiren kişi"
     ], 
     "⛺": [
         "çadır", 
@@ -205,24 +695,118 @@
         "yakıt", 
         "istasyon"
     ], 
+    "✂️": [
+        "alet", 
+        "makas"
+    ], 
     "✅": [
         "kalın onay işareti", 
         "onay", 
         "beyaz kalın onay işareti"
     ], 
+    "✈️": [
+        "uçak", 
+        "taşıt"
+    ], 
+    "✉️": [
+        "e-mail", 
+        "e-posta", 
+        "zarf"
+    ], 
     "✊": [
+        "yumruk kaldırma: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "yumruk kaldırma: orta açık cilt tonu", 
+        "orta cilt tonu", 
         "havada yumruk", 
-        "yumruk kaldırma"
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
+        "yumruk kaldırma", 
+        "yumruk kaldırma: orta koyu cilt tonu", 
+        "yumruk kaldırma: orta cilt tonu", 
+        "orta koyu cilt tonu", 
+        "yumruk kaldırma: açık cilt tonu"
     ], 
     "✋": [
+        "el kaldırma: açık cilt tonu", 
+        "el kaldırma: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "el kaldırma: orta koyu cilt tonu", 
+        "açık cilt tonu", 
+        "havada el", 
         "el kaldırma", 
-        "havada el"
+        "el kaldırma: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "el kaldırma: orta açık cilt tonu", 
+        "orta koyu cilt tonu"
+    ], 
+    "✌️": [
+        "oleey", 
+        "zafer", 
+        "zafer işareti", 
+        "zafer eli"
+    ], 
+    "✍️": [
+        "el", 
+        "yazma", 
+        "beden", 
+        "yazı yazan el"
+    ], 
+    "✏️": [
+        "kurşun kalem"
+    ], 
+    "✒️": [
+        "siyah uç", 
+        "kalem"
+    ], 
+    "✔️": [
+        "kalın onay işareti", 
+        "işaret", 
+        "onay"
+    ], 
+    "✖️": [
+        "kalın çarpı işareti", 
+        "x", 
+        "çarpı", 
+        "çarpma", 
+        "iptal"
+    ], 
+    "✝️": [
+        "latin haçı", 
+        "din", 
+        "haç", 
+        "isa"
+    ], 
+    "✡️": [
+        "yıldız", 
+        "Davut yıldızı", 
+        "davut", 
+        "yahudi", 
+        "din"
     ], 
     "✨": [
         "parıldayan yıldızlar", 
         "yıldızlar", 
         "parıltılar", 
         "pırıltı"
+    ], 
+    "✳️": [
+        "yıldız", 
+        "sekiz uçlu yıldız"
+    ], 
+    "✴️": [
+        "yıldız", 
+        "sekiz noktalı yıldız"
+    ], 
+    "❄️": [
+        "kar", 
+        "kar tanesi", 
+        "soğuk", 
+        "hava durumu"
+    ], 
+    "❇️": [
+        "parlama"
     ], 
     "❌": [
         "çarpma", 
@@ -254,6 +838,17 @@
         "noktalama", 
         "işaret"
     ], 
+    "❣️": [
+        "kalp", 
+        "kalp şeklinde ünlem işareti", 
+        "noktalama", 
+        "işaret", 
+        "ünlem işareti"
+    ], 
+    "❤️": [
+        "kalp", 
+        "kırmızı kalp"
+    ], 
     "➕": [
         "koyu renk artı işareti", 
         "kalın artı işareti", 
@@ -269,6 +864,13 @@
         "işaret", 
         "koyu renk bölü işareti"
     ], 
+    "➡️": [
+        "doğu", 
+        "sağ ok", 
+        "ana yön", 
+        "ok", 
+        "yön"
+    ], 
     "➰": [
         "kıvrık döngü", 
         "dönüş", 
@@ -279,6 +881,37 @@
         "kıvrık döngü", 
         "ücretsiz numara", 
         "Japonya"
+    ], 
+    "⤴️": [
+        "yukarı kıvrımlı sağ ok", 
+        "ok"
+    ], 
+    "⤵️": [
+        "aşağı", 
+        "aşağı kıvrımlı sağ ok", 
+        "ok"
+    ], 
+    "⬅️": [
+        "yön", 
+        "batı", 
+        "ana yön", 
+        "ok", 
+        "sol ok"
+    ], 
+    "⬆️": [
+        "yön", 
+        "kuzey", 
+        "ana yön", 
+        "ok", 
+        "yukarı yönlü ok"
+    ], 
+    "⬇️": [
+        "aşağı", 
+        "yön", 
+        "ok", 
+        "aşağı yönlü ok", 
+        "ana yön", 
+        "güney"
     ], 
     "⬛": [
         "geometri", 
@@ -299,6 +932,30 @@
         "çember", 
         "o"
     ], 
+    "〰️": [
+        "dalgalı", 
+        "dalgalı çizgi", 
+        "uzun ses işareti", 
+        "çizgi"
+    ], 
+    "〽️": [
+        "parça", 
+        "işaret", 
+        "parça değiştirme işareti"
+    ], 
+    "㊗️": [
+        "kutlama", 
+        "çince", 
+        "tebrik", 
+        "sembol", 
+        "Japonca \"tebrikler\" düğmesi"
+    ], 
+    "㊙️": [
+        "çince", 
+        "Japonca \"sır\" düğmesi", 
+        "sır", 
+        "sembol"
+    ], 
     "🀄": [
         "Ejderha", 
         "kızıl ejder mahjong taşı", 
@@ -310,6 +967,31 @@
         "joker", 
         "kart", 
         "iskambil kartı"
+    ], 
+    "🅰️": [
+        "A", 
+        "A grubu kan", 
+        "kan grubu", 
+        "kan", 
+        "kan grubu A"
+    ], 
+    "🅱️": [
+        "B grubu kan", 
+        "kan grubu B", 
+        "B", 
+        "kan grubu", 
+        "kan"
+    ], 
+    "🅾️": [
+        "kan grubu O", 
+        "kan grubu", 
+        "kan", 
+        "O", 
+        "O grubu kan"
+    ], 
+    "🅿️": [
+        "park yeri", 
+        "p düğmesi"
     ], 
     "🆎": [
         "kan grubu", 
@@ -1409,6 +2091,10 @@
         "japonca", 
         "Japonca \"burada\" düğmesi"
     ], 
+    "🈂️": [
+        "japonca", 
+        "Japonca \"servis ücreti\" düğmesi"
+    ], 
     "🈚": [
         "Japonca \"ücretsiz\" düğmesi", 
         "japonca"
@@ -1435,6 +2121,10 @@
     ], 
     "🈶": [
         "Japonca \"ücretsiz değil\" düğmesi", 
+        "japonca"
+    ], 
+    "🈷️": [
+        "Japonca \"aylık ücret\" düğmesi", 
         "japonca"
     ], 
     "🈸": [
@@ -1645,6 +2335,63 @@
         "kayan", 
         "yıldız kayması"
     ], 
+    "🌡️": [
+        "termometre", 
+        "hava durumu"
+    ], 
+    "🌤️": [
+        "bulutun arkasındaki güneş", 
+        "güneş", 
+        "hava durumu", 
+        "bulut"
+    ], 
+    "🌥️": [
+        "güneş", 
+        "hava durumu", 
+        "bulutta kaybolan güneş", 
+        "bulut"
+    ], 
+    "🌦️": [
+        "yağmur", 
+        "yağmur bulutunun arkasındaki güneş", 
+        "güneş", 
+        "hava durumu", 
+        "bulut"
+    ], 
+    "🌧️": [
+        "yağmur", 
+        "yağmur bulutu", 
+        "hava durumu", 
+        "bulut"
+    ], 
+    "🌨️": [
+        "kar", 
+        "kar bulutu", 
+        "soğuk", 
+        "hava durumu", 
+        "bulut"
+    ], 
+    "🌩️": [
+        "yıldırım", 
+        "şimşek bulutu", 
+        "hava durumu", 
+        "bulut"
+    ], 
+    "🌪️": [
+        "hortum", 
+        "hava durumu", 
+        "bulut"
+    ], 
+    "🌫️": [
+        "sis", 
+        "hava durumu", 
+        "bulut"
+    ], 
+    "🌬️": [
+        "esme", 
+        "rüzgar", 
+        "hava durumu"
+    ], 
     "🌭": [
         "sosis", 
         "sosisli sandviç"
@@ -1684,6 +2431,12 @@
     "🌵": [
         "kaktüs", 
         "bitki"
+    ], 
+    "🌶️": [
+        "acı", 
+        "bitki", 
+        "acı biber", 
+        "biber"
     ], 
     "🌷": [
         "lale", 
@@ -2064,6 +2817,13 @@
         "şişe", 
         "süt"
     ], 
+    "🍽️": [
+        "çatal", 
+        "tabakla birlikte çatal ve bıçak", 
+        "tabak", 
+        "yemek", 
+        "bıçak"
+    ], 
     "🍾": [
         "şişe", 
         "patlayan mantarlı şişe", 
@@ -2105,10 +2865,20 @@
         "ağaç"
     ], 
     "🎅": [
+        "orta açık cilt tonu", 
         "kutlama", 
+        "Noel Baba: açık cilt tonu", 
         "Noel Baba", 
-        "santa claus", 
-        "noel"
+        "açık cilt tonu", 
+        "Noel Baba: orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
+        "Noel Baba: orta cilt tonu", 
+        "Noel Baba: orta koyu cilt tonu", 
+        "noel", 
+        "Noel Baba: koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "santa claus"
     ], 
     "🎆": [
         "kutlama", 
@@ -2190,6 +2960,47 @@
         "mezuniyet", 
         "mezuniyet kepi", 
         "kep"
+    ], 
+    "🎖️": [
+        "kutlama", 
+        "madalya", 
+        "askeri", 
+        "askeri madalya"
+    ], 
+    "🎗️": [
+        "kutlama", 
+        "kurdele", 
+        "anma", 
+        "anma kurdelesi"
+    ], 
+    "🎙️": [
+        "müzik", 
+        "stüdyo mikrofonu", 
+        "mikrofon", 
+        "stüdyo"
+    ], 
+    "🎚️": [
+        "müzik", 
+        "ayar çubuğu", 
+        "ayarlama çubuğu", 
+        "kol"
+    ], 
+    "🎛️": [
+        "kontrol", 
+        "müzik", 
+        "kontrol düğmeleri", 
+        "düğme"
+    ], 
+    "🎞️": [
+        "film kareleri", 
+        "film karesi", 
+        "film", 
+        "sinema"
+    ], 
+    "🎟️": [
+        "bilet", 
+        "giriş bileti", 
+        "giriş"
     ], 
     "🎠": [
         "eğlence", 
@@ -2400,21 +3211,54 @@
         "yarış"
     ], 
     "🏂": [
+        "snowbordçu: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "snowboard yapmak", 
+        "snowbordçu: orta açık cilt tonu", 
+        "snowbordçu: koyu cilt tonu", 
         "spor", 
+        "snowbordçu: açık cilt tonu", 
+        "açık cilt tonu", 
+        "snowbordçu: orta cilt tonu", 
+        "orta cilt tonu", 
         "snowboard", 
         "snowbordçu", 
-        "snowboard yapmak"
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
-    "🏃": [
-        "koşan kişi", 
-        "spor", 
+    "🏃‍♀️": [
+        "bayan", 
+        "kadın", 
+        "koşma", 
+        "maraton", 
+        "yarış", 
+        "koşan kadın"
+    ], 
+    "🏃‍♂️": [
         "koşu", 
-        "maraton"
-    ], 
-    "🏄": [
         "spor", 
+        "koşan erkek", 
+        "koşan kişi", 
+        "adam", 
+        "koşma", 
+        "maraton", 
+        "yarış", 
+        "erkek"
+    ], 
+    "🏄‍♀️": [
+        "kadın", 
+        "bayan", 
+        "sörf", 
+        "sörf yapan kadın"
+    ], 
+    "🏄‍♂️": [
+        "sörf yapan erkek", 
+        "spor", 
+        "sörf", 
+        "adam", 
+        "sörfçü", 
         "sörf yapan kişi", 
-        "sörfçü"
+        "erkek"
     ], 
     "🏅": [
         "spor madalyası", 
@@ -2425,12 +3269,22 @@
         "ödül"
     ], 
     "🏇": [
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "spor", 
         "at yarışı", 
+        "açık cilt tonu", 
+        "at yarışı: koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "at yarışı: orta açık cilt tonu", 
         "at", 
+        "at yarışı: orta cilt tonu", 
         "yarış atı", 
         "yarış", 
-        "jokey"
+        "jokey", 
+        "at yarışı: orta koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "at yarışı: açık cilt tonu"
     ], 
     "🏈": [
         "top", 
@@ -2444,10 +3298,38 @@
         "top", 
         "futbol topu"
     ], 
-    "🏊": [
-        "spor", 
-        "yüzen kişi", 
+    "🏊‍♀️": [
+        "kadın", 
+        "bayan", 
+        "yüzen kadın", 
         "yüzme"
+    ], 
+    "🏊‍♂️": [
+        "yüzen kişi", 
+        "spor", 
+        "yüzme", 
+        "adam", 
+        "yüzen erkek", 
+        "erkek"
+    ], 
+    "🏋️‍♂️": [
+        "ağırlık kaldıran kişi", 
+        "ağırlık", 
+        "halter"
+    ], 
+    "🏌️‍♂️": [
+        "top", 
+        "golf", 
+        "golf oynayan kişi"
+    ], 
+    "🏍️": [
+        "yarış", 
+        "motosiklet"
+    ], 
+    "🏎️": [
+        "araba", 
+        "yarış", 
+        "yarış arabası"
     ], 
     "🏏": [
         "maç", 
@@ -2482,6 +3364,64 @@
         "masa tenisi", 
         "raket", 
         "pinpon"
+    ], 
+    "🏔️": [
+        "kar", 
+        "dağ", 
+        "karla kaplı dağ", 
+        "soğuk"
+    ], 
+    "🏕️": [
+        "kamp yapma", 
+        "kamp"
+    ], 
+    "🏖️": [
+        "plaj ve şemsiye", 
+        "kumsal", 
+        "şemsiye", 
+        "plaj"
+    ], 
+    "🏗️": [
+        "bina inşaatı", 
+        "bina", 
+        "inşaat"
+    ], 
+    "🏘️": [
+        "ev", 
+        "bina", 
+        "evler"
+    ], 
+    "🏙️": [
+        "şehir", 
+        "şehir manzarası", 
+        "bina"
+    ], 
+    "🏚️": [
+        "terkedilmiş ev", 
+        "ev", 
+        "bina", 
+        "harabe"
+    ], 
+    "🏛️": [
+        "tarihi yapı", 
+        "tarihi", 
+        "klasik", 
+        "bina"
+    ], 
+    "🏜️": [
+        "çöl"
+    ], 
+    "🏝️": [
+        "ıssız ada", 
+        "çöl", 
+        "ada"
+    ], 
+    "🏞️": [
+        "park", 
+        "milli park"
+    ], 
+    "🏟️": [
+        "stadyum"
     ], 
     "🏠": [
         "ev", 
@@ -2570,6 +3510,15 @@
         "kale", 
         "şato"
     ], 
+    "🏳️": [
+        "beyaz bayrak", 
+        "bayrak"
+    ], 
+    "🏳️‍🌈": [
+        "gökkuşağı bayrağı", 
+        "bayrak", 
+        "gökkuşağı"
+    ], 
     "🏴": [
         "siyah bayrak", 
         "bayrak"
@@ -2585,6 +3534,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "bayrak", 
         "Galler"
+    ], 
+    "🏵️": [
+        "gülce", 
+        "bitki"
+    ], 
+    "🏷️": [
+        "etiket"
     ], 
     "🏸": [
         "maç", 
@@ -2953,18 +3909,45 @@
         "hayvan", 
         "iz"
     ], 
+    "🐿️": [
+        "sincap"
+    ], 
     "👀": [
         "gözler", 
         "yüz"
     ], 
+    "👁️": [
+        "göz", 
+        "beden"
+    ], 
     "👂": [
+        "kulak: orta açık cilt tonu", 
+        "kulak: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
         "gövde", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "kulak: koyu cilt tonu", 
+        "kulak: orta cilt tonu", 
+        "kulak: açık cilt tonu", 
         "kulak"
     ], 
     "👃": [
-        "yüz", 
+        "burun: orta koyu cilt tonu", 
+        "burun: orta açık cilt tonu", 
+        "burun: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
         "gövde", 
-        "burun"
+        "koyu cilt tonu", 
+        "yüz", 
+        "burun: açık cilt tonu", 
+        "burun", 
+        "burun: orta cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👄": [
         "ağız", 
@@ -2978,74 +3961,184 @@
         "gövde"
     ], 
     "👆": [
-        "elinin tersiyle yukarıyı gösteren işaret parmağı", 
-        "elin arkası", 
-        "parmak", 
+        "elinin tersiyle yukarıyı gösteren işaret parmağı: açık cilt tonu", 
+        "orta açık cilt tonu", 
         "yukarıyı gösteren parmak", 
-        "işaret parmağı"
+        "orta cilt tonu", 
+        "elinin tersiyle yukarıyı gösteren işaret parmağı: koyu cilt tonu", 
+        "parmak", 
+        "açık cilt tonu", 
+        "elinin tersiyle yukarıyı gösteren işaret parmağı: orta açık cilt tonu", 
+        "elinin tersiyle yukarıyı gösteren işaret parmağı: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "elin arkası", 
+        "elinin tersiyle yukarıyı gösteren işaret parmağı: orta koyu cilt tonu", 
+        "işaret parmağı", 
+        "elinin tersiyle yukarıyı gösteren işaret parmağı", 
+        "orta koyu cilt tonu"
     ], 
     "👇": [
         "elinin tersiyle aşağıyı gösteren işaret parmağı", 
-        "elin arkası", 
+        "elinin tersiyle aşağıyı gösteren işaret parmağı: açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "elinin tersiyle aşağıyı gösteren işaret parmağı: orta açık cilt tonu", 
+        "elinin tersiyle aşağıyı gösteren işaret parmağı: koyu cilt tonu", 
         "parmak", 
+        "açık cilt tonu", 
+        "elinin tersiyle aşağıyı gösteren işaret parmağı: orta cilt tonu", 
         "aşağıyı gösteren parmak", 
-        "işaret parmağı"
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
+        "elin arkası", 
+        "işaret parmağı", 
+        "elinin tersiyle aşağıyı gösteren işaret parmağı: orta koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👈": [
-        "solu gösteren parmak", 
-        "elin arkası", 
+        "elinin tersiyle solu gösteren işaret parmağı: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "elinin tersiyle solu gösteren işaret parmağı: açık cilt tonu", 
+        "orta cilt tonu", 
         "parmak", 
+        "açık cilt tonu", 
+        "elinin tersiyle solu gösteren işaret parmağı: orta cilt tonu", 
+        "solu gösteren parmak", 
+        "koyu cilt tonu", 
+        "elin arkası", 
         "elinin tersiyle solu gösteren işaret parmağı", 
-        "işaret parmağı"
+        "işaret parmağı", 
+        "elinin tersiyle solu gösteren işaret parmağı: koyu cilt tonu", 
+        "elinin tersiyle solu gösteren işaret parmağı: orta açık cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👉": [
-        "sağı gösteren parmak", 
         "elinin tersiyle sağı gösteren işaret parmağı", 
-        "elin arkası", 
+        "elinin tersiyle sağı gösteren işaret parmağı: orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "elinin tersiyle sağı gösteren işaret parmağı: açık cilt tonu", 
+        "elinin tersiyle sağı gösteren işaret parmağı: koyu cilt tonu", 
         "parmak", 
-        "işaret parmağı"
+        "açık cilt tonu", 
+        "elinin tersiyle sağı gösteren işaret parmağı: orta açık cilt tonu", 
+        "sağı gösteren parmak", 
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
+        "elin arkası", 
+        "işaret parmağı", 
+        "orta koyu cilt tonu", 
+        "elinin tersiyle sağı gösteren işaret parmağı: orta koyu cilt tonu"
     ], 
     "👊": [
         "el", 
         "yaklaşan yumruk", 
+        "yaklaşan yumruk: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "yaklaşan yumruk: koyu cilt tonu", 
+        "yaklaşan yumruk: orta cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "yaklaşan yumruk: açık cilt tonu", 
+        "yaklaşan yumruk: orta açık cilt tonu", 
         "yumruk"
     ], 
     "👋": [
         "el", 
+        "el sallama: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "el sallama: koyu cilt tonu", 
+        "sallama", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
         "el sallama", 
-        "sallama"
+        "el sallama: açık cilt tonu", 
+        "el sallama: orta cilt tonu", 
+        "el sallama: orta açık cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👌": [
-        "Tamam el işareti", 
+        "tamam işareti: koyu cilt tonu", 
         "el", 
-        "işaret", 
+        "tamam işareti: açık cilt tonu", 
         "Tamam", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "Tamam el işareti", 
+        "koyu cilt tonu", 
+        "tamam işareti: orta açık cilt tonu", 
+        "işaret", 
+        "tamam işareti: orta koyu cilt tonu", 
+        "tamam işareti: orta cilt tonu", 
+        "orta koyu cilt tonu", 
         "tamam işareti"
     ], 
     "👍": [
         "el", 
-        "işaret", 
+        "baş parmak yukarıda: orta cilt tonu", 
+        "baş parmak yukarıda: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "baş parmak yukarıda", 
+        "baş parmak yukarıda: orta açık cilt tonu", 
+        "baş parmak yukarıda: koyu cilt tonu", 
+        "baş parmak yukarıda: açık cilt tonu", 
         "baş parmak", 
+        "açık cilt tonu", 
         "yukarı", 
-        "baş parmak yukarıda"
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
+        "işaret", 
+        "orta koyu cilt tonu"
     ], 
     "👎": [
         "aşağı", 
         "el", 
+        "baş parmak aşağıda: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "baş parmak aşağıda: orta açık cilt tonu", 
+        "baş parmak", 
+        "açık cilt tonu", 
+        "baş parmak aşağıda: açık cilt tonu", 
+        "koyu cilt tonu", 
         "baş parmak aşağıda", 
         "işaret", 
-        "baş parmak"
+        "baş parmak aşağıda: orta cilt tonu", 
+        "baş parmak aşağıda: orta koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👏": [
-        "el çırpma", 
-        "çırpma", 
+        "el çırpma: orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "eller", 
+        "el çırpma: koyu cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "işaret", 
-        "eller"
+        "el çırpma", 
+        "el çırpma: orta koyu cilt tonu", 
+        "çırpma", 
+        "el çırpma: açık cilt tonu", 
+        "el çırpma: orta açık cilt tonu"
     ], 
     "👐": [
         "el", 
+        "orta açık cilt tonu", 
+        "eller açık: açık cilt tonu", 
+        "eller açık: orta açık cilt tonu", 
+        "eller açık: orta koyu cilt tonu", 
         "açık", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
         "işaret", 
+        "eller açık: orta cilt tonu", 
+        "eller açık: koyu cilt tonu", 
         "eller açık", 
         "eller açık işareti"
     ], 
@@ -3159,71 +4252,210 @@
         "büst"
     ], 
     "👦": [
+        "orta açık cilt tonu", 
+        "erkek çocuk: orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "erkek çocuk", 
+        "açık cilt tonu", 
+        "erkek çocuk: açık cilt tonu", 
+        "koyu cilt tonu", 
         "kişiler", 
-        "erkek çocuk"
+        "erkek çocuk: orta cilt tonu", 
+        "erkek çocuk: koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "erkek çocuk: orta koyu cilt tonu"
     ], 
     "👧": [
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "kız çocuk: koyu cilt tonu", 
+        "koyu cilt tonu", 
         "kişiler", 
-        "kız çocuk"
+        "kız çocuk", 
+        "kız çocuk: açık cilt tonu", 
+        "kız çocuk: orta cilt tonu", 
+        "kız çocuk: orta koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "kız çocuk: orta açık cilt tonu"
     ], 
     "👨": [
+        "erkek: orta açık cilt tonu", 
+        "erkek: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "kişiler", 
+        "erkek: koyu cilt tonu", 
+        "erkek: orta cilt tonu", 
+        "erkek: açık cilt tonu", 
+        "erkek"
+    ], 
+    "👨‍⚕️": [
+        "hastabakıcı", 
+        "terapist", 
+        "adam", 
+        "erkek sağlık çalışanı", 
+        "sağlık", 
+        "erkek", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "terazi", 
+        "erkek", 
+        "adalet", 
+        "erkek hakim", 
+        "adam"
+    ], 
+    "👨‍✈️": [
+        "erkek pilot", 
+        "pilot", 
+        "adam", 
+        "uçak", 
+        "erkek"
+    ], 
+    "👨‍❤️‍👨": [
+        "kalpli çift", 
+        "kalp", 
+        "kişiler", 
+        "romantizm", 
+        "erkek", 
+        "kalpli çift: erkek erkek"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "öpüşme", 
+        "kişiler", 
+        "öpücük", 
+        "romantizm", 
+        "öpücük: erkek erkek", 
         "erkek"
     ], 
     "👨‍🌾": [
+        "erkek çiftçi: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "erkek çiftçi: orta açık cilt tonu", 
+        "erkek çiftçi: orta cilt tonu", 
+        "erkek çiftçi: orta koyu cilt tonu", 
         "çiftlik sahibi", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "erkek çiftçi", 
         "adam", 
         "bahçıvan", 
         "çiftçi", 
-        "erkek"
+        "erkek", 
+        "erkek çiftçi: açık cilt tonu"
     ], 
     "👨‍🍳": [
-        "şef", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "erkek aşçı", 
+        "açık cilt tonu", 
+        "erkek", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "erkek aşçı: orta cilt tonu", 
         "yemek yapma", 
         "adam", 
-        "erkek"
+        "erkek aşçı: koyu cilt tonu", 
+        "erkek aşçı: orta koyu cilt tonu", 
+        "erkek aşçı: açık cilt tonu", 
+        "şef", 
+        "erkek aşçı: orta açık cilt tonu"
     ], 
     "👨‍🎓": [
+        "orta açık cilt tonu", 
+        "erkek öğrenci: orta koyu cilt tonu", 
         "mezun", 
+        "açık cilt tonu", 
+        "erkek öğrenci: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
         "erkek öğrenci", 
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
         "adam", 
-        "öğrenci", 
-        "erkek"
+        "erkek öğrenci: açık cilt tonu", 
+        "erkek öğrenci: koyu cilt tonu", 
+        "erkek öğrenci: orta cilt tonu", 
+        "erkek", 
+        "öğrenci"
     ], 
     "👨‍🎤": [
         "gösterici", 
         "star", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "erkek şarkıcı", 
+        "erkek şarkıcı: orta cilt tonu", 
+        "açık cilt tonu", 
         "aktör", 
+        "erkek şarkıcı: koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "adam", 
+        "erkek şarkıcı: orta koyu cilt tonu", 
         "rock", 
         "şarkıcı", 
-        "erkek"
+        "erkek şarkıcı: açık cilt tonu", 
+        "erkek", 
+        "erkek şarkıcı: orta açık cilt tonu"
     ], 
     "👨‍🎨": [
-        "palet", 
-        "sanatçı", 
-        "adam", 
+        "erkek sanatçı: açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "erkek sanatçı", 
+        "açık cilt tonu", 
+        "erkek sanatçı: orta açık cilt tonu", 
+        "erkek sanatçı: orta cilt tonu", 
+        "erkek sanatçı: orta koyu cilt tonu", 
+        "adam", 
+        "orta koyu cilt tonu", 
+        "sanatçı", 
+        "palet", 
+        "erkek sanatçı: koyu cilt tonu", 
+        "koyu cilt tonu", 
         "erkek"
     ], 
     "👨‍🏫": [
         "öğretmen", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "erkek öğretmen: orta cilt tonu", 
         "profesör", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "erkek öğretmen", 
+        "erkek öğretmen: orta koyu cilt tonu", 
         "adam", 
         "eğitmen", 
-        "erkek"
+        "erkek öğretmen: koyu cilt tonu", 
+        "erkek öğretmen: orta açık cilt tonu", 
+        "erkek", 
+        "erkek öğretmen: açık cilt tonu"
     ], 
     "👨‍🏭": [
+        "erkek fabrika işçisi: koyu cilt tonu", 
+        "erkek fabrika işçisi: orta cilt tonu", 
+        "erkek fabrika işçisi: açık cilt tonu", 
         "montaj", 
         "işçi", 
         "fabrika", 
+        "orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "açık cilt tonu", 
         "erkek fabrika işçisi", 
         "sanayi", 
+        "erkek fabrika işçisi: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "adam", 
+        "erkek fabrika işçisi: orta koyu cilt tonu", 
         "erkek"
     ], 
     "👨‍👦": [
@@ -3385,119 +4617,316 @@
         "kız çocuk"
     ], 
     "👨‍💻": [
+        "erkek teknoloji uzmanı: koyu cilt tonu", 
+        "orta cilt tonu", 
+        "erkek teknoloji uzmanı: orta açık cilt tonu", 
+        "orta açık cilt tonu", 
         "erkek teknoloji uzmanı", 
+        "koyu cilt tonu", 
         "geliştirici", 
         "yazılım", 
+        "açık cilt tonu", 
+        "erkek teknoloji uzmanı: açık cilt tonu", 
         "kodlayıcı", 
         "mucit", 
         "adam", 
         "teknoloji uzmanı", 
+        "erkek teknoloji uzmanı: orta koyu cilt tonu", 
+        "erkek teknoloji uzmanı: orta cilt tonu", 
+        "orta koyu cilt tonu", 
         "erkek"
     ], 
     "👨‍💼": [
         "erkek ofis çalışanı", 
         "beyaz yaka", 
+        "orta açık cilt tonu", 
         "iş", 
+        "erkek ofis çalışanı: orta açık cilt tonu", 
         "mimar", 
+        "erkek ofis çalışanı: koyu cilt tonu", 
         "yönetici", 
+        "erkek ofis çalışanı: orta cilt tonu", 
         "ofis", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "erkek ofis çalışanı: açık cilt tonu", 
         "adam", 
+        "orta koyu cilt tonu", 
+        "erkek ofis çalışanı: orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "erkek"
     ], 
     "👨‍🔧": [
+        "erkek tamirci: orta açık cilt tonu", 
         "elektrikçi", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "tamirci", 
+        "açık cilt tonu", 
         "esnaf", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "erkek tamirci: açık cilt tonu", 
+        "erkek tamirci: koyu cilt tonu", 
         "adam", 
+        "erkek tamirci: orta koyu cilt tonu", 
+        "erkek tamirci: orta cilt tonu", 
         "tesisatçı", 
         "erkek", 
         "erkek tamirci"
     ], 
     "👨‍🔬": [
         "erkek bilim insanı", 
+        "erkek bilim insanı: koyu cilt tonu", 
+        "orta açık cilt tonu", 
         "mühendis", 
         "kimyacı", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
         "biyolog", 
         "bilim adamı", 
+        "koyu cilt tonu", 
+        "erkek bilim insanı: orta cilt tonu", 
         "adam", 
+        "erkek bilim insanı: orta koyu cilt tonu", 
+        "erkek bilim insanı: orta açık cilt tonu", 
+        "erkek bilim insanı: açık cilt tonu", 
         "fizikçi", 
         "erkek", 
         "matematikçi"
     ], 
     "👨‍🚀": [
+        "orta açık cilt tonu", 
         "astronot", 
+        "erkek astronot: açık cilt tonu", 
+        "açık cilt tonu", 
+        "erkek astronot: orta cilt tonu", 
+        "orta koyu cilt tonu", 
+        "erkek astronot: koyu cilt tonu", 
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
         "adam", 
         "erkek astronot", 
         "uzay", 
+        "erkek astronot: orta açık cilt tonu", 
         "erkek", 
-        "roket"
+        "roket", 
+        "erkek astronot: orta koyu cilt tonu"
     ], 
     "👨‍🚒": [
         "erkek itfaiyeci", 
+        "erkek itfaiyeci: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "erkek itfaiyeci: açık cilt tonu", 
+        "erkek itfaiyeci: koyu cilt tonu", 
+        "erkek itfaiyeci: orta açık cilt tonu", 
+        "erkek itfaiyeci: orta cilt tonu", 
+        "açık cilt tonu", 
         "itfaiye aracı", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "adam", 
-        "itfaiyeci", 
-        "erkek"
+        "erkek", 
+        "itfaiyeci"
     ], 
     "👩": [
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "kadın: orta koyu cilt tonu", 
+        "açık cilt tonu", 
+        "kadın: koyu cilt tonu", 
+        "koyu cilt tonu", 
         "kişiler", 
-        "kadın"
+        "kadın", 
+        "kadın: orta cilt tonu", 
+        "kadın: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "kadın: açık cilt tonu"
+    ], 
+    "👩‍⚕️": [
+        "bayan", 
+        "hemşire", 
+        "terapist", 
+        "kadın", 
+        "kadın sağlık çalışanı", 
+        "sağlık", 
+        "doktor"
+    ], 
+    "👩‍⚖️": [
+        "terazi", 
+        "kadın", 
+        "bayan", 
+        "adalet", 
+        "kadın hakim"
+    ], 
+    "👩‍✈️": [
+        "kadın pilot", 
+        "kadın", 
+        "bayan", 
+        "uçak", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "kalpli çift", 
+        "kalp", 
+        "kalpli çift: kadın erkek", 
+        "kişiler", 
+        "kadın", 
+        "romantizm", 
+        "erkek"
+    ], 
+    "👩‍❤️‍👩": [
+        "kalpli çift", 
+        "kalpli çift: kadın kadın", 
+        "kalp", 
+        "kişiler", 
+        "kadın", 
+        "romantizm"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "öpüşme", 
+        "kişiler", 
+        "kadın", 
+        "öpücük", 
+        "öpücük: kadın erkek", 
+        "romantizm", 
+        "erkek"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "öpüşme", 
+        "kişiler", 
+        "kadın", 
+        "öpücük", 
+        "öpücük: kadın kadın", 
+        "romantizm"
     ], 
     "👩‍🌾": [
         "bayan", 
+        "kadın çiftçi: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "çiftlik sahibi", 
+        "koyu cilt tonu", 
         "kadın çiftçi", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "kadın çiftçi: orta cilt tonu", 
+        "kadın çiftçi: orta açık cilt tonu", 
         "kadın", 
+        "kadın çiftçi: orta koyu cilt tonu", 
         "bahçıvan", 
-        "çiftçi"
+        "çiftçi", 
+        "kadın çiftçi: açık cilt tonu"
     ], 
     "👩‍🍳": [
-        "kadın aşçı", 
-        "kadın", 
+        "kadın aşçı: açık cilt tonu", 
         "bayan", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "kadın aşçı", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "kadın", 
+        "yemek yapma", 
+        "kadın aşçı: orta açık cilt tonu", 
+        "kadın aşçı: koyu cilt tonu", 
         "şef", 
-        "yemek yapma"
+        "kadın aşçı: orta koyu cilt tonu", 
+        "kadın aşçı: orta cilt tonu"
     ], 
     "👩‍🎓": [
-        "mezun", 
-        "kadın öğrenci", 
-        "kadın", 
         "bayan", 
+        "orta açık cilt tonu", 
+        "kadın öğrenci: koyu cilt tonu", 
+        "mezun", 
+        "açık cilt tonu", 
+        "kadın öğrenci: orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "kadın öğrenci: orta cilt tonu", 
+        "kadın", 
+        "kadın öğrenci: orta koyu cilt tonu", 
+        "kadın öğrenci", 
+        "kadın öğrenci: açık cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu", 
         "öğrenci"
     ], 
     "👩‍🎤": [
+        "kadın şarkıcı: orta koyu cilt tonu", 
+        "kadın şarkıcı: koyu cilt tonu", 
         "gösterici", 
         "bayan", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "kadın şarkıcı: açık cilt tonu", 
         "kadın şarkıcı", 
+        "açık cilt tonu", 
+        "kadın şarkıcı: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "kadın", 
         "rock", 
         "star", 
         "şarkıcı", 
+        "kadın şarkıcı: orta cilt tonu", 
         "aktör"
     ], 
     "👩‍🎨": [
-        "kadın sanatçı", 
-        "palet", 
-        "kadın", 
+        "kadın sanatçı: koyu cilt tonu", 
+        "kadın sanatçı: orta açık cilt tonu", 
         "bayan", 
-        "sanatçı"
+        "orta açık cilt tonu", 
+        "kadın sanatçı: açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
+        "kadın", 
+        "sanatçı", 
+        "palet", 
+        "kadın sanatçı", 
+        "kadın sanatçı: orta koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "kadın sanatçı: orta cilt tonu"
     ], 
     "👩‍🏫": [
+        "kadın öğretmen: koyu cilt tonu", 
         "öğretmen", 
+        "kadın öğretmen: orta cilt tonu", 
         "bayan", 
         "kadın öğretmen", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "profesör", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
         "kadın", 
-        "eğitmen"
+        "kadın öğretmen: açık cilt tonu", 
+        "eğitmen", 
+        "kadın öğretmen: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "kadın öğretmen: orta koyu cilt tonu"
     ], 
     "👩‍🏭": [
         "bayan", 
         "montaj", 
         "işçi", 
         "fabrika", 
+        "orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "açık cilt tonu", 
         "sanayi", 
+        "kadın fabrika işçisi: orta cilt tonu", 
+        "koyu cilt tonu", 
         "kadın", 
-        "kadın fabrika işçisi"
+        "kadın fabrika işçisi", 
+        "kadın fabrika işçisi: açık cilt tonu", 
+        "kadın fabrika işçisi: orta açık cilt tonu", 
+        "kadın fabrika işçisi: orta koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "kadın fabrika işçisi: koyu cilt tonu"
     ], 
     "👩‍👦": [
         "baba", 
@@ -3604,64 +5033,117 @@
     "👩‍💻": [
         "bayan", 
         "teknoloji uzmanı", 
+        "orta açık cilt tonu", 
+        "kadın teknoloji uzmanı: açık cilt tonu", 
+        "orta cilt tonu", 
         "geliştirici", 
+        "kadın teknoloji uzmanı: orta açık cilt tonu", 
         "yazılım", 
         "kadın", 
+        "açık cilt tonu", 
+        "kadın teknoloji uzmanı: orta koyu cilt tonu", 
         "kodlayıcı", 
         "mucit", 
-        "kadın teknoloji uzmanı"
+        "kadın teknoloji uzmanı", 
+        "kadın teknoloji uzmanı: koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "kadın teknoloji uzmanı: orta cilt tonu"
     ], 
     "👩‍💼": [
         "kadın ofis çalışanı", 
+        "kadın ofis çalışanı: açık cilt tonu", 
         "mimar", 
         "bayan", 
+        "orta açık cilt tonu", 
         "iş", 
+        "kadın ofis çalışanı: orta koyu cilt tonu", 
+        "orta cilt tonu", 
         "beyaz yaka", 
         "yönetici", 
+        "kadın ofis çalışanı: koyu cilt tonu", 
         "ofis", 
-        "kadın"
+        "kadın ofis çalışanı: orta cilt tonu", 
+        "açık cilt tonu", 
+        "kadın", 
+        "kadın ofis çalışanı: orta açık cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👩‍🔧": [
+        "kadın tamirci: orta cilt tonu", 
+        "kadın tamirci: orta açık cilt tonu", 
         "elektrikçi", 
         "bayan", 
+        "kadın tamirci: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "kadın tamirci: koyu cilt tonu", 
         "tamirci", 
+        "açık cilt tonu", 
         "esnaf", 
+        "koyu cilt tonu", 
         "kadın", 
+        "kadın tamirci: açık cilt tonu", 
         "kadın tamirci", 
-        "tesisatçı"
+        "tesisatçı", 
+        "orta koyu cilt tonu"
     ], 
     "👩‍🔬": [
+        "kadın bilim insanı: koyu cilt tonu", 
+        "kadın bilim insanı: orta açık cilt tonu", 
+        "kadın bilim insanı: açık cilt tonu", 
         "bayan", 
+        "orta açık cilt tonu", 
         "mühendis", 
         "kimyacı", 
+        "orta cilt tonu", 
+        "kadın bilim insanı: orta cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
         "biyolog", 
         "bilim adamı", 
         "kadın bilim insanı", 
         "kadın", 
         "fizikçi", 
-        "matematikçi"
+        "koyu cilt tonu", 
+        "matematikçi", 
+        "kadın bilim insanı: orta koyu cilt tonu"
     ], 
     "👩‍🚀": [
+        "orta cilt tonu", 
         "bayan", 
+        "kadın astronot: orta açık cilt tonu", 
+        "orta açık cilt tonu", 
         "astronot", 
+        "kadın astronot: orta koyu cilt tonu", 
+        "açık cilt tonu", 
+        "kadın astronot: açık cilt tonu", 
+        "koyu cilt tonu", 
         "kadın", 
+        "kadın astronot: koyu cilt tonu", 
         "uzay", 
         "kadın astronot", 
+        "kadın astronot: orta cilt tonu", 
+        "orta koyu cilt tonu", 
         "roket"
     ], 
     "👩‍🚒": [
-        "kadın itfaiyeci", 
-        "kadın", 
         "bayan", 
-        "itfaiyeci", 
-        "itfaiye aracı"
-    ], 
-    "👪": [
-        "baba", 
-        "anne", 
-        "kişiler", 
-        "çocuk", 
-        "aile"
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "kadın itfaiyeci: koyu cilt tonu", 
+        "açık cilt tonu", 
+        "itfaiye aracı", 
+        "kadın itfaiyeci: orta açık cilt tonu", 
+        "koyu cilt tonu", 
+        "kadın itfaiyeci: orta cilt tonu", 
+        "kadın", 
+        "kadın itfaiyeci: orta koyu cilt tonu", 
+        "kadın itfaiyeci", 
+        "kadın itfaiyeci: açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "itfaiyeci"
     ], 
     "👫": [
         "kişiler", 
@@ -3685,68 +5167,181 @@
         "çift", 
         "el ele tutuşan"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "bayan", 
+        "memur", 
         "polis", 
+        "kadın", 
+        "aynasız", 
+        "kadın polis memuru"
+    ], 
+    "👮‍♂️": [
+        "erkek polis memuru", 
+        "memur", 
         "polis memuru", 
         "kişiler", 
-        "görevli"
+        "adam", 
+        "görevli", 
+        "polis", 
+        "erkek", 
+        "aynasız"
     ], 
-    "👯": [
+    "👯‍♀️": [
+        "tavşan kulaklı kadın", 
+        "kız", 
+        "dansçı", 
         "tavşan kulaklar", 
         "kişiler", 
         "kadın", 
-        "kız", 
+        "tavşan kulak", 
+        "bayan", 
+        "partiye katılma", 
         "tavşan kulaklı kişi"
     ], 
-    "👰": [
-        "kişiler", 
-        "duvak", 
-        "duvaklı gelin", 
-        "evlilik"
+    "👯‍♂️": [
+        "tavşan kulaklı erkek", 
+        "dansçı", 
+        "adam", 
+        "tavşan kulak", 
+        "partiye katılma", 
+        "erkek"
     ], 
-    "👱": [
-        "sarışın kişi", 
+    "👰": [
+        "duvaklı gelin: orta açık cilt tonu", 
+        "duvaklı gelin: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "duvak", 
+        "duvaklı gelin: açık cilt tonu", 
+        "açık cilt tonu", 
+        "evlilik", 
+        "orta koyu cilt tonu", 
         "kişiler", 
-        "sarışın"
+        "duvaklı gelin: koyu cilt tonu", 
+        "duvaklı gelin: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "duvaklı gelin"
+    ], 
+    "👱‍♀️": [
+        "sarışın kadın", 
+        "sarışın", 
+        "kadın", 
+        "bayan"
+    ], 
+    "👱‍♂️": [
+        "sarışın", 
+        "sarışın kişi", 
+        "sarışın erkek", 
+        "kişiler", 
+        "adam", 
+        "erkek"
     ], 
     "👲": [
+        "çinli şapkası olan adam: orta açık cilt tonu", 
+        "çinli şapkası olan adam: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "çinli şapkası olan adam: açık cilt tonu", 
+        "açık cilt tonu", 
         "gua pi mao takan erkek", 
         "gua pi mao", 
         "kişiler", 
-        "çinli şapkası olan adam"
+        "çinli şapkası olan adam: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "çinli şapkası olan adam", 
+        "çinli şapkası olan adam: orta koyu cilt tonu"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "sarık", 
+        "sarıklı kadın", 
+        "kadın", 
+        "bayan"
+    ], 
+    "👳‍♂️": [
         "sarık", 
         "sarıklı erkek", 
+        "sarıklı kişi", 
         "kişiler", 
-        "sarıklı kişi"
+        "adam", 
+        "erkek"
     ], 
     "👴": [
         "yaşlı erkek", 
+        "orta açık cilt tonu", 
+        "yaşlı erkek: orta koyu cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "yaşlı erkek: orta cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "kişiler", 
         "yaşlı", 
-        "erkek"
+        "yaşlı erkek: açık cilt tonu", 
+        "yaşlı erkek: orta açık cilt tonu", 
+        "erkek", 
+        "yaşlı erkek: koyu cilt tonu"
     ], 
     "👵": [
+        "orta açık cilt tonu", 
+        "yaşlı kadın", 
+        "yaşlı kadın: orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "yaşlı kadın: orta cilt tonu", 
+        "yaşlı kadın: orta koyu cilt tonu", 
+        "orta cilt tonu", 
         "kişiler", 
         "kadın", 
         "yaşlı", 
-        "yaşlı kadın"
+        "yaşlı kadın: koyu cilt tonu", 
+        "yaşlı kadın: açık cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👶": [
         "bebek", 
-        "kişiler"
-    ], 
-    "👷": [
+        "orta açık cilt tonu", 
+        "bebek: orta koyu cilt tonu", 
+        "orta cilt tonu", 
+        "bebek: orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
         "kişiler", 
+        "bebek: açık cilt tonu", 
+        "bebek: koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "bebek: orta cilt tonu"
+    ], 
+    "👷‍♀️": [
+        "kadın inşaat işçisi", 
+        "kadın", 
+        "bayan", 
         "işçi", 
+        "inşaat"
+    ], 
+    "👷‍♂️": [
+        "işçi", 
+        "erkek inşaat işçisi", 
+        "kişiler", 
+        "adam", 
         "inşaat", 
-        "inşaat işçisi"
+        "inşaat işçisi", 
+        "erkek"
     ], 
     "👸": [
+        "prenses: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "prenses: orta cilt tonu", 
+        "prenses: açık cilt tonu", 
+        "peri masalı", 
+        "açık cilt tonu", 
         "prenses", 
         "kişiler", 
-        "peri masalı"
+        "prenses: orta açık cilt tonu", 
+        "prenses: orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "👹": [
         "canavar", 
@@ -3770,9 +5365,19 @@
         "peri masalı"
     ], 
     "👼": [
-        "yüz", 
-        "peri masalı", 
+        "bebek melek: koyu cilt tonu", 
+        "bebek melek: orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "bebek melek: açık cilt tonu", 
+        "orta cilt tonu", 
+        "bebek melek: orta koyu cilt tonu", 
+        "açık cilt tonu", 
         "bebek melek", 
+        "peri masalı", 
+        "koyu cilt tonu", 
+        "yüz", 
+        "bebek melek: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
         "melek"
     ], 
     "👽": [
@@ -3801,21 +5406,52 @@
         "gövde", 
         "kafatası"
     ], 
-    "💁": [
+    "💁‍♀️": [
         "bilgilendirme", 
         "elini yana yatırma", 
+        "bayan", 
+        "elini yana yatıran kadın", 
         "kişiler", 
+        "kadın", 
+        "küstah", 
+        "yana yatmış el", 
         "yardım"
     ], 
-    "💂": [
-        "kişiler", 
+    "💁‍♂️": [
+        "yana yatmış el", 
+        "küstah", 
+        "erkek", 
+        "adam", 
+        "elini yana yatıran erkek"
+    ], 
+    "💂‍♀️": [
+        "kadın muhafız", 
         "muhafız", 
-        "bekçi"
+        "kadın", 
+        "bayan"
+    ], 
+    "💂‍♂️": [
+        "muhafız", 
+        "erkek muhafız", 
+        "kişiler", 
+        "adam", 
+        "bekçi", 
+        "erkek"
     ], 
     "💃": [
-        "kişiler", 
+        "dans eden kadın: orta açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "dans eden kadın: koyu cilt tonu", 
+        "orta cilt tonu", 
+        "dans eden kadın: orta koyu cilt tonu", 
         "dans eden kadın", 
-        "dans"
+        "dans", 
+        "açık cilt tonu", 
+        "dans eden kadın: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "kişiler", 
+        "dans eden kadın: açık cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "💄": [
         "ruj", 
@@ -3823,22 +5459,52 @@
         "kozmetik"
     ], 
     "💅": [
-        "manikür", 
-        "oje", 
-        "oje sürme", 
+        "oje sürme: orta cilt tonu", 
+        "orta açık cilt tonu", 
         "tırnak", 
-        "kozmetik"
+        "orta cilt tonu", 
+        "oje sürme: açık cilt tonu", 
+        "oje sürme: orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "kozmetik", 
+        "manikür", 
+        "koyu cilt tonu", 
+        "oje", 
+        "oje sürme: koyu cilt tonu", 
+        "oje sürme: orta koyu cilt tonu", 
+        "oje sürme", 
+        "orta koyu cilt tonu"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "salon", 
+        "bayan", 
         "masaj", 
-        "salon", 
-        "yüz masajı"
+        "yüz", 
+        "kadın", 
+        "yüz masajı", 
+        "yüz masajı yaptıran kadın"
     ], 
-    "💇": [
-        "güzellik", 
+    "💆‍♂️": [
+        "masaj", 
+        "yüz", 
+        "yüz masajı yaptıran erkek", 
+        "adam", 
+        "erkek"
+    ], 
+    "💇‍♀️": [
+        "saç kestiren kadın", 
         "salon", 
+        "bayan", 
+        "kadın", 
+        "güzellik", 
         "güzellik salonu", 
         "saç kesimi"
+    ], 
+    "💇‍♂️": [
+        "saç kestiren erkek", 
+        "saç kesimi", 
+        "adam", 
+        "erkek"
     ], 
     "💈": [
         "berber", 
@@ -3880,22 +5546,10 @@
         "mücevher taşı", 
         "mücevher"
     ], 
-    "💏": [
-        "romantizm", 
-        "kişiler", 
-        "öpüşme", 
-        "öpücük"
-    ], 
     "💐": [
         "buket", 
         "romantizm", 
         "çiçek"
-    ], 
-    "💑": [
-        "kalp", 
-        "kalpli çift", 
-        "kişiler", 
-        "romantizm"
     ], 
     "💒": [
         "kilisede evlenme", 
@@ -4055,12 +5709,22 @@
         "pislik"
     ], 
     "💪": [
+        "pazı: orta koyu cilt tonu", 
         "çizgi roman", 
         "güçlü", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "pazı", 
+        "açık cilt tonu", 
         "esnek", 
         "kas", 
-        "kas esnetme"
+        "pazı: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "pazı: orta açık cilt tonu", 
+        "kas esnetme", 
+        "pazı: açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "pazı: koyu cilt tonu"
     ], 
     "💫": [
         "yıldızları görme", 
@@ -4510,6 +6174,13 @@
         "video", 
         "video kaseti"
     ], 
+    "📽️": [
+        "projektör", 
+        "video", 
+        "film projektörü", 
+        "film", 
+        "sinema"
+    ], 
     "📿": [
         "kolye", 
         "din", 
@@ -4853,6 +6524,17 @@
         "aşağı üçgen düğmesi", 
         "aşağı düğmesi"
     ], 
+    "🕉️": [
+        "om", 
+        "din", 
+        "hinduizm"
+    ], 
+    "🕊️": [
+        "kuş", 
+        "barış", 
+        "güvercin", 
+        "uçma"
+    ], 
     "🕋": [
         "din", 
         "Kâbe", 
@@ -5009,24 +6691,124 @@
         "12:30", 
         "on iki buçuk"
     ], 
+    "🕯️": [
+        "ışık", 
+        "mum"
+    ], 
+    "🕰️": [
+        "saat", 
+        "raf saati"
+    ], 
+    "🕳️": [
+        "delik"
+    ], 
+    "🕴️": [
+        "işadamı", 
+        "takım elbise", 
+        "havalanan takım elbiseli adam", 
+        "erkek", 
+        "iş"
+    ], 
+    "🕵️‍♂️": [
+        "casus", 
+        "dedektif", 
+        "hafiye"
+    ], 
+    "🕶️": [
+        "göz", 
+        "güneş gözlüğü", 
+        "kara", 
+        "gözlük"
+    ], 
+    "🕷️": [
+        "böcek", 
+        "örümcek"
+    ], 
+    "🕸️": [
+        "örümcek ağı", 
+        "örümcek"
+    ], 
+    "🕹️": [
+        "video oyunu", 
+        "oyun", 
+        "oyun çubuğu"
+    ], 
     "🕺": [
-        "dans eden adam", 
+        "dans eden adam: koyu cilt tonu", 
+        "dans eden adam: orta açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "dans", 
-        "adam"
+        "açık cilt tonu", 
+        "dans eden adam: orta koyu cilt tonu", 
+        "dans eden adam: açık cilt tonu", 
+        "koyu cilt tonu", 
+        "adam", 
+        "dans eden adam", 
+        "orta koyu cilt tonu", 
+        "dans eden adam: orta cilt tonu"
+    ], 
+    "🖇️": [
+        "ataş", 
+        "iç içe geçmiş ataşlar", 
+        "bağlantı"
+    ], 
+    "🖊️": [
+        "kalem", 
+        "tükenmez kalem"
+    ], 
+    "🖋️": [
+        "dolma kalem", 
+        "kalem"
+    ], 
+    "🖌️": [
+        "boya fırçası", 
+        "boyama"
+    ], 
+    "🖍️": [
+        "pastel", 
+        "pastel boya"
+    ], 
+    "🖐️": [
+        "el", 
+        "parmaklar açık el kaldırma", 
+        "parmak", 
+        "avuç", 
+        "beden"
     ], 
     "🖕": [
         "el", 
-        "orta parmak", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "parmak", 
-        "beden"
+        "beden", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
+        "orta parmak", 
+        "orta parmak: açık cilt tonu", 
+        "orta parmak: koyu cilt tonu", 
+        "orta parmak: orta cilt tonu", 
+        "orta parmak: orta koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "orta parmak: orta açık cilt tonu"
     ], 
     "🖖": [
         "el", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "parmak", 
         "beden", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
         "volkanlı selamı", 
         "spock", 
-        "volkan"
+        "volkan", 
+        "volkanlı selamı: orta cilt tonu", 
+        "volkanlı selamı: orta koyu cilt tonu", 
+        "volkanlı selamı: koyu cilt tonu", 
+        "volkanlı selamı: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "volkanlı selamı: açık cilt tonu"
     ], 
     "🖤": [
         "kalp", 
@@ -5034,6 +6816,120 @@
         "siyah", 
         "fena", 
         "kötü"
+    ], 
+    "🖥️": [
+        "bilgisayar", 
+        "masaüstü bilgisayar", 
+        "masaüstü"
+    ], 
+    "🖨️": [
+        "bilgisayar", 
+        "yazıcı"
+    ], 
+    "🖱️": [
+        "fare", 
+        "bilgisayar", 
+        "bilgisayar faresi", 
+        "düğme", 
+        "3", 
+        "üç"
+    ], 
+    "🖲️": [
+        "bilgisayar", 
+        "iz topu"
+    ], 
+    "🖼️": [
+        "resimli çerçeve", 
+        "sanat", 
+        "çerçeve", 
+        "resim", 
+        "yağlı boya", 
+        "müze"
+    ], 
+    "🗂️": [
+        "dizin", 
+        "ayırıcı", 
+        "dosya ayırıcı", 
+        "kart"
+    ], 
+    "🗃️": [
+        "kutu", 
+        "dosya", 
+        "kart", 
+        "dosya kutusu"
+    ], 
+    "🗄️": [
+        "dosya", 
+        "dosya dolabı", 
+        "dolap"
+    ], 
+    "🗑️": [
+        "çöp sepeti"
+    ], 
+    "🗒️": [
+        "defter", 
+        "not", 
+        "spiral", 
+        "spiral not defteri"
+    ], 
+    "🗓️": [
+        "defter", 
+        "spiral takvim", 
+        "spiral", 
+        "takvim"
+    ], 
+    "🗜️": [
+        "alet", 
+        "sıkıştırma"
+    ], 
+    "🗝️": [
+        "anahtar", 
+        "eski", 
+        "ipucu", 
+        "kilit", 
+        "eski anahtar"
+    ], 
+    "🗞️": [
+        "gazete", 
+        "kağıt", 
+        "rulo", 
+        "haber", 
+        "rulo gazete"
+    ], 
+    "🗡️": [
+        "hançer", 
+        "silah", 
+        "bıçak"
+    ], 
+    "🗣️": [
+        "siluet", 
+        "bağırma", 
+        "profil", 
+        "yüz", 
+        "kafa", 
+        "konuşan kişi", 
+        "konuşma"
+    ], 
+    "🗨️": [
+        "diyalog", 
+        "sol konuşma balonu", 
+        "konuşma"
+    ], 
+    "🗯️": [
+        "kızgın", 
+        "sağ öfke balonu", 
+        "öfke", 
+        "balon"
+    ], 
+    "🗳️": [
+        "kutu", 
+        "oy sandığı", 
+        "sandık"
+    ], 
+    "🗺️": [
+        "dünya haritası", 
+        "harita", 
+        "dünya"
     ], 
     "🗻": [
         "dağ", 
@@ -5506,26 +7402,68 @@
         "yuvarlanma", 
         "gözlerini deviren yüz"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "hareket", 
+        "bayan", 
         "hayır hareketi", 
         "hayır", 
+        "hayır hareketi yapan kadın", 
         "yüz", 
+        "kadın", 
+        "el", 
         "iyi değil", 
         "yasak"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "el", 
         "hareket", 
-        "yüz", 
-        "oldu", 
-        "tamam hareketi"
+        "hayır", 
+        "adam", 
+        "iyi değil", 
+        "yasak", 
+        "erkek", 
+        "hayır hareketi yapan erkek"
     ], 
-    "🙇": [
+    "🙆‍♀️": [
         "hareket", 
-        "üzgünüm", 
+        "bayan", 
+        "tamam", 
+        "el", 
+        "yüz", 
+        "kadın", 
+        "tamam hareketi", 
+        "oldu", 
+        "tamam hareketi yapan kadın"
+    ], 
+    "🙆‍♂️": [
+        "el", 
+        "tamam", 
+        "hareket", 
+        "adam", 
+        "erkek", 
+        "tamam hareketi yapan erkek"
+    ], 
+    "🙇‍♀️": [
+        "hareket", 
+        "bayan", 
+        "lütuf", 
+        "başını öne eğen kadın", 
+        "kadın", 
+        "özür", 
+        "baş eğme"
+    ], 
+    "🙇‍♂️": [
+        "hareket", 
+        "başını öne eğen erkek", 
+        "başını öne eğme", 
+        "lütuf", 
+        "özür", 
+        "erkek", 
         "eğilme", 
+        "adam", 
         "kişi", 
-        "başını öne eğme"
+        "üzgünüm", 
+        "baş eğme"
     ], 
     "🙈": [
         "görmeyen maymun", 
@@ -5542,38 +7480,91 @@
         "maymun", 
         "bilmiyorum"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "hareket", 
+        "bayan", 
         "mutlu", 
+        "el kaldırma", 
         "kalkan el", 
         "elini kaldırma", 
         "kişi", 
-        "el kaldıran kişi"
+        "kadın", 
+        "el kaldıran kişi", 
+        "elini kaldıran kadın"
+    ], 
+    "🙋‍♂️": [
+        "el kaldırma", 
+        "hareket", 
+        "adam", 
+        "elini kaldıran erkek", 
+        "erkek"
     ], 
     "🙌": [
         "eller havaya", 
+        "orta cilt tonu", 
+        "orta açık cilt tonu", 
         "kutlama", 
+        "eller havaya: orta açık cilt tonu", 
+        "her iki el", 
+        "açık cilt tonu", 
+        "eller havaya: açık cilt tonu", 
+        "koyu cilt tonu", 
         "kutlamak için iki eli birden kaldırma", 
-        "her iki el"
+        "eller havaya: koyu cilt tonu", 
+        "eller havaya: orta cilt tonu", 
+        "eller havaya: orta koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
-    "🙍": [
-        "somurtan kişi", 
-        "hareket", 
+    "🙍‍♀️": [
         "somurtma", 
-        "kişi"
-    ], 
-    "🙎": [
         "hareket", 
-        "darılan kişi", 
+        "bayan", 
+        "kadın", 
         "kişi", 
-        "darılma"
+        "somurtan kadın", 
+        "somurtan kişi", 
+        "mimik"
+    ], 
+    "🙍‍♂️": [
+        "somurtma", 
+        "somurtan erkek", 
+        "mimik", 
+        "adam", 
+        "erkek"
+    ], 
+    "🙎‍♀️": [
+        "hareket", 
+        "bayan", 
+        "darılma", 
+        "darılan kişi", 
+        "kadın", 
+        "kişi", 
+        "mimik", 
+        "darılan kadın"
+    ], 
+    "🙎‍♂️": [
+        "mimik", 
+        "darılma", 
+        "erkek", 
+        "adam", 
+        "darılan erkek"
     ], 
     "🙏": [
         "el", 
-        "dua", 
+        "orta açık cilt tonu", 
         "hareket", 
+        "orta cilt tonu", 
+        "dua", 
+        "birleşen eller: orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "birleşen eller: koyu cilt tonu", 
+        "dua etme", 
+        "birleşen eller: orta cilt tonu", 
+        "koyu cilt tonu", 
         "birleşen eller", 
-        "dua etme"
+        "birleşen eller: açık cilt tonu", 
+        "birleşen eller: orta koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🚀": [
         "roket", 
@@ -5772,10 +7763,22 @@
         "gemi", 
         "taşıt"
     ], 
-    "🚣": [
-        "sandalda kürek çeken kişi", 
+    "🚣‍♀️": [
+        "kayık", 
+        "kadın", 
+        "bayan", 
+        "sandalda kürek çeken kadın", 
+        "sandal"
+    ], 
+    "🚣‍♂️": [
+        "sandal", 
         "tekne", 
-        "taşıt"
+        "sandalda kürek çeken erkek", 
+        "adam", 
+        "taşıt", 
+        "kayık", 
+        "sandalda kürek çeken kişi", 
+        "erkek"
     ], 
     "🚤": [
         "tekne", 
@@ -5866,19 +7869,57 @@
         "bisiklet", 
         "taşıt"
     ], 
-    "🚴": [
-        "bisiklet süren kişi", 
-        "bisiklet"
-    ], 
-    "🚵": [
-        "dağ", 
+    "🚴‍♀️": [
+        "bisiklet sürme", 
+        "bayan", 
+        "bisiklet süren kadın", 
+        "kadın", 
         "bisikletçi", 
-        "dağ bisikletçisi", 
         "bisiklet"
     ], 
-    "🚶": [
+    "🚴‍♂️": [
+        "bisiklet sürme", 
+        "bisiklet süren erkek", 
+        "erkek", 
+        "bisiklet süren kişi", 
+        "adam", 
+        "bisikletçi", 
+        "bisiklet"
+    ], 
+    "🚵‍♀️": [
+        "bisiklet sürme", 
+        "bayan", 
+        "dağ bisikleti süren kadın", 
+        "dağ", 
+        "kadın", 
+        "bisikletçi", 
+        "bisiklet"
+    ], 
+    "🚵‍♂️": [
+        "bisiklet sürme", 
+        "erkek", 
+        "dağ", 
+        "dağ bisikletçisi", 
+        "adam", 
+        "bisikletçi", 
+        "bisiklet", 
+        "dağ bisikleti süren erkek"
+    ], 
+    "🚶‍♀️": [
+        "dolaşma", 
+        "kadın", 
+        "bayan", 
+        "yürüme", 
+        "yürüyen kadın"
+    ], 
+    "🚶‍♂️": [
+        "yürüyen erkek", 
         "yürüyen", 
-        "yürüyen kişi"
+        "yürüme", 
+        "yürüyen kişi", 
+        "dolaşma", 
+        "erkek", 
+        "adam"
     ], 
     "🚷": [
         "yaya", 
@@ -5928,9 +7969,19 @@
         "su"
     ], 
     "🛀": [
+        "banyo yapan kişi: orta cilt tonu", 
+        "banyo yapan kişi: açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "banyo yapan kişi: orta koyu cilt tonu", 
         "banyo yapan kişi", 
+        "banyo yapan kişi: orta açık cilt tonu", 
         "banyo", 
-        "küvet"
+        "küvet", 
+        "banyo yapan kişi: koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🛁": [
         "banyo", 
@@ -5953,10 +8004,43 @@
         "bagaj", 
         "eşya emanet"
     ], 
+    "🛋️": [
+        "lamba", 
+        "otel", 
+        "kanepe ve lamba", 
+        "kanepe"
+    ], 
     "🛌": [
         "otel", 
+        "yatakta yatan kişi: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "yatakta yatan kişi: koyu cilt tonu", 
+        "yatakta yatan kişi", 
         "uyuma", 
-        "yatakta yatan kişi"
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
+        "yatakta yatan kişi: orta açık cilt tonu", 
+        "yatakta yatan kişi: açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "yatakta yatan kişi: orta cilt tonu"
+    ], 
+    "🛍️": [
+        "alışveriş çantası", 
+        "alışveriş", 
+        "çanta", 
+        "otel"
+    ], 
+    "🛎️": [
+        "otel", 
+        "çan", 
+        "zil", 
+        "resepsiyon zili"
+    ], 
+    "🛏️": [
+        "otel", 
+        "yatak", 
+        "uyuma"
     ], 
     "🛐": [
         "ibadethane", 
@@ -5975,6 +8059,41 @@
         "pazar arabası", 
         "alışveriş arabası"
     ], 
+    "🛠️": [
+        "alet", 
+        "ingiliz anahtarı", 
+        "çekiç ve ingiliz anahtarı", 
+        "çekiç"
+    ], 
+    "🛡️": [
+        "silah", 
+        "kalkan"
+    ], 
+    "🛢️": [
+        "benzin fıçısı", 
+        "fıçı", 
+        "benzin"
+    ], 
+    "🛣️": [
+        "anayol", 
+        "cadde", 
+        "otoban"
+    ], 
+    "🛤️": [
+        "tren yolu", 
+        "tren"
+    ], 
+    "🛥️": [
+        "tekne", 
+        "motorlu tekne", 
+        "motor", 
+        "taşıt"
+    ], 
+    "🛩️": [
+        "küçük uçak", 
+        "uçak", 
+        "taşıt"
+    ], 
     "🛫": [
         "uçak", 
         "chek in", 
@@ -5988,6 +8107,17 @@
         "inme", 
         "iniş", 
         "varış", 
+        "taşıt"
+    ], 
+    "🛰️": [
+        "uydu", 
+        "araç", 
+        "uzay"
+    ], 
+    "🛳️": [
+        "yolcu", 
+        "gemi", 
+        "yolcu gemisi", 
         "taşıt"
     ], 
     "🛴": [
@@ -6060,31 +8190,81 @@
     ], 
     "🤘": [
         "el", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "parmak", 
         "beden", 
+        "boynuz işareti: orta açık cilt tonu", 
+        "açık cilt tonu", 
         "boynuz işareti", 
+        "boynuz işareti: orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "rock", 
-        "boynuz"
+        "boynuz işareti: açık cilt tonu", 
+        "boynuz işareti: koyu cilt tonu", 
+        "boynuz", 
+        "boynuz işareti: orta cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤙": [
-        "ara", 
+        "el", 
+        "beni ara işareti: orta cilt tonu", 
+        "beni ara işareti: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "beni ara işareti: açık cilt tonu", 
         "beni ara işareti", 
-        "el"
+        "açık cilt tonu", 
+        "beni ara işareti: orta açık cilt tonu", 
+        "ara", 
+        "koyu cilt tonu", 
+        "beni ara işareti: koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤚": [
         "elinin tersini kaldırma", 
+        "elinin tersini kaldırma: açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "elinin tersini kaldırma: orta açık cilt tonu", 
+        "elinin tersini kaldırma: orta cilt tonu", 
+        "açık cilt tonu", 
         "kaldırma", 
+        "elinin tersini kaldırma: orta koyu cilt tonu", 
+        "elinin tersini kaldırma: koyu cilt tonu", 
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu", 
         "elinin tersi"
     ], 
     "🤛": [
+        "sola bakan yumruk: açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "sola bakan yumruk: orta cilt tonu", 
+        "sola bakan yumruk: koyu cilt tonu", 
+        "açık cilt tonu", 
         "sola doğru", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "sola bakan yumruk", 
+        "sola bakan yumruk: orta açık cilt tonu", 
+        "sola bakan yumruk: orta koyu cilt tonu", 
         "yumruk"
     ], 
     "🤜": [
+        "sağa bakan yumruk: koyu cilt tonu", 
+        "sağa bakan yumruk: orta açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "sağa doğru", 
+        "orta cilt tonu", 
+        "sağa bakan yumruk: orta koyu cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
         "sağa bakan yumruk", 
-        "yumruk", 
-        "sağa doğru"
+        "sağa bakan yumruk: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "sağa bakan yumruk: açık cilt tonu", 
+        "yumruk"
     ], 
     "🤝": [
         "el", 
@@ -6095,15 +8275,35 @@
     ], 
     "🤞": [
         "el", 
-        "çapraz", 
+        "orta açık cilt tonu", 
+        "şans", 
+        "orta cilt tonu", 
+        "şans dileme: orta açık cilt tonu", 
+        "şans dileme: orta koyu cilt tonu", 
         "parmak", 
+        "açık cilt tonu", 
         "şans dileme", 
-        "şans"
+        "şans dileme: açık cilt tonu", 
+        "koyu cilt tonu", 
+        "şans dileme: orta cilt tonu", 
+        "çapraz", 
+        "şans dileme: koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤟": [
-        "SS", 
         "el", 
-        "seni seviyorum işareti"
+        "seni seviyorum işareti: açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "seni seviyorum işareti: orta cilt tonu", 
+        "SS", 
+        "seni seviyorum işareti: koyu cilt tonu", 
+        "açık cilt tonu", 
+        "seni seviyorum işareti: orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "seni seviyorum işareti: orta koyu cilt tonu", 
+        "seni seviyorum işareti", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤠": [
         "kadın kovboy", 
@@ -6142,11 +8342,37 @@
         "yalan söyleyen yüz"
     ], 
     "🤦": [
-        "inanmama", 
-        "yüz", 
+        "yüzünü eliyle kapama: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "yüzünü eliyle kapama: açık cilt tonu", 
+        "orta cilt tonu", 
+        "yüzünü eliyle kapama: orta cilt tonu", 
         "çileden çıkma", 
+        "yüzünü eliyle kapama: orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "yüzünü eliyle kapama: orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "yüz", 
         "avuç", 
+        "inanmama", 
+        "orta koyu cilt tonu", 
         "yüzünü eliyle kapama"
+    ], 
+    "🤦‍♀️": [
+        "bayan", 
+        "çileden çıkma", 
+        "kadın", 
+        "eliyle yüzünü kapatan kadın", 
+        "inanmama", 
+        "utancından eliyle yüzünü kapatma"
+    ], 
+    "🤦‍♂️": [
+        "eliyle yüzünü kapatan erkek", 
+        "çileden çıkma", 
+        "adam", 
+        "inanmama", 
+        "utancından eliyle yüzünü kapatma", 
+        "erkek"
     ], 
     "🤧": [
         "yüz", 
@@ -6194,57 +8420,207 @@
         "patlayan kafa"
     ], 
     "🤰": [
+        "hamile kadın: orta açık cilt tonu", 
+        "hamile kadın: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
         "kadın", 
+        "koyu cilt tonu", 
+        "hamile kadın: açık cilt tonu", 
         "hamile", 
+        "hamile kadın: koyu cilt tonu", 
+        "hamile kadın: orta cilt tonu", 
+        "orta koyu cilt tonu", 
         "hamile kadın"
     ], 
     "🤱": [
-        "göğüs", 
         "bebek", 
+        "emzirme", 
+        "emziren kadın: koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "emziren kadın: orta cilt tonu", 
+        "orta cilt tonu", 
         "emziren kadın", 
-        "emzirme"
+        "açık cilt tonu", 
+        "göğüs", 
+        "koyu cilt tonu", 
+        "emziren kadın: orta açık cilt tonu", 
+        "emziren kadın: orta koyu cilt tonu", 
+        "emziren kadın: açık cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤲": [
+        "iki avuç açık: orta açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "iki avuç açık: koyu cilt tonu", 
+        "açık cilt tonu", 
+        "iki avuç açık: açık cilt tonu", 
+        "koyu cilt tonu", 
+        "iki avuç açık: orta cilt tonu", 
+        "iki avuç açık: orta koyu cilt tonu", 
+        "orta koyu cilt tonu", 
         "iki avuç açık"
     ], 
     "🤳": [
+        "selfie: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "selfie", 
+        "açık cilt tonu", 
+        "telefon", 
+        "koyu cilt tonu", 
+        "selfie: orta cilt tonu", 
+        "selfie: orta açık cilt tonu", 
+        "selfie: açık cilt tonu", 
         "kamera", 
-        "telefon"
+        "selfie: koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤴": [
-        "prens"
+        "prens", 
+        "orta açık cilt tonu", 
+        "prens: orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "prens: orta koyu cilt tonu", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
+        "prens: açık cilt tonu", 
+        "prens: koyu cilt tonu", 
+        "prens: orta cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤵": [
+        "smokinli adam: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "smokinli adam: orta açık cilt tonu", 
         "simokin", 
+        "smokinli adam: koyu cilt tonu", 
+        "smokinli adam: açık cilt tonu", 
         "damat", 
+        "açık cilt tonu", 
+        "orta cilt tonu", 
+        "smokinli adam: orta cilt tonu", 
         "adam", 
-        "smokinli adam"
+        "smokinli adam", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🤶": [
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "Noel Anne: koyu cilt tonu", 
+        "Noel Anne: açık cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "Noel Anne: orta açık cilt tonu", 
+        "koyu cilt tonu", 
+        "Noel Anne: orta cilt tonu", 
+        "noel", 
         "anne", 
         "Noel Anne", 
-        "noel"
+        "Noel Anne: orta koyu cilt tonu"
     ], 
     "🤷": [
+        "omuz silkme: orta koyu cilt tonu", 
         "bilmeme", 
+        "omuz silkme: orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "omuz silkme: açık cilt tonu", 
+        "omuz silkme: orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "orta cilt tonu", 
+        "koyu cilt tonu", 
         "ilgisizlik", 
         "kararsız", 
+        "omuz silkme: koyu cilt tonu", 
+        "omuz silkme"
+    ], 
+    "🤷‍♀️": [
+        "omuz silken kadın", 
+        "cahillik", 
+        "kadın", 
+        "şüphe", 
+        "ilgisizlik", 
+        "bayan", 
+        "omuz silkme"
+    ], 
+    "🤷‍♂️": [
+        "cahillik", 
+        "şüphe", 
+        "erkek", 
+        "ilgisizlik", 
+        "omuz silken erkek", 
+        "adam", 
         "omuz silkme"
     ], 
     "🤸": [
+        "perende atan kişi: orta açık cilt tonu", 
+        "perende atan kişi: orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "spor", 
+        "perende atan kişi: açık cilt tonu", 
+        "açık cilt tonu", 
         "yanlamasına takla", 
+        "perende atan kişi: koyu cilt tonu", 
+        "koyu cilt tonu", 
         "birey", 
+        "jimnastik", 
+        "orta koyu cilt tonu", 
         "perende atan kişi", 
+        "perende atan kişi: orta koyu cilt tonu"
+    ], 
+    "🤸‍♀️": [
+        "bayan", 
+        "spor", 
+        "çember hareketi", 
+        "perende atan kadın", 
+        "kadın", 
+        "kişi", 
         "jimnastik"
     ], 
+    "🤸‍♂️": [
+        "spor", 
+        "çember hareketi", 
+        "perende atan erkek", 
+        "kişi", 
+        "adam", 
+        "jimnastik", 
+        "erkek"
+    ], 
     "🤹": [
-        "denge", 
-        "aynı anda birçok iş yapma", 
         "jonglör", 
+        "orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "jonglör: orta cilt tonu", 
+        "denge", 
+        "açık cilt tonu", 
         "hokkabazlık", 
-        "yetenek"
+        "aynı anda birçok iş yapma", 
+        "koyu cilt tonu", 
+        "jonglör: orta açık cilt tonu", 
+        "jonglör: koyu cilt tonu", 
+        "yetenek", 
+        "jonglör: orta koyu cilt tonu", 
+        "orta koyu cilt tonu", 
+        "jonglör: açık cilt tonu"
+    ], 
+    "🤹‍♀️": [
+        "jonglör kadın", 
+        "bayan", 
+        "hokkabazlık", 
+        "kadın", 
+        "aynı anda birçok iş"
+    ], 
+    "🤹‍♂️": [
+        "jonglör erkek", 
+        "hokkabazlık", 
+        "erkek", 
+        "adam", 
+        "aynı anda birçok iş"
     ], 
     "🤺": [
         "eskrimci", 
@@ -6260,18 +8636,82 @@
         "güreşçi", 
         "güreş"
     ], 
-    "🤽": [
+    "🤼‍♀️": [
+        "bayan", 
         "spor", 
-        "top", 
-        "birey", 
+        "güreş yapan kadın", 
+        "güreş", 
+        "kadın", 
+        "kişi"
+    ], 
+    "🤼‍♂️": [
+        "güreş yapan erkek", 
+        "spor", 
+        "güreş", 
+        "kişi", 
+        "adam", 
+        "erkek"
+    ], 
+    "🤽": [
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "spor", 
+        "açık cilt tonu", 
+        "su", 
         "su topu", 
-        "su"
+        "su topu: açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "birey", 
+        "su topu: orta cilt tonu", 
+        "su topu: orta açık cilt tonu", 
+        "su topu: koyu cilt tonu", 
+        "top", 
+        "su topu: orta koyu cilt tonu"
+    ], 
+    "🤽‍♀️": [
+        "su topu oynayan kadın", 
+        "spor", 
+        "kadın", 
+        "bayan", 
+        "su topu"
+    ], 
+    "🤽‍♂️": [
+        "spor", 
+        "su topu oynayan erkek", 
+        "adam", 
+        "su topu", 
+        "erkek"
     ], 
     "🤾": [
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
         "spor", 
-        "top", 
+        "açık cilt tonu", 
+        "hentbol", 
+        "hentbol: açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "koyu cilt tonu", 
         "birey", 
+        "hentbol: orta cilt tonu", 
+        "hentbol: orta açık cilt tonu", 
+        "hentbol: koyu cilt tonu", 
+        "top", 
+        "hentbol: orta koyu cilt tonu"
+    ], 
+    "🤾‍♀️": [
+        "spor", 
+        "hentbol oynayan kadın", 
+        "kadın", 
+        "bayan", 
         "hentbol"
+    ], 
+    "🤾‍♂️": [
+        "hentbol", 
+        "spor", 
+        "adam", 
+        "hentbol oynayan erkek", 
+        "erkek"
     ], 
     "🥀": [
         "solmuş çiçek", 
@@ -6619,64 +9059,165 @@
     ], 
     "🧑": [
         "yetişkin", 
-        "kişi"
+        "yetişkin: orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "yetişkin: orta koyu cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "koyu cilt tonu", 
+        "kişi", 
+        "yetişkin: koyu cilt tonu", 
+        "yetişkin: orta açık cilt tonu", 
+        "orta koyu cilt tonu", 
+        "yetişkin: açık cilt tonu"
     ], 
     "🧒": [
+        "çocuk: orta açık cilt tonu", 
+        "orta açık cilt tonu", 
+        "çocuk: orta koyu cilt tonu", 
+        "orta cilt tonu", 
         "genç", 
+        "açık cilt tonu", 
+        "çocuk: koyu cilt tonu", 
+        "koyu cilt tonu", 
+        "çocuk: açık cilt tonu", 
         "kişi", 
+        "çocuk: orta cilt tonu", 
+        "orta koyu cilt tonu", 
         "çocuk"
     ], 
     "🧓": [
-        "yaşlı", 
+        "yaşlı yetişkin", 
         "kişi", 
-        "yaşlı yetişkin"
+        "orta cilt tonu", 
+        "yaşlı yetişkin: orta koyu cilt tonu", 
+        "orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "yaşlı yetişkin: orta cilt tonu", 
+        "koyu cilt tonu", 
+        "yaşlı yetişkin: koyu cilt tonu", 
+        "yaşlı", 
+        "yaşlı yetişkin: orta açık cilt tonu", 
+        "yaşlı yetişkin: açık cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🧔": [
+        "sakallı kişi: koyu cilt tonu", 
+        "orta cilt tonu", 
+        "sakallı kişi", 
+        "orta açık cilt tonu", 
+        "sakallı kişi: orta açık cilt tonu", 
+        "açık cilt tonu", 
+        "sakallı kişi: orta cilt tonu", 
+        "sakallı kişi: orta koyu cilt tonu", 
         "sakal", 
-        "sakallı kişi"
+        "koyu cilt tonu", 
+        "sakallı kişi: açık cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
     "🧕": [
-        "başörtülü kadın"
+        "başörtülü kadın: açık cilt tonu", 
+        "başörtülü kadın: orta cilt tonu", 
+        "orta açık cilt tonu", 
+        "orta cilt tonu", 
+        "açık cilt tonu", 
+        "başörtülü kadın: orta açık cilt tonu", 
+        "başörtülü kadın: orta koyu cilt tonu", 
+        "başörtülü kadın: koyu cilt tonu", 
+        "başörtülü kadın", 
+        "koyu cilt tonu", 
+        "orta koyu cilt tonu"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "buhar odasındaki kadın"
+    ], 
+    "🧖‍♂️": [
+        "buhar odasındaki erkek", 
         "buhar odasındaki kişi"
     ], 
-    "🧗": [
-        "dağcı kişi"
+    "🧗‍♀️": [
+        "dağcı kişi", 
+        "dağcı kadın"
     ], 
-    "🧘": [
-        "lotus pozisyonundaki kişi"
+    "🧗‍♂️": [
+        "dağcı erkek"
     ], 
-    "🧙": [
+    "🧘‍♀️": [
+        "lotus pozisyonundaki kişi", 
+        "lotus pozisyonundaki kadın"
+    ], 
+    "🧘‍♂️": [
+        "lotus pozisyonundaki erkek"
+    ], 
+    "🧙‍♀️": [
         "büyücü", 
         "sihirbaz", 
+        "kadın büyücü", 
         "cadı"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "büyücü", 
+        "sihirbaz", 
+        "erkek büyücü"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
         "peri", 
         "Oberon", 
+        "kadın peri", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "Oberon", 
+        "erkek peri"
+    ], 
+    "🧛‍♀️": [
         "hortlak", 
         "Drakula", 
-        "vampir"
+        "vampir", 
+        "kadın vampir"
     ], 
-    "🧜": [
-        "balık insan"
+    "🧛‍♂️": [
+        "hortlak", 
+        "Drakula", 
+        "erkek vampir"
     ], 
-    "🧝": [
+    "🧜‍♀️": [
+        "balık kadın", 
+        "denizkızı"
+    ], 
+    "🧜‍♂️": [
+        "balık insan", 
+        "balık adam"
+    ], 
+    "🧝‍♀️": [
+        "kadın elf", 
+        "sihirli"
+    ], 
+    "🧝‍♂️": [
         "sihirli", 
-        "elf"
+        "elf", 
+        "erkek elf"
     ], 
-    "🧞": [
-        "cin"
+    "🧞‍♀️": [
+        "cin", 
+        "kadın cin"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "cin", 
+        "erkek cin"
+    ], 
+    "🧟‍♀️": [
         "hortlak", 
         "yürüyen ölü", 
-        "zombi"
+        "kadın zombi"
+    ], 
+    "🧟‍♂️": [
+        "hortlak", 
+        "yürüyen ölü", 
+        "zombi", 
+        "erkek zombi"
     ], 
     "🧠": [
         "beyin", 

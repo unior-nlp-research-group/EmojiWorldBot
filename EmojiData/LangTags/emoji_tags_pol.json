@@ -1,4 +1,136 @@
 {
+    "#️⃣": [
+        "klawisz: #", 
+        "klawisz"
+    ], 
+    "*️⃣": [
+        "klawisz: *", 
+        "klawisz"
+    ], 
+    "0️⃣": [
+        "klawisz: 0", 
+        "klawisz"
+    ], 
+    "1️⃣": [
+        "klawisz: 1", 
+        "klawisz"
+    ], 
+    "2️⃣": [
+        "klawisz: 2", 
+        "klawisz"
+    ], 
+    "3️⃣": [
+        "klawisz: 3", 
+        "klawisz"
+    ], 
+    "4️⃣": [
+        "klawisz", 
+        "klawisz: 4"
+    ], 
+    "5️⃣": [
+        "klawisz: 5", 
+        "klawisz"
+    ], 
+    "6️⃣": [
+        "klawisz: 6", 
+        "klawisz"
+    ], 
+    "7️⃣": [
+        "klawisz: 7", 
+        "klawisz"
+    ], 
+    "8️⃣": [
+        "klawisz: 8", 
+        "klawisz"
+    ], 
+    "9️⃣": [
+        "klawisz: 9", 
+        "klawisz"
+    ], 
+    "©️": [
+        "prawa autorskie", 
+        "Znak praw autorskich", 
+        "copyright"
+    ], 
+    "®️": [
+        "zarejestrowany", 
+        "R", 
+        "Zarejestrowany znak towarowy", 
+        "towarowy"
+    ], 
+    "‼️": [
+        "okrzyk", 
+        "wykrzykniki", 
+        "podwójny wykrzyknik", 
+        "krzyk"
+    ], 
+    "⁉️": [
+        "pytanie", 
+        "znak zapytania", 
+        "pytajnik", 
+        "nie rozumiem", 
+        "wykrzyknik", 
+        "wykrzyknik ze znakiem zapytania", 
+        "zaskoczenie"
+    ], 
+    "™️": [
+        "TM", 
+        "zastrzeżony znak towarowy"
+    ], 
+    "ℹ️": [
+        "i", 
+        "źródło informacji", 
+        "informacje", 
+        "punkt informacyjny", 
+        "informacja"
+    ], 
+    "↔️": [
+        "na boki", 
+        "lewo-prawo", 
+        "strzałka w lewo i w prawo", 
+        "dwukierunkowa"
+    ], 
+    "↕️": [
+        "góra-dół", 
+        "strzałka do góry i na dół", 
+        "dwukierunkowa"
+    ], 
+    "↖️": [
+        "północny zachód", 
+        "strzałka", 
+        "strzałka do góry w lewo", 
+        "kierunek"
+    ], 
+    "↗️": [
+        "strzałka do góry w prawo", 
+        "strzałka", 
+        "północny wschód", 
+        "kierunek"
+    ], 
+    "↘️": [
+        "strzałka na dół w prawo", 
+        "strzałka", 
+        "kierunek", 
+        "południowy wschód"
+    ], 
+    "↙️": [
+        "strzałka na dół w lewo", 
+        "południowy zachód", 
+        "kierunek", 
+        "strzałka"
+    ], 
+    "↩️": [
+        "strzałka", 
+        "strzałka w zakręcona w lewo", 
+        "zakręt", 
+        "zawróć"
+    ], 
+    "↪️": [
+        "strzałka", 
+        "strzałka zakręcona w prawo", 
+        "zakręt", 
+        "zawróć"
+    ], 
     "⌚": [
         "zegarek", 
         "godzina"
@@ -8,6 +140,16 @@
         "piasek", 
         "klepsydra", 
         "czas"
+    ], 
+    "⌨️": [
+        "komputer", 
+        "pisać", 
+        "klawiatura"
+    ], 
+    "⏏️": [
+        "trójkąt", 
+        "kreska", 
+        "wysuń"
     ], 
     "⏩": [
         "trójkąt", 
@@ -43,9 +185,39 @@
         "strzałka", 
         "w dół"
     ], 
+    "⏭️": [
+        "następny utwór", 
+        "trójkąt", 
+        "strzałka", 
+        "następny"
+    ], 
+    "⏮️": [
+        "poprzedni", 
+        "poprzedni utwór", 
+        "strzałka", 
+        "trójkąt"
+    ], 
+    "⏯️": [
+        "trójkąt", 
+        "wstrzymaj", 
+        "w prawo", 
+        "odtwórz lub wstrzymaj", 
+        "odtwórz", 
+        "strzałka", 
+        "pauza"
+    ], 
     "⏰": [
         "zegar", 
         "budzik"
+    ], 
+    "⏱️": [
+        "stoper", 
+        "czasomierz"
+    ], 
+    "⏲️": [
+        "minutnik", 
+        "czasomierz", 
+        "zegar"
     ], 
     "⏳": [
         "odmierzać", 
@@ -53,6 +225,70 @@
         "piasek", 
         "klepsydra", 
         "czas"
+    ], 
+    "⏸️": [
+        "wstrzymaj", 
+        "dwie", 
+        "pauza", 
+        "pionowe kreski"
+    ], 
+    "⏹️": [
+        "kwadrat", 
+        "zatrzymaj", 
+        "stop"
+    ], 
+    "⏺️": [
+        "nagrywanie", 
+        "kółko", 
+        "nagraj"
+    ], 
+    "Ⓜ️": [
+        "koło z literą M", 
+        "m", 
+        "kółko", 
+        "metro"
+    ], 
+    "▪️": [
+        "kwadrat", 
+        "figura geometryczna", 
+        "kwadracik", 
+        "mały czarny kwadrat", 
+        "czarny"
+    ], 
+    "▫️": [
+        "kwadracik", 
+        "figura geometryczna", 
+        "biały", 
+        "mały biały kwadrat", 
+        "kwadrat"
+    ], 
+    "▶️": [
+        "odtwórz", 
+        "trójkąt", 
+        "strzałka", 
+        "w prawo"
+    ], 
+    "◀️": [
+        "w lewo", 
+        "trójkąt", 
+        "strzałka", 
+        "wstecz"
+    ], 
+    "◻️": [
+        "kwadrat", 
+        "figura geometryczna", 
+        "średni", 
+        "średni biały kwadrat", 
+        "biały", 
+        "duży"
+    ], 
+    "◼️": [
+        "kwadrat", 
+        "figura geometryczna", 
+        "średni", 
+        "średni czarny kwadrat", 
+        "duży", 
+        "czarny"
     ], 
     "◽": [
         "kwadracik", 
@@ -67,6 +303,47 @@
         "figura geometryczna", 
         "mały/średni czarny kwadrat", 
         "czarny"
+    ], 
+    "☀️": [
+        "promienie", 
+        "kosmos", 
+        "jasne", 
+        "słońce", 
+        "pogoda", 
+        "słonecznie"
+    ], 
+    "☁️": [
+        "chmura", 
+        "pogoda"
+    ], 
+    "☂️": [
+        "pada", 
+        "pogoda", 
+        "deszcz", 
+        "parasol", 
+        "opady"
+    ], 
+    "☃️": [
+        "zimno", 
+        "śnieg", 
+        "pogoda", 
+        "bałwanek i płatki śniegu", 
+        "zabawa na śniegu"
+    ], 
+    "☄️": [
+        "ogon", 
+        "kosmos", 
+        "kometa"
+    ], 
+    "☎️": [
+        "aparat telefoniczny", 
+        "telefon"
+    ], 
+    "☑️": [
+        "ptaszek", 
+        "znak ptaszka na czarnym tle", 
+        "zaznaczenie", 
+        "parafka"
     ], 
     "☔": [
         "pada", 
@@ -83,6 +360,101 @@
         "picie", 
         "herbata", 
         "parująca"
+    ], 
+    "☘️": [
+        "koniczynka", 
+        "koniczyna", 
+        "roślina"
+    ], 
+    "☝️": [
+        "do góry", 
+        "góra", 
+        "palec wskazujący w górę", 
+        "palec", 
+        "w górę", 
+        "wskazujący"
+    ], 
+    "☠️": [
+        "potwór", 
+        "czaszka z piszczelami", 
+        "trupia czaszka", 
+        "śmierć", 
+        "duch", 
+        "szkielet", 
+        "piraci", 
+        "piszczele", 
+        "kościotrup"
+    ], 
+    "☢️": [
+        "promieniowanie", 
+        "radiacja", 
+        "radioaktywne", 
+        "promieniowanie radioaktywne"
+    ], 
+    "☣️": [
+        "zagrożenie", 
+        "biozagrożenie", 
+        "zagrożenie ze strony organizmów żywych", 
+        "organizm", 
+        "niebezpieczeństwo", 
+        "żywy"
+    ], 
+    "☦️": [
+        "religia", 
+        "krzyżyk", 
+        "chrześcijaństwo", 
+        "krzyż", 
+        "krzyż ortodoksyjny"
+    ], 
+    "☪️": [
+        "muzułmanin", 
+        "religia", 
+        "gwiazda i półksiężyc", 
+        "islam"
+    ], 
+    "☮️": [
+        "pacyfka", 
+        "pokój", 
+        "pacyfizm"
+    ], 
+    "☯️": [
+        "taoizm", 
+        "yin yang", 
+        "yin", 
+        "yang", 
+        "religia", 
+        "tao"
+    ], 
+    "☸️": [
+        "buddyzm", 
+        "koło", 
+        "buddysta", 
+        "dharma", 
+        "religia", 
+        "koło dharmy"
+    ], 
+    "☹️": [
+        "grymas", 
+        "zachmurzona twarz", 
+        "niezadowolenie"
+    ], 
+    "☺️": [
+        "marzę", 
+        "uśmiechnięta twarz", 
+        "buźka", 
+        "uśmiech"
+    ], 
+    "♀️": [
+        "znak", 
+        "żeński", 
+        "kobieta", 
+        "znak kobiety"
+    ], 
+    "♂️": [
+        "męski", 
+        "znak mężczyzny", 
+        "znak", 
+        "mężczyzna"
     ], 
     "♈": [
         "zodiak", 
@@ -156,6 +528,42 @@
         "zodiak", 
         "znak zodiaku"
     ], 
+    "♠️": [
+        "karta", 
+        "pik", 
+        "talia", 
+        "gra"
+    ], 
+    "♣️": [
+        "trefl", 
+        "karta", 
+        "talia", 
+        "gra"
+    ], 
+    "♥️": [
+        "kier", 
+        "karta", 
+        "talia", 
+        "gra"
+    ], 
+    "♦️": [
+        "karta", 
+        "talia", 
+        "karo", 
+        "gra"
+    ], 
+    "♨️": [
+        "gorące źródła", 
+        "woda", 
+        "źródło", 
+        "para", 
+        "gorące"
+    ], 
+    "♻️": [
+        "recykling", 
+        "odpady", 
+        "surowce wtórne"
+    ], 
     "♿": [
         "inwalida", 
         "wózek", 
@@ -163,11 +571,69 @@
         "na wózku", 
         "niepełnosprawny"
     ], 
+    "⚒️": [
+        "młot", 
+        "młoty", 
+        "kilof", 
+        "narzędzia"
+    ], 
     "⚓": [
         "statek", 
         "przyrząd", 
         "kotwica", 
         "okręt"
+    ], 
+    "⚔️": [
+        "skrzyżowane", 
+        "biała broń", 
+        "miecze", 
+        "skrzyżowane miecze"
+    ], 
+    "⚕️": [
+        "eskulap", 
+        "laska", 
+        "medycyna", 
+        "symbol medycyny"
+    ], 
+    "⚖️": [
+        "ważyć", 
+        "sprawiedliwość", 
+        "waga", 
+        "równowaga", 
+        "zodiak", 
+        "narzędzie", 
+        "waga szalkowa", 
+        "ciężar"
+    ], 
+    "⚗️": [
+        "chemia", 
+        "szklane", 
+        "probówka", 
+        "kolba", 
+        "alembik", 
+        "menzurka", 
+        "naczynie"
+    ], 
+    "⚙️": [
+        "zębatka", 
+        "zębate", 
+        "koło zębate", 
+        "kółko", 
+        "skrzynia biegów"
+    ], 
+    "⚛️": [
+        "symbol atomu", 
+        "atom"
+    ], 
+    "⚜️": [
+        "lilijka", 
+        "harcerze"
+    ], 
+    "⚠️": [
+        "uwaga", 
+        "wykrzyknik", 
+        "znak ostrzegawczy", 
+        "ostrzeżenie"
     ], 
     "⚡": [
         "piorun", 
@@ -191,6 +657,17 @@
         "czarne", 
         "kółko", 
         "koło"
+    ], 
+    "⚰️": [
+        "pogrzeb", 
+        "śmierć", 
+        "trumna"
+    ], 
+    "⚱️": [
+        "pogrzeb", 
+        "śmierć", 
+        "urna na prochy", 
+        "urna"
     ], 
     "⚽": [
         "futbolówka", 
@@ -216,11 +693,36 @@
         "pogoda", 
         "słońce"
     ], 
+    "⛈️": [
+        "chmura z piorunem i deszczem", 
+        "piorun", 
+        "błyskawica", 
+        "chmura", 
+        "pogoda", 
+        "deszcz"
+    ], 
     "⛎": [
         "wężownik", 
         "zodiak", 
         "znak zodiaku", 
         "Wężownik"
+    ], 
+    "⛏️": [
+        "kilof", 
+        "narzędzie", 
+        "górnicze"
+    ], 
+    "⛑️": [
+        "kask z krzyżykiem", 
+        "krzyć kask", 
+        "krzyżyk", 
+        "hełm", 
+        "pomoc"
+    ], 
+    "⛓️": [
+        "ogniwa", 
+        "łańcuch", 
+        "łańcuchy"
     ], 
     "⛔": [
         "wstęp", 
@@ -229,12 +731,29 @@
         "zakaz", 
         "wejście"
     ], 
+    "⛩️": [
+        "świątynia", 
+        "religia", 
+        "shinto", 
+        "świątynia shinto", 
+        "japońska"
+    ], 
     "⛪": [
         "kościół", 
         "religia", 
         "chrześcijański", 
         "świątynia", 
         "krzyż"
+    ], 
+    "⛰️": [
+        "góra"
+    ], 
+    "⛱️": [
+        "parasol plażowy wbity w ziemię", 
+        "pogoda", 
+        "deszcz", 
+        "parasol", 
+        "słońce"
     ], 
     "⛲": [
         "fontanna"
@@ -244,6 +763,10 @@
         "flaga w dołku", 
         "otwór"
     ], 
+    "⛴️": [
+        "prom", 
+        "łódź"
+    ], 
     "⛵": [
         "pojazd", 
         "kurort", 
@@ -251,6 +774,23 @@
         "jacht", 
         "żaglówka", 
         "morze"
+    ], 
+    "⛷️": [
+        "narciarz", 
+        "śnieg", 
+        "narty", 
+        "stok"
+    ], 
+    "⛸️": [
+        "lód", 
+        "lodowisko", 
+        "łyżwa", 
+        "but z łyżwą"
+    ], 
+    "⛹️‍♂️": [
+        "osoba kozłująca piłkę", 
+        "kozłować", 
+        "piłka"
     ], 
     "⛺": [
         "kemping", 
@@ -264,27 +804,129 @@
         "dystrybutor paliwa", 
         "stacja paliw"
     ], 
+    "✂️": [
+        "ostre", 
+        "nożyczki", 
+        "narzędzie", 
+        "przeciąć"
+    ], 
     "✅": [
         "gruby biały znacznik wyboru", 
         "zaznaczenie", 
         "ptaszek", 
         "parafka"
     ], 
+    "✈️": [
+        "pojazd", 
+        "samolot"
+    ], 
+    "✉️": [
+        "e-mail", 
+        "wiadomość", 
+        "list", 
+        "koperta"
+    ], 
     "✊": [
         "uniesiona", 
+        "typ skóry 1–2", 
+        "wzniesiona pięść", 
+        "wzniesiona pięść: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
         "pięść", 
+        "typ skóry 3", 
+        "wzniesiona pięść: typ skóry 3", 
+        "wzniesiona pięść: typ skóry 4", 
         "zaciśnięta", 
-        "wzniesiona pięść"
+        "typ skóry 5", 
+        "wzniesiona pięść: typ skóry 5", 
+        "wzniesiona pięść: typ skóry 1–2"
     ], 
     "✋": [
         "uwaga", 
-        "dłoń", 
+        "wzniesiona dłoń: typ skóry 1–2", 
+        "typ skóry 1–2", 
         "stop", 
-        "wzniesiona dłoń"
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "wzniesiona dłoń: typ skóry 4", 
+        "typ skóry 3", 
+        "wzniesiona dłoń", 
+        "wzniesiona dłoń: typ skóry 5", 
+        "dłoń", 
+        "wzniesiona dłoń: typ skóry 6", 
+        "wzniesiona dłoń: typ skóry 3"
+    ], 
+    "✌️": [
+        "znak V", 
+        "znak Victorii", 
+        "gest V", 
+        "gest zwycięstwa"
+    ], 
+    "✍️": [
+        "piszę", 
+        "pisać", 
+        "pisząca dłoń", 
+        "pisać odręcznie"
+    ], 
+    "✏️": [
+        "pisak", 
+        "ołówek"
+    ], 
+    "✒️": [
+        "pióro", 
+        "stalówka", 
+        "pióro z czarną stalówką"
+    ], 
+    "✔️": [
+        "ptaszek", 
+        "zaznaczenie", 
+        "czarny znak ptaszka", 
+        "parafka"
+    ], 
+    "✖️": [
+        "iks", 
+        "x", 
+        "mnożenie", 
+        "anuluj", 
+        "gruby czarny znak x"
+    ], 
+    "✝️": [
+        "krzyż łaciński", 
+        "religia", 
+        "krzyżyk", 
+        "chrześcijaństwo", 
+        "krzyż"
+    ], 
+    "✡️": [
+        "żyd", 
+        "dawid", 
+        "gwiazda dawidowa", 
+        "religia", 
+        "żydowska", 
+        "gwiazda"
     ], 
     "✨": [
         "gwiazdki", 
         "gwiazdy"
+    ], 
+    "✳️": [
+        "gwiazdka", 
+        "gwiazdka ośmioramienna"
+    ], 
+    "✴️": [
+        "gwiazda ośmioramienna", 
+        "gwiazda"
+    ], 
+    "❄️": [
+        "zimno", 
+        "śnieg", 
+        "pogoda", 
+        "płatek śniegu"
+    ], 
+    "❇️": [
+        "iskra"
     ], 
     "❌": [
         "iks", 
@@ -325,6 +967,20 @@
         "wykrzyknik", 
         "krzyk"
     ], 
+    "❣️": [
+        "wykrzyknik", 
+        "czerwony wykrzyknik w kształcie serca", 
+        "czerwony", 
+        "znak interpunkcyjny", 
+        "serce"
+    ], 
+    "❤️": [
+        "miłość", 
+        "czerwone serce", 
+        "kocham", 
+        "serce", 
+        "czerwone"
+    ], 
     "➕": [
         "gruby znak plus", 
         "dodać"
@@ -338,6 +994,12 @@
         "matematyka", 
         "gruby znak dzielenia"
     ], 
+    "➡️": [
+        "wschód", 
+        "strzałka w prawo", 
+        "strzałka", 
+        "kierunek"
+    ], 
     "➰": [
         "pętla", 
         "zawijas"
@@ -347,6 +1009,34 @@
         "zawijas", 
         "podwójna", 
         "podwójna pętla"
+    ], 
+    "⤴️": [
+        "strzałka", 
+        "strzałka zakręcona do góry", 
+        "zakręt"
+    ], 
+    "⤵️": [
+        "strzałka", 
+        "zakręt", 
+        "strzałka zakręcona na dół"
+    ], 
+    "⬅️": [
+        "strzałka", 
+        "zachód", 
+        "kierunek", 
+        "strzałka w lewo"
+    ], 
+    "⬆️": [
+        "strzałka", 
+        "kierunek", 
+        "północ", 
+        "strzałka do góry"
+    ], 
+    "⬇️": [
+        "południe", 
+        "strzałka na dół", 
+        "kierunek", 
+        "strzałka"
     ], 
     "⬛": [
         "kwadrat", 
@@ -373,6 +1063,30 @@
         "o", 
         "koło"
     ], 
+    "〰️": [
+        "falista kreska", 
+        "fala", 
+        "linia", 
+        "pofalowana"
+    ], 
+    "〽️": [
+        "początek partii wokalnej", 
+        "znak", 
+        "m", 
+        "zygzak"
+    ], 
+    "㊗️": [
+        "ideogram „gratulacje”", 
+        "ideogram", 
+        "chiński", 
+        "gratulacje"
+    ], 
+    "㊙️": [
+        "ideogram „tajemnica”", 
+        "ideogram", 
+        "chiński", 
+        "tajemnica"
+    ], 
     "🀄": [
         "madżong: czerwony smok", 
         "Smok", 
@@ -385,6 +1099,28 @@
         "karta", 
         "dżoker", 
         "karta do gry"
+    ], 
+    "🅰️": [
+        "A", 
+        "krew", 
+        "grupa krwi A", 
+        "grupa A"
+    ], 
+    "🅱️": [
+        "B", 
+        "grupa B", 
+        "grupa krwi B", 
+        "krew"
+    ], 
+    "🅾️": [
+        "0", 
+        "grupa krwi 0", 
+        "grupa 0", 
+        "krew"
+    ], 
+    "🅿️": [
+        "postój", 
+        "parking"
     ], 
     "🆎": [
         "grupa AB", 
@@ -1487,6 +2223,12 @@
         "japoński przycisk „tutaj”", 
         "japoński"
     ], 
+    "🈂️": [
+        "ideogram", 
+        "sa", 
+        "sa w języku katakana", 
+        "japoński"
+    ], 
     "🈚": [
         "ideogram", 
         "japoński przycisk „bezpłatne”", 
@@ -1528,6 +2270,12 @@
         "japoński przycisk „płatne”", 
         "istnienie", 
         "japoński"
+    ], 
+    "🈷️": [
+        "księżyc", 
+        "ideogram", 
+        "japoński", 
+        "ideogram księżyca"
     ], 
     "🈸": [
         "japoński przycisk „wniosek”", 
@@ -1753,6 +2501,69 @@
         "gwiazda", 
         "spadająca gwiazda"
     ], 
+    "🌡️": [
+        "temperatura", 
+        "pogoda", 
+        "termometr"
+    ], 
+    "🌤️": [
+        "słońce za chmurką", 
+        "chmura", 
+        "pogoda", 
+        "słońce"
+    ], 
+    "🌥️": [
+        "słońce za chmurą", 
+        "chmura", 
+        "pogoda", 
+        "słońce"
+    ], 
+    "🌦️": [
+        "chmura", 
+        "deszcz", 
+        "pogoda", 
+        "słońce", 
+        "słońce za chmurą i deszcz"
+    ], 
+    "🌧️": [
+        "pogoda", 
+        "chmura", 
+        "deszcz", 
+        "chmura i deszcz"
+    ], 
+    "🌨️": [
+        "zimno", 
+        "śnieg", 
+        "chmura", 
+        "chmura i śnieg", 
+        "pogoda"
+    ], 
+    "🌩️": [
+        "błyskawica", 
+        "pogoda", 
+        "chmura", 
+        "piorun", 
+        "chmura i piorun"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "pogoda", 
+        "chmura", 
+        "lej", 
+        "wir powietrzny"
+    ], 
+    "🌫️": [
+        "pogoda", 
+        "mgła"
+    ], 
+    "🌬️": [
+        "wiać", 
+        "dmuchająca twarz wiatru", 
+        "wiatr", 
+        "twarz", 
+        "chmura", 
+        "pogoda"
+    ], 
     "🌭": [
         "hot dog", 
         "parówka", 
@@ -1795,6 +2606,13 @@
     "🌵": [
         "kaktus", 
         "roślina"
+    ], 
+    "🌶️": [
+        "przyprawa", 
+        "pierz", 
+        "ostry", 
+        "roślina", 
+        "papryka"
     ], 
     "🌷": [
         "kwiat", 
@@ -2158,6 +2976,14 @@
         "butelka", 
         "mleko"
     ], 
+    "🍽️": [
+        "widelec", 
+        "talerz z nożem i widelcem", 
+        "sztućce", 
+        "nóż", 
+        "talerz", 
+        "naczynia"
+    ], 
     "🍾": [
         "toast", 
         "bar", 
@@ -2202,11 +3028,21 @@
         "boże narodzenie"
     ], 
     "🎅": [
+        "Święty Mikołaj: typ skóry 1–2", 
+        "Święty Mikołaj: typ skóry 3", 
+        "Święty Mikołaj: typ skóry 4", 
+        "Święty Mikołaj: typ skóry 5", 
+        "boże narodzenie", 
+        "typ skóry 1–2", 
         "święta", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "legenda", 
+        "typ skóry 6", 
         "Święty Mikołaj", 
         "święty mikołaj", 
-        "boże narodzenie", 
-        "legenda"
+        "Święty Mikołaj: typ skóry 6"
     ], 
     "🎆": [
         "święta", 
@@ -2290,6 +3126,48 @@
         "nakrycie głowy", 
         "ubiór", 
         "czapka absolwenta"
+    ], 
+    "🎖️": [
+        "uroczystość", 
+        "wojsko", 
+        "medal", 
+        "order wojskowy"
+    ], 
+    "🎗️": [
+        "upamiętnić", 
+        "uroczystość", 
+        "wstążka pamięci", 
+        "wstążka"
+    ], 
+    "🎙️": [
+        "studyjny", 
+        "mikrofon studyjny", 
+        "mikrofon", 
+        "muzyka", 
+        "studio", 
+        "nagrywać"
+    ], 
+    "🎚️": [
+        "poziom", 
+        "muzyka", 
+        "suwak miksera dźwięku", 
+        "suwak"
+    ], 
+    "🎛️": [
+        "pokrętła", 
+        "muzyka", 
+        "gałki"
+    ], 
+    "🎞️": [
+        "taśma filmowa", 
+        "kino", 
+        "klatki", 
+        "film"
+    ], 
+    "🎟️": [
+        "bilet", 
+        "wstęp", 
+        "bilety wstępu"
     ], 
     "🎠": [
         "konik", 
@@ -2480,21 +3358,48 @@
         "wyścigi"
     ], 
     "🏂": [
+        "snowboardzista: typ skóry 6", 
+        "typ skóry 6", 
+        "snowboardzista: typ skóry 4", 
+        "snowboardzista: typ skóry 5", 
+        "snowboardzista: typ skóry 3", 
+        "typ skóry 1–2", 
+        "typ skóry 4", 
         "snowboardzista", 
-        "snowboard"
+        "snowboard", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "snowboardzista: typ skóry 1–2"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
         "bieganie", 
-        "pośpiech", 
-        "biegnąca osoba", 
+        "kobieta", 
         "bieg", 
+        "biegnąca kobieta", 
         "maraton"
     ], 
-    "🏄": [
-        "surfująca osoba", 
+    "🏃‍♂️": [
+        "biegnący mężczyzna", 
+        "mężczyzna", 
+        "pośpiech", 
+        "biegnąca osoba", 
+        "maraton", 
+        "bieganie", 
+        "bieg"
+    ], 
+    "🏄‍♀️": [
+        "surfująca kobieta", 
         "surfing", 
+        "kobieta", 
+        "deska"
+    ], 
+    "🏄‍♂️": [
+        "surfing", 
+        "mężczyzna", 
+        "surfujący mężczyzna", 
+        "fale", 
         "deska", 
-        "fale"
+        "surfująca osoba"
     ], 
     "🏅": [
         "medal sportowy", 
@@ -2507,9 +3412,19 @@
         "trofeum"
     ], 
     "🏇": [
-        "jeździec", 
+        "wyścigi konne: typ skóry 1–2", 
         "wyścigi konne", 
-        "koń"
+        "typ skóry 1–2", 
+        "wyścigi konne: typ skóry 4", 
+        "wyścigi konne: typ skóry 3", 
+        "koń", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "wyścigi konne: typ skóry 6", 
+        "jeździec", 
+        "wyścigi konne: typ skóry 5"
     ], 
     "🏈": [
         "futbol amerykański", 
@@ -2520,10 +3435,38 @@
         "rugby", 
         "piłka"
     ], 
-    "🏊": [
-        "pływająca osoba", 
+    "🏊‍♀️": [
+        "pływanie", 
+        "kobieta", 
+        "pływająca kobieta", 
+        "kraul"
+    ], 
+    "🏊‍♂️": [
+        "mężczyzna", 
+        "pływanie", 
         "pływak", 
-        "kraulem"
+        "pływająca osoba", 
+        "kraulem", 
+        "pływający mężczyzna", 
+        "kraul"
+    ], 
+    "🏋️‍♂️": [
+        "osoba podnosząca ciężary", 
+        "atleta"
+    ], 
+    "🏌️‍♂️": [
+        "osoba grająca w golfa", 
+        "golf", 
+        "piłka"
+    ], 
+    "🏍️": [
+        "wyścigi", 
+        "motocykl"
+    ], 
+    "🏎️": [
+        "samochód wyścigowy", 
+        "samochód", 
+        "wyścigi"
     ], 
     "🏏": [
         "kij", 
@@ -2560,6 +3503,77 @@
         "piłeczka", 
         "siatka", 
         "ping pong"
+    ], 
+    "🏔️": [
+        "śnieg", 
+        "góra z czapą lodową", 
+        "zima", 
+        "góra"
+    ], 
+    "🏕️": [
+        "kemping", 
+        "obóz", 
+        "namiot", 
+        "kamping"
+    ], 
+    "🏖️": [
+        "plaża", 
+        "piasek", 
+        "parasol", 
+        "morze", 
+        "parasol na plaży"
+    ], 
+    "🏗️": [
+        "dźwig budowlany", 
+        "budowa", 
+        "roboty budowlane", 
+        "dźwig"
+    ], 
+    "🏘️": [
+        "domki", 
+        "osiedle", 
+        "domy"
+    ], 
+    "🏙️": [
+        "miasto", 
+        "wieżowce", 
+        "drapacze chmur"
+    ], 
+    "🏚️": [
+        "stary dom", 
+        "zrujnowany", 
+        "zniszczony", 
+        "podupadły", 
+        "ruina", 
+        "stary"
+    ], 
+    "🏛️": [
+        "klasyczna budowla", 
+        "klasyka", 
+        "klasyczny", 
+        "budowla", 
+        "budynek"
+    ], 
+    "🏜️": [
+        "pustynia"
+    ], 
+    "🏝️": [
+        "pusta", 
+        "bezludna", 
+        "wyspa", 
+        "samotna", 
+        "bezludna wyspa", 
+        "pustynia"
+    ], 
+    "🏞️": [
+        "park narodowy", 
+        "natura", 
+        "park", 
+        "przyroda"
+    ], 
+    "🏟️": [
+        "stadion", 
+        "boisko"
     ], 
     "🏠": [
         "dom", 
@@ -2644,6 +3658,19 @@
         "europejski", 
         "budynek"
     ], 
+    "🏳️": [
+        "poddaję się", 
+        "na wietrze", 
+        "flaga", 
+        "kapitulacja", 
+        "biała flaga", 
+        "powiewająca biała flaga"
+    ], 
+    "🏳️‍🌈": [
+        "tęczowa flaga", 
+        "tęcza", 
+        "flaga"
+    ], 
     "🏴": [
         "żałoba", 
         "flaga", 
@@ -2661,6 +3688,16 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "flaga", 
         "Walia"
+    ], 
+    "🏵️": [
+        "kwiat", 
+        "rozeta", 
+        "roślina"
+    ], 
+    "🏷️": [
+        "etykieta", 
+        "przywieszka do kluczy", 
+        "breloczek"
     ], 
     "🏸": [
         "lotka", 
@@ -3029,18 +4066,47 @@
         "tropy", 
         "odciski"
     ], 
+    "🐿️": [
+        "wiewiórka", 
+        "gryzoń", 
+        "pręgowiec"
+    ], 
     "👀": [
         "ciało", 
         "oczy", 
         "oko", 
         "twarz"
     ], 
-    "👂": [
+    "👁️": [
         "ciało", 
-        "ucho"
+        "oko"
+    ], 
+    "👂": [
+        "ucho: typ skóry 6", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "ucho: typ skóry 1–2", 
+        "ucho: typ skóry 4", 
+        "ucho: typ skóry 5", 
+        "ciało", 
+        "ucho", 
+        "ucho: typ skóry 3", 
+        "typ skóry 3"
     ], 
     "👃": [
+        "nos: typ skóry 1–2", 
+        "nos: typ skóry 3", 
+        "nos: typ skóry 5", 
+        "nos: typ skóry 4", 
+        "nos: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
         "ciało", 
+        "typ skóry 1–2", 
         "nos"
     ], 
     "👄": [
@@ -3053,73 +4119,183 @@
         "język"
     ], 
     "👆": [
+        "dłoń z palcem wskazującym w górę: typ skóry 5", 
         "do góry", 
+        "dłoń z palcem wskazującym w górę: typ skóry 1–2", 
         "góra", 
+        "typ skóry 1–2", 
         "dłoń z palcem wskazującym w górę", 
+        "dłoń z palcem wskazującym w górę: typ skóry 4", 
         "palec", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
         "w górę", 
-        "wskazujący"
+        "wskazujący", 
+        "dłoń z palcem wskazującym w górę: typ skóry 6", 
+        "dłoń z palcem wskazującym w górę: typ skóry 3"
     ], 
     "👇": [
         "dłoń z palcem wskazującym w dół", 
         "na dół", 
+        "typ skóry 1–2", 
         "w dół", 
         "palec", 
+        "typ skóry 6", 
+        "dłoń z palcem wskazującym w dół: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "dłoń z palcem wskazującym w dół: typ skóry 6", 
+        "typ skóry 3", 
+        "dłoń z palcem wskazującym w dół: typ skóry 4", 
+        "dłoń z palcem wskazującym w dół: typ skóry 5", 
         "dół", 
-        "wskazujący"
+        "wskazujący", 
+        "dłoń z palcem wskazującym w dół: typ skóry 1–2"
     ], 
     "👈": [
-        "w lewo", 
-        "lewa strona", 
+        "palec w lewo: typ skóry 1–2", 
+        "typ skóry 1–2", 
         "palec w lewo", 
+        "typ skóry 4", 
         "palec", 
-        "wskazujący"
+        "w lewo", 
+        "palec w lewo: typ skóry 3", 
+        "lewa strona", 
+        "palec w lewo: typ skóry 5", 
+        "typ skóry 3", 
+        "palec w lewo: typ skóry 6", 
+        "typ skóry 6", 
+        "wskazujący", 
+        "typ skóry 5", 
+        "palec w lewo: typ skóry 4"
     ], 
     "👉": [
+        "dłoń z palcem wskazującym w prawo: typ skóry 4", 
+        "typ skóry 1–2", 
+        "dłoń z palcem wskazującym w prawo: typ skóry 3", 
+        "dłoń z palcem wskazującym w prawo: typ skóry 1–2", 
+        "typ skóry 4", 
+        "palec", 
+        "dłoń z palcem wskazującym w prawo: typ skóry 5", 
+        "typ skóry 6", 
         "w prawo", 
-        "dłoń z palcem wskazującym w prawo", 
-        "wskazujący", 
         "prawa strona", 
-        "palec"
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "dłoń z palcem wskazującym w prawo: typ skóry 6", 
+        "dłoń z palcem wskazującym w prawo", 
+        "wskazujący"
     ], 
     "👊": [
+        "pięść od przodu: typ skóry 5", 
         "cios pięścią", 
         "pięść od przodu", 
         "sierpowy", 
+        "pięść od przodu: typ skóry 3", 
+        "typ skóry 6", 
+        "typ skóry 4", 
         "pięść", 
+        "typ skóry 3", 
+        "pięść od przodu: typ skóry 4", 
+        "pięść od przodu: typ skóry 6", 
+        "pięść od przodu: typ skóry 1–2", 
+        "typ skóry 5", 
         "prawy prosty", 
+        "typ skóry 1–2", 
         "zaciśnięta pięść"
     ], 
     "👋": [
-        "machająca dłoń"
+        "machająca dłoń: typ skóry 3", 
+        "machająca dłoń: typ skóry 5", 
+        "machająca dłoń: typ skóry 4", 
+        "machająca dłoń: typ skóry 6", 
+        "typ skóry 1–2", 
+        "machająca dłoń", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "machająca dłoń: typ skóry 1–2"
     ], 
     "👌": [
         "dłoń z gestem OK", 
-        "znak OK"
+        "typ skóry 6", 
+        "typ skóry 1–2", 
+        "typ skóry 4", 
+        "dłoń z gestem OK: typ skóry 6", 
+        "dłoń z gestem OK: typ skóry 4", 
+        "dłoń z gestem OK: typ skóry 5", 
+        "dłoń z gestem OK: typ skóry 1–2", 
+        "typ skóry 5", 
+        "dłoń z gestem OK: typ skóry 3", 
+        "znak OK", 
+        "typ skóry 3"
     ], 
     "👍": [
+        "kciuk w górę: typ skóry 1–2", 
         "lubię", 
-        "brawo", 
         "OK", 
+        "kciuk w górę: typ skóry 6", 
+        "brawo", 
+        "typ skóry 4", 
+        "kciuk w górę: typ skóry 5", 
+        "typ skóry 6", 
         "podoba mi się", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "kciuk w górę: typ skóry 3", 
+        "kciuk w górę: typ skóry 4", 
+        "typ skóry 1–2", 
         "kciuk w górę"
     ], 
     "👎": [
-        "nie lubię", 
+        "kciuk w dół: typ skóry 4", 
+        "kciuk w dół: typ skóry 5", 
         "brzydkie", 
-        "nie podoba mi się", 
-        "kciuk w dół"
+        "kciuk w dół", 
+        "kciuk w dół: typ skóry 3", 
+        "nie lubię", 
+        "typ skóry 1–2", 
+        "kciuk w dół: typ skóry 1–2", 
+        "kciuk w dół: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "nie podoba mi się"
     ], 
     "👏": [
-        "oklaski", 
+        "typ skóry 6", 
         "klaskać", 
         "brawa", 
+        "oklaski", 
+        "typ skóry 1–2", 
+        "klaskanie: typ skóry 1–2", 
+        "klaskanie: typ skóry 6", 
+        "klaskanie: typ skóry 4", 
+        "klaskanie: typ skóry 5", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "klaskanie: typ skóry 3", 
         "klaskanie"
     ], 
     "👐": [
-        "puste ręce", 
+        "typ skóry 6", 
         "złapać", 
-        "otwarte dłonie"
+        "otwarte dłonie", 
+        "otwarte dłonie: typ skóry 1–2", 
+        "otwarte dłonie: typ skóry 4", 
+        "typ skóry 1–2", 
+        "otwarte dłonie: typ skóry 5", 
+        "puste ręce", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "otwarte dłonie: typ skóry 6", 
+        "typ skóry 3", 
+        "otwarte dłonie: typ skóry 3"
     ], 
     "👑": [
         "królowa", 
@@ -3239,55 +4415,188 @@
         "osoby"
     ], 
     "👦": [
-        "chłopiec"
+        "chłopiec", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "chłopiec: typ skóry 1–2", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "chłopiec: typ skóry 5", 
+        "chłopiec: typ skóry 4", 
+        "chłopiec: typ skóry 6", 
+        "chłopiec: typ skóry 3"
     ], 
     "👧": [
+        "dziewczynka: typ skóry 4", 
+        "dziewczynka: typ skóry 5", 
+        "dziewczynka: typ skóry 6", 
+        "dziewczynka: typ skóry 3", 
         "dziewica", 
         "dziewczynka", 
+        "typ skóry 4", 
+        "panna", 
+        "dziewczynka: typ skóry 1–2", 
         "zodiak", 
-        "panna"
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "typ skóry 6", 
+        "typ skóry 1–2"
     ], 
     "👨": [
-        "mężczyzna"
+        "mężczyzna: typ skóry 4", 
+        "mężczyzna", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "mężczyzna: typ skóry 6", 
+        "mężczyzna: typ skóry 5", 
+        "mężczyzna: typ skóry 1–2", 
+        "mężczyzna: typ skóry 3"
+    ], 
+    "👨‍⚕️": [
+        "mężczyzna", 
+        "terapeuta", 
+        "lekarz"
+    ], 
+    "👨‍⚖️": [
+        "mężczyzna", 
+        "sędzia", 
+        "mężczyzna sędzia"
+    ], 
+    "👨‍✈️": [
+        "mężczyzna", 
+        "samolot", 
+        "mężczyzna pilot", 
+        "pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "pocałunek", 
+        "para", 
+        "mężczyzna", 
+        "zakochani", 
+        "para z sercem: mężczyzna i mężczyzna", 
+        "miłość", 
+        "para z sercem"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "pocałunek", 
+        "para", 
+        "mężczyzna", 
+        "zakochani", 
+        "pocałunek: mężczyzna i mężczyzna", 
+        "miłość"
     ], 
     "👨‍🌾": [
+        "rolnik: typ skóry 3", 
         "rolnik", 
+        "rolnik: typ skóry 5", 
+        "rolnik: typ skóry 4", 
         "mężczyzna", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "rolnik: typ skóry 1–2", 
+        "typ skóry 3", 
+        "farmer", 
+        "typ skóry 5", 
         "ogrodnik", 
-        "farmer"
+        "rolnik: typ skóry 6"
     ], 
     "👨‍🍳": [
-        "mężczyzna", 
+        "typ skóry 6", 
         "kucharz", 
-        "szef kuchni"
+        "mężczyzna", 
+        "typ skóry 1–2", 
+        "kucharz: typ skóry 4", 
+        "kucharz: typ skóry 6", 
+        "kucharz: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "kucharz: typ skóry 5", 
+        "szef kuchni", 
+        "kucharz: typ skóry 1–2"
     ], 
     "👨‍🎓": [
+        "student: typ skóry 1–2", 
         "mężczyzna", 
-        "student"
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "student", 
+        "student: typ skóry 3", 
+        "student: typ skóry 4", 
+        "student: typ skóry 5", 
+        "student: typ skóry 6"
     ], 
     "👨‍🎤": [
+        "piosenkarz: typ skóry 3", 
+        "piosenkarz: typ skóry 6", 
+        "piosenkarz: typ skóry 4", 
+        "piosenkarz: typ skóry 1–2", 
+        "piosenkarz: typ skóry 5", 
         "mężczyzna", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
         "piosenkarz", 
+        "typ skóry 3", 
         "aktor", 
         "rock"
     ], 
     "👨‍🎨": [
+        "artysta: typ skóry 3", 
+        "artysta: typ skóry 6", 
+        "artysta: typ skóry 5", 
+        "artysta: typ skóry 4", 
         "mężczyzna", 
+        "typ skóry 1–2", 
+        "artysta: typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
         "paleta", 
-        "artysta"
+        "artysta", 
+        "typ skóry 5", 
+        "typ skóry 3"
     ], 
     "👨‍🏫": [
+        "typ skóry 6", 
+        "nauczyciel: typ skóry 1–2", 
         "mężczyzna", 
+        "typ skóry 1–2", 
+        "nauczyciel: typ skóry 6", 
+        "nauczyciel: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "nauczyciel", 
+        "nauczyciel: typ skóry 5", 
+        "nauczyciel: typ skóry 4", 
         "profesor", 
         "wykładowca", 
-        "nauczyciel"
+        "typ skóry 3"
     ], 
     "👨‍🏭": [
-        "mężczyzna", 
-        "pracownik", 
         "pracownik fabryki", 
+        "mężczyzna", 
+        "typ skóry 1–2", 
+        "pracownik fabryki: typ skóry 6", 
+        "typ skóry 4", 
+        "pracownik fabryki: typ skóry 1–2", 
+        "typ skóry 6", 
+        "pracownik fabryki: typ skóry 3", 
+        "typ skóry 5", 
+        "pracownik fabryki: typ skóry 5", 
+        "typ skóry 3", 
         "montażysta", 
-        "fabryka"
+        "fabryka", 
+        "pracownik", 
+        "pracownik fabryki: typ skóry 4"
     ], 
     "👨‍👦": [
         "rodzina: mężczyzna i chłopiec", 
@@ -3478,86 +4787,278 @@
         "rodzina: mężczyzna i kobieta i dziewczynka i dziewczynka"
     ], 
     "👨‍💻": [
+        "typ skóry 6", 
         "mężczyzna", 
         "oprogramowanie", 
-        "programista", 
+        "mężczyzna technolog: typ skóry 6", 
+        "mężczyzna technolog: typ skóry 1–2", 
+        "wynalazca", 
+        "mężczyzna technolog: typ skóry 4", 
+        "mężczyzna technolog: typ skóry 5", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
         "mężczyzna technolog", 
-        "wynalazca"
+        "mężczyzna technolog: typ skóry 3", 
+        "programista", 
+        "typ skóry 1–2"
     ], 
     "👨‍💼": [
-        "biznesmen", 
+        "typ skóry 6", 
         "biuro", 
-        "architekt", 
+        "mężczyzna", 
+        "typ skóry 1–2", 
+        "pracownik biurowy: typ skóry 6", 
         "pracownik biurowy", 
-        "mężczyzna"
+        "pracownik biurowy: typ skóry 4", 
+        "pracownik biurowy: typ skóry 5", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "pracownik biurowy: typ skóry 1–2", 
+        "pracownik biurowy: typ skóry 3", 
+        "biznesmen", 
+        "architekt"
     ], 
     "👨‍🔧": [
+        "hydraulik", 
         "mężczyzna", 
-        "mechanik", 
-        "mężczyzna elektryk", 
+        "typ skóry 1–2", 
+        "mężczyzna elektryk: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
         "elektryk", 
-        "hydraulik"
+        "mężczyzna elektryk: typ skóry 1–2", 
+        "mężczyzna elektryk: typ skóry 3", 
+        "mężczyzna elektryk", 
+        "mężczyzna elektryk: typ skóry 5", 
+        "mężczyzna elektryk: typ skóry 4", 
+        "mechanik", 
+        "typ skóry 3"
     ], 
     "👨‍🔬": [
+        "mężczyzna naukowiec: typ skóry 6", 
+        "mężczyzna naukowiec: typ skóry 5", 
+        "mężczyzna naukowiec: typ skóry 4", 
+        "mężczyzna naukowiec: typ skóry 3", 
+        "mężczyzna naukowiec", 
+        "mężczyzna naukowiec: typ skóry 1–2", 
+        "mężczyzna", 
+        "typ skóry 1–2", 
+        "typ skóry 4", 
+        "typ skóry 6", 
         "chemik", 
         "biolog", 
+        "typ skóry 5", 
         "inżynier", 
-        "mężczyzna naukowiec", 
-        "mężczyzna"
+        "typ skóry 3"
     ], 
     "👨‍🚀": [
-        "mężczyzna", 
         "kosmos", 
-        "astronauta", 
-        "rakieta"
+        "astronauta: typ skóry 4", 
+        "mężczyzna", 
+        "typ skóry 1–2", 
+        "astronauta: typ skóry 6", 
+        "astronauta: typ skóry 1–2", 
+        "astronauta: typ skóry 5", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "rakieta", 
+        "astronauta: typ skóry 3", 
+        "astronauta"
     ], 
     "👨‍🚒": [
-        "mężczyzna", 
+        "mężczyzna strażak: typ skóry 4", 
+        "mężczyzna strażak: typ skóry 3", 
         "mężczyzna strażak", 
+        "mężczyzna strażak: typ skóry 5", 
         "strażak", 
-        "wóz strażacki"
+        "mężczyzna strażak: typ skóry 6", 
+        "mężczyzna", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "mężczyzna strażak: typ skóry 1–2", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "wóz strażacki", 
+        "typ skóry 3"
     ], 
     "👩": [
-        "kobieta"
+        "kobieta: typ skóry 3", 
+        "kobieta", 
+        "kobieta: typ skóry 4", 
+        "kobieta: typ skóry 5", 
+        "typ skóry 1–2", 
+        "kobieta: typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "kobieta: typ skóry 6"
+    ], 
+    "👩‍⚕️": [
+        "kobieta", 
+        "terapeutka", 
+        "lekarka"
+    ], 
+    "👩‍⚖️": [
+        "kobieta", 
+        "sędzina", 
+        "kobieta sędzia"
+    ], 
+    "👩‍✈️": [
+        "kobieta pilot", 
+        "samolot", 
+        "kobieta", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "para z sercem: kobieta i mężczyzna", 
+        "kobieta", 
+        "pocałunek", 
+        "para", 
+        "mężczyzna", 
+        "zakochani", 
+        "miłość", 
+        "para z sercem"
+    ], 
+    "👩‍❤️‍👩": [
+        "kobieta", 
+        "pocałunek", 
+        "para", 
+        "zakochani", 
+        "para z sercem: kobieta i kobieta", 
+        "miłość", 
+        "para z sercem"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "kobieta", 
+        "pocałunek", 
+        "para", 
+        "mężczyzna", 
+        "zakochani", 
+        "pocałunek: kobieta i mężczyzna", 
+        "miłość"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "pocałunek: kobieta i kobieta", 
+        "kobieta", 
+        "pocałunek", 
+        "para", 
+        "zakochani", 
+        "miłość"
     ], 
     "👩‍🌾": [
         "farmerka", 
         "kobieta", 
         "rolniczka", 
-        "ogrodniczka"
+        "rolniczka: typ skóry 4", 
+        "rolniczka: typ skóry 5", 
+        "typ skóry 1–2", 
+        "ogrodniczka", 
+        "rolniczka: typ skóry 3", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "rolniczka: typ skóry 1–2", 
+        "typ skóry 3", 
+        "rolniczka: typ skóry 6"
     ], 
     "👩‍🍳": [
-        "kucharka", 
+        "typ skóry 6", 
         "kobieta", 
-        "szef kuchni"
+        "typ skóry 1–2", 
+        "typ skóry 4", 
+        "kucharka", 
+        "kucharka: typ skóry 1–2", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "szef kuchni", 
+        "kucharka: typ skóry 3", 
+        "kucharka: typ skóry 6", 
+        "kucharka: typ skóry 4", 
+        "kucharka: typ skóry 5"
     ], 
     "👩‍🎓": [
         "studentka", 
-        "kobieta"
+        "kobieta", 
+        "typ skóry 1–2", 
+        "studentka: typ skóry 1–2", 
+        "typ skóry 6", 
+        "studentka: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "studentka: typ skóry 6", 
+        "typ skóry 3", 
+        "studentka: typ skóry 4", 
+        "studentka: typ skóry 5"
     ], 
     "👩‍🎤": [
-        "aktorka", 
-        "rock", 
+        "typ skóry 6", 
         "kobieta", 
-        "piosenkarka"
+        "piosenkarka", 
+        "typ skóry 1–2", 
+        "piosenkarka: typ skóry 6", 
+        "typ skóry 4", 
+        "aktorka", 
+        "piosenkarka: typ skóry 3", 
+        "typ skóry 5", 
+        "piosenkarka: typ skóry 5", 
+        "typ skóry 3", 
+        "rock", 
+        "piosenkarka: typ skóry 1–2", 
+        "piosenkarka: typ skóry 4"
     ], 
     "👩‍🎨": [
         "artystka", 
+        "kobieta", 
+        "typ skóry 1–2", 
+        "artystka: typ skóry 1–2", 
+        "artystka: typ skóry 3", 
+        "typ skóry 4", 
         "paleta", 
-        "kobieta"
+        "typ skóry 3", 
+        "artystka: typ skóry 5", 
+        "artystka: typ skóry 4", 
+        "typ skóry 6", 
+        "typ skóry 5", 
+        "artystka: typ skóry 6"
     ], 
     "👩‍🏫": [
-        "wykładowczyni", 
-        "profesor", 
         "kobieta", 
-        "nauczycielka"
+        "nauczycielka: typ skóry 5", 
+        "nauczycielka: typ skóry 4", 
+        "typ skóry 1–2", 
+        "nauczycielka: typ skóry 6", 
+        "wykładowczyni", 
+        "nauczycielka: typ skóry 3", 
+        "nauczycielka", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "nauczycielka: typ skóry 1–2", 
+        "profesor", 
+        "typ skóry 3"
     ], 
     "👩‍🏭": [
-        "montażystka", 
-        "pracownica fabryki", 
         "kobieta", 
         "pracownica", 
-        "fabryka"
+        "montażystka", 
+        "typ skóry 1–2", 
+        "pracownica fabryki: typ skóry 1–2", 
+        "pracownica fabryki: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "fabryka", 
+        "pracownica fabryki: typ skóry 3", 
+        "pracownica fabryki", 
+        "pracownica fabryki: typ skóry 5", 
+        "pracownica fabryki: typ skóry 4"
     ], 
     "👩‍👦": [
         "kobieta", 
@@ -3682,53 +5183,104 @@
         "rodzina: kobieta i kobieta i dziewczynka i dziewczynka"
     ], 
     "👩‍💻": [
-        "programistka", 
-        "oprogramowanie", 
+        "kobieta technolog: typ skóry 1–2", 
         "wynalazczyni", 
         "kobieta", 
-        "kobieta technolog"
+        "oprogramowanie", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "kobieta technolog", 
+        "kobieta technolog: typ skóry 5", 
+        "kobieta technolog: typ skóry 4", 
+        "kobieta technolog: typ skóry 6", 
+        "programistka", 
+        "typ skóry 1–2", 
+        "kobieta technolog: typ skóry 3"
     ], 
     "👩‍💼": [
-        "bizneswoman", 
         "biuro", 
-        "architekt", 
+        "pracownica biurowa: typ skóry 6", 
+        "typ skóry 1–2", 
+        "pracownica biurowa: typ skóry 5", 
+        "pracownica biurowa: typ skóry 3", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "bizneswoman", 
+        "typ skóry 3", 
         "pracownica biurowa", 
-        "kobieta"
+        "kobieta", 
+        "architekt", 
+        "pracownica biurowa: typ skóry 1–2", 
+        "pracownica biurowa: typ skóry 4"
     ], 
     "👩‍🔧": [
-        "kobieta elektryk", 
-        "mechanik", 
         "kobieta", 
+        "hydraulik", 
+        "kobieta elektryk", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "kobieta elektryk: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "kobieta elektryk: typ skóry 6", 
         "elektryk", 
-        "hydraulik"
+        "kobieta elektryk: typ skóry 4", 
+        "kobieta elektryk: typ skóry 5", 
+        "kobieta elektryk: typ skóry 1–2", 
+        "mechanik", 
+        "typ skóry 3"
     ], 
     "👩‍🔬": [
+        "kobieta", 
+        "kobieta naukowiec: typ skóry 1–2", 
         "kobieta naukowiec", 
+        "kobieta naukowiec: typ skóry 3", 
+        "typ skóry 1–2", 
+        "kobieta naukowiec: typ skóry 6", 
+        "typ skóry 4", 
+        "kobieta naukowiec: typ skóry 4", 
+        "kobieta naukowiec: typ skóry 5", 
+        "typ skóry 6", 
         "chemik", 
         "biolog", 
+        "typ skóry 5", 
         "inżynier", 
-        "kobieta"
+        "typ skóry 3"
     ], 
     "👩‍🚀": [
         "kosmos", 
+        "astronautka: typ skóry 3", 
         "kobieta", 
+        "astronautka: typ skóry 5", 
+        "astronautka: typ skóry 6", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "astronautka: typ skóry 1–2", 
+        "typ skóry 3", 
         "rakieta", 
+        "astronautka: typ skóry 4", 
         "astronautka"
     ], 
     "👩‍🚒": [
         "kobieta strażak", 
+        "kobieta strażak: typ skóry 1–2", 
         "kobieta", 
         "strażak", 
-        "wóz strażacki"
-    ], 
-    "👪": [
-        "ojciec", 
-        "tata", 
-        "matka", 
-        "rodzina", 
-        "rodzice", 
-        "mama", 
-        "dziecko"
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "wóz strażacki", 
+        "kobieta strażak: typ skóry 3", 
+        "kobieta strażak: typ skóry 5", 
+        "kobieta strażak: typ skóry 6", 
+        "kobieta strażak: typ skóry 4", 
+        "typ skóry 3"
     ], 
     "👫": [
         "miłość", 
@@ -3750,62 +5302,162 @@
         "za ręce", 
         "para"
     ], 
-    "👮": [
+    "👮‍♀️": [
         "oficer", 
-        "policjant"
+        "kobieta", 
+        "policjantka", 
+        "glina", 
+        "kobieta policjant"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "oficer", 
+        "policjant", 
+        "mężczyzna policjant", 
+        "glina", 
+        "mężczyzna"
+    ], 
+    "👯‍♀️": [
+        "impreza", 
         "uszy", 
+        "królicze uszy", 
         "króliczki", 
         "tancerki", 
         "dziewczyny", 
         "kobiety", 
-        "osoby z uszami królika na przyjęciu"
+        "osoby z uszami królika na przyjęciu", 
+        "kobiety z uszami królika na przyjęciu"
+    ], 
+    "👯‍♂️": [
+        "tancerze", 
+        "królicze uszy", 
+        "mężczyźni z uszami królika na przyjęciu", 
+        "mężczyźni", 
+        "impreza"
     ], 
     "👰": [
         "panna młoda w welonie", 
-        "ślub", 
         "welon", 
-        "wesele"
+        "wesele", 
+        "typ skóry 4", 
+        "panna młoda w welonie: typ skóry 3", 
+        "typ skóry 6", 
+        "ślub", 
+        "panna młoda w welonie: typ skóry 1–2", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "panna młoda w welonie: typ skóry 6", 
+        "panna młoda w welonie: typ skóry 4", 
+        "panna młoda w welonie: typ skóry 5", 
+        "typ skóry 1–2"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "blondynka", 
+        "kobieta"
+    ], 
+    "👱‍♂️": [
         "blondyn", 
-        "osoba z włosami blond"
+        "osoba z włosami blond", 
+        "mężczyzna"
     ], 
     "👲": [
-        "gua pi mao", 
-        "chińska czapka", 
+        "typ skóry 6", 
         "mężczyzna w chińskiej czapce", 
-        "czapka"
+        "typ skóry 1–2", 
+        "czapka", 
+        "mężczyzna w chińskiej czapce: typ skóry 1–2", 
+        "mężczyzna w chińskiej czapce: typ skóry 3", 
+        "gua pi mao", 
+        "typ skóry 4", 
+        "chińska czapka", 
+        "typ skóry 3", 
+        "mężczyzna w chińskiej czapce: typ skóry 5", 
+        "mężczyzna w chińskiej czapce: typ skóry 4", 
+        "typ skóry 5", 
+        "mężczyzna w chińskiej czapce: typ skóry 6"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "kobieta w turbanie", 
+        "kobieta", 
+        "turban"
+    ], 
+    "👳‍♂️": [
         "mężczyzna", 
+        "mężczyzna w turbanie", 
         "turban", 
         "osoba w turbanie"
     ], 
     "👴": [
         "starszy mężczyzna", 
-        "mnich", 
         "starzec", 
+        "typ skóry 1–2", 
+        "starszy mężczyzna: typ skóry 4", 
+        "typ skóry 4", 
+        "starszy mężczyzna: typ skóry 5", 
+        "typ skóry 6", 
+        "starszy mężczyzna: typ skóry 6", 
+        "mnich", 
+        "starszy mężczyzna: typ skóry 1–2", 
+        "starszy mężczyzna: typ skóry 3", 
+        "typ skóry 3", 
+        "typ skóry 5", 
         "staruszek"
     ], 
     "👵": [
+        "starsza kobieta: typ skóry 1–2", 
+        "kobieta", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "starsza kobieta: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
         "starsza kobieta", 
-        "staruszka", 
-        "kobieta"
+        "typ skóry 3", 
+        "starsza kobieta: typ skóry 4", 
+        "starsza kobieta: typ skóry 5", 
+        "starsza kobieta: typ skóry 6", 
+        "staruszka"
     ], 
     "👶": [
+        "typ skóry 6", 
+        "typ skóry 1–2", 
+        "niemowlę: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "niemowlę: typ skóry 5", 
+        "niemowlę: typ skóry 4", 
         "niemowlę", 
-        "dziecko"
+        "dziecko", 
+        "niemowlę: typ skóry 1–2", 
+        "niemowlę: typ skóry 6"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "kobieta budowlaniec", 
         "budowlaniec", 
+        "kobieta", 
+        "robotnik"
+    ], 
+    "👷‍♂️": [
+        "mężczyzna budowlaniec", 
+        "mężczyzna", 
+        "budowlaniec", 
+        "robotnik", 
         "kask"
     ], 
     "👸": [
-        "księżniczka", 
-        "baśń", 
         "bajka", 
+        "księżniczka: typ skóry 1–2", 
+        "księżniczka", 
+        "typ skóry 1–2", 
+        "baśń", 
+        "typ skóry 6", 
+        "księżniczka: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "księżniczka: typ skóry 6", 
+        "typ skóry 3", 
+        "księżniczka: typ skóry 4", 
+        "księżniczka: typ skóry 5", 
         "królewna"
     ], 
     "👹": [
@@ -3826,10 +5478,20 @@
         "język"
     ], 
     "👼": [
+        "typ skóry 6", 
+        "bajka", 
+        "typ skóry 1–2", 
+        "typ skóry 4", 
         "aniołek", 
         "fantasy", 
+        "aniołek: typ skóry 1–2", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "aniołek: typ skóry 3", 
+        "aniołek: typ skóry 6", 
         "buzia aniołka", 
-        "bajka"
+        "aniołek: typ skóry 4", 
+        "aniołek: typ skóry 5"
     ], 
     "👽": [
         "kosmos", 
@@ -3873,21 +5535,47 @@
         "czaszka", 
         "kościotrup"
     ], 
-    "💁": [
+    "💁‍♀️": [
         "pomogę", 
         "osoba z wystawioną dłonią", 
-        "pomoc", 
+        "kobieta z wystawioną dłonią", 
+        "kobieta", 
         "pomocna dłoń", 
-        "życzliwy"
+        "życzliwy", 
+        "otwarta dłoń", 
+        "pomoc"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "mężczyzna z wystawioną dłonią", 
+        "mężczyzna", 
+        "otwarta dłoń"
+    ], 
+    "💂‍♀️": [
+        "kobieta", 
+        "kobieta gwardzista", 
+        "gwardzistka", 
+        "strażniczka"
+    ], 
+    "💂‍♂️": [
         "strażnik", 
-        "gwardzista"
+        "mężczyzna", 
+        "gwardzista", 
+        "mężczyzna gwardzista"
     ], 
     "💃": [
+        "tańcząca kobieta: typ skóry 3", 
+        "tańcząca kobieta", 
+        "tańcząca kobieta: typ skóry 5", 
+        "tańcząca kobieta: typ skóry 4", 
+        "typ skóry 1–2", 
         "taniec", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "tańcząca kobieta: typ skóry 1–2", 
+        "typ skóry 3", 
+        "typ skóry 5", 
         "tańczyć", 
-        "tańcząca kobieta"
+        "tańcząca kobieta: typ skóry 6"
     ], 
     "💄": [
         "makijaż", 
@@ -3896,24 +5584,54 @@
         "kosmetyki"
     ], 
     "💅": [
+        "lakier do paznokci: typ skóry 3", 
+        "lakier do paznokci: typ skóry 6", 
+        "lakier do paznokci: typ skóry 4", 
+        "lakier do paznokci: typ skóry 1–2", 
         "pielęgnacja", 
+        "typ skóry 1–2", 
+        "lakier do paznokci: typ skóry 5", 
         "lakierować paznokcie", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
         "lakier do paznokci", 
+        "typ skóry 3", 
         "manicure", 
         "ciało", 
         "kosmetyki"
     ], 
-    "💆": [
-        "salon masażu", 
+    "💆‍♀️": [
+        "kobieta", 
+        "kobieta podczas masażu", 
+        "twarz", 
         "osoba podczas masażu", 
+        "kosmetyczka", 
+        "salon masażu", 
         "masaż", 
-        "kosmetyczka"
+        "głowa"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "mężczyzna", 
+        "twarz", 
+        "głowa", 
+        "masaż", 
+        "mężczyzna podczas masażu"
+    ], 
+    "💇‍♀️": [
         "fryzjerka", 
         "cięcie włosów", 
-        "osoba podczas strzyżenia", 
-        "fryzura"
+        "kobieta", 
+        "fryzura", 
+        "kobieta podczas strzyżenia", 
+        "strzyżenie", 
+        "osoba podczas strzyżenia"
+    ], 
+    "💇‍♂️": [
+        "mężczyzna", 
+        "strzyżenie", 
+        "fryzura", 
+        "mężczyzna podczas strzyżenia"
     ], 
     "💈": [
         "słup fryzjerski", 
@@ -3962,23 +5680,10 @@
         "romans", 
         "kamień szlachetny"
     ], 
-    "💏": [
-        "miłość", 
-        "zakochani", 
-        "pocałunek", 
-        "para"
-    ], 
     "💐": [
         "bukiet", 
         "kwiaty", 
         "bukiet kwiatów"
-    ], 
-    "💑": [
-        "miłość", 
-        "para z sercem", 
-        "zakochani", 
-        "pocałunek", 
-        "para"
     ], 
     "💒": [
         "uroczystość", 
@@ -4113,11 +5818,21 @@
         "odchody"
     ], 
     "💪": [
+        "napięty biceps: typ skóry 6", 
+        "napięty biceps: typ skóry 5", 
+        "napięty biceps: typ skóry 4", 
+        "napięty biceps: typ skóry 3", 
         "muskuły", 
+        "typ skóry 1–2", 
         "mięśnie", 
+        "typ skóry 4", 
+        "typ skóry 6", 
         "napięty biceps", 
         "silny", 
         "siła", 
+        "typ skóry 3", 
+        "napięty biceps: typ skóry 1–2", 
+        "typ skóry 5", 
         "muskularny"
     ], 
     "💫": [
@@ -4614,6 +6329,13 @@
         "taśma", 
         "kaseta wideo"
     ], 
+    "📽️": [
+        "projektor filmowy", 
+        "kino", 
+        "projekcja", 
+        "film", 
+        "projektor"
+    ], 
     "📿": [
         "naszyjnik", 
         "korale", 
@@ -5034,6 +6756,15 @@
         "przycisk „w dół”", 
         "strzałka"
     ], 
+    "🕉️": [
+        "hinduizm", 
+        "religia", 
+        "om"
+    ], 
+    "🕊️": [
+        "gołąbek", 
+        "gołąb"
+    ], 
     "🕋": [
         "muzułmanin", 
         "kaaba", 
@@ -5275,27 +7006,271 @@
         "zero trzydzieści", 
         "12:30"
     ], 
+    "🕯️": [
+        "światło", 
+        "świeca", 
+        "świeczka"
+    ], 
+    "🕰️": [
+        "czasomierz", 
+        "zegar kominkowy", 
+        "zegar"
+    ], 
+    "🕳️": [
+        "dziura", 
+        "otwór"
+    ], 
+    "🕴️": [
+        "lewitacja", 
+        "lewitujący mężczyzna w garniturze", 
+        "mężczyzna", 
+        "garnitur", 
+        "biznesmen", 
+        "lewitować"
+    ], 
+    "🕵️‍♂️": [
+        "szpieg", 
+        "detektyw", 
+        "śledczy"
+    ], 
+    "🕶️": [
+        "słoneczne", 
+        "ciemne okulary", 
+        "okulary słoneczne", 
+        "przeciwsłoneczne"
+    ], 
+    "🕷️": [
+        "pajęczak", 
+        "pająk", 
+        "pajączek"
+    ], 
+    "🕸️": [
+        "sieć pająka", 
+        "pajęczyna"
+    ], 
+    "🕹️": [
+        "dżojstik", 
+        "gra komputerowa", 
+        "gra wideo", 
+        "gra"
+    ], 
     "🕺": [
-        "tańczący mężczyzna", 
+        "tańczący mężczyzna: typ skóry 1–2", 
+        "tańczący mężczyzna: typ skóry 6", 
+        "typ skóry 1–2", 
+        "tańczący mężczyzna: typ skóry 5", 
         "taniec", 
-        "tańczyć"
+        "tańczący mężczyzna: typ skóry 3", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "tańczący mężczyzna", 
+        "tańczyć", 
+        "tańczący mężczyzna: typ skóry 4"
+    ], 
+    "🖇️": [
+        "złączone spinacze", 
+        "spinacze", 
+        "spinać", 
+        "druciane"
+    ], 
+    "🖊️": [
+        "pióro", 
+        "długopis"
+    ], 
+    "🖋️": [
+        "pióro", 
+        "stalówka", 
+        "wieczne", 
+        "wieczne pióro"
+    ], 
+    "🖌️": [
+        "malować", 
+        "malarstwo", 
+        "pędzel"
+    ], 
+    "🖍️": [
+        "rysować", 
+        "kredka"
+    ], 
+    "🖐️": [
+        "palce", 
+        "otwarta dłoń wszystkie palce", 
+        "uniesiona otwarta dłoń", 
+        "rozpostarte palce"
     ], 
     "🖕": [
+        "środkowy palec: typ skóry 6", 
+        "środkowy palec: typ skóry 5", 
+        "środkowy palec: typ skóry 1–2", 
+        "środkowy palec: typ skóry 3", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "środkowy palec", 
+        "typ skóry 4", 
+        "środkowy palec: typ skóry 4", 
+        "typ skóry 3", 
         "gest", 
         "wulgarny gest", 
-        "środkowy palec"
+        "typ skóry 5"
     ], 
     "🖖": [
+        "wolkański", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "salut wolkański: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "salut wolkański: typ skóry 1–2", 
+        "salut wolkański", 
         "dłoń", 
         "palce", 
-        "wolkański", 
-        "salut wolkański"
+        "salut wolkański: typ skóry 6", 
+        "salut wolkański: typ skóry 5", 
+        "salut wolkański: typ skóry 4"
     ], 
     "🖤": [
         "zło", 
         "czarne serce", 
         "serce", 
         "czarny"
+    ], 
+    "🖥️": [
+        "stacjonarny", 
+        "wyświetlacz", 
+        "ekran", 
+        "komputer", 
+        "biurkowy"
+    ], 
+    "🖨️": [
+        "komputer", 
+        "drukarka"
+    ], 
+    "🖱️": [
+        "trzyprzyciskowa", 
+        "mysz komputerowa", 
+        "trójprzyciskowa", 
+        "komputerowa", 
+        "mysz"
+    ], 
+    "🖲️": [
+        "komputer", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "sztuka", 
+        "muzeum", 
+        "obraz", 
+        "malarstwo", 
+        "obrazek w ramce", 
+        "ramka"
+    ], 
+    "🗂️": [
+        "kartoteka", 
+        "karty", 
+        "rozdzielacze", 
+        "podział", 
+        "rozdzielacze kartoteki"
+    ], 
+    "🗃️": [
+        "dokumenty", 
+        "pudełko", 
+        "pudełko-kartoteka", 
+        "indeks", 
+        "kartoteka", 
+        "karty"
+    ], 
+    "🗄️": [
+        "dokumenty", 
+        "szafka-kartoteka", 
+        "szuflady", 
+        "indeks", 
+        "kartoteka", 
+        "szafka", 
+        "karty"
+    ], 
+    "🗑️": [
+        "śmieci", 
+        "odpadki", 
+        "kosz na śmieci", 
+        "kosz"
+    ], 
+    "🗒️": [
+        "notes", 
+        "spirala", 
+        "kołonotatnik", 
+        "notatnik", 
+        "na spirali"
+    ], 
+    "🗓️": [
+        "na spirali", 
+        "spirala", 
+        "notes", 
+        "kalendarz", 
+        "notatnik", 
+        "kalendarz na spirali"
+    ], 
+    "🗜️": [
+        "ściskanie", 
+        "prasowanie", 
+        "kompresja", 
+        "presja", 
+        "prasa", 
+        "nacisk"
+    ], 
+    "🗝️": [
+        "klucz", 
+        "zamek", 
+        "staroświecki klucz", 
+        "zamknąć", 
+        "kłódka", 
+        "stary"
+    ], 
+    "🗞️": [
+        "zrolowana", 
+        "zwinięta", 
+        "zwinięta gazeta", 
+        "rulon", 
+        "zwitek", 
+        "gazeta", 
+        "papier"
+    ], 
+    "🗡️": [
+        "sztylet", 
+        "broń", 
+        "nóż"
+    ], 
+    "🗣️": [
+        "profil", 
+        "mówić", 
+        "mówiąca głowa", 
+        "powiedzieć", 
+        "sylwetka"
+    ], 
+    "🗨️": [
+        "lewostronny dymek", 
+        "rozmowa", 
+        "dialog", 
+        "dymek"
+    ], 
+    "🗯️": [
+        "złość", 
+        "zdenerwowany", 
+        "prawostronny dymek złości", 
+        "dymek"
+    ], 
+    "🗳️": [
+        "urna wyborcza z głosem", 
+        "urna", 
+        "głos", 
+        "głosować"
+    ], 
+    "🗺️": [
+        "świat", 
+        "mapa", 
+        "mapa świata"
     ], 
     "🗻": [
         "fuji", 
@@ -5688,21 +7663,53 @@
         "buźka", 
         "twarz przewracająca oczami"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "osoba pokazująca gest NIE", 
+        "kobieta pokazująca gest NIE", 
         "nie wolno", 
-        "zakaz"
+        "kobieta", 
+        "zakaz", 
+        "ręce", 
+        "nie"
     ], 
-    "🙆": [
-        "zaskoczenie", 
+    "🙅‍♂️": [
+        "mężczyzna", 
+        "ręce", 
+        "zakaz", 
+        "mężczyzna pokazujący gest NIE", 
+        "nie"
+    ], 
+    "🙆‍♀️": [
+        "kobieta", 
+        "ręce", 
         "osoba pokazująca gest OK", 
+        "kobieta pokazująca gest OK", 
+        "zachwyt", 
         "ojej", 
-        "zachwyt"
+        "zaskoczenie"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "mężczyzna", 
+        "ręce", 
+        "mężczyzna pokazujący „ojej!”", 
+        "zachwyt", 
+        "ojej"
+    ], 
+    "🙇‍♀️": [
+        "ukłon", 
+        "gest", 
+        "kobieta", 
+        "przepraszam", 
+        "kobieta w ukłonie"
+    ], 
+    "🙇‍♂️": [
         "opuszczona głowa", 
+        "mężczyzna", 
         "przykro mi", 
         "przepraszam", 
+        "ukłon", 
+        "mężczyzna w ukłonie", 
+        "gest", 
         "osoba w ukłonie"
     ], 
     "🙈": [
@@ -5736,30 +7743,79 @@
         "gest", 
         "małpa zasłaniająca pyszczek"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "ręka do góry", 
+        "kobieta", 
         "witaj!", 
+        "powitanie", 
+        "kobieta podnosząca rękę", 
+        "gest", 
+        "hej", 
         "osoba podnosząca rękę"
     ], 
+    "🙋‍♂️": [
+        "gest", 
+        "powitanie", 
+        "mężczyzna podnoszący rękę", 
+        "hej", 
+        "mężczyzna"
+    ], 
     "🙌": [
+        "wzniesione ręce: typ skóry 6", 
+        "wzniesione ręce: typ skóry 4", 
+        "wzniesione ręce: typ skóry 5", 
+        "wzniesione ręce: typ skóry 3", 
+        "typ skóry 1–2", 
         "wzniesione ręce", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "wzniesione ręce: typ skóry 1–2", 
         "super", 
         "hura!"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "smutek na twarzy", 
+        "kobieta", 
         "smutny", 
+        "zmarszczone brwi", 
+        "zachmurzona kobieta", 
         "zachmurzona osoba"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "mężczyzna", 
+        "zachmurzony mężczyzna", 
+        "zmarszczone brwi"
+    ], 
+    "🙎‍♀️": [
+        "nadąsana kobieta", 
+        "kobieta", 
+        "nadąsana", 
         "mina", 
-        "niezadowolona", 
-        "buźka", 
         "kapryśna", 
-        "nadąsana osoba"
+        "niezadowolona", 
+        "nadąsana osoba", 
+        "buźka"
+    ], 
+    "🙎‍♂️": [
+        "nadąsany mężczyzna", 
+        "mężczyzna", 
+        "niezadowolony", 
+        "nadąsany"
     ], 
     "🙏": [
-        "złożone ręce"
+        "złożone ręce: typ skóry 3", 
+        "złożone ręce: typ skóry 5", 
+        "złożone ręce: typ skóry 4", 
+        "złożone ręce", 
+        "typ skóry 1–2", 
+        "złożone ręce: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "złożone ręce: typ skóry 1–2"
     ], 
     "🚀": [
         "pojazd", 
@@ -5971,10 +8027,19 @@
         "statek", 
         "okręt"
     ], 
-    "🚣": [
-        "pojazd", 
-        "osoba wiosłująca w łodzi", 
+    "🚣‍♀️": [
+        "kobieta wiosłująca w łodzi", 
+        "kobieta", 
+        "wiosłowanie", 
         "łódka"
+    ], 
+    "🚣‍♂️": [
+        "pojazd", 
+        "mężczyzna wiosłujący w łodzi", 
+        "łódka", 
+        "osoba wiosłująca w łodzi", 
+        "mężczyzna", 
+        "wiosłowanie"
     ], 
     "🚤": [
         "pojazd", 
@@ -6075,22 +8140,51 @@
         "zabroniony", 
         "zakaz wjazdu rowerów"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "rower", 
+        "kobieta na rowerze", 
+        "kobieta", 
+        "jazda"
+    ], 
+    "🚴‍♂️": [
+        "rower", 
+        "mężczyzna", 
+        "mężczyzna na rowerze", 
+        "jazda", 
         "peleton", 
         "kolarz", 
         "osoba na rowerze"
     ], 
-    "🚵": [
-        "rowerzysta", 
+    "🚵‍♀️": [
+        "rower górski", 
+        "kobieta", 
+        "kobieta na rowerze górskim", 
+        "jazda"
+    ], 
+    "🚵‍♂️": [
+        "rower górski", 
         "rower", 
+        "mężczyzna na rowerze górskim", 
+        "mężczyzna", 
         "osoba na rowerze górskim", 
+        "jazda", 
+        "rowerzysta", 
         "górski"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "chodzenie", 
+        "piechur", 
+        "spacer", 
+        "kobieta", 
+        "idąca kobieta"
+    ], 
+    "🚶‍♂️": [
+        "chodzenie", 
+        "mężczyzna", 
         "piechur", 
         "spacer", 
         "na piechotę", 
+        "idący mężczyzna", 
         "iść", 
         "idąca osoba", 
         "pieszo"
@@ -6157,9 +8251,19 @@
         "łazienka"
     ], 
     "🛀": [
+        "osoba biorąca kąpiel: typ skóry 6", 
+        "typ skóry 1–2", 
+        "osoba biorąca kąpiel: typ skóry 5", 
+        "osoba biorąca kąpiel: typ skóry 1–2", 
+        "typ skóry 6", 
         "osoba biorąca kąpiel", 
+        "typ skóry 4", 
+        "osoba biorąca kąpiel: typ skóry 4", 
+        "osoba biorąca kąpiel: typ skóry 3", 
+        "typ skóry 3", 
+        "kąpiel", 
         "wanna", 
-        "kąpiel"
+        "typ skóry 5"
     ], 
     "🛁": [
         "wanna", 
@@ -6190,9 +8294,43 @@
         "kluczyk", 
         "przechowalnia bagażu"
     ], 
+    "🛋️": [
+        "hotel", 
+        "kanapa", 
+        "lampa", 
+        "kanapa i lampa"
+    ], 
     "🛌": [
-        "sen", 
         "osoba w łóżku", 
+        "typ skóry 1–2", 
+        "hotel", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "nocleg", 
+        "osoba w łóżku: typ skóry 1–2", 
+        "sen", 
+        "osoba w łóżku: typ skóry 3", 
+        "osoba w łóżku: typ skóry 5", 
+        "osoba w łóżku: typ skóry 4", 
+        "osoba w łóżku: typ skóry 6"
+    ], 
+    "🛍️": [
+        "torby na zakupy", 
+        "torby", 
+        "torebki"
+    ], 
+    "🛎️": [
+        "dzwonek", 
+        "dzwonek w recepcji", 
+        "hotel", 
+        "recepcja", 
+        "przywołać"
+    ], 
+    "🛏️": [
+        "sen", 
+        "łóżko", 
         "hotel", 
         "nocleg"
     ], 
@@ -6217,6 +8355,45 @@
         "sklep", 
         "wózek"
     ], 
+    "🛠️": [
+        "klucz", 
+        "młot", 
+        "narzędzia", 
+        "młot i klucz", 
+        "warsztatowy"
+    ], 
+    "🛡️": [
+        "ochrona", 
+        "tarcza", 
+        "osłona"
+    ], 
+    "🛢️": [
+        "beczka", 
+        "olej", 
+        "beczka oleju"
+    ], 
+    "🛣️": [
+        "autostrada", 
+        "droga", 
+        "szybkiego ruchu"
+    ], 
+    "🛤️": [
+        "tor", 
+        "kolej", 
+        "tor kolejowy", 
+        "tory", 
+        "pociąg"
+    ], 
+    "🛥️": [
+        "pojazd", 
+        "motorówka", 
+        "łódź motorowa"
+    ], 
+    "🛩️": [
+        "pojazd", 
+        "samolot", 
+        "mały samolot"
+    ], 
     "🛫": [
         "pojazd", 
         "wylot", 
@@ -6232,6 +8409,18 @@
         "przylot samolotu", 
         "samolot", 
         "przylot"
+    ], 
+    "🛰️": [
+        "pojazd", 
+        "satelita", 
+        "kosmiczny"
+    ], 
+    "🛳️": [
+        "pojazd", 
+        "pasażerski", 
+        "statek", 
+        "okręt", 
+        "statek pasażerski"
     ], 
     "🛴": [
         "pojazd", 
@@ -6304,32 +8493,82 @@
     ], 
     "🤘": [
         "rocker", 
+        "gest rogów: typ skóry 3", 
         "rogi", 
-        "gest rogów", 
-        "znak rockersów"
+        "typ skóry 1–2", 
+        "gest rogów: typ skóry 6", 
+        "gest rogów: typ skóry 5", 
+        "gest rogów: typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "znak rockersów", 
+        "gest rogów: typ skóry 4", 
+        "gest rogów"
     ], 
     "🤙": [
-        "dzwonić", 
+        "typ skóry 6", 
+        "dłoń w geście „Zadzwoń do mnie”: typ skóry 6", 
         "dłoń w geście „Zadzwoń do mnie”", 
-        "telefonować"
+        "telefonować", 
+        "typ skóry 1–2", 
+        "dłoń w geście „Zadzwoń do mnie”: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "dłoń w geście „Zadzwoń do mnie”: typ skóry 5", 
+        "dłoń w geście „Zadzwoń do mnie”: typ skóry 4", 
+        "dzwonić", 
+        "dłoń w geście „Zadzwoń do mnie”: typ skóry 1–2"
     ], 
     "🤚": [
+        "wzniesiony grzbiet dłoni: typ skóry 1–2", 
+        "pozdrowienie", 
+        "typ skóry 1–2", 
+        "powitanie", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "wzniesiony grzbiet dłoni: typ skóry 3", 
+        "wzniesiony grzbiet dłoni: typ skóry 4", 
+        "typ skóry 3", 
+        "wzniesiony grzbiet dłoni: typ skóry 6", 
         "uniesiona dłoń", 
         "wzniesiony grzbiet dłoni", 
-        "pozdrowienie", 
+        "typ skóry 5", 
         "pożegnanie", 
-        "powitanie"
+        "wzniesiony grzbiet dłoni: typ skóry 5"
     ], 
     "🤛": [
+        "pięść skierowana w lewo: typ skóry 6", 
+        "typ skóry 1–2", 
+        "pięść skierowana w lewo: typ skóry 5", 
+        "typ skóry 6", 
         "pięść skierowana w lewo", 
-        "cios", 
+        "typ skóry 4", 
         "pięść", 
-        "uderzenie z prawej"
+        "pięść skierowana w lewo: typ skóry 3", 
+        "typ skóry 3", 
+        "pięść skierowana w lewo: typ skóry 4", 
+        "cios", 
+        "typ skóry 5", 
+        "uderzenie z prawej", 
+        "pięść skierowana w lewo: typ skóry 1–2"
     ], 
     "🤜": [
+        "pięść skierowana w prawo: typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 1–2", 
+        "pięść skierowana w prawo: typ skóry 6", 
+        "pięść skierowana w prawo: typ skóry 4", 
+        "pięść skierowana w prawo: typ skóry 5", 
+        "typ skóry 4", 
+        "pięść", 
+        "typ skóry 3", 
+        "pięść skierowana w prawo: typ skóry 3", 
         "uderzenie z lewej", 
         "cios", 
-        "pięść", 
+        "typ skóry 5", 
         "pięść skierowana w prawo"
     ], 
     "🤝": [
@@ -6340,13 +8579,33 @@
         "powitanie"
     ], 
     "🤞": [
+        "kciuki", 
         "trzymać", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "skrzyżowane palce: typ skóry 1–2", 
+        "skrzyżowane palce: typ skóry 6", 
         "skrzyżowane palce", 
         "powodzenia", 
-        "kciuki"
+        "skrzyżowane palce: typ skóry 4", 
+        "skrzyżowane palce: typ skóry 3", 
+        "skrzyżowane palce: typ skóry 5"
     ], 
     "🤟": [
         "kocham", 
+        "gest Kocham cię: typ skóry 1–2", 
+        "gest Kocham cię: typ skóry 5", 
+        "gest Kocham cię: typ skóry 4", 
+        "typ skóry 1–2", 
+        "gest Kocham cię: typ skóry 6", 
+        "gest Kocham cię: typ skóry 3", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
         "ręka", 
         "gest Kocham cię"
     ], 
@@ -6385,7 +8644,31 @@
     "🤦": [
         "osoba trzymająca się za czoło", 
         "niedowierzanie", 
+        "typ skóry 1–2", 
+        "osoba trzymająca się za czoło: typ skóry 3", 
+        "osoba trzymająca się za czoło: typ skóry 4", 
+        "osoba trzymająca się za czoło: typ skóry 5", 
+        "osoba trzymająca się za czoło: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "osoba trzymająca się za czoło: typ skóry 1–2", 
+        "typ skóry 3", 
         "załamanie"
+    ], 
+    "🤦‍♀️": [
+        "brak słów", 
+        "załamka", 
+        "kobieta trzymająca się za czoło", 
+        "kobieta", 
+        "niedowierzanie"
+    ], 
+    "🤦‍♂️": [
+        "brak słów", 
+        "mężczyzna", 
+        "załamka", 
+        "mężczyzna trzymający się za czoło", 
+        "niedowierzanie"
     ], 
     "🤧": [
         "katar", 
@@ -6435,57 +8718,197 @@
         "eksplodująca głowa"
     ], 
     "🤰": [
+        "kobieta w ciąży: typ skóry 1–2", 
+        "kobieta w ciąży: typ skóry 4", 
+        "kobieta w ciąży: typ skóry 5", 
+        "typ skóry 1–2", 
+        "kobieta w ciąży: typ skóry 3", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
         "ciąża", 
-        "kobieta w ciąży"
+        "typ skóry 3", 
+        "kobieta w ciąży", 
+        "kobieta w ciąży: typ skóry 6"
     ], 
     "🤱": [
+        "karmienie piersią: typ skóry 1–2", 
+        "typ skóry 1–2", 
+        "karmienie piersią: typ skóry 3", 
+        "karmienie piersią: typ skóry 4", 
+        "karmienie piersią: typ skóry 5", 
+        "karmienie piersią: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
         "niemowlę", 
         "pierś", 
         "karmienie piersią"
     ], 
     "🤲": [
         "dłonie do góry razem", 
-        "modlitwa"
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "dłonie do góry razem: typ skóry 4", 
+        "dłonie do góry razem: typ skóry 5", 
+        "dłonie do góry razem: typ skóry 6", 
+        "modlitwa", 
+        "dłonie do góry razem: typ skóry 1–2", 
+        "typ skóry 1–2", 
+        "dłonie do góry razem: typ skóry 3"
     ], 
     "🤳": [
-        "selfie", 
         "zdjęcie", 
+        "selfie", 
         "telefon", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "selfie: typ skóry 4", 
+        "selfie: typ skóry 5", 
+        "selfie: typ skóry 6", 
+        "selfie: typ skóry 3", 
+        "selfie: typ skóry 1–2", 
+        "typ skóry 1–2", 
         "aparat"
     ], 
     "🤴": [
-        "książę"
+        "książę: typ skóry 6", 
+        "typ skóry 1–2", 
+        "książę: typ skóry 4", 
+        "książę: typ skóry 3", 
+        "książę: typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "książę", 
+        "książę: typ skóry 5", 
+        "typ skóry 3"
     ], 
     "🤵": [
-        "smoking", 
         "mężczyzna w smokingu", 
+        "pan młody", 
+        "typ skóry 6", 
+        "typ skóry 4", 
         "elegancja", 
-        "pan młody"
+        "typ skóry 3", 
+        "mężczyzna w smokingu: typ skóry 5", 
+        "mężczyzna w smokingu: typ skóry 4", 
+        "smoking", 
+        "mężczyzna w smokingu: typ skóry 6", 
+        "typ skóry 5", 
+        "mężczyzna w smokingu: typ skóry 1–2", 
+        "typ skóry 1–2", 
+        "mężczyzna w smokingu: typ skóry 3"
     ], 
     "🤶": [
-        "mikołajowa", 
-        "święta", 
+        "typ skóry 6", 
         "mikołaj", 
-        "żona św. Mikołaja"
+        "żona św. Mikołaja", 
+        "mikołajowa", 
+        "żona św. Mikołaja: typ skóry 6", 
+        "typ skóry 1–2", 
+        "żona św. Mikołaja: typ skóry 4", 
+        "żona św. Mikołaja: typ skóry 3", 
+        "święta", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "żona św. Mikołaja: typ skóry 1–2", 
+        "żona św. Mikołaja: typ skóry 5"
     ], 
     "🤷": [
         "obojętność", 
+        "osoba wzruszająca ramionami", 
         "niewiedza", 
+        "typ skóry 1–2", 
         "wątpliwość", 
-        "osoba wzruszająca ramionami"
+        "typ skóry 6", 
+        "osoba wzruszająca ramionami: typ skóry 3", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "osoba wzruszająca ramionami: typ skóry 6", 
+        "typ skóry 3", 
+        "osoba wzruszająca ramionami: typ skóry 4", 
+        "osoba wzruszająca ramionami: typ skóry 5", 
+        "osoba wzruszająca ramionami: typ skóry 1–2"
+    ], 
+    "🤷‍♀️": [
+        "obojętność", 
+        "wzruszenie ramion", 
+        "kobieta", 
+        "kobieta wzruszająca ramionami", 
+        "wątpliwość"
+    ], 
+    "🤷‍♂️": [
+        "obojętność", 
+        "mężczyzna", 
+        "mężczyzna wzruszający ramionami", 
+        "wzruszenie ramion", 
+        "wątpliwość"
     ], 
     "🤸": [
+        "osoba robiąca gwiazdę: typ skóry 1–2", 
+        "osoba robiąca gwiazdę: typ skóry 6", 
+        "typ skóry 1–2", 
+        "osoba robiąca gwiazdę: typ skóry 5", 
+        "osoba robiąca gwiazdę: typ skóry 4", 
+        "osoba robiąca gwiazdę", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "sport", 
+        "gwiazda", 
+        "osoba robiąca gwiazdę: typ skóry 3", 
+        "gimnastyka"
+    ], 
+    "🤸‍♀️": [
+        "kobieta robiąca gwiazdę", 
+        "kobieta", 
+        "sport", 
+        "gwiazda", 
+        "gimnastyka"
+    ], 
+    "🤸‍♂️": [
+        "mężczyzna", 
         "sport", 
         "gwiazda", 
         "gimnastyka", 
-        "osoba robiąca gwiazdę"
+        "mężczyzna robiący gwiazdę"
     ], 
     "🤹": [
-        "cyrk", 
-        "żonglerz", 
-        "żonglująca osoba", 
+        "żonglująca osoba: typ skóry 1–2", 
         "żonglerka", 
-        "spryt"
+        "cyrk", 
+        "typ skóry 1–2", 
+        "spryt", 
+        "żonglująca osoba: typ skóry 6", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "żonglerz", 
+        "żonglująca osoba: typ skóry 3", 
+        "żonglująca osoba", 
+        "żonglująca osoba: typ skóry 5", 
+        "żonglująca osoba: typ skóry 4"
+    ], 
+    "🤹‍♀️": [
+        "żonglowanie", 
+        "kobieta", 
+        "żonglująca kobieta", 
+        "żonglerka"
+    ], 
+    "🤹‍♂️": [
+        "mężczyzna", 
+        "żonglujący mężczyzna", 
+        "żonglowanie", 
+        "żonglerka"
     ], 
     "🤺": [
         "szermierz", 
@@ -6500,18 +8923,78 @@
         "osoby uprawiające zapasy", 
         "zapaśnik"
     ], 
-    "🤽": [
-        "woda", 
+    "🤼‍♀️": [
+        "zapasy", 
+        "kobiety uprawiające zapasy", 
         "sport", 
-        "piłka", 
+        "kobiety", 
+        "zapaśniczki"
+    ], 
+    "🤼‍♂️": [
+        "mężczyźni uprawiający zapasy", 
+        "mężczyźni", 
+        "sport", 
+        "zapasy", 
+        "zapaśnicy"
+    ], 
+    "🤽": [
+        "osoba grająca w piłkę wodną: typ skóry 3", 
         "osoba grająca w piłkę wodną", 
-        "gra"
+        "osoba grająca w piłkę wodną: typ skóry 6", 
+        "typ skóry 1–2", 
+        "woda", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "osoba grająca w piłkę wodną: typ skóry 1–2", 
+        "typ skóry 3", 
+        "gra", 
+        "sport", 
+        "osoba grająca w piłkę wodną: typ skóry 4", 
+        "osoba grająca w piłkę wodną: typ skóry 5", 
+        "piłka"
+    ], 
+    "🤽‍♀️": [
+        "sport", 
+        "kobieta", 
+        "kobieta grająca w piłkę wodną", 
+        "piłka", 
+        "piłka wodna"
+    ], 
+    "🤽‍♂️": [
+        "mężczyzna grający w piłkę wodną", 
+        "mężczyzna", 
+        "sport", 
+        "piłka wodna", 
+        "piłka"
     ], 
     "🤾": [
-        "sport", 
-        "piłka", 
+        "typ skóry 6", 
+        "typ skóry 1–2", 
+        "osoba grająca w piłkę ręczną: typ skóry 3", 
+        "osoba grająca w piłkę ręczną: typ skóry 6", 
         "osoba grająca w piłkę ręczną", 
-        "gra"
+        "osoba grająca w piłkę ręczną: typ skóry 4", 
+        "osoba grająca w piłkę ręczną: typ skóry 5", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "gra", 
+        "sport", 
+        "osoba grająca w piłkę ręczną: typ skóry 1–2", 
+        "piłka"
+    ], 
+    "🤾‍♀️": [
+        "sport", 
+        "kobieta", 
+        "kobieta grająca w piłkę ręczną", 
+        "piłka ręczna"
+    ], 
+    "🤾‍♂️": [
+        "mężczyzna", 
+        "sport", 
+        "mężczyzna grający w piłkę ręczną", 
+        "piłka ręczna"
     ], 
     "🥀": [
         "kwiat", 
@@ -6832,72 +9315,179 @@
         "zapchane"
     ], 
     "🧑": [
+        "dorosły: typ skóry 1–2", 
+        "typ skóry 1–2", 
+        "typ skóry 6", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "płeć neutralna", 
+        "dorosły: typ skóry 3", 
         "dorosły", 
-        "płeć neutralna"
+        "dorosły: typ skóry 6", 
+        "dorosły: typ skóry 5", 
+        "dorosły: typ skóry 4"
     ], 
     "🧒": [
+        "typ skóry 6", 
+        "dziecko: typ skóry 1–2", 
+        "typ skóry 1–2", 
+        "dziecko: typ skóry 3", 
+        "dziecko: typ skóry 6", 
+        "dziecko: typ skóry 4", 
+        "dziecko: typ skóry 5", 
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "płeć neutralna", 
         "młody", 
-        "dziecko", 
-        "płeć neutralna"
+        "dziecko"
     ], 
     "🧓": [
+        "starszy dorosły: typ skóry 3", 
+        "starszy dorosły: typ skóry 6", 
+        "starszy dorosły: typ skóry 5", 
+        "starszy dorosły: typ skóry 4", 
+        "typ skóry 1–2", 
+        "starszy dorosły: typ skóry 1–2", 
+        "typ skóry 6", 
         "starszy dorosły", 
-        "stary", 
-        "płeć neutralna"
+        "typ skóry 4", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "płeć neutralna", 
+        "stary"
     ], 
     "🧔": [
+        "osoba z brodą: typ skóry 1–2", 
+        "osoba z brodą: typ skóry 6", 
+        "typ skóry 1–2", 
+        "osoba z brodą: typ skóry 5", 
+        "typ skóry 6", 
+        "typ skóry 4", 
         "broda", 
+        "typ skóry 3", 
+        "osoba z brodą: typ skóry 3", 
+        "osoba z brodą: typ skóry 4", 
+        "typ skóry 5", 
         "osoba z brodą"
     ], 
     "🧕": [
+        "typ skóry 1–2", 
+        "kobieta w chuście: typ skóry 1–2", 
+        "typ skóry 4", 
+        "kobieta w chuście: typ skóry 6", 
+        "typ skóry 6", 
         "chusta", 
+        "typ skóry 5", 
+        "typ skóry 3", 
+        "kobieta w chuście: typ skóry 3", 
         "hidżab", 
-        "kobieta w chuście"
+        "kobieta w chuście", 
+        "kobieta w chuście: typ skóry 5", 
+        "kobieta w chuście: typ skóry 4"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "sauna", 
+        "zaparowane pomieszczenie", 
+        "kobieta w zaparowanym pomieszczeniu"
+    ], 
+    "🧖‍♂️": [
         "osoba w zaparowanym pomieszczeniu", 
         "zaparowane pomieszczenie", 
+        "mężczyzna w zaparowanym pomieszczeniu", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "kobieta wspinająca się", 
         "wspinacz", 
         "osoba wspinająca się"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "mężczyzna wspinający się", 
+        "wspinacz"
+    ], 
+    "🧘‍♀️": [
         "joga", 
         "osoba w pozycji lotosu", 
+        "kobieta w pozycji lotosu", 
         "medytacja"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "joga", 
+        "mężczyzna w pozycji lotosu", 
+        "medytacja"
+    ], 
+    "🧙‍♀️": [
+        "kobieta mag", 
+        "czarnoksiężnik", 
         "wiedźma", 
         "czarownica", 
-        "czarodziej", 
         "mag", 
+        "czarodziej"
+    ], 
+    "🧙‍♂️": [
+        "czarodziej", 
+        "mężczyzna mag", 
         "czarnoksiężnik"
     ], 
-    "🧚": [
+    "🧚‍♀️": [
         "Puck", 
         "wróżka", 
         "Oberon", 
+        "kobieta wróżka", 
         "Tytania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "mężczyzna wróżka", 
+        "Puck", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
         "Drakula", 
         "wampir", 
+        "kobieta wampir", 
         "nieumarli"
     ], 
-    "🧜": [
-        "syrena"
+    "🧛‍♂️": [
+        "Drakula", 
+        "mężczyzna wampir", 
+        "nieumarły"
     ], 
-    "🧝": [
+    "🧜‍♀️": [
+        "syrena", 
+        "kobieta syrena"
+    ], 
+    "🧜‍♂️": [
+        "Tryton", 
+        "syrena", 
+        "mężczyzna syrena"
+    ], 
+    "🧝‍♀️": [
+        "magiczny", 
+        "kobieta elf"
+    ], 
+    "🧝‍♂️": [
+        "mężczyzna elf", 
         "elf", 
         "magiczny"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "kobieta dżin", 
         "dżin"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "mężczyzna dżin", 
+        "dżin"
+    ], 
+    "🧟‍♀️": [
+        "kobieta zombie", 
+        "chodzące trupy", 
+        "nieumarli"
+    ], 
+    "🧟‍♂️": [
         "zombie", 
+        "mężczyzna zombie", 
         "chodzące trupy", 
         "nieumarli"
     ], 

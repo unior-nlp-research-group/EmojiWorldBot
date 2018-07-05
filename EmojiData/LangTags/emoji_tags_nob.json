@@ -1,4 +1,127 @@
 {
+    "#️⃣": [
+        "taster", 
+        "taster: #"
+    ], 
+    "*️⃣": [
+        "taster", 
+        "taster: *"
+    ], 
+    "0️⃣": [
+        "taster", 
+        "taster: 0"
+    ], 
+    "1️⃣": [
+        "taster", 
+        "taster: 1"
+    ], 
+    "2️⃣": [
+        "taster", 
+        "taster: 2"
+    ], 
+    "3️⃣": [
+        "taster", 
+        "taster: 3"
+    ], 
+    "4️⃣": [
+        "taster: 4", 
+        "taster"
+    ], 
+    "5️⃣": [
+        "taster: 5", 
+        "taster"
+    ], 
+    "6️⃣": [
+        "taster: 6", 
+        "taster"
+    ], 
+    "7️⃣": [
+        "taster", 
+        "taster: 7"
+    ], 
+    "8️⃣": [
+        "taster", 
+        "taster: 8"
+    ], 
+    "9️⃣": [
+        "taster", 
+        "taster: 9"
+    ], 
+    "©️": [
+        "opphavsrett", 
+        "copyright"
+    ], 
+    "®️": [
+        "registrert varemerke", 
+        "varemerkesymbol"
+    ], 
+    "‼️": [
+        "tegnsetting", 
+        "bangbang", 
+        "tegn", 
+        "utropstegn", 
+        "utrop", 
+        "to utropstegn"
+    ], 
+    "⁉️": [
+        "spørsmålstegn", 
+        "tegnsetting", 
+        "spørsmål", 
+        "tegn", 
+        "spørrende", 
+        "utrop", 
+        "utropstegn og spørsmålstegn", 
+        "utropstegn"
+    ], 
+    "™️": [
+        "tm", 
+        "trademark", 
+        "varemerke"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informasjon"
+    ], 
+    "↔️": [
+        "pil venstre-høyre", 
+        "pil"
+    ], 
+    "↕️": [
+        "pil", 
+        "pil opp-ned"
+    ], 
+    "↖️": [
+        "retning", 
+        "pil opp-venstre", 
+        "pil", 
+        "nordvest"
+    ], 
+    "↗️": [
+        "retning", 
+        "pil", 
+        "pil opp-høyre", 
+        "nordøst"
+    ], 
+    "↘️": [
+        "retning", 
+        "pil ned-høyre", 
+        "pil", 
+        "sørøst"
+    ], 
+    "↙️": [
+        "retning", 
+        "pil ned-venstre", 
+        "pil", 
+        "sørvest"
+    ], 
+    "↩️": [
+        "pil som bøyer mot venstre", 
+        "pil"
+    ], 
+    "↪️": [
+        "pil", 
+        "pil som bøyer mot høyre"
+    ], 
     "⌚": [
         "ur", 
         "armbåndsur"
@@ -6,6 +129,16 @@
     "⌛": [
         "sand", 
         "ferdig timeglass"
+    ], 
+    "⌨️": [
+        "tastatur", 
+        "datamaskin"
+    ], 
+    "⏏️": [
+        "knapp", 
+        "mat ut", 
+        "mate ut", 
+        "eject"
     ], 
     "⏩": [
         "spol raskt frem", 
@@ -31,15 +164,95 @@
         "dobbelt pil ned", 
         "raskt ned"
     ], 
+    "⏭️": [
+        "neste spor", 
+        "pil", 
+        "neste scene", 
+        "triangel"
+    ], 
+    "⏮️": [
+        "pil", 
+        "triangel", 
+        "forrige scene", 
+        "forrige spor"
+    ], 
+    "⏯️": [
+        "pause", 
+        "pil", 
+        "spill av", 
+        "triangel", 
+        "spill av/pause", 
+        "høyre"
+    ], 
     "⏰": [
         "alarm", 
         "klokke", 
         "vekkerklokke"
     ], 
+    "⏱️": [
+        "stoppeklokke", 
+        "klokke"
+    ], 
+    "⏲️": [
+        "tidtaker", 
+        "klokke"
+    ], 
     "⏳": [
         "tidtaker", 
         "sand", 
         "startet timeglass"
+    ], 
+    "⏸️": [
+        "strek", 
+        "pause", 
+        "vertikal", 
+        "dobbel"
+    ], 
+    "⏹️": [
+        "firkant", 
+        "stopp"
+    ], 
+    "⏺️": [
+        "spill inn", 
+        "sirkel"
+    ], 
+    "Ⓜ️": [
+        "M med ring rundt", 
+        "sirkel", 
+        "m"
+    ], 
+    "▪️": [
+        "geometrisk", 
+        "firkant", 
+        "liten svart firkant"
+    ], 
+    "▫️": [
+        "geometrisk", 
+        "liten hvit firkant", 
+        "firkant"
+    ], 
+    "▶️": [
+        "triangel", 
+        "spill av", 
+        "pil", 
+        "høyre"
+    ], 
+    "◀️": [
+        "spol tilbake", 
+        "triangel", 
+        "pil", 
+        "venstre", 
+        "bakover"
+    ], 
+    "◻️": [
+        "geometrisk", 
+        "firkant", 
+        "mellomstor hvit firkant"
+    ], 
+    "◼️": [
+        "geometrisk", 
+        "firkant", 
+        "mellomstor svart firkant"
     ], 
     "◽": [
         "geometrisk", 
@@ -50,6 +263,44 @@
         "geometrisk", 
         "firkant", 
         "liten/mellomstor svart firkant"
+    ], 
+    "☀️": [
+        "solfylt", 
+        "stråler", 
+        "sol", 
+        "verdensrommet", 
+        "vær", 
+        "lyst"
+    ], 
+    "☁️": [
+        "vær", 
+        "sky"
+    ], 
+    "☂️": [
+        "regn", 
+        "klær", 
+        "paraply", 
+        "vær"
+    ], 
+    "☃️": [
+        "kaldt", 
+        "snømann", 
+        "snø", 
+        "vær"
+    ], 
+    "☄️": [
+        "komet", 
+        "verdensrommet"
+    ], 
+    "☎️": [
+        "ringe", 
+        "telefon"
+    ], 
+    "☑️": [
+        "hakemerke", 
+        "stemmeurne med hakemerke", 
+        "stemmeseddel", 
+        "boks"
     ], 
     "☔": [
         "klær", 
@@ -66,6 +317,85 @@
         "te", 
         "kaffe", 
         "varm drikke"
+    ], 
+    "☘️": [
+        "trekløver", 
+        "plante"
+    ], 
+    "☝️": [
+        "kropp", 
+        "opp", 
+        "peker opp", 
+        "pekefinger", 
+        "finger", 
+        "hånd", 
+        "peke"
+    ], 
+    "☠️": [
+        "hodeskalle", 
+        "monster", 
+        "bein", 
+        "dødningehode", 
+        "fjes", 
+        "død"
+    ], 
+    "☢️": [
+        "radioaktiv", 
+        "radioaktivt"
+    ], 
+    "☣️": [
+        "advarsel", 
+        "biologisk fare"
+    ], 
+    "☦️": [
+        "religion", 
+        "kristen", 
+        "ortodoks kors", 
+        "kors"
+    ], 
+    "☪️": [
+        "religion", 
+        "muslim", 
+        "stjerne og halvmåne", 
+        "islam"
+    ], 
+    "☮️": [
+        "fredssymbol", 
+        "fred"
+    ], 
+    "☯️": [
+        "taoist", 
+        "yin yang", 
+        "yin", 
+        "religion", 
+        "yang", 
+        "tao"
+    ], 
+    "☸️": [
+        "hjul", 
+        "dharma", 
+        "religion", 
+        "buddhist", 
+        "dharmahjulet"
+    ], 
+    "☹️": [
+        "fjes", 
+        "surt fjes", 
+        "trist"
+    ], 
+    "☺️": [
+        "fjes", 
+        "smilefjes", 
+        "smil", 
+        "omriss"
+    ], 
+    "♀️": [
+        "kvinnesymbol", 
+        "kvinne"
+    ], 
+    "♂️": [
+        "mannssymbol", 
+        "mann"
     ], 
     "♈": [
         "Væren", 
@@ -115,16 +445,101 @@
         "Fiskene", 
         "stjernetegn"
     ], 
+    "♠️": [
+        "kort", 
+        "spar", 
+        "farge", 
+        "spill"
+    ], 
+    "♣️": [
+        "kort", 
+        "farge", 
+        "kløver", 
+        "spill"
+    ], 
+    "♥️": [
+        "kort", 
+        "farge", 
+        "hjerter", 
+        "spill"
+    ], 
+    "♦️": [
+        "kort", 
+        "ruter", 
+        "farge", 
+        "diamant", 
+        "spill"
+    ], 
+    "♨️": [
+        "varm", 
+        "vame kilder", 
+        "kilder", 
+        "rykende", 
+        "varme kilder"
+    ], 
+    "♻️": [
+        "universelt", 
+        "symbol", 
+        "resirkuleringssymbol", 
+        "resirkulering"
+    ], 
     "♿": [
         "rullestol", 
         "rullestolbruker", 
         "rullestolsymbol", 
         "handikaptilgang"
     ], 
+    "⚒️": [
+        "verktøy", 
+        "hakke", 
+        "hammer og hakke", 
+        "hammer"
+    ], 
     "⚓": [
         "verktøy", 
         "skip", 
         "anker"
+    ], 
+    "⚔️": [
+        "våpen", 
+        "sverd", 
+        "sverd i kryss", 
+        "kryss"
+    ], 
+    "⚕️": [
+        "medisin", 
+        "asklepiosstav", 
+        "lege"
+    ], 
+    "⚖️": [
+        "vekten", 
+        "stjernetegn", 
+        "vekt", 
+        "balanse", 
+        "rettferdighet", 
+        "verktøy", 
+        "likearmet skålvekt"
+    ], 
+    "⚗️": [
+        "destillasjonskolbe", 
+        "verktøy", 
+        "kjemi"
+    ], 
+    "⚙️": [
+        "verktøy", 
+        "tannhjul"
+    ], 
+    "⚛️": [
+        "ateist", 
+        "atom"
+    ], 
+    "⚜️": [
+        "fransk lilje", 
+        "fleur-de-lis"
+    ], 
+    "⚠️": [
+        "advarsel", 
+        "OBS"
     ], 
     "⚡": [
         "fare", 
@@ -142,6 +557,15 @@
         "geometrisk", 
         "svart sirkel", 
         "sirkel"
+    ], 
+    "⚰️": [
+        "kiste", 
+        "død"
+    ], 
+    "⚱️": [
+        "begravelse", 
+        "urne", 
+        "død"
     ], 
     "⚽": [
         "ball", 
@@ -162,19 +586,59 @@
         "sky", 
         "sol"
     ], 
+    "⛈️": [
+        "regn", 
+        "vær", 
+        "sky", 
+        "sky med lyn og regn", 
+        "torden"
+    ], 
     "⛎": [
         "Slangebæreren", 
         "Ophiuchus", 
         "astrologi"
+    ], 
+    "⛏️": [
+        "verktøy", 
+        "hakke", 
+        "gruvedrift"
+    ], 
+    "⛑️": [
+        "hjelm med hvitt kors", 
+        "hjelp", 
+        "hatt", 
+        "fjes", 
+        "hjelm", 
+        "kors"
+    ], 
+    "⛓️": [
+        "kjetting"
     ], 
     "⛔": [
         "ingen adgang", 
         "stopp", 
         "adgang forbudt"
     ], 
+    "⛩️": [
+        "Shinto-alter", 
+        "religion", 
+        "alter", 
+        "shinto"
+    ], 
     "⛪": [
         "kirke", 
         "bygning"
+    ], 
+    "⛰️": [
+        "fjell", 
+        "berg"
+    ], 
+    "⛱️": [
+        "regn", 
+        "vær", 
+        "parasoll på bakken", 
+        "paraply", 
+        "sol"
     ], 
     "⛲": [
         "fontene"
@@ -184,9 +648,27 @@
         "golf", 
         "golfhull"
     ], 
+    "⛴️": [
+        "ferge", 
+        "båt"
+    ], 
     "⛵": [
         "seilbåt", 
         "båt"
+    ], 
+    "⛷️": [
+        "skiløper", 
+        "ski", 
+        "snø"
+    ], 
+    "⛸️": [
+        "is", 
+        "skøyte", 
+        "skøyter"
+    ], 
+    "⛹️‍♂️": [
+        "person med ball", 
+        "ball"
     ], 
     "⛺": [
         "telt", 
@@ -198,25 +680,119 @@
         "bensinpumpe", 
         "stasjon"
     ], 
+    "✂️": [
+        "verktøy", 
+        "saks"
+    ], 
     "✅": [
         "avkryssing", 
         "hvitt hakemerke", 
         "avmerking"
     ], 
+    "✈️": [
+        "fly", 
+        "fremkomstmiddel"
+    ], 
+    "✉️": [
+        "konvolutt", 
+        "e-post"
+    ], 
     "✊": [
+        "hevet knyttneve: hudtype 1–2", 
+        "knyttet neve", 
+        "hudtype 1–2", 
+        "hevet knyttneve: hudtype 6", 
         "neve", 
+        "hevet knyttneve: hudtype 3", 
+        "hevet knyttneve: hudtype 5", 
+        "hevet knyttneve: hudtype 4", 
+        "hudtype 3", 
         "hevet knyttneve", 
-        "knyttet neve"
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "✋": [
-        "flat hånd", 
         "hevet hånd", 
-        "håndflate"
+        "flat hånd", 
+        "hudtype 1–2", 
+        "håndflate", 
+        "hevet hånd: hudtype 1–2", 
+        "hevet hånd: hudtype 3", 
+        "hevet hånd: hudtype 6", 
+        "hevet hånd: hudtype 5", 
+        "hevet hånd: hudtype 4", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
+    ], 
+    "✌️": [
+        "peace-tegn", 
+        "seierstegn"
+    ], 
+    "✍️": [
+        "skrive", 
+        "kropp", 
+        "skrivende hånd", 
+        "hånd"
+    ], 
+    "✏️": [
+        "blyant"
+    ], 
+    "✒️": [
+        "penn", 
+        "pennespiss", 
+        "svart pennesplitt"
+    ], 
+    "✔️": [
+        "fremhevet hakemerke", 
+        "hake", 
+        "hakemerke", 
+        "merke"
+    ], 
+    "✖️": [
+        "avbryt", 
+        "x", 
+        "multiplikasjon", 
+        "fremhevet gangetegn", 
+        "multiplisere"
+    ], 
+    "✝️": [
+        "religion", 
+        "kristen", 
+        "latinsk kors", 
+        "kors"
+    ], 
+    "✡️": [
+        "jødisk", 
+        "david", 
+        "Davidstjernen", 
+        "religion", 
+        "stjerne", 
+        "jøde"
     ], 
     "✨": [
         "stjerner", 
         "glitrende", 
         "skinnende"
+    ], 
+    "✳️": [
+        "stjerne med åtte eiker", 
+        "asterisk"
+    ], 
+    "✴️": [
+        "åttekantet stjerne", 
+        "stjerne"
+    ], 
+    "❄️": [
+        "snøfnugg", 
+        "kaldt", 
+        "snø", 
+        "vær"
+    ], 
+    "❇️": [
+        "gnist"
     ], 
     "❌": [
         "«X»", 
@@ -245,6 +821,18 @@
         "tegn", 
         "utrop"
     ], 
+    "❣️": [
+        "utropstegn med hjerte", 
+        "tegnsetting", 
+        "tegn", 
+        "uttrop", 
+        "hjerte", 
+        "uttropstegn"
+    ], 
+    "❤️": [
+        "hjerte", 
+        "rødt hjerte"
+    ], 
     "➕": [
         "plusstegn", 
         "fremhevet plusstegn"
@@ -258,6 +846,12 @@
         "deletegn", 
         "divisjonstegn"
     ], 
+    "➡️": [
+        "øst", 
+        "retning", 
+        "pil høyre", 
+        "pil"
+    ], 
     "➰": [
         "løkketegn", 
         "løkke"
@@ -265,6 +859,33 @@
     "➿": [
         "dobbel løkke", 
         "dobbel løkke-tegn"
+    ], 
+    "⤴️": [
+        "pil som bøyer opp", 
+        "pil"
+    ], 
+    "⤵️": [
+        "ned", 
+        "pil", 
+        "pil som bøyer ned"
+    ], 
+    "⬅️": [
+        "retning", 
+        "vest", 
+        "pil", 
+        "pil venstre"
+    ], 
+    "⬆️": [
+        "retning", 
+        "pil opp", 
+        "pil", 
+        "nord"
+    ], 
+    "⬇️": [
+        "retning", 
+        "pil ned", 
+        "sør", 
+        "pil"
     ], 
     "⬛": [
         "geometrisk", 
@@ -285,6 +906,29 @@
         "sirkel", 
         "o"
     ], 
+    "〰️": [
+        "bølget bindestrek", 
+        "tegn for lang lyd", 
+        "bølgestrek", 
+        "bølge"
+    ], 
+    "〽️": [
+        "delvis alternering", 
+        "delvis", 
+        "merke"
+    ], 
+    "㊗️": [
+        "gratulasjon", 
+        "ideografi", 
+        "kinesisk", 
+        "«gratulerer» på japansk"
+    ], 
+    "㊙️": [
+        "ideografi", 
+        "hemmelig", 
+        "kinesisk", 
+        "«hemmelig» på japansk"
+    ], 
     "🀄": [
         "dominobrikke", 
         "mahjongbrikke med rød drage"
@@ -294,6 +938,31 @@
         "kort", 
         "spillkort", 
         "jokerkort"
+    ], 
+    "🅰️": [
+        "A", 
+        "blod", 
+        "blodtype A", 
+        "type A", 
+        "blodtype"
+    ], 
+    "🅱️": [
+        "blod", 
+        "B", 
+        "type B", 
+        "blodtype B", 
+        "blodtype"
+    ], 
+    "🅾️": [
+        "type O", 
+        "blodtype O", 
+        "blod", 
+        "O", 
+        "blodtype"
+    ], 
+    "🅿️": [
+        "P", 
+        "parkeringsplass"
     ], 
     "🆎": [
         "blod", 
@@ -1389,6 +2058,12 @@
         "katakana", 
         "«her» på japansk"
     ], 
+    "🈂️": [
+        "«gebyr» på japansk", 
+        "«sa»", 
+        "katakana", 
+        "stavelse"
+    ], 
     "🈚": [
         "«gratis» på japansk", 
         "er ikke", 
@@ -1428,6 +2103,11 @@
         "ideograf", 
         "«ikke gratis» på japansk", 
         "være"
+    ], 
+    "🈷️": [
+        "ideograf", 
+        "«månedlig beløp» på japansk", 
+        "måne"
     ], 
     "🈸": [
         "ideograf", 
@@ -1630,6 +2310,66 @@
         "fallende stjerne", 
         "stjerneskudd"
     ], 
+    "🌡️": [
+        "vær", 
+        "termometer"
+    ], 
+    "🌤️": [
+        "sol bak liten sky", 
+        "sky", 
+        "sol", 
+        "vær"
+    ], 
+    "🌥️": [
+        "vær", 
+        "sky", 
+        "sol", 
+        "sol bak stor sky"
+    ], 
+    "🌦️": [
+        "regn", 
+        "vær", 
+        "sol bak sky med regn", 
+        "sky", 
+        "sol"
+    ], 
+    "🌧️": [
+        "regn", 
+        "vær", 
+        "sky", 
+        "sky med regn"
+    ], 
+    "🌨️": [
+        "kaldt", 
+        "sky", 
+        "vær", 
+        "snø", 
+        "sky med snø"
+    ], 
+    "🌩️": [
+        "vær", 
+        "lyn", 
+        "sky med lyn", 
+        "sky"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "vær", 
+        "sky"
+    ], 
+    "🌫️": [
+        "tåke", 
+        "sky", 
+        "vær"
+    ], 
+    "🌬️": [
+        "blåse", 
+        "sky", 
+        "vind", 
+        "vindansikt", 
+        "fjes", 
+        "vær"
+    ], 
     "🌭": [
         "frankfurterpølse", 
         "pølse med brød", 
@@ -1669,6 +2409,12 @@
     ], 
     "🌵": [
         "kaktus", 
+        "plante"
+    ], 
+    "🌶️": [
+        "chili", 
+        "rød chili", 
+        "sterk", 
         "plante"
     ], 
     "🌷": [
@@ -2035,6 +2781,13 @@
         "babyflaske", 
         "melk"
     ], 
+    "🍽️": [
+        "tallerken med kniv og gaffel", 
+        "matlaging", 
+        "gaffel", 
+        "kniv", 
+        "tallerken"
+    ], 
     "🍾": [
         "flaske", 
         "kork", 
@@ -2078,11 +2831,21 @@
         "høytid"
     ], 
     "🎅": [
-        "julenissen", 
+        "julenissen: hudtype 1–2", 
         "nissefar", 
-        "nissen", 
+        "hudtype 1–2", 
         "feiring", 
-        "jul"
+        "jul", 
+        "julenissen", 
+        "julenissen: hudtype 3", 
+        "julenissen: hudtype 6", 
+        "hudtype 4", 
+        "julenissen: hudtype 4", 
+        "julenissen: hudtype 5", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "nissen", 
+        "hudtype 5"
     ], 
     "🎆": [
         "nyttår", 
@@ -2164,6 +2927,45 @@
         "feiring", 
         "uteksaminering", 
         "hatt"
+    ], 
+    "🎖️": [
+        "militærmedalje", 
+        "feiring", 
+        "militæret"
+    ], 
+    "🎗️": [
+        "bånd", 
+        "feiring", 
+        "påminnelse", 
+        "minnesløyfe"
+    ], 
+    "🎙️": [
+        "studiomikrofon", 
+        "studio", 
+        "mikrofon", 
+        "musikk"
+    ], 
+    "🎚️": [
+        "glidebryter", 
+        "nivå", 
+        "musikk"
+    ], 
+    "🎛️": [
+        "kontroll", 
+        "kontrollbrytere", 
+        "musikk", 
+        "knott"
+    ], 
+    "🎞️": [
+        "kino", 
+        "rammer", 
+        "filmruter", 
+        "film"
+    ], 
+    "🎟️": [
+        "adgang", 
+        "inngangsbilletter", 
+        "billett"
     ], 
     "🎠": [
         "karusellhest", 
@@ -2361,22 +3163,49 @@
         "rutete flagg"
     ], 
     "🏂": [
+        "snowboarder: hudtype 3", 
         "snowboarder", 
+        "hudtype 1–2", 
+        "snowboarder: hudtype 1–2", 
         "snøbrett", 
+        "snowboarder: hudtype 5", 
+        "snowboarder: hudtype 4", 
         "snowboard", 
+        "snowboarder: hudtype 6", 
         "snøbrettkjøring", 
+        "hudtype 3", 
         "snowboarding", 
-        "vintersport"
+        "hudtype 6", 
+        "vintersport", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "jogge", 
+        "kvinne", 
+        "løpe", 
+        "kvinnelig løper"
+    ], 
+    "🏃‍♂️": [
+        "løpe", 
         "jogger", 
+        "mannlig løper", 
+        "jogge", 
         "jogging", 
-        "sport", 
         "løper", 
+        "mann", 
+        "sport", 
         "marathon"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "kvinne", 
+        "kvinnelig surfer", 
+        "surfer"
+    ], 
+    "🏄‍♂️": [
+        "mannlig surfer", 
         "sport", 
+        "mann", 
         "surfer"
     ], 
     "🏅": [
@@ -2388,12 +3217,22 @@
         "trofé"
     ], 
     "🏇": [
+        "hesteveddeløp: hudtype 1–2", 
         "jockey", 
         "hest", 
+        "hudtype 1–2", 
+        "hesteveddeløp: hudtype 4", 
+        "hesteveddeløp: hudtype 5", 
+        "hesteveddeløp: hudtype 6", 
         "løp", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hesteveddeløp: hudtype 3", 
+        "hudtype 3", 
         "sport", 
         "veddeløpshest", 
-        "hesteveddeløp"
+        "hesteveddeløp", 
+        "hudtype 5"
     ], 
     "🏈": [
         "ball", 
@@ -2405,10 +3244,37 @@
         "rugbyball", 
         "rugby"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "svømmer", 
+        "kvinne", 
+        "svømme", 
+        "kvinnelig svømmer"
+    ], 
+    "🏊‍♂️": [
         "svømmer", 
         "sport", 
-        "svømme"
+        "mann", 
+        "svømme", 
+        "mannlig svømmer"
+    ], 
+    "🏋️‍♂️": [
+        "vekt", 
+        "vektløfter", 
+        "løfter"
+    ], 
+    "🏌️‍♂️": [
+        "golfspiller", 
+        "ball", 
+        "golf"
+    ], 
+    "🏍️": [
+        "kappkjøring", 
+        "motorsykkel"
+    ], 
+    "🏎️": [
+        "racerbil", 
+        "bil", 
+        "kappkjøring"
     ], 
     "🏏": [
         "balltre", 
@@ -2445,6 +3311,64 @@
         "kamp", 
         "racket", 
         "bord"
+    ], 
+    "🏔️": [
+        "fjell", 
+        "kaldt", 
+        "snø", 
+        "snødekt fjell"
+    ], 
+    "🏕️": [
+        "telttur", 
+        "camping"
+    ], 
+    "🏖️": [
+        "parasoll", 
+        "strand med parasoll", 
+        "strand"
+    ], 
+    "🏗️": [
+        "bygging", 
+        "bygning under konstruksjon", 
+        "bygning"
+    ], 
+    "🏘️": [
+        "boliger", 
+        "hus", 
+        "bygning"
+    ], 
+    "🏙️": [
+        "bygging", 
+        "bylandskap", 
+        "bygning"
+    ], 
+    "🏚️": [
+        "hus", 
+        "forlatt", 
+        "falleferdig hus", 
+        "falleferdig", 
+        "bygning"
+    ], 
+    "🏛️": [
+        "klassisk", 
+        "klassisk bygning", 
+        "bygning"
+    ], 
+    "🏜️": [
+        "ørken"
+    ], 
+    "🏝️": [
+        "øy", 
+        "øde øy", 
+        "øde"
+    ], 
+    "🏞️": [
+        "park", 
+        "nasjonalpark"
+    ], 
+    "🏟️": [
+        "arena", 
+        "stadion"
     ], 
     "🏠": [
         "hjem", 
@@ -2532,6 +3456,16 @@
         "slott", 
         "bygning"
     ], 
+    "🏳️": [
+        "flagg", 
+        "flagring", 
+        "flagrende hvitt flagg"
+    ], 
+    "🏳️‍🌈": [
+        "flagg", 
+        "regnbueflagg", 
+        "regnbue"
+    ], 
     "🏴": [
         "flagg", 
         "flagring", 
@@ -2548,6 +3482,14 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "flagg", 
         "Wales"
+    ], 
+    "🏵️": [
+        "rosett", 
+        "plante"
+    ], 
+    "🏷️": [
+        "etikett", 
+        "merke"
     ], 
     "🏸": [
         "racket", 
@@ -2917,18 +3859,47 @@
         "dyr", 
         "poteavtrykk"
     ], 
+    "🐿️": [
+        "ekorn", 
+        "dyr", 
+        "jordekorn"
+    ], 
     "👀": [
         "fjes", 
         "øyne"
     ], 
+    "👁️": [
+        "kropp", 
+        "øye"
+    ], 
     "👂": [
         "øre", 
-        "kropp"
+        "kropp", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "øre: hudtype 4", 
+        "øre: hudtype 5", 
+        "øre: hudtype 6", 
+        "øre: hudtype 3", 
+        "hudtype 3", 
+        "øre: hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👃": [
-        "fjes", 
+        "nese: hudtype 3", 
         "kropp", 
-        "nese"
+        "nese: hudtype 6", 
+        "nese: hudtype 5", 
+        "nese: hudtype 4", 
+        "hudtype 1–2", 
+        "fjes", 
+        "hudtype 4", 
+        "hudtype 3", 
+        "nese: hudtype 1–2", 
+        "hudtype 6", 
+        "nese", 
+        "hudtype 5"
     ], 
     "👄": [
         "fjes", 
@@ -2942,66 +3913,176 @@
         "kropp"
     ], 
     "👆": [
+        "peker opp – bakhånd: hudtype 4", 
+        "peker opp", 
+        "peker opp – bakhånd: hudtype 6", 
+        "hudtype 1–2", 
+        "peker opp – bakhånd: hudtype 1–2", 
+        "peker opp – bakhånd: hudtype 3", 
         "pekende finger", 
-        "peker opp – bakhånd", 
         "finger", 
-        "peker opp"
+        "peker opp – bakhånd", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "peker opp – bakhånd: hudtype 5", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👇": [
-        "pekende finger", 
-        "finger", 
+        "peker ned – bakhånd: hudtype 4", 
+        "peker ned – bakhånd: hudtype 1–2", 
+        "hudtype 1–2", 
         "peker ned – bakhånd", 
+        "pekende finger", 
+        "peker ned – bakhånd: hudtype 3", 
+        "peker ned – bakhånd: hudtype 5", 
+        "finger", 
+        "peker ned – bakhånd: hudtype 6", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
         "peker ned"
     ], 
     "👈": [
-        "pekende finger", 
+        "peker mot venstre – bakhånd: hudtype 6", 
+        "peker mot venstre – bakhånd: hudtype 1–2", 
         "peker venstre", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "pekende finger", 
         "finger", 
+        "hudtype 3", 
+        "peker mot venstre – bakhånd: hudtype 3", 
+        "hudtype 5", 
+        "peker mot venstre – bakhånd: hudtype 5", 
+        "peker mot venstre – bakhånd: hudtype 4", 
+        "hudtype 4", 
         "peker mot venstre – bakhånd"
     ], 
     "👉": [
+        "peker mot høyre – bakhånd: hudtype 3", 
+        "hudtype 1–2", 
+        "peker mot høyre – bakhånd: hudtype 6", 
+        "peker mot høyre – bakhånd: hudtype 1–2", 
+        "peker mot høyre – bakhånd: hudtype 5", 
         "peker mot høyre – bakhånd", 
         "pekende finger", 
+        "peker mot høyre – bakhånd: hudtype 4", 
         "finger", 
-        "peker opp"
+        "peker opp", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👊": [
+        "knyttneve: hudtype 1–2", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "hånd", 
         "neve", 
+        "hudtype 3", 
         "knyttneve", 
-        "hånd"
+        "knyttneve: hudtype 3", 
+        "knyttneve: hudtype 6", 
+        "knyttneve: hudtype 5", 
+        "knyttneve: hudtype 4", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👋": [
-        "vinke", 
         "vinkede hånd", 
-        "vinking"
+        "vinkede hånd: hudtype 1–2", 
+        "hudtype 1–2", 
+        "vinke", 
+        "hudtype 4", 
+        "vinkede hånd: hudtype 4", 
+        "vinkede hånd: hudtype 5", 
+        "hudtype 3", 
+        "vinkede hånd: hudtype 6", 
+        "hudtype 6", 
+        "vinking", 
+        "vinkede hånd: hudtype 3", 
+        "hudtype 5"
     ], 
     "👌": [
-        "OK-hånd", 
+        "hudtype 5", 
         "OK", 
+        "hudtype 1–2", 
         "tegn", 
-        "hånd"
+        "OK-hånd: hudtype 1–2", 
+        "OK-hånd: hudtype 5", 
+        "hånd", 
+        "OK-hånd: hudtype 3", 
+        "hudtype 3", 
+        "OK-hånd", 
+        "hudtype 6", 
+        "OK-hånd: hudtype 6", 
+        "hudtype 4", 
+        "OK-hånd: hudtype 4"
     ], 
     "👍": [
         "tommel", 
-        "tommel opp", 
+        "hudtype 1–2", 
+        "tommel opp: hudtype 4", 
         "tegn", 
-        "hånd"
+        "tommel opp: hudtype 3", 
+        "tommel opp", 
+        "tommel opp: hudtype 6", 
+        "tommel opp: hudtype 5", 
+        "hånd", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "tommel opp: hudtype 1–2"
     ], 
     "👎": [
+        "tommel ned: hudtype 5", 
+        "tommel ned: hudtype 4", 
+        "tommel ned: hudtype 6", 
+        "tommel ned: hudtype 3", 
         "tommel", 
-        "tommel ned", 
+        "hudtype 1–2", 
         "tegn", 
-        "hånd"
+        "tommel ned", 
+        "tommel ned: hudtype 1–2", 
+        "hånd", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👏": [
         "klappende hender", 
         "klapping", 
-        "hender"
+        "hudtype 1–2", 
+        "hender", 
+        "klappende hender: hudtype 1–2", 
+        "klappende hender: hudtype 6", 
+        "klappende hender: hudtype 4", 
+        "klappende hender: hudtype 5", 
+        "klappende hender: hudtype 3", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👐": [
+        "åpne hender: hudtype 4", 
+        "hudtype 6", 
+        "hudtype 1–2", 
         "hender", 
+        "hudtype 5", 
         "åpne", 
-        "åpne hender"
+        "åpne hender: hudtype 6", 
+        "hudtype 3", 
+        "åpne hender: hudtype 5", 
+        "åpne hender", 
+        "åpne hender: hudtype 3", 
+        "hudtype 4", 
+        "åpne hender: hudtype 1–2"
     ], 
     "👑": [
         "klær", 
@@ -3112,63 +4193,199 @@
         "menneske"
     ], 
     "👦": [
+        "menneske", 
+        "gutt: hudtype 1–2", 
+        "gutt: hudtype 6", 
+        "gutt: hudtype 3", 
+        "hudtype 1–2", 
         "gutt", 
-        "menneske"
+        "gutt: hudtype 4", 
+        "gutt: hudtype 5", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👧": [
+        "jente: hudtype 3", 
+        "jente: hudtype 5", 
+        "menneske", 
+        "jente: hudtype 4", 
+        "hudtype 1–2", 
+        "jente: hudtype 1–2", 
+        "jente: hudtype 6", 
+        "hudtype 3", 
         "jente", 
-        "menneske"
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👨": [
         "menneske", 
+        "mann: hudtype 1–2", 
+        "hudtype 1–2", 
+        "mann: hudtype 3", 
+        "mann: hudtype 4", 
+        "mann: hudtype 5", 
+        "mann: hudtype 6", 
+        "hudtype 4", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "mann", 
+        "hudtype 5"
+    ], 
+    "👨‍⚕️": [
+        "helsevesen", 
+        "mannlig lege", 
+        "lege", 
+        "mann", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "mannlig dommer", 
+        "jus", 
+        "mann", 
+        "dommer", 
+        "rettssak"
+    ], 
+    "👨‍✈️": [
+        "fly", 
+        "mannlig pilot", 
+        "mann", 
+        "pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "par med hjerte: mann, mann", 
+        "par med hjerte", 
+        "romantikk", 
+        "mennesker", 
+        "hjerte", 
+        "mann"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "kyss", 
+        "kyssing", 
+        "romantikk", 
+        "mennesker", 
+        "kyss: mann, mann", 
         "mann"
     ], 
     "👨‍🌾": [
+        "mannlig bonde: hudtype 6", 
+        "dyrke", 
+        "mannlig bonde: hudtype 1–2", 
+        "hudtype 6", 
+        "hudtype 1–2", 
         "bonde", 
         "jordbruk", 
-        "dyrke", 
+        "hudtype 4", 
+        "mannlig bonde", 
+        "hudtype 3", 
+        "mannlig bonde: hudtype 5", 
+        "mannlig bonde: hudtype 4", 
+        "mannlig bonde: hudtype 3", 
         "mann", 
-        "mannlig bonde"
+        "hudtype 5"
     ], 
     "👨‍🍳": [
-        "mannlig kokk", 
         "matlaging", 
+        "mannlig kokk: hudtype 1–2", 
+        "restaurant", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "mannlig kokk: hudtype 5", 
+        "mannlig kokk: hudtype 4", 
+        "hudtype 3", 
+        "mannlig kokk", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "mannlig kokk: hudtype 6", 
         "mann", 
-        "restaurant"
+        "mannlig kokk: hudtype 3"
     ], 
     "👨‍🎓": [
-        "student", 
+        "mannlig student: hudtype 4", 
+        "hudtype 6", 
+        "hudtype 1–2", 
         "universitet", 
-        "mannlig student", 
+        "hudtype 4", 
+        "mannlig student: hudtype 3", 
+        "mannlig student: hudtype 6", 
         "skole", 
-        "mann"
+        "student", 
+        "mannlig student: hudtype 5", 
+        "hudtype 3", 
+        "mannlig student: hudtype 1–2", 
+        "mannlig student", 
+        "mann", 
+        "hudtype 5"
     ], 
     "👨‍🎤": [
+        "mannlig artist: hudtype 5", 
         "mannlig artist", 
+        "mannlig artist: hudtype 6", 
+        "mannlig artist: hudtype 1–2", 
+        "mannlig artist: hudtype 3", 
+        "artist", 
+        "mannlig artist: hudtype 4", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 3", 
         "sanger", 
+        "hudtype 6", 
         "konsert", 
         "mann", 
-        "artist"
+        "hudtype 5"
     ], 
     "👨‍🎨": [
-        "kunstner", 
+        "mannlig kunstner: hudtype 3", 
         "mannlig kunstner", 
+        "mannlig kunstner: hudtype 4", 
+        "mannlig kunstner: hudtype 5", 
+        "hudtype 1–2", 
+        "mannlig kunstner: hudtype 6", 
+        "kunstner", 
+        "hudtype 4", 
+        "mannlig kunstner: hudtype 1–2", 
+        "hudtype 3", 
+        "hudtype 6", 
         "maler", 
-        "mann"
+        "mann", 
+        "hudtype 5"
     ], 
     "👨‍🏫": [
-        "lærer", 
+        "mannlig lærer: hudtype 1–2", 
         "undervisning", 
         "mannlig lærer", 
+        "hudtype 4", 
+        "mannlig lærer: hudtype 3", 
+        "mannlig lærer: hudtype 4", 
         "skole", 
-        "mann"
+        "mannlig lærer: hudtype 6", 
+        "lærer", 
+        "hudtype 3", 
+        "mannlig lærer: hudtype 5", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "mann", 
+        "hudtype 5"
     ], 
     "👨‍🏭": [
-        "mannlig industriarbeider", 
-        "industri", 
+        "hudtype 6", 
+        "hudtype 1–2", 
         "fabrikk", 
+        "mannlig industriarbeider: hudtype 3", 
+        "mannlig industriarbeider: hudtype 6", 
+        "hudtype 4", 
+        "mannlig industriarbeider: hudtype 1–2", 
+        "mannlig industriarbeider", 
+        "hudtype 3", 
+        "industri", 
+        "mannlig industriarbeider: hudtype 5", 
+        "mannlig industriarbeider: hudtype 4", 
+        "produksjon", 
         "mann", 
-        "produksjon"
+        "hudtype 5"
     ], 
     "👨‍👦": [
         "far", 
@@ -3330,95 +4547,289 @@
     ], 
     "👨‍💻": [
         "mannlig IT-ekspert", 
-        "data", 
+        "mannlig IT-ekspert: hudtype 3", 
+        "mannlig IT-ekspert: hudtype 6", 
+        "mannlig IT-ekspert: hudtype 4", 
+        "mannlig IT-ekspert: hudtype 5", 
+        "hudtype 6", 
+        "hudtype 1–2", 
         "IT", 
+        "mannlig IT-ekspert: hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "data", 
         "mann", 
         "teknologi"
     ], 
     "👨‍💼": [
         "næringsliv", 
         "kontor", 
+        "mannlig kontorarbeider: hudtype 5", 
+        "hudtype 1–2", 
+        "hudtype 5", 
         "mannlig kontorarbeider", 
-        "mann"
+        "hudtype 4", 
+        "mannlig kontorarbeider: hudtype 3", 
+        "hudtype 3", 
+        "mannlig kontorarbeider: hudtype 4", 
+        "hudtype 6", 
+        "mannlig kontorarbeider: hudtype 6", 
+        "mann", 
+        "mannlig kontorarbeider: hudtype 1–2"
     ], 
     "👨‍🔧": [
-        "mekaniker", 
-        "motor", 
         "bil", 
+        "mekaniker", 
+        "mannlig mekaniker: hudtype 5", 
         "mannlig mekaniker", 
-        "mann"
+        "mannlig mekaniker: hudtype 1–2", 
+        "mannlig mekaniker: hudtype 3", 
+        "mannlig mekaniker: hudtype 6", 
+        "mannlig mekaniker: hudtype 4", 
+        "hudtype 4", 
+        "motor", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "mann", 
+        "hudtype 5"
     ], 
     "👨‍🔬": [
         "mannlig forsker", 
-        "vitenskap", 
+        "mannlig forsker: hudtype 3", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "mannlig forsker: hudtype 6", 
+        "hudtype 5", 
+        "kjemi", 
+        "hudtype 4", 
+        "mannlig forsker: hudtype 5", 
         "laboratorium", 
+        "hudtype 3", 
+        "mannlig forsker: hudtype 4", 
+        "vitenskap", 
         "mann", 
-        "kjemi"
+        "mannlig forsker: hudtype 1–2"
     ], 
     "👨‍🚀": [
-        "romfart", 
+        "mannlig astronaut: hudtype 3", 
+        "mannlig astronaut: hudtype 4", 
+        "mannlig astronaut: hudtype 5", 
+        "mannlig astronaut: hudtype 6", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "hudtype 4", 
         "verdensrommet", 
         "astronaut", 
+        "mann", 
+        "mannlig astronaut: hudtype 1–2", 
+        "hudtype 3", 
+        "romfart", 
         "mannlig astronaut", 
-        "mann"
+        "hudtype 5"
     ], 
     "👨‍🚒": [
-        "mann", 
         "brannvesenet", 
+        "mannlig brannkonstabel: hudtype 1–2", 
+        "mannlig brannkonstabel: hudtype 6", 
+        "hudtype 1–2", 
+        "mannlig brannkonstabel: hudtype 5", 
+        "mannlig brannkonstabel: hudtype 3", 
+        "hudtype 4", 
         "mannlig brannkonstabel", 
+        "brannkonstabel", 
         "brannmann", 
-        "brannkonstabel"
+        "hudtype 3", 
+        "hudtype 6", 
+        "mannlig brannkonstabel: hudtype 4", 
+        "mann", 
+        "hudtype 5"
     ], 
     "👩": [
+        "menneske", 
+        "hudtype 1–2", 
+        "hudtype 5", 
         "kvinne", 
-        "menneske"
+        "kvinne: hudtype 5", 
+        "kvinne: hudtype 3", 
+        "hudtype 3", 
+        "kvinne: hudtype 4", 
+        "hudtype 6", 
+        "kvinne: hudtype 6", 
+        "hudtype 4", 
+        "kvinne: hudtype 1–2"
+    ], 
+    "👩‍⚕️": [
+        "helsevesen", 
+        "kvinnelig lege", 
+        "kvinne", 
+        "lege", 
+        "doktor"
+    ], 
+    "👩‍⚖️": [
+        "jus", 
+        "kvinne", 
+        "kvinnelig dommer", 
+        "dommer", 
+        "rettssak"
+    ], 
+    "👩‍✈️": [
+        "fly", 
+        "kvinne", 
+        "kvinnelig pilot", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "par med hjerte", 
+        "romantikk", 
+        "mennesker", 
+        "kvinne", 
+        "par med hjerte: kvinne, mann", 
+        "hjerte", 
+        "mann"
+    ], 
+    "👩‍❤️‍👩": [
+        "par med hjerte", 
+        "par med hjerte: kvinne, kvinne", 
+        "mennesker", 
+        "kvinne", 
+        "romantikk", 
+        "hjerte"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "kyss", 
+        "kyssing", 
+        "romantikk", 
+        "mennesker", 
+        "kvinne", 
+        "kyss: kvinne, mann", 
+        "mann"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "kyss", 
+        "kyssing", 
+        "romantikk", 
+        "mennesker", 
+        "kvinne", 
+        "kyss: kvinne, kvinne"
     ], 
     "👩‍🌾": [
-        "kvinnelig bonde", 
+        "dyrke", 
+        "hudtype 1–2", 
+        "kvinnelig bonde: hudtype 6", 
+        "hudtype 4", 
         "bonde", 
         "jordbruk", 
-        "dyrke", 
-        "kvinne"
+        "kvinne", 
+        "kvinnelig bonde", 
+        "hudtype 3", 
+        "kvinnelig bonde: hudtype 4", 
+        "kvinnelig bonde: hudtype 5", 
+        "hudtype 6", 
+        "kvinnelig bonde: hudtype 3", 
+        "kvinnelig bonde: hudtype 1–2", 
+        "hudtype 5"
     ], 
     "👩‍🍳": [
         "matlaging", 
-        "kvinne", 
         "kvinnelig kokk", 
-        "restaurant"
+        "restaurant", 
+        "hudtype 1–2", 
+        "hudtype 5", 
+        "kvinne", 
+        "kvinnelig kokk: hudtype 5", 
+        "kvinnelig kokk: hudtype 3", 
+        "hudtype 3", 
+        "kvinnelig kokk: hudtype 4", 
+        "hudtype 6", 
+        "kvinnelig kokk: hudtype 6", 
+        "hudtype 4", 
+        "kvinnelig kokk: hudtype 1–2"
     ], 
     "👩‍🎓": [
-        "kvinnelig student", 
+        "kvinnelig student: hudtype 1–2", 
+        "kvinnelig student: hudtype 5", 
+        "hudtype 1–2", 
         "universitet", 
+        "kvinnelig student: hudtype 3", 
+        "kvinnelig student", 
         "kvinne", 
-        "skole", 
-        "student"
+        "student", 
+        "kvinnelig student: hudtype 4", 
+        "hudtype 3", 
+        "kvinnelig student: hudtype 6", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "skole"
     ], 
     "👩‍🎤": [
-        "kvinnelig artist", 
         "sangerinne", 
+        "artist", 
+        "kvinnelig artist", 
+        "hudtype 1–2", 
+        "kvinnelig artist: hudtype 5", 
+        "kvinnelig artist: hudtype 3", 
+        "kvinnelig artist: hudtype 4", 
+        "kvinnelig artist: hudtype 6", 
         "kvinne", 
+        "hudtype 3", 
+        "kvinnelig artist: hudtype 1–2", 
+        "hudtype 6", 
         "konsert", 
-        "artist"
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👩‍🎨": [
+        "kvinnelig kunstner: hudtype 1–2", 
+        "maler", 
+        "kvinnelig kunstner", 
         "kunstner", 
         "kvinne", 
-        "maler", 
-        "kvinnelig kunstner"
+        "kvinnelig kunstner: hudtype 5", 
+        "kvinnelig kunstner: hudtype 4", 
+        "kvinnelig kunstner: hudtype 3", 
+        "kvinnelig kunstner: hudtype 6", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👩‍🏫": [
-        "lærer", 
+        "kvinnelig lærer", 
         "undervisning", 
+        "hudtype 1–2", 
+        "kvinnelig lærer: hudtype 6", 
+        "kvinnelig lærer: hudtype 3", 
         "kvinne", 
         "skole", 
-        "kvinnelig lærer"
+        "kvinnelig lærer: hudtype 5", 
+        "kvinnelig lærer: hudtype 4", 
+        "lærer", 
+        "hudtype 3", 
+        "kvinnelig lærer: hudtype 1–2", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👩‍🏭": [
-        "industri", 
-        "kvinne", 
-        "produksjon", 
+        "kvinnelig industriarbeider: hudtype 3", 
+        "kvinnelig industriarbeider: hudtype 5", 
+        "kvinnelig industriarbeider: hudtype 4", 
+        "kvinnelig industriarbeider: hudtype 6", 
+        "kvinnelig industriarbeider: hudtype 1–2", 
+        "hudtype 1–2", 
         "fabrikk", 
-        "kvinnelig industriarbeider"
+        "kvinnelig industriarbeider", 
+        "kvinne", 
+        "hudtype 3", 
+        "industri", 
+        "hudtype 6", 
+        "produksjon", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👩‍👦": [
         "far", 
@@ -3523,52 +4934,105 @@
         "barn"
     ], 
     "👩‍💻": [
-        "kvinne", 
-        "data", 
+        "kvinnelig IT-ekspert: hudtype 1–2", 
+        "kvinnelig IT-ekspert: hudtype 5", 
+        "hudtype 1–2", 
         "IT", 
-        "teknologi", 
-        "kvinnelig IT-ekspert"
+        "kvinnelig IT-ekspert", 
+        "kvinne", 
+        "hudtype 6", 
+        "kvinnelig IT-ekspert: hudtype 6", 
+        "hudtype 3", 
+        "kvinnelig IT-ekspert: hudtype 3", 
+        "hudtype 5", 
+        "data", 
+        "kvinnelig IT-ekspert: hudtype 4", 
+        "hudtype 4", 
+        "teknologi"
     ], 
     "👩‍💼": [
         "næringsliv", 
         "kontor", 
+        "kvinnelig kontorarbeider: hudtype 1–2", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "kvinnelig kontorarbeider: hudtype 6", 
         "kvinne", 
-        "kvinnelig kontorarbeider"
+        "hudtype 4", 
+        "hudtype 3", 
+        "kvinnelig kontorarbeider: hudtype 3", 
+        "kvinnelig kontorarbeider: hudtype 4", 
+        "kvinnelig kontorarbeider: hudtype 5", 
+        "kvinnelig kontorarbeider", 
+        "hudtype 5"
     ], 
     "👩‍🔧": [
-        "mekaniker", 
         "bil", 
-        "kvinne", 
         "kvinnelig mekaniker", 
-        "motor"
+        "mekaniker", 
+        "hudtype 1–2", 
+        "kvinnelig mekaniker: hudtype 5", 
+        "kvinnelig mekaniker: hudtype 4", 
+        "kvinnelig mekaniker: hudtype 3", 
+        "kvinne", 
+        "motor", 
+        "kvinnelig mekaniker: hudtype 6", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "kvinnelig mekaniker: hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👩‍🔬": [
-        "vitenskap", 
-        "kvinne", 
+        "kvinnelig forsker: hudtype 6", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "kvinnelig forsker: hudtype 5", 
         "kvinnelig forsker", 
+        "kvinnelig forsker: hudtype 3", 
+        "kjemi", 
+        "kvinnelig forsker: hudtype 1–2", 
+        "kvinne", 
         "laboratorium", 
-        "kjemi"
+        "hudtype 3", 
+        "vitenskap", 
+        "kvinnelig forsker: hudtype 4", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👩‍🚀": [
-        "romfart", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "hudtype 4", 
         "verdensrommet", 
         "kvinne", 
         "astronaut", 
-        "kvinnelig astronaut"
+        "kvinnelig astronaut: hudtype 1–2", 
+        "kvinnelig astronaut: hudtype 4", 
+        "kvinnelig astronaut: hudtype 5", 
+        "hudtype 3", 
+        "kvinnelig astronaut: hudtype 6", 
+        "romfart", 
+        "kvinnelig astronaut", 
+        "kvinnelig astronaut: hudtype 3", 
+        "hudtype 5"
     ], 
     "👩‍🚒": [
-        "kvinnelig brannkonstabel", 
-        "kvinne", 
         "brannvesenet", 
+        "kvinnelig brannkonstabel: hudtype 4", 
+        "kvinnelig brannkonstabel: hudtype 5", 
+        "kvinnelig brannkonstabel: hudtype 1–2", 
+        "hudtype 1–2", 
+        "kvinnelig brannkonstabel: hudtype 6", 
+        "kvinnelig brannkonstabel: hudtype 3", 
+        "kvinne", 
+        "hudtype 4", 
         "brannmann", 
-        "brannkonstabel"
-    ], 
-    "👪": [
-        "far", 
-        "mennesker", 
-        "familie", 
-        "mor", 
-        "barn"
+        "hudtype 3", 
+        "kvinnelig brannkonstabel", 
+        "hudtype 6", 
+        "brannkonstabel", 
+        "hudtype 5"
     ], 
     "👫": [
         "mann og kvinne som leier", 
@@ -3591,66 +5055,174 @@
         "holder hender", 
         "to kvinner som leier"
     ], 
-    "👮": [
-        "politi", 
-        "politimann", 
-        "tjenestemann", 
-        "menneske"
+    "👮‍♀️": [
+        "politibetjent", 
+        "kvinnelig politibetjent", 
+        "kvinne", 
+        "lov", 
+        "politi"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "politi", 
         "menneske", 
+        "politibetjent", 
+        "mannlig politibetjent", 
+        "tjenestemann", 
+        "lov", 
+        "politimann", 
+        "mann"
+    ], 
+    "👯‍♀️": [
+        "folk med kaninører", 
+        "menneske", 
+        "hareører", 
+        "kvinner", 
+        "dans", 
+        "kvinner med kaninører", 
         "kvinne", 
         "jente", 
-        "kaninjente", 
-        "folk med kaninører"
+        "kaninjente"
+    ], 
+    "👯‍♂️": [
+        "menn", 
+        "dans", 
+        "menn med kaninører", 
+        "mann", 
+        "hareører"
     ], 
     "👰": [
+        "brud: hudtype 3", 
+        "brud: hudtype 1–2", 
+        "brud: hudtype 6", 
+        "brud: hudtype 5", 
+        "brud: hudtype 4", 
+        "hudtype 1–2", 
+        "brud med slør", 
+        "mennesker", 
+        "slør", 
+        "hudtype 3", 
         "bryllup", 
         "brud", 
-        "slør", 
-        "brud med slør", 
-        "mennesker"
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "blond kvinne", 
+        "kvinne", 
+        "blond", 
+        "blondine"
+    ], 
+    "👱‍♂️": [
+        "mann", 
         "menneske", 
         "blond person", 
-        "blond"
+        "blond", 
+        "blond mann"
     ], 
     "👲": [
         "mann med gua pi mao", 
         "menneske", 
-        "mann med kinesisk lue"
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "mann med kinesisk lue: hudtype 1–2", 
+        "mann med kinesisk lue: hudtype 6", 
+        "mann med kinesisk lue", 
+        "hudtype 3", 
+        "mann med kinesisk lue: hudtype 3", 
+        "mann med kinesisk lue: hudtype 4", 
+        "mann med kinesisk lue: hudtype 5", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "turbankledd kvinne", 
+        "kvinne", 
+        "turban"
+    ], 
+    "👳‍♂️": [
+        "turbankledd mann", 
+        "turban", 
+        "mann", 
         "menneske", 
         "turbankledd person"
     ], 
     "👴": [
-        "eldre mann", 
+        "eldre mann: hudtype 3", 
+        "eldre mann: hudtype 4", 
+        "eldre mann: hudtype 5", 
         "menneske", 
+        "eldre mann: hudtype 6", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "eldre mann", 
+        "hudtype 4", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "eldre mann: hudtype 1–2", 
         "mann", 
         "eldre"
     ], 
     "👵": [
-        "kvinne", 
-        "eldre kvinne", 
+        "eldre kvinne: hudtype 6", 
+        "eldre kvinne: hudtype 5", 
+        "eldre kvinne: hudtype 4", 
+        "eldre kvinne: hudtype 3", 
         "menneske", 
+        "hudtype 1–2", 
+        "eldre kvinne", 
+        "kvinne", 
+        "eldre kvinne: hudtype 1–2", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
         "eldre"
     ], 
     "👶": [
+        "baby: hudtype 1–2", 
+        "menneske", 
+        "baby: hudtype 6", 
+        "hudtype 1–2", 
+        "baby: hudtype 5", 
+        "baby: hudtype 3", 
         "baby", 
-        "menneske"
+        "hudtype 3", 
+        "hudtype 6", 
+        "baby: hudtype 4", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "kvinne", 
+        "bygg", 
+        "ingeniør", 
+        "kvinnelig anleggsarbeider"
+    ], 
+    "👷‍♂️": [
         "anlegg", 
-        "anleggsarbeider", 
         "arbeider", 
-        "menneske"
+        "menneske", 
+        "mannlig anleggsarbeider", 
+        "bygg", 
+        "ingeniør", 
+        "anleggsarbeider", 
+        "mann"
     ], 
     "👸": [
+        "prinsesse: hudtype 3", 
         "prinsesse", 
+        "eventyr", 
         "menneske", 
-        "eventyr"
+        "prinsesse: hudtype 4", 
+        "hudtype 1–2", 
+        "prinsesse: hudtype 1–2", 
+        "hudtype 3", 
+        "prinsesse: hudtype 5", 
+        "prinsesse: hudtype 6", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "👹": [
         "japansk ogre", 
@@ -3671,10 +5243,20 @@
         "skapning"
     ], 
     "👼": [
-        "babyengel", 
         "eventyr", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "ansikt", 
         "engel", 
-        "ansikt"
+        "babyengel: hudtype 5", 
+        "babyengel: hudtype 4", 
+        "hudtype 3", 
+        "babyengel", 
+        "hudtype 5", 
+        "babyengel: hudtype 1–2", 
+        "babyengel: hudtype 6", 
+        "hudtype 4", 
+        "babyengel: hudtype 3"
     ], 
     "👽": [
         "fjes", 
@@ -3701,21 +5283,51 @@
         "hodeskalle", 
         "død"
     ], 
-    "💁": [
-        "hjelp", 
-        "informasjon", 
+    "💁‍♀️": [
         "menneske", 
-        "hjelpende person"
+        "hjelpende kvinne", 
+        "hjelp", 
+        "hjelpe", 
+        "kvinne", 
+        "hjelpende person", 
+        "informasjon"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "hjelpende mann", 
+        "informasjon", 
+        "mann", 
+        "hjelpe"
+    ], 
+    "💂‍♀️": [
+        "kvinnelig gardist", 
+        "garde", 
+        "kvinne", 
+        "England", 
+        "gardist"
+    ], 
+    "💂‍♂️": [
+        "England", 
+        "menneske", 
+        "garde", 
         "vaktmann", 
         "gardist", 
-        "menneske"
+        "mann", 
+        "mannlig gardist"
     ], 
     "💃": [
         "dansende kvinne", 
+        "menneske", 
+        "dansende kvinne: hudtype 4", 
+        "hudtype 1–2", 
         "dans", 
-        "menneske"
+        "hudtype 6", 
+        "dansende kvinne: hudtype 6", 
+        "hudtype 3", 
+        "dansende kvinne: hudtype 3", 
+        "dansende kvinne: hudtype 1–2", 
+        "dansende kvinne: hudtype 5", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "💄": [
         "leppestift", 
@@ -3723,21 +5335,54 @@
         "kosmetikk"
     ], 
     "💅": [
+        "neglelakk: hudtype 3", 
+        "neglelakk: hudtype 5", 
+        "neglelakk: hudtype 4", 
+        "neglelakk: hudtype 6", 
+        "hudtype 1–2", 
+        "kosmetikk", 
         "neglelakk", 
         "manikyr", 
-        "kosmetikk", 
-        "negl"
+        "negl", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "neglelakk: hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
-    "💆": [
-        "massasje", 
+    "💆‍♀️": [
+        "kvinne som får ansiktsmassasje", 
+        "ansiktsmassasje", 
+        "kvinne", 
         "skjønnhetssalong", 
-        "ansiktsmassasje"
+        "hodemassasje", 
+        "velvære", 
+        "avslapning", 
+        "massasje"
     ], 
-    "💇": [
-        "skjønnhetssalong", 
-        "salong", 
+    "💆‍♂️": [
+        "velvære", 
+        "mann som får ansiktsmassasje", 
+        "avslapning", 
+        "hodemassasje", 
+        "mann"
+    ], 
+    "💇‍♀️": [
+        "kvinne som får hårklipp", 
         "hårklipp", 
-        "skjønnhet"
+        "frisør", 
+        "frisyre", 
+        "skjønnhetssalong", 
+        "skjønnhet", 
+        "salong", 
+        "mann"
+    ], 
+    "💇‍♂️": [
+        "mann", 
+        "mann som får hårklipp", 
+        "hårklipp", 
+        "frisør", 
+        "sveis"
     ], 
     "💈": [
         "frisørsalong", 
@@ -3779,21 +5424,9 @@
         "diamant", 
         "romantikk"
     ], 
-    "💏": [
-        "kyssing", 
-        "romantikk", 
-        "kyss", 
-        "mennesker"
-    ], 
     "💐": [
         "blomster", 
         "bukett", 
-        "romantikk"
-    ], 
-    "💑": [
-        "mennesker", 
-        "hjerte", 
-        "par med hjerte", 
         "romantikk"
     ], 
     "💒": [
@@ -3952,10 +5585,20 @@
     "💪": [
         "biceps", 
         "tegneserie", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "biceps: hudtype 1–2", 
         "muskelfleksing", 
         "muskel", 
         "sterk", 
-        "fleks"
+        "fleks", 
+        "biceps: hudtype 6", 
+        "hudtype 3", 
+        "biceps: hudtype 3", 
+        "biceps: hudtype 4", 
+        "biceps: hudtype 5", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "💫": [
         "stjerner", 
@@ -4397,6 +6040,13 @@
         "opptak", 
         "video"
     ], 
+    "📽️": [
+        "kino", 
+        "prosjektor", 
+        "video", 
+        "filmframviser", 
+        "film"
+    ], 
     "📿": [
         "religion", 
         "klær", 
@@ -4716,6 +6366,17 @@
         "ned", 
         "nedover"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "religion"
+    ], 
+    "🕊️": [
+        "fly", 
+        "fredsdue", 
+        "fugl", 
+        "fred"
+    ], 
     "🕋": [
         "religion", 
         "Kaba", 
@@ -4894,30 +6555,246 @@
         "klokken halv ett", 
         "12:30"
     ], 
-    "🕺": [
-        "dans", 
-        "mann", 
-        "dansende mann"
+    "🕯️": [
+        "stearinlys", 
+        "lys"
     ], 
-    "🖕": [
-        "langfinger", 
+    "🕰️": [
+        "klokke", 
+        "peisur"
+    ], 
+    "🕳️": [
+        "hull", 
+        "hull i bakken"
+    ], 
+    "🕴️": [
+        "svevende mann i dress", 
+        "forretningsmann", 
+        "dress", 
+        "mann", 
+        "business"
+    ], 
+    "🕵️‍♂️": [
+        "spion", 
+        "detektiv"
+    ], 
+    "🕶️": [
+        "solbriller", 
+        "mørkt", 
+        "briller", 
+        "øye"
+    ], 
+    "🕷️": [
+        "insekt", 
+        "edderkopp"
+    ], 
+    "🕸️": [
+        "nett", 
+        "spindelvev", 
+        "edderkopp"
+    ], 
+    "🕹️": [
+        "joystick", 
+        "videospill", 
+        "spill"
+    ], 
+    "🕺": [
+        "hudtype 1–2", 
+        "dans", 
+        "dansende mann", 
+        "dansende mann: hudtype 6", 
+        "dansende mann: hudtype 5", 
+        "dansende mann: hudtype 4", 
+        "dansende mann: hudtype 3", 
+        "hudtype 4", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "mann", 
+        "dansende mann: hudtype 1–2"
+    ], 
+    "🖇️": [
+        "binders", 
+        "sammenlenkede binders", 
+        "koble sammen"
+    ], 
+    "🖊️": [
+        "penn", 
+        "kulepenn"
+    ], 
+    "🖋️": [
+        "fyllepenn", 
+        "penn"
+    ], 
+    "🖌️": [
+        "maling", 
+        "pensel"
+    ], 
+    "🖍️": [
+        "tegning", 
+        "fargestift"
+    ], 
+    "🖐️": [
+        "spredt", 
+        "flat hånd med spredte fingre", 
         "kropp", 
         "finger", 
-        "vise fingeren", 
         "hånd"
+    ], 
+    "🖕": [
+        "kropp", 
+        "hudtype 1–2", 
+        "langfinger: hudtype 6", 
+        "hudtype 4", 
+        "langfinger: hudtype 3", 
+        "langfinger: hudtype 5", 
+        "finger", 
+        "hånd", 
+        "langfinger: hudtype 1–2", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "langfinger", 
+        "vise fingeren", 
+        "langfinger: hudtype 4"
     ], 
     "🖖": [
         "Vulcan-hilsen", 
-        "vulcan", 
+        "Vulcan-hilsen: hudtype 4", 
         "kropp", 
+        "Vulcan-hilsen: hudtype 6", 
+        "hudtype 1–2", 
+        "Vulcan-hilsen: hudtype 3", 
+        "hudtype 4", 
+        "vulcan", 
         "finger", 
-        "hånd"
+        "hånd", 
+        "hudtype 3", 
+        "Vulcan-hilsen: hudtype 5", 
+        "hudtype 6", 
+        "Vulcan-hilsen: hudtype 1–2", 
+        "hudtype 5"
     ], 
     "🖤": [
         "svart hjerte", 
         "svart", 
         "hjerte", 
         "ond"
+    ], 
+    "🖥️": [
+        "stasjonær datamaskin", 
+        "stasjonær", 
+        "datamaskin"
+    ], 
+    "🖨️": [
+        "skriver", 
+        "datamaskin"
+    ], 
+    "🖱️": [
+        "mus", 
+        "knapp", 
+        "tre", 
+        "3", 
+        "datamus", 
+        "datamaskin"
+    ], 
+    "🖲️": [
+        "styrekule", 
+        "datamaskin"
+    ], 
+    "🖼️": [
+        "maleri", 
+        "innrammet bilde", 
+        "museum", 
+        "bilde", 
+        "kunst", 
+        "ramme"
+    ], 
+    "🗂️": [
+        "indeks", 
+        "kort", 
+        "skillere", 
+        "skillekort"
+    ], 
+    "🗃️": [
+        "kort", 
+        "kartotekboks", 
+        "fil", 
+        "boks"
+    ], 
+    "🗄️": [
+        "kabinett", 
+        "arkivskap", 
+        "fil"
+    ], 
+    "🗑️": [
+        "søppelkasse", 
+        "papirkurv"
+    ], 
+    "🗒️": [
+        "notat", 
+        "spiralhefte", 
+        "spiral", 
+        "blokk"
+    ], 
+    "🗓️": [
+        "spiralkalender", 
+        "kalender", 
+        "blokk", 
+        "spiral"
+    ], 
+    "🗜️": [
+        "skrutvinge", 
+        "verktøy"
+    ], 
+    "🗝️": [
+        "ledetråd", 
+        "lås", 
+        "nøkkel", 
+        "gammeldags nøkkel", 
+        "gammel"
+    ], 
+    "🗞️": [
+        "nyheter", 
+        "opprullet", 
+        "avis", 
+        "opprullet avis", 
+        "papir"
+    ], 
+    "🗡️": [
+        "dolk", 
+        "våpen", 
+        "kniv"
+    ], 
+    "🗣️": [
+        "hode", 
+        "snakkende hode i profil", 
+        "snakker", 
+        "silhuett", 
+        "fjes", 
+        "snakke"
+    ], 
+    "🗨️": [
+        "tale", 
+        "dialog", 
+        "snakkeboble mot venstre"
+    ], 
+    "🗯️": [
+        "ballong", 
+        "sint", 
+        "sint snakkeboble mot høyre", 
+        "boble", 
+        "sur"
+    ], 
+    "🗳️": [
+        "urne med stemmeseddel", 
+        "stemmeseddel", 
+        "boks"
+    ], 
+    "🗺️": [
+        "verden", 
+        "verdenskart", 
+        "kart"
     ], 
     "🗻": [
         "fjell", 
@@ -5414,22 +7291,52 @@
         "øyne", 
         "ruller"
     ], 
-    "🙅": [
-        "gestikulerer NEI", 
+    "🙅‍♀️": [
         "forbudt", 
-        "nei"
+        "nei", 
+        "kvinne som gestikulerer NEI", 
+        "stopp", 
+        "avbryt", 
+        "gestikulerer NEI", 
+        "kvinne"
     ], 
-    "🙆": [
-        "fjes", 
+    "🙅‍♂️": [
+        "avbryt", 
+        "mann som gestikulerer NEI", 
+        "stopp", 
+        "mann"
+    ], 
+    "🙆‍♀️": [
+        "kvinne som gestikulerer OK", 
         "bevegelse", 
+        "hendene på hodet", 
+        "fjes", 
+        "kvinne", 
         "greit", 
         "gestikulerer OK"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "mann som gestikulerer OK", 
+        "hendene på hodet", 
+        "mann"
+    ], 
+    "🙇‍♀️": [
+        "bukk", 
+        "beklagelse", 
+        "unnskyld", 
+        "kvinne", 
+        "bukkende kvinne"
+    ], 
+    "🙇‍♂️": [
         "bukker", 
-        "beklager", 
+        "menneske", 
         "legger meg flat", 
-        "menneske"
+        "beklagelse", 
+        "unnskyld", 
+        "bukkende mann", 
+        "bukk", 
+        "beklager", 
+        "mann"
     ], 
     "🙈": [
         "ikke", 
@@ -5459,36 +7366,84 @@
         "sier ingenting ondt", 
         "ape"
     ], 
-    "🙋": [
-        "person", 
-        "rekker opp", 
+    "🙋‍♀️": [
+        "rekke opp hånden", 
         "rekker opp hånden", 
-        "hånd"
+        "rekker opp", 
+        "hånd", 
+        "person", 
+        "kvinne", 
+        "kvinne som rekker opp hånden"
+    ], 
+    "🙋‍♂️": [
+        "rekke opp hånden", 
+        "mann som rekker opp hånden", 
+        "mann"
     ], 
     "🙌": [
         "feirer", 
-        "hevede hender", 
+        "hevede hender: hudtype 6", 
         "begge hender", 
+        "hudtype 1–2", 
         "feiring", 
+        "hevede hender: hudtype 4", 
+        "hevede hender: hudtype 5", 
+        "hevede hender", 
+        "hevede hender: hudtype 1–2", 
+        "hevede hender: hudtype 3", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
         "rekker begge armene i været"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
+        "rynke", 
         "rynker brynene", 
         "person", 
+        "kvinne", 
+        "skeptisk", 
+        "kvinne som rynker brynene", 
         "person rynker brynene"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "skeptisk", 
+        "mann som rynker brynene", 
+        "mann", 
+        "rynke"
+    ], 
+    "🙎‍♀️": [
+        "furter", 
+        "kyss", 
+        "trutmunn", 
         "fjes", 
+        "kvinne", 
         "kyssende person", 
-        "furter"
+        "kvinne som furter"
+    ], 
+    "🙎‍♂️": [
+        "mann som furter", 
+        "mann", 
+        "kyss", 
+        "trutmunn"
     ], 
     "🙏": [
         "be", 
+        "foldede hender: hudtype 1–2", 
         "foldede hender", 
         "bevegelse", 
+        "hudtype 6", 
         "bønn", 
+        "foldede hender: hudtype 4", 
         "hånd", 
-        "ber"
+        "ber", 
+        "hudtype 3", 
+        "foldede hender: hudtype 3", 
+        "foldede hender: hudtype 6", 
+        "foldede hender: hudtype 5", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🚀": [
         "rakett", 
@@ -5647,10 +7602,21 @@
         "skip", 
         "fartøy"
     ], 
-    "🚣": [
-        "fartøy", 
+    "🚣‍♀️": [
+        "kvinne i robåt", 
+        "kvinne", 
+        "ro", 
+        "båt", 
+        "robåt"
+    ], 
+    "🚣‍♂️": [
+        "båt", 
         "person i robåt", 
-        "båt"
+        "mann i robåt", 
+        "robåt", 
+        "fartøy", 
+        "ro", 
+        "mann"
     ], 
     "🚤": [
         "fartøy", 
@@ -5738,17 +7704,43 @@
         "ingen sykler", 
         "sykler forbudt"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "syklist", 
-        "sykkel"
+        "kvinne", 
+        "kvinnelig syklist", 
+        "sykle"
     ], 
-    "🚵": [
+    "🚴‍♂️": [
+        "syklist", 
+        "mannlig syklist", 
+        "sykkel", 
+        "mann", 
+        "sykle"
+    ], 
+    "🚵‍♀️": [
+        "kvinne", 
+        "terrengsykkel", 
+        "kvinne på terrengsykkel"
+    ], 
+    "🚵‍♂️": [
+        "mann på terrengsykkel", 
+        "terrengsykkel", 
         "terrengsyklist", 
+        "mann", 
         "mountainbike"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "kvinnelig fotgjenger", 
+        "fotgjenger", 
+        "gå", 
+        "kvinne"
+    ], 
+    "🚶‍♂️": [
         "gående", 
-        "fotgjenger"
+        "mannlig fotgjenger", 
+        "fotgjenger", 
+        "gå", 
+        "mann"
     ], 
     "🚷": [
         "skilt", 
@@ -5798,9 +7790,19 @@
         "vann"
     ], 
     "🛀": [
+        "person i badekar: hudtype 3", 
+        "person i badekar: hudtype 4", 
+        "person i badekar: hudtype 5", 
+        "person i badekar: hudtype 6", 
+        "hudtype 1–2", 
+        "person i badekar: hudtype 1–2", 
         "bad", 
+        "person i badekar", 
+        "hudtype 3", 
         "badekar", 
-        "person i badekar"
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🛁": [
         "bad", 
@@ -5823,9 +7825,42 @@
         "bagasjeoppbevaring", 
         "bagasje"
     ], 
+    "🛋️": [
+        "hotell", 
+        "sofa", 
+        "lampe", 
+        "sofa og lampe"
+    ], 
     "🛌": [
         "hotell", 
+        "person i seng: hudtype 6", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "person i seng: hudtype 5", 
+        "person i seng: hudtype 4", 
+        "hudtype 3", 
         "person i seng", 
+        "hudtype 5", 
+        "person i seng: hudtype 1–2", 
+        "sove", 
+        "hudtype 4", 
+        "person i seng: hudtype 3"
+    ], 
+    "🛍️": [
+        "hotell", 
+        "handleposer", 
+        "pose", 
+        "shopping"
+    ], 
+    "🛎️": [
+        "hotell", 
+        "pikkolo", 
+        "klokke", 
+        "resepsjonsklokke"
+    ], 
+    "🛏️": [
+        "hotell", 
+        "seng", 
         "sove"
     ], 
     "🛐": [
@@ -5846,6 +7881,40 @@
         "innkjøp", 
         "vogn"
     ], 
+    "🛠️": [
+        "verktøy", 
+        "hammer", 
+        "hammer og fastnøkkel", 
+        "skiftenøkkel"
+    ], 
+    "🛡️": [
+        "våpen", 
+        "skjold"
+    ], 
+    "🛢️": [
+        "tønne", 
+        "olje", 
+        "oljefat"
+    ], 
+    "🛣️": [
+        "motorvei", 
+        "vei"
+    ], 
+    "🛤️": [
+        "jernbanespor", 
+        "jernbane", 
+        "tog"
+    ], 
+    "🛥️": [
+        "motorbåt", 
+        "fremkomstmiddel", 
+        "båt"
+    ], 
+    "🛩️": [
+        "fly", 
+        "fremkomstmiddel", 
+        "lite fly"
+    ], 
     "🛫": [
         "fly", 
         "fly som tar av", 
@@ -5861,6 +7930,17 @@
         "ankomster", 
         "ankomme", 
         "fremkomstmiddel"
+    ], 
+    "🛰️": [
+        "verdensrommet", 
+        "satellitt", 
+        "fremkomstmiddel"
+    ], 
+    "🛳️": [
+        "skip", 
+        "passasjerskip", 
+        "fremkomstmiddel", 
+        "passasjer"
     ], 
     "🛴": [
         "sparkesykkel", 
@@ -5931,32 +8011,82 @@
         "klem"
     ], 
     "🤘": [
-        "rock’n’roll", 
-        "horn", 
-        "finger", 
+        "rock’n’roll: hudtype 1–2", 
         "kropp", 
-        "hånd"
+        "hudtype 1–2", 
+        "rock’n’roll: hudtype 6", 
+        "horn", 
+        "rock’n’roll: hudtype 3", 
+        "rock’n’roll: hudtype 5", 
+        "finger", 
+        "hånd", 
+        "rock’n’roll", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "rock’n’roll: hudtype 4"
     ], 
     "🤙": [
+        "ring meg-hånd: hudtype 3", 
+        "ring meg-hånd: hudtype 6", 
+        "ring meg-hånd: hudtype 4", 
+        "ring meg-hånd: hudtype 5", 
         "ring meg-hånd", 
+        "hudtype 1–2", 
+        "ring meg-hånd: hudtype 1–2", 
+        "hånd", 
+        "hudtype 3", 
         "ringe", 
-        "hånd"
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤚": [
+        "løftet håndbak: hudtype 6", 
+        "løftet håndbak: hudtype 4", 
+        "løftet håndbak: hudtype 5", 
+        "løftet håndbak: hudtype 3", 
+        "hudtype 1–2", 
         "løftet håndbak", 
+        "løftet håndbak: hudtype 1–2", 
         "løftet", 
-        "håndbak"
+        "håndbak", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤛": [
+        "knyttneve mot venstre: hudtype 4", 
         "knyttneve mot venstre", 
-        "neve", 
+        "hudtype 1–2", 
         "venstrevendt", 
-        "venstre"
+        "venstre", 
+        "neve", 
+        "knyttneve mot venstre: hudtype 3", 
+        "knyttneve mot venstre: hudtype 6", 
+        "knyttneve mot venstre: hudtype 1–2", 
+        "knyttneve mot venstre: hudtype 5", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤜": [
-        "neve", 
         "knyttneve mot høyre", 
+        "knyttneve mot høyre: hudtype 5", 
+        "knyttneve mot høyre: hudtype 1–2", 
+        "hudtype 1–2", 
+        "hudtype 5", 
+        "neve", 
+        "knyttneve mot høyre: hudtype 4", 
+        "knyttneve mot høyre: hudtype 6", 
+        "knyttneve mot høyre: hudtype 3", 
+        "hudtype 3", 
         "høyrevendt", 
+        "hudtype 6", 
+        "hudtype 4", 
         "høyre"
     ], 
     "🤝": [
@@ -5967,18 +8097,38 @@
         "avtale"
     ], 
     "🤞": [
+        "hudtype 1–2", 
+        "kryssede fingre: hudtype 4", 
+        "kryss", 
+        "hudtype 4", 
+        "kryssede fingre: hudtype 6", 
+        "finger", 
+        "hånd", 
         "kryssede fingre", 
         "hell", 
-        "kryss", 
-        "finger", 
-        "hånd"
+        "hudtype 3", 
+        "kryssede fingre: hudtype 5", 
+        "hudtype 6", 
+        "kryssede fingre: hudtype 3", 
+        "kryssede fingre: hudtype 1–2", 
+        "hudtype 5"
     ], 
     "🤟": [
-        "ILY", 
-        "hånd", 
+        "hudtype 5", 
         "tegnspråk", 
         "glad i deg", 
-        "glad i deg-tegn"
+        "glad i deg-tegn: hudtype 5", 
+        "glad i deg-tegn: hudtype 4", 
+        "hudtype 1–2", 
+        "glad i deg-tegn: hudtype 6", 
+        "glad i deg-tegn: hudtype 3", 
+        "glad i deg-tegn: hudtype 1–2", 
+        "hånd", 
+        "hudtype 3", 
+        "glad i deg-tegn", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "ILY"
     ], 
     "🤠": [
         "cowgirl", 
@@ -6017,12 +8167,34 @@
         "pinocchio"
     ], 
     "🤦": [
+        "hånden foran fjeset: hudtype 6", 
+        "hudtype 1–2", 
         "panne", 
         "ansikt", 
         "fjes", 
         "irritasjon", 
+        "hånden foran fjeset: hudtype 1–2", 
+        "hånden foran fjeset: hudtype 5", 
+        "hånden foran fjeset: hudtype 4", 
+        "hudtype 3", 
         "hånden foran fjeset", 
-        "vantro"
+        "hudtype 5", 
+        "hudtype 6", 
+        "vantro", 
+        "hudtype 4", 
+        "hånden foran fjeset: hudtype 3"
+    ], 
+    "🤦‍♀️": [
+        "kvinne med hånden foran fjeset", 
+        "oppgitt", 
+        "facepalm", 
+        "kvinne"
+    ], 
+    "🤦‍♂️": [
+        "oppgitt", 
+        "facepalm", 
+        "mann", 
+        "mann med hånden foran fjeset"
     ], 
     "🤧": [
         "fjes", 
@@ -6079,60 +8251,192 @@
         "forbløffet"
     ], 
     "🤰": [
-        "kvinne", 
+        "gravid kvinne: hudtype 3", 
+        "gravid kvinne: hudtype 6", 
+        "gravid kvinne: hudtype 5", 
+        "gravid", 
+        "hudtype 1–2", 
         "gravid kvinne", 
-        "gravid"
+        "gravid kvinne: hudtype 1–2", 
+        "kvinne", 
+        "gravid kvinne: hudtype 4", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤱": [
-        "baby", 
+        "bryst", 
+        "ammer: hudtype 6", 
+        "ammer", 
+        "hudtype 6", 
+        "hudtype 1–2", 
         "amming", 
         "morsmelk", 
-        "bryst", 
-        "ammer"
+        "ammer: hudtype 1–2", 
+        "baby", 
+        "hudtype 3", 
+        "ammer: hudtype 5", 
+        "ammer: hudtype 4", 
+        "ammer: hudtype 3", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤲": [
-        "ber", 
+        "håndflatene sammen: hudtype 5", 
+        "håndflatene sammen: hudtype 4", 
+        "håndflatene sammen: hudtype 6", 
+        "håndflatene sammen: hudtype 3", 
         "bønn", 
-        "håndflatene sammen"
+        "håndflatene sammen: hudtype 1–2", 
+        "håndflatene sammen", 
+        "ber", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤳": [
+        "selfie: hudtype 3", 
+        "selfie: hudtype 4", 
+        "selfie: hudtype 5", 
+        "selfie: hudtype 6", 
         "selfie", 
+        "telefon", 
+        "selfie: hudtype 1–2", 
+        "hudtype 3", 
         "kamera", 
-        "telefon"
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤴": [
+        "hudtype 1–2", 
+        "prins: hudtype 1–2", 
+        "prins: hudtype 6", 
+        "prins: hudtype 5", 
+        "prins: hudtype 4", 
+        "prins: hudtype 3", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
         "prins"
     ], 
     "🤵": [
         "brudgom", 
+        "hudtype 1–2", 
+        "mann i smoking: hudtype 4", 
+        "mann i smoking: hudtype 3", 
+        "hudtype 4", 
+        "mann i smoking: hudtype 5", 
+        "mann i smoking: hudtype 1–2", 
+        "mann i smoking: hudtype 6", 
+        "smoking", 
+        "hudtype 3", 
         "mann i smoking", 
+        "hudtype 6", 
         "mann", 
-        "smoking"
+        "hudtype 5"
     ], 
     "🤶": [
+        "julenissemor: hudtype 4", 
+        "julenissemor: hudtype 5", 
+        "julenissemor: hudtype 6", 
+        "julenissemor: hudtype 3", 
         "mor", 
-        "julenissemor", 
+        "hudtype 1–2", 
         "jul", 
-        "nisse"
+        "julenissemor", 
+        "hudtype 6", 
+        "nisse", 
+        "hudtype 3", 
+        "julenissemor: hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🤷": [
-        "likegyldighet", 
+        "trekker på skuldrene: hudtype 4", 
+        "skuldertrekning", 
         "trekker på skuldrene", 
+        "trekker på skuldrene: hudtype 1–2", 
         "tvil", 
-        "skuldertrekning"
+        "trekker på skuldrene: hudtype 3", 
+        "likegyldighet", 
+        "trekker på skuldrene: hudtype 5", 
+        "hudtype 3", 
+        "trekker på skuldrene: hudtype 6", 
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
+    ], 
+    "🤷‍♀️": [
+        "kvinne", 
+        "kvinne som trekker på skuldrene", 
+        "uvitende"
+    ], 
+    "🤷‍♂️": [
+        "mann som trekker på skuldrene", 
+        "uvitende", 
+        "mann"
     ], 
     "🤸": [
-        "person", 
+        "slå hjul: hudtype 4", 
+        "slå hjul: hudtype 1–2", 
+        "hudtype 6", 
         "gym", 
-        "sport", 
+        "hudtype 5", 
+        "person", 
         "gymnastikk", 
+        "slå hjul: hudtype 6", 
+        "hudtype 3", 
+        "slå hjul: hudtype 5", 
+        "sport", 
+        "slå hjul: hudtype 3", 
+        "hudtype 1–2", 
+        "hudtype 4", 
+        "slå hjul"
+    ], 
+    "🤸‍♀️": [
+        "kvinne som slår hjul", 
+        "kvinne", 
+        "slå hjul"
+    ], 
+    "🤸‍♂️": [
+        "mann som slår hjul", 
+        "mann", 
         "slå hjul"
     ], 
     "🤹": [
+        "sjonglering: hudtype 1–2", 
+        "hudtype 1–2", 
+        "balanse", 
+        "sjonglering: hudtype 6", 
+        "sjonglering: hudtype 5", 
+        "sjonglering: hudtype 4", 
+        "sjonglering: hudtype 3", 
+        "sjonglering", 
         "multitasking", 
         "ferdighet", 
-        "balanse", 
-        "sjonglering"
+        "hudtype 3", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
+    ], 
+    "🤹‍♀️": [
+        "sjonglere", 
+        "kvinnelig sjonglør", 
+        "kvinne", 
+        "sirkus"
+    ], 
+    "🤹‍♂️": [
+        "sjonglere", 
+        "sirkus", 
+        "mannlig sjonglør", 
+        "mann"
     ], 
     "🤺": [
         "fekting", 
@@ -6149,18 +8453,70 @@
         "sport", 
         "person"
     ], 
+    "🤼‍♀️": [
+        "bryter", 
+        "kvinner", 
+        "kvinne", 
+        "kvinnelige brytere"
+    ], 
+    "🤼‍♂️": [
+        "bryter", 
+        "menn", 
+        "mannlige brytere", 
+        "mann"
+    ], 
     "🤽": [
-        "polo", 
+        "vannpolo: hudtype 6", 
+        "hudtype 1–2", 
+        "vannpolo: hudtype 5", 
+        "hudtype 5", 
         "person", 
+        "vann", 
+        "vannpolo: hudtype 4", 
+        "vannpolo: hudtype 3", 
+        "vannpolo: hudtype 1–2", 
+        "polo", 
+        "hudtype 3", 
         "sport", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "vannpolo"
+    ], 
+    "🤽‍♀️": [
+        "kvinnelig vannpolospiller", 
+        "kvinne", 
+        "vannpolo"
+    ], 
+    "🤽‍♂️": [
         "vannpolo", 
-        "vann"
+        "mann", 
+        "mannlig vannpolospiller"
     ], 
     "🤾": [
-        "sport", 
-        "person", 
+        "håndball: hudtype 6", 
+        "håndball: hudtype 4", 
         "ball", 
-        "håndball"
+        "håndball: hudtype 3", 
+        "hudtype 1–2", 
+        "person", 
+        "håndball: hudtype 5", 
+        "håndball", 
+        "hudtype 3", 
+        "sport", 
+        "hudtype 6", 
+        "håndball: hudtype 1–2", 
+        "hudtype 4", 
+        "hudtype 5"
+    ], 
+    "🤾‍♀️": [
+        "kvinne", 
+        "håndball", 
+        "kvinnelig håndballspiller"
+    ], 
+    "🤾‍♂️": [
+        "håndball", 
+        "mannlig håndballspiller", 
+        "mann"
     ], 
     "🥀": [
         "tørket", 
@@ -6530,82 +8886,187 @@
         "stiv"
     ], 
     "🧑": [
-        "voksen", 
+        "voksen: hudtype 1–2", 
         "menneske", 
+        "voksen", 
+        "hudtype 1–2", 
+        "voksen: hudtype 3", 
+        "voksen: hudtype 6", 
+        "voksen: hudtype 4", 
+        "voksen: hudtype 5", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "hudtype 4", 
         "kjønnsnøytral"
     ], 
     "🧒": [
-        "kjønnsnøytral", 
-        "ung", 
+        "barn: hudtype 4", 
+        "barn: hudtype 6", 
         "menneske", 
-        "barn"
+        "hudtype 6", 
+        "hudtype 1–2", 
+        "barn", 
+        "hudtype 5", 
+        "ung", 
+        "hudtype 3", 
+        "barn: hudtype 5", 
+        "kjønnsnøytral", 
+        "barn: hudtype 3", 
+        "hudtype 4", 
+        "barn: hudtype 1–2"
     ], 
     "🧓": [
-        "kjønnsnøytral", 
-        "eldre voksen", 
+        "eldre voksen: hudtype 3", 
+        "eldre voksen: hudtype 6", 
+        "eldre voksen: hudtype 4", 
         "menneske", 
-        "gammel"
+        "eldre voksen: hudtype 5", 
+        "hudtype 1–2", 
+        "eldre voksen", 
+        "hudtype 4", 
+        "gammel", 
+        "hudtype 3", 
+        "hudtype 5", 
+        "hudtype 6", 
+        "eldre voksen: hudtype 1–2", 
+        "kjønnsnøytral"
     ], 
     "🧔": [
         "mann med skjegg", 
-        "skjegg"
+        "mann med skjegg: hudtype 6", 
+        "mann med skjegg: hudtype 4", 
+        "mann med skjegg: hudtype 5", 
+        "mann med skjegg: hudtype 3", 
+        "mann med skjegg: hudtype 1–2", 
+        "hudtype 1–2", 
+        "hudtype 3", 
+        "hudtype 6", 
+        "skjegg", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
     "🧕": [
-        "hijab", 
+        "kvinne med hodeslør: hudtype 1–2", 
         "kvinne med hodeslør", 
-        "hodeskjerf", 
+        "hudtype 1–2", 
         "muslim", 
-        "hodeslør"
+        "hodeskjerf", 
+        "hodeslør", 
+        "kvinne med hodeslør: hudtype 6", 
+        "kvinne med hodeslør: hudtype 5", 
+        "kvinne med hodeslør: hudtype 4", 
+        "kvinne med hodeslør: hudtype 3", 
+        "hudtype 3", 
+        "hijab", 
+        "hudtype 6", 
+        "hudtype 4", 
+        "hudtype 5"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
         "dampbad", 
+        "kvinne i badstu", 
+        "sauna"
+    ], 
+    "🧖‍♂️": [
+        "dampbad", 
+        "mann i badstu", 
         "person i badstu", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "klatring", 
-        "klatrer"
+        "klatrer", 
+        "kvinnelig klatrer"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "klatring", 
+        "mannlig klatrer"
+    ], 
+    "🧘‍♀️": [
         "yoga", 
         "lotusstilling", 
-        "meditasjon"
+        "meditasjon", 
+        "kvinne i lotusstilling"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "meditasjon", 
+        "yoga", 
+        "mann i lotusstilling"
+    ], 
+    "🧙‍♀️": [
         "heks", 
         "trollkvinne", 
         "trollmann", 
         "trollperson"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "heksemester", 
+        "trollmann"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
+        "kvinnelig fe", 
         "Oberon", 
         "fe", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "mannlig fe", 
+        "Oberon", 
+        "fe"
+    ], 
+    "🧛‍♀️": [
         "Dracula", 
         "vandød", 
-        "vampyr"
+        "vampyr", 
+        "kvinnelig vampyr"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Dracula", 
+        "vandød", 
+        "mannlig vampyr"
+    ], 
+    "🧜‍♀️": [
+        "havfrue", 
+        "havkvinne"
+    ], 
+    "🧜‍♂️": [
         "havfrue", 
         "havkvinne", 
+        "Triton", 
         "havperson", 
         "havmann"
     ], 
-    "🧝": [
-        "alv", 
+    "🧝‍♀️": [
+        "kvinnelig alv", 
         "magi"
     ], 
-    "🧞": [
+    "🧝‍♂️": [
+        "alv", 
+        "magi", 
+        "mannlig alv"
+    ], 
+    "🧞‍♀️": [
+        "kvinnelig ånd", 
+        "djinn"
+    ], 
+    "🧞‍♂️": [
+        "mannlig ånd", 
         "djinn", 
         "ånd"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "vandød", 
+        "udød", 
+        "kvinnelig zombie"
+    ], 
+    "🧟‍♂️": [
         "zombie", 
         "vandød", 
-        "udød"
+        "udød", 
+        "mannlig zombie"
     ], 
     "🧠": [
         "intelligent", 

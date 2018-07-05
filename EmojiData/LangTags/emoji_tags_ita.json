@@ -1,4 +1,136 @@
 {
+    "#️⃣": [
+        "tasto", 
+        "tasto: #"
+    ], 
+    "*️⃣": [
+        "tasto", 
+        "tasto: *"
+    ], 
+    "0️⃣": [
+        "tasto", 
+        "tasto: 0"
+    ], 
+    "1️⃣": [
+        "tasto", 
+        "tasto: 1"
+    ], 
+    "2️⃣": [
+        "tasto", 
+        "tasto: 2"
+    ], 
+    "3️⃣": [
+        "tasto", 
+        "tasto: 3"
+    ], 
+    "4️⃣": [
+        "tasto", 
+        "tasto: 4"
+    ], 
+    "5️⃣": [
+        "tasto", 
+        "tasto: 5"
+    ], 
+    "6️⃣": [
+        "tasto: 6", 
+        "tasto"
+    ], 
+    "7️⃣": [
+        "tasto: 7", 
+        "tasto"
+    ], 
+    "8️⃣": [
+        "tasto", 
+        "tasto: 8"
+    ], 
+    "9️⃣": [
+        "tasto", 
+        "tasto: 9"
+    ], 
+    "©️": [
+        "copyright"
+    ], 
+    "®️": [
+        "marchio registrato cerchiato", 
+        "marchio registrato"
+    ], 
+    "‼️": [
+        "doppio punto esclamativo", 
+        "punteggiatura", 
+        "punto esclamativo", 
+        "esclamazione"
+    ], 
+    "⁉️": [
+        "punteggiatura", 
+        "punto esclamativo e interrogativo", 
+        "punto interrogativo", 
+        "punto esclamativo"
+    ], 
+    "™️": [
+        "simbolo", 
+        "marchio"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informazioni", 
+        "punto informazioni"
+    ], 
+    "↔️": [
+        "destra", 
+        "freccia sinistra-destra", 
+        "sinistra", 
+        "larghezza", 
+        "freccia", 
+        "doppia direzione"
+    ], 
+    "↕️": [
+        "freccia su-giù", 
+        "su", 
+        "giù", 
+        "freccia", 
+        "altezza", 
+        "doppia direzione"
+    ], 
+    "↖️": [
+        "freccia", 
+        "punto intercardinale", 
+        "freccia in alto a sinistra", 
+        "direzione", 
+        "nord-ovest"
+    ], 
+    "↗️": [
+        "freccia", 
+        "nord-est", 
+        "freccia in alto a destra", 
+        "direzione", 
+        "punto intercardinale"
+    ], 
+    "↘️": [
+        "freccia", 
+        "freccia in basso a destra", 
+        "sud-est", 
+        "punto intercardinale", 
+        "direzione"
+    ], 
+    "↙️": [
+        "freccia", 
+        "freccia in basso a sinistra", 
+        "punto intercardinale", 
+        "direzione", 
+        "sud-ovest"
+    ], 
+    "↩️": [
+        "curva", 
+        "freccia", 
+        "verso sinistra", 
+        "freccia curva a sinistra"
+    ], 
+    "↪️": [
+        "curva", 
+        "verso destra", 
+        "freccia", 
+        "freccia curva a destra"
+    ], 
     "⌚": [
         "orologio", 
         "orologio da polso", 
@@ -7,6 +139,17 @@
     "⌛": [
         "sabbia", 
         "clessidra"
+    ], 
+    "⌨️": [
+        "tastiera", 
+        "computer", 
+        "tasti", 
+        "tastiera senza fili"
+    ], 
+    "⏏️": [
+        "pulsante", 
+        "espulsione", 
+        "pulsante espulsione"
     ], 
     "⏩": [
         "freccia", 
@@ -30,15 +173,100 @@
         "freccia", 
         "doppia freccia in basso"
     ], 
+    "⏭️": [
+        "pulsante", 
+        "freccia", 
+        "traccia successiva", 
+        "prossima traccia"
+    ], 
+    "⏮️": [
+        "freccia", 
+        "pulsante", 
+        "traccia precedente"
+    ], 
+    "⏯️": [
+        "play e pausa", 
+        "freccia", 
+        "play o pausa", 
+        "triangolo", 
+        "destra"
+    ], 
     "⏰": [
         "sveglia", 
         "svegliarsi", 
         "suono"
     ], 
+    "⏱️": [
+        "cronometro", 
+        "prendere il tempo", 
+        "cronometrare", 
+        "gara"
+    ], 
+    "⏲️": [
+        "orologio", 
+        "timer"
+    ], 
     "⏳": [
         "clessidra che scorre", 
         "clessidra", 
         "sabbia"
+    ], 
+    "⏸️": [
+        "pulsante", 
+        "pausa", 
+        "pulsante pausa", 
+        "mettere in pausa"
+    ], 
+    "⏹️": [
+        "pulsante", 
+        "pulsante stop", 
+        "stop", 
+        "quadrato"
+    ], 
+    "⏺️": [
+        "cerchio", 
+        "pulsante", 
+        "registrazione", 
+        "pulsante registrazione"
+    ], 
+    "Ⓜ️": [
+        "simbolo M", 
+        "pulsante M cerchiata", 
+        "metro", 
+        "M azzurra"
+    ], 
+    "▪️": [
+        "geometria", 
+        "quadrato nero piccolo", 
+        "quadrato"
+    ], 
+    "▫️": [
+        "geometria", 
+        "quadrato bianco piccolo", 
+        "quadrato"
+    ], 
+    "▶️": [
+        "pulsante play", 
+        "freccia", 
+        "triangolo", 
+        "play", 
+        "riproduzione"
+    ], 
+    "◀️": [
+        "pulsante riavvolgimento", 
+        "pulsante", 
+        "triangolo", 
+        "sinistra"
+    ], 
+    "◻️": [
+        "geometria", 
+        "quadrato bianco medio", 
+        "quadrato"
+    ], 
+    "◼️": [
+        "geometria", 
+        "quadrato nero medio", 
+        "quadrato"
     ], 
     "◽": [
         "geometria", 
@@ -49,6 +277,46 @@
         "geometria", 
         "quadrato", 
         "quadrato nero medio-piccolo"
+    ], 
+    "☀️": [
+        "splendente", 
+        "luce", 
+        "calore", 
+        "sole", 
+        "raggi"
+    ], 
+    "☁️": [
+        "meteo", 
+        "nuvola"
+    ], 
+    "☂️": [
+        "meteo", 
+        "ombrello", 
+        "pioggia"
+    ], 
+    "☃️": [
+        "freddo", 
+        "inverno", 
+        "pupazzo innevato", 
+        "neve", 
+        "meteo", 
+        "pupazzo"
+    ], 
+    "☄️": [
+        "stella cometa", 
+        "cometa", 
+        "spazio"
+    ], 
+    "☎️": [
+        "telefono di casa", 
+        "telefono", 
+        "fisso"
+    ], 
+    "☑️": [
+        "grigio", 
+        "spunta", 
+        "riquadro", 
+        "riquadro con spunta"
     ], 
     "☔": [
         "gocce d’acqua", 
@@ -63,6 +331,93 @@
         "bevanda calda", 
         "caffè", 
         "fumante"
+    ], 
+    "☘️": [
+        "foglia", 
+        "Irlanda", 
+        "trifoglio"
+    ], 
+    "☝️": [
+        "tu", 
+        "dito", 
+        "indicare", 
+        "dito verso l’alto", 
+        "indice verso l’alto"
+    ], 
+    "☠️": [
+        "letale", 
+        "teschio con ossa incrociate", 
+        "ossa incrociate", 
+        "morte", 
+        "pericolo", 
+        "teschio"
+    ], 
+    "☢️": [
+        "scorie", 
+        "radioattività", 
+        "radioattivo", 
+        "rifiuti tossici"
+    ], 
+    "☣️": [
+        "sostanze pericolose", 
+        "pericolo", 
+        "rischio biologico", 
+        "biorischio"
+    ], 
+    "☦️": [
+        "religione", 
+        "croce", 
+        "Cristianesimo", 
+        "ortodossi", 
+        "croce ortodossa"
+    ], 
+    "☪️": [
+        "mezzaluna", 
+        "mezzaluna e stella", 
+        "Islamismo", 
+        "stella", 
+        "religione"
+    ], 
+    "☮️": [
+        "pace", 
+        "simbolo"
+    ], 
+    "☯️": [
+        "Confucianesimo", 
+        "simbolo", 
+        "Yin e Yang", 
+        "Taoismo"
+    ], 
+    "☸️": [
+        "Buddhismo", 
+        "ruota a otto raggi", 
+        "ruota del Dharma", 
+        "religione buddhista", 
+        "Dharmacakra"
+    ], 
+    "☹️": [
+        "mettere il muso", 
+        "faccina", 
+        "corrucciato", 
+        "faccina imbronciata", 
+        "imbronciato"
+    ], 
+    "☺️": [
+        "faccina sorridente", 
+        "emozionarsi", 
+        "contorno faccina sorridente", 
+        "faccina", 
+        "sorridente"
+    ], 
+    "♀️": [
+        "femmina", 
+        "simbolo di femmina", 
+        "donna"
+    ], 
+    "♂️": [
+        "simbolo di maschio", 
+        "maschio", 
+        "uomo"
     ], 
     "♈": [
         "zodiaco", 
@@ -112,6 +467,36 @@
         "Pesci", 
         "zodiaco"
     ], 
+    "♠️": [
+        "picche", 
+        "seme", 
+        "carte"
+    ], 
+    "♣️": [
+        "seme", 
+        "fiori", 
+        "carte"
+    ], 
+    "♥️": [
+        "seme", 
+        "cuori", 
+        "carte"
+    ], 
+    "♦️": [
+        "quadri", 
+        "seme", 
+        "carte"
+    ], 
+    "♨️": [
+        "acqua sorgente", 
+        "terme", 
+        "acqua termale", 
+        "sorgenti termali"
+    ], 
+    "♻️": [
+        "simbolo", 
+        "riciclo"
+    ], 
     "♿": [
         "simbolo sedia a rotelle", 
         "simbolo", 
@@ -119,9 +504,68 @@
         "accesso sedia a rotelle", 
         "sedia a rotelle"
     ], 
+    "⚒️": [
+        "lavori manuali", 
+        "utensili", 
+        "manodopera", 
+        "piccone e martello", 
+        "attrezzi"
+    ], 
     "⚓": [
         "simbolo", 
         "ancora"
+    ], 
+    "⚔️": [
+        "sfida", 
+        "combattimento", 
+        "duello", 
+        "spade incrociate", 
+        "armi", 
+        "spada"
+    ], 
+    "⚕️": [
+        "medicina", 
+        "bastone di esculapio", 
+        "simbolo della medicina"
+    ], 
+    "⚖️": [
+        "bilancia a doppio piatto", 
+        "bilancia", 
+        "utensile", 
+        "giustizia", 
+        "pesare", 
+        "grammi", 
+        "chili", 
+        "piatti della bilancia", 
+        "segno zodiacale"
+    ], 
+    "⚗️": [
+        "strumento", 
+        "alambicco", 
+        "esperimento", 
+        "chimica"
+    ], 
+    "⚙️": [
+        "componente", 
+        "ingranaggio", 
+        "ruota dentata", 
+        "meccanismo"
+    ], 
+    "⚛️": [
+        "atomo", 
+        "simbolo dell’atomo", 
+        "ateismo"
+    ], 
+    "⚜️": [
+        "fiore", 
+        "stemma", 
+        "giglio", 
+        "simbolo"
+    ], 
+    "⚠️": [
+        "attenzione", 
+        "simbolo", 
+        "punto esclamativo"
     ], 
     "⚡": [
         "alta tensione", 
@@ -141,6 +585,19 @@
         "geometria", 
         "cerchio nero", 
         "nero"
+    ], 
+    "⚰️": [
+        "bara", 
+        "funerale", 
+        "sepoltura", 
+        "morte"
+    ], 
+    "⚱️": [
+        "funerale", 
+        "sepoltura", 
+        "urna cineraria", 
+        "morte", 
+        "ceneri"
     ], 
     "⚽": [
         "pallone", 
@@ -167,9 +624,35 @@
         "nuvola", 
         "sole con nuvole"
     ], 
+    "⛈️": [
+        "meteo", 
+        "nuvole", 
+        "temporale", 
+        "fulmini", 
+        "pioggia"
+    ], 
     "⛎": [
         "zodiaco", 
         "Ofiuco"
+    ], 
+    "⛏️": [
+        "attrezzo", 
+        "miniera", 
+        "picconare", 
+        "scavare", 
+        "utensile", 
+        "piccone"
+    ], 
+    "⛑️": [
+        "bianca", 
+        "elmetto con croce bianca", 
+        "croce", 
+        "elmetto"
+    ], 
+    "⛓️": [
+        "imprigionare", 
+        "incatenare", 
+        "catene"
     ], 
     "⛔": [
         "accesso", 
@@ -177,9 +660,25 @@
         "divieto di accesso", 
         "divieto"
     ], 
+    "⛩️": [
+        "santuario shintoista", 
+        "jinja", 
+        "religione"
+    ], 
     "⛪": [
         "chiesa", 
         "edificio"
+    ], 
+    "⛰️": [
+        "cima", 
+        "montagna"
+    ], 
+    "⛱️": [
+        "vacanza", 
+        "ombrellone", 
+        "meteo", 
+        "sole", 
+        "spiaggia"
     ], 
     "⛲": [
         "fontana", 
@@ -191,12 +690,39 @@
         "bandiera in buca", 
         "golf"
     ], 
+    "⛴️": [
+        "traversata", 
+        "barca", 
+        "traghetto"
+    ], 
     "⛵": [
         "barca a vela", 
         "località balneare", 
         "yacht", 
         "vela", 
         "barca"
+    ], 
+    "⛷️": [
+        "neve", 
+        "sciatore", 
+        "sport", 
+        "sci", 
+        "settimana bianca"
+    ], 
+    "⛸️": [
+        "pattinaggio su ghiaccio", 
+        "pattinaggio artistico", 
+        "sport", 
+        "ghiaccio", 
+        "pattini"
+    ], 
+    "⛹️‍♂️": [
+        "persona che fa rimbalzare una palla", 
+        "campo", 
+        "palla", 
+        "basket", 
+        "sport", 
+        "giocatore"
     ], 
     "⛺": [
         "campeggio", 
@@ -209,26 +735,139 @@
         "pompa di benzina", 
         "stazione"
     ], 
+    "✂️": [
+        "strumento", 
+        "forbici", 
+        "tagliare"
+    ], 
     "✅": [
         "segno di spunta grande", 
         "segno di spunta", 
         "baffo"
     ], 
+    "✈️": [
+        "velivolo", 
+        "aeroplano"
+    ], 
+    "✉️": [
+        "corrispondenza", 
+        "ricevere posta", 
+        "email", 
+        "lettera", 
+        "busta", 
+        "comunicazione", 
+        "posta"
+    ], 
     "✊": [
-        "pugno", 
         "alzato", 
-        "sasso"
+        "sasso: fototipo 6", 
+        "sasso: fototipo 4", 
+        "sasso: fototipo 3", 
+        "pugno", 
+        "sasso: fototipo 5", 
+        "sasso", 
+        "fototipo 4", 
+        "fototipo 6", 
+        "sasso: fototipo 1–2", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2"
     ], 
     "✋": [
-        "carta", 
-        "mano", 
         "mano alzata", 
-        "alzata"
+        "alzata", 
+        "fototipo 6", 
+        "mano alzata: fototipo 1–2", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "mano alzata: fototipo 5", 
+        "mano alzata: fototipo 4", 
+        "carta", 
+        "mano alzata: fototipo 6", 
+        "mano alzata: fototipo 3", 
+        "mano"
+    ], 
+    "✌️": [
+        "yeah", 
+        "forbice", 
+        "segno di vittoria", 
+        "vittoria", 
+        "mano"
+    ], 
+    "✍️": [
+        "scrivere a mano", 
+        "mano che scrive", 
+        "scrivere"
+    ], 
+    "✏️": [
+        "matita", 
+        "matita con gomma", 
+        "scrivere", 
+        "scrivere a matita"
+    ], 
+    "✒️": [
+        "inchiostro", 
+        "calamaio", 
+        "pennino", 
+        "scrivere a penna", 
+        "boccetta d’inchiostro"
+    ], 
+    "✔️": [
+        "segno di spunta nero", 
+        "nero", 
+        "spunta"
+    ], 
+    "✖️": [
+        "moltiplicazione", 
+        "segno moltiplicazione", 
+        "segno per", 
+        "cancellare", 
+        "X"
+    ], 
+    "✝️": [
+        "religione", 
+        "croce", 
+        "Cristianesimo", 
+        "croce latina"
+    ], 
+    "✡️": [
+        "sei punte", 
+        "ebreo", 
+        "stella di David", 
+        "David", 
+        "stella", 
+        "simbolo ebraico", 
+        "Ebraismo"
     ], 
     "✨": [
         "stelline", 
         "stelle", 
         "scintille"
+    ], 
+    "✳️": [
+        "sfondo verde", 
+        "asterisco", 
+        "otto punte"
+    ], 
+    "✴️": [
+        "stella", 
+        "sfondo arancione", 
+        "stella stilizzata"
+    ], 
+    "❄️": [
+        "ghiaccio", 
+        "freddo", 
+        "inverno", 
+        "neve", 
+        "fiocco di neve", 
+        "meteo"
+    ], 
+    "❇️": [
+        "sfondo verde", 
+        "scintilla", 
+        "scintilla stilizzata"
     ], 
     "❌": [
         "X", 
@@ -256,6 +895,18 @@
         "punto esclamativo pieno", 
         "punto esclamativo"
     ], 
+    "❣️": [
+        "cuore", 
+        "punteggiatura", 
+        "simbolo", 
+        "punto esclamativo a cuore", 
+        "punto esclamativo"
+    ], 
+    "❤️": [
+        "cuore rosso", 
+        "rosso", 
+        "amore"
+    ], 
     "➕": [
         "più", 
         "segno"
@@ -268,6 +919,13 @@
         "diviso", 
         "segno"
     ], 
+    "➡️": [
+        "punto cardinale", 
+        "freccia", 
+        "est", 
+        "direzione", 
+        "freccia a destra"
+    ], 
     "➰": [
         "cerchio", 
         "occhiello"
@@ -276,6 +934,39 @@
         "doppio", 
         "doppio occhiello", 
         "occhiello"
+    ], 
+    "⤴️": [
+        "curva", 
+        "freccia", 
+        "verso l’alto", 
+        "freccia curva in alto"
+    ], 
+    "⤵️": [
+        "curva", 
+        "freccia", 
+        "freccia curva in basso", 
+        "verso il basso"
+    ], 
+    "⬅️": [
+        "punto cardinale", 
+        "freccia", 
+        "freccia a sinistra", 
+        "ovest", 
+        "direzione"
+    ], 
+    "⬆️": [
+        "punto cardinale", 
+        "freccia in alto", 
+        "freccia", 
+        "direzione", 
+        "nord"
+    ], 
+    "⬇️": [
+        "punto cardinale", 
+        "freccia", 
+        "sud", 
+        "freccia in basso", 
+        "direzione"
     ], 
     "⬛": [
         "geometria", 
@@ -297,6 +988,30 @@
         "gioco", 
         "tris"
     ], 
+    "〰️": [
+        "ondulato", 
+        "trattino", 
+        "trattino ondulato"
+    ], 
+    "〽️": [
+        "divisione spartito", 
+        "canzone", 
+        "suddivisione parti", 
+        "parti musicali", 
+        "segno"
+    ], 
+    "㊗️": [
+        "cinese", 
+        "congratulazioni", 
+        "ideogramma", 
+        "ideogramma congratulazioni"
+    ], 
+    "㊙️": [
+        "segreto", 
+        "cinese", 
+        "ideogramma", 
+        "ideogramma segreto"
+    ], 
     "🀄": [
         "drago", 
         "drago rosso", 
@@ -307,6 +1022,22 @@
         "carta", 
         "jolly", 
         "carta da gioco"
+    ], 
+    "🅰️": [
+        "gruppo sanguigno A", 
+        "gruppo A"
+    ], 
+    "🅱️": [
+        "gruppo sanguigno B", 
+        "gruppo B"
+    ], 
+    "🅾️": [
+        "gruppo O", 
+        "gruppo sanguigno O"
+    ], 
+    "🅿️": [
+        "pulsante P", 
+        "area di parcheggio"
     ], 
     "🆎": [
         "gruppo AB", 
@@ -1397,6 +2128,12 @@
         "katakana", 
         "parola"
     ], 
+    "🈂️": [
+        "katakana", 
+        "ideogramma katakana sa", 
+        "sa", 
+        "parola"
+    ], 
     "🈚": [
         "negazione", 
         "ideogramma", 
@@ -1438,6 +2175,12 @@
         "esistere", 
         "ideogramma", 
         "giapponese"
+    ], 
+    "🈷️": [
+        "luna", 
+        "ideogramma", 
+        "giapponese", 
+        "ideogramma luna"
     ], 
     "🈸": [
         "cinese", 
@@ -1648,6 +2391,61 @@
         "cadente", 
         "stella cadente"
     ], 
+    "🌡️": [
+        "clima", 
+        "termometro", 
+        "temperatura"
+    ], 
+    "🌤️": [
+        "nuvole", 
+        "variabile", 
+        "meteo", 
+        "parzialmente nuvoloso", 
+        "sole"
+    ], 
+    "🌥️": [
+        "molto nuvoloso", 
+        "meteo", 
+        "nuvoloso", 
+        "coperto"
+    ], 
+    "🌦️": [
+        "meteo", 
+        "sole coperto e pioggia", 
+        "sole", 
+        "pioggia"
+    ], 
+    "🌧️": [
+        "nuvole", 
+        "meteo", 
+        "pioggia"
+    ], 
+    "🌨️": [
+        "neve", 
+        "meteo", 
+        "nevica", 
+        "freddo"
+    ], 
+    "🌩️": [
+        "meteo", 
+        "nuvole", 
+        "fulmini"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "tromba d’aria"
+    ], 
+    "🌫️": [
+        "visibilità ridotta", 
+        "nebbia", 
+        "meteo", 
+        "foschia"
+    ], 
+    "🌬️": [
+        "aria", 
+        "vento", 
+        "Eolo"
+    ], 
     "🌭": [
         "hot dog", 
         "street food"
@@ -1689,6 +2487,10 @@
     "🌵": [
         "pianta", 
         "cactus"
+    ], 
+    "🌶️": [
+        "piccante", 
+        "peperoncino"
     ], 
     "🌷": [
         "fiore", 
@@ -2062,6 +2864,13 @@
         "biberon", 
         "latte"
     ], 
+    "🍽️": [
+        "piatto e posate", 
+        "coltello", 
+        "forchetta", 
+        "posate", 
+        "apparecchiare"
+    ], 
     "🍾": [
         "bottiglia", 
         "tappo", 
@@ -2108,7 +2917,17 @@
     "🎅": [
         "Natale", 
         "Babbo Natale", 
-        "festa"
+        "festa", 
+        "Babbo Natale: fototipo 3", 
+        "Babbo Natale: fototipo 6", 
+        "Babbo Natale: fototipo 5", 
+        "Babbo Natale: fototipo 4", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "Babbo Natale: fototipo 1–2"
     ], 
     "🎆": [
         "fuoco d’artificio", 
@@ -2194,6 +3013,53 @@
         "cappello da laureato", 
         "laurea", 
         "festa"
+    ], 
+    "🎖️": [
+        "medaglia al valore", 
+        "medaglia militare", 
+        "vittoria", 
+        "medaglia", 
+        "riconoscimento"
+    ], 
+    "🎗️": [
+        "nodo", 
+        "fiocco", 
+        "festeggiamenti", 
+        "nastro", 
+        "festa"
+    ], 
+    "🎙️": [
+        "microfono", 
+        "registrazione", 
+        "altoparlante", 
+        "radio", 
+        "studio", 
+        "microfono radiofonico"
+    ], 
+    "🎚️": [
+        "alzare il volume", 
+        "levetta del volume", 
+        "abbassare il volume", 
+        "regolazione volume"
+    ], 
+    "🎛️": [
+        "manopole del volume", 
+        "manopole", 
+        "regolazione volume"
+    ], 
+    "🎞️": [
+        "pellicola", 
+        "fotogrammi di film", 
+        "fotogrammi", 
+        "film", 
+        "cinema"
+    ], 
+    "🎟️": [
+        "ingresso", 
+        "spettacolo", 
+        "biglietto d’ingresso", 
+        "biglietto", 
+        "cinema"
     ], 
     "🎠": [
         "cavallo da giostra", 
@@ -2405,19 +3271,50 @@
         "bandiera a scacchi"
     ], 
     "🏂": [
+        "uomo sullo snowboard: fototipo 4", 
+        "uomo sullo snowboard: fototipo 3", 
+        "uomo sullo snowboard: fototipo 6", 
+        "fototipo 4", 
+        "uomo sullo snowboard: fototipo 1–2", 
+        "uomo sullo snowboard: fototipo 5", 
+        "fototipo 6", 
         "snowboard", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "sport", 
         "uomo sullo snowboard"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "correre", 
+        "sport", 
+        "corsa", 
+        "donna che corre", 
+        "donna"
+    ], 
+    "🏃‍♂️": [
+        "correre", 
+        "persona che corre", 
         "maratona", 
         "sport", 
-        "persona che corre", 
-        "corsa"
+        "uomo", 
+        "corsa", 
+        "uomo che corre"
     ], 
-    "🏄": [
-        "persona che fa surf", 
+    "🏄‍♀️": [
+        "surf", 
+        "tavola da surf", 
         "sport", 
+        "surfista donna", 
+        "donna"
+    ], 
+    "🏄‍♂️": [
+        "persona che fa surf", 
+        "surf", 
+        "tavola da surf", 
+        "surfista uomo", 
+        "sport", 
+        "uomo", 
         "omino che fa surf"
     ], 
     "🏅": [
@@ -2435,8 +3332,18 @@
     ], 
     "🏇": [
         "ippica", 
+        "ippica: fototipo 6", 
+        "ippica: fototipo 4", 
+        "ippica: fototipo 5", 
+        "ippica: fototipo 3", 
+        "ippica: fototipo 1–2", 
         "fantino", 
         "cavallo", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "cavallo da corsa", 
         "corse", 
         "sport"
@@ -2452,11 +3359,45 @@
         "pallone", 
         "pallone da rugby"
     ], 
-    "🏊": [
-        "persona che nuota", 
+    "🏊‍♀️": [
+        "nuotatrice", 
+        "piscina", 
         "sport", 
         "nuoto", 
-        "nuotare"
+        "donna"
+    ], 
+    "🏊‍♂️": [
+        "piscina", 
+        "nuoto", 
+        "nuotatore", 
+        "persona che nuota", 
+        "nuotare", 
+        "sport", 
+        "uomo"
+    ], 
+    "🏋️‍♂️": [
+        "bilanciere", 
+        "pesi massimi", 
+        "persona che solleva pesi", 
+        "sport", 
+        "sollevamento pesi"
+    ], 
+    "🏌️‍♂️": [
+        "mazza", 
+        "pallina", 
+        "giocatore di golf", 
+        "buca", 
+        "tiro", 
+        "sport"
+    ], 
+    "🏍️": [
+        "motocicletta", 
+        "moto"
+    ], 
+    "🏎️": [
+        "F1", 
+        "gran premio", 
+        "auto da corsa"
     ], 
     "🏏": [
         "cricket", 
@@ -2491,6 +3432,77 @@
         "rete", 
         "pallina", 
         "ping pong"
+    ], 
+    "🏔️": [
+        "cima", 
+        "inverno", 
+        "ghiacciaio", 
+        "montagna innevata", 
+        "montagna"
+    ], 
+    "🏕️": [
+        "campeggio", 
+        "tenda", 
+        "vacanza"
+    ], 
+    "🏖️": [
+        "mare", 
+        "estate", 
+        "ombrellone", 
+        "vacanze", 
+        "ombrellone in spiaggia", 
+        "spiaggia"
+    ], 
+    "🏗️": [
+        "edifici", 
+        "edilizia", 
+        "edificio in costruzione", 
+        "costruire"
+    ], 
+    "🏘️": [
+        "case", 
+        "edifici"
+    ], 
+    "🏙️": [
+        "edifici", 
+        "paesaggio urbano", 
+        "grattacieli", 
+        "città"
+    ], 
+    "🏚️": [
+        "casa in rovina", 
+        "disabitata", 
+        "abbandonata", 
+        "casa", 
+        "fatiscente"
+    ], 
+    "🏛️": [
+        "edificio classico", 
+        "edificio", 
+        "tempio", 
+        "Grecia"
+    ], 
+    "🏜️": [
+        "deserto", 
+        "caldo", 
+        "arido", 
+        "sole cocente"
+    ], 
+    "🏝️": [
+        "naufrago", 
+        "solitudine", 
+        "isola deserta"
+    ], 
+    "🏞️": [
+        "natura", 
+        "escursione", 
+        "parco nazionale"
+    ], 
+    "🏟️": [
+        "stadio", 
+        "sfida", 
+        "competizione", 
+        "partita"
     ], 
     "🏠": [
         "abitazione", 
@@ -2588,6 +3600,18 @@
         "castello", 
         "edificio"
     ], 
+    "🏳️": [
+        "bandiera che sventola", 
+        "sventolare bandiera bianca", 
+        "bandiera bianca", 
+        "arrendersi"
+    ], 
+    "🏳️‍🌈": [
+        "bandiera arcobaleno", 
+        "bandiera", 
+        "omosessualità", 
+        "arcobaleno"
+    ], 
     "🏴": [
         "bandiera che sventola", 
         "bandiera nera"
@@ -2603,6 +3627,15 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "bandiera", 
         "Galles"
+    ], 
+    "🏵️": [
+        "fiore", 
+        "rosetta"
+    ], 
+    "🏷️": [
+        "etichetta", 
+        "talloncino", 
+        "identificativo"
     ], 
     "🏸": [
         "sport", 
@@ -2964,18 +3997,47 @@
         "impronta di zampa", 
         "impronta"
     ], 
+    "🐿️": [
+        "animale", 
+        "scoiattolo"
+    ], 
     "👀": [
         "faccia", 
         "occhi"
     ], 
-    "👂": [
+    "👁️": [
+        "occhio", 
         "corpo", 
-        "orecchio"
+        "faccia"
+    ], 
+    "👂": [
+        "orecchio: fototipo 3", 
+        "orecchio: fototipo 4", 
+        "orecchio: fototipo 5", 
+        "orecchio: fototipo 6", 
+        "orecchio: fototipo 1–2", 
+        "orecchio", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "corpo"
     ], 
     "👃": [
-        "corpo", 
+        "fototipo 6", 
+        "naso: fototipo 1–2", 
+        "naso: fototipo 5", 
         "faccia", 
-        "naso"
+        "naso: fototipo 3", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "naso: fototipo 4", 
+        "corpo", 
+        "naso", 
+        "naso: fototipo 6"
     ], 
     "👄": [
         "labbra", 
@@ -2989,7 +4051,17 @@
         "faccia"
     ], 
     "👆": [
+        "indice alzato: fototipo 3", 
+        "indice alzato: fototipo 4", 
+        "fototipo 1–2", 
+        "indice alzato: fototipo 6", 
+        "indice alzato: fototipo 5", 
         "dito indice", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "indice alzato: fototipo 1–2", 
+        "fototipo 3", 
         "indice alzato", 
         "dito", 
         "dito in su", 
@@ -2998,69 +4070,169 @@
     ], 
     "👇": [
         "dito in giù", 
+        "fototipo 1–2", 
         "dito indice", 
+        "fototipo 6", 
         "indice in giù", 
         "indice abbassato", 
+        "fototipo 4", 
+        "fototipo 3", 
         "dito abbassato", 
-        "dito"
+        "indice abbassato: fototipo 4", 
+        "indice abbassato: fototipo 5", 
+        "dito", 
+        "indice abbassato: fototipo 1–2", 
+        "indice abbassato: fototipo 6", 
+        "fototipo 5", 
+        "indice abbassato: fototipo 3"
     ], 
     "👈": [
-        "dito", 
-        "indice verso sinistra", 
+        "indice verso sinistra: fototipo 5", 
+        "indice verso sinistra: fototipo 4", 
+        "indice verso sinistra: fototipo 6", 
+        "indice verso sinistra: fototipo 1–2", 
+        "indice verso sinistra: fototipo 3", 
         "dito indice", 
-        "dito verso sinistra"
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "dito verso sinistra", 
+        "dito", 
+        "indice verso sinistra"
     ], 
     "👉": [
-        "dito", 
-        "indice verso destra", 
+        "indice verso destra: fototipo 5", 
+        "indice verso destra: fototipo 4", 
+        "indice verso destra: fototipo 6", 
         "dito indice", 
+        "indice verso destra: fototipo 3", 
+        "fototipo 6", 
+        "indice verso destra: fototipo 1–2", 
+        "fototipo 4", 
+        "indice verso destra", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "dito", 
+        "fototipo 5", 
         "dito verso destra"
     ], 
     "👊": [
         "pugno", 
+        "pugno chiuso: fototipo 5", 
         "pugno chiuso", 
+        "pugno chiuso: fototipo 1–2", 
+        "pugno chiuso: fototipo 3", 
+        "fototipo 6", 
+        "pugno chiuso: fototipo 4", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "pugno chiuso: fototipo 6", 
         "mano"
     ], 
     "👋": [
+        "mano che saluta: fototipo 6", 
+        "fototipo 6", 
+        "mano che saluta: fototipo 4", 
+        "mano che saluta: fototipo 5", 
+        "mano che saluta: fototipo 3", 
+        "fototipo 4", 
         "mano che saluta", 
-        "salutare", 
-        "mano"
+        "mano che saluta: fototipo 1–2", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "mano", 
+        "salutare"
     ], 
     "👌": [
         "mano che fa OK", 
         "OK con la mano", 
+        "mano che fa OK: fototipo 5", 
         "OK", 
+        "mano che fa OK: fototipo 1–2", 
+        "mano che fa OK: fototipo 6", 
         "segno di OK", 
+        "mano che fa OK: fototipo 4", 
         "segno", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "mano che fa OK: fototipo 3", 
         "mano"
     ], 
     "👍": [
-        "pollice in su", 
-        "pollice", 
-        "segno", 
+        "pollice in su: fototipo 1–2", 
         "su", 
-        "mano"
+        "segno", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "pollice in su: fototipo 4", 
+        "pollice in su: fototipo 5", 
+        "pollice in su", 
+        "mano", 
+        "pollice in su: fototipo 3", 
+        "pollice in su: fototipo 6", 
+        "pollice"
     ], 
     "👎": [
+        "pollice verso: fototipo 6", 
         "pollice verso", 
+        "pollice verso: fototipo 3", 
+        "pollice verso: fototipo 4", 
+        "pollice verso: fototipo 5", 
         "segno", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "giù", 
         "mano", 
         "pollice in giù", 
+        "pollice verso: fototipo 1–2", 
         "pollice"
     ], 
     "👏": [
-        "mani", 
+        "fototipo 3", 
+        "applauso", 
+        "fototipo 6", 
         "mani che applaudono", 
+        "fototipo 4", 
+        "fototipo 5", 
         "applaudire", 
-        "applauso"
+        "fototipo 1–2", 
+        "mani che applaudono: fototipo 6", 
+        "mani", 
+        "mani che applaudono: fototipo 5", 
+        "mani che applaudono: fototipo 4", 
+        "mani che applaudono: fototipo 3", 
+        "mani che applaudono: fototipo 1–2"
     ], 
     "👐": [
-        "segno delle mani aperte", 
+        "mani aperte: fototipo 5", 
+        "mani aperte: fototipo 4", 
+        "mani aperte: fototipo 6", 
+        "mani aperte: fototipo 3", 
+        "mani aperte: fototipo 1–2", 
         "mani aperte", 
+        "fototipo 3", 
         "segno", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
         "aperta", 
-        "mano"
+        "fototipo 1–2", 
+        "mano", 
+        "segno delle mani aperte"
     ], 
     "👑": [
         "abbigliamento", 
@@ -3171,63 +4343,202 @@
         "persone"
     ], 
     "👦": [
-        "ragazzino", 
+        "persone", 
         "bambino", 
-        "persone"
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "ragazzino", 
+        "bambino: fototipo 6", 
+        "bambino: fototipo 5", 
+        "bambino: fototipo 4", 
+        "bambino: fototipo 3", 
+        "bambino: fototipo 1–2"
     ], 
     "👧": [
+        "bambina: fototipo 3", 
+        "bambina: fototipo 5", 
+        "bambina: fototipo 1–2", 
         "persone", 
+        "bambina", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "bambina: fototipo 6", 
         "ragazzina", 
-        "bambina"
+        "bambina: fototipo 4"
     ], 
     "👨": [
+        "persone", 
+        "uomo: fototipo 3", 
+        "uomo: fototipo 4", 
+        "uomo: fototipo 6", 
+        "uomo: fototipo 1–2", 
+        "uomo: fototipo 5", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "maschio", 
+        "uomo"
+    ], 
+    "👨‍⚕️": [
+        "camice", 
+        "dottore", 
         "uomo", 
-        "persone"
+        "operatore sanitario", 
+        "ospedale"
+    ], 
+    "👨‍⚖️": [
+        "bilancia", 
+        "giustizia", 
+        "uomo", 
+        "giudice uomo", 
+        "giudice"
+    ], 
+    "👨‍✈️": [
+        "pilota", 
+        "uomo", 
+        "aeroplano", 
+        "aereo", 
+        "pilota uomo"
+    ], 
+    "👨‍❤️‍👨": [
+        "persone", 
+        "cuore", 
+        "coppia con cuore: uomo e uomo", 
+        "coppia con cuore", 
+        "romanticismo", 
+        "uomo"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "coppia", 
+        "persone", 
+        "uomo", 
+        "baciarsi", 
+        "romanticismo", 
+        "bacio tra coppia: uomo e uomo", 
+        "bacio tra coppia", 
+        "coppietta"
     ], 
     "👨‍🌾": [
-        "contadino", 
         "fattoria", 
+        "fototipo 1–2", 
+        "contadino", 
+        "contadino: fototipo 4", 
+        "contadino: fototipo 5", 
+        "contadino: fototipo 3", 
+        "fototipo 6", 
+        "contadino: fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "contadino: fototipo 1–2", 
         "uomo", 
         "allevatore"
     ], 
     "👨‍🍳": [
-        "chef", 
         "cucinare", 
-        "uomo", 
-        "cuoco"
+        "fototipo 6", 
+        "cuoco: fototipo 1–2", 
+        "cuoco: fototipo 4", 
+        "cuoco", 
+        "chef", 
+        "cuoco: fototipo 3", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "cuoco: fototipo 6", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "cuoco: fototipo 5", 
+        "uomo"
     ], 
     "👨‍🎓": [
-        "maschio", 
-        "laurea", 
+        "studente: fototipo 6", 
         "ragazzo", 
-        "studente"
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
+        "studente: fototipo 3", 
+        "laurea", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "studente: fototipo 1–2", 
+        "studente: fototipo 4", 
+        "maschio", 
+        "studente", 
+        "studente: fototipo 5"
     ], 
     "👨‍🎤": [
-        "attore", 
-        "musica", 
         "star", 
+        "cantante uomo: fototipo 1–2", 
+        "cantante uomo: fototipo 3", 
+        "cantante uomo: fototipo 5", 
+        "cantante uomo: fototipo 4", 
         "cantante", 
+        "cantante uomo: fototipo 6", 
+        "fototipo 6", 
+        "attore", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "musica", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "cantante uomo"
     ], 
     "👨‍🎨": [
+        "artista", 
         "pittore", 
-        "uomo", 
+        "artista uomo: fototipo 5", 
         "artista uomo", 
+        "artista uomo: fototipo 1–2", 
+        "artista uomo: fototipo 3", 
+        "fototipo 6", 
+        "artista uomo: fototipo 4", 
+        "fototipo 4", 
+        "fototipo 5", 
         "arte", 
-        "artista"
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "uomo", 
+        "artista uomo: fototipo 6"
     ], 
     "👨‍🏫": [
         "insegnante", 
-        "studio", 
         "scuola", 
-        "professore"
+        "professore", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "professore: fototipo 1–2", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "studio", 
+        "professore: fototipo 3", 
+        "professore: fototipo 4", 
+        "professore: fototipo 5", 
+        "professore: fototipo 6"
     ], 
     "👨‍🏭": [
-        "fabbrica", 
         "operaio", 
+        "fototipo 6", 
+        "operaio: fototipo 4", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "operaio: fototipo 1–2", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "fabbrica", 
+        "operaio: fototipo 5", 
+        "operaio: fototipo 6", 
         "uomo", 
-        "industria"
+        "industria", 
+        "operaio: fototipo 3"
     ], 
     "👨‍👦": [
         "famiglia", 
@@ -3380,94 +4691,293 @@
     ], 
     "👨‍💻": [
         "tecnologo", 
+        "fototipo 1–2", 
+        "tecnologo: fototipo 1–2", 
+        "tecnologo: fototipo 3", 
+        "programmatore", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
         "computer", 
-        "uomo", 
+        "fototipo 3", 
         "sviluppatore", 
-        "programmatore"
+        "tecnologo: fototipo 6", 
+        "tecnologo: fototipo 5", 
+        "tecnologo: fototipo 4", 
+        "uomo"
     ], 
     "👨‍💼": [
-        "ufficio", 
-        "manager", 
-        "uomo", 
         "impiegato", 
-        "business"
+        "business", 
+        "impiegato: fototipo 3", 
+        "impiegato: fototipo 4", 
+        "fototipo 4", 
+        "impiegato: fototipo 6", 
+        "impiegato: fototipo 5", 
+        "fototipo 6", 
+        "manager", 
+        "fototipo 5", 
+        "impiegato: fototipo 1–2", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "uomo", 
+        "ufficio"
     ], 
     "👨‍🔧": [
+        "meccanico uomo: fototipo 3", 
+        "meccanico uomo: fototipo 6", 
+        "meccanico uomo: fototipo 1–2", 
+        "meccanico uomo: fototipo 4", 
+        "fototipo 6", 
         "meccanico", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "chiave inglese", 
         "idraulico", 
         "uomo", 
-        "meccanico uomo", 
-        "chiave inglese"
+        "meccanico uomo: fototipo 5", 
+        "meccanico uomo"
     ], 
     "👨‍🔬": [
-        "scienziato", 
-        "uomo", 
-        "scienza", 
+        "scienziato: fototipo 6", 
         "biologia", 
+        "scienza", 
+        "scienziato: fototipo 5", 
+        "scienziato: fototipo 4", 
+        "scienziato", 
+        "fototipo 3", 
+        "scienziato: fototipo 3", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "scienziato: fototipo 1–2", 
+        "fototipo 1–2", 
+        "uomo", 
         "chimica"
     ], 
     "👨‍🚀": [
-        "uomo", 
+        "astronauta uomo: fototipo 1–2", 
+        "spazio", 
         "astronauta", 
         "astronauta uomo", 
-        "spazio", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "astronauta uomo: fototipo 3", 
+        "astronauta uomo: fototipo 4", 
+        "uomo", 
+        "astronauta uomo: fototipo 6", 
+        "astronauta uomo: fototipo 5", 
         "razzo"
     ], 
     "👨‍🚒": [
+        "pompiere uomo: fototipo 4", 
+        "pompiere uomo: fototipo 5", 
+        "pompiere uomo: fototipo 6", 
         "vigile del fuoco", 
+        "pompiere uomo: fototipo 3", 
+        "fototipo 4", 
+        "pompiere uomo: fototipo 1–2", 
         "pompiere uomo", 
-        "uomo", 
+        "fototipo 5", 
         "pompiere", 
-        "incendio"
+        "fototipo 1–2", 
+        "incendio", 
+        "fototipo 6", 
+        "uomo", 
+        "fototipo 3"
     ], 
     "👩": [
+        "fototipo 6", 
         "femmina", 
+        "donna: fototipo 5", 
+        "persone", 
+        "donna: fototipo 4", 
+        "donna: fototipo 3", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "donna: fototipo 1–2", 
+        "donna: fototipo 6", 
+        "donna"
+    ], 
+    "👩‍⚕️": [
+        "camice", 
+        "dottore", 
         "donna", 
-        "persone"
+        "operatrice sanitaria", 
+        "ospedale"
+    ], 
+    "👩‍⚖️": [
+        "bilancia", 
+        "giustizia", 
+        "giudice donna", 
+        "donna", 
+        "giudice"
+    ], 
+    "👩‍✈️": [
+        "pilota", 
+        "pilota donna", 
+        "aeroplano", 
+        "aereo", 
+        "donna"
+    ], 
+    "👩‍❤️‍👨": [
+        "persone", 
+        "cuore", 
+        "coppia con cuore: donna e uomo", 
+        "coppia con cuore", 
+        "romanticismo", 
+        "donna", 
+        "uomo"
+    ], 
+    "👩‍❤️‍👩": [
+        "persone", 
+        "cuore", 
+        "coppia con cuore", 
+        "romanticismo", 
+        "donna", 
+        "coppia con cuore: donna e donna"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "coppia", 
+        "persone", 
+        "bacio tra coppia: donna e uomo", 
+        "uomo", 
+        "baciarsi", 
+        "romanticismo", 
+        "donna", 
+        "bacio tra coppia", 
+        "coppietta"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "coppia", 
+        "persone", 
+        "bacio tra coppia: donna e donna", 
+        "baciarsi", 
+        "romanticismo", 
+        "donna", 
+        "bacio tra coppia", 
+        "coppietta"
     ], 
     "👩‍🌾": [
         "fattoria", 
-        "donna", 
+        "contadina: fototipo 1–2", 
         "contadina", 
+        "fototipo 3", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "donna", 
+        "fototipo 1–2", 
+        "contadina: fototipo 3", 
+        "contadina: fototipo 4", 
+        "contadina: fototipo 5", 
+        "contadina: fototipo 6", 
         "allevatrice"
     ], 
     "👩‍🍳": [
-        "chef", 
         "cucinare", 
+        "cuoca: fototipo 1–2", 
+        "cuoca: fototipo 4", 
+        "fototipo 4", 
+        "chef", 
+        "cuoca: fototipo 5", 
         "cuoca", 
-        "donna"
+        "fototipo 5", 
+        "donna", 
+        "fototipo 1–2", 
+        "cuoca: fototipo 3", 
+        "fototipo 6", 
+        "cuoca: fototipo 6", 
+        "fototipo 3"
     ], 
     "👩‍🎓": [
         "femmina", 
         "ragazza", 
+        "studentessa: fototipo 4", 
+        "studentessa: fototipo 5", 
+        "studentessa", 
+        "studentessa: fototipo 3", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "studentessa: fototipo 1–2", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "laurea", 
-        "studentessa"
+        "studentessa: fototipo 6"
     ], 
     "👩‍🎤": [
-        "musica", 
+        "cantante donna: fototipo 1–2", 
+        "star", 
         "cantante donna", 
-        "attrice", 
         "cantante", 
-        "star"
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "musica", 
+        "attrice", 
+        "fototipo 1–2", 
+        "cantante donna: fototipo 3", 
+        "cantante donna: fototipo 5", 
+        "cantante donna: fototipo 6", 
+        "cantante donna: fototipo 4", 
+        "fototipo 3"
     ], 
     "👩‍🎨": [
+        "artista donna: fototipo 5", 
+        "artista donna: fototipo 4", 
+        "artista donna: fototipo 6", 
+        "artista", 
+        "artista donna: fototipo 3", 
+        "fototipo 4", 
+        "fototipo 3", 
+        "fototipo 6", 
+        "fototipo 5", 
         "pittrice", 
         "artista donna", 
         "arte", 
-        "artista", 
-        "donna"
+        "donna", 
+        "fototipo 1–2", 
+        "artista donna: fototipo 1–2"
     ], 
     "👩‍🏫": [
         "insegnante", 
-        "studio", 
+        "professoressa: fototipo 6", 
         "scuola", 
-        "professoressa"
+        "professoressa: fototipo 3", 
+        "professoressa: fototipo 4", 
+        "professoressa: fototipo 5", 
+        "professoressa", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "studio", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "professoressa: fototipo 1–2"
     ], 
     "👩‍🏭": [
-        "fabbrica", 
+        "operaia: fototipo 4", 
         "operaia", 
+        "operaia: fototipo 1–2", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
         "donna", 
-        "industria"
+        "fototipo 1–2", 
+        "fabbrica", 
+        "operaia: fototipo 3", 
+        "operaia: fototipo 5", 
+        "operaia: fototipo 6", 
+        "industria", 
+        "fototipo 3"
     ], 
     "👩‍👦": [
         "famiglia", 
@@ -3566,53 +5076,106 @@
         "papà"
     ], 
     "👩‍💻": [
-        "sviluppatrice", 
+        "fototipo 6", 
+        "tecnologa: fototipo 3", 
+        "tecnologa: fototipo 5", 
+        "tecnologa: fototipo 4", 
+        "tecnologa: fototipo 6", 
+        "tecnologa: fototipo 1–2", 
+        "fototipo 3", 
         "tecnologa", 
+        "sviluppatrice", 
+        "fototipo 5", 
+        "fototipo 4", 
         "computer", 
         "donna", 
+        "fototipo 1–2", 
         "programmatrice"
     ], 
     "👩‍💼": [
-        "impiegata", 
-        "ufficio", 
+        "impiegata: fototipo 1–2", 
+        "business", 
+        "fototipo 4", 
+        "fototipo 6", 
+        "impiegata: fototipo 6", 
         "manager", 
+        "fototipo 5", 
         "donna", 
-        "business"
+        "fototipo 1–2", 
+        "impiegata", 
+        "impiegata: fototipo 4", 
+        "impiegata: fototipo 5", 
+        "impiegata: fototipo 3", 
+        "ufficio", 
+        "fototipo 3"
     ], 
     "👩‍🔧": [
+        "meccanico donna: fototipo 3", 
+        "meccanico donna: fototipo 5", 
+        "meccanico donna: fototipo 1–2", 
+        "meccanico donna: fototipo 6", 
+        "chiave inglese", 
+        "fototipo 6", 
         "meccanico", 
-        "idraulico", 
+        "fototipo 4", 
+        "fototipo 5", 
         "donna", 
+        "fototipo 1–2", 
         "meccanico donna", 
-        "chiave inglese"
+        "idraulico", 
+        "meccanico donna: fototipo 4", 
+        "fototipo 3"
     ], 
     "👩‍🔬": [
-        "scienza", 
         "scienziata", 
+        "scienza", 
+        "scienziata: fototipo 1–2", 
+        "fototipo 3", 
+        "fototipo 6", 
+        "scienziata: fototipo 3", 
+        "fototipo 4", 
+        "fototipo 5", 
         "donna", 
+        "fototipo 1–2", 
         "biologia", 
+        "scienziata: fototipo 4", 
+        "scienziata: fototipo 6", 
+        "scienziata: fototipo 5", 
         "chimica"
     ], 
     "👩‍🚀": [
         "astronauta donna", 
-        "astronauta", 
-        "donna", 
         "spazio", 
+        "astronauta donna: fototipo 4", 
+        "astronauta donna: fototipo 5", 
+        "astronauta donna: fototipo 6", 
+        "astronauta donna: fototipo 1–2", 
+        "fototipo 3", 
+        "astronauta donna: fototipo 3", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "donna", 
+        "fototipo 1–2", 
+        "astronauta", 
         "razzo"
     ], 
     "👩‍🚒": [
-        "pompiere", 
-        "pompiere donna", 
+        "pompiere donna: fototipo 1–2", 
         "vigile del fuoco", 
+        "pompiere donna: fototipo 6", 
+        "fototipo 3", 
         "donna", 
-        "incendio"
-    ], 
-    "👪": [
-        "bambino", 
-        "papà", 
-        "mamma", 
-        "famiglia", 
-        "persone"
+        "fototipo 6", 
+        "fototipo 5", 
+        "pompiere donna: fototipo 3", 
+        "fototipo 4", 
+        "pompiere donna: fototipo 5", 
+        "pompiere", 
+        "fototipo 1–2", 
+        "incendio", 
+        "pompiere donna: fototipo 4", 
+        "pompiere donna"
     ], 
     "👫": [
         "uomo e donna che si tengono per mano", 
@@ -3639,71 +5202,178 @@
         "due donne per mano", 
         "due donne che si tengono per mano"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "divisa", 
         "polizia", 
         "agente", 
-        "poliziotto", 
-        "persone"
+        "poliziotta", 
+        "donna"
     ], 
-    "👯": [
-        "orecchie da coniglio", 
+    "👮‍♂️": [
+        "agente", 
+        "persone", 
+        "poliziotto", 
+        "divisa", 
+        "polizia", 
+        "poliziotto uomo", 
+        "uomo"
+    ], 
+    "👯‍♀️": [
+        "ballerina", 
         "persone con orecchie da coniglio", 
-        "donna", 
+        "persone", 
+        "donne con orecchie da coniglio", 
         "ragazza", 
-        "persone"
+        "donna", 
+        "party", 
+        "orecchie da coniglio"
+    ], 
+    "👯‍♂️": [
+        "party", 
+        "uomo", 
+        "orecchie da coniglio", 
+        "uomini con orecchie da coniglio", 
+        "ballerino"
     ], 
     "👰": [
         "velo", 
-        "sposa", 
         "matrimonio persone", 
-        "sposa con il velo"
+        "sposa", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "sposa con il velo", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "sposa: fototipo 4", 
+        "sposa: fototipo 6", 
+        "sposa: fototipo 5", 
+        "sposa: fototipo 1–2", 
+        "sposa: fototipo 3"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "femmina", 
+        "bionda", 
+        "donna"
+    ], 
+    "👱‍♂️": [
+        "maschio", 
         "persone", 
+        "uomo", 
         "biondo", 
         "persona bionda"
     ], 
     "👲": [
-        "uomo con zucchetto", 
         "uomo con zucchetto cinese", 
-        "zucchetto", 
-        "persone"
+        "persone", 
+        "uomo con zucchetto cinese: fototipo 5", 
+        "uomo con zucchetto cinese: fototipo 4", 
+        "uomo con zucchetto cinese: fototipo 6", 
+        "uomo con zucchetto cinese: fototipo 1–2", 
+        "uomo con zucchetto cinese: fototipo 3", 
+        "fototipo 6", 
+        "uomo con zucchetto", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "zucchetto"
     ], 
-    "👳": [
+    "👳‍♀️": [
         "turbante", 
-        "persona con turbante", 
-        "persone"
+        "femmina", 
+        "donna", 
+        "donna con turbante"
+    ], 
+    "👳‍♂️": [
+        "turbante", 
+        "persone", 
+        "uomo con turbante", 
+        "maschio", 
+        "uomo", 
+        "persona con turbante"
     ], 
     "👴": [
-        "persone", 
-        "uomo", 
-        "anziano", 
         "uomo anziano", 
-        "nonno"
+        "uomo anziano: fototipo 5", 
+        "persone", 
+        "uomo anziano: fototipo 6", 
+        "nonno", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
+        "uomo anziano: fototipo 3", 
+        "uomo anziano: fototipo 4", 
+        "anziano", 
+        "fototipo 1–2", 
+        "uomo anziano: fototipo 1–2", 
+        "uomo", 
+        "fototipo 3"
     ], 
     "👵": [
         "donna anziana", 
-        "anziana", 
-        "donna", 
+        "donna anziana: fototipo 6", 
+        "nonna", 
         "persone", 
-        "nonna"
+        "donna anziana: fototipo 5", 
+        "donna anziana: fototipo 4", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
+        "donna anziana: fototipo 1–2", 
+        "donna anziana: fototipo 3", 
+        "donna", 
+        "fototipo 1–2", 
+        "anziana", 
+        "fototipo 3"
     ], 
     "👶": [
         "figlio", 
+        "neonato: fototipo 3", 
+        "neonato: fototipo 6", 
+        "neonato: fototipo 5", 
+        "persone", 
+        "neonato: fototipo 4", 
         "bebè", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
         "neonato", 
-        "persone"
+        "fototipo 1–2", 
+        "neonato: fototipo 1–2", 
+        "fototipo 3"
     ], 
-    "👷": [
-        "operaio edile", 
+    "👷‍♀️": [
+        "edificio", 
+        "costruzioni", 
+        "operaia", 
+        "donna", 
+        "operaia edile"
+    ], 
+    "👷‍♂️": [
         "operaio", 
-        "edile", 
-        "persone"
+        "operaio edile uomo", 
+        "persone", 
+        "uomo", 
+        "costruzioni", 
+        "edificio", 
+        "operaio edile", 
+        "edile"
     ], 
     "👸": [
-        "favola", 
+        "principessa: fototipo 1–2", 
+        "principessa: fototipo 6", 
         "principessa", 
-        "persone"
+        "persone", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
+        "principessa: fototipo 3", 
+        "principessa: fototipo 4", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "favola", 
+        "principessa: fototipo 5"
     ], 
     "👹": [
         "favola", 
@@ -3728,9 +5398,19 @@
     ], 
     "👼": [
         "angelo", 
+        "fototipo 6", 
+        "faccina", 
+        "angioletto: fototipo 6", 
+        "angioletto: fototipo 4", 
+        "angioletto: fototipo 5", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "angioletto: fototipo 3", 
+        "angioletto: fototipo 1–2", 
         "favola", 
-        "angioletto", 
-        "faccina"
+        "angioletto"
     ], 
     "👽": [
         "extraterrestre", 
@@ -3757,19 +5437,47 @@
         "mostro", 
         "morte"
     ], 
-    "💁": [
-        "informazioni", 
+    "💁‍♀️": [
         "persone", 
+        "informazioni", 
+        "donna con suggerimento", 
+        "indicazione", 
         "assistenza", 
+        "donna", 
         "persona al punto informazioni"
     ], 
-    "💂": [
-        "guardia"
+    "💁‍♂️": [
+        "informazioni", 
+        "uomo", 
+        "uomo con suggerimento", 
+        "indicazione"
+    ], 
+    "💂‍♀️": [
+        "femmina", 
+        "guardia", 
+        "guardia donna", 
+        "donna"
+    ], 
+    "💂‍♂️": [
+        "guardia", 
+        "maschio", 
+        "uomo", 
+        "guardia uomo"
     ], 
     "💃": [
+        "persone", 
         "ballare", 
         "donna che balla", 
-        "persone"
+        "donna che balla: fototipo 5", 
+        "donna che balla: fototipo 4", 
+        "donna che balla: fototipo 3", 
+        "donna che balla: fototipo 1–2", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "donna che balla: fototipo 6"
     ], 
     "💄": [
         "trucco", 
@@ -3778,21 +5486,50 @@
         "cosmetici"
     ], 
     "💅": [
-        "smalto per unghie", 
         "smalto", 
+        "smalto per unghie: fototipo 1–2", 
+        "smalto per unghie: fototipo 6", 
+        "smalto per unghie: fototipo 4", 
+        "smalto per unghie: fototipo 5", 
         "manicure", 
-        "cosmetici"
+        "smalto per unghie: fototipo 3", 
+        "cosmetici", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "smalto per unghie"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "faccia", 
+        "massaggio", 
+        "massaggio al viso per donna", 
         "centro estetico", 
         "massaggio facciale", 
-        "massaggio"
+        "viso", 
+        "donna"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "uomo", 
+        "massaggio al viso per uomo", 
+        "faccia", 
+        "massaggio", 
+        "viso"
+    ], 
+    "💇‍♀️": [
+        "bellezza", 
+        "taglio di capelli per donna", 
+        "taglio di capelli", 
+        "donna", 
+        "salone", 
+        "salone di bellezza"
+    ], 
+    "💇‍♂️": [
+        "taglio di capelli per uomo", 
         "bellezza", 
         "taglio di capelli", 
-        "salone di bellezza", 
-        "salone"
+        "uomo"
     ], 
     "💈": [
         "insegna", 
@@ -3832,24 +5569,10 @@
         "gemma", 
         "diamante"
     ], 
-    "💏": [
-        "coppia", 
-        "persone", 
-        "baciarsi", 
-        "romanticismo", 
-        "bacio tra coppia", 
-        "coppietta"
-    ], 
     "💐": [
         "fiore", 
         "romanticismo", 
         "mazzo di fiori"
-    ], 
-    "💑": [
-        "coppia con cuore", 
-        "cuore", 
-        "romanticismo", 
-        "persone"
     ], 
     "💒": [
         "chiesa", 
@@ -4014,11 +5737,21 @@
         "pupù"
     ], 
     "💪": [
-        "muscolo", 
-        "forte", 
-        "bicipite", 
+        "fototipo 6", 
         "teso", 
-        "fumetto"
+        "fumetto", 
+        "bicipite: fototipo 3", 
+        "bicipite: fototipo 4", 
+        "bicipite: fototipo 1–2", 
+        "bicipite: fototipo 6", 
+        "muscolo", 
+        "bicipite: fototipo 5", 
+        "forte", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "bicipite"
     ], 
     "💫": [
         "vorticoso", 
@@ -4476,6 +6209,15 @@
         "videocassetta", 
         "video"
     ], 
+    "📽️": [
+        "filmato", 
+        "cinema", 
+        "videoproiettore", 
+        "video", 
+        "film", 
+        "riproduzione", 
+        "proiettore"
+    ], 
     "📿": [
         "rosario", 
         "preghiera"
@@ -4843,6 +6585,19 @@
         "triangolo", 
         "pulsante triangolo basso"
     ], 
+    "🕉️": [
+        "mantra", 
+        "Om", 
+        "Induismo", 
+        "religione induista"
+    ], 
+    "🕊️": [
+        "uccello", 
+        "pace", 
+        "colomba", 
+        "Pasqua", 
+        "ulivo"
+    ], 
     "🕋": [
         "religione", 
         "Arabia Saudita", 
@@ -5012,21 +6767,135 @@
         "12:30", 
         "ore dodici e mezza"
     ], 
+    "🕯️": [
+        "calore", 
+        "cera", 
+        "candela accesa", 
+        "a lume di candela", 
+        "luce", 
+        "illuminare"
+    ], 
+    "🕰️": [
+        "orologio", 
+        "orologio da mensola", 
+        "ora"
+    ], 
+    "🕳️": [
+        "buco", 
+        "nero", 
+        "fumetto"
+    ], 
+    "🕴️": [
+        "uomo elegante che levita", 
+        "uomo", 
+        "vestito elegante"
+    ], 
+    "🕵️‍♂️": [
+        "detective", 
+        "investigatore", 
+        "mistero"
+    ], 
+    "🕶️": [
+        "occhiali da sole", 
+        "occhiali scuri"
+    ], 
+    "🕷️": [
+        "animale", 
+        "insetto", 
+        "ragno"
+    ], 
+    "🕸️": [
+        "ragno", 
+        "ragnatela"
+    ], 
+    "🕹️": [
+        "videogioco", 
+        "joystick", 
+        "leva del joystick", 
+        "giocare"
+    ], 
     "🕺": [
+        "uomo che balla: fototipo 6", 
+        "fototipo 6", 
+        "uomo che balla: fototipo 4", 
+        "uomo che balla: fototipo 5", 
+        "uomo che balla: fototipo 3", 
+        "uomo che balla: fototipo 1–2", 
         "ballare", 
         "uomo che balla", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "uomo"
+    ], 
+    "🖇️": [
+        "fermagli", 
+        "allegare", 
+        "cancelleria", 
+        "graffette attaccate"
+    ], 
+    "🖊️": [
+        "scrivere a penna", 
+        "penna a sfera"
+    ], 
+    "🖋️": [
+        "penna stilografica", 
+        "cartuccia", 
+        "pennino", 
+        "inchiostro"
+    ], 
+    "🖌️": [
+        "pennello", 
+        "artista", 
+        "pittore", 
+        "colorare", 
+        "pennellare", 
+        "dipingere"
+    ], 
+    "🖍️": [
+        "colorare con pastelli", 
+        "colori", 
+        "pastello a cera", 
+        "colorare", 
+        "disegnare"
+    ], 
+    "🖐️": [
+        "cinque dita", 
+        "mano aperta", 
+        "palmo della mano", 
+        "mano alzata"
     ], 
     "🖕": [
         "offendere", 
+        "dito medio: fototipo 6", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
         "insulto", 
-        "dito medio"
+        "dito medio: fototipo 4", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "dito medio: fototipo 3", 
+        "dito medio: fototipo 1–2", 
+        "dito medio", 
+        "dito medio: fototipo 5"
     ], 
     "🖖": [
+        "fototipo 6", 
+        "saluto vulcaniano: fototipo 5", 
+        "saluto vulcaniano: fototipo 1–2", 
+        "saluto vulcaniano: fototipo 3", 
+        "fototipo 5", 
+        "fototipo 4", 
         "Spock", 
         "saluto", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "saluto vulcaniano: fototipo 4", 
+        "Star Trek", 
         "saluto vulcaniano", 
-        "Star Trek"
+        "saluto vulcaniano: fototipo 6"
     ], 
     "🖤": [
         "cuore", 
@@ -5034,6 +6903,134 @@
         "dolore", 
         "nero", 
         "tristezza"
+    ], 
+    "🖥️": [
+        "computer fisso", 
+        "PC tutto in uno", 
+        "desktop PC", 
+        "desktop"
+    ], 
+    "🖨️": [
+        "stampe", 
+        "fotocopie", 
+        "stampante", 
+        "stampare"
+    ], 
+    "🖱️": [
+        "cursore", 
+        "mouse senza fili", 
+        "mouse"
+    ], 
+    "🖲️": [
+        "mouse con trackball", 
+        "sfera", 
+        "puntamento", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "museo", 
+        "cornice", 
+        "quadro", 
+        "opera d’arte", 
+        "quadro incorniciato"
+    ], 
+    "🗂️": [
+        "schedario", 
+        "documenti", 
+        "archivio", 
+        "ordinare", 
+        "divisori"
+    ], 
+    "🗃️": [
+        "schedario", 
+        "documenti", 
+        "archivio", 
+        "archiviare", 
+        "contenitore"
+    ], 
+    "🗄️": [
+        "documenti", 
+        "file", 
+        "armadietto schedario", 
+        "archiviare", 
+        "schedario"
+    ], 
+    "🗑️": [
+        "cestino", 
+        "buttare", 
+        "cartacce", 
+        "rifiuti"
+    ], 
+    "🗒️": [
+        "appunti", 
+        "scrivere", 
+        "blocco a spirale", 
+        "blocco", 
+        "appuntare", 
+        "blocchetto degli appunti"
+    ], 
+    "🗓️": [
+        "giorni", 
+        "calendario a spirale"
+    ], 
+    "🗜️": [
+        "serrare", 
+        "fissare", 
+        "morsa", 
+        "stringere", 
+        "utensile"
+    ], 
+    "🗝️": [
+        "chiave antica", 
+        "chiave", 
+        "chiudere a chiave", 
+        "serratura"
+    ], 
+    "🗞️": [
+        "quotidiano arrotolato", 
+        "arrotolato", 
+        "giornale", 
+        "consegna a domicilio", 
+        "notizie"
+    ], 
+    "🗡️": [
+        "pugnalare", 
+        "affilato", 
+        "pugnale", 
+        "arma"
+    ], 
+    "🗣️": [
+        "parlare", 
+        "persona che parla", 
+        "profilo", 
+        "persona"
+    ], 
+    "🗨️": [
+        "dialogo", 
+        "nuvoletta", 
+        "nuvoletta nera", 
+        "fumetto"
+    ], 
+    "🗯️": [
+        "dialogo", 
+        "nuvoletta rabbia", 
+        "rabbia", 
+        "fumetto"
+    ], 
+    "🗳️": [
+        "elezioni", 
+        "votare", 
+        "scheda elettorale", 
+        "voto", 
+        "urna", 
+        "urna elettorale", 
+        "esprimere un voto"
+    ], 
+    "🗺️": [
+        "mondo", 
+        "mappa mondiale", 
+        "mappa", 
+        "cartina"
     ], 
     "🗻": [
         "Monte Fuji", 
@@ -5514,26 +7511,59 @@
         "roteare gli occhi", 
         "sollevare gli occhi al cielo"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "rifiuto", 
         "non bene", 
         "vietato", 
+        "proibito", 
+        "no", 
         "faccina", 
         "gesto di rifiuto", 
+        "donna con gesto di rifiuto", 
+        "donna", 
         "gesto"
     ], 
-    "🙆": [
-        "faccina", 
-        "gesto OK", 
-        "OK", 
-        "gesto", 
-        "tutto bene"
+    "🙅‍♂️": [
+        "rifiuto", 
+        "uomo", 
+        "uomo con gesto di rifiuto", 
+        "proibito", 
+        "no"
     ], 
-    "🙇": [
-        "persona che fa un inchino profondo", 
-        "mi dispiace", 
+    "🙆‍♀️": [
+        "OK", 
+        "gesto OK", 
+        "donna con gesto OK", 
+        "faccina", 
+        "d’accordo", 
+        "tutto bene", 
+        "donna", 
+        "ok", 
+        "gesto"
+    ], 
+    "🙆‍♂️": [
+        "uomo", 
+        "uomo con gesto OK", 
+        "ok", 
+        "d’accordo", 
+        "gesto"
+    ], 
+    "🙇‍♀️": [
+        "scuse", 
+        "inchino", 
+        "donna", 
         "gesto", 
-        "persona"
+        "donna che fa inchino profondo"
+    ], 
+    "🙇‍♂️": [
+        "inchino", 
+        "scuse", 
+        "persona che fa un inchino profondo", 
+        "persona", 
+        "uomo che fa inchino profondo", 
+        "mi dispiace", 
+        "uomo", 
+        "gesto"
     ], 
     "🙈": [
         "non vedo", 
@@ -5550,38 +7580,86 @@
         "non parlo", 
         "scimmietta non parlo"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "mano alzata", 
+        "donna con mano alzata", 
         "persona", 
         "persona felice con mano alzata", 
+        "donna", 
         "felice", 
         "gesto", 
         "persona con mano alzata"
     ], 
+    "🙋‍♂️": [
+        "uomo con mano alzata", 
+        "mano alzata", 
+        "uomo", 
+        "gesto"
+    ], 
     "🙌": [
-        "mani", 
-        "vittoria", 
         "evviva", 
         "mani alzate", 
-        "urrà"
+        "urrà: fototipo 6", 
+        "urrà: fototipo 4", 
+        "vittoria", 
+        "urrà: fototipo 5", 
+        "fototipo 6", 
+        "urrà", 
+        "fototipo 4", 
+        "urrà: fototipo 1–2", 
+        "urrà: fototipo 3", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "mani", 
+        "fototipo 5"
     ], 
-    "🙍": [
-        "persona corrucciata", 
+    "🙍‍♀️": [
+        "femmina", 
         "persona", 
         "corrucciata", 
+        "persona corrucciata", 
+        "donna corrucciata", 
+        "donna", 
         "gesto"
     ], 
-    "🙎": [
-        "imbronciata", 
-        "persona", 
-        "persona imbronciata", 
+    "🙍‍♂️": [
+        "maschio", 
+        "uomo corrucciato", 
+        "corrucciato", 
+        "uomo", 
         "gesto"
+    ], 
+    "🙎‍♀️": [
+        "femmina", 
+        "persona", 
+        "donna imbronciata", 
+        "persona imbronciata", 
+        "donna", 
+        "imbronciata", 
+        "gesto"
+    ], 
+    "🙎‍♂️": [
+        "maschio", 
+        "uomo", 
+        "gesto", 
+        "imbronciato", 
+        "uomo imbronciato"
     ], 
     "🙏": [
+        "preghiera", 
+        "mani giunte: fototipo 4", 
+        "mani giunte: fototipo 1–2", 
+        "fototipo 6", 
+        "mani giunte: fototipo 3", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "mani giunte: fototipo 6", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "mani giunte: fototipo 5", 
         "pregare", 
         "mani giunte", 
         "gesto", 
-        "preghiera", 
         "mano"
     ], 
     "🚀": [
@@ -5765,11 +7843,19 @@
         "veicolo", 
         "imbarcazione"
     ], 
-    "🚣": [
-        "remi", 
-        "veicolo", 
+    "🚣‍♀️": [
+        "donna in barca a remi", 
+        "donna", 
         "barca", 
-        "persona in barca a remi"
+        "remi"
+    ], 
+    "🚣‍♂️": [
+        "barca", 
+        "persona in barca a remi", 
+        "uomo in barca a remi", 
+        "remi", 
+        "uomo", 
+        "veicolo"
     ], 
     "🚤": [
         "motoscafo", 
@@ -5848,17 +7934,49 @@
         "bicicletta", 
         "divieto transito biciclette"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "bicicletta", 
+        "sport", 
+        "ciclista", 
+        "ciclista donna", 
+        "bici"
+    ], 
+    "🚴‍♂️": [
+        "ciclista uomo", 
+        "bicicletta", 
+        "sport", 
         "ciclista", 
         "bici"
     ], 
-    "🚵": [
-        "ciclista di mountain bike", 
-        "ciclista", 
-        "mountain bike"
+    "🚵‍♀️": [
+        "mountain bike", 
+        "bicicletta", 
+        "sport", 
+        "ciclista donna di mountain bike", 
+        "bici"
     ], 
-    "🚶": [
+    "🚵‍♂️": [
+        "ciclista uomo di mountain bike", 
+        "ciclista di mountain bike", 
+        "bici", 
+        "ciclista", 
+        "bicicletta", 
+        "mountain bike", 
+        "sport"
+    ], 
+    "🚶‍♀️": [
+        "camminare", 
+        "pedone", 
+        "donna", 
+        "passeggiata", 
+        "donna che cammina"
+    ], 
+    "🚶‍♂️": [
+        "camminare", 
+        "uomo che cammina", 
         "omino a piedi", 
+        "uomo", 
+        "passeggiata", 
         "pedone"
     ], 
     "🚷": [
@@ -5910,9 +8028,19 @@
         "doccia"
     ], 
     "🛀": [
+        "fare il bagno", 
         "persona che fa il bagno", 
+        "persona che fa il bagno: fototipo 1–2", 
         "lavarsi", 
-        "fare il bagno"
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "persona che fa il bagno: fototipo 6", 
+        "persona che fa il bagno: fototipo 4", 
+        "persona che fa il bagno: fototipo 5", 
+        "persona che fa il bagno: fototipo 3"
     ], 
     "🛁": [
         "vasca da bagno", 
@@ -5939,12 +8067,44 @@
         "servizio bagagli", 
         "deposito bagagli"
     ], 
+    "🛋️": [
+        "divano e lampada", 
+        "divano", 
+        "salotto", 
+        "relax"
+    ], 
     "🛌": [
-        "letto", 
-        "persona a letto", 
+        "persona a letto: fototipo 4", 
+        "persona a letto: fototipo 5", 
+        "persona a letto: fototipo 6", 
         "hotel", 
         "dormire", 
-        "notte"
+        "notte", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "persona a letto", 
+        "fototipo 4", 
+        "persona a letto: fototipo 1–2", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "letto", 
+        "persona a letto: fototipo 3"
+    ], 
+    "🛍️": [
+        "sacchetti regalo", 
+        "borse della spesa", 
+        "sacchetti"
+    ], 
+    "🛎️": [
+        "hotel", 
+        "campanello", 
+        "reception", 
+        "campanello da hotel"
+    ], 
+    "🛏️": [
+        "letto", 
+        "hotel", 
+        "dormire"
     ], 
     "🛐": [
         "luogo di culto", 
@@ -5967,6 +8127,47 @@
         "acquistare", 
         "carrello"
     ], 
+    "🛠️": [
+        "simbolo impostazioni", 
+        "martello e chiave inglese", 
+        "utensili", 
+        "attrezzi"
+    ], 
+    "🛡️": [
+        "combattimento", 
+        "cavaliere", 
+        "duello", 
+        "torneo", 
+        "scudo", 
+        "protezione", 
+        "medioevo", 
+        "simbolo"
+    ], 
+    "🛢️": [
+        "fusto", 
+        "barile di petrolio", 
+        "barile", 
+        "bidone", 
+        "petrolio"
+    ], 
+    "🛣️": [
+        "autostrada", 
+        "strada veloce", 
+        "pedaggio"
+    ], 
+    "🛤️": [
+        "binari", 
+        "treno"
+    ], 
+    "🛥️": [
+        "barca a motore", 
+        "motore", 
+        "barca"
+    ], 
+    "🛩️": [
+        "aereo turistico", 
+        "velivolo"
+    ], 
     "🛫": [
         "aereo", 
         "decollo", 
@@ -5981,6 +8182,15 @@
         "pista d’atterraggio", 
         "aereo", 
         "arrivi"
+    ], 
+    "🛰️": [
+        "satellite", 
+        "spazio"
+    ], 
+    "🛳️": [
+        "crociera", 
+        "nave", 
+        "vacanza"
     ], 
     "🛴": [
         "monopattino"
@@ -6058,31 +8268,81 @@
         "sorriso"
     ], 
     "🤘": [
+        "segno delle corna: fototipo 1–2", 
+        "fototipo 6", 
+        "segno delle corna: fototipo 4", 
+        "segno delle corna: fototipo 5", 
+        "segno delle corna: fototipo 6", 
+        "fototipo 4", 
+        "corna", 
+        "fare le corna", 
         "rock and roll", 
         "segno delle corna", 
-        "corna", 
-        "fare le corna"
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "segno delle corna: fototipo 3"
     ], 
     "🤙": [
+        "mano con gesto di chiamata: fototipo 4", 
+        "mano con gesto di chiamata: fototipo 5", 
+        "mano con gesto di chiamata: fototipo 6", 
+        "mano con gesto di chiamata: fototipo 3", 
+        "mano con gesto di chiamata: fototipo 1–2", 
         "mano con gesto di chiamata", 
-        "telefonare", 
         "chiamare", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "telefonare", 
         "mano"
     ], 
     "🤚": [
-        "mano", 
+        "dorso mano alzata: fototipo 3", 
+        "dorso mano alzata: fototipo 1–2", 
         "dorso mano alzata", 
-        "alzata"
+        "dorso mano alzata: fototipo 4", 
+        "alzata", 
+        "fototipo 6", 
+        "dorso mano alzata: fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "dorso mano alzata: fototipo 5", 
+        "mano"
     ], 
     "🤛": [
+        "pugno a sinistra: fototipo 6", 
+        "pugno a sinistra: fototipo 5", 
+        "pugno a sinistra: fototipo 4", 
+        "pugno a sinistra: fototipo 3", 
         "pugno", 
+        "sinistra", 
+        "pugno a sinistra: fototipo 1–2", 
+        "fototipo 6", 
         "pugno a sinistra", 
-        "sinistra"
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2"
     ], 
     "🤜": [
+        "destra", 
         "pugno", 
         "pugno a destra", 
-        "destra"
+        "pugno a destra: fototipo 5", 
+        "pugno a destra: fototipo 4", 
+        "pugno a destra: fototipo 3", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "pugno a destra: fototipo 6", 
+        "pugno a destra: fototipo 1–2"
     ], 
     "🤝": [
         "conoscere", 
@@ -6091,14 +8351,34 @@
         "mano"
     ], 
     "🤞": [
-        "dita incrociate", 
         "fortuna", 
-        "mano", 
+        "fototipo 6", 
+        "dita incrociate: fototipo 4", 
+        "dita incrociate: fototipo 5", 
+        "dita incrociate: fototipo 3", 
+        "dita incrociate: fototipo 6", 
+        "fototipo 4", 
+        "dita incrociate", 
+        "dita incrociate: fototipo 1–2", 
+        "fototipo 5", 
         "dita", 
-        "incrociare"
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "incrociare", 
+        "mano"
     ], 
     "🤟": [
+        "gesto ti amo: fototipo 6", 
+        "fototipo 6", 
+        "gesto ti amo: fototipo 1–2", 
+        "gesto ti amo: fototipo 5", 
+        "gesto ti amo: fototipo 3", 
+        "gesto ti amo: fototipo 4", 
         "gesto ti amo", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
         "gesto tvb"
     ], 
     "🤠": [
@@ -6144,7 +8424,31 @@
         "frustrazione", 
         "facepalm", 
         "incredulità", 
-        "mano in fronte"
+        "fototipo 5", 
+        "fototipo 4", 
+        "persona esasperata: fototipo 1–2", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "fototipo 6", 
+        "persona esasperata: fototipo 6", 
+        "persona esasperata: fototipo 3", 
+        "persona esasperata: fototipo 4", 
+        "mano in fronte", 
+        "persona esasperata: fototipo 5"
+    ], 
+    "🤦‍♀️": [
+        "esasperazione", 
+        "facepalm", 
+        "donna", 
+        "gesto", 
+        "donna esasperata"
+    ], 
+    "🤦‍♂️": [
+        "esasperazione", 
+        "facepalm", 
+        "uomo", 
+        "gesto", 
+        "uomo esasperato"
     ], 
     "🤧": [
         "faccina", 
@@ -6193,56 +8497,198 @@
     ], 
     "🤰": [
         "donna incinta", 
-        "incinta", 
+        "donna incinta: fototipo 6", 
+        "donna incinta: fototipo 5", 
+        "gravidanza", 
+        "donna incinta: fototipo 4", 
+        "fototipo 5", 
+        "fototipo 4", 
+        "donna incinta: fototipo 1–2", 
+        "donna incinta: fototipo 3", 
         "donna", 
-        "gravidanza"
+        "fototipo 1–2", 
+        "fototipo 6", 
+        "incinta", 
+        "fototipo 3"
     ], 
     "🤱": [
-        "allattare"
+        "allattare: fototipo 6", 
+        "allattare: fototipo 5", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
+        "allattare: fototipo 4", 
+        "allattare: fototipo 3", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "allattare", 
+        "allattare: fototipo 1–2"
     ], 
     "🤲": [
+        "mani unite in alto: fototipo 3", 
+        "mani unite in alto: fototipo 5", 
         "preghiera", 
-        "mani unite in alto"
+        "mani unite in alto", 
+        "mani unite in alto: fototipo 6", 
+        "fototipo 6", 
+        "mani unite in alto: fototipo 1–2", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "mani unite in alto: fototipo 4"
     ], 
     "🤳": [
-        "autoscatto", 
+        "fotocamera", 
         "selfie", 
+        "fototipo 6", 
+        "selfie: fototipo 4", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "selfie: fototipo 5", 
+        "selfie: fototipo 1–2", 
+        "autoscatto", 
+        "selfie: fototipo 6", 
         "telefono", 
-        "fotocamera"
+        "selfie: fototipo 3"
     ], 
     "🤴": [
-        "principe"
+        "fototipo 4", 
+        "fototipo 6", 
+        "principe", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "principe: fototipo 4", 
+        "principe: fototipo 5", 
+        "principe: fototipo 6", 
+        "principe: fototipo 1–2", 
+        "principe: fototipo 3"
     ], 
     "🤵": [
-        "smoking", 
-        "uomo", 
         "uomo in smoking", 
-        "sposo"
+        "uomo in smoking: fototipo 4", 
+        "uomo in smoking: fototipo 1–2", 
+        "sposo", 
+        "fototipo 6", 
+        "uomo in smoking: fototipo 3", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "uomo in smoking: fototipo 6", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "uomo in smoking: fototipo 5", 
+        "smoking", 
+        "uomo"
     ], 
     "🤶": [
-        "Mamma Natale", 
+        "natale", 
         "mamma natale", 
-        "natale"
+        "Mamma Natale", 
+        "Mamma Natale: fototipo 1–2", 
+        "Mamma Natale: fototipo 5", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "Mamma Natale: fototipo 3", 
+        "Mamma Natale: fototipo 4", 
+        "Mamma Natale: fototipo 6"
     ], 
     "🤷": [
         "noncuranza", 
-        "indifferenza", 
         "spalle alzate", 
-        "persona che scrolla le spalle", 
-        "dubbio"
+        "persona che scrolla le spalle: fototipo 3", 
+        "persona che scrolla le spalle: fototipo 5", 
+        "persona che scrolla le spalle: fototipo 4", 
+        "dubbio", 
+        "fototipo 6", 
+        "persona che scrolla le spalle: fototipo 1–2", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "indifferenza", 
+        "persona che scrolla le spalle: fototipo 6", 
+        "persona che scrolla le spalle"
+    ], 
+    "🤷‍♀️": [
+        "dubitare", 
+        "indifferenza", 
+        "donna", 
+        "gesto", 
+        "donna che scrolla le spalle"
+    ], 
+    "🤷‍♂️": [
+        "dubitare", 
+        "uomo che scrolla le spalle", 
+        "uomo", 
+        "gesto", 
+        "indifferenza"
     ], 
     "🤸": [
         "persona", 
+        "persona che fa la ruota: fototipo 1–2", 
         "ginnasta", 
+        "persona che fa la ruota: fototipo 3", 
+        "persona che fa la ruota: fototipo 4", 
+        "fototipo 1–2", 
+        "persona che fa la ruota: fototipo 6", 
+        "fototipo 4", 
         "ginnastica", 
+        "fototipo 6", 
         "persona che fa la ruota", 
+        "fototipo 5", 
+        "fototipo 3", 
         "ruota", 
+        "persona che fa la ruota: fototipo 5", 
         "sport"
+    ], 
+    "🤸‍♀️": [
+        "sport", 
+        "donna che fa la ruota", 
+        "donna", 
+        "ruota", 
+        "ginnastica"
+    ], 
+    "🤸‍♂️": [
+        "sport", 
+        "uomo", 
+        "uomo che fa la ruota", 
+        "ruota", 
+        "ginnastica"
     ], 
     "🤹": [
         "abilità", 
+        "giocoliere: fototipo 3", 
         "equilibrio", 
-        "giocoliere"
+        "giocoliere: fototipo 6", 
+        "giocoliere: fototipo 4", 
+        "giocoliere: fototipo 5", 
+        "giocoliere: fototipo 1–2", 
+        "giocoliere", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2"
+    ], 
+    "🤹‍♀️": [
+        "abilità", 
+        "giocoliere donna", 
+        "equilibrio", 
+        "giocoliere", 
+        "donna"
+    ], 
+    "🤹‍♂️": [
+        "abilità", 
+        "uomo", 
+        "equilibrio", 
+        "giocoliere", 
+        "giocoliere uomo"
     ], 
     "🤺": [
         "persona", 
@@ -6259,20 +8705,80 @@
         "wrestler", 
         "persone"
     ], 
+    "🤼‍♀️": [
+        "lottatrici", 
+        "sport", 
+        "wrestling", 
+        "donna", 
+        "lotta"
+    ], 
+    "🤼‍♂️": [
+        "lottatori", 
+        "wrestling", 
+        "sport", 
+        "uomo", 
+        "lotta"
+    ], 
     "🤽": [
+        "persona che gioca a pallanuoto: fototipo 6", 
+        "persona che gioca a pallanuoto: fototipo 5", 
         "persona", 
         "piscina", 
+        "fototipo 1–2", 
         "persona che gioca a pallanuoto", 
+        "persona che gioca a pallanuoto: fototipo 4", 
+        "fototipo 6", 
         "pallanuoto", 
+        "fototipo 4", 
+        "persona che gioca a pallanuoto: fototipo 1–2", 
+        "fototipo 3", 
         "acqua", 
-        "sport"
+        "persona che gioca a pallanuoto: fototipo 3", 
+        "sport", 
+        "fototipo 5"
+    ], 
+    "🤽‍♀️": [
+        "pallanuoto", 
+        "sport", 
+        "piscina", 
+        "donna", 
+        "pallanuotista donna"
+    ], 
+    "🤽‍♂️": [
+        "pallanuotista uomo", 
+        "uomo", 
+        "sport", 
+        "piscina", 
+        "pallanuoto"
     ], 
     "🤾": [
-        "sport", 
-        "persona che gioca a pallamano", 
+        "persona che gioca a pallamano: fototipo 3", 
         "persona", 
+        "persona che gioca a pallamano: fototipo 6", 
+        "persona che gioca a pallamano: fototipo 4", 
+        "persona che gioca a pallamano: fototipo 5", 
+        "persona che gioca a pallamano", 
+        "fototipo 4", 
+        "fototipo 6", 
+        "persona che gioca a pallamano: fototipo 1–2", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "palla", 
+        "sport", 
+        "pallamano"
+    ], 
+    "🤾‍♀️": [
+        "sport", 
         "pallamano", 
-        "palla"
+        "donna", 
+        "pallamanista donna"
+    ], 
+    "🤾‍♂️": [
+        "pallamano", 
+        "uomo", 
+        "sport", 
+        "pallamanista uomo"
     ], 
     "🥀": [
         "fiore", 
@@ -6619,65 +9125,170 @@
         "faccina con monocolo"
     ], 
     "🧑": [
-        "adulto"
+        "adulto: fototipo 6", 
+        "adulto: fototipo 5", 
+        "adulto: fototipo 4", 
+        "adulto: fototipo 3", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "adulto", 
+        "adulto: fototipo 1–2"
     ], 
     "🧒": [
+        "bimbo: fototipo 3", 
+        "bimbo: fototipo 6", 
+        "bimbo: fototipo 4", 
+        "bimbo: fototipo 5", 
+        "bimbo", 
+        "fototipo 4", 
+        "fototipo 6", 
+        "bimbo: fototipo 1–2", 
+        "fototipo 5", 
         "giovane", 
-        "bimbo"
+        "fototipo 3", 
+        "fototipo 1–2"
     ], 
     "🧓": [
-        "adulto anziano"
+        "adulto anziano: fototipo 5", 
+        "adulto anziano: fototipo 4", 
+        "adulto anziano: fototipo 6", 
+        "adulto anziano: fototipo 3", 
+        "fototipo 6", 
+        "fototipo 5", 
+        "fototipo 4", 
+        "adulto anziano", 
+        "adulto anziano: fototipo 1–2", 
+        "fototipo 1–2", 
+        "fototipo 3"
     ], 
     "🧔": [
         "barba", 
-        "persona con la barba"
+        "persona con la barba: fototipo 1–2", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "persona con la barba", 
+        "fototipo 1–2", 
+        "persona con la barba: fototipo 3", 
+        "persona con la barba: fototipo 4", 
+        "persona con la barba: fototipo 6", 
+        "persona con la barba: fototipo 5", 
+        "fototipo 3"
     ], 
     "🧕": [
-        "donna con foulard"
+        "donna con foulard: fototipo 6", 
+        "fototipo 6", 
+        "fototipo 4", 
+        "fototipo 5", 
+        "fototipo 3", 
+        "fototipo 1–2", 
+        "donna con foulard: fototipo 3", 
+        "donna con foulard: fototipo 1–2", 
+        "donna con foulard", 
+        "donna con foulard: fototipo 4", 
+        "donna con foulard: fototipo 5"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "donna in sauna", 
+        "sauna", 
+        "bagno turco"
+    ], 
+    "🧖‍♂️": [
+        "uomo in sauna", 
         "persona in sauna", 
         "sauna", 
         "bagno turco"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "scalatrice", 
         "persona che scala", 
         "scalatore"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "scalatore"
+    ], 
+    "🧘‍♀️": [
         "yoga", 
         "persona in posizione del loto", 
+        "meditazione", 
+        "donna in posizione del loto"
+    ], 
+    "🧘‍♂️": [
+        "uomo in posizione del loto", 
+        "yoga", 
         "meditazione"
     ], 
-    "🧙": [
+    "🧙‍♀️": [
         "strega", 
+        "maga", 
         "stregone", 
         "mago"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "mago uomo", 
+        "stregone", 
+        "mago"
+    ], 
+    "🧚‍♀️": [
+        "fata donna", 
         "Puck", 
         "fata", 
         "Oberon", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "fata uomo", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
         "Dracula", 
         "morto vivente", 
+        "vampira", 
         "vampiro"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Dracula", 
+        "morto vivente", 
+        "vampiro uomo"
+    ], 
+    "🧜‍♀️": [
+        "sirena donna", 
         "sirena"
     ], 
-    "🧝": [
-        "magico", 
-        "elfo"
+    "🧜‍♂️": [
+        "tritone", 
+        "Tritone", 
+        "sirena"
     ], 
-    "🧞": [
+    "🧝‍♀️": [
+        "magico", 
+        "elfo donna"
+    ], 
+    "🧝‍♂️": [
+        "magico", 
+        "elfo", 
+        "elfo uomo"
+    ], 
+    "🧞‍♀️": [
+        "genio donna", 
+        "djinn"
+    ], 
+    "🧞‍♂️": [
+        "genio uomo", 
         "genio", 
         "djinn"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "morto vivente", 
+        "zombie donna"
+    ], 
+    "🧟‍♂️": [
         "zombie", 
+        "zombie uomo", 
         "morto vivente"
     ], 
     "🧠": [

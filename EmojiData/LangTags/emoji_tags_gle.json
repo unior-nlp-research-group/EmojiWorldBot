@@ -1,4 +1,134 @@
 {
+    "#️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: #"
+    ], 
+    "*️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: *"
+    ], 
+    "0️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 0"
+    ], 
+    "1️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 1"
+    ], 
+    "2️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 2"
+    ], 
+    "3️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 3"
+    ], 
+    "4️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 4"
+    ], 
+    "5️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 5"
+    ], 
+    "6️⃣": [
+        "caipín eochrach: 6", 
+        "caipín eochrach"
+    ], 
+    "7️⃣": [
+        "caipín eochrach: 7", 
+        "caipín eochrach"
+    ], 
+    "8️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 8"
+    ], 
+    "9️⃣": [
+        "caipín eochrach", 
+        "caipín eochrach: 9"
+    ], 
+    "©️": [
+        "Cóipcheart", 
+        "cóipcheart", 
+        "Siombail cóipchirt"
+    ], 
+    "®️": [
+        "cláraithe", 
+        "Siombail trádmhairc chláraithe", 
+        "Cláraithe"
+    ], 
+    "‼️": [
+        "bangbang", 
+        "comhartha", 
+        "poncaíocht", 
+        "comhartha uaillbhreasa dúbailte", 
+        "uaillbhreas", 
+        "dhá comhartha uaillbhreasa"
+    ], 
+    "⁉️": [
+        "ceistbang", 
+        "comhartha", 
+        "ceist", 
+        "poncaíocht", 
+        "comhartha ceist agus uaillbhreasa", 
+        "uaillbhreas", 
+        "comhartha ceiste agus uaillbhreasa"
+    ], 
+    "™️": [
+        "comhartha trádmhairc", 
+        "comhartha", 
+        "trádmharc"
+    ], 
+    "ℹ️": [
+        "foinse eolas", 
+        "eolas", 
+        "foinse eolais", 
+        "i"
+    ], 
+    "↔️": [
+        "saighead", 
+        "saighead chlé-dheas"
+    ], 
+    "↕️": [
+        "saighead", 
+        "saighead suas-síos"
+    ], 
+    "↖️": [
+        "idirbunuimhir", 
+        "treo", 
+        "saighead", 
+        "saighead suas ar chlé", 
+        "thiar thuaidh"
+    ], 
+    "↗️": [
+        "idirbunuimhir", 
+        "saighead suas ar dheis", 
+        "saighead", 
+        "treo", 
+        "thoir thuaidh"
+    ], 
+    "↘️": [
+        "idirbunuimhir", 
+        "thoir theas", 
+        "saighead", 
+        "treo", 
+        "saighead síos ar dheis"
+    ], 
+    "↙️": [
+        "idirbunuimhir", 
+        "saighead síos ar chlé", 
+        "saighead", 
+        "treo", 
+        "thiar theas"
+    ], 
+    "↩️": [
+        "saighead", 
+        "saighead dheas ag dul ar chlé"
+    ], 
+    "↪️": [
+        "saighead", 
+        "saighead chlé ag dul ar dheis"
+    ], 
     "⌚": [
         "uaireadóir", 
         "clog"
@@ -7,6 +137,14 @@
         "gaineamh", 
         "orláiste", 
         "orláiste críochnaithe"
+    ], 
+    "⌨️": [
+        "méarchlár", 
+        "ríomhaire"
+    ], 
+    "⏏️": [
+        "díchuir", 
+        "cnaipe díchuir"
     ], 
     "⏩": [
         "deas", 
@@ -36,10 +174,41 @@
         "síos", 
         "saighead síos tapaigh"
     ], 
+    "⏭️": [
+        "an chéad radharc eile", 
+        "saighead", 
+        "an chéad amhrán eile", 
+        "cnaipe don chéad amhrán eile", 
+        "triantán"
+    ], 
+    "⏮️": [
+        "triantán", 
+        "saighead", 
+        "cnaipe don amhrán deireanach", 
+        "an amhrán roimhe", 
+        "an radharc roimhe"
+    ], 
+    "⏯️": [
+        "dheis", 
+        "seinn", 
+        "saighead", 
+        "triantán", 
+        "cnaipe seinnte nó sosa", 
+        "sos"
+    ], 
     "⏰": [
         "alárm", 
         "clog", 
         "clog aláraim"
+    ], 
+    "⏱️": [
+        "clog", 
+        "stopuaireadóir"
+    ], 
+    "⏲️": [
+        "clog", 
+        "clog ama", 
+        "amadóir"
     ], 
     "⏳": [
         "orláiste lán", 
@@ -47,6 +216,68 @@
         "orláiste", 
         "uaineadóir gainimh", 
         "uaineadóir"
+    ], 
+    "⏸️": [
+        "barra", 
+        "sos", 
+        "ceartingearach", 
+        "dúbailte", 
+        "cnaipe sosa"
+    ], 
+    "⏹️": [
+        "cnaipe stop", 
+        "stop", 
+        "cearnóg"
+    ], 
+    "⏺️": [
+        "ciorcal", 
+        "taifead", 
+        "cnaipe taifeadta"
+    ], 
+    "Ⓜ️": [
+        "m", 
+        "ciorcal", 
+        "litir M le ciorcal timpeall air", 
+        "litir m le ciorcal thart timpeall"
+    ], 
+    "▪️": [
+        "geoiméadrach", 
+        "cearnóg dubh beag", 
+        "cearnóg dhubh bheag", 
+        "cearnóg"
+    ], 
+    "▫️": [
+        "cearnóg bhán bheag", 
+        "geoiméadrach", 
+        "cearnóg", 
+        "cearnóg bán beag"
+    ], 
+    "▶️": [
+        "dheis", 
+        "seinn", 
+        "cnaipe seinnte", 
+        "saighead", 
+        "triantán"
+    ], 
+    "◀️": [
+        "triantán", 
+        "cnaipe siar", 
+        "chlé", 
+        "saighead", 
+        "aisiompaigh", 
+        "cnaipe aisiompaigh"
+    ], 
+    "◻️": [
+        "geoiméadrach", 
+        "meáncearnóg bán", 
+        "cearnóg", 
+        "meánchearnóg bhán"
+    ], 
+    "◼️": [
+        "geoiméadrach", 
+        "meánchearnóg dhubh", 
+        "cearnóg", 
+        "meáncearnóg dubh"
     ], 
     "◽": [
         "geoiméadrach", 
@@ -59,6 +290,45 @@
         "geoiméadrach", 
         "meánchearnóg bheag dhubh", 
         "cearnóg"
+    ], 
+    "☀️": [
+        "gathanna", 
+        "spáis", 
+        "aimsir", 
+        "grian", 
+        "geal", 
+        "grianmhar"
+    ], 
+    "☁️": [
+        "aimsir", 
+        "scamall"
+    ], 
+    "☂️": [
+        "aimsir", 
+        "fearthainn", 
+        "scáth báistí", 
+        "scáth", 
+        "éadaí"
+    ], 
+    "☃️": [
+        "aimsir", 
+        "fuar", 
+        "sneachta", 
+        "fear sneachta"
+    ], 
+    "☄️": [
+        "spáis", 
+        "cóiméad"
+    ], 
+    "☎️": [
+        "fón", 
+        "teileafón"
+    ], 
+    "☑️": [
+        "ballóide", 
+        "bosca ballóide le tic", 
+        "bosca", 
+        "tic"
     ], 
     "☔": [
         "braon", 
@@ -77,6 +347,93 @@
         "deoch the", 
         "te", 
         "caife"
+    ], 
+    "☘️": [
+        "planda", 
+        "seamróg"
+    ], 
+    "☝️": [
+        "cormhéar ag pointeáil suas", 
+        "cormhéar", 
+        "corp", 
+        "corrmhéar ag díriú suas", 
+        "suas", 
+        "pointeáil", 
+        "méar", 
+        "lámh"
+    ], 
+    "☠️": [
+        "aghaidh", 
+        "arrachtach", 
+        "croschnámha", 
+        "cloigeann", 
+        "blaosc agus croschnámah", 
+        "cloigeann agus croschnámha", 
+        "corp", 
+        "bás"
+    ], 
+    "☢️": [
+        "radaighníomhach", 
+        "comhartha"
+    ], 
+    "☣️": [
+        "bithghuais", 
+        "comhartha"
+    ], 
+    "☦️": [
+        "cros ortadocsach", 
+        "críostaí", 
+        "cros", 
+        "creideamh"
+    ], 
+    "☪️": [
+        "réalta agus corrán", 
+        "moslamach", 
+        "ioslam", 
+        "creideamh"
+    ], 
+    "☮️": [
+        "síocháin", 
+        "siombail síochána"
+    ], 
+    "☯️": [
+        "yin yang", 
+        "yin", 
+        "taoch", 
+        "creideamh", 
+        "yang", 
+        "tao"
+    ], 
+    "☸️": [
+        "dharma", 
+        "roth an dharma", 
+        "creideamh", 
+        "roth", 
+        "búdaí", 
+        "roth dharma"
+    ], 
+    "☹️": [
+        "aghaidh ghrainceach", 
+        "aghaidh", 
+        "grainc", 
+        "straoiseog le grainc uirthi"
+    ], 
+    "☺️": [
+        "straoiseog ag miongháire", 
+        "éadan straoiseoige", 
+        "éadan", 
+        "éadan straoiseoige neamhlíonta"
+    ], 
+    "♀️": [
+        "comhartha baineann", 
+        "bean", 
+        "baineann"
+    ], 
+    "♂️": [
+        "fear", 
+        "comhartha fearann", 
+        "fearann", 
+        "comhartha fireann"
     ], 
     "♈": [
         "an Reithe", 
@@ -139,6 +496,53 @@
         "stoidiaca", 
         "na hÉisc"
     ], 
+    "♠️": [
+        "cluiche", 
+        "dath spéireata", 
+        "cárta", 
+        "dath", 
+        "spéireata"
+    ], 
+    "♣️": [
+        "triufanna", 
+        "dath truif", 
+        "cárta", 
+        "dath club", 
+        "dath", 
+        "triuf", 
+        "cluiche"
+    ], 
+    "♥️": [
+        "hartanna", 
+        "cárta", 
+        "dath hairt", 
+        "dath", 
+        "hart", 
+        "cluiche"
+    ], 
+    "♦️": [
+        "muileataí", 
+        "cárta", 
+        "dath muileata", 
+        "dath", 
+        "cluiche", 
+        "muileata"
+    ], 
+    "♨️": [
+        "foinsí", 
+        "foinsí teo", 
+        "te", 
+        "foinse the", 
+        "ag galú"
+    ], 
+    "♻️": [
+        "athchúrsáil", 
+        "comhartha", 
+        "siombal athchúrsala soladach uilíoch", 
+        "siombail athchúrsála", 
+        "soladach", 
+        "siombal athchúrsála"
+    ], 
     "♿": [
         "bealach isteach do chathaoireacha rothaí", 
         "bealach isteach", 
@@ -146,9 +550,63 @@
         "comhartha", 
         "cathaoir rothaí"
     ], 
+    "⚒️": [
+        "casúr", 
+        "casúr agus grafán", 
+        "uirlis", 
+        "grafán", 
+        "casúr agus piocóid"
+    ], 
     "⚓": [
         "ancaire", 
         "comhartha"
+    ], 
+    "⚔️": [
+        "crosáilte", 
+        "claimhte crosáilte", 
+        "arm", 
+        "claimhte"
+    ], 
+    "⚕️": [
+        "aescaláipias", 
+        "foireann", 
+        "siombail leighis", 
+        "leigheas", 
+        "siombal leighis"
+    ], 
+    "⚖️": [
+        "meánna", 
+        "uirlis", 
+        "meá", 
+        "stoidiaca", 
+        "meáchan", 
+        "scála", 
+        "libra", 
+        "cothromaíocht", 
+        "cóir"
+    ], 
+    "⚗️": [
+        "ceimic", 
+        "uirlis", 
+        "leamóg"
+    ], 
+    "⚙️": [
+        "giar", 
+        "uirlis"
+    ], 
+    "⚛️": [
+        "siombail adaimh", 
+        "siombal adamh", 
+        "adamh", 
+        "aindiachaí"
+    ], 
+    "⚜️": [
+        "fleur-de-lis"
+    ], 
+    "⚠️": [
+        "comhartha rabhaidh", 
+        "comhartha", 
+        "rabhadh"
     ], 
     "⚡": [
         "comhartha ardvoltais", 
@@ -169,6 +627,16 @@
         "ciorcal", 
         "ciorcal dubh"
     ], 
+    "⚰️": [
+        "cónra", 
+        "bás"
+    ], 
+    "⚱️": [
+        "síothal", 
+        "próca", 
+        "bás", 
+        "sochraid"
+    ], 
     "⚽": [
         "liathróid sacair", 
         "sacar", 
@@ -188,9 +656,34 @@
         "scamall", 
         "grian taobh thiar de na scamaill"
     ], 
+    "⛈️": [
+        "aimsir", 
+        "fearthainn", 
+        "toirneach", 
+        "scamall le tintreach agus fearthainn", 
+        "scamall"
+    ], 
     "⛎": [
         "stoidiaca", 
         "Ophiuchus"
+    ], 
+    "⛏️": [
+        "piocóid", 
+        "grafán", 
+        "uirlis", 
+        "mianadóireacht"
+    ], 
+    "⛑️": [
+        "clogad tarrthálaí", 
+        "aghaidh", 
+        "cros", 
+        "hata", 
+        "clogad", 
+        "cabhair"
+    ], 
+    "⛓️": [
+        "slabhra", 
+        "slabhraí"
     ], 
     "⛔": [
         "cosc", 
@@ -198,9 +691,27 @@
         "comhartha", 
         "Cosc ar iontráil"
     ], 
+    "⛩️": [
+        "scrín", 
+        "scrín sinteocha", 
+        "scrín Sinteochais", 
+        "sinteochas", 
+        "creideamh"
+    ], 
     "⛪": [
         "séipéal", 
         "foirgneamh"
+    ], 
+    "⛰️": [
+        "sliabh"
+    ], 
+    "⛱️": [
+        "fearthainn", 
+        "aimsir", 
+        "grian", 
+        "scáth báistí ar an talamh", 
+        "scáth ar talamh", 
+        "scáth"
     ], 
     "⛲": [
         "scardán", 
@@ -213,6 +724,11 @@
         "brat i bpoll", 
         "brat gailf"
     ], 
+    "⛴️": [
+        "bád", 
+        "bád farantóireachta", 
+        "bád fartha"
+    ], 
     "⛵": [
         "bás seoil", 
         "bád", 
@@ -220,6 +736,20 @@
         "ionad saoire", 
         "ionad mara", 
         "luamh"
+    ], 
+    "⛷️": [
+        "sneachta", 
+        "scí", 
+        "sciálaí"
+    ], 
+    "⛸️": [
+        "scátáil", 
+        "oighear", 
+        "scátáil oighir"
+    ], 
+    "⛹️‍♂️": [
+        "duine le liathróid", 
+        "liathróid"
     ], 
     "⛺": [
         "puball", 
@@ -234,19 +764,101 @@
         "stáisiún peitril", 
         "peitreal"
     ], 
+    "✂️": [
+        "uirlis", 
+        "siosúr"
+    ], 
     "✅": [
         "ticmharc bán trom", 
         "ticmharc trom", 
         "ticmharc", 
         "tic"
     ], 
+    "✈️": [
+        "feithicil", 
+        "eitleán"
+    ], 
+    "✉️": [
+        "r-phost", 
+        "rphost", 
+        "clúdach litreach"
+    ], 
     "✊": [
+        "dorn ardaithe: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
+        "dorn ardaithe: ton cnis meánach", 
+        "dorn ardaithe: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "dorn ardaithe", 
+        "ton cnis meánach-dhorcha", 
         "carraig", 
-        "dorn ardaithe"
+        "ton cnis dorcha", 
+        "ton cnis geal", 
+        "dorn ardaithe: ton cnis geal", 
+        "dorn ardaithe: ton cnis dorcha"
     ], 
     "✋": [
+        "ton cnis meánach", 
+        "lámh ardaithe: ton cnis meánach-gheal", 
+        "páipéar", 
+        "lámh ardaithe: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "lámh ardaithe: ton cnis meánach", 
+        "ton cnis dorcha", 
+        "lámh ardaithe: ton cnis geal", 
         "lámh ardaithe", 
-        "páipéar"
+        "lámh ardaithe: ton cnis dorcha", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha"
+    ], 
+    "✌️": [
+        "sea", 
+        "lámh síochána", 
+        "lámh síocháin", 
+        "siosúr", 
+        "lámh bua", 
+        "bua"
+    ], 
+    "✍️": [
+        "lámh scríbhneoireachta", 
+        "corp", 
+        "lámha scríbhneoireachta", 
+        "lámh", 
+        "scríobh"
+    ], 
+    "✏️": [
+        "peann luaidhe"
+    ], 
+    "✒️": [
+        "peann", 
+        "gob dubh", 
+        "gob"
+    ], 
+    "✔️": [
+        "tic", 
+        "ticmharc trom", 
+        "marc"
+    ], 
+    "✖️": [
+        "iolrúchán", 
+        "iolrúchán x trom", 
+        "iolrú", 
+        "x", 
+        "x iolrúchán trom", 
+        "cealaigh"
+    ], 
+    "✝️": [
+        "cros laidineach", 
+        "críostaí", 
+        "cros", 
+        "creideamh"
+    ], 
+    "✡️": [
+        "dáiví", 
+        "giúdach", 
+        "réalta", 
+        "Réalta Dháiví", 
+        "creideamh"
     ], 
     "✨": [
         "gealán", 
@@ -254,6 +866,26 @@
         "drithlí", 
         "spréachaire", 
         "réaltaí"
+    ], 
+    "✳️": [
+        "réiltín le hocht spóca", 
+        "réiltín le hocht spócaí", 
+        "réiltín"
+    ], 
+    "✴️": [
+        "réalta le hocht pointí", 
+        "réalta le hocht bpointe", 
+        "réalta"
+    ], 
+    "❄️": [
+        "aimsir", 
+        "fuar", 
+        "calóg sneachta", 
+        "calóg shneachta", 
+        "sneachta"
+    ], 
+    "❇️": [
+        "gealán"
     ], 
     "❌": [
         "“X”", 
@@ -286,6 +918,18 @@
         "comhartha", 
         "poncaíocht"
     ], 
+    "❣️": [
+        "croí", 
+        "uaillbhreas croí trom", 
+        "comhartha", 
+        "comhartha uaillbhreasa croí throim", 
+        "poncaíocht", 
+        "uaillbhreas"
+    ], 
+    "❤️": [
+        "croí dearg", 
+        "croí"
+    ], 
     "➕": [
         "comhartha móide trom", 
         "móide", 
@@ -305,6 +949,13 @@
         "comhartha", 
         "comhartha roinnte"
     ], 
+    "➡️": [
+        "saighead", 
+        "thoir", 
+        "treo", 
+        "bunuimhir", 
+        "saighead ar dheis"
+    ], 
     "➰": [
         "cas", 
         "lúb", 
@@ -315,6 +966,37 @@
         "lúb dhúbailte chatach", 
         "lúb chatach", 
         "dialaigh saor in aisce"
+    ], 
+    "⤴️": [
+        "saighead dheas ag dul suas", 
+        "saighead"
+    ], 
+    "⤵️": [
+        "saighead dheas ag dul síos", 
+        "saighead", 
+        "síos"
+    ], 
+    "⬅️": [
+        "treo", 
+        "saighead", 
+        "saighead ar chlé", 
+        "bunuimhir", 
+        "thiar"
+    ], 
+    "⬆️": [
+        "saighead", 
+        "thuaidh", 
+        "treo", 
+        "bunuimhir", 
+        "saighead suas"
+    ], 
+    "⬇️": [
+        "saighead", 
+        "síos", 
+        "treo", 
+        "theas", 
+        "bunuimhir", 
+        "saighead síos"
     ], 
     "⬛": [
         "cearnóg mhór dhubh", 
@@ -337,6 +1019,32 @@
         "o", 
         "ciorcal mór trom"
     ], 
+    "〰️": [
+        "fuaim-mharc fada", 
+        "corrach", 
+        "dais chorrach", 
+        "dais"
+    ], 
+    "〽️": [
+        "cuid de mharc ailtéarnaithe", 
+        "cuid de marc ailtéarnú", 
+        "marc", 
+        "cuid"
+    ], 
+    "㊗️": [
+        "sínis", 
+        "cnaipe Seapáinise \"comhghairdeas\"", 
+        "idéagraf", 
+        "comhghairdeas", 
+        "idéagraf comhghairdeas le ciorcal thart timpeall"
+    ], 
+    "㊙️": [
+        "sínis", 
+        "idéagraf", 
+        "cnaipe Seapáinise \"rún\"", 
+        "rún", 
+        "idéagraf rún le ciorcal thart timpeall"
+    ], 
     "🀄": [
         "Dragan", 
         "Dragan rua mah-jongg", 
@@ -351,6 +1059,32 @@
         "cárta", 
         "Fear na gcrúb", 
         "cárta imeartha"
+    ], 
+    "🅰️": [
+        "A", 
+        "fuilghrúpa", 
+        "fuilghrúpa A", 
+        "fuil", 
+        "grúpa A"
+    ], 
+    "🅱️": [
+        "fuilghrúpa B", 
+        "fuilghrúpa", 
+        "B", 
+        "fuil", 
+        "grúpa B"
+    ], 
+    "🅾️": [
+        "fuilghrúpa", 
+        "fuil", 
+        "O", 
+        "grúpa O", 
+        "fuilghrúpa O"
+    ], 
+    "🅿️": [
+        "cnaipe P", 
+        "páirceáil", 
+        "carrchlós"
     ], 
     "🆎": [
         "fuilghrúpa", 
@@ -1454,6 +2188,11 @@
         "cnaipe Seapáinise \"anseo\"", 
         "cnáipe Seapáinis \"anseo\""
     ], 
+    "🈂️": [
+        "Seapáinis", 
+        "cnaipe Seapáinise \"táille seirbhíse\"", 
+        "cnáipe Seapáinis \"táille seirbhíse\""
+    ], 
     "🈚": [
         "cnáipe Seapáinis \"saor in aisce\"", 
         "Seapáinis", 
@@ -1488,6 +2227,11 @@
         "cnáipe Seapáinis \"nach bhfuil saor in aisce\"", 
         "Seapáinis", 
         "cnaipe Seapáinise \"nach bhfuil saor in aisce\""
+    ], 
+    "🈷️": [
+        "cnaipe Seapáinise \"méid míosúil\"", 
+        "Seapáinis", 
+        "cnáipe Seapáinis \"méid míosúil\""
     ], 
     "🈸": [
         "cnáipe Seapáinis \"iarratas\"", 
@@ -1701,6 +2445,67 @@
         "réalta reatha", 
         "réalta"
     ], 
+    "🌡️": [
+        "aimsir", 
+        "teirmiméadar"
+    ], 
+    "🌤️": [
+        "aimsir", 
+        "grian", 
+        "grian taobh thiar de scamall beag", 
+        "scamall"
+    ], 
+    "🌥️": [
+        "aimsir", 
+        "grian", 
+        "grian taobh thiar de scamall mór", 
+        "scamall"
+    ], 
+    "🌦️": [
+        "grian taobh thiar de scamall le fearthainn", 
+        "aimsir", 
+        "fearthainn", 
+        "grian", 
+        "scamall"
+    ], 
+    "🌧️": [
+        "aimsir", 
+        "fearthainn", 
+        "scamall le fearthainn", 
+        "scamall"
+    ], 
+    "🌨️": [
+        "aimsir", 
+        "fuar", 
+        "scamall le sneachta", 
+        "sneachta", 
+        "scamall"
+    ], 
+    "🌩️": [
+        "aimsir", 
+        "scamall le tintreach", 
+        "scamall", 
+        "tintreach"
+    ], 
+    "🌪️": [
+        "aimsir", 
+        "tornádó", 
+        "iomghaoth", 
+        "scamall"
+    ], 
+    "🌫️": [
+        "ceo", 
+        "aimsir", 
+        "scamall"
+    ], 
+    "🌬️": [
+        "aghaidh", 
+        "scamall", 
+        "gaoth", 
+        "séideadh", 
+        "aghaidh na gaoithe", 
+        "aghaidh gaothach"
+    ], 
     "🌭": [
         "francfurtar", 
         "brocaire te", 
@@ -1741,6 +2546,13 @@
     "🌵": [
         "cachtas", 
         "planda"
+    ], 
+    "🌶️": [
+        "piobar te", 
+        "planda", 
+        "píobar te", 
+        "sillí", 
+        "té"
     ], 
     "🌷": [
         "tiúilip", 
@@ -2085,6 +2897,13 @@
         "buidéal", 
         "buidéal babaí"
     ], 
+    "🍽️": [
+        "forc", 
+        "forc agus scian le pláta", 
+        "scian", 
+        "ag cócaireacht", 
+        "pláta"
+    ], 
     "🍾": [
         "deoch", 
         "corc", 
@@ -2126,12 +2945,22 @@
         "ceiliúradh"
     ], 
     "🎅": [
+        "ton cnis meánach", 
         "Saintí", 
+        "Daidí na Nollag: ton cnis meánach", 
+        "Daidí na Nollag: ton cnis geal", 
         "ceiliúradh", 
         "Nollaig", 
+        "ton cnis meánach-gheal", 
+        "Daidí na Nollag: ton cnis meánach-dhorcha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "Daidí na Nollag", 
         "San Nioclás", 
-        "Santa"
+        "Santa", 
+        "Daidí na Nollag: ton cnis meánach-gheal", 
+        "ton cnis geal", 
+        "Daidí na Nollag: ton cnis dorcha"
     ], 
     "🎆": [
         "tine ealaíne", 
@@ -2204,6 +3033,49 @@
         "ollscoil", 
         "bronnadh céime", 
         "caipín bronnta céime"
+    ], 
+    "🎖️": [
+        "bonn míleata", 
+        "míleata", 
+        "bonn", 
+        "ceiliúradh"
+    ], 
+    "🎗️": [
+        "cuimhneachán", 
+        "ribín", 
+        "ribín cuimhneacháin", 
+        "ceiliúradh"
+    ], 
+    "🎙️": [
+        "ceol", 
+        "mic", 
+        "stiúideo", 
+        "micreafón stiúideo", 
+        "micreafón"
+    ], 
+    "🎚️": [
+        "sleamhnáin", 
+        "ceol", 
+        "leibhéal", 
+        "sleamhnáin leibhéil", 
+        "sleamhnán leibhéil"
+    ], 
+    "🎛️": [
+        "cnaipí", 
+        "ceol", 
+        "rialaithe", 
+        "cnaipí rialaithe"
+    ], 
+    "🎞️": [
+        "frámaí scánnáin", 
+        "cineama", 
+        "frámaí", 
+        "scannán"
+    ], 
+    "🎟️": [
+        "cead isteach", 
+        "ticéid cead isteach", 
+        "ticéad"
     ], 
     "🎠": [
         "siamsaíocht", 
@@ -2397,19 +3269,50 @@
     ], 
     "🏂": [
         "scimeáil sneachta", 
-        "spórt", 
+        "clárscimeálaí sneachta: ton cnis geal", 
+        "clárscimeálaí sneachta: ton cnis dorcha", 
+        "clárscimeálaí sneachta: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
         "clár sneachta", 
-        "clárscimeálaí sneachta"
-    ], 
-    "🏃": [
-        "ag rith", 
-        "reathaí", 
+        "clárscimeálaí sneachta", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
+        "clárscimeálaí sneachta: ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
         "spórt", 
+        "clárscimeálaí sneachta: ton cnis meánach-gheal"
+    ], 
+    "🏃‍♀️": [
+        "ag rásáil", 
+        "baineann", 
+        "ag rith", 
+        "bean", 
+        "bean ag rith", 
         "maratón"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "maratón", 
+        "fear ag rith", 
+        "ag rith", 
+        "reathaí", 
+        "fearann", 
+        "fear", 
+        "spórt", 
+        "ag rásáil"
+    ], 
+    "🏄‍♀️": [
+        "bean ag surfáil", 
+        "bean", 
         "surfáil", 
+        "baineann"
+    ], 
+    "🏄‍♂️": [
+        "surfáil", 
+        "fear ag surfáil", 
         "duine ag surfáil", 
+        "fearann", 
+        "fear", 
         "spórt", 
         "surfálaí"
     ], 
@@ -2424,9 +3327,19 @@
     "🏇": [
         "rásaíocht capall", 
         "marcaí", 
+        "rásaíocht capall: ton cnis meánach-gheal", 
+        "rásaíocht capall: ton cnis dorcha", 
         "rásaíocht", 
         "rásaíocht chapall", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "rásaíocht capall: ton cnis meánach", 
         "capall rása", 
+        "ton cnis geal", 
+        "rásaíocht capall: ton cnis geal", 
+        "rásaíocht capall: ton cnis meánach-dhorcha", 
         "spórt", 
         "capall"
     ], 
@@ -2439,10 +3352,39 @@
         "spóirt", 
         "liathróid"
     ], 
-    "🏊": [
-        "snámhaí", 
+    "🏊‍♀️": [
+        "bean ag snámh", 
+        "bean", 
+        "baineann", 
+        "snámh"
+    ], 
+    "🏊‍♂️": [
+        "fear ag snámh", 
         "snámh", 
+        "fearann", 
+        "snámhaí", 
+        "fear", 
         "spórt"
+    ], 
+    "🏋️‍♂️": [
+        "duine ag tógáil mheáchan", 
+        "duine ag tógáil meachán", 
+        "tógálaí", 
+        "meáchan"
+    ], 
+    "🏌️‍♂️": [
+        "gailf", 
+        "duine ag imirt gailf", 
+        "liathróid"
+    ], 
+    "🏍️": [
+        "gluaisrothar", 
+        "ag rásáil"
+    ], 
+    "🏎️": [
+        "carr", 
+        "carr rása", 
+        "ag rásáil"
     ], 
     "🏏": [
         "cruicéad", 
@@ -2478,6 +3420,61 @@
         "ping pang", 
         "leadóg bhoird", 
         "cluiche"
+    ], 
+    "🏔️": [
+        "fuar", 
+        "sliabh le sneachta", 
+        "sneachta", 
+        "sliabh"
+    ], 
+    "🏕️": [
+        "ag campáil"
+    ], 
+    "🏖️": [
+        "trá le scáth", 
+        "scáth", 
+        "trá le scáth gréine", 
+        "trá"
+    ], 
+    "🏗️": [
+        "foirgníocht", 
+        "foirgneamh"
+    ], 
+    "🏘️": [
+        "teach", 
+        "tithe", 
+        "foirgneamh"
+    ], 
+    "🏙️": [
+        "dreach cathrach", 
+        "foirgneamh", 
+        "cathair"
+    ], 
+    "🏚️": [
+        "teach", 
+        "foirgneamh", 
+        "tréigthe", 
+        "teach tréigthe"
+    ], 
+    "🏛️": [
+        "foirgneamh", 
+        "foirgneamh clasaiceach", 
+        "clasaiceach"
+    ], 
+    "🏜️": [
+        "fásach"
+    ], 
+    "🏝️": [
+        "oileán díthreibhe", 
+        "fásach", 
+        "oileán"
+    ], 
+    "🏞️": [
+        "páirc náisiúnta", 
+        "páirc"
+    ], 
+    "🏟️": [
+        "staidiam"
     ], 
     "🏠": [
         "teach", 
@@ -2562,9 +3559,24 @@
         "caisleán Eorpach", 
         "caisleán"
     ], 
+    "🏳️": [
+        "bratach bhán", 
+        "ar foluain"
+    ], 
+    "🏳️‍🌈": [
+        "bratach bogha báistí", 
+        "ildaite"
+    ], 
     "🏴": [
         "bratach dhubh", 
         "ar foluain"
+    ], 
+    "🏵️": [
+        "planda", 
+        "róiséad"
+    ], 
+    "🏷️": [
+        "lipéad"
     ], 
     "🏸": [
         "eiteán", 
@@ -2916,15 +3928,42 @@
         "lorg", 
         "lorg lapaí"
     ], 
+    "🐿️": [
+        "iora talún"
+    ], 
     "👀": [
         "súile", 
         "aghaidh"
     ], 
+    "👁️": [
+        "corp", 
+        "súil"
+    ], 
     "👂": [
+        "cluas: ton cnis geal", 
+        "cluas: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
+        "cluas: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "cluas: ton cnis meánach-dhorcha", 
+        "cluas: ton cnis dorcha", 
+        "ton cnis geal", 
         "cluas"
     ], 
     "👃": [
-        "srón"
+        "ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "srón: ton cnis meánach", 
+        "srón: ton cnis geal", 
+        "srón: ton cnis meánach-dhorcha", 
+        "srón", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "srón: ton cnis dorcha", 
+        "srón: ton cnis meánach-gheal"
     ], 
     "👄": [
         "béal"
@@ -2934,72 +3973,182 @@
         "teanga amach"
     ], 
     "👆": [
+        "ton cnis meánach-gheal", 
+        "cúl corrmhéire ag díriú suas: ton cnis meánach-dhorcha", 
         "pointeáil suas", 
+        "cúl corrmhéire ag díriú suas: ton cnis dorcha", 
+        "cúl corrmhéire ag díriú suas: ton cnis geal", 
         "corrmhéar", 
+        "ton cnis meánach-dhorcha", 
+        "cúl corrmhéire ag díriú suas: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
+        "ton cnis dorcha", 
+        "ton cnis geal", 
         "cúl corrmhéire ag díriú suas", 
+        "cúl corrmhéire ag díriú suas: ton cnis meánach", 
         "méar", 
         "lámh", 
         "cúl cormhéar ag pointeáil suas"
     ], 
     "👇": [
         "pointeáil síos", 
+        "ton cnis meánach-gheal", 
+        "cúl corrmhéire ag díriú síos: ton cnis meánach-dhorcha", 
+        "cúl corrmhéire ag díriú síos: ton cnis geal", 
+        "cúl corrmhéire ag díriú síos: ton cnis meánach", 
         "cúl corrmhéire ag díriú síos", 
         "cúl cormhéar ag pointeáil síos", 
         "corrmhéar", 
+        "ton cnis meánach-dhorcha", 
+        "cúl corrmhéire ag díriú síos: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
+        "ton cnis dorcha", 
+        "cúl corrmhéire ag díriú síos: ton cnis dorcha", 
+        "ton cnis geal", 
         "méar", 
         "lámh"
     ], 
     "👈": [
         "pointeáil ar chlé", 
+        "ton cnis meánach-gheal", 
+        "cúl corrmhéire ag díriú ar chlé: ton cnis dorcha", 
+        "cúl corrmhéire ag díriú ar chlé: ton cnis meánach", 
         "cúl corrmhéire ag díriú ar chlé", 
         "corrmhéar", 
         "cúl cormhéar ag pointeáil ar chlé", 
+        "cúl corrmhéire ag díriú ar chlé: ton cnis geal", 
+        "ton cnis meánach", 
+        "cúl corrmhéire ag díriú ar chlé: ton cnis meánach-dhorcha", 
+        "cúl corrmhéire ag díriú ar chlé: ton cnis meánach-gheal", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis dorcha", 
         "méar", 
         "lámh"
     ], 
     "👉": [
+        "ton cnis meánach", 
+        "cúl corrmhéire ag díriú ar dheis: ton cnis meánach-dhorcha", 
+        "cúl corrmhéire ag díriú ar dheis: ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
         "corrmhéar", 
         "cúl corrmhéire ag díriú ar dheis", 
+        "cúl corrmhéire ag díriú ar dheis: ton cnis meánach", 
         "pointeáil ar dheis", 
+        "cúl corrmhéire ag díriú ar dheis: ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "cúl corrmhéire ag díriú ar dheis: ton cnis geal", 
+        "ton cnis geal", 
         "cúl cormhéar ag pointeáil ar dheis", 
         "méar", 
         "lámh"
     ], 
     "👊": [
-        "dorn", 
+        "ton cnis meánach", 
         "dorn atá chugat", 
+        "dorn atá chugat: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "dorn atá chugat: ton cnis meánach-dhorcha", 
+        "dorn atá chugat: ton cnis meánach", 
+        "dorn atá chugat: ton cnis geal", 
+        "dorn atá chugat: ton cnis dorcha", 
+        "ton cnis geal", 
+        "dorn", 
         "lámh"
     ], 
     "👋": [
+        "ton cnis meánach", 
+        "lámh ag croitheadh: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
         "lámh ag croitheadh", 
-        "lámh", 
-        "croitheadh"
+        "ton cnis dorcha", 
+        "croitheadh", 
+        "lámh ag croitheadh: ton cnis meánach-gheal", 
+        "lámh ag croitheadh: ton cnis meánach-dhorcha", 
+        "lámh ag croitheadh: ton cnis meánach", 
+        "lámh ag croitheadh: ton cnis geal", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "lámh"
     ], 
     "👌": [
+        "lámh OK: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
         "OK", 
-        "lámh", 
-        "lámh OK"
+        "lámh OK: ton cnis geal", 
+        "lámh OK: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "lámh OK: ton cnis meánach", 
+        "lámh OK", 
+        "ton cnis geal", 
+        "lámh OK: ton cnis dorcha", 
+        "lámh"
     ], 
     "👍": [
         "ordóg", 
+        "ton cnis meánach", 
         "OK", 
+        "ton cnis meánach-gheal", 
+        "ordóg suas: ton cnis meánach", 
+        "ton cnis dorcha", 
+        "ordóg suas: ton cnis geal", 
+        "ordóg suas: ton cnis meánach-dhorcha", 
+        "ordóg suas: ton cnis meánach-gheal", 
         "ordóg suas", 
-        "moladh"
+        "moladh", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "ordóg suas: ton cnis dorcha"
     ], 
     "👎": [
         "ordóg", 
+        "ordóg síos: ton cnis meánach", 
         "ordóg síos", 
         "OK", 
-        "cáineadh"
+        "cáineadh", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ordóg síos: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
+        "ordóg síos: ton cnis meánach-gheal", 
+        "ton cnis geal", 
+        "ordóg síos: ton cnis geal", 
+        "ordóg síos: ton cnis dorcha"
     ], 
     "👏": [
+        "ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "bualadh bos: ton cnis dorcha", 
+        "bualadh bos: ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "bualadh bos: ton cnis meánach", 
         "bualadh bos", 
-        "lámha"
+        "lámha", 
+        "ton cnis geal", 
+        "bualadh bos: ton cnis meánach-dhorcha", 
+        "bualadh bos: ton cnis geal"
     ], 
     "👐": [
+        "lámha ar oscailt: ton cnis meánach", 
+        "ton cnis meánach", 
+        "lámha ar oscailt: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
+        "lámha ar oscailt: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-dhorcha", 
         "lámha ar oscailt", 
+        "ton cnis dorcha", 
         "lámha", 
-        "lámha oscailte"
+        "lámha oscailte", 
+        "ton cnis geal", 
+        "lámha ar oscailt: ton cnis geal", 
+        "lámha ar oscailt: ton cnis dorcha"
     ], 
     "👑": [
         "coróin"
@@ -3097,72 +4246,210 @@
         "coirp"
     ], 
     "👦": [
+        "ton cnis meánach", 
+        "buachaill: ton cnis dorcha", 
+        "buachaill: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
+        "buachaill", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "buachaill: ton cnis geal", 
+        "ton cnis dorcha", 
+        "buachaill: ton cnis meánach-dhorcha", 
         "duine", 
-        "buachaill"
+        "buachaill: ton cnis meánach"
     ], 
     "👧": [
+        "ton cnis meánach", 
+        "cailín: ton cnis geal", 
+        "ton cnis meánach-gheal", 
+        "cailín", 
+        "ton cnis dorcha", 
+        "cailín: ton cnis meánach-gheal", 
+        "ton cnis geal", 
+        "cailín: ton cnis dorcha", 
+        "cailín: ton cnis meánach", 
         "duine", 
-        "cailín"
+        "ton cnis meánach-dhorcha", 
+        "cailín: ton cnis meánach-dhorcha"
     ], 
     "👨": [
+        "fear: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
+        "fear: ton cnis meánach", 
+        "fear: ton cnis geal", 
+        "fear: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "fear: ton cnis dorcha", 
         "duine", 
         "fear"
     ], 
-    "👨‍🌾": [
-        "feirmeoir fireann", 
-        "garraíodóir", 
-        "rainseoir", 
+    "👨‍⚕️": [
+        "cúram sláinte", 
+        "altra fir", 
         "fearann", 
         "fear", 
+        "teiripeoir", 
+        "dochtúir", 
+        "oibrí sláinte fireann"
+    ], 
+    "👨‍⚖️": [
+        "breitheamh fireann", 
+        "fear", 
+        "scálaí", 
+        "fearann", 
+        "cóir"
+    ], 
+    "👨‍✈️": [
+        "fear", 
+        "píolóta", 
+        "fearann", 
+        "píolóta fireann", 
+        "eitleán"
+    ], 
+    "👨‍❤️‍👨": [
+        "croí", 
+        "lanúin le croí: fear, fear", 
+        "grá", 
+        "lanúin le croí", 
+        "lánúin", 
+        "fear"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "pógadh", 
+        "fear", 
+        "póg: fear, fear", 
+        "póg", 
+        "grá"
+    ], 
+    "👨‍🌾": [
+        "feirmeoir fireann", 
+        "ton cnis meánach", 
+        "garraíodóir", 
+        "feirmeoir fireann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "rainseoir", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "feirmeoir fireann: ton cnis dorcha", 
+        "fearann", 
+        "feirmeoir fireann: ton cnis meánach", 
+        "feirmeoir fireann: ton cnis geal", 
+        "ton cnis geal", 
+        "fear", 
+        "feirmeoir fireann: ton cnis meánach-gheal", 
         "feirmeoir"
     ], 
     "👨‍🍳": [
-        "chef", 
+        "ton cnis meánach", 
         "cócaráil", 
+        "cócaire fireann: ton cnis dorcha", 
+        "cócaire fireann: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "cócaire fireann: ton cnis geal", 
+        "ton cnis dorcha", 
+        "cócaire fireann: ton cnis meánach-gheal", 
+        "chef", 
+        "cócaire fireann: ton cnis meánach-dhorcha", 
+        "fearann", 
+        "ton cnis geal", 
         "fear", 
-        "cócaire fireann", 
-        "fearann"
+        "ton cnis meánach-dhorcha", 
+        "cócaire fireann"
     ], 
     "👨‍🎓": [
         "céimí", 
         "scoláire fireann", 
+        "scoláire fireann: ton cnis meánach-gheal", 
+        "scoláire fireann: ton cnis geal", 
+        "ton cnis meánach-gheal", 
+        "scoláire fireann: ton cnis meánach", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "fear", 
+        "ton cnis meánach", 
         "fearann", 
+        "ton cnis geal", 
         "coláisteánach", 
-        "scoláire fir"
+        "scoláire fireann: ton cnis dorcha", 
+        "scoláire fir", 
+        "scoláire fireann: ton cnis meánach-dhorcha"
     ], 
     "👨‍🎤": [
+        "amhránaí fireann: ton cnis meánach", 
+        "amhránaí fireann: ton cnis meánach-gheal", 
+        "amhránaí fireann: ton cnis dorcha", 
         "raic", 
+        "ton cnis meánach-gheal", 
         "amhránaí fireann", 
         "amhránaí", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "aisteoir", 
         "siamsóir", 
         "fearann", 
         "réalta", 
-        "fear"
+        "ton cnis geal", 
+        "amhránaí fireann: ton cnis geal", 
+        "fear", 
+        "amhránaí fireann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach"
     ], 
     "👨‍🎨": [
+        "ton cnis meánach", 
+        "ealaíontóir fearann: ton cnis geal", 
+        "ealaíontóir fearann: ton cnis meánach-dhorcha", 
         "ealaíontóir fearann", 
         "ealaíontóir", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ealaíontóir fearann: ton cnis meánach", 
+        "ealaíontóir fearann: ton cnis meánach-gheal", 
+        "ealaíontóir fearann: ton cnis dorcha", 
         "fearann", 
-        "fear", 
-        "pailéad"
+        "pailéad", 
+        "ton cnis geal", 
+        "fear"
     ], 
     "👨‍🏫": [
         "teagascóir", 
+        "ton cnis meánach", 
+        "múinteoir fireann: ton cnis meánach-gheal", 
         "múinteoir", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "fearann", 
         "ollamh", 
+        "múinteoir fireann: ton cnis meánach", 
+        "ton cnis geal", 
+        "múinteoir fireann: ton cnis geal", 
         "fear", 
+        "múinteoir fireann: ton cnis dorcha", 
+        "múinteoir fireann: ton cnis meánach-dhorcha", 
         "múinteoir fireann"
     ], 
     "👨‍🏭": [
         "tionscail", 
+        "ton cnis meánach", 
+        "oibrí monarchan fireann: ton cnis dorcha", 
         "cóimeáil", 
+        "oibrí monarchan fireann: ton cnis meánach-gheal", 
         "oibrí monarchan fireann", 
+        "ton cnis meánach-gheal", 
+        "oibrí monarchan fireann: ton cnis geal", 
+        "oibrí monarchan fireann: ton cnis meánach", 
+        "oibrí monarchan fireann: ton cnis meánach-dhorcha", 
         "monarcha", 
         "fearann", 
+        "ton cnis dorcha", 
+        "ton cnis geal", 
         "fear", 
+        "ton cnis meánach-dhorcha", 
         "oibrí"
     ], 
     "👨‍👦": [
@@ -3354,119 +4641,314 @@
         "fear"
     ], 
     "👨‍💻": [
+        "teicneolaí fireann: ton cnis meánach", 
+        "teicneolaí fireann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "aireagóir", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
         "forbróir", 
         "códóir", 
         "bogearraí", 
         "teicneolaí fireann", 
         "fearann", 
+        "ton cnis geal", 
         "fear", 
+        "ton cnis meánach-dhorcha", 
+        "teicneolaí fireann: ton cnis dorcha", 
+        "teicneolaí fireann: ton cnis meánach-gheal", 
+        "teicneolaí fireann: ton cnis geal", 
         "teicneolaí"
     ], 
     "👨‍💼": [
         "gnó", 
         "bóna bháin", 
+        "ton cnis meánach-gheal", 
+        "oibrí oifige fireann: ton cnis dorcha", 
+        "oibrí oifige fireann: ton cnis meánach-dhorcha", 
         "oifig", 
         "oibrí oifige fireann", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "oibrí oifige fireann: ton cnis geal", 
+        "oibrí oifige fireann: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
         "fearann", 
+        "ton cnis geal", 
         "fear", 
         "bainisteoir", 
+        "oibrí oifige fireann: ton cnis meánach", 
         "ailtire"
     ], 
     "👨‍🔧": [
+        "meicneoir fireann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "ceardaí", 
+        "meicneoir fireann: ton cnis dorcha", 
         "leictreoir", 
+        "meicneoir fireann: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "meicneoir fireann: ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
         "pluiméir", 
+        "meicneoir fireann: ton cnis geal", 
         "fearann", 
+        "ton cnis geal", 
         "meicneoir", 
         "fear", 
+        "ton cnis meánach-dhorcha", 
         "meicneoir fireann"
     ], 
     "👨‍🔬": [
+        "eolaí fireann: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
         "eolaí fireann", 
         "poitigéir", 
         "innealtóir", 
+        "eolaí fireann: ton cnis dorcha", 
+        "ton cnis dorcha", 
         "eolaí", 
+        "eolaí fireann: ton cnis geal", 
+        "ton cnis meánach", 
         "fearann", 
+        "eolaí fireann: ton cnis meánach-gheal", 
         "fisiceoir", 
+        "eolaí fireann: ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
         "bitheolaí", 
         "fear", 
+        "ton cnis meánach-dhorcha", 
         "matamaiticeoir"
     ], 
     "👨‍🚀": [
+        "spásaire fireann: ton cnis meánach", 
+        "spásaire fireann: ton cnis meánach-dhorcha", 
         "spáis", 
+        "spásaire fireann: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "spásaire", 
+        "ton cnis meánach", 
         "fearann", 
+        "spásaire fireann: ton cnis dorcha", 
+        "ton cnis geal", 
         "spásaire fireann", 
         "fear", 
-        "roicéad"
+        "roicéad", 
+        "spásaire fireann: ton cnis geal"
     ], 
     "👨‍🚒": [
         "inneall dóiteáin", 
-        "fear", 
+        "fear múchta dóiteán: ton cnis meánach-gheal", 
+        "fear múchta dóiteán", 
+        "ton cnis meánach-gheal", 
+        "fear múchta dóiteán: ton cnis dorcha", 
+        "fear múchta dóiteán: ton cnis meánach", 
         "múchta dóiteán", 
+        "fear múchta dóiteán: ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "fear múchta dóiteán: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "fearann", 
-        "fear múchta dóiteán"
+        "ton cnis dorcha", 
+        "ton cnis geal", 
+        "fear"
     ], 
     "👩": [
-        "duine", 
-        "bean"
+        "bean: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
+        "bean: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
+        "bean: ton cnis dorcha", 
+        "bean: ton cnis meánach", 
+        "bean: ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "bean", 
+        "ton cnis dorcha", 
+        "duine"
+    ], 
+    "👩‍⚕️": [
+        "cúram sláinte", 
+        "baineann", 
+        "bean", 
+        "oibrí sláinte baineann", 
+        "teiripeoir", 
+        "dochtúir", 
+        "banaltra"
+    ], 
+    "👩‍⚖️": [
+        "bean", 
+        "scálaí", 
+        "baineann", 
+        "cóir", 
+        "breitheamh baineann"
+    ], 
+    "👩‍✈️": [
+        "píolóta baineann", 
+        "bean", 
+        "píolóta", 
+        "baineann", 
+        "eitleán"
+    ], 
+    "👩‍❤️‍👨": [
+        "croí", 
+        "grá", 
+        "lanúin le croí", 
+        "bean", 
+        "lánúin", 
+        "fear", 
+        "lanúin le croí: bean, fear"
+    ], 
+    "👩‍❤️‍👩": [
+        "croí", 
+        "lanúin le croí: bean, bean", 
+        "grá", 
+        "lanúin le croí", 
+        "bean", 
+        "lánúin"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "pógadh", 
+        "póg: bean, fear", 
+        "grá", 
+        "bean", 
+        "fear", 
+        "póg"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "pógadh", 
+        "bean", 
+        "póg: bean, bean", 
+        "póg", 
+        "grá"
     ], 
     "👩‍🌾": [
+        "feirmeoir baineann: ton cnis meánach", 
+        "ton cnis meánach", 
+        "feirmeoir baineann: ton cnis geal", 
         "garraíodóir", 
+        "feirmeoir baineann: ton cnis meánach-gheal", 
+        "feirmeoir baineann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
         "baineann", 
         "rainseoir", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "bean", 
+        "feirmeoir baineann: ton cnis dorcha", 
+        "ton cnis geal", 
         "feirmeoir baineann", 
         "feirmeoir"
     ], 
     "👩‍🍳": [
-        "chef", 
+        "ton cnis meánach", 
         "cócaráil", 
-        "bean", 
+        "cócaire baineann: ton cnis meánach-gheal", 
+        "cócaire baineann: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
         "baineann", 
-        "cócaire baineann"
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "chef", 
+        "bean", 
+        "cócaire baineann: ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "cócaire baineann", 
+        "cócaire baineann: ton cnis meánach", 
+        "cócaire baineann: ton cnis geal"
     ], 
     "👩‍🎓": [
-        "bean", 
-        "baineann", 
         "céimí", 
+        "ton cnis meánach", 
+        "scoláire baineann: ton cnis meánach", 
+        "scoláire baineann: ton cnis geal", 
+        "scoláire baineann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "baineann", 
+        "ton cnis dorcha", 
+        "scoláire baineann", 
+        "bean", 
+        "scoláire baineann: ton cnis meánach-gheal", 
+        "ton cnis geal", 
         "coláisteánach", 
-        "scoláire baineann"
+        "ton cnis meánach-dhorcha", 
+        "scoláire baineann: ton cnis dorcha"
     ], 
     "👩‍🎤": [
+        "ton cnis meánach", 
         "raic", 
+        "amhránaí baineann: ton cnis meánach-dhorcha", 
+        "amhránaí baineann: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
         "baineann", 
         "aisteoir", 
+        "ton cnis dorcha", 
         "amhránaí", 
         "amhránaí baineann", 
         "bean", 
         "siamsóir", 
-        "réalta"
+        "réalta", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "amhránaí baineann: ton cnis dorcha", 
+        "amhránaí baineann: ton cnis meánach-gheal", 
+        "amhránaí baineann: ton cnis geal"
     ], 
     "👩‍🎨": [
-        "bean", 
-        "ealaíontóir baineann", 
-        "baineann", 
+        "ealaíontóir baineann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "ealaíontóir", 
-        "pailéad"
+        "ton cnis meánach-gheal", 
+        "baineann", 
+        "ealaíontóir baineann: ton cnis meánach", 
+        "ton cnis meánach-dhorcha", 
+        "bean", 
+        "pailéad", 
+        "ealaíontóir baineann", 
+        "ton cnis geal", 
+        "ealaíontóir baineann: ton cnis geal", 
+        "ton cnis dorcha", 
+        "ealaíontóir baineann: ton cnis meánach-gheal", 
+        "ealaíontóir baineann: ton cnis dorcha"
     ], 
     "👩‍🏫": [
         "teagascóir", 
+        "ton cnis meánach", 
         "múinteoir", 
+        "ton cnis meánach-gheal", 
         "baineann", 
+        "múinteoir baineann: ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "bean", 
         "ollamh", 
-        "múinteoir baineann"
+        "múinteoir baineann: ton cnis meánach", 
+        "múinteoir baineann", 
+        "ton cnis geal", 
+        "múinteoir baineann: ton cnis geal", 
+        "múinteoir baineann: ton cnis dorcha", 
+        "múinteoir baineann: ton cnis meánach-dhorcha"
     ], 
     "👩‍🏭": [
+        "oibrí monarchan baineann: ton cnis geal", 
         "tionscail", 
+        "ton cnis meánach", 
         "oibrí monarchan baineann", 
         "cóimeáil", 
+        "ton cnis meánach-dhorcha", 
         "oibrí", 
+        "ton cnis meánach-gheal", 
         "baineann", 
+        "ton cnis dorcha", 
+        "oibrí monarchan baineann: ton cnis meánach-gheal", 
         "bean", 
-        "monarcha"
+        "monarcha", 
+        "oibrí monarchan baineann: ton cnis dorcha", 
+        "ton cnis geal", 
+        "oibrí monarchan baineann: ton cnis meánach-dhorcha", 
+        "oibrí monarchan baineann: ton cnis meánach"
     ], 
     "👩‍👦": [
         "athair", 
@@ -3591,68 +5073,119 @@
         "teaghlach"
     ], 
     "👩‍💻": [
+        "ton cnis meánach", 
         "teicneolaí baineann", 
+        "teicneolaí baineann: ton cnis dorcha", 
+        "teicneolaí baineann: ton cnis meánach-gheal", 
         "aireagóir", 
+        "ton cnis meánach-gheal", 
         "baineann", 
+        "ton cnis dorcha", 
         "forbróir", 
         "códóir", 
         "bogearraí", 
         "bean", 
+        "teicneolaí baineann: ton cnis geal", 
+        "ton cnis geal", 
+        "teicneolaí baineann: ton cnis meánach-dhorcha", 
+        "teicneolaí baineann: ton cnis meánach", 
+        "ton cnis meánach-dhorcha", 
         "teicneolaí"
     ], 
     "👩‍💼": [
         "gnó", 
         "bóna bháin", 
+        "ton cnis meánach", 
         "oifig", 
+        "ton cnis meánach-gheal", 
         "baineann", 
+        "oibrí oifige baineann: ton cnis meánach-dhorcha", 
+        "oibrí oifige baineann: ton cnis meánach", 
+        "ton cnis meánach-dhorcha", 
         "bean", 
+        "ton cnis dorcha", 
         "oibrí oifige baineann", 
+        "ton cnis geal", 
+        "oibrí oifige baineann: ton cnis geal", 
+        "oibrí oifige baineann: ton cnis dorcha", 
         "bainisteoir", 
+        "oibrí oifige baineann: ton cnis meánach-gheal", 
         "ailtire"
     ], 
     "👩‍🔧": [
+        "ton cnis meánach", 
         "ceardaí", 
         "leictreoir", 
+        "meicneoir baineann: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
         "baineann", 
+        "ton cnis dorcha", 
         "pluiméir", 
         "bean", 
+        "meicneoir baineann: ton cnis meánach-dhorcha", 
+        "meicneoir baineann: ton cnis meánach-gheal", 
         "meicneoir baineann", 
-        "meicneoir"
+        "ton cnis geal", 
+        "meicneoir", 
+        "ton cnis meánach-dhorcha", 
+        "meicneoir baineann: ton cnis meánach", 
+        "meicneoir baineann: ton cnis geal"
     ], 
     "👩‍🔬": [
+        "eolaí baineann: ton cnis meánach-gheal", 
+        "eolaí baineann: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
         "matamaiticeoir", 
         "poitigéir", 
+        "eolaí baineann: ton cnis geal", 
         "innealtóir", 
         "baineann", 
+        "ton cnis dorcha", 
         "eolaí", 
         "eolaí baineann", 
         "bean", 
+        "ton cnis meánach", 
         "bitheolaí", 
-        "fisiceoir"
+        "fisiceoir", 
+        "ton cnis geal", 
+        "eolaí baineann: ton cnis meánach-dhorcha", 
+        "eolaí baineann: ton cnis meánach", 
+        "ton cnis meánach-dhorcha"
     ], 
     "👩‍🚀": [
+        "ton cnis meánach", 
         "spáis", 
+        "spásaire baineann: ton cnis dorcha", 
+        "spásaire baineann: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "spásaire", 
+        "spásaire baineann: ton cnis meánach-gheal", 
         "bean", 
+        "spásaire baineann: ton cnis geal", 
         "fearann", 
+        "ton cnis geal", 
+        "spásaire baineann: ton cnis meánach", 
         "spásaire baineann", 
         "roicéad"
     ], 
     "👩‍🚒": [
         "inneall dóiteáin", 
+        "ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "bean mhúchta dóiteán: ton cnis meánach-dhorcha", 
         "bean mhúchta dóiteán", 
-        "bean", 
         "múchta dóiteán", 
-        "baineann"
-    ], 
-    "👪": [
-        "athair", 
-        "máthair", 
-        "clann", 
-        "páiste", 
-        "leanaí", 
-        "duine", 
-        "teaghlach"
+        "baineann", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "bean mhúchta dóiteán: ton cnis meánach-gheal", 
+        "bean", 
+        "bean mhúchta dóiteán: ton cnis geal", 
+        "bean mhúchta dóiteán: ton cnis meánach", 
+        "bean mhúchta dóiteán: ton cnis dorcha", 
+        "ton cnis geal"
     ], 
     "👫": [
         "fear agus bean", 
@@ -3678,61 +5211,182 @@
         "lámha le chéile", 
         "beirt bhan a bhfuil greim láimhe acu ar a chéile"
     ], 
-    "👮": [
-        "duine", 
-        "póilín", 
+    "👮‍♀️": [
+        "baineann", 
+        "gardaí", 
         "garda", 
-        "póilíní"
+        "oifigeach", 
+        "bean", 
+        "bangharda"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "póilíní", 
+        "póilín", 
+        "gardaí", 
+        "garda", 
+        "oifigeach", 
+        "fearann", 
+        "duine", 
+        "fear"
+    ], 
+    "👯‍♀️": [
+        "ag ceiliúradh", 
+        "mná le cluasa coiníní orthu", 
         "cailín", 
+        "baineann", 
+        "mná", 
+        "cluas coinín", 
+        "rinceoir", 
         "daoine le chluasa coiníní ag ceiliúradh", 
         "cluasa coinín", 
+        "mná ag ceiliúradh", 
         "daoine le cluasa coiníní orthu"
+    ], 
+    "👯‍♂️": [
+        "fir", 
+        "ag ceiliúradh", 
+        "fir ag ceiliúradh", 
+        "cluas coinín", 
+        "rinceoir", 
+        "fearann", 
+        "fir le cluasa coiníní orthu"
     ], 
     "👰": [
         "bainis", 
-        "caille", 
+        "brídeog le caille uirthi: ton cnis dorcha", 
         "brídeog le caille uirthi", 
+        "ton cnis meánach", 
+        "brídeog le caille uirthi: ton cnis meánach", 
+        "brídeog le caille uirthi: ton cnis geal", 
+        "ton cnis meánach-gheal", 
         "pósadh", 
-        "brídeach"
+        "ton cnis dorcha", 
+        "brídeog le caille uirthi: ton cnis meánach-gheal", 
+        "caille", 
+        "brídeach", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "brídeog le caille uirthi: ton cnis meánach-dhorcha"
     ], 
-    "👱": [
-        "gruaig fhionn", 
-        "duine fionn", 
+    "👱‍♀️": [
+        "bean", 
+        "bean fhionn", 
+        "baineann", 
         "fionn"
     ], 
-    "👲": [
-        "hata", 
-        "fear le gua pi mao air", 
-        "fear le hata air"
+    "👱‍♂️": [
+        "fear fionn", 
+        "duine fionn", 
+        "gruaig fhionn", 
+        "fearann", 
+        "fionn", 
+        "fear"
     ], 
-    "👳": [
+    "👲": [
+        "ton cnis meánach", 
+        "fear le gua pi mao air", 
+        "fear le gua pi mao air: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
+        "fear le gua pi mao air: ton cnis geal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "fear le gua pi mao air: ton cnis meánach-dhorcha", 
+        "fear le hata air", 
+        "hata", 
+        "fear le gua pi mao air: ton cnis meánach", 
+        "fear le gua pi mao air: ton cnis meánach-gheal"
+    ], 
+    "👳‍♀️": [
+        "bean", 
+        "bean le turban uirthi", 
+        "baineann", 
+        "turban", 
+        "bean le turban"
+    ], 
+    "👳‍♂️": [
+        "fear le turban", 
         "fear le turban air", 
-        "duine le turban air", 
-        "turban"
+        "fearann", 
+        "turban", 
+        "fear", 
+        "duine le turban air"
     ], 
     "👴": [
+        "seanfhear: ton cnis meánach-gheal", 
+        "seanfhear: ton cnis meánach-dhorcha", 
+        "seanfhear: ton cnis meánach", 
+        "fear aosta", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "seanfhear: ton cnis dorcha", 
+        "ton cnis meánach", 
+        "seanfhear: ton cnis geal", 
         "seanfhear", 
-        "fear", 
-        "fear aosta"
+        "fear"
     ], 
     "👵": [
+        "bean aosta", 
+        "seanbhean: ton cnis meánach-gheal", 
+        "seanbhean: ton cnis meánach", 
+        "seanbhean: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "seanbhean", 
         "bean", 
-        "bean aosta"
+        "ton cnis meánach", 
+        "ton cnis geal", 
+        "seanbhean: ton cnis geal", 
+        "seanbhean: ton cnis meánach-dhorcha"
     ], 
     "👶": [
+        "ton cnis meánach", 
+        "babaí: ton cnis dorcha", 
+        "babaí: ton cnis meánach-gheal", 
+        "babaí", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "babaí: ton cnis geal", 
+        "babaí: ton cnis meánach", 
         "duine", 
-        "babaí"
+        "babaí: ton cnis meánach-dhorcha"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "foirgníocht", 
+        "oibrí", 
+        "baineann", 
+        "oibrí foirgníochta baineann", 
+        "bean", 
+        "tógálaí baineann"
+    ], 
+    "👷‍♂️": [
+        "oibrí foirgníochta fearann", 
+        "tógálaí fireann", 
+        "foirgníocht", 
+        "oibrí", 
+        "tógálaí", 
         "oibrí tógála", 
-        "tógálaí"
+        "fearann", 
+        "fear"
     ], 
     "👸": [
+        "ton cnis meánach", 
+        "banphrionsa: ton cnis meánach-gheal", 
+        "banphrionsa: ton cnis geal", 
+        "banphrionsa: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "síscéal", 
+        "banphrionsa: ton cnis meánach-dhorcha", 
+        "banphrionsa: ton cnis meánach", 
         "banphrionsa", 
-        "síscéal"
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha"
     ], 
     "👹": [
         "fathach", 
@@ -3752,8 +5406,18 @@
         "síscéal"
     ], 
     "👼": [
+        "ton cnis meánach", 
         "aingeal", 
-        "aingeal óg"
+        "aingeal óg: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
+        "aingeal óg: ton cnis meánach-dhorcha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "aingeal óg: ton cnis meánach", 
+        "aingeal óg", 
+        "ton cnis geal", 
+        "aingeal óg: ton cnis geal", 
+        "aingeal óg: ton cnis meánach-gheal"
     ], 
     "👽": [
         "eachtrán", 
@@ -3772,20 +5436,53 @@
     "💀": [
         "blaosc"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "faisnéis", 
         "deasc faisnéise", 
         "duine lena lámh amach", 
-        "faisnéis"
+        "baineann", 
+        "bean lena lámh amach", 
+        "bean le lámh amach", 
+        "bean", 
+        "lámh amach", 
+        "sotalach"
     ], 
-    "💂": [
-        "saighdiúir", 
-        "garda an rí", 
+    "💁‍♂️": [
+        "fear le lámh amach", 
+        "fearann", 
+        "fear lena lámh amach", 
+        "fear", 
+        "sotalach", 
+        "lámh amach"
+    ], 
+    "💂‍♀️": [
+        "bangharda oifigeach", 
+        "bean", 
+        "baineann", 
         "garda"
     ], 
+    "💂‍♂️": [
+        "garda oifigeach", 
+        "garda an rí", 
+        "garda", 
+        "fearann", 
+        "fear", 
+        "saighdiúir"
+    ], 
     "💃": [
+        "bean ag damhsa: ton cnis meánach-gheal", 
         "bean ag damhsa", 
-        "damhsóir", 
-        "damhsa"
+        "ton cnis meánach", 
+        "bean ag damhsa: ton cnis meánach-dhorcha", 
+        "bean ag damhsa: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "bean ag damhsa: ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "bean ag damhsa: ton cnis dorcha", 
+        "damhsa", 
+        "ton cnis dorcha", 
+        "ton cnis geal", 
+        "damhsóir"
     ], 
     "💄": [
         "cosmaidí", 
@@ -3793,19 +5490,51 @@
         "smideadh"
     ], 
     "💅": [
-        "vearnais ingne", 
         "cosmaidí", 
-        "smideadh"
+        "vearnais ingne: ton cnis meánach-gheal", 
+        "vearnais ingne: ton cnis meánach-dhorcha", 
+        "vearnais ingne", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "vearnais ingne: ton cnis geal", 
+        "ton cnis meánach", 
+        "vearnais ingne: ton cnis dorcha", 
+        "ton cnis geal", 
+        "smideadh", 
+        "vearnais ingne: ton cnis meánach"
     ], 
-    "💆": [
+    "💆‍♀️": [
         "suathaireacht", 
+        "aghaidh", 
+        "baineann", 
+        "bean ag fáil suathaireacht ina haghaidh", 
+        "bean", 
         "duine ag fáil suathaireachta", 
-        "suathaireacht aghaidhe"
+        "suathaireacht aghaidhe", 
+        "bean ag fáil suathaireachta"
     ], 
-    "💇": [
-        "gruaig", 
+    "💆‍♂️": [
+        "fear ag fáil suathaireacht ina aghaidh", 
+        "suathaireacht", 
+        "fear ag fáil suathaireachta", 
+        "aghaidh", 
+        "fearann", 
+        "fear"
+    ], 
+    "💇‍♀️": [
         "gruagaire", 
+        "baineann", 
+        "bean", 
+        "bean ag fáil bearradh gruaige", 
+        "bearradh gruaige", 
         "duine ag fáil bearradh gruaige", 
+        "gruaig"
+    ], 
+    "💇‍♂️": [
+        "fearann", 
+        "fear", 
+        "fear ag fáil bearradh gruaige", 
         "bearradh gruaige"
     ], 
     "💈": [
@@ -3850,20 +5579,9 @@
         "geamchloch", 
         "cloch lómhar"
     ], 
-    "💏": [
-        "pógadh", 
-        "póg", 
-        "grá"
-    ], 
     "💐": [
         "crobhaing bláthanna", 
         "bláthanna", 
-        "grá"
-    ], 
-    "💑": [
-        "croí", 
-        "lánúin", 
-        "lanúin le croí", 
         "grá"
     ], 
     "💒": [
@@ -3986,8 +5704,18 @@
     ], 
     "💪": [
         "bícéips lúbtha", 
+        "bícéips lúbtha: ton cnis meánach-gheal", 
+        "bícéips lúbtha: ton cnis meánach", 
+        "bícéips lúbtha: ton cnis dorcha", 
+        "ton cnis meánach-gheal", 
+        "bícéips lúbtha: ton cnis geal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "matáin", 
+        "ton cnis geal", 
         "bícéips", 
+        "bícéips lúbtha: ton cnis meánach-dhorcha", 
         "láidir"
     ], 
     "💫": [
@@ -4404,6 +6132,13 @@
         "fístéip", 
         "téip"
     ], 
+    "📽️": [
+        "físeán", 
+        "teilgeoir", 
+        "teilgeoir scannáin", 
+        "cineama", 
+        "scannán"
+    ], 
     "📿": [
         "paidrín urnaí", 
         "urnaí", 
@@ -4652,6 +6387,17 @@
         "triantán beag dearg síos", 
         "cnaipe síos"
     ], 
+    "🕉️": [
+        "om", 
+        "hiondúch", 
+        "creideamh"
+    ], 
+    "🕊️": [
+        "síocháin", 
+        "éan", 
+        "colm", 
+        "eitilt"
+    ], 
     "🕋": [
         "cába", 
         "moslamach", 
@@ -4784,23 +6530,125 @@
         "leathuair tar éis a dó dhéag", 
         "12:30"
     ], 
+    "🕯️": [
+        "coinneal", 
+        "solas"
+    ], 
+    "🕰️": [
+        "clog matail", 
+        "clog"
+    ], 
+    "🕳️": [
+        "poll"
+    ], 
+    "🕴️": [
+        "fear i gculaith gnó ar eadarbhuas", 
+        "culaith", 
+        "fear", 
+        "gnó"
+    ], 
+    "🕵️‍♂️": [
+        "spiaire", 
+        "bleachtaire", 
+        "lorgaire"
+    ], 
+    "🕶️": [
+        "spéaclaí gréine", 
+        "gloiní", 
+        "dorcha", 
+        "spéaclaí", 
+        "súil"
+    ], 
+    "🕷️": [
+        "feithid", 
+        "damhán alla"
+    ], 
+    "🕸️": [
+        "líon damháin alla", 
+        "líon", 
+        "damhán alla"
+    ], 
+    "🕹️": [
+        "físchluiche", 
+        "cluiche", 
+        "luamhán stiúrtha"
+    ], 
     "🕺": [
-        "fear ag damhsa", 
+        "fear ag damhsa: ton cnis meánach", 
+        "ton cnis meánach", 
+        "fear ag damhsa: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
+        "rince", 
+        "ton cnis meánach-dhorcha", 
+        "fear ag damhsa: ton cnis dorcha", 
         "damhsa", 
-        "rince"
+        "ton cnis dorcha", 
+        "fear ag damhsa: ton cnis geal", 
+        "fear ag damhsa: ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "fear ag damhsa"
+    ], 
+    "🖇️": [
+        "fáiscíní páipéir nasctha", 
+        "nasc", 
+        "fáiscín páipéir"
+    ], 
+    "🖊️": [
+        "gránbhiorach", 
+        "peann"
+    ], 
+    "🖋️": [
+        "tobair", 
+        "peann tobair", 
+        "peann"
+    ], 
+    "🖌️": [
+        "ag péinteáil", 
+        "scuab phéinteála"
+    ], 
+    "🖍️": [
+        "crián"
+    ], 
+    "🖐️": [
+        "lámh le méara spréite", 
+        "corp", 
+        "ar leathadh", 
+        "lámha suas lena mhéara ar leathadh", 
+        "méar", 
+        "lámh"
     ], 
     "🖕": [
+        "méar láir: ton cnis meánach-gheal", 
+        "ton cnis meánach", 
+        "méar láir: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
         "méar láir", 
+        "ton cnis meánach-dhorcha", 
+        "méar láir: ton cnis dorcha", 
         "corp", 
+        "ton cnis dorcha", 
+        "ton cnis geal", 
+        "méar láir: ton cnis meánach-dhorcha", 
+        "méar láir: ton cnis geal", 
         "méar", 
         "lámh"
     ], 
     "🖖": [
+        "cuirtéis Bholcáin: ton cnis geal", 
+        "ton cnis meánach", 
         "vulcan", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
         "cuirtéis Bholcáin", 
         "spock", 
         "corp", 
+        "cuirtéis Bholcáin: ton cnis meánach", 
+        "cuirtéis Bholcáin: ton cnis meánach-dhorcha", 
+        "cuirtéis Bholcáin: ton cnis dorcha", 
+        "ton cnis geal", 
         "cúirtéis vulcan", 
+        "cuirtéis Bholcáin: ton cnis meánach-gheal", 
+        "ton cnis meánach-dhorcha", 
         "méar", 
         "lámh"
     ], 
@@ -4809,6 +6657,127 @@
         "gránna", 
         "croí dubh", 
         "dubh"
+    ], 
+    "🖥️": [
+        "ríomhaire deisce", 
+        "ríomhaire", 
+        "deisce"
+    ], 
+    "🖨️": [
+        "printéir", 
+        "ríomhaire"
+    ], 
+    "🖱️": [
+        "trí", 
+        "luchóg ríomhaire", 
+        "3", 
+        "cnaipe", 
+        "luchóg", 
+        "ríomhaire"
+    ], 
+    "🖲️": [
+        "rianliathróid", 
+        "ríomhaire"
+    ], 
+    "🖼️": [
+        "fráma le phictiúr", 
+        "péintéireacht", 
+        "pictiúr", 
+        "músaem", 
+        "ealaíon", 
+        "fráma", 
+        "pictiúr i bhfráma"
+    ], 
+    "🗂️": [
+        "innéacs", 
+        "roinnteoirí", 
+        "cárta", 
+        "roinnteoirí innéacs cárta"
+    ], 
+    "🗃️": [
+        "comhad", 
+        "bosca comhad cárta", 
+        "cárta", 
+        "bosca", 
+        "bosca comhaid cárta"
+    ], 
+    "🗄️": [
+        "comhad", 
+        "caibinéad comhad", 
+        "caibinéad"
+    ], 
+    "🗑️": [
+        "bosca bruscair"
+    ], 
+    "🗒️": [
+        "nóta", 
+        "ceap nótaí bíseach", 
+        "bíseach", 
+        "ceap"
+    ], 
+    "🗓️": [
+        "féilire bíseach", 
+        "féilire", 
+        "bíseach", 
+        "ceap"
+    ], 
+    "🗜️": [
+        "clampa", 
+        "bís", 
+        "uirlis", 
+        "comhbhrú"
+    ], 
+    "🗝️": [
+        "eochair", 
+        "loc", 
+        "sean", 
+        "leid", 
+        "sean-eochair"
+    ], 
+    "🗞️": [
+        "páipéar", 
+        "páipéar nuachta rollaithe suas", 
+        "nuachtán rollaithe suas", 
+        "nuacht", 
+        "páipéar nuachta", 
+        "rollaithe"
+    ], 
+    "🗡️": [
+        "scian", 
+        "arm", 
+        "miodóg"
+    ], 
+    "🗣️": [
+        "aghaidh", 
+        "caint", 
+        "ceann", 
+        "ag caint", 
+        "scáthphictiúr", 
+        "ceann ag caint"
+    ], 
+    "🗨️": [
+        "comhrá", 
+        "bolgán cainte ar chlé", 
+        "caint", 
+        "bolgán cainte chlé"
+    ], 
+    "🗯️": [
+        "bolgán", 
+        "bolgán feirge dheis", 
+        "bolgán feirge ar dheis", 
+        "balún", 
+        "ar buille", 
+        "fearg"
+    ], 
+    "🗳️": [
+        "bosca ballóide le ballóid", 
+        "ballóid", 
+        "bosca"
+    ], 
+    "🗺️": [
+        "léarscáil an domhain", 
+        "léarscáil", 
+        "domhan"
     ], 
     "🗻": [
         "Sliabh Fuji"
@@ -5225,25 +7194,79 @@
         "aghaidh", 
         "aghaidh le súile suas chun na bhflaitheas"
     ], 
-    "🙅": [
-        "duine ag comharthú NÍL", 
-        "níl cead", 
+    "🙅‍♀️": [
+        "cor", 
         "cosc", 
-        "bac"
+        "duine ag comharthú NÍL", 
+        "níl", 
+        "lámh", 
+        "baineann", 
+        "níl cead", 
+        "bac", 
+        "níl sé ceart go leor", 
+        "bean nach aontaíonn", 
+        "bean ag comharthú NÍL"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "fear nach aontaíonn", 
+        "cor", 
+        "cosc", 
+        "níl cead", 
+        "níl", 
+        "fearann", 
+        "fear ag comharthú NÍL", 
+        "níl sé ceart go leor", 
+        "fear", 
+        "lámh"
+    ], 
+    "🙆‍♀️": [
         "gach rud i gceart", 
-        "ceart go leor", 
+        "cor", 
         "OK", 
+        "bean a aontaíonn", 
+        "ceart go leor", 
+        "baineann", 
+        "bean", 
+        "duine ag comharthú OK", 
         "duine à dhéanamh OK", 
-        "duine ag comharthú OK"
+        "bean ag comharthú OK", 
+        "lámh"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "cor", 
+        "ceart go leor", 
+        "fear ag comharthú OK", 
+        "fearann", 
+        "lámh", 
+        "fear", 
+        "fear a aontaíonn"
+    ], 
+    "🙇‍♀️": [
+        "bean ag cromadh a ceann", 
+        "cor", 
+        "baineann", 
+        "brónach", 
+        "gar", 
+        "bean ag umhlú", 
+        "bean", 
+        "leithscéal", 
+        "ag cromadh"
+    ], 
+    "🙇‍♂️": [
         "brón", 
+        "cor", 
+        "fear ag cromadh a cheann", 
+        "fear ag umhlú", 
         "duine ag umhlú", 
-        "aiféala", 
+        "brónach", 
+        "gar", 
+        "gabh mo leithscéal", 
+        "fearann", 
         "tá brón orm", 
-        "gabh mo leithscéal"
+        "ag cromadh", 
+        "leithscéal", 
+        "fear", 
+        "aiféala"
     ], 
     "🙈": [
         "moncaí nach bhfeiceann aon olc", 
@@ -5261,41 +7284,102 @@
         "moncaí nach labhraíonn faoin olc", 
         "ná labhair faoin olc"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "sona", 
+        "cor", 
         "lámh á hardú", 
         "duine ag ardú láimhe", 
         "duine lena lámh suas", 
+        "lámha suas", 
+        "baineann", 
+        "bean lena lámh suas", 
+        "bean", 
+        "bean le lámha suas", 
         "gotha", 
         "duine"
     ], 
+    "🙋‍♂️": [
+        "cor", 
+        "lámha suas", 
+        "fear lena lámh suas", 
+        "fear le lámha suas", 
+        "fearann", 
+        "fear"
+    ], 
     "🙌": [
+        "lámha ardaithe: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "ceiliúradh", 
+        "lámha ardaithe: ton cnis geal", 
+        "na lámha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "hurá", 
         "lámha ardaithe", 
-        "na lámha", 
+        "ton cnis meánach", 
         "ardú lámha", 
-        "ceiliúradh"
+        "ton cnis geal", 
+        "lámha ardaithe: ton cnis meánach-gheal", 
+        "lámha ardaithe: ton cnis meánach-dhorcha", 
+        "lámha ardaithe: ton cnis dorcha"
     ], 
-    "🙍": [
-        "duine", 
+    "🙍‍♀️": [
+        "ag cur grainc", 
+        "baineann", 
         "gruama", 
+        "bean le púic uirthi", 
+        "bean", 
+        "cor", 
         "gotha", 
+        "duine", 
+        "bean ag cur grainc", 
         "duine le púic air"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "fear le púic air", 
+        "ag cur grainc", 
+        "cor", 
+        "fearann", 
+        "fear", 
+        "fear ag cur grainc"
+    ], 
+    "🙎‍♀️": [
         "smut", 
         "duine le phus orthu", 
+        "bean le pus", 
         "duine le puisín air", 
+        "baineann", 
+        "bean", 
+        "cor", 
         "gotha", 
         "duine pusach", 
         "duine", 
+        "bean le puisín uirthi", 
+        "pus"
+    ], 
+    "🙎‍♂️": [
+        "cor", 
+        "fear le pus", 
+        "fear le puisín air", 
+        "fearann", 
+        "fear", 
         "pus"
     ], 
     "🙏": [
         "guí", 
+        "ton cnis meánach", 
+        "lámha le chéile: ton cnis geal", 
+        "lámha le chéile: ton cnis meánach-gheal", 
+        "lámha le chéile: ton cnis meánach", 
+        "lámha le chéile: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
         "ag guí", 
         "paidir", 
+        "lámha le chéile: ton cnis dorcha", 
         "gotha", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
         "lámh", 
         "lámha le chéile"
     ], 
@@ -5506,11 +7590,24 @@
         "long", 
         "feithicil"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "bean ag iomair báid", 
+        "bád", 
+        "baineann", 
+        "bean", 
+        "bean ag rámhaíocht báid", 
+        "bád iomartha"
+    ], 
+    "🚣‍♂️": [
         "bád rámhaíochta", 
         "bád", 
+        "fearann", 
+        "feithicil", 
+        "fear ag iomair báid", 
+        "fear", 
         "duine ag rámhaíocht báid", 
-        "feithicil"
+        "bád iomartha", 
+        "fear ag rámhaíocht báid"
     ], 
     "🚤": [
         "bád", 
@@ -5604,18 +7701,54 @@
         "feithicil", 
         "cosc ar rothar"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "rothaí", 
-        "rothar"
-    ], 
-    "🚵": [
-        "rothaí", 
-        "rothaí sléibhe", 
+        "ag rothaíocht", 
+        "baineann", 
+        "bean ag rothaíocht", 
         "rothar", 
+        "bean"
+    ], 
+    "🚴‍♂️": [
+        "rothaí", 
+        "ag rothaíocht", 
+        "rothar", 
+        "fearann", 
+        "fear ag rothaíocht", 
+        "fear"
+    ], 
+    "🚵‍♀️": [
+        "rothaí", 
+        "ag rothaíocht", 
+        "baineann", 
+        "rothar", 
+        "bean ag rothaíocht sléibhe", 
+        "bean", 
         "sliabh"
     ], 
-    "🚶": [
+    "🚵‍♂️": [
+        "rothaí", 
+        "ag rothaíocht", 
+        "rothar", 
+        "sliabh", 
+        "fearann", 
+        "fear ag rothaíocht sléibhe", 
+        "rothaí sléibhe"
+    ], 
+    "🚶‍♀️": [
+        "siúl", 
+        "fánaíocht", 
+        "bean", 
+        "baineann", 
+        "bean ag siúl"
+    ], 
+    "🚶‍♂️": [
+        "siúl", 
         "coisí", 
+        "fear ag siúl", 
+        "fearann", 
+        "fear", 
+        "fánaíocht", 
         "siúlóir"
     ], 
     "🚷": [
@@ -5664,8 +7797,18 @@
         "cithfholcadán"
     ], 
     "🛀": [
+        "ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "folcadh", 
+        "ton cnis dorcha", 
+        "duine ag folcadh: ton cnis meánach", 
         "duine ag folcadh", 
-        "folcadh"
+        "duine ag folcadh: ton cnis geal", 
+        "duine ag folcadh: ton cnis dorcha", 
+        "duine ag folcadh: ton cnis meánach-gheal", 
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "duine ag folcadh: ton cnis meánach-dhorcha"
     ], 
     "🛁": [
         "folcadán"
@@ -5686,10 +7829,42 @@
         "bagáiste", 
         "seirbhís bhagáiste"
     ], 
+    "🛋️": [
+        "tolg", 
+        "óstán", 
+        "lampa", 
+        "tolg agus lampa"
+    ], 
     "🛌": [
         "codladh", 
+        "duine sa leaba: ton cnis dorcha", 
+        "ton cnis meánach", 
+        "duine sa leaba: ton cnis geal", 
+        "duine sa leaba: ton cnis meánach", 
+        "duine sa leaba: ton cnis meánach-gheal", 
+        "duine sa leaba: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
+        "duine sa leaba", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "óstán", 
-        "duine sa leaba"
+        "ton cnis geal"
+    ], 
+    "🛍️": [
+        "ag siopadóireacht", 
+        "óstán", 
+        "mála", 
+        "málaí siopadóireachta"
+    ], 
+    "🛎️": [
+        "clog", 
+        "óstán", 
+        "clog óstáin"
+    ], 
+    "🛏️": [
+        "codladh", 
+        "leaba", 
+        "óstán"
     ], 
     "🛐": [
         "adhartha", 
@@ -5709,6 +7884,41 @@
         "ollmhargadh", 
         "tralaí"
     ], 
+    "🛠️": [
+        "casúr", 
+        "casúr agus rinse", 
+        "uirlis", 
+        "rinse"
+    ], 
+    "🛡️": [
+        "arm", 
+        "sciath"
+    ], 
+    "🛢️": [
+        "ola", 
+        "druma ola", 
+        "druma"
+    ], 
+    "🛣️": [
+        "mótarbhealach", 
+        "bóthar", 
+        "bealach mór"
+    ], 
+    "🛤️": [
+        "traen", 
+        "iarnród", 
+        "ráillrian"
+    ], 
+    "🛥️": [
+        "bád", 
+        "mótarbhád", 
+        "feithicil"
+    ], 
+    "🛩️": [
+        "eitleán beag", 
+        "feithicil", 
+        "eitleán"
+    ], 
     "🛫": [
         "imeacht eitleáin", 
         "seiceáil isteach", 
@@ -5724,6 +7934,18 @@
         "ag teacht", 
         "teacht eitleáin", 
         "feithicil"
+    ], 
+    "🛰️": [
+        "spáis", 
+        "feithicil", 
+        "satailít"
+    ], 
+    "🛳️": [
+        "long paisinéirí", 
+        "paisinéir", 
+        "long", 
+        "feithicil", 
+        "long phaisinéirí"
     ], 
     "🛴": [
         "leanbh", 
@@ -5805,38 +8027,88 @@
         "aghaidh"
     ], 
     "🤘": [
+        "ton cnis meánach", 
         "beanna", 
+        "siombail na n-adharc: ton cnis dorcha", 
+        "siombail na n-adharc: ton cnis meánach-gheal", 
         "lean ort", 
+        "ton cnis meánach-gheal", 
         "lámh na binne", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "siombail na n-adharc: ton cnis meánach-dhorcha", 
         "siombail na n-adharc", 
+        "siombail na n-adharc: ton cnis geal", 
         "corp", 
+        "ton cnis geal", 
+        "siombail na n-adharc: ton cnis meánach", 
         "méar", 
         "lámh"
     ], 
     "🤙": [
+        "an lámh cur glao orm: ton cnis dorcha", 
+        "an lámh cur glao orm: ton cnis meánach-gheal", 
+        "an lámh cur glao orm: ton cnis geal", 
+        "an lámh cur glao orm: ton cnis meánach", 
         "fón", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "an lámh cur glao orm", 
+        "ton cnis meánach", 
         "lámh", 
+        "ton cnis geal", 
+        "an lámh cur glao orm: ton cnis meánach-dhorcha", 
         "glaoigh orm", 
         "guthán", 
         "glaoch", 
         "cuir fios"
     ], 
     "🤚": [
-        "cúl láimhe in airde", 
+        "cúl láimhe in airde: ton cnis geal", 
+        "cúl láimhe in airde: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "cúl", 
+        "cúl láimhe in airde: ton cnis meánach-gheal", 
         "in airde", 
         "lámh in airde", 
-        "cúl", 
-        "lámh"
+        "cúl láimhe in airde", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
+        "cúl láimhe in airde: ton cnis dorcha", 
+        "ton cnis geal", 
+        "lámh", 
+        "cúl láimhe in airde: ton cnis meánach-dhorcha"
     ], 
     "🤛": [
+        "ton cnis meánach", 
+        "dorn ar chlé: ton cnis meánach", 
         "ar chlé", 
+        "ton cnis meánach-gheal", 
+        "dorn ar chlé: ton cnis dorcha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "dorn ar chlé: ton cnis meánach-gheal", 
+        "ton cnis geal", 
+        "dorn ar chlé: ton cnis meánach-dhorcha", 
         "dorn", 
+        "dorn ar chlé: ton cnis geal", 
         "dorn ar chlé"
     ], 
     "🤜": [
-        "ar dheis", 
+        "ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "dorn ar dheis: ton cnis meánach", 
+        "dorn ar dheis: ton cnis meánach-dhorcha", 
+        "dorn ar dheis: ton cnis dorcha", 
+        "ton cnis geal", 
+        "dorn ar dheis: ton cnis geal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "dorn ar dheis", 
+        "dorn ar dheis: ton cnis meánach-gheal", 
+        "ar dheis", 
         "dorn"
     ], 
     "🤝": [
@@ -5847,18 +8119,38 @@
         "croitheadh láimhe"
     ], 
     "🤞": [
+        "ton cnis meánach-gheal", 
+        "méarsa trasna: ton cnis dorcha", 
         "crosach", 
         "ag súil", 
         "méara crosach ar a chéile", 
         "méara", 
+        "ton cnis geal", 
+        "méarsa trasna: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
+        "méarsa trasna: ton cnis meánach-gheal", 
         "méarsa trasna", 
-        "ádh"
+        "ádh", 
+        "méarsa trasna: ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis dorcha", 
+        "méarsa trasna: ton cnis meánach"
     ], 
     "🤟": [
+        "comhartha grá: ton cnis meánach", 
+        "ton cnis meánach", 
         "téarma ceana", 
         "grá", 
+        "comhartha grá: ton cnis meánach-gheal", 
+        "comhartha grá: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-gheal", 
         "comhartha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "comhartha grá: ton cnis dorcha", 
+        "comhartha grá: ton cnis geal", 
         "comhartha ghrá", 
+        "ton cnis geal", 
         "comhartha grá", 
         "lámh"
     ], 
@@ -5909,13 +8201,41 @@
         "pinocchio"
     ], 
     "🤦": [
+        "ton cnis meánach-gheal", 
         "bos", 
         "aghaidh", 
+        "duine lena aghaidh ina bhos: ton cnis meánach-gheal", 
+        "duine lena aghaidh ina bhos: ton cnis geal", 
+        "duine lena aghaidh ina bhos: ton cnis dorcha", 
         "ciaptha", 
         "ní chreidim", 
+        "duine lena aghaidh ina bhos: ton cnis meánach", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "duine lena aghaidh ina bhos", 
+        "ton cnis dorcha", 
+        "ton cnis geal", 
+        "duine lena aghaidh ina bhos: ton cnis meánach-dhorcha", 
         "lámh", 
         "ar mire"
+    ], 
+    "🤦‍♀️": [
+        "bean lena haghaidh ina bos", 
+        "aghaidh i mbos", 
+        "baineann", 
+        "bean", 
+        "bean lena haghaidh i mbos", 
+        "díchreideamh", 
+        "mearú"
+    ], 
+    "🤦‍♂️": [
+        "aghaidh i mbos", 
+        "fear lena aghaidh i mbos", 
+        "mearú", 
+        "fearann", 
+        "díchreideamh", 
+        "fear", 
+        "fear lena aghaidh ina bhos"
     ], 
     "🤧": [
         "straoiseog ag sraotharthach", 
@@ -5969,68 +8289,224 @@
     ], 
     "🤰": [
         "leanbh", 
+        "bean ag iompar clainne: ton cnis meánach", 
+        "ton cnis meánach", 
+        "bean ag iompar clainne: ton cnis dorcha", 
+        "bean ag iompar clainne: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
         "cailín", 
         "páiste", 
+        "ton cnis meánach-dhorcha", 
         "bean", 
+        "ton cnis dorcha", 
         "torrach", 
+        "bean ag iompar clainne: ton cnis geal", 
         "ag súil", 
+        "ton cnis geal", 
+        "bean ag iompar clainne: ton cnis meánach-dhorcha", 
         "bean ag iompar clainne", 
         "ag iompar", 
         "iompar clainne", 
         "ag iompar clainne"
     ], 
     "🤱": [
+        "cothú cíche: ton cnis meánach-gheal", 
         "cothú cíche", 
+        "ton cnis meánach", 
+        "babaí", 
+        "cothú cíche: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
         "cíoch", 
-        "babaí"
+        "ton cnis dorcha", 
+        "cothú cíche: ton cnis geal", 
+        "ton cnis geal", 
+        "cothú cíche: ton cnis dorcha", 
+        "cothú cíche: ton cnis meánach-dhorcha", 
+        "ton cnis meánach-dhorcha"
     ], 
     "🤲": [
-        "paidir", 
+        "ton cnis meánach", 
+        "bosa le chéile: ton cnis meánach-dhorcha", 
+        "bosa le chéile: ton cnis meánach", 
         "bos na láimhe ardaithe le chéile", 
-        "bosa le chéile"
+        "ton cnis meánach-gheal", 
+        "bosa le chéile: ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "paidir", 
+        "bosa le chéile: ton cnis dorcha", 
+        "ton cnis dorcha", 
+        "ton cnis geal", 
+        "bosa le chéile", 
+        "bosa le chéile: ton cnis meánach-gheal"
     ], 
     "🤳": [
-        "pictiúr", 
+        "féinphic: ton cnis dorcha", 
+        "féinghraf", 
+        "ton cnis meánach-gheal", 
+        "féinphic: ton cnis meánach-dhorcha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
         "féinphic", 
-        "féinghraf"
+        "ton cnis meánach", 
+        "féinphic: ton cnis meánach", 
+        "féinphic: ton cnis geal", 
+        "pictiúr", 
+        "féinphic: ton cnis meánach-gheal"
     ], 
     "🤴": [
-        "prionsa"
+        "ton cnis meánach", 
+        "prionsa: ton cnis meánach-dhorcha", 
+        "prionsa", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "prionsa: ton cnis geal", 
+        "prionsa: ton cnis dorcha", 
+        "prionsa: ton cnis meánach", 
+        "ton cnis geal", 
+        "prionsa: ton cnis meánach-gheal"
     ], 
     "🤵": [
-        "culaith", 
-        "fear", 
+        "fear le culaith air: ton cnis dorcha", 
+        "fear le culaith air: ton cnis geal", 
         "seaicéad", 
+        "culaith", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "fear le culaith air: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "fear le culaith air", 
-        "culaith dhinnéir"
+        "culaith dhinnéir", 
+        "ton cnis geal", 
+        "fear le culaith air: ton cnis meánach-gheal", 
+        "fear", 
+        "fear le culaith air: ton cnis meánach"
     ], 
     "🤶": [
-        "hata", 
+        "Bean Uí Claus: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
         "nollaig", 
-        "bean", 
         "Bean Uí Claus", 
-        "hata nollag"
+        "hata nollag", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "bean", 
+        "ton cnis meánach", 
+        "Bean Uí Claus: ton cnis meánach-dhorcha", 
+        "hata", 
+        "Bean Uí Claus: ton cnis meánach", 
+        "Bean Uí Claus: ton cnis dorcha", 
+        "Bean Uí Claus: ton cnis geal"
     ], 
     "🤷": [
-        "croith", 
         "guaillí", 
+        "ton cnis meánach-gheal", 
+        "duine ag croitheadh: ton cnis meánach-dhorcha", 
+        "croith", 
         "duine ag croitheadh", 
+        "duine ag croitheadh: ton cnis geal", 
+        "ton cnis dorcha", 
+        "croitheadh", 
+        "duine ag croitheadh: ton cnis dorcha", 
+        "duine ag croitheadh: ton cnis meánach", 
+        "ton cnis meánach", 
         "níl a fhios agam", 
-        "croitheadh"
+        "ton cnis geal", 
+        "ton cnis meánach-dhorcha", 
+        "duine ag croitheadh: ton cnis meánach-gheal"
+    ], 
+    "🤷‍♀️": [
+        "amhras", 
+        "neamhshuim", 
+        "aineolas", 
+        "bean ag searradh", 
+        "baineann", 
+        "bean ag croitheadh", 
+        "bean", 
+        "searradh"
+    ], 
+    "🤷‍♂️": [
+        "amhras", 
+        "neamhshuim", 
+        "fear ag searradh", 
+        "fearann", 
+        "fear ag croitheadh", 
+        "aineolas", 
+        "fear", 
+        "searradh"
     ], 
     "🤸": [
-        "duine", 
+        "duine ag rothchasadh: ton cnis dorcha", 
         "casadh", 
-        "rothchasadh", 
+        "ton cnis meánach", 
+        "duine ag rothchasadh: ton cnis meánach-gheal", 
         "rothalchleas", 
+        "ton cnis meánach-gheal", 
+        "rothchasadh", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "duine ag rothchasadh: ton cnis geal", 
+        "duine ag rothchasadh: ton cnis meánach-dhorcha", 
+        "duine", 
+        "duine ag rothchasadh: ton cnis meánach", 
         "duine ag rothchasadh"
     ], 
+    "🤸‍♀️": [
+        "rothchasadh", 
+        "baineann", 
+        "gleacaíocht", 
+        "bean ag rothchasadh", 
+        "bean", 
+        "duine", 
+        "spórt"
+    ], 
+    "🤸‍♂️": [
+        "rothchasadh", 
+        "fear ag déanamh rothchasaidh", 
+        "fear ag rothchasadh", 
+        "gleacaíocht", 
+        "fearann", 
+        "duine", 
+        "fear", 
+        "spórt"
+    ], 
     "🤹": [
-        "lámhchleasaíocht", 
-        "ionramháil", 
-        "scil", 
+        "duine ag déanamh lámhchleasaíochta: ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
         "duine ag déanamh lámhchleasaíochta", 
-        "liathróid"
+        "ionramháil", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "liathróid", 
+        "ton cnis geal", 
+        "duine ag déanamh lámhchleasaíochta: ton cnis geal", 
+        "duine ag déanamh lámhchleasaíochta: ton cnis dorcha", 
+        "duine ag déanamh lámhchleasaíochta: ton cnis meánach", 
+        "lámhchleasaíocht", 
+        "duine ag déanamh lámhchleasaíochta: ton cnis meánach-gheal", 
+        "ton cnis meánach-dhorcha", 
+        "scil"
+    ], 
+    "🤹‍♀️": [
+        "bean ag déanamh lámhchleasaíochta", 
+        "baineann", 
+        "bean ag déanamh lámhchleasaíocht", 
+        "bean", 
+        "iltascáil", 
+        "ag déanamh lámhchleasaíocht"
+    ], 
+    "🤹‍♂️": [
+        "fear ag déanamh lámhchleasaíocht", 
+        "fear ag déanamh lámhchleasaíochta", 
+        "fearann", 
+        "lámhchleasaíocht", 
+        "iltascáil", 
+        "fear", 
+        "spórt"
     ], 
     "🤺": [
         "pionsóireacht", 
@@ -6046,21 +8522,86 @@
         "coraíocht", 
         "daoine ag coraíocht"
     ], 
+    "🤼‍♀️": [
+        "baineann", 
+        "mná ag coraíocht", 
+        "mná", 
+        "coraíocht", 
+        "duine", 
+        "spórt"
+    ], 
+    "🤼‍♂️": [
+        "fear ag coraíocht", 
+        "fearann", 
+        "coraíocht", 
+        "duine", 
+        "fear", 
+        "spórt", 
+        "fir ag coraíocht"
+    ], 
     "🤽": [
+        "duine ag imirt póló uisce: ton cnis geal", 
+        "ton cnis meánach", 
         "póló", 
+        "ton cnis meánach-gheal", 
+        "duine ag imirt póló uisce: ton cnis dorcha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
         "uisce", 
+        "ton cnis geal", 
         "snámh", 
+        "duine ag imirt póló uisce: ton cnis meánach", 
+        "duine ag imirt póló uisce: ton cnis meánach-dhorcha", 
         "duine", 
         "spórt", 
-        "duine ag imirt póló uisce"
+        "duine ag imirt póló uisce", 
+        "duine ag imirt póló uisce: ton cnis meánach-gheal"
+    ], 
+    "🤽‍♀️": [
+        "bean", 
+        "spórt", 
+        "baineann", 
+        "póló uisce", 
+        "bean ag imirt póló uisce"
+    ], 
+    "🤽‍♂️": [
+        "fear", 
+        "spórt", 
+        "fearann", 
+        "póló uisce", 
+        "fear ag imirt póló uisce"
     ], 
     "🤾": [
+        "duine ag imirt liathróid láimhe: ton cnis geal", 
         "liathróid láimhe", 
+        "duine ag imirt liathróid láimhe: ton cnis meánach", 
         "pinniú", 
+        "ton cnis meánach-gheal", 
         "duine ag imirt liathróid láimhe", 
+        "ton cnis dorcha", 
         "liathróid", 
+        "ton cnis geal", 
+        "ton cnis meánach", 
+        "duine ag imirt liathróid láimhe: ton cnis meánach-dhorcha", 
+        "duine ag imirt liathróid láimhe: ton cnis dorcha", 
         "duine", 
+        "ton cnis meánach-dhorcha", 
+        "duine ag imirt liathróid láimhe: ton cnis meánach-gheal", 
         "lámh"
+    ], 
+    "🤾‍♀️": [
+        "liathróid láimhe", 
+        "bean", 
+        "bean ag imirt liathróid láimhe", 
+        "baineann", 
+        "spórt"
+    ], 
+    "🤾‍♂️": [
+        "liathróid láimhe", 
+        "fear", 
+        "fear ag imirt liathróid láimhe", 
+        "fearann", 
+        "spórt"
     ], 
     "🥀": [
         "bláth sleabhctha", 
@@ -6425,71 +8966,194 @@
         "leathspéacla"
     ], 
     "🧑": [
+        "aosach: ton cnis meánach", 
         "aosach", 
-        "duine fásta"
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "aosach: ton cnis dorcha", 
+        "ton cnis meánach", 
+        "aosach: ton cnis geal", 
+        "duine fásta", 
+        "ton cnis geal", 
+        "aosach: ton cnis meánach-gheal", 
+        "aosach: ton cnis meánach-dhorcha"
     ], 
     "🧒": [
         "leanbh", 
+        "ton cnis meánach", 
         "neodrach ó thaobh inscne de", 
-        "óg"
+        "óg", 
+        "ton cnis meánach-gheal", 
+        "leanbh: ton cnis meánach-dhorcha", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "leanbh: ton cnis geal", 
+        "leanbh: ton cnis meánach", 
+        "ton cnis geal", 
+        "leanbh: ton cnis meánach-gheal", 
+        "leanbh: ton cnis dorcha"
     ], 
     "🧓": [
-        "duine", 
+        "seanduine: ton cnis meánach", 
         "seanduine", 
-        "sean"
+        "seanduine: ton cnis geal", 
+        "seanduine: ton cnis meánach-gheal", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "ton cnis meánach", 
+        "sean", 
+        "duine", 
+        "seanduine: ton cnis meánach-dhorcha", 
+        "seanduine: ton cnis dorcha"
     ], 
     "🧔": [
+        "duine féasógach: ton cnis geal", 
+        "féasóg", 
+        "duine féasógach: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
         "duine féasógach", 
-        "féasóg"
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis meánach", 
+        "duine féasógach: ton cnis meánach-dhorcha", 
+        "duine féasógach: ton cnis dorcha", 
+        "ton cnis geal", 
+        "duine féasógach: ton cnis meánach-gheal"
     ], 
     "🧕": [
+        "bean le caifirín: ton cnis dorcha", 
+        "ton cnis meánach", 
+        "bean le caifirín: ton cnis meánach-dhorcha", 
+        "bean le caifirín: ton cnis meánach", 
+        "ton cnis meánach-gheal", 
+        "ton cnis dorcha", 
+        "ton cnis meánach-dhorcha", 
+        "ton cnis geal", 
+        "bean le caifirín: ton cnis meánach-gheal", 
+        "bean le caifirín: ton cnis geal", 
         "bean le caifirín", 
         "hijab", 
         "caifirín"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "bean i seomra gaile", 
+        "bean", 
+        "seomra gaile", 
+        "seomra allais"
+    ], 
+    "🧖‍♂️": [
+        "fear i seomra gaile", 
         "seomra allais", 
         "seomra gaile", 
+        "fear", 
         "duine i seomra gaile"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "duine ag dreapadóireacht", 
-        "deapadóir"
+        "bean", 
+        "dreapadóir", 
+        "deapadóir", 
+        "bean ag dreapadóireacht"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "fear", 
+        "dreapadóir", 
+        "fear ag dreapadóireacht"
+    ], 
+    "🧘‍♀️": [
+        "bean i suíomh na loiteoige", 
         "duine i suíomh na loiteoige", 
+        "ag machnamh", 
+        "bean", 
+        "ióga"
+    ], 
+    "🧘‍♂️": [
+        "fear i suíomh na loiteoige", 
+        "fear", 
         "ag machnamh", 
         "ióga"
     ], 
-    "🧙": [
+    "🧙‍♀️": [
         "asarlaí", 
+        "bean dhraíochta", 
         "duine draíochta", 
         "draoi", 
         "cailleach"
     ], 
-    "🧚": [
-        "síog"
+    "🧙‍♂️": [
+        "draoi", 
+        "fear draíochta"
     ], 
-    "🧛": [
+    "🧚‍♀️": [
+        "síog", 
+        "sióg bhaineann", 
+        "sióga baineann"
+    ], 
+    "🧚‍♂️": [
+        "sióg fearann", 
+        "sióg fhireann"
+    ], 
+    "🧛‍♀️": [
+        "vaimpír", 
         "neamh-mharbh", 
         "Dracula", 
+        "vaimpír baineann", 
+        "bean", 
+        "vaimpír bhaineann"
+    ], 
+    "🧛‍♂️": [
+        "neamh-mharbh", 
+        "Dracula", 
+        "fear", 
+        "vaimpír fhireann", 
         "vaimpír"
     ], 
-    "🧜": [
+    "🧜‍♀️": [
+        "bean", 
+        "murúch"
+    ], 
+    "🧜‍♂️": [
+        "tríotón", 
+        "murúch fir", 
         "duine murúch"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "draíochtúil", 
+        "síofra baineann", 
+        "síofróg"
+    ], 
+    "🧝‍♂️": [
         "draíochtúil", 
         "lucharachán", 
+        "síofra fireann", 
         "síogaí"
     ], 
-    "🧞": [
-        "sióg", 
-        "ginid"
+    "🧞‍♀️": [
+        "ginid", 
+        "ginid bhaineann", 
+        "baineann", 
+        "sióg"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "ginid fhireann", 
+        "sióg", 
+        "ginid", 
+        "fearann"
+    ], 
+    "🧟‍♀️": [
         "neamh-mharbh", 
-        "zombaí"
+        "zombaí", 
+        "zombaí baineann", 
+        "baineann"
+    ], 
+    "🧟‍♂️": [
+        "neamh-mharbh", 
+        "zombaí", 
+        "zombaí fireann", 
+        "fearann"
     ], 
     "🧠": [
         "inchinn", 

@@ -1,4 +1,125 @@
 {
+    "#️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: #"
+    ], 
+    "*️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: *"
+    ], 
+    "0️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 0"
+    ], 
+    "1️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 1"
+    ], 
+    "2️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 2"
+    ], 
+    "3️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 3"
+    ], 
+    "4️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 4"
+    ], 
+    "5️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 5"
+    ], 
+    "6️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 6"
+    ], 
+    "7️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 7"
+    ], 
+    "8️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 8"
+    ], 
+    "9️⃣": [
+        "sleutelbordtoets", 
+        "sleutelbordtoets: 9"
+    ], 
+    "©️": [
+        "kopieregmerk", 
+        "kopiereg"
+    ], 
+    "®️": [
+        "registrasie", 
+        "geregistreer", 
+        "registrasiemerk"
+    ], 
+    "‼️": [
+        "leesteken", 
+        "teken", 
+        "dubbeluitroepteken", 
+        "uitroep"
+    ], 
+    "⁉️": [
+        "vraag", 
+        "leesteken", 
+        "teken", 
+        "uitroep-vraagteken", 
+        "uitroep"
+    ], 
+    "™️": [
+        "merk", 
+        "tm", 
+        "handelsmerk", 
+        "handelmerk"
+    ], 
+    "ℹ️": [
+        "i", 
+        "inligtingbron", 
+        "inligting"
+    ], 
+    "↔️": [
+        "pyl links en regs", 
+        "pyle"
+    ], 
+    "↕️": [
+        "pyl op en af", 
+        "pyle"
+    ], 
+    "↖️": [
+        "noordwes", 
+        "rigting", 
+        "pyl", 
+        "pyl na links bo"
+    ], 
+    "↗️": [
+        "rigting", 
+        "pyl na regs bo", 
+        "pyl", 
+        "noordoos"
+    ], 
+    "↘️": [
+        "rigting", 
+        "pyl na regs onder", 
+        "suidoos", 
+        "pyl"
+    ], 
+    "↙️": [
+        "rigting", 
+        "suidwes", 
+        "pyl", 
+        "pyl na links onder"
+    ], 
+    "↩️": [
+        "pyl", 
+        "pyl na regs buig na links"
+    ], 
+    "↪️": [
+        "pyl", 
+        "pyl na links buig na regs"
+    ], 
     "⌚": [
         "tyd", 
         "horlosie"
@@ -7,6 +128,17 @@
         "tyd", 
         "sand", 
         "uurglas"
+    ], 
+    "⌨️": [
+        "toets", 
+        "tik", 
+        "rekenaar", 
+        "sleutelbord", 
+        "sleutel"
+    ], 
+    "⏏️": [
+        "uitskietknoppie", 
+        "uitskiet"
     ], 
     "⏩": [
         "dubbel", 
@@ -33,9 +165,45 @@
         "pyl", 
         "af"
     ], 
+    "⏭️": [
+        "volgende snit-knoppie", 
+        "volgende", 
+        "pyl", 
+        "laaste", 
+        "driehoek"
+    ], 
+    "⏮️": [
+        "eerste", 
+        "vorige", 
+        "pyl", 
+        "vorige snit-knoppie", 
+        "driehoek"
+    ], 
+    "⏯️": [
+        "wag", 
+        "regs", 
+        "speel", 
+        "speel of onderbreek-knoppie", 
+        "onderbreek", 
+        "pyl", 
+        "driehoek"
+    ], 
     "⏰": [
         "wekker", 
         "klok"
+    ], 
+    "⏱️": [
+        "tyd", 
+        "horlosie", 
+        "stophorlosie", 
+        "klok"
+    ], 
+    "⏲️": [
+        "tyd", 
+        "afteller", 
+        "klok", 
+        "aftel", 
+        "horlosie"
     ], 
     "⏳": [
         "tyd", 
@@ -43,6 +211,69 @@
         "val", 
         "uurglas", 
         "uurglas met sand wat uitloop"
+    ], 
+    "⏸️": [
+        "dubbel", 
+        "strepe", 
+        "onderbreekknoppie", 
+        "wag", 
+        "onderbreek"
+    ], 
+    "⏹️": [
+        "vierkant", 
+        "stop", 
+        "stopknoppie", 
+        "blok"
+    ], 
+    "⏺️": [
+        "kring", 
+        "neem op-knoppie", 
+        "sirkel", 
+        "opneem"
+    ], 
+    "Ⓜ️": [
+        "kring", 
+        "sirkel", 
+        "m", 
+        "letter m in sirkel"
+    ], 
+    "▪️": [
+        "swart", 
+        "klein swart vierkant", 
+        "vierkant", 
+        "geometries"
+    ], 
+    "▫️": [
+        "wit", 
+        "klein wit vierkant", 
+        "vierkant", 
+        "geometries"
+    ], 
+    "▶️": [
+        "speel", 
+        "speelknoppie", 
+        "pyl", 
+        "regs", 
+        "driehoek"
+    ], 
+    "◀️": [
+        "terug", 
+        "speel terug-knoppie", 
+        "pyl", 
+        "links", 
+        "driehoek"
+    ], 
+    "◻️": [
+        "wit", 
+        "vierkant", 
+        "geometries", 
+        "wit mediumvierkant"
+    ], 
+    "◼️": [
+        "swart", 
+        "swart mediumvierkant", 
+        "vierkant", 
+        "geometries"
     ], 
     "◽": [
         "wit mediumklein vierkant", 
@@ -55,6 +286,45 @@
         "swart mediumklein vierkant", 
         "vierkant", 
         "geometries"
+    ], 
+    "☀️": [
+        "strale", 
+        "helder", 
+        "ruimte", 
+        "weer", 
+        "son"
+    ], 
+    "☁️": [
+        "weer", 
+        "wolk"
+    ], 
+    "☂️": [
+        "reën", 
+        "klere", 
+        "sambreel", 
+        "weer"
+    ], 
+    "☃️": [
+        "weer", 
+        "sneeu", 
+        "koud", 
+        "sneeuman", 
+        "man"
+    ], 
+    "☄️": [
+        "ruimte", 
+        "komeet"
+    ], 
+    "☎️": [
+        "foon", 
+        "telefoon"
+    ], 
+    "☑️": [
+        "stembus met regmerk", 
+        "merk", 
+        "verkiesing", 
+        "reg", 
+        "stem"
     ], 
     "☔": [
         "reën", 
@@ -73,6 +343,89 @@
         "warm", 
         "koppie", 
         "warm drankie"
+    ], 
+    "☘️": [
+        "klawer", 
+        "plant"
+    ], 
+    "☝️": [
+        "wys", 
+        "vinger", 
+        "liggaam", 
+        "wysvinger wat op wys", 
+        "hand", 
+        "wysvinger", 
+        "op"
+    ], 
+    "☠️": [
+        "gesig", 
+        "monster", 
+        "kopbeen en gekruiste beendere", 
+        "dood", 
+        "bene", 
+        "kopbeen", 
+        "liggaam"
+    ], 
+    "☢️": [
+        "radioaktief", 
+        "bestraling"
+    ], 
+    "☣️": [
+        "gevaar", 
+        "lewensgevaar", 
+        "biologies", 
+        "biologiese gevaar"
+    ], 
+    "☦️": [
+        "godsdiens", 
+        "christen", 
+        "ortodoks", 
+        "ortodokse kruis", 
+        "kruis"
+    ], 
+    "☪️": [
+        "godsdiens", 
+        "ster en sekelmaan", 
+        "moslem", 
+        "islam"
+    ], 
+    "☮️": [
+        "vrede", 
+        "vredesimbool"
+    ], 
+    "☯️": [
+        "jin-jang", 
+        "jin", 
+        "godsdiens", 
+        "jang", 
+        "tao", 
+        "taoïs"
+    ], 
+    "☸️": [
+        "dharma", 
+        "wiel", 
+        "dharmawiel", 
+        "boeddhis", 
+        "godsdiens"
+    ], 
+    "☹️": [
+        "gesig", 
+        "gesig wat frons", 
+        "frons"
+    ], 
+    "☺️": [
+        "gesig", 
+        "ontspanne", 
+        "glimlag", 
+        "glimlaggende gesig"
+    ], 
+    "♀️": [
+        "vroulik", 
+        "vroulik-teken"
+    ], 
+    "♂️": [
+        "manlik-teken", 
+        "manlik"
     ], 
     "♈": [
         "ramsterrebeeld", 
@@ -141,14 +494,93 @@
         "diereriem", 
         "visse"
     ], 
+    "♠️": [
+        "kaart", 
+        "speletjie", 
+        "skoppens"
+    ], 
+    "♣️": [
+        "klawers", 
+        "kaart", 
+        "speletjie"
+    ], 
+    "♥️": [
+        "speletjie", 
+        "kaart", 
+        "harte"
+    ], 
+    "♦️": [
+        "kaart", 
+        "diamante", 
+        "speletjie"
+    ], 
+    "♨️": [
+        "warmbron", 
+        "water", 
+        "fontein", 
+        "warm", 
+        "stoom"
+    ], 
+    "♻️": [
+        "herwin", 
+        "herwinning", 
+        "herwinningsimbool"
+    ], 
     "♿": [
         "toegang", 
         "rolstoel", 
         "gestremd"
     ], 
+    "⚒️": [
+        "hamer", 
+        "pik", 
+        "hamer en pik", 
+        "gereedskap"
+    ], 
     "⚓": [
         "skip", 
         "anker"
+    ], 
+    "⚔️": [
+        "wapen", 
+        "gekruiste swaarde", 
+        "swaarde"
+    ], 
+    "⚕️": [
+        "eskulaap", 
+        "mediese simbool"
+    ], 
+    "⚖️": [
+        "diereriem", 
+        "weeg", 
+        "weegskaal", 
+        "libra", 
+        "gewig", 
+        "geregtigheid", 
+        "skaal"
+    ], 
+    "⚗️": [
+        "laboratorium", 
+        "alembiek", 
+        "chemie"
+    ], 
+    "⚙️": [
+        "rat", 
+        "gereedskap"
+    ], 
+    "⚛️": [
+        "atoom", 
+        "atoomsimbool", 
+        "ateïs"
+    ], 
+    "⚜️": [
+        "fleur de lis", 
+        "lelie", 
+        "fleur"
+    ], 
+    "⚠️": [
+        "waarskuwing", 
+        "gevaar"
     ], 
     "⚡": [
         "skok", 
@@ -170,6 +602,18 @@
         "swart sirkel", 
         "sirkel", 
         "geometries"
+    ], 
+    "⚰️": [
+        "kis", 
+        "dood", 
+        "begrawe"
+    ], 
+    "⚱️": [
+        "begrafniskruik", 
+        "as", 
+        "begrafnis", 
+        "dood", 
+        "kruik"
     ], 
     "⚽": [
         "bal", 
@@ -193,11 +637,38 @@
         "son agter wolk", 
         "son"
     ], 
+    "⛈️": [
+        "reën", 
+        "blits", 
+        "wolk met weerlig en reën", 
+        "donder", 
+        "wolk", 
+        "weer"
+    ], 
     "⛎": [
         "slangdraersterrebeeld", 
         "draer", 
         "diereriem", 
         "slang"
+    ], 
+    "⛏️": [
+        "pik", 
+        "kap", 
+        "myn", 
+        "gereedskap"
+    ], 
+    "⛑️": [
+        "hoed", 
+        "gesig", 
+        "helm met wit kruis", 
+        "kruis", 
+        "hulp", 
+        "helm"
+    ], 
+    "⛓️": [
+        "skakel", 
+        "ketting", 
+        "kettings"
     ], 
     "⛔": [
         "verbode", 
@@ -206,12 +677,29 @@
         "geen toegang nie", 
         "verkeer"
     ], 
+    "⛩️": [
+        "sjinto-altaar", 
+        "altaar", 
+        "sjinto", 
+        "tempel", 
+        "godsdiens"
+    ], 
     "⛪": [
         "godsdiens", 
         "christelik", 
         "gebou", 
         "kerk", 
         "kruis"
+    ], 
+    "⛰️": [
+        "berg"
+    ], 
+    "⛱️": [
+        "sambreel op die grond", 
+        "weer", 
+        "reën", 
+        "sambreel", 
+        "son"
     ], 
     "⛲": [
         "fontein"
@@ -222,6 +710,11 @@
         "vlag in putjie", 
         "gholf"
     ], 
+    "⛴️": [
+        "pont", 
+        "boot", 
+        "veerboot"
+    ], 
     "⛵": [
         "voertuig", 
         "boot", 
@@ -229,6 +722,20 @@
         "jag", 
         "seilboot", 
         "seil"
+    ], 
+    "⛷️": [
+        "sneeu", 
+        "ski", 
+        "skiër"
+    ], 
+    "⛸️": [
+        "ys", 
+        "ysskaats", 
+        "skaats"
+    ], 
+    "⛹️‍♂️": [
+        "bal", 
+        "persoon met bal"
     ], 
     "⛺": [
         "kampeer", 
@@ -242,27 +749,131 @@
         "pomp", 
         "stasie"
     ], 
+    "✂️": [
+        "knip", 
+        "skêr", 
+        "sny"
+    ], 
     "✅": [
         "merk", 
         "reg", 
         "dik wit regmerk"
     ], 
+    "✈️": [
+        "vliegtuig", 
+        "voertuig"
+    ], 
+    "✉️": [
+        "e-pos", 
+        "brief", 
+        "koevert"
+    ], 
     "✊": [
+        "vuis in die lug: veltipe-1-2", 
         "gebal", 
+        "veltipe-1-2", 
         "hand", 
+        "veltipe-3", 
         "vuis", 
+        "vuis in die lug: veltipe-5", 
+        "veltipe-5", 
+        "veltipe-4", 
         "vuis in die lug", 
         "slaan", 
-        "liggaam"
+        "vuis in die lug: veltipe-3", 
+        "vuis in die lug: veltipe-4", 
+        "liggaam", 
+        "vuis in die lug: veltipe-6", 
+        "veltipe-6"
     ], 
     "✋": [
-        "hand in die lug", 
+        "hand in die lug: veltipe-3", 
+        "veltipe-5", 
+        "hand in die lug: veltipe-4", 
+        "hand in die lug: veltipe-5", 
+        "hand in die lug: veltipe-6", 
+        "veltipe-1-2", 
+        "liggaam", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "hand in die lug: veltipe-1-2", 
+        "veltipe-4", 
+        "hand", 
+        "hand in die lug"
+    ], 
+    "✌️": [
+        "oorwinninghandteken", 
+        "v", 
+        "liggaam", 
+        "oorwinning", 
+        "hand"
+    ], 
+    "✍️": [
+        "hand wat skryf", 
+        "skryf", 
         "liggaam", 
         "hand"
+    ], 
+    "✏️": [
+        "potlood", 
+        "skryf"
+    ], 
+    "✒️": [
+        "pen", 
+        "punt", 
+        "skryf", 
+        "swart penpunt"
+    ], 
+    "✔️": [
+        "dik regmerk", 
+        "merk", 
+        "reg"
+    ], 
+    "✖️": [
+        "verkeerd", 
+        "vermenigvuldig", 
+        "dik maalteken", 
+        "kanselleer", 
+        "maal", 
+        "x"
+    ], 
+    "✝️": [
+        "godsdiens", 
+        "christen", 
+        "latynse kruis", 
+        "kruis"
+    ], 
+    "✡️": [
+        "joods", 
+        "judaïs", 
+        "dawid", 
+        "ster", 
+        "dawidster", 
+        "godsdiens"
     ], 
     "✨": [
         "ster", 
         "vonke", 
+        "vonk"
+    ], 
+    "✳️": [
+        "ster", 
+        "agtspeekasterisk", 
+        "asterisk"
+    ], 
+    "✴️": [
+        "ster", 
+        "agtpuntster"
+    ], 
+    "❄️": [
+        "weer", 
+        "sneeuvlokkie", 
+        "koud", 
+        "sneeu"
+    ], 
+    "❇️": [
+        "ster", 
+        "vonkster", 
         "vonk"
     ], 
     "❌": [
@@ -307,6 +918,18 @@
         "uitroepteken", 
         "uitroep"
     ], 
+    "❣️": [
+        "leesteken", 
+        "dik hartuitroepteken", 
+        "hart", 
+        "teken", 
+        "uitroep"
+    ], 
+    "❤️": [
+        "rooi hartjie", 
+        "rooi", 
+        "hart"
+    ], 
     "➕": [
         "dik plusteken", 
         "wiskunde", 
@@ -322,6 +945,13 @@
         "deel", 
         "dik deelteken"
     ], 
+    "➡️": [
+        "pyl na regs", 
+        "rigting", 
+        "pyl", 
+        "regs", 
+        "oos"
+    ], 
     "➰": [
         "lus", 
         "krul", 
@@ -332,6 +962,40 @@
         "dubbelkrullus", 
         "krul", 
         "lus"
+    ], 
+    "⤴️": [
+        "pyl na regs buig op", 
+        "pyl"
+    ], 
+    "⤵️": [
+        "af", 
+        "brief", 
+        "pyl na regs buig af", 
+        "e-pos", 
+        "pyl", 
+        "koevert", 
+        "stuur"
+    ], 
+    "⬅️": [
+        "wes", 
+        "rigting", 
+        "pyl", 
+        "pyl na links", 
+        "links"
+    ], 
+    "⬆️": [
+        "rigting", 
+        "op", 
+        "pyl", 
+        "pyl na bo", 
+        "noord"
+    ], 
+    "⬇️": [
+        "rigting", 
+        "suid", 
+        "pyl", 
+        "pyl na onder", 
+        "af"
     ], 
     "⬛": [
         "swart", 
@@ -355,6 +1019,31 @@
         "sirkel", 
         "o"
     ], 
+    "〰️": [
+        "leesteken", 
+        "golfstreep", 
+        "golf", 
+        "streep"
+    ], 
+    "〽️": [
+        "begin", 
+        "merk", 
+        "stembeginteken", 
+        "stem"
+    ], 
+    "㊗️": [
+        "chinees", 
+        "gelukwensing", 
+        "ideogram", 
+        "geluk", 
+        "gelukwensideogram in sirkel"
+    ], 
+    "㊙️": [
+        "geheimideogram in sirkel", 
+        "geheim", 
+        "chinees", 
+        "ideogram"
+    ], 
     "🀄": [
         "rooi", 
         "mahjong rooi draak", 
@@ -365,6 +1054,25 @@
         "joker", 
         "kaart", 
         "speel"
+    ], 
+    "🅰️": [
+        "a", 
+        "bloed", 
+        "a-knoppie"
+    ], 
+    "🅱️": [
+        "b-knoppie", 
+        "bloed", 
+        "b"
+    ], 
+    "🅾️": [
+        "o-knoppie", 
+        "bloed", 
+        "o"
+    ], 
+    "🅿️": [
+        "p-knoppie", 
+        "parkering"
     ], 
     "🆎": [
         "bloed", 
@@ -1457,6 +2165,11 @@
         "katakana koko in raam", 
         "japannees"
     ], 
+    "🈂️": [
+        "sa", 
+        "japannees", 
+        "katakana sa in raam"
+    ], 
     "🈚": [
         "ontkenning", 
         "japannees", 
@@ -1491,6 +2204,11 @@
         "bestaan", 
         "japannees", 
         "bestaanideogram in raam"
+    ], 
+    "🈷️": [
+        "maanideogram in raam", 
+        "maan", 
+        "japannees"
     ], 
     "🈸": [
         "aansoek", 
@@ -1765,6 +2483,70 @@
         "skiet", 
         "ruimte"
     ], 
+    "🌡️": [
+        "weer", 
+        "temperatuur", 
+        "termometer"
+    ], 
+    "🌤️": [
+        "weer", 
+        "wolk", 
+        "son agter klein wolk", 
+        "son"
+    ], 
+    "🌥️": [
+        "weer", 
+        "wolk", 
+        "son agter groot wolk", 
+        "son"
+    ], 
+    "🌦️": [
+        "weer", 
+        "wolk", 
+        "reën", 
+        "son agter wolk met reën", 
+        "son"
+    ], 
+    "🌧️": [
+        "wolk met reën", 
+        "weer", 
+        "reën", 
+        "wolk"
+    ], 
+    "🌨️": [
+        "wolk met sneeu", 
+        "weer", 
+        "wolk", 
+        "koud", 
+        "sneeu"
+    ], 
+    "🌩️": [
+        "weerlig", 
+        "weer", 
+        "wolk met weerlig", 
+        "blits", 
+        "wolk"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "weer", 
+        "warrel", 
+        "storm", 
+        "wolk"
+    ], 
+    "🌫️": [
+        "weer", 
+        "mis", 
+        "wolk"
+    ], 
+    "🌬️": [
+        "blaas", 
+        "gesig", 
+        "wolk", 
+        "windgesig", 
+        "weer", 
+        "wind"
+    ], 
     "🌭": [
         "wors", 
         "kos", 
@@ -1812,6 +2594,12 @@
     "🌵": [
         "plant", 
         "kaktus"
+    ], 
+    "🌶️": [
+        "rissie", 
+        "brand", 
+        "plant", 
+        "brandrissie"
     ], 
     "🌷": [
         "tulp", 
@@ -2263,6 +3051,15 @@
         "bottel", 
         "melk"
     ], 
+    "🍽️": [
+        "kook", 
+        "eet", 
+        "vurk", 
+        "bord met mes en vurk", 
+        "mes", 
+        "kos", 
+        "bord"
+    ], 
     "🍾": [
         "bottel", 
         "kurk", 
@@ -2313,10 +3110,20 @@
     ], 
     "🎅": [
         "kersfees", 
+        "kersvader: veltipe-4", 
+        "kersvader: veltipe-5", 
         "viering", 
         "sprokie", 
+        "kersvader: veltipe-6", 
+        "kersvader: veltipe-3", 
+        "veltipe-4", 
+        "veltipe-1-2", 
         "kersvader", 
+        "veltipe-3", 
         "vader", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "kersvader: veltipe-1-2", 
         "sinterklaas", 
         "fantasie"
     ], 
@@ -2410,6 +3217,49 @@
         "gradeplegtigheidmus", 
         "graad", 
         "klere"
+    ], 
+    "🎖️": [
+        "militêr", 
+        "medalje", 
+        "viering", 
+        "militêre medalje", 
+        "weermag"
+    ], 
+    "🎗️": [
+        "herinneringlint", 
+        "lint", 
+        "herinner", 
+        "viering"
+    ], 
+    "🎙️": [
+        "musiek", 
+        "ateljeemikrofoon", 
+        "mikrofoon", 
+        "ateljee"
+    ], 
+    "🎚️": [
+        "musiek", 
+        "vlakglyer", 
+        "vlak", 
+        "glyer"
+    ], 
+    "🎛️": [
+        "kontrole", 
+        "musiek", 
+        "knoppe", 
+        "kontroleknoppe"
+    ], 
+    "🎞️": [
+        "fliek", 
+        "bioskoop", 
+        "rolprent", 
+        "filmraampies", 
+        "raam"
+    ], 
+    "🎟️": [
+        "kaartjie", 
+        "toegang", 
+        "toegangskaartjie"
     ], 
     "🎠": [
         "mallemeule", 
@@ -2618,21 +3468,48 @@
         "wedren"
     ], 
     "🏂": [
-        "sneeuplank", 
-        "ski", 
+        "sneeuplankryer: veltipe-1-2", 
+        "veltipe-1-2", 
         "sneeuplankryer", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "sneeuplankryer: veltipe-3", 
+        "sneeuplank", 
+        "sneeuplankryer: veltipe-4", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "sneeuplankryer: veltipe-5", 
+        "ski", 
+        "sneeuplankryer: veltipe-6", 
         "sneeu"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "haastig", 
+        "hardloop", 
+        "draf", 
+        "vrou hardloop"
+    ], 
+    "🏃‍♂️": [
+        "haastig", 
         "hardloper", 
         "draf", 
+        "hardloop", 
+        "man hardloop", 
         "marathon"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "surf", 
+        "vroulike branderplankryer", 
+        "branderplankry"
+    ], 
+    "🏄‍♂️": [
         "branderplankryer", 
+        "surf", 
         "branderplank", 
         "golf", 
-        "see"
+        "manlike branderplankryer", 
+        "see", 
+        "branderplankry"
     ], 
     "🏅": [
         "sportmedalje", 
@@ -2645,11 +3522,21 @@
         "beker"
     ], 
     "🏇": [
-        "perdewedrenne", 
         "jokkie", 
+        "veltipe-5", 
+        "perd", 
+        "perdewedrenne: veltipe-5", 
+        "veltipe-1-2", 
+        "perdewedrenne: veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
         "wedren", 
         "resiesperd", 
-        "perd"
+        "veltipe-4", 
+        "perdewedrenne: veltipe-4", 
+        "perdewedrenne", 
+        "perdewedrenne: veltipe-6", 
+        "perdewedrenne: veltipe-3"
     ], 
     "🏈": [
         "amerikaanse voetbal", 
@@ -2663,9 +3550,36 @@
         "bal", 
         "rugby"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "swem", 
+        "vroulike swemmer"
+    ], 
+    "🏊‍♂️": [
         "swemmer", 
-        "swem"
+        "swem", 
+        "manlike swemmer"
+    ], 
+    "🏋️‍♂️": [
+        "gewigopteller", 
+        "optel", 
+        "gewig"
+    ], 
+    "🏌️‍♂️": [
+        "slaan", 
+        "bal", 
+        "gholfspeler", 
+        "gholf"
+    ], 
+    "🏍️": [
+        "motorfiets", 
+        "wedren"
+    ], 
+    "🏎️": [
+        "wedren", 
+        "kar", 
+        "resies", 
+        "motor", 
+        "resiesmotor"
     ], 
     "🏏": [
         "kolf", 
@@ -2698,6 +3612,67 @@
         "bal", 
         "raket", 
         "tafeltennis"
+    ], 
+    "🏔️": [
+        "berg", 
+        "koud", 
+        "berg met sneeu op", 
+        "sneeu"
+    ], 
+    "🏕️": [
+        "kampeer", 
+        "veld", 
+        "tent"
+    ], 
+    "🏖️": [
+        "see", 
+        "strand met sambreel", 
+        "sambreel", 
+        "strand"
+    ], 
+    "🏗️": [
+        "gebou", 
+        "konstruksie"
+    ], 
+    "🏘️": [
+        "gebou", 
+        "huis", 
+        "huise"
+    ], 
+    "🏙️": [
+        "stad", 
+        "gebou"
+    ], 
+    "🏚️": [
+        "vervalle huis", 
+        "gebou", 
+        "huis", 
+        "vervalle"
+    ], 
+    "🏛️": [
+        "klassiek", 
+        "gebou", 
+        "klassieke gebou"
+    ], 
+    "🏜️": [
+        "kaktus", 
+        "woestyn"
+    ], 
+    "🏝️": [
+        "woestyn", 
+        "woestyneiland", 
+        "palm", 
+        "eiland"
+    ], 
+    "🏞️": [
+        "wildtuin", 
+        "reservaat", 
+        "park", 
+        "nasionale park"
+    ], 
+    "🏟️": [
+        "sport", 
+        "stadion"
     ], 
     "🏠": [
         "tuiste", 
@@ -2793,6 +3768,16 @@
         "gebou", 
         "europees"
     ], 
+    "🏳️": [
+        "vrede", 
+        "vlag", 
+        "wit", 
+        "wapperende wit vlag", 
+        "wapper"
+    ], 
+    "🏳️‍🌈": [
+        "reënboogvlag"
+    ], 
     "🏴": [
         "swart", 
         "vlag", 
@@ -2810,6 +3795,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Wales", 
         "vlag"
+    ], 
+    "🏵️": [
+        "plant", 
+        "roset"
+    ], 
+    "🏷️": [
+        "etiket"
     ], 
     "🏸": [
         "raket", 
@@ -3160,18 +4152,45 @@
         "poot", 
         "voete"
     ], 
+    "🐿️": [
+        "grondeekhoring"
+    ], 
     "👀": [
         "gesig", 
         "oog", 
         "oë", 
         "liggam"
     ], 
+    "👁️": [
+        "oog", 
+        "liggaam"
+    ], 
     "👂": [
-        "liggaam", 
-        "oor"
+        "oor: veltipe-1-2", 
+        "oor: veltipe-3", 
+        "veltipe-4", 
+        "oor: veltipe-6", 
+        "veltipe-1-2", 
+        "oor: veltipe-4", 
+        "oor: veltipe-5", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "oor", 
+        "liggaam"
     ], 
     "👃": [
+        "veltipe-1-2", 
         "liggaam", 
+        "veltipe-3", 
+        "neus: veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "neus: veltipe-6", 
+        "neus: veltipe-4", 
+        "neus: veltipe-5", 
+        "neus: veltipe-3", 
         "neus"
     ], 
     "👄": [
@@ -3184,91 +4203,201 @@
         "tong"
     ], 
     "👆": [
+        "veltipe-1-2", 
         "wys", 
         "vinger", 
+        "wysvingerrughand wat op wys: veltipe-1-2", 
         "rughnad", 
+        "wysvingerrughand wat op wys: veltipe-4", 
+        "wysvingerrughand wat op wys: veltipe-6", 
+        "wysvingerrughand wat op wys: veltipe-3", 
         "wysvinger", 
         "hand", 
+        "veltipe-3", 
+        "veltipe-6", 
         "wysvingerrughand wat op wys", 
+        "veltipe-4", 
+        "wysvingerrughand wat op wys: veltipe-5", 
+        "veltipe-5", 
         "liggaam", 
         "op"
     ], 
     "👇": [
+        "wysvingerrughand wat af wys: veltipe-5", 
+        "veltipe-1-2", 
         "wys", 
         "vinger", 
         "af", 
         "wysvingerrughand wat af wys", 
+        "wysvingerrughand wat af wys: veltipe-1-2", 
+        "veltipe-5", 
         "wysvinger", 
         "hand", 
+        "veltipe-3", 
+        "wysvingerrughand wat af wys: veltipe-4", 
         "rughand", 
+        "wysvingerrughand wat af wys: veltipe-6", 
+        "veltipe-6", 
+        "wysvingerrughand wat af wys: veltipe-3", 
+        "veltipe-4", 
         "liggaam"
     ], 
     "👈": [
         "wys", 
         "vinger", 
+        "wysvingerrughand wat links wys: veltipe-1-2", 
+        "veltipe-1-2", 
+        "veltipe-6", 
         "liggaam", 
+        "veltipe-3", 
         "rughand", 
         "wysvingerrughand wat links wys", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "wysvingerrughand wat links wys: veltipe-3", 
         "hand", 
-        "wysvinger"
+        "wysvingerrughand wat links wys: veltipe-6", 
+        "wysvinger", 
+        "wysvingerrughand wat links wys: veltipe-4", 
+        "wysvingerrughand wat links wys: veltipe-5"
     ], 
     "👉": [
+        "wysvingerrughand wat regs wys: veltipe-6", 
+        "wysvingerrughand wat regs wys: veltipe-5", 
+        "wysvingerrughand wat regs wys: veltipe-4", 
         "wys", 
         "vinger", 
+        "wysvingerrughand wat regs wys: veltipe-1-2", 
+        "veltipe-1-2", 
         "liggaam", 
+        "veltipe-3", 
         "rughand", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "wysvingerrughand wat regs wys", 
+        "wysvingerrughand wat regs wys: veltipe-3", 
         "hand", 
         "wysvinger"
     ], 
     "👊": [
+        "vuishou: veltipe-5", 
+        "veltipe-5", 
         "vuishou", 
+        "veltipe-4", 
         "gebal", 
+        "veltipe-1-2", 
         "hand", 
+        "veltipe-3", 
+        "vuishou: veltipe-4", 
         "vuis", 
+        "veltipe-6", 
+        "vuishou: veltipe-3", 
         "liggam", 
-        "slaan"
+        "slaan", 
+        "vuishou: veltipe-1-2", 
+        "vuishou: veltipe-6"
     ], 
     "👋": [
+        "wuiwende hand: veltipe-5", 
         "wuiwende hand", 
+        "veltipe-5", 
         "wuif", 
         "waai", 
-        "liggaam", 
-        "hand"
+        "veltipe-1-2", 
+        "hand", 
+        "veltipe-3", 
+        "wuiwende hand: veltipe-4", 
+        "wuiwende hand: veltipe-1-2", 
+        "veltipe-6", 
+        "wuiwende hand: veltipe-3", 
+        "veltipe-4", 
+        "wuiwende hand: veltipe-6", 
+        "liggaam"
     ], 
     "👌": [
-        "ok-handteken", 
+        "ok-handteken: veltipe-1-2", 
         "ok", 
-        "liggaam", 
-        "hand"
+        "ok-handteken", 
+        "ok-handteken: veltipe-4", 
+        "ok-handteken: veltipe-5", 
+        "ok-handteken: veltipe-6", 
+        "veltipe-1-2", 
+        "hand", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "ok-handteken: veltipe-3", 
+        "liggaam"
     ], 
     "👍": [
         "laaik baie", 
+        "laaik baie: veltipe-1-2", 
+        "veltipe-4", 
+        "veltipe-1-2", 
         "hand", 
+        "veltipe-3", 
+        "laaik baie: veltipe-5", 
         "+1", 
+        "laaik baie: veltipe-4", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "laaik baie: veltipe-3", 
         "duim", 
         "liggaam", 
+        "laaik baie: veltipe-6", 
         "op"
     ], 
     "👎": [
+        "veltipe-1-2", 
+        "laaik niks: veltipe-3", 
+        "laaik niks: veltipe-4", 
+        "veltipe-5", 
+        "laaik niks: veltipe-6", 
         "af", 
         "laaik niks", 
         "duim", 
+        "veltipe-3", 
         "-1", 
+        "veltipe-6", 
+        "laaik niks: veltipe-1-2", 
+        "veltipe-4", 
         "hand", 
-        "liggaam"
+        "liggaam", 
+        "laaik niks: veltipe-5"
     ], 
     "👏": [
-        "handeklap", 
-        "liggaam", 
+        "handeklap: veltipe-1-2", 
+        "handeklap: veltipe-4", 
         "klap", 
-        "hand"
+        "handeklap", 
+        "veltipe-1-2", 
+        "hand", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "handeklap: veltipe-6", 
+        "handeklap: veltipe-3", 
+        "handeklap: veltipe-5", 
+        "liggaam"
     ], 
     "👐": [
+        "veltipe-3", 
+        "oop hande: veltipe-5", 
+        "oop hande: veltipe-6", 
+        "oop hande: veltipe-4", 
+        "veltipe-4", 
+        "veltipe-1-2", 
+        "hand", 
+        "oop hande: veltipe-1-2", 
+        "oop hande: veltipe-3", 
+        "oop", 
+        "veltipe-5", 
         "oop hande", 
         "liggaam", 
-        "oop", 
-        "hand"
+        "veltipe-6"
     ], 
     "👑": [
         "koningin", 
@@ -3397,53 +4526,187 @@
         "geen"
     ], 
     "👦": [
+        "kind", 
         "seun", 
-        "kind"
+        "seun: veltipe-3", 
+        "seun: veltipe-4", 
+        "veltipe-1-2", 
+        "seun: veltipe-6", 
+        "seun: veltipe-5", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "seun: veltipe-1-2"
     ], 
     "👧": [
         "kind", 
+        "meisie: veltipe-5", 
+        "meisie: veltipe-4", 
+        "meisie: veltipe-6", 
+        "veltipe-1-2", 
+        "meisie: veltipe-3", 
+        "meisie: veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "meisie"
     ], 
     "👨": [
+        "veltipe-5", 
+        "man: veltipe-5", 
+        "man: veltipe-1-2", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "man: veltipe-3", 
+        "man: veltipe-6", 
+        "veltipe-6", 
+        "man: veltipe-4", 
+        "veltipe-4", 
         "man"
     ], 
+    "👨‍⚕️": [
+        "dokter", 
+        "manlike dokter", 
+        "medies"
+    ], 
+    "👨‍⚖️": [
+        "hof", 
+        "magistraat", 
+        "regter", 
+        "manlike regter", 
+        "landdros"
+    ], 
+    "👨‍✈️": [
+        "loods", 
+        "manlike vlieënier", 
+        "vlieënier", 
+        "kaptein"
+    ], 
+    "👨‍❤️‍👨": [
+        "paartjie", 
+        "romanse", 
+        "hartjie", 
+        "paartjie met hartjie: man en man", 
+        "liefde", 
+        "paartjie met hartjie", 
+        "man"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "paartjie", 
+        "romanse", 
+        "man", 
+        "soen: man en man", 
+        "soen"
+    ], 
     "👨‍🌾": [
-        "plaas", 
+        "manlike boer: veltipe-1-2", 
+        "manlike boer: veltipe-6", 
         "boer", 
+        "manlike boer: veltipe-4", 
+        "manlike boer: veltipe-5", 
+        "plaas", 
+        "veltipe-1-2", 
+        "manlike boer: veltipe-3", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "koringaar", 
         "manlike boer"
     ], 
     "👨‍🍳": [
+        "manlike kok: veltipe-3", 
         "kok", 
+        "manlike kok: veltipe-6", 
+        "manlike kok: veltipe-4", 
+        "manlike kok: veltipe-5", 
+        "veltipe-1-2", 
+        "manlike kok", 
+        "veltipe-3", 
         "eier", 
-        "pan", 
-        "manlike kok"
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "manlike kok: veltipe-1-2", 
+        "pan"
     ], 
     "👨‍🎓": [
+        "manlike student: veltipe-4", 
+        "veltipe-5", 
         "gradeplegtigheid", 
-        "toga", 
+        "manlike student: veltipe-5", 
+        "manlike student: veltipe-1-2", 
+        "veltipe-1-2", 
+        "manlike student", 
+        "veltipe-3", 
+        "manlike student: veltipe-3", 
+        "manlike student: veltipe-6", 
+        "veltipe-6", 
         "graad", 
-        "manlike student"
+        "veltipe-4", 
+        "toga"
     ], 
     "👨‍🎤": [
+        "manlike sanger", 
+        "veltipe-1-2", 
+        "manlike sanger: veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "sanger", 
-        "manlike sanger"
+        "manlike sanger: veltipe-3", 
+        "manlike sanger: veltipe-4", 
+        "manlike sanger: veltipe-5", 
+        "manlike sanger: veltipe-6"
     ], 
     "👨‍🎨": [
+        "veltipe-3", 
+        "veltipe-1-2", 
+        "veltipe-6", 
+        "manlike kunstenaar: veltipe-1-2", 
         "kunstenaar", 
         "skilder", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "manlike kunstenaar: veltipe-3", 
+        "manlike kunstenaar: veltipe-5", 
+        "manlike kunstenaar: veltipe-6", 
         "verwer", 
+        "manlike kunstenaar: veltipe-4", 
         "manlike kunstenaar"
     ], 
     "👨‍🏫": [
+        "meneer: veltipe-5", 
+        "meneer: veltipe-4", 
         "meneer", 
+        "meneer: veltipe-6", 
         "onderwyser", 
+        "skool", 
+        "meneer: veltipe-3", 
         "opvoeder", 
-        "skool"
+        "veltipe-4", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "meneer: veltipe-1-2"
     ], 
     "👨‍🏭": [
+        "veltipe-5", 
+        "manlike fabriekswerker: veltipe-3", 
+        "manlike fabriekswerker: veltipe-5", 
+        "veltipe-1-2", 
+        "manlike fabriekswerker: veltipe-4", 
+        "veltipe-3", 
+        "manlike fabriekswerker: veltipe-1-2", 
         "fabriekswerker", 
-        "manlike fabriekswerker"
+        "manlike fabriekswerker", 
+        "veltipe-4", 
+        "manlike fabriekswerker: veltipe-6", 
+        "veltipe-6"
     ], 
     "👨‍👦": [
         "moeder", 
@@ -3589,77 +4852,269 @@
         "man"
     ], 
     "👨‍💻": [
+        "tegnologie", 
         "manlike tegnoloog", 
         "bleeksiel", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "manlike tegnoloog: veltipe-6", 
+        "manlike tegnoloog: veltipe-5", 
+        "manlike tegnoloog: veltipe-4", 
+        "manlike tegnoloog: veltipe-3", 
+        "manlike tegnoloog: veltipe-1-2", 
+        "veltipe-5", 
+        "veltipe-4", 
         "rekenaar", 
-        "tegnologie"
+        "veltipe-6"
     ], 
     "👨‍💼": [
+        "kantoorwerker", 
+        "manlike kantoorwerker: veltipe-6", 
         "manlike kantoorwerker", 
-        "kantoorwerker"
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "manlike kantoorwerker: veltipe-5", 
+        "manlike kantoorwerker: veltipe-4", 
+        "manlike kantoorwerker: veltipe-1-2", 
+        "manlike kantoorwerker: veltipe-3"
     ], 
     "👨‍🔧": [
-        "motorwerktuigkundige", 
+        "manlike motorwerktuigkundige: veltipe-4", 
+        "manlike motorwerktuigkundige: veltipe-5", 
+        "manlike motorwerktuigkundige: veltipe-6", 
+        "veltipe-5", 
+        "manlike motorwerktuigkundige: veltipe-3", 
+        "veltipe-1-2", 
         "moersleutel", 
         "manlike motorwerktuigkundige", 
-        "mechanic"
+        "veltipe-3", 
+        "veltipe-6", 
+        "mechanic", 
+        "veltipe-4", 
+        "manlike motorwerktuigkundige: veltipe-1-2", 
+        "motorwerktuigkundige"
     ], 
     "👨‍🔬": [
-        "wetenskaplike", 
         "manlike wetenskaplike", 
         "mikroskoop", 
-        "proefbuis"
+        "veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-3", 
+        "manlike wetenskaplike: veltipe-4", 
+        "proefbuis", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "wetenskaplike", 
+        "manlike wetenskaplike: veltipe-5", 
+        "manlike wetenskaplike: veltipe-6", 
+        "manlike wetenskaplike: veltipe-1-2", 
+        "manlike wetenskaplike: veltipe-3"
     ], 
     "👨‍🚀": [
+        "veltipe-3", 
+        "manlike ruimtevaarder: veltipe-6", 
+        "manlike ruimtevaarder: veltipe-4", 
+        "manlike ruimtevaarder: veltipe-5", 
+        "manlike ruimtevaarder: veltipe-3", 
+        "veltipe-1-2", 
+        "manlike ruimtevaarder: veltipe-1-2", 
         "ruimtevaarder", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "manlike ruimtevaarder"
     ], 
     "👨‍🚒": [
+        "brandweerman: veltipe-1-2", 
+        "veltipe-4", 
+        "brandweerman: veltipe-6", 
+        "veltipe-1-2", 
         "brandweerman", 
-        "brandweer"
+        "veltipe-3", 
+        "brandweerman: veltipe-3", 
+        "brandweerman: veltipe-5", 
+        "brandweerman: veltipe-4", 
+        "veltipe-5", 
+        "brandweer", 
+        "veltipe-6"
     ], 
     "👩": [
-        "vrou"
+        "vrou: veltipe-3", 
+        "vrou: veltipe-1-2", 
+        "vrou: veltipe-5", 
+        "vrou: veltipe-4", 
+        "vrou", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vrou: veltipe-6"
+    ], 
+    "👩‍⚕️": [
+        "vroulike dokter", 
+        "dokter", 
+        "medies"
+    ], 
+    "👩‍⚖️": [
+        "hof", 
+        "magistraat", 
+        "vroulike regter", 
+        "regter", 
+        "landdros"
+    ], 
+    "👩‍✈️": [
+        "vroulike vlieënier", 
+        "loods", 
+        "vlieënier", 
+        "kaptein"
+    ], 
+    "👩‍❤️‍👨": [
+        "paartjie", 
+        "romanse", 
+        "hartjie", 
+        "vrou", 
+        "liefde", 
+        "paartjie met hartjie", 
+        "paartjie met hartjie: vrou en man", 
+        "man"
+    ], 
+    "👩‍❤️‍👩": [
+        "paartjie", 
+        "romanse", 
+        "hartjie", 
+        "vrou", 
+        "liefde", 
+        "paartjie met hartjie", 
+        "paartjie met hartjie: vrou en vrou"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "paartjie", 
+        "romanse", 
+        "soen: vrou en man", 
+        "vrou", 
+        "soen", 
+        "man"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "paartjie", 
+        "romanse", 
+        "vrou", 
+        "soen: vrou en vrou", 
+        "soen"
     ], 
     "👩‍🌾": [
-        "plaas", 
-        "vroulike boer", 
         "boer", 
-        "koringaar"
+        "vroulike boer: veltipe-1-2", 
+        "plaas", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vroulike boer: veltipe-5", 
+        "vroulike boer: veltipe-4", 
+        "vroulike boer", 
+        "vroulike boer: veltipe-6", 
+        "koringaar", 
+        "vroulike boer: veltipe-3"
     ], 
     "👩‍🍳": [
+        "vroulike kok: veltipe-6", 
         "kok", 
+        "vroulike kok: veltipe-4", 
+        "vroulike kok: veltipe-3", 
+        "vroulike kok: veltipe-5", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "vroulike kok: veltipe-1-2", 
         "eier", 
         "vroulike kok", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "pan"
     ], 
     "👩‍🎓": [
+        "vroulike student: veltipe-1-2", 
+        "vroulike student: veltipe-5", 
+        "vroulike student: veltipe-4", 
+        "vroulike student: veltipe-3", 
+        "veltipe-5", 
+        "vroulike student: veltipe-6", 
         "gradeplegtigheid", 
         "vroulike student", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
         "graad", 
+        "veltipe-4", 
         "toga"
     ], 
     "👩‍🎤": [
         "sangeres", 
+        "veltipe-1-2", 
+        "vroulike sanger: veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "vroulike sanger", 
-        "sanger"
+        "vroulike sanger: veltipe-6", 
+        "sanger", 
+        "vroulike sanger: veltipe-4", 
+        "vroulike sanger: veltipe-3", 
+        "vroulike sanger: veltipe-5"
     ], 
     "👩‍🎨": [
+        "vroulike kunstenaar: veltipe-5", 
+        "veltipe-5", 
         "vroulike kunstenaar", 
+        "vroulike kunstenaar: veltipe-1-2", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "vroulike kunstenaar: veltipe-4", 
+        "vroulike kunstenaar: veltipe-6", 
         "kunstenaar", 
         "skilder", 
-        "verwer"
+        "vroulike kunstenaar: veltipe-3", 
+        "veltipe-4", 
+        "verwer", 
+        "veltipe-6"
     ], 
     "👩‍🏫": [
-        "juffrou", 
-        "onderwyseres", 
         "onderwyser", 
+        "skool", 
+        "juffrou: veltipe-6", 
         "opvoeder", 
-        "skool"
+        "juffrou: veltipe-4", 
+        "juffrou: veltipe-3", 
+        "veltipe-1-2", 
+        "juffrou: veltipe-1-2", 
+        "veltipe-3", 
+        "onderwyseres", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "juffrou", 
+        "juffrou: veltipe-5"
     ], 
     "👩‍🏭": [
         "vroulike fabriekswerker", 
-        "fabriekswerker"
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "vroulike fabriekswerker: veltipe-6", 
+        "fabriekswerker", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vroulike fabriekswerker: veltipe-1-2", 
+        "vroulike fabriekswerker: veltipe-4", 
+        "vroulike fabriekswerker: veltipe-5", 
+        "vroulike fabriekswerker: veltipe-3", 
+        "veltipe-6"
     ], 
     "👩‍👦": [
         "moeder", 
@@ -3754,40 +5209,94 @@
         "meisie"
     ], 
     "👩‍💻": [
+        "vroulike tegnoloog: veltipe-1-2", 
+        "tegnologie", 
         "bleeksiel", 
+        "veltipe-4", 
+        "vroulike tegnoloog: veltipe-6", 
+        "veltipe-1-2", 
+        "vroulike tegnoloog: veltipe-4", 
         "vroulike tegnoloog", 
-        "rekenaar", 
-        "tegnologie"
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "vroulike tegnoloog: veltipe-3", 
+        "vroulike tegnoloog: veltipe-5", 
+        "rekenaar"
     ], 
     "👩‍💼": [
         "kantoorwerker", 
-        "vroulike kantoorwerker"
+        "vroulike kantoorwerker: veltipe-3", 
+        "vroulike kantoorwerker: veltipe-4", 
+        "veltipe-1-2", 
+        "vroulike kantoorwerker: veltipe-1-2", 
+        "vroulike kantoorwerker: veltipe-5", 
+        "veltipe-3", 
+        "vroulike kantoorwerker", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vroulike kantoorwerker: veltipe-6", 
+        "veltipe-6"
     ], 
     "👩‍🔧": [
+        "veltipe-5", 
         "vroulike motorwerktuigkundige", 
-        "motorwerktuigkundige", 
+        "veltipe-1-2", 
         "moersleutel", 
-        "mechanic"
+        "veltipe-3", 
+        "vroulike motorwerktuigkundige: veltipe-6", 
+        "vroulike motorwerktuigkundige: veltipe-5", 
+        "vroulike motorwerktuigkundige: veltipe-4", 
+        "vroulike motorwerktuigkundige: veltipe-3", 
+        "veltipe-6", 
+        "mechanic", 
+        "veltipe-4", 
+        "motorwerktuigkundige", 
+        "vroulike motorwerktuigkundige: veltipe-1-2"
     ], 
     "👩‍🔬": [
-        "wetenskaplike", 
-        "mikroskoop", 
+        "vroulike wetenskaplike: veltipe-1-2", 
         "vroulike wetenskaplike", 
-        "proefbuis"
+        "mikroskoop", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "wetenskaplike", 
+        "vroulike wetenskaplike: veltipe-3", 
+        "vroulike wetenskaplike: veltipe-5", 
+        "vroulike wetenskaplike: veltipe-4", 
+        "proefbuis", 
+        "vroulike wetenskaplike: veltipe-6"
     ], 
     "👩‍🚀": [
+        "vroulike ruimtevaarder: veltipe-1-2", 
         "vroulike ruimtevaarder", 
-        "ruimtevaarder"
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "ruimtevaarder", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vroulike ruimtevaarder: veltipe-3", 
+        "vroulike ruimtevaarder: veltipe-6", 
+        "vroulike ruimtevaarder: veltipe-5", 
+        "vroulike ruimtevaarder: veltipe-4"
     ], 
     "👩‍🚒": [
-        "brandweervrou", 
-        "brandweer"
-    ], 
-    "👪": [
-        "moeder", 
-        "vader", 
-        "kind", 
-        "gesin"
+        "veltipe-3", 
+        "brandweervrou: veltipe-5", 
+        "brandweervrou: veltipe-6", 
+        "brandweervrou: veltipe-4", 
+        "veltipe-4", 
+        "veltipe-1-2", 
+        "brandweervrou: veltipe-3", 
+        "brandweervrou: veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "brandweer", 
+        "brandweervrou"
     ], 
     "👫": [
         "paartjie", 
@@ -3812,62 +5321,152 @@
         "vrou", 
         "hand"
     ], 
-    "👮": [
+    "👮‍♀️": [
         "polisie", 
-        "beampte", 
+        "polisievrou", 
         "polisiebeampte"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "polisie", 
+        "beampte", 
+        "polisiebeampte", 
+        "polisieman"
+    ], 
+    "👯‍♀️": [
+        "hasie-ore", 
+        "vroue dans", 
         "danser", 
         "vrou", 
+        "danseresse", 
         "hasie", 
         "oor", 
         "vroue wat dans", 
         "meisie"
     ], 
-    "👰": [
-        "sluier", 
-        "troue", 
-        "bruid met sluier", 
-        "bruid"
+    "👯‍♂️": [
+        "hasie-ore", 
+        "mans dans", 
+        "dansers"
     ], 
-    "👱": [
+    "👰": [
+        "bruid met sluier: veltipe-6", 
+        "veltipe-4", 
+        "bruid met sluier: veltipe-1-2", 
+        "veltipe-1-2", 
+        "troue", 
+        "veltipe-3", 
+        "bruid met sluier: veltipe-3", 
+        "sluier", 
+        "bruid met sluier: veltipe-4", 
+        "veltipe-5", 
+        "bruid", 
+        "bruid met sluier: veltipe-5", 
+        "bruid met sluier", 
+        "veltipe-6"
+    ], 
+    "👱‍♀️": [
+        "blondine", 
+        "blonde vrou"
+    ], 
+    "👱‍♂️": [
+        "blonde man", 
         "blond", 
         "persoon met blonde hare"
     ], 
     "👲": [
         "hoed", 
+        "veltipe-6", 
+        "man met chinese mus: veltipe-4", 
+        "man met chinese mus: veltipe-5", 
+        "man met chinese mus: veltipe-6", 
+        "veltipe-1-2", 
+        "man met chinese mus: veltipe-1-2", 
+        "man met chinese mus: veltipe-3", 
+        "veltipe-3", 
         "gua pi mao", 
         "man met chinese mus", 
+        "veltipe-5", 
+        "veltipe-4", 
         "man"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "vrou met tulband", 
+        "tulband"
+    ], 
+    "👳‍♂️": [
         "met met tulband", 
+        "man met tulband", 
         "tulband", 
         "man"
     ], 
     "👴": [
-        "ou man", 
+        "ou man: veltipe-5", 
+        "veltipe-5", 
+        "ou man: veltipe-1-2", 
+        "veltipe-1-2", 
         "oud", 
+        "veltipe-3", 
+        "ou man: veltipe-4", 
+        "ou man", 
+        "ou man: veltipe-6", 
+        "veltipe-6", 
+        "ou man: veltipe-3", 
+        "veltipe-4", 
         "man"
     ], 
     "👵": [
-        "oud", 
+        "ou vrou: veltipe-1-2", 
+        "ou vrou", 
         "vrou", 
-        "ou vrou"
+        "veltipe-1-2", 
+        "oud", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "ou vrou: veltipe-3", 
+        "ou vrou: veltipe-6", 
+        "ou vrou: veltipe-4", 
+        "ou vrou: veltipe-5"
     ], 
     "👶": [
-        "baba"
+        "baba", 
+        "veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-3", 
+        "baba: veltipe-1-2", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "baba: veltipe-3", 
+        "baba: veltipe-6", 
+        "baba: veltipe-5", 
+        "baba: veltipe-4"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "bouer", 
+        "vroulike bouer"
+    ], 
+    "👷‍♂️": [
         "hoed", 
         "werker", 
+        "manlike bouer", 
+        "konstruksie", 
         "konstruksiewerker", 
-        "konstruksie"
+        "bouer"
     ], 
     "👸": [
-        "prinses", 
+        "prinses: veltipe-4", 
+        "prinses: veltipe-5", 
+        "prinses: veltipe-6", 
         "sprokie", 
+        "prinses: veltipe-3", 
+        "veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-3", 
+        "prinses", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "prinses: veltipe-1-2", 
         "fantasie"
     ], 
     "👹": [
@@ -3898,10 +5497,20 @@
     ], 
     "👼": [
         "baba", 
+        "baba-engel: veltipe-4", 
         "gesig", 
+        "baba-engel: veltipe-6", 
+        "baba-engel: veltipe-3", 
         "sprokie", 
         "engel", 
+        "veltipe-1-2", 
+        "veltipe-3", 
         "baba-engel", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "baba-engel: veltipe-1-2", 
+        "baba-engel: veltipe-5", 
         "fantasie"
     ], 
     "👽": [
@@ -3940,21 +5549,44 @@
         "kopbeen", 
         "liggaam"
     ], 
-    "💁": [
-        "skrander", 
-        "persoon by inligtingtoonbank", 
+    "💁‍♀️": [
         "help", 
+        "plathand", 
+        "persoon by inligtingtoonbank", 
+        "hand", 
+        "skrander", 
+        "vrou met handpalm", 
         "inligting", 
-        "hand"
+        "hulpvaardig"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "man met handpalm", 
+        "plathand", 
+        "hulpvaardig"
+    ], 
+    "💂‍♀️": [
         "wag", 
-        "gardesoldaat"
+        "vroulike wag"
+    ], 
+    "💂‍♂️": [
+        "wag", 
+        "gardesoldaat", 
+        "manlike wag"
     ], 
     "💃": [
-        "vrou dans", 
+        "veltipe-5", 
+        "vrou dans: veltipe-4", 
+        "vrou dans: veltipe-5", 
+        "vrou dans: veltipe-6", 
         "dans", 
-        "tango"
+        "veltipe-1-2", 
+        "tango", 
+        "vrou dans: veltipe-3", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "vrou dans: veltipe-1-2", 
+        "veltipe-4", 
+        "vrou dans"
     ], 
     "💄": [
         "grimering", 
@@ -3962,23 +5594,48 @@
         "lipstiffie"
     ], 
     "💅": [
+        "naellak: veltipe-6", 
+        "veltipe-3", 
+        "naellak: veltipe-4", 
         "naellak", 
         "nael", 
+        "naellak: veltipe-3", 
+        "veltipe-4", 
+        "veltipe-1-2", 
         "versorg", 
+        "naellak: veltipe-1-2", 
         "kosmetiek", 
+        "veltipe-6", 
+        "veltipe-5", 
         "verf", 
         "manikuur", 
+        "naellak: veltipe-5", 
         "liggaam"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "vrou kry massering", 
         "salon", 
         "masseer", 
         "gesigmassering"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "masseer", 
+        "gesigmassering", 
+        "man kry massering"
+    ], 
+    "💇‍♀️": [
+        "vrou kry haarsny", 
         "skoonheid", 
         "salon", 
+        "haarsalon", 
+        "barbier", 
         "haarkapper", 
+        "haarsny"
+    ], 
+    "💇‍♂️": [
+        "haarsalon", 
+        "man kry haarsny", 
+        "salon", 
         "barbier", 
         "haarsny"
     ], 
@@ -4028,23 +5685,11 @@
         "diamant", 
         "edelsteen"
     ], 
-    "💏": [
-        "paartjie", 
-        "romanse", 
-        "soen"
-    ], 
     "💐": [
         "romanse", 
         "ruiker", 
         "blom", 
         "plant"
-    ], 
-    "💑": [
-        "paartjie", 
-        "romanse", 
-        "paartjie met hartjie", 
-        "hartjie", 
-        "liefde"
     ], 
     "💒": [
         "romanse", 
@@ -4192,12 +5837,22 @@
         "poef"
     ], 
     "💪": [
+        "gebulte biseps: veltipe-1-2", 
         "gebulte biseps", 
         "komies", 
+        "veltipe-1-2", 
         "spier", 
         "bult", 
+        "veltipe-3", 
         "biseps", 
-        "liggaam"
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "gebulte biseps: veltipe-4", 
+        "gebulte biseps: veltipe-3", 
+        "gebulte biseps: veltipe-5", 
+        "liggaam", 
+        "gebulte biseps: veltipe-6"
     ], 
     "💫": [
         "ster", 
@@ -4720,6 +6375,14 @@
         "videokasset", 
         "vhs"
     ], 
+    "📽️": [
+        "video", 
+        "projektor", 
+        "rolprent", 
+        "rolprentprojektor", 
+        "bioskoop", 
+        "fliek"
+    ], 
     "📿": [
         "bidkrale", 
         "krale", 
@@ -5112,6 +6775,17 @@
         "pyl", 
         "af"
     ], 
+    "🕉️": [
+        "godsdiens", 
+        "om", 
+        "hindoe"
+    ], 
+    "🕊️": [
+        "voël", 
+        "duif", 
+        "vlieg", 
+        "vrede"
+    ], 
     "🕋": [
         "kaäba", 
         "godsdiens", 
@@ -5376,26 +7050,142 @@
         "halfeen", 
         "12:30"
     ], 
-    "🕺": [
-        "man dans", 
-        "dans", 
+    "🕯️": [
+        "vlam", 
+        "lig", 
+        "kers"
+    ], 
+    "🕰️": [
+        "tyd", 
+        "horlosie", 
+        "klok", 
+        "kaggelrakklok"
+    ], 
+    "🕳️": [
+        "gat"
+    ], 
+    "🕴️": [
+        "sake", 
+        "besigheid", 
+        "man in sakepak wat sweef", 
+        "pak", 
         "man"
     ], 
+    "🕵️‍♂️": [
+        "speurder", 
+        "spioen"
+    ], 
+    "🕶️": [
+        "sonbril", 
+        "donker", 
+        "oog", 
+        "son", 
+        "bril"
+    ], 
+    "🕷️": [
+        "gogga", 
+        "insek", 
+        "spinnekop"
+    ], 
+    "🕸️": [
+        "web", 
+        "spinnekop", 
+        "spinnekopweb"
+    ], 
+    "🕹️": [
+        "video", 
+        "speelstok", 
+        "speel", 
+        "stang", 
+        "stok"
+    ], 
+    "🕺": [
+        "man dans", 
+        "man dans: veltipe-6", 
+        "dans", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "man dans: veltipe-1-2", 
+        "man dans: veltipe-5", 
+        "man dans: veltipe-4", 
+        "man dans: veltipe-3", 
+        "man"
+    ], 
+    "🖇️": [
+        "haak", 
+        "skakel", 
+        "skuifspeld", 
+        "ingehaakte skuifspeld", 
+        "koppel"
+    ], 
+    "🖊️": [
+        "pen", 
+        "bolpunt", 
+        "skryf"
+    ], 
+    "🖋️": [
+        "vulpen", 
+        "pen", 
+        "skryf", 
+        "vul"
+    ], 
+    "🖌️": [
+        "verfkwas", 
+        "skilder", 
+        "kwas", 
+        "verf"
+    ], 
+    "🖍️": [
+        "kryt", 
+        "inkleur", 
+        "teken", 
+        "vetkryt"
+    ], 
+    "🖐️": [
+        "hand in die lug met vingers oopgesprei", 
+        "oopgesprei", 
+        "liggaam", 
+        "vinger", 
+        "hand"
+    ], 
     "🖕": [
+        "middelvinger: veltipe-5", 
+        "veltipe-1-2", 
         "wys", 
         "vinger", 
+        "middelvinger: veltipe-1-2", 
+        "veltipe-5", 
         "wysvinger", 
         "hand", 
+        "veltipe-3", 
+        "middelvinger: veltipe-4", 
+        "middelvinger: veltipe-6", 
+        "veltipe-6", 
+        "middelvinger: veltipe-3", 
+        "veltipe-4", 
         "middelvinger", 
         "liggaam", 
         "op"
     ], 
     "🖖": [
-        "vulkan", 
+        "veltipe-3", 
         "vulkansaluut", 
-        "liggaam", 
         "vinger", 
-        "hand"
+        "veltipe-1-2", 
+        "hand", 
+        "vulkansaluut: veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vulkansaluut: veltipe-3", 
+        "vulkan", 
+        "vulkansaluut: veltipe-6", 
+        "liggaam", 
+        "vulkansaluut: veltipe-4", 
+        "vulkansaluut: veltipe-5"
     ], 
     "🖤": [
         "swart", 
@@ -5403,6 +7193,133 @@
         "boos", 
         "hart", 
         "sleg"
+    ], 
+    "🖥️": [
+        "tafel", 
+        "rekenaar", 
+        "tafelrekenaar", 
+        "lessenaar"
+    ], 
+    "🖨️": [
+        "druk", 
+        "rekenaar", 
+        "drukker"
+    ], 
+    "🖱️": [
+        "muis", 
+        "3", 
+        "drie", 
+        "knoppie", 
+        "rekenaar", 
+        "rekenaarmuis"
+    ], 
+    "🖲️": [
+        "bal", 
+        "stuurbal", 
+        "rekenaar", 
+        "stuur"
+    ], 
+    "🖼️": [
+        "kuns", 
+        "prent", 
+        "raam", 
+        "skildery", 
+        "museum", 
+        "raam met prent"
+    ], 
+    "🗂️": [
+        "indeks", 
+        "kaartindeksverdelers", 
+        "kaart", 
+        "verdelers"
+    ], 
+    "🗃️": [
+        "kaart", 
+        "lêer", 
+        "kaartlêerboks", 
+        "boks"
+    ], 
+    "🗄️": [
+        "kas", 
+        "laai", 
+        "lêer", 
+        "lêerkabinet", 
+        "kabinet"
+    ], 
+    "🗑️": [
+        "vullis", 
+        "blik", 
+        "snippermandjie", 
+        "drom", 
+        "mandjie"
+    ], 
+    "🗒️": [
+        "nota", 
+        "aantekening", 
+        "boek", 
+        "spiraalnotaboek", 
+        "spiraal"
+    ], 
+    "🗓️": [
+        "spiraal", 
+        "datum", 
+        "kalender", 
+        "almanak", 
+        "spiraalkalender"
+    ], 
+    "🗜️": [
+        "kompressie", 
+        "pers", 
+        "samepersing", 
+        "gereedskap"
+    ], 
+    "🗝️": [
+        "ou sleutel", 
+        "slot", 
+        "sleutel", 
+        "leidraad", 
+        "oud"
+    ], 
+    "🗞️": [
+        "gerol", 
+        "koerant", 
+        "opgerolde koerant", 
+        "nuus"
+    ], 
+    "🗡️": [
+        "dolk", 
+        "wapen", 
+        "mes"
+    ], 
+    "🗣️": [
+        "kop", 
+        "gesig", 
+        "silhoeët", 
+        "praat", 
+        "kop wat praat"
+    ], 
+    "🗨️": [
+        "dialoog", 
+        "spraak", 
+        "spraakborrel links"
+    ], 
+    "🗯️": [
+        "borrel", 
+        "kwaad", 
+        "woedeborrel regs", 
+        "ballon", 
+        "woede"
+    ], 
+    "🗳️": [
+        "stembus met stembriefie", 
+        "stem", 
+        "verkiesing", 
+        "boks"
+    ], 
+    "🗺️": [
+        "kaart", 
+        "wêreld", 
+        "wêreldkaart"
     ], 
     "🗻": [
         "fuji", 
@@ -5890,28 +7807,45 @@
         "oë", 
         "gesig met oë wat rol"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "verbied", 
         "wys nee", 
+        "vrou wys nee", 
         "nee", 
         "verbode", 
         "keer", 
         "hand", 
         "gebaar"
     ], 
-    "🙆": [
-        "gebaar", 
+    "🙅‍♂️": [
+        "man wys nee", 
+        "nee"
+    ], 
+    "🙆‍♀️": [
         "goed", 
         "ok", 
-        "wys goed", 
-        "hand"
-    ], 
-    "🙇": [
+        "vrou wys ja", 
+        "hand", 
         "gebaar", 
+        "wys goed", 
+        "ja"
+    ], 
+    "🙆‍♂️": [
+        "man wys ja", 
+        "ja"
+    ], 
+    "🙇‍♀️": [
         "jammer", 
         "buig", 
+        "vrou buig"
+    ], 
+    "🙇‍♂️": [
+        "jammer", 
+        "man buig", 
         "verskoning", 
-        "persoon wat buig"
+        "persoon wat buig", 
+        "buig", 
+        "gebaar"
     ], 
     "🙈": [
         "sien geen kwaad nie", 
@@ -5943,39 +7877,83 @@
         "kwaad", 
         "geen"
     ], 
-    "🙋": [
-        "gebaar", 
+    "🙋‍♀️": [
+        "lig hand", 
         "gelukkige persoon met hand in die lug", 
-        "omhoog", 
+        "waai", 
+        "vrou lig hand", 
         "hand", 
-        "gelukkig"
+        "groet", 
+        "gebaar", 
+        "gelukkig", 
+        "omhoog"
+    ], 
+    "🙋‍♂️": [
+        "groet", 
+        "waai", 
+        "lig hand", 
+        "man lig hand"
     ], 
     "🙌": [
+        "persoon met hande in die lug: veltipe-1-2", 
         "persoon met hande in die lug", 
         "viering", 
+        "persoon met hande in die lug: veltipe-4", 
+        "persoon met hande in die lug: veltipe-5", 
+        "persoon met hande in die lug: veltipe-6", 
+        "veltipe-1-2", 
         "hand", 
+        "veltipe-3", 
         "hoera", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "gebaar", 
+        "persoon met hande in die lug: veltipe-3", 
         "liggaam", 
         "omhoog"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "gebaar", 
         "persoon wat frons", 
+        "vrou wat frons", 
+        "ongelukkig", 
         "frons"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "man wat frons", 
+        "ongelukkig", 
+        "frons"
+    ], 
+    "🙎‍♀️": [
         "gebaar", 
         "persoon wat pruil", 
+        "dikbek", 
+        "dikbek vrou", 
         "pruil"
     ], 
+    "🙎‍♂️": [
+        "dikbek", 
+        "pruil", 
+        "dikbek man"
+    ], 
     "🙏": [
+        "gevoude hande: veltipe-1-2", 
         "gevou", 
         "dankie", 
+        "gevoude hande: veltipe-4", 
         "bid", 
+        "gevoude hande: veltipe-6", 
+        "veltipe-1-2", 
+        "gevoude hande: veltipe-3", 
         "hand", 
+        "veltipe-3", 
+        "gevoude hande: veltipe-5", 
         "vra", 
         "buig", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "gebaar", 
         "asseblief", 
         "gevoude hande", 
@@ -6200,11 +8178,19 @@
         "boot", 
         "voertuig"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "kano", 
+        "roeiboot", 
+        "vrou wat roei", 
+        "roei"
+    ], 
+    "🚣‍♂️": [
+        "kano", 
+        "voertuig", 
+        "roei", 
         "roeiboot", 
         "boot", 
-        "voertuig", 
-        "roei"
+        "man wat roei"
     ], 
     "🚤": [
         "snelboot", 
@@ -6302,20 +8288,44 @@
         "voertuig", 
         "fiets"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "fietser", 
+        "vroulike fietsryer", 
         "fietsryer", 
-        "fiets"
+        "fiets", 
+        "fietsry"
     ], 
-    "🚵": [
+    "🚴‍♂️": [
+        "fietser", 
+        "fietsryer", 
+        "manlike fietsryer", 
+        "fiets", 
+        "fietsry"
+    ], 
+    "🚵‍♀️": [
+        "vroulike bergfietsryer", 
+        "bergfiets", 
+        "bergfietsry"
+    ], 
+    "🚵‍♂️": [
         "bergietsryer", 
+        "bergfiets", 
+        "bergfietsry", 
+        "fiets", 
         "berg", 
         "fietsryer", 
-        "fiets"
+        "manlike bergfietsryer"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "voetganger", 
+        "vrou stap", 
+        "stap"
+    ], 
+    "🚶‍♂️": [
         "voetganger", 
         "stap", 
-        "loop"
+        "loop", 
+        "man stap"
     ], 
     "🚷": [
         "verbied", 
@@ -6365,9 +8375,19 @@
         "stort"
     ], 
     "🛀": [
+        "veltipe-3", 
+        "persoon wat bad: veltipe-1-2", 
+        "persoon wat bad: veltipe-5", 
+        "persoon wat bad: veltipe-4", 
+        "persoon wat bad: veltipe-6", 
+        "persoon wat bad", 
+        "persoon wat bad: veltipe-3", 
+        "veltipe-1-2", 
         "water", 
         "bad", 
-        "persoon wat bad"
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4"
     ], 
     "🛁": [
         "water", 
@@ -6393,10 +8413,44 @@
         "bagasie", 
         "tas"
     ], 
-    "🛌": [
+    "🛋️": [
+        "rus", 
+        "lamp", 
         "hotel", 
+        "rusbank en lamp", 
+        "bank"
+    ], 
+    "🛌": [
+        "persoon in bed: veltipe-1-2", 
         "slaap", 
         "persoon in bed", 
+        "hotel", 
+        "veltipe-1-2", 
+        "bed", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "persoon in bed: veltipe-3", 
+        "persoon in bed: veltipe-5", 
+        "persoon in bed: veltipe-4", 
+        "persoon in bed: veltipe-6"
+    ], 
+    "🛍️": [
+        "sak", 
+        "inkopies", 
+        "winkel", 
+        "winkelsakke"
+    ], 
+    "🛎️": [
+        "joggie", 
+        "hotel", 
+        "klokkie vir hoteljoggie", 
+        "klok"
+    ], 
+    "🛏️": [
+        "hotel", 
+        "slaap", 
         "bed"
     ], 
     "🛐": [
@@ -6414,6 +8468,43 @@
         "winkeltrollie", 
         "inkopies"
     ], 
+    "🛠️": [
+        "hamer en moersleutel", 
+        "hamer", 
+        "moersleutel", 
+        "gereedskap"
+    ], 
+    "🛡️": [
+        "wapen", 
+        "skild", 
+        "beskerm"
+    ], 
+    "🛢️": [
+        "blik", 
+        "oliedrom", 
+        "drom", 
+        "olie"
+    ], 
+    "🛣️": [
+        "hoofweg", 
+        "snelweg", 
+        "pad"
+    ], 
+    "🛤️": [
+        "treinspoor", 
+        "spoor", 
+        "trein"
+    ], 
+    "🛥️": [
+        "motorboot", 
+        "boot", 
+        "voertuig"
+    ], 
+    "🛩️": [
+        "vliegtuig", 
+        "voertuig", 
+        "klein vliegtuig"
+    ], 
     "🛫": [
         "lughawe", 
         "vliegtuig", 
@@ -6429,6 +8520,19 @@
         "vliegtuig", 
         "aankoms", 
         "vliegtuig land"
+    ], 
+    "🛰️": [
+        "ruimte", 
+        "satelliet", 
+        "voertuig"
+    ], 
+    "🛳️": [
+        "voertuig", 
+        "skip", 
+        "vaar", 
+        "passasierskip", 
+        "see", 
+        "passasier"
     ], 
     "🛴": [
         "skoeter", 
@@ -6499,29 +8603,79 @@
     "🤘": [
         "horingteken", 
         "vinger", 
+        "horingteken: veltipe-5", 
+        "veltipe-4", 
+        "horingteken: veltipe-3", 
+        "horingteken: veltipe-4", 
+        "veltipe-1-2", 
+        "horingteken: veltipe-6", 
         "hand", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
         "rock", 
+        "horingteken: veltipe-1-2", 
         "liggaam", 
         "horings"
     ], 
     "🤙": [
-        "hand", 
+        "bel my hand: veltipe-3", 
+        "bel my hand: veltipe-6", 
+        "bel my hand: veltipe-4", 
         "bel", 
-        "bel my hand"
+        "bel my hand: veltipe-5", 
+        "veltipe-1-2", 
+        "hand", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "bel my hand", 
+        "bel my hand: veltipe-1-2"
     ], 
     "🤚": [
         "handrug", 
-        "hand"
+        "veltipe-1-2", 
+        "hand", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "handrug: veltipe-3", 
+        "handrug: veltipe-1-2", 
+        "handrug: veltipe-6", 
+        "handrug: veltipe-5", 
+        "handrug: veltipe-4"
     ], 
     "🤛": [
-        "vuis links", 
+        "vuis links: veltipe-6", 
+        "links", 
+        "vuis links: veltipe-5", 
+        "vuis links: veltipe-4", 
+        "veltipe-4", 
+        "veltipe-1-2", 
+        "vuis links: veltipe-3", 
+        "veltipe-3", 
         "vuis", 
-        "links"
+        "veltipe-6", 
+        "veltipe-5", 
+        "vuis links: veltipe-1-2", 
+        "vuis links"
     ], 
     "🤜": [
+        "vuis regs: veltipe-1-2", 
         "vuis regs", 
+        "regs", 
+        "veltipe-1-2", 
+        "veltipe-3", 
         "vuis", 
-        "regs"
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vuis regs: veltipe-4", 
+        "vuis regs: veltipe-5", 
+        "vuis regs: veltipe-6", 
+        "vuis regs: veltipe-3"
     ], 
     "🤝": [
         "bladskud", 
@@ -6530,16 +8684,36 @@
         "ooreenkoms"
     ], 
     "🤞": [
-        "hoop", 
-        "hand", 
-        "duim vashou", 
+        "duim vashou: veltipe-3", 
         "geluk", 
-        "duimvashou"
+        "duim vashou: veltipe-5", 
+        "duim vashou: veltipe-1-2", 
+        "hoop", 
+        "duim vashou: veltipe-4", 
+        "veltipe-1-2", 
+        "hand", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "duimvashou", 
+        "duim vashou", 
+        "duim vashou: veltipe-6"
     ], 
     "🤟": [
-        "Lvj", 
+        "lief-vir-jou-gebaar: veltipe-1-2", 
+        "lief-vir-jou-gebaar: veltipe-6", 
+        "lief-vir-jou-gebaar: veltipe-4", 
         "lief-vir-jou-gebaar", 
-        "hand"
+        "lief-vir-jou-gebaar: veltipe-3", 
+        "veltipe-1-2", 
+        "hand", 
+        "veltipe-3", 
+        "lief-vir-jou-gebaar: veltipe-5", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "Lvj"
     ], 
     "🤠": [
         "hoed", 
@@ -6584,6 +8758,28 @@
     "🤦": [
         "verbyster", 
         "facepalm", 
+        "veltipe-1-2", 
+        "ongeloof", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "facepalm: veltipe-1-2", 
+        "facepalm: veltipe-3", 
+        "facepalm: veltipe-6", 
+        "facepalm: veltipe-4", 
+        "facepalm: veltipe-5"
+    ], 
+    "🤦‍♀️": [
+        "ongeloof", 
+        "facepalm", 
+        "moedeloos", 
+        "moedelose vrou"
+    ], 
+    "🤦‍♂️": [
+        "facepalm", 
+        "moedeloos", 
+        "moedelose man", 
         "ongeloof"
     ], 
     "🤧": [
@@ -6635,54 +8831,182 @@
     "🤰": [
         "moeder", 
         "swanger", 
-        "ma", 
         "swanger vrou", 
-        "vrou"
+        "vrou", 
+        "veltipe-1-2", 
+        "swanger vrou: veltipe-6", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "ma", 
+        "swanger vrou: veltipe-3", 
+        "swanger vrou: veltipe-4", 
+        "swanger vrou: veltipe-5", 
+        "swanger vrou: veltipe-1-2"
     ], 
     "🤱": [
         "baba", 
+        "borsvoed: veltipe-1-2", 
         "voeding", 
+        "bors", 
+        "veltipe-1-2", 
+        "veltipe-3", 
         "borsvoed", 
-        "bors"
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "borsvoed: veltipe-5", 
+        "borsvoed: veltipe-4", 
+        "borsvoed: veltipe-6", 
+        "borsvoed: veltipe-3"
     ], 
     "🤲": [
+        "palms op teen mekaar: veltipe-6", 
         "bid", 
-        "palms op teen mekaar"
+        "veltipe-4", 
+        "palms op teen mekaar: veltipe-1-2", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "palms op teen mekaar: veltipe-4", 
+        "palms op teen mekaar: veltipe-5", 
+        "palms op teen mekaar: veltipe-3", 
+        "veltipe-5", 
+        "palms op teen mekaar", 
+        "veltipe-6"
     ], 
     "🤳": [
         "foon", 
+        "selfie: veltipe-6", 
+        "selfie", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "selfie: veltipe-5", 
+        "selfie: veltipe-4", 
         "kamera", 
-        "selfie"
+        "selfie: veltipe-3", 
+        "selfie: veltipe-1-2"
     ], 
     "🤴": [
+        "prins: veltipe-1-2", 
         "gesig", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "prins: veltipe-6", 
+        "prins: veltipe-4", 
+        "prins: veltipe-5", 
+        "prins: veltipe-3", 
         "prins"
     ], 
     "🤵": [
-        "tuxedo", 
-        "bruidegom", 
-        "man in pak", 
+        "veltipe-3", 
         "pak", 
+        "tuxedo", 
+        "man in pak: veltipe-5", 
+        "veltipe-1-2", 
+        "man in pak", 
+        "man in pak: veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "man in pak: veltipe-3", 
+        "bruidegom", 
+        "man in pak: veltipe-6", 
+        "man in pak: veltipe-4", 
         "man"
     ], 
     "🤶": [
-        "kersmoeder", 
         "gesig", 
+        "moeder kersfees: veltipe-3", 
+        "veltipe-4", 
+        "moeder kersfees: veltipe-6", 
+        "veltipe-1-2", 
+        "moeder kersfees: veltipe-4", 
+        "moeder kersfees: veltipe-5", 
+        "veltipe-3", 
+        "kersmoeder", 
+        "moeder kersfees: veltipe-1-2", 
+        "veltipe-6", 
+        "veltipe-5", 
         "moeder kersfees"
     ], 
     "🤷": [
-        "skouers", 
+        "weet nie: veltipe-5", 
         "onseker", 
+        "weet nie: veltipe-6", 
+        "weet nie: veltipe-4", 
+        "veltipe-4", 
+        "weet nie: veltipe-1-2", 
+        "veltipe-1-2", 
+        "weet nie: veltipe-3", 
+        "veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "weet nie", 
+        "skouers"
+    ], 
+    "🤷‍♀️": [
+        "vrou skouerophaal", 
+        "skouerophaal", 
+        "weet nie"
+    ], 
+    "🤷‍♂️": [
+        "skouerophaal", 
+        "man skouerophaal", 
         "weet nie"
     ], 
     "🤸": [
+        "wawiel: veltipe-6", 
+        "wawiel: veltipe-1-2", 
         "gimnastiek", 
+        "wawiel", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "bollemakiesie", 
+        "wawiel: veltipe-4", 
+        "wawiel: veltipe-5", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "wawiel: veltipe-3", 
+        "veltipe-6"
+    ], 
+    "🤸‍♀️": [
+        "vrou wawiel", 
         "bollemakiesie", 
         "wawiel"
     ], 
+    "🤸‍♂️": [
+        "bollemakiesie", 
+        "man wawiel", 
+        "wawiel"
+    ], 
     "🤹": [
+        "jongleer: veltipe-3", 
+        "jongleer: veltipe-6", 
+        "veltipe-1-2", 
+        "jongleer: veltipe-5", 
+        "jongleer: veltipe-4", 
+        "veltipe-3", 
+        "jongleer", 
+        "jongleer: veltipe-1-2", 
+        "veltipe-5", 
+        "veltipe-4", 
         "balanseer", 
-        "jongleer"
+        "veltipe-6"
+    ], 
+    "🤹‍♀️": [
+        "jongleer", 
+        "vroulike jongleur"
+    ], 
+    "🤹‍♂️": [
+        "jongleer", 
+        "manlike jongleur"
     ], 
     "🤺": [
         "skermkuns", 
@@ -6696,14 +9020,58 @@
         "stoei", 
         "stoeiers"
     ], 
+    "🤼‍♀️": [
+        "vroulike stoeiers", 
+        "stoei"
+    ], 
+    "🤼‍♂️": [
+        "stoei", 
+        "manlike stoeiers"
+    ], 
     "🤽": [
+        "waterpolo: veltipe-6", 
+        "waterpolo: veltipe-5", 
+        "waterpolo: veltipe-4", 
+        "swem", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "waterpolo: veltipe-1-2", 
+        "veltipe-5", 
+        "veltipe-4", 
         "waterpolo", 
+        "waterpolo: veltipe-3", 
         "sport", 
-        "swem"
+        "veltipe-6"
+    ], 
+    "🤽‍♀️": [
+        "waterpolo", 
+        "vroulike waterpolospeler"
+    ], 
+    "🤽‍♂️": [
+        "waterpolo", 
+        "manlike waterpolospeler"
     ], 
     "🤾": [
+        "handbal: veltipe-1-2", 
+        "handbal: veltipe-6", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "handbal: veltipe-4", 
         "handbal", 
-        "sport"
+        "handbal: veltipe-3", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "sport", 
+        "handbal: veltipe-5", 
+        "veltipe-6"
+    ], 
+    "🤾‍♀️": [
+        "handbal", 
+        "vroulike handbalspeler"
+    ], 
+    "🤾‍♂️": [
+        "handbal", 
+        "manlike handbalspeler"
     ], 
     "🥀": [
         "blom", 
@@ -7051,76 +9419,180 @@
         "bedompig"
     ], 
     "🧑": [
+        "veltipe-5", 
+        "volwassene", 
         "geslag-neutraal", 
-        "volwassene"
+        "volwassene: veltipe-5", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "volwassene: veltipe-3", 
+        "volwassene: veltipe-6", 
+        "veltipe-6", 
+        "volwassene: veltipe-4", 
+        "veltipe-4", 
+        "volwassene: veltipe-1-2"
     ], 
     "🧒": [
-        "geslag-neutraal", 
         "kind", 
-        "jongmens"
+        "geslag-neutraal", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "jongmens", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "kind: veltipe-5", 
+        "kind: veltipe-4", 
+        "kind: veltipe-6", 
+        "kind: veltipe-3", 
+        "kind: veltipe-1-2"
     ], 
     "🧓": [
+        "ouer volwassene: veltipe-3", 
+        "ouer volwassene: veltipe-4", 
+        "ouer volwassene: veltipe-5", 
+        "ouer volwassene: veltipe-6", 
         "geslag-neutraal", 
+        "veltipe-1-2", 
+        "oud", 
+        "veltipe-3", 
         "ouer volwassene", 
-        "oud"
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "ouer volwassene: veltipe-1-2"
     ], 
     "🧔": [
+        "bebaarde persoon: veltipe-6", 
         "baard", 
+        "veltipe-1-2", 
+        "veltipe-3", 
+        "bebaarde persoon: veltipe-1-2", 
+        "bebaarde persoon: veltipe-5", 
+        "bebaarde persoon: veltipe-4", 
+        "bebaarde persoon: veltipe-3", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
         "bebaarde persoon"
     ], 
     "🧕": [
-        "mantilla", 
         "hiijab", 
+        "vrou met kopdoek: veltipe-1-2", 
+        "veltipe-1-2", 
         "kopdoek", 
-        "vrou met kopdoek"
+        "veltipe-3", 
+        "mantilla", 
+        "veltipe-6", 
+        "veltipe-5", 
+        "veltipe-4", 
+        "vrou met kopdoek: veltipe-3", 
+        "vrou met kopdoek", 
+        "vrou met kopdoek: veltipe-6", 
+        "vrou met kopdoek: veltipe-4", 
+        "vrou met kopdoek: veltipe-5"
     ], 
-    "🧖": [
-        "persoon in stoomkamer", 
+    "🧖‍♀️": [
+        "vrou in stoomkamer", 
         "stoomkamer", 
         "sauna"
     ], 
-    "🧗": [
+    "🧖‍♂️": [
+        "persoon in stoomkamer", 
+        "man in stoomkamer", 
+        "stoomkamer", 
+        "sauna"
+    ], 
+    "🧗‍♀️": [
         "persoon wat rotsklim", 
+        "vroulike rotsklimmer", 
         "rotsklimmer"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "manlike rotsklimmer", 
+        "rotsklimmer"
+    ], 
+    "🧘‍♀️": [
         "joga", 
+        "vrou in lotus-posisie", 
         "meditasie", 
         "persoon in die lotus-posisie"
     ], 
-    "🧙": [
-        "magus", 
-        "towenaar", 
+    "🧘‍♂️": [
+        "joga", 
+        "meditasie", 
+        "man in lotus-posisie"
+    ], 
+    "🧙‍♀️": [
         "heks", 
+        "magus", 
         "towenares", 
+        "towenaar", 
+        "vroulike magus", 
         "toorder"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "towenaar", 
+        "manlike magus"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
         "feetjie", 
+        "vroulike feetjie", 
         "Oberan", 
         "Tatania"
     ], 
-    "🧛": [
-        "Dracula", 
-        "vampier"
+    "🧚‍♂️": [
+        "Puck", 
+        "manlike fee", 
+        "Oberon"
     ], 
-    "🧜": [
+    "🧛‍♀️": [
+        "ondooies", 
+        "Dracula", 
+        "vampier", 
+        "vroulike vampier"
+    ], 
+    "🧛‍♂️": [
+        "Dracula", 
+        "manlike vampier"
+    ], 
+    "🧜‍♀️": [
+        "meermin"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
         "meerpersoon", 
         "meermin", 
         "meerman"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "vroulike elf", 
+        "toweragtig"
+    ], 
+    "🧝‍♂️": [
+        "manlike elf", 
         "elf", 
         "toweragtig"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "vroulike towergees", 
+        "djinn"
+    ], 
+    "🧞‍♂️": [
+        "manlike towergees", 
         "towergees", 
         "djinn"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "ondooies", 
+        "vroulike zombie", 
+        "lewendige dooies"
+    ], 
+    "🧟‍♂️": [
         "ondooies", 
         "zombie", 
+        "manlike zombie", 
         "lewendige dooies"
     ], 
     "🧠": [

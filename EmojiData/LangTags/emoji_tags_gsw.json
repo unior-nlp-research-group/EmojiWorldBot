@@ -1,4 +1,19 @@
 {
+    "▫️": [
+        "Quadrat", 
+        "Kleines weisses Quadrat", 
+        "weiss"
+    ], 
+    "◻️": [
+        "Quadrat", 
+        "Mittelgrosses weisses Quadrat", 
+        "weiss"
+    ], 
+    "◼️": [
+        "Quadrat", 
+        "Mittelgrosses schwarzes Quadrat", 
+        "schwarz"
+    ], 
     "◽": [
         "Mittelkleines weisses Quadrat", 
         "Quadrat", 
@@ -12,6 +27,14 @@
         "Tee", 
         "heiss", 
         "trinken"
+    ], 
+    "♨️": [
+        "Dampf", 
+        "dampfend", 
+        "Heisse Quellen", 
+        "heiss", 
+        "Quellen", 
+        "heisse Quellen"
     ], 
     "⚪": [
         "Kreis", 
@@ -28,6 +51,12 @@
     "⚽": [
         "Fussball", 
         "Ball"
+    ], 
+    "⛑️": [
+        "Helm", 
+        "Hilfe", 
+        "Kreuz", 
+        "Helm mit weissem Kreuz"
     ], 
     "✅": [
         "erledigt", 
@@ -63,6 +92,35 @@
         "Kreis", 
         "rot", 
         "o"
+    ], 
+    "🅰️": [
+        "a", 
+        "negativ", 
+        "Grossbuchstabe A in Quadrat", 
+        "positiv", 
+        "Blut", 
+        "Blutgruppe"
+    ], 
+    "🅱️": [
+        "b", 
+        "negativ", 
+        "positiv", 
+        "Blut", 
+        "Grossbuchstabe B in Quadrat", 
+        "Blutgruppe"
+    ], 
+    "🅾️": [
+        "Grossbuchstabe O in Quadrat", 
+        "negativ", 
+        "positiv", 
+        "0", 
+        "Blut", 
+        "Blutgruppe"
+    ], 
+    "🅿️": [
+        "Quadrat", 
+        "Parkplatz", 
+        "Grossbuchstabe P in Quadrat"
     ], 
     "🆎": [
         "ab", 
@@ -121,6 +179,13 @@
         "Galaxie", 
         "Milchstrasse"
     ], 
+    "🌥️": [
+        "Wolke", 
+        "Wetter", 
+        "Sonne hinter grosser Wolke", 
+        "Sonne", 
+        "grosse Wolke"
+    ], 
     "🍝": [
         "Pasta", 
         "Nudeln mit Tomatensosse", 
@@ -157,6 +222,12 @@
     "🍻": [
         "anstossen", 
         "Bier"
+    ], 
+    "🏳️": [
+        "Wehende weisse Fahne", 
+        "wehen", 
+        "weisse Fahne", 
+        "Fahne"
     ], 
     "🏺": [
         "Gefäss", 
@@ -260,12 +331,22 @@
         "blau"
     ], 
     "🖖": [
+        "Vulkanischer Gruss: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Vulkanischer Gruss: dunkle Hautfarbe", 
+        "Vulkanischer Gruss: mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Vulkanischer Gruss: mittlere Hautfarbe", 
         "vulkanisch", 
+        "Vulkanischer Gruss: helle Hautfarbe", 
         "Hand", 
         "Vulkanier(in)", 
         "Spock", 
         "Finger", 
-        "Vulkanischer Gruss"
+        "Vulkanischer Gruss", 
+        "helle Hautfarbe", 
+        "mittelhelle Hautfarbe"
     ], 
     "😃": [
         "Gesicht", 
@@ -320,11 +401,20 @@
         "Tram", 
         "Waggon"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "Fussgängerin", 
+        "Frau", 
+        "gehen", 
+        "Spaziergang"
+    ], 
+    "🚶‍♂️": [
+        "gehen", 
+        "wandern", 
+        "Spaziergang", 
+        "Fussgänger", 
         "Fussgänger(in)", 
         "gehend", 
-        "gehen", 
-        "wandern"
+        "Mann"
     ], 
     "🚷": [
         "Fussgänger-verboten-Schild", 
@@ -342,6 +432,10 @@
         "Gepäck", 
         "Schliessfach"
     ], 
+    "🛣️": [
+        "Autobahn", 
+        "Schnellstrasse"
+    ], 
     "🤐": [
         "Gesicht", 
         "Mund", 
@@ -349,12 +443,22 @@
         "Reissverschluss"
     ], 
     "🤘": [
+        "mitteldunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Teufelsgruss: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Hörner", 
+        "mittelhelle Hautfarbe", 
+        "Teufelsgruss: dunkle Hautfarbe", 
+        "Teufelsgruss: mitteldunkle Hautfarbe", 
         "Hand", 
         "Finger", 
         "Rock", 
         "Teufelsgruss", 
-        "Teufel"
+        "Teufel", 
+        "helle Hautfarbe", 
+        "Teufelsgruss: mittelhelle Hautfarbe", 
+        "Teufelsgruss: helle Hautfarbe"
     ], 
     "🤪": [
         "gross", 
@@ -373,5 +477,8 @@
     ], 
     "🥨": [
         "verdreht"
+    ], 
+    "🧟‍♂️": [
+        "Zombiemann"
     ]
 }

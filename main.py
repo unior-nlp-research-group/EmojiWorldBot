@@ -49,7 +49,7 @@ BASE_URL = 'https://api.telegram.org/bot' + key.TOKEN + '/'
 STATES = {
     0:  'Change language',
     1:  'Home screen',
-    2:  'Select text to emoji or emoji to text',
+    2:  'Text to emoji or emoji to text',
     3:  'Translation Game',
     4:  'Tagging Game',
     50: 'Futuro Remoto',
@@ -130,8 +130,8 @@ INFO = utility.unindent(
 
     *Acknowledgements*:
     🔹 Default tags for 72 languages were obtained from the [Unicode Consortium](http://www.unicode.org/cldr/charts/29/annotations)
-    🔹 Emoji images are freely provided by [Emoji One](http://emojione.com)
     """
+    #     🔹 Emoji images are freely provided by [Emoji One](http://emojione.com)
 )
 
 TERMS_OF_SERVICE = utility.unindent(
@@ -581,9 +581,10 @@ def dealWithInputTagOrEmoji(p, input):
         # input is an emoji
         tagList = emojiTables.getTagList(lang_code, emoji_norm)
         if len(tagList)>0:
+            emoji_info = '{} [{}]'.format(input, utility.escapeMarkdown(emojiUtil.getAlphaName(input))) if p.show_alpha_names else input
             tagsStr = ", ".join(tagList)
             tell(p.chat_id, "Found the following tags for {0}: \n *{1}*".format(
-                input, tagsStr), markdown=utility.markdownSafe(tagsStr))
+                emoji_info, tagsStr), markdown=utility.markdownSafe(tagsStr))
             # logging.info(str(p.chat_id) + " searching emoji " + input_norm + " and getting tags " + tags)
             search.addSearch(p.chat_id, lang_code, emoji_norm, is_searched_emoji=True, inline_query=False,
                              found_translation=True)
@@ -595,7 +596,7 @@ def dealWithInputTagOrEmoji(p, input):
     else:
         # input is a tag
         #input_norm = utility.normalizeString(input)
-        emojiList = emojiTables.getEmojiList(lang_code, input)
+        emojiList = emojiTables.getEmojiList(lang_code, input, p.show_alpha_names)
         if len(emojiList)>0:
             emojis = " ".join(emojiList)
             tell(p.chat_id, "Found the following emojis for *{0}*:\n{1}".format(
@@ -890,7 +891,7 @@ def goToState4(p, input=None, userTaggingEntry=None, **kwargs):
             redirectToState(p,1)
             return
         emoji = userTaggingEntry.getLastEmoji()
-        if not emoji:
+        if emoji is None:
             emoji, random = getNextEmojiForTagging(userTaggingEntry)
             userTaggingEntry.setLastEmoji(emoji, random)
         userLang = p.getLanguageCode()
@@ -1284,7 +1285,7 @@ def createInlineQueryResultArticle(p, id, query_text, query_offset):
     lang_code = p.getLanguageCode() if p.lang_code else 'eng'
     language = p.getLanguageName() if p.lang_code else 'English'
     #query_text = utility.normalizeString(query_text)
-    emojiList = emojiTables.getEmojiList(lang_code, query_text)
+    emojiList = emojiTables.getEmojiList(lang_code, query_text, p.show_alpha_names)
     if len(emojiList) > 0:
         #logging.debug('Replying to inline query for tag ' + tag)
         result = []
@@ -1429,7 +1430,7 @@ class WebhookHandler(SafeRequestHandler):
         #             u'user_id': 130870321}
         # logging.debug('location: ' + str(location))
 
-        def reply(msg=None, kb=None, markdown=True, inlineKeyboardMarkup=False):
+        def reply(msg=None, kb=None, markdown=False, inlineKeyboardMarkup=False):
             tell(chat_id, msg, kb=kb, markdown=markdown, inlineKeyboardMarkup=inlineKeyboardMarkup)
 
         p = person.getPersonByChatId(chat_id)
@@ -1443,7 +1444,7 @@ class WebhookHandler(SafeRequestHandler):
             elif text.startswith("/start"):
                 new_count = person.getPeopleCount(increment=True)
                 p = person.addPerson(chat_id, name, last_name, username)
-                reply("Hi {0},  welcome to EmojiWorldBot!\n".format(name) + TERMS_OF_SERVICE)
+                reply("Hi {0}, welcome to EmojiWorldBot!\n".format(name) + TERMS_OF_SERVICE)
                 restart(p)
                 tell_masters("New user #{} : {}".format(new_count, p.getUserInfoString()))
             else:
@@ -1464,14 +1465,26 @@ class WebhookHandler(SafeRequestHandler):
                 reply("Hi " + name + ", " + "welcome back to EmojiWorldBot!\n" + TERMS_OF_SERVICE)
                 updateUser(p, name, last_name, username)
                 restart(p)
+            if text.startswith('/show_alpha_names'):
+                if text == '/show_alpha_names on':
+                    p.show_alpha_names = True
+                    reply("Alpha names activated")
+                    p.put()
+                elif text == '/show_alpha_names off':
+                    p.show_alpha_names = False
+                    reply("Alpha names disactivated")
+                    p.put()
+                else:
+                    reply("/show_alpha_names options are: on/off")
             else:
                 logging.debug("Sending {0} to state {1} with input '{2}'".format(p.getFirstName(), str(p.state), text))
                 repeatState(p, input=text, message_timestamp = message_timestamp)
 
 class ServeEmojiImage(webapp2.RequestHandler):
     def get(self, code_points):
+        e = emojiUtil.getEmojiFromCodePoint(code_points)
         #logging.debug("Starting serving emoji image {}".format(code_points))
-        image_data = emojiUtil.getEmojiImageDataFromSprite(code_points=code_points)
+        image_data = emojiUtil.getEmojiPngDataFromUrl(e)
         if image_data:
             self.response.headers['Content-Type'] = 'image/png'
             self.response.headers['Content-Length'] = len(image_data)

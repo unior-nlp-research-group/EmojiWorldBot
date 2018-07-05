@@ -1,4 +1,139 @@
 {
+    "#️⃣": [
+        "teclas", 
+        "teclas: #"
+    ], 
+    "*️⃣": [
+        "teclas", 
+        "teclas: *"
+    ], 
+    "0️⃣": [
+        "teclas", 
+        "teclas: 0"
+    ], 
+    "1️⃣": [
+        "teclas", 
+        "teclas: 1"
+    ], 
+    "2️⃣": [
+        "teclas", 
+        "teclas: 2"
+    ], 
+    "3️⃣": [
+        "teclas", 
+        "teclas: 3"
+    ], 
+    "4️⃣": [
+        "teclas", 
+        "teclas: 4"
+    ], 
+    "5️⃣": [
+        "teclas", 
+        "teclas: 5"
+    ], 
+    "6️⃣": [
+        "teclas: 6", 
+        "teclas"
+    ], 
+    "7️⃣": [
+        "teclas: 7", 
+        "teclas"
+    ], 
+    "8️⃣": [
+        "teclas", 
+        "teclas: 8"
+    ], 
+    "9️⃣": [
+        "teclas", 
+        "teclas: 9"
+    ], 
+    "©️": [
+        "autor", 
+        "dereitos", 
+        "copyright"
+    ], 
+    "®️": [
+        "R", 
+        "marca", 
+        "marca rexistrada “R”", 
+        "rexistrada"
+    ], 
+    "‼️": [
+        "dobre", 
+        "signo de exclamación dobre", 
+        "admiración", 
+        "exclamación"
+    ], 
+    "⁉️": [
+        "signo de exclamación e interrogación", 
+        "interrogación", 
+        "admiración", 
+        "exclamación"
+    ], 
+    "™️": [
+        "marca rexistrada “TM”", 
+        "TM", 
+        "marca", 
+        "rexistrada"
+    ], 
+    "ℹ️": [
+        "información", 
+        "punto de información"
+    ], 
+    "↔️": [
+        "frecha cara á esquerda e a dereita", 
+        "dereita", 
+        "frecha", 
+        "esquerda", 
+        "dirección"
+    ], 
+    "↕️": [
+        "dirección", 
+        "frecha", 
+        "arriba", 
+        "abaixo", 
+        "frecha cara arriba e abaixo"
+    ], 
+    "↖️": [
+        "dirección", 
+        "frecha", 
+        "arriba", 
+        "frecha cara arriba á esquerda", 
+        "noroeste"
+    ], 
+    "↗️": [
+        "frecha cara arriba á dereita", 
+        "dirección", 
+        "frecha", 
+        "arriba", 
+        "nordeste"
+    ], 
+    "↘️": [
+        "frecha cara abaixo á dereita", 
+        "dirección", 
+        "frecha", 
+        "abaixo", 
+        "sueste"
+    ], 
+    "↙️": [
+        "frecha cara abaixo á esquerda", 
+        "dirección", 
+        "frecha", 
+        "suroeste", 
+        "abaixo"
+    ], 
+    "↩️": [
+        "curva", 
+        "frecha curvada cara á esquerda", 
+        "frecha", 
+        "esquerda"
+    ], 
+    "↪️": [
+        "curva", 
+        "dereita", 
+        "frecha", 
+        "frecha curvada cara á dereita"
+    ], 
     "⌚": [
         "reloxo"
     ], 
@@ -6,6 +141,16 @@
         "reloxo", 
         "tempo", 
         "reloxo de area"
+    ], 
+    "⌨️": [
+        "ordenador", 
+        "teclado"
+    ], 
+    "⏏️": [
+        "expulsar", 
+        "expulsión", 
+        "botón", 
+        "botón de expulsión"
     ], 
     "⏩": [
         "botón", 
@@ -34,16 +179,106 @@
         "rápido", 
         "abaixo"
     ], 
+    "⏭️": [
+        "pista", 
+        "botón de pista seguinte", 
+        "botón", 
+        "avanzar", 
+        "seguinte"
+    ], 
+    "⏮️": [
+        "anterior", 
+        "pista", 
+        "botón", 
+        "botón de pista anterior", 
+        "retroceder"
+    ], 
+    "⏯️": [
+        "botón", 
+        "reprodución", 
+        "botón reprodución ou pausa", 
+        "pausa"
+    ], 
     "⏰": [
         "reloxo", 
         "alarma", 
         "espertador", 
         "espertar"
     ], 
+    "⏱️": [
+        "reloxo", 
+        "tempo", 
+        "cronómetro"
+    ], 
+    "⏲️": [
+        "reloxo", 
+        "tempo", 
+        "temporizador"
+    ], 
     "⏳": [
         "reloxo", 
         "reloxo de area en funcionamento", 
         "reloxo de area"
+    ], 
+    "⏸️": [
+        "pausa", 
+        "botón", 
+        "botón de pausa"
+    ], 
+    "⏹️": [
+        "parar", 
+        "deter", 
+        "botón", 
+        "botón de parada", 
+        "cadrado"
+    ], 
+    "⏺️": [
+        "círculo", 
+        "gravación", 
+        "botón de gravación", 
+        "botón", 
+        "gravar"
+    ], 
+    "Ⓜ️": [
+        "círculo", 
+        "círculo coa letra “M”", 
+        "M", 
+        "metro"
+    ], 
+    "▪️": [
+        "pequeno", 
+        "cadrado pequeno negro", 
+        "negro", 
+        "cadrado"
+    ], 
+    "▫️": [
+        "branco", 
+        "pequeno", 
+        "cadrado pequeno branco", 
+        "cadrado"
+    ], 
+    "▶️": [
+        "botón", 
+        "reprodución", 
+        "botón de reprodución"
+    ], 
+    "◀️": [
+        "botón de retroceso", 
+        "botón", 
+        "retroceso", 
+        "retroceder"
+    ], 
+    "◻️": [
+        "branco", 
+        "cadrado mediano branco", 
+        "mediano", 
+        "cadrado"
+    ], 
+    "◼️": [
+        "cadrado mediano negro", 
+        "negro", 
+        "mediano", 
+        "cadrado"
     ], 
     "◽": [
         "branco", 
@@ -59,6 +294,42 @@
         "mediano", 
         "cadrado"
     ], 
+    "☀️": [
+        "solleiro", 
+        "tempo", 
+        "sol", 
+        "calor", 
+        "raios"
+    ], 
+    "☁️": [
+        "nube", 
+        "meteoroloxía"
+    ], 
+    "☂️": [
+        "paraugas", 
+        "choiva"
+    ], 
+    "☃️": [
+        "neve", 
+        "inverno", 
+        "frío", 
+        "boneco", 
+        "nevando e boneco de neve"
+    ], 
+    "☄️": [
+        "cometa", 
+        "espazo"
+    ], 
+    "☎️": [
+        "teléfono"
+    ], 
+    "☑️": [
+        "verificación", 
+        "recadro con marca de verificación", 
+        "recadro", 
+        "marcado", 
+        "marca"
+    ], 
     "☔": [
         "paraugas", 
         "choiva", 
@@ -70,6 +341,90 @@
         "bar", 
         "té", 
         "café"
+    ], 
+    "☘️": [
+        "planta", 
+        "trevo"
+    ], 
+    "☝️": [
+        "índice", 
+        "índice apuntando cara arriba", 
+        "arriba", 
+        "man", 
+        "advertencia"
+    ], 
+    "☠️": [
+        "caveira e osos", 
+        "osos", 
+        "caveira", 
+        "morte"
+    ], 
+    "☢️": [
+        "sinal", 
+        "radioactivo", 
+        "perigo", 
+        "sinal de radioactividade"
+    ], 
+    "☣️": [
+        "risco", 
+        "substancias perigosas", 
+        "perigo", 
+        "sinal de perigo biolóxico"
+    ], 
+    "☦️": [
+        "cruz", 
+        "cristianismo", 
+        "relixión", 
+        "cruz ortodoxa"
+    ], 
+    "☪️": [
+        "media lúa e estrela", 
+        "media lúa", 
+        "islamismo", 
+        "relixión", 
+        "islam"
+    ], 
+    "☮️": [
+        "símbolo da paz", 
+        "paz", 
+        "símbolo"
+    ], 
+    "☯️": [
+        "yin", 
+        "yin-yang", 
+        "yang", 
+        "relixión", 
+        "taoísmo"
+    ], 
+    "☸️": [
+        "roda", 
+        "dharma", 
+        "budismo", 
+        "roda do dharma", 
+        "relixión"
+    ], 
+    "☹️": [
+        "tristeza", 
+        "cara", 
+        "decepción", 
+        "cara moi triste", 
+        "triste"
+    ], 
+    "☺️": [
+        "sorriso", 
+        "cara", 
+        "cara riseira"
+    ], 
+    "♀️": [
+        "símbolo da muller", 
+        "feminismo", 
+        "muller", 
+        "símbolo"
+    ], 
+    "♂️": [
+        "home", 
+        "símbolo do home", 
+        "símbolo"
     ], 
     "♈": [
         "zodíaco", 
@@ -141,14 +496,107 @@
         "zodíaco", 
         "peixes"
     ], 
+    "♠️": [
+        "cartas", 
+        "baralla francesa", 
+        "pica", 
+        "xogos", 
+        "picas"
+    ], 
+    "♣️": [
+        "cartas", 
+        "baralla francesa", 
+        "trevo", 
+        "xogos", 
+        "trevos"
+    ], 
+    "♥️": [
+        "cartas", 
+        "baralla francesa", 
+        "corazóns", 
+        "xogos", 
+        "corazón"
+    ], 
+    "♦️": [
+        "cartas", 
+        "rombos", 
+        "baralla francesa", 
+        "rombo", 
+        "xogos"
+    ], 
+    "♨️": [
+        "auga termal", 
+        "augas termais", 
+        "quente", 
+        "vapor"
+    ], 
+    "♻️": [
+        "símbolo de reciclaxe", 
+        "reciclado", 
+        "símbolo", 
+        "reciclaxe"
+    ], 
     "♿": [
         "cadeira de rodas", 
         "sinal de acceso para cadeira de rodas", 
         "acceso"
     ], 
+    "⚒️": [
+        "ferramenta", 
+        "martelo e pico", 
+        "martelo", 
+        "pico"
+    ], 
     "⚓": [
         "barco", 
         "áncora"
+    ], 
+    "⚔️": [
+        "cruzadas", 
+        "espadas cruzadas", 
+        "espadas", 
+        "arma"
+    ], 
+    "⚕️": [
+        "Esculapio", 
+        "medicina", 
+        "serpe", 
+        "farmacia", 
+        "símbolo da medicina"
+    ], 
+    "⚖️": [
+        "balanza", 
+        "zodíaco", 
+        "Libra", 
+        "xustiza", 
+        "peso"
+    ], 
+    "⚗️": [
+        "química", 
+        "destilar", 
+        "alambique", 
+        "augardente"
+    ], 
+    "⚙️": [
+        "ferramenta", 
+        "engrenaxe", 
+        "mecanismo", 
+        "roda dentada"
+    ], 
+    "⚛️": [
+        "símbolo atómico", 
+        "átomo", 
+        "ateísmo"
+    ], 
+    "⚜️": [
+        "flor", 
+        "flor de lis", 
+        "lis"
+    ], 
+    "⚠️": [
+        "sinal", 
+        "sinal de advertencia", 
+        "advertencia"
     ], 
     "⚡": [
         "alta tensión", 
@@ -165,6 +613,20 @@
         "círculo", 
         "círculo negro", 
         "negro"
+    ], 
+    "⚰️": [
+        "sepultura", 
+        "ataúde", 
+        "funeral", 
+        "morte", 
+        "velorio"
+    ], 
+    "⚱️": [
+        "funeral", 
+        "urna", 
+        "incineración", 
+        "morte", 
+        "urna funeraria"
     ], 
     "⚽": [
         "balón", 
@@ -190,6 +652,13 @@
         "meteoroloxía", 
         "sol"
     ], 
+    "⛈️": [
+        "tormenta", 
+        "meteoroloxía", 
+        "lóstrego", 
+        "choiva", 
+        "nube"
+    ], 
     "⛎": [
         "serpe", 
         "cazador de serpes", 
@@ -197,11 +666,32 @@
         "Ofiúco", 
         "zodíaco"
     ], 
+    "⛏️": [
+        "mina", 
+        "ferramenta", 
+        "pico"
+    ], 
+    "⛑️": [
+        "casco", 
+        "casco cunha cruz branca", 
+        "axuda", 
+        "cruz"
+    ], 
+    "⛓️": [
+        "cadeas", 
+        "cadea"
+    ], 
     "⛔": [
         "sinal", 
         "sinal de acceso prohibido", 
         "prohibido", 
         "tráfico"
+    ], 
+    "⛩️": [
+        "santuario xintoísta", 
+        "xintoísmo", 
+        "relixión", 
+        "Xapón"
     ], 
     "⛪": [
         "igrexa", 
@@ -209,6 +699,17 @@
         "cristianismo", 
         "relixión", 
         "capela"
+    ], 
+    "⛰️": [
+        "montaña", 
+        "montañas"
+    ], 
+    "⛱️": [
+        "praia", 
+        "parasol", 
+        "sol", 
+        "parasol na praia", 
+        "area"
     ], 
     "⛲": [
         "fonte"
@@ -219,10 +720,30 @@
         "bandeira", 
         "burato"
     ], 
+    "⛴️": [
+        "barco", 
+        "ferri", 
+        "transbordador"
+    ], 
     "⛵": [
         "barco", 
         "veleiro", 
         "mar"
+    ], 
+    "⛷️": [
+        "neve", 
+        "esquí", 
+        "esquiador"
+    ], 
+    "⛸️": [
+        "xeo", 
+        "patinaxe", 
+        "patinaxe sobre xeo"
+    ], 
+    "⛹️‍♂️": [
+        "balón", 
+        "baloncesto", 
+        "persoa botando un balón"
     ], 
     "⛺": [
         "acampar", 
@@ -237,6 +758,11 @@
         "gasolineira", 
         "gasóleo"
     ], 
+    "✂️": [
+        "tesoiras", 
+        "cortar", 
+        "tesoira"
+    ], 
     "✅": [
         "marca de verificación branca", 
         "correcto", 
@@ -244,20 +770,121 @@
         "ben", 
         "marca"
     ], 
+    "✈️": [
+        "avión"
+    ], 
+    "✉️": [
+        "correo electrónico", 
+        "sobre", 
+        "correo e."
+    ], 
     "✊": [
         "loita", 
+        "puño en alto: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "puño en alto: ton de pel moi escuro", 
+        "ton de pel moi claro", 
         "puño en alto", 
+        "puño en alto: ton de pel moi claro", 
         "arriba", 
-        "puño"
+        "puño", 
+        "puño en alto: ton de pel medio", 
+        "puño en alto: ton de pel escuro", 
+        "ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
     "✋": [
-        "man levantada", 
+        "man levantada: ton de pel moi claro", 
+        "man levantada: ton de pel moi escuro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
         "levantada", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "man levantada: ton de pel medio", 
+        "man levantada", 
+        "man levantada: ton de pel escuro", 
+        "man levantada: ton de pel claro", 
+        "ton de pel medio", 
         "man"
+    ], 
+    "✌️": [
+        "triunfo", 
+        "xesto de vitoria", 
+        "xesto", 
+        "vitoria", 
+        "man"
+    ], 
+    "✍️": [
+        "lapis", 
+        "escribir", 
+        "man escribindo", 
+        "bolígrafo", 
+        "man"
+    ], 
+    "✏️": [
+        "lapis", 
+        "escribir"
+    ], 
+    "✒️": [
+        "plumiña", 
+        "escribir", 
+        "estilográfica", 
+        "pluma"
+    ], 
+    "✔️": [
+        "verificación", 
+        "correcto", 
+        "ben", 
+        "marca", 
+        "marca de verificación"
+    ], 
+    "✖️": [
+        "X", 
+        "multiplicar", 
+        "cancelar", 
+        "signo de multiplicar groso", 
+        "multiplicación"
+    ], 
+    "✝️": [
+        "cruz", 
+        "cristianismo", 
+        "relixión", 
+        "cruz latina"
+    ], 
+    "✡️": [
+        "estrela", 
+        "relixión", 
+        "xudeus", 
+        "xudaísmo", 
+        "estrela de David"
     ], 
     "✨": [
         "chispas", 
         "estrelas"
+    ], 
+    "✳️": [
+        "8", 
+        "asterisco", 
+        "oito", 
+        "asterisco de oito raios"
+    ], 
+    "✴️": [
+        "8", 
+        "estrela de oito puntas", 
+        "oito", 
+        "estrela"
+    ], 
+    "❄️": [
+        "frío", 
+        "neve", 
+        "inverno", 
+        "copo", 
+        "copo de neve"
+    ], 
+    "❇️": [
+        "chispa"
     ], 
     "❌": [
         "multiplicar", 
@@ -296,6 +923,17 @@
         "admiración", 
         "exclamación"
     ], 
+    "❣️": [
+        "exclamación", 
+        "puntuación", 
+        "admiración", 
+        "exclamación en forma de corazón", 
+        "corazón"
+    ], 
+    "❤️": [
+        "amor", 
+        "corazón"
+    ], 
     "➕": [
         "matemáticas", 
         "signo de sumar", 
@@ -316,6 +954,13 @@
         "signo de dividir", 
         "división"
     ], 
+    "➡️": [
+        "frecha cara á dereita", 
+        "dereita", 
+        "frecha", 
+        "leste", 
+        "dirección"
+    ], 
     "➰": [
         "bucle"
     ], 
@@ -323,6 +968,39 @@
         "dobre", 
         "bucle dobre", 
         "bucle"
+    ], 
+    "⤴️": [
+        "curva", 
+        "frecha", 
+        "arriba", 
+        "frecha curvada cara arriba"
+    ], 
+    "⤵️": [
+        "curva", 
+        "frecha curvada cara abaixo", 
+        "frecha", 
+        "abaixo"
+    ], 
+    "⬅️": [
+        "dirección", 
+        "oeste", 
+        "frecha", 
+        "esquerda", 
+        "frecha cara á esquerda"
+    ], 
+    "⬆️": [
+        "dirección", 
+        "frecha", 
+        "arriba", 
+        "norte", 
+        "frecha cara arriba"
+    ], 
+    "⬇️": [
+        "dirección", 
+        "frecha cara abaixo", 
+        "frecha", 
+        "sur", 
+        "abaixo"
     ], 
     "⬛": [
         "cadrado grande negro", 
@@ -345,6 +1023,31 @@
         "o", 
         "círculo groso"
     ], 
+    "〰️": [
+        "liña ondulada", 
+        "trazo", 
+        "ondulado", 
+        "onda", 
+        "son largo"
+    ], 
+    "〽️": [
+        "signo", 
+        "alternancia", 
+        "signo de alternancia"
+    ], 
+    "㊗️": [
+        "parabéns", 
+        "botón \"parabéns\" en xaponés", 
+        "ideograma", 
+        "xaponés"
+    ], 
+    "㊙️": [
+        "segredo", 
+        "secreto", 
+        "botón \"secreto\" en xaponés", 
+        "ideograma", 
+        "xaponés"
+    ], 
     "🀄": [
         "vermello", 
         "dragón", 
@@ -357,6 +1060,31 @@
         "comodín", 
         "baralla francesa", 
         "xogos"
+    ], 
+    "🅰️": [
+        "A", 
+        "grupo", 
+        "sanguíneo", 
+        "grupo sanguíneo A"
+    ], 
+    "🅱️": [
+        "grupo", 
+        "B", 
+        "sanguíneo", 
+        "grupo sanguíneo B"
+    ], 
+    "🅾️": [
+        "grupo sanguíneo O", 
+        "grupo", 
+        "sanguíneo", 
+        "O"
+    ], 
+    "🅿️": [
+        "P", 
+        "parking", 
+        "aparcadoiro", 
+        "aparcamento", 
+        "aparcar"
     ], 
     "🆎": [
         "grupo", 
@@ -1466,6 +2194,13 @@
         "aquí", 
         "xaponés"
     ], 
+    "🈂️": [
+        "cargo por servizo", 
+        "xaponés", 
+        "comisión", 
+        "katakana", 
+        "botón “cargo por servizo” en xaponés"
+    ], 
     "🈚": [
         "botón \"gratis\" en xaponés", 
         "ideograma", 
@@ -1510,6 +2245,12 @@
     "🈶": [
         "de pago", 
         "botón \"de pago\" en xaponés", 
+        "ideograma", 
+        "xaponés"
+    ], 
+    "🈷️": [
+        "cantidade mensual", 
+        "botón \"cantidade mensual\" en xaponés", 
         "ideograma", 
         "xaponés"
     ], 
@@ -1744,6 +2485,63 @@
         "fugaz", 
         "chuvia de estrelas"
     ], 
+    "🌡️": [
+        "termómetro", 
+        "temperatura"
+    ], 
+    "🌤️": [
+        "nube", 
+        "meteoroloxía", 
+        "sol", 
+        "ceo parcialmente despexado"
+    ], 
+    "🌥️": [
+        "meteoroloxía", 
+        "ceo cuberto", 
+        "nube", 
+        "sol"
+    ], 
+    "🌦️": [
+        "meteoroloxía", 
+        "choiva", 
+        "ceo cuberto con choiva", 
+        "nube", 
+        "sol"
+    ], 
+    "🌧️": [
+        "chuvia", 
+        "meteoroloxía", 
+        "choiva", 
+        "nube"
+    ], 
+    "🌨️": [
+        "neve", 
+        "inverno", 
+        "meteoroloxía", 
+        "frío"
+    ], 
+    "🌩️": [
+        "nube", 
+        "lóstrego", 
+        "meteoroloxía", 
+        "lóstregos"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "meteoroloxía", 
+        "furacán"
+    ], 
+    "🌫️": [
+        "nebuloso", 
+        "meteoroloxía", 
+        "néboa"
+    ], 
+    "🌬️": [
+        "cara", 
+        "meteoroloxía", 
+        "soprar", 
+        "vento"
+    ], 
     "🌭": [
         "salchicha", 
         "pan de salchicha", 
@@ -1784,6 +2582,10 @@
     "🌵": [
         "planta", 
         "cacto"
+    ], 
+    "🌶️": [
+        "picante", 
+        "chile"
     ], 
     "🌷": [
         "flor", 
@@ -2150,6 +2952,13 @@
         "biberón", 
         "leite"
     ], 
+    "🍽️": [
+        "prato", 
+        "prato e cubertos", 
+        "garfo", 
+        "coitelo", 
+        "cubertos"
+    ], 
     "🍾": [
         "botella de champaña", 
         "champaña", 
@@ -2195,10 +3004,20 @@
         "Nadal"
     ], 
     "🎅": [
-        "Santa Claus", 
         "Nadal", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "Papá Noel: ton de pel moi escuro", 
+        "Papá Noel: ton de pel claro", 
+        "Papá Noel: ton de pel escuro", 
+        "celebración", 
+        "Papá Noel: ton de pel medio", 
+        "Papá Noel: ton de pel moi claro", 
         "Papá Noel", 
-        "celebración"
+        "Santa Claus", 
+        "ton de pel escuro"
     ], 
     "🎆": [
         "festas", 
@@ -2276,6 +3095,48 @@
         "birrete", 
         "barrete", 
         "universidade"
+    ], 
+    "🎖️": [
+        "medalla militar", 
+        "medalla", 
+        "condecoración", 
+        "militar"
+    ], 
+    "🎗️": [
+        "lazo", 
+        "conmemoración", 
+        "lazo conmemorativo"
+    ], 
+    "🎙️": [
+        "música", 
+        "gravación", 
+        "radio", 
+        "micrófono", 
+        "micrófono de gravación"
+    ], 
+    "🎚️": [
+        "control", 
+        "música", 
+        "control desprazable", 
+        "volume"
+    ], 
+    "🎛️": [
+        "botóns de control", 
+        "control", 
+        "botóns", 
+        "música"
+    ], 
+    "🎞️": [
+        "fotograma de película", 
+        "cine", 
+        "fotograma", 
+        "película", 
+        "negativo"
+    ], 
+    "🎟️": [
+        "entradas", 
+        "entrada", 
+        "espectáculo"
     ], 
     "🎠": [
         "cabaliño de carrusel", 
@@ -2464,20 +3325,45 @@
         "fin"
     ], 
     "🏂": [
-        "neve", 
         "táboa", 
+        "persoa practicando snowboard: ton de pel moi claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "persoa practicando snowboard: ton de pel escuro", 
+        "persoa practicando snowboard: ton de pel medio", 
+        "neve", 
         "snowboard", 
+        "persoa practicando snowboard: ton de pel moi escuro", 
+        "ton de pel escuro", 
+        "persoa practicando snowboard: ton de pel claro", 
         "persoa practicando snowboard"
     ], 
-    "🏃": [
-        "persoa correndo", 
+    "🏃‍♀️": [
+        "muller", 
+        "muller correndo", 
         "correr", 
         "maratón"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "home", 
+        "persoa correndo", 
+        "correr", 
+        "home correndo", 
+        "maratón"
+    ], 
+    "🏄‍♀️": [
         "surf", 
         "surfista", 
-        "surfeiro"
+        "muller", 
+        "surfeira"
+    ], 
+    "🏄‍♂️": [
+        "surf", 
+        "surfista", 
+        "surfeiro", 
+        "home"
     ], 
     "🏅": [
         "medalla", 
@@ -2490,11 +3376,21 @@
         "premio"
     ], 
     "🏇": [
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
         "cabalo", 
+        "carreira de cabalos: ton de pel escuro", 
+        "carreira de cabalos: ton de pel claro", 
+        "carreira de cabalos: ton de pel medio", 
+        "carreira de cabalos: ton de pel moi escuro", 
+        "xinete", 
+        "carreira de cabalos", 
+        "carreira de cabalos: ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "jóckey", 
         "cabalo de carreiras", 
-        "carreira de cabalos", 
-        "xinete"
+        "ton de pel escuro"
     ], 
     "🏈": [
         "balón", 
@@ -2508,9 +3404,36 @@
         "rugby", 
         "pelota"
     ], 
-    "🏊": [
-        "persoa nadando", 
+    "🏊‍♀️": [
+        "muller", 
+        "nadadora", 
         "nadar"
+    ], 
+    "🏊‍♂️": [
+        "persoa nadando", 
+        "nadador", 
+        "nadar", 
+        "home"
+    ], 
+    "🏋️‍♂️": [
+        "levantar pesos", 
+        "halterofilia", 
+        "persoa practicando halterofilia"
+    ], 
+    "🏌️‍♂️": [
+        "golf", 
+        "golfista", 
+        "pelota"
+    ], 
+    "🏍️": [
+        "motocicleta", 
+        "carreiras", 
+        "moto"
+    ], 
+    "🏎️": [
+        "coche", 
+        "coche de carreiras", 
+        "carreiras"
     ], 
     "🏏": [
         "bate", 
@@ -2541,6 +3464,72 @@
         "pimpón", 
         "ping-pong", 
         "tenis de mesa"
+    ], 
+    "🏔️": [
+        "neve", 
+        "inverno", 
+        "montaña", 
+        "montañas nevadas", 
+        "frío"
+    ], 
+    "🏕️": [
+        "cámping", 
+        "campismo"
+    ], 
+    "🏖️": [
+        "praia", 
+        "verán", 
+        "vacacións", 
+        "parasol", 
+        "praia e parasol"
+    ], 
+    "🏗️": [
+        "guindastre", 
+        "edificio", 
+        "construción"
+    ], 
+    "🏘️": [
+        "cidade", 
+        "vivendas", 
+        "chalés", 
+        "casas", 
+        "urbanización"
+    ], 
+    "🏙️": [
+        "cidade", 
+        "edificios", 
+        "paisaxe urbana"
+    ], 
+    "🏚️": [
+        "en ruínas", 
+        "deshabitada", 
+        "abandonada", 
+        "casa", 
+        "casa abandonada"
+    ], 
+    "🏛️": [
+        "edificio", 
+        "clásico", 
+        "monumento", 
+        "Grecia"
+    ], 
+    "🏜️": [
+        "deserto"
+    ], 
+    "🏝️": [
+        "illa deserta", 
+        "illa", 
+        "deserta"
+    ], 
+    "🏞️": [
+        "parque", 
+        "parque nacional"
+    ], 
+    "🏟️": [
+        "partido", 
+        "estadio", 
+        "competición", 
+        "deporte"
     ], 
     "🏠": [
         "chalé", 
@@ -2642,6 +3631,18 @@
         "construción", 
         "castelo"
     ], 
+    "🏳️": [
+        "ondear", 
+        "bandeira branca ondeando", 
+        "bandeira", 
+        "branca"
+    ], 
+    "🏳️‍🌈": [
+        "arco da vella", 
+        "bandeira do arco da vella", 
+        "bandeira", 
+        "multicolor"
+    ], 
     "🏴": [
         "bandeira negra ondeando", 
         "negra", 
@@ -2659,6 +3660,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Gales", 
         "bandeira"
+    ], 
+    "🏵️": [
+        "flor", 
+        "roseta"
+    ], 
+    "🏷️": [
+        "etiqueta"
     ], 
     "🏸": [
         "volante", 
@@ -3005,14 +4013,40 @@
         "pegadas de patas", 
         "pegada"
     ], 
+    "🐿️": [
+        "esquío"
+    ], 
     "👀": [
         "ollos"
     ], 
+    "👁️": [
+        "ollo"
+    ], 
     "👂": [
-        "orella"
+        "orella: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "orella", 
+        "orella: ton de pel escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "orella: ton de pel moi claro", 
+        "orella: ton de pel claro", 
+        "orella: ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
     "👃": [
-        "nariz"
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "nariz: ton de pel medio", 
+        "nariz: ton de pel claro", 
+        "nariz: ton de pel escuro", 
+        "nariz: ton de pel moi claro", 
+        "nariz", 
+        "nariz: ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
     "👄": [
         "labios", 
@@ -3023,72 +4057,182 @@
         "lingua"
     ], 
     "👆": [
+        "dedo índice apuntando cara arriba: ton de pel moi escuro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
         "índice", 
+        "ton de pel moi claro", 
+        "dedo índice apuntando cara arriba: ton de pel medio", 
+        "dedo índice apuntando cara arriba: ton de pel escuro", 
         "arriba", 
-        "man", 
-        "dedo índice apuntando cara arriba"
+        "dedo índice apuntando cara arriba: ton de pel claro", 
+        "dedo índice apuntando cara arriba", 
+        "ton de pel moi escuro", 
+        "dedo índice apuntando cara arriba: ton de pel moi claro", 
+        "man"
     ], 
     "👇": [
-        "dedo apuntando cara abaixo", 
-        "dedo", 
+        "dedo apuntando cara abaixo: ton de pel moi claro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
         "abaixo", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "dedo apuntando cara abaixo: ton de pel escuro", 
+        "ton de pel medio", 
+        "dedo apuntando cara abaixo: ton de pel medio", 
+        "dedo apuntando cara abaixo: ton de pel moi escuro", 
+        "dedo", 
+        "dedo apuntando cara abaixo", 
+        "dedo apuntando cara abaixo: ton de pel claro", 
         "man"
     ], 
     "👈": [
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
         "índice", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "índice apuntando á esquerda: ton de pel escuro", 
         "índice apuntando á esquerda", 
-        "esquerda", 
+        "índice apuntando á esquerda: ton de pel claro", 
         "dedo", 
+        "índice apuntando á esquerda: ton de pel medio", 
+        "índice apuntando á esquerda: ton de pel moi escuro", 
+        "índice apuntando á esquerda: ton de pel moi claro", 
+        "esquerda", 
         "man"
     ], 
     "👉": [
-        "índice", 
+        "índice apuntando á dereita: ton de pel escuro", 
         "dereita", 
+        "ton de pel escuro", 
+        "índice apuntando á dereita: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "índice", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "índice apuntando á dereita", 
+        "índice apuntando á dereita: ton de pel moi claro", 
+        "índice apuntando á dereita: ton de pel moi escuro", 
         "dedo", 
+        "índice apuntando á dereita: ton de pel medio", 
         "man"
     ], 
     "👊": [
+        "puñada: ton de pel escuro", 
         "golpe", 
+        "ton de pel claro", 
+        "puñada: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "puñada: ton de pel claro", 
+        "ton de pel escuro", 
+        "puño", 
+        "puñada: ton de pel moi escuro", 
         "puñada", 
-        "puño"
+        "puñada: ton de pel medio", 
+        "ton de pel medio"
     ], 
     "👋": [
-        "saudar", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
         "man saudando", 
+        "man saudando: ton de pel escuro", 
+        "man saudando: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "man saudando: ton de pel medio", 
         "saúdo", 
+        "man saudando: ton de pel claro", 
+        "man saudando: ton de pel moi escuro", 
+        "saudar", 
+        "ton de pel medio", 
         "man"
     ], 
     "👌": [
-        "perfecto", 
+        "ton de pel escuro", 
+        "xesto de “OK”: ton de pel medio", 
         "OK", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "xesto de “OK”: ton de pel moi claro", 
+        "xesto de “OK”: ton de pel moi escuro", 
+        "perfecto", 
         "xesto de “OK”", 
+        "ton de pel claro", 
+        "xesto de “OK”: ton de pel escuro", 
+        "xesto de “OK”: ton de pel claro", 
         "man"
     ], 
     "👍": [
-        "gústame", 
-        "+1", 
+        "ton de pel escuro", 
         "polgar", 
-        "polgar cara arriba", 
-        "man"
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "polgar cara arriba: ton de pel medio", 
+        "polgar cara arriba: ton de pel moi escuro", 
+        "polgar cara arriba: ton de pel escuro", 
+        "+1", 
+        "polgar cara arriba: ton de pel claro", 
+        "gústame", 
+        "man", 
+        "ton de pel moi escuro", 
+        "polgar cara arriba: ton de pel moi claro", 
+        "polgar cara arriba"
     ], 
     "👎": [
+        "polgar cara abaixo: ton de pel claro", 
         "polgar", 
-        "polgar cara abaixo", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "polgar cara abaixo: ton de pel medio", 
         "non me gusta", 
+        "ton de pel escuro", 
+        "polgar cara abaixo: ton de pel escuro", 
         "-1", 
+        "polgar cara abaixo", 
+        "polgar cara abaixo: ton de pel moi claro", 
+        "polgar cara abaixo: ton de pel moi escuro", 
+        "ton de pel moi escuro", 
         "man"
     ], 
     "👏": [
-        "aplauso", 
+        "ton de pel escuro", 
         "mans", 
+        "mans aplaudindo: ton de pel moi claro", 
+        "mans aplaudindo", 
+        "ton de pel moi claro", 
+        "mans aplaudindo: ton de pel escuro", 
         "aplaudir", 
-        "mans aplaudindo"
+        "aplauso", 
+        "mans aplaudindo: ton de pel moi escuro", 
+        "mans aplaudindo: ton de pel claro", 
+        "mans aplaudindo: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel moi escuro", 
+        "ton de pel medio"
     ], 
     "👐": [
+        "mans abertas: ton de pel moi claro", 
         "abertas", 
-        "mans abertas", 
-        "mans"
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "mans abertas: ton de pel escuro", 
+        "mans abertas: ton de pel moi escuro", 
+        "mans abertas: ton de pel medio", 
+        "mans", 
+        "ton de pel escuro", 
+        "mans abertas: ton de pel claro", 
+        "mans abertas"
     ], 
     "👑": [
         "coroa", 
@@ -3192,63 +4336,196 @@
     ], 
     "👦": [
         "neno", 
-        "rapaz"
+        "ton de pel claro", 
+        "rapaz", 
+        "ton de pel moi claro", 
+        "neno: ton de pel claro", 
+        "neno: ton de pel escuro", 
+        "neno: ton de pel moi escuro", 
+        "neno: ton de pel moi claro", 
+        "ton de pel escuro", 
+        "neno: ton de pel medio", 
+        "ton de pel moi escuro", 
+        "ton de pel medio"
     ], 
     "👧": [
-        "Virgo", 
-        "zodíaco", 
+        "nena: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "rapaza", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "nena", 
-        "rapaza"
+        "nena: ton de pel moi escuro", 
+        "Virgo", 
+        "nena: ton de pel escuro", 
+        "zodíaco", 
+        "nena: ton de pel moi claro", 
+        "nena: ton de pel medio", 
+        "ton de pel escuro"
     ], 
     "👨": [
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "home: ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "home: ton de pel escuro", 
+        "home: ton de pel claro", 
+        "home", 
+        "home: ton de pel moi claro", 
+        "home: ton de pel moi escuro", 
+        "ton de pel escuro"
+    ], 
+    "👨‍⚕️": [
+        "home", 
+        "enfermeiro", 
+        "traballador sanitario", 
+        "médico"
+    ], 
+    "👨‍⚖️": [
+        "balanza", 
+        "home", 
+        "xuíz", 
+        "xustiza"
+    ], 
+    "👨‍✈️": [
+        "avión", 
+        "home", 
+        "piloto de sexo masculino", 
+        "piloto"
+    ], 
+    "👨‍❤️‍👨": [
+        "parella cun corazón: home, home", 
+        "parella", 
+        "corazón", 
+        "parella cun corazón", 
+        "home", 
+        "namorados"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "parella bicándose", 
+        "bico", 
+        "parella bicándose: home, home", 
+        "parella", 
         "home"
     ], 
     "👨‍🌾": [
-        "granxeiro", 
+        "agricultor: ton de pel claro", 
+        "agricultor: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "gando", 
         "agricultor", 
         "cultivo", 
-        "gando", 
-        "home"
+        "agricultor: ton de pel escuro", 
+        "ton de pel moi claro", 
+        "home", 
+        "agricultor: ton de pel moi claro", 
+        "granxeiro", 
+        "ton de pel moi escuro", 
+        "agricultor: ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
     "👨‍🍳": [
-        "xefe de cociña", 
-        "home", 
+        "cociñeiro: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "cociñeiro: ton de pel moi claro", 
+        "cociñeiro: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "cociñar", 
-        "cociñeiro"
+        "ton de pel escuro", 
+        "cociñeiro", 
+        "cociñeiro: ton de pel escuro", 
+        "home", 
+        "xefe de cociña", 
+        "cociñeiro: ton de pel claro"
     ], 
     "👨‍🎓": [
-        "estudante de sexo masculino", 
-        "universitario", 
-        "graduado", 
+        "ton de pel claro", 
+        "ton de pel medio", 
         "estudante", 
-        "home"
+        "home", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "estudante de sexo masculino: ton de pel medio", 
+        "estudante de sexo masculino: ton de pel escuro", 
+        "graduado", 
+        "universitario", 
+        "estudante de sexo masculino: ton de pel moi claro", 
+        "estudante de sexo masculino", 
+        "estudante de sexo masculino: ton de pel moi escuro", 
+        "estudante de sexo masculino: ton de pel claro", 
+        "ton de pel escuro"
     ], 
     "👨‍🎤": [
-        "home", 
-        "rock", 
+        "cantante de sexo masculino: ton de pel claro", 
+        "cantante de sexo masculino: ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "cantante de sexo masculino: ton de pel moi claro", 
+        "cantante de sexo masculino", 
         "cantante", 
+        "cantante de sexo masculino: ton de pel moi escuro", 
+        "cantante de sexo masculino: ton de pel medio", 
         "actor", 
-        "cantante de sexo masculino"
+        "rock", 
+        "home", 
+        "ton de pel escuro"
     ], 
     "👨‍🎨": [
-        "home", 
-        "paleta", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
         "artista", 
-        "pintor"
+        "pintor: ton de pel medio", 
+        "pintor: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "pintor", 
+        "pintor: ton de pel moi claro", 
+        "paleta", 
+        "home", 
+        "pintor: ton de pel escuro", 
+        "pintor: ton de pel claro", 
+        "ton de pel medio"
     ], 
     "👨‍🏫": [
-        "escola", 
-        "profesor", 
+        "profesor: ton de pel escuro", 
+        "ton de pel escuro", 
         "instrutor", 
+        "ton de pel claro", 
         "monitor", 
-        "home"
+        "profesor: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "profesor: ton de pel medio", 
+        "escola", 
+        "profesor: ton de pel moi escuro", 
+        "home", 
+        "profesor", 
+        "profesor: ton de pel claro", 
+        "ton de pel medio"
     ], 
     "👨‍🏭": [
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "operario", 
+        "traballador", 
+        "operario: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "operario: ton de pel escuro", 
+        "operario: ton de pel medio", 
+        "fábrica", 
         "home", 
         "obreiro", 
-        "traballador", 
-        "operario", 
-        "fábrica"
+        "ton de pel medio", 
+        "operario: ton de pel moi escuro", 
+        "operario: ton de pel claro"
     ], 
     "👨‍👦": [
         "neno", 
@@ -3385,89 +4662,279 @@
         "muller"
     ], 
     "👨‍💻": [
+        "ton de pel escuro", 
+        "informático: ton de pel moi escuro", 
+        "ton de pel claro", 
+        "informático: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "informático: ton de pel medio", 
+        "informático: ton de pel escuro", 
+        "informático: ton de pel claro", 
         "informático", 
         "home", 
         "programador", 
+        "ton de pel medio", 
         "software"
     ], 
     "👨‍💼": [
+        "administrativo: ton de pel moi escuro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "administrativo: ton de pel claro", 
+        "administrativo: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "administrativo: ton de pel medio", 
+        "administrativo", 
+        "administrativo: ton de pel escuro", 
         "home", 
         "empregado", 
         "oficinista", 
-        "administrativo"
+        "ton de pel medio"
     ], 
     "👨‍🔧": [
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "mecánico: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "mecánico: ton de pel escuro", 
+        "mecánico: ton de pel claro", 
         "electricista", 
+        "mecánico", 
+        "mecánico: ton de pel medio", 
         "home", 
         "fontaneiro", 
-        "mecánico"
+        "mecánico: ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
     "👨‍🔬": [
-        "home", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "científico", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "científico: ton de pel moi claro", 
+        "científico: ton de pel moi escuro", 
         "químico", 
+        "científico: ton de pel claro", 
+        "científico: ton de pel medio", 
+        "home", 
+        "científico: ton de pel escuro", 
         "biólogo", 
-        "científico"
+        "ton de pel medio"
     ], 
     "👨‍🚀": [
-        "foguete", 
-        "astronauta de sexo masculino", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "astronauta de sexo masculino: ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "astronauta", 
+        "astronauta de sexo masculino: ton de pel escuro", 
+        "astronauta de sexo masculino: ton de pel claro", 
+        "astronauta de sexo masculino: ton de pel moi claro", 
+        "home", 
+        "astronauta de sexo masculino", 
+        "foguete", 
+        "astronauta de sexo masculino: ton de pel moi escuro", 
         "espazo", 
-        "home"
+        "ton de pel escuro"
     ], 
     "👨‍🚒": [
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "bombeiro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "home", 
-        "bombeiro"
+        "bombeiro: ton de pel moi claro", 
+        "bombeiro: ton de pel moi escuro", 
+        "bombeiro: ton de pel escuro", 
+        "bombeiro: ton de pel medio", 
+        "bombeiro: ton de pel claro"
     ], 
     "👩": [
+        "muller: ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "muller: ton de pel claro", 
+        "muller: ton de pel moi escuro", 
+        "muller: ton de pel moi claro", 
+        "muller: ton de pel medio", 
+        "muller", 
+        "ton de pel escuro"
+    ], 
+    "👩‍⚕️": [
+        "traballadora sanitaria", 
+        "enfermeira", 
+        "muller", 
+        "médica"
+    ], 
+    "👩‍⚖️": [
+        "balanza", 
+        "xuíza", 
+        "muller", 
+        "xustiza"
+    ], 
+    "👩‍✈️": [
+        "avión", 
+        "piloto de sexo feminino", 
+        "muller", 
+        "piloto"
+    ], 
+    "👩‍❤️‍👨": [
+        "parella", 
+        "parella cun corazón: muller, home", 
+        "corazón", 
+        "parella cun corazón", 
+        "home", 
+        "namorados", 
+        "muller"
+    ], 
+    "👩‍❤️‍👩": [
+        "parella", 
+        "corazón", 
+        "parella cun corazón", 
+        "parella cun corazón: muller, muller", 
+        "namorados", 
+        "muller"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "parella bicándose", 
+        "bico", 
+        "parella", 
+        "parella bicándose: muller, home", 
+        "home", 
+        "muller"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "parella bicándose", 
+        "bico", 
+        "parella bicándose: muller, muller", 
+        "parella", 
         "muller"
     ], 
     "👩‍🌾": [
+        "agricultora: ton de pel moi escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "agricultora: ton de pel medio", 
+        "ton de pel moi claro", 
         "agricultora", 
         "cultivo", 
-        "gando", 
+        "agricultora: ton de pel claro", 
+        "agricultora: ton de pel escuro", 
         "granxeira", 
-        "muller"
+        "agricultora: ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "gando", 
+        "muller", 
+        "ton de pel escuro"
     ], 
     "👩‍🍳": [
-        "cociñeira", 
+        "cociñeira: ton de pel moi claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "cociñeira: ton de pel claro", 
+        "xefa de cociña", 
+        "cociñeira: ton de pel medio", 
+        "cociñeira: ton de pel moi escuro", 
         "cociñar", 
+        "cociñeira: ton de pel escuro", 
+        "cociñeira", 
         "muller", 
-        "xefa de cociña"
+        "ton de pel escuro"
     ], 
     "👩‍🎓": [
+        "estudante de sexo feminino: ton de pel medio", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "estudante de sexo feminino: ton de pel moi claro", 
+        "estudante", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "estudante de sexo feminino: ton de pel claro", 
+        "estudante de sexo feminino: ton de pel escuro", 
         "universitaria", 
+        "estudante de sexo feminino: ton de pel moi escuro", 
         "graduada", 
         "estudante de sexo feminino", 
         "muller", 
-        "estudante"
+        "ton de pel medio"
     ], 
     "👩‍🎤": [
-        "cantante de sexo feminino", 
-        "rock", 
-        "actriz", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "cantante de sexo feminino: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "cantante de sexo feminino: ton de pel escuro", 
         "cantante", 
-        "muller"
+        "cantante de sexo feminino", 
+        "cantante de sexo feminino: ton de pel moi escuro", 
+        "actriz", 
+        "rock", 
+        "cantante de sexo feminino: ton de pel medio", 
+        "cantante de sexo feminino: ton de pel claro", 
+        "muller", 
+        "ton de pel medio"
     ], 
     "👩‍🎨": [
-        "paleta", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
         "artista", 
+        "pintora: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "paleta", 
+        "pintora: ton de pel moi escuro", 
+        "pintora: ton de pel claro", 
+        "pintora: ton de pel medio", 
+        "pintora: ton de pel escuro", 
+        "muller", 
         "pintora", 
-        "muller"
+        "ton de pel medio"
     ], 
     "👩‍🏫": [
+        "profesora: ton de pel moi claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "monitora", 
         "escola", 
-        "muller", 
+        "profesora: ton de pel medio", 
         "instrutora", 
+        "profesora: ton de pel claro", 
+        "profesora: ton de pel escuro", 
+        "profesora: ton de pel moi escuro", 
+        "muller", 
         "profesora", 
-        "monitora"
+        "ton de pel escuro"
     ], 
     "👩‍🏭": [
-        "obreira", 
+        "operaria: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "operaria: ton de pel medio", 
         "traballadora", 
+        "ton de pel moi escuro", 
         "operaria", 
+        "operaria: ton de pel moi claro", 
+        "obreira", 
+        "ton de pel moi claro", 
+        "operaria: ton de pel escuro", 
+        "fábrica", 
+        "operaria: ton de pel moi escuro", 
         "muller", 
-        "fábrica"
+        "ton de pel escuro"
     ], 
     "👩‍👦": [
         "neno", 
@@ -3556,45 +5023,99 @@
         "muller"
     ], 
     "👩‍💻": [
-        "software", 
-        "muller", 
+        "informática: ton de pel moi escuro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "informática: ton de pel claro", 
+        "informática: ton de pel escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "programadora", 
+        "informática: ton de pel moi claro", 
+        "ton de pel medio", 
         "informática", 
-        "programadora"
+        "informática: ton de pel medio", 
+        "muller", 
+        "software"
     ], 
     "👩‍💼": [
+        "administrativa: ton de pel moi claro", 
+        "administrativa: ton de pel moi escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "administrativa: ton de pel claro", 
+        "administrativa: ton de pel escuro", 
+        "muller", 
+        "administrativa: ton de pel medio", 
+        "empregada", 
         "administrativa", 
         "oficinista", 
-        "empregada", 
-        "muller"
+        "ton de pel escuro"
     ], 
     "👩‍🔧": [
+        "mecánica: ton de pel escuro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "mecánica: ton de pel medio", 
+        "mecánica: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "electricista", 
-        "muller", 
         "fontaneira", 
+        "mecánica: ton de pel claro", 
+        "mecánica: ton de pel moi claro", 
+        "muller", 
         "mecánica"
     ], 
     "👩‍🔬": [
-        "bióloga", 
+        "científica: ton de pel escuro", 
+        "científica: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "científica", 
+        "bióloga", 
+        "científica: ton de pel medio", 
+        "científica: ton de pel moi claro", 
+        "científica: ton de pel moi escuro", 
         "química", 
-        "muller"
+        "muller", 
+        "ton de pel escuro"
     ], 
     "👩‍🚀": [
-        "foguete", 
         "astronauta de sexo feminino", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "astronauta de sexo feminino: ton de pel escuro", 
         "astronauta", 
+        "astronauta de sexo feminino: ton de pel claro", 
+        "astronauta de sexo feminino: ton de pel moi claro", 
+        "astronauta de sexo feminino: ton de pel medio", 
+        "ton de pel moi claro", 
+        "astronauta de sexo feminino: ton de pel moi escuro", 
+        "ton de pel moi escuro", 
+        "foguete", 
         "muller", 
-        "espazo"
+        "espazo", 
+        "ton de pel escuro"
     ], 
     "👩‍🚒": [
+        "bombeira: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel medio", 
         "bombeira", 
-        "muller"
-    ], 
-    "👪": [
-        "pai", 
-        "neno", 
-        "nai", 
-        "familia"
+        "bombeira: ton de pel escuro", 
+        "bombeira: ton de pel moi claro", 
+        "bombeira: ton de pel moi escuro", 
+        "bombeira: ton de pel claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "muller", 
+        "ton de pel escuro"
     ], 
     "👫": [
         "home", 
@@ -3616,61 +5137,161 @@
         "parella", 
         "man"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "policía", 
+        "policía de sexo feminino", 
+        "axente", 
+        "poli", 
+        "muller"
+    ], 
+    "👮‍♂️": [
+        "home", 
         "policía", 
         "axente", 
-        "poli"
+        "poli", 
+        "policía de sexo masculino"
     ], 
-    "👯": [
+    "👯‍♀️": [
         "xente de festa", 
+        "mulleres", 
+        "mulleres de festa", 
+        "festa", 
+        "bailar"
+    ], 
+    "👯‍♂️": [
+        "homes", 
+        "despedida de solteiro", 
+        "homes de festa", 
         "festa", 
         "bailar"
     ], 
     "👰": [
-        "noiva", 
-        "veo", 
         "casamento", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "noiva", 
+        "ton de pel moi claro", 
+        "noiva con veo: ton de pel claro", 
+        "noiva con veo: ton de pel escuro", 
         "voda", 
-        "noiva con veo"
+        "noiva con veo: ton de pel medio", 
+        "noiva con veo: ton de pel moi escuro", 
+        "noiva con veo", 
+        "noiva con veo: ton de pel moi claro", 
+        "veo", 
+        "ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "loira", 
+        "muller loura", 
+        "muller", 
+        "loura"
+    ], 
+    "👱‍♂️": [
         "louro", 
+        "home", 
         "persoa loira", 
-        "loiro"
+        "loiro", 
+        "home louro"
     ], 
     "👲": [
+        "home con gorro chinés: ton de pel claro", 
+        "chinés", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "home con gorro chinés: ton de pel medio", 
+        "home con gorro chinés", 
+        "ton de pel claro", 
+        "home con gorro chinés: ton de pel escuro", 
+        "home con gorro chinés: ton de pel moi claro", 
         "gorro", 
         "home", 
-        "chinés", 
-        "home con gorro chinés"
+        "home con gorro chinés: ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
-    "👳": [
+    "👳‍♀️": [
         "turbante", 
-        "persoa con turbante"
+        "muller con turbante", 
+        "muller"
+    ], 
+    "👳‍♂️": [
+        "turbante", 
+        "home con turbante", 
+        "persoa con turbante", 
+        "home"
     ], 
     "👴": [
-        "home", 
+        "vello: ton de pel escuro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
         "ancián", 
+        "ton de pel moi claro", 
+        "vello: ton de pel moi claro", 
+        "vello: ton de pel moi escuro", 
+        "home", 
+        "vello: ton de pel claro", 
+        "ton de pel moi escuro", 
+        "vello: ton de pel medio", 
         "vello"
     ], 
     "👵": [
-        "vella", 
+        "vella: ton de pel escuro", 
         "anciá", 
-        "muller"
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "vella: ton de pel claro", 
+        "vella", 
+        "vella: ton de pel moi escuro", 
+        "vella: ton de pel medio", 
+        "vella: ton de pel moi claro", 
+        "muller", 
+        "ton de pel escuro"
     ], 
     "👶": [
-        "bebé"
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "bebé", 
+        "bebé: ton de pel claro", 
+        "bebé: ton de pel medio", 
+        "bebé: ton de pel moi escuro", 
+        "bebé: ton de pel escuro", 
+        "ton de pel moi escuro", 
+        "bebé: ton de pel moi claro"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "traballadora", 
+        "muller", 
+        "construción", 
+        "obreira"
+    ], 
+    "👷‍♂️": [
+        "home", 
         "obreiro", 
         "traballador da construción", 
         "construción", 
         "traballador"
     ], 
     "👸": [
-        "fantasía", 
         "conto de fadas", 
-        "princesa"
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "princesa: ton de pel claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "princesa: ton de pel medio", 
+        "princesa", 
+        "princesa: ton de pel moi claro", 
+        "fantasía", 
+        "princesa: ton de pel moi escuro", 
+        "princesa: ton de pel escuro", 
+        "ton de pel escuro"
     ], 
     "👹": [
         "xaponés", 
@@ -3690,9 +5311,19 @@
         "pantasma"
     ], 
     "👼": [
+        "anxiño: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "anxiño: ton de pel moi escuro", 
+        "ton de pel moi claro", 
         "bebé", 
         "anxiño", 
-        "anxo"
+        "anxiño: ton de pel medio", 
+        "anxiño: ton de pel escuro", 
+        "anxiño: ton de pel moi claro", 
+        "anxo", 
+        "ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
     "👽": [
         "extraterrestre", 
@@ -3716,22 +5347,51 @@
         "caveira", 
         "morte"
     ], 
-    "💁": [
-        "información", 
-        "axuda", 
-        "asistencia", 
+    "💁‍♀️": [
         "ofrecer axuda", 
-        "persoa de mostrador de recepción"
+        "empregada de mostrador de recepción", 
+        "asistencia", 
+        "muller ofrecendo axuda", 
+        "información", 
+        "persoa de mostrador de recepción", 
+        "axuda", 
+        "muller"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "home ofrecendo axuda", 
+        "asistencia", 
+        "empregado de mostrador de recepción", 
+        "información", 
+        "home", 
+        "axuda"
+    ], 
+    "💂‍♀️": [
         "real", 
+        "garda real de sexo feminino", 
+        "muller", 
+        "garda"
+    ], 
+    "💂‍♂️": [
+        "real", 
+        "home", 
+        "garda real de sexo masculino", 
         "garda", 
         "garda real"
     ], 
     "💃": [
         "bailarina", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "bailarina: ton de pel escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "bailarina: ton de pel claro", 
+        "bailar", 
+        "bailarina: ton de pel moi claro", 
+        "bailarina: ton de pel medio", 
+        "bailarina: ton de pel moi escuro", 
         "muller", 
-        "bailar"
+        "ton de pel escuro"
     ], 
     "💄": [
         "barra", 
@@ -3741,21 +5401,49 @@
         "lapis de labios"
     ], 
     "💅": [
-        "pintar as uñas", 
-        "manicura", 
-        "uñas", 
+        "pintar as uñas: ton de pel escuro", 
         "esmalte", 
-        "cosmético"
+        "ton de pel medio", 
+        "pintar as uñas: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "pintar as uñas", 
+        "cosmético", 
+        "pintar as uñas: ton de pel claro", 
+        "manicura", 
+        "pintar as uñas: ton de pel moi claro", 
+        "ton de pel claro", 
+        "uñas", 
+        "pintar as uñas: ton de pel medio", 
+        "ton de pel escuro"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "masaxe facial a muller", 
         "masaxe facial", 
-        "masaxe", 
         "salón de beleza", 
+        "masaxe", 
+        "muller", 
         "relaxarse"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "home", 
+        "salón de beleza", 
+        "masaxe facial a home", 
+        "relaxarse", 
+        "masaxe"
+    ], 
+    "💇‍♀️": [
         "salón de peiteado", 
         "beleza", 
+        "muller cortando o pelo", 
+        "corte de pelo", 
+        "muller"
+    ], 
+    "💇‍♂️": [
+        "home", 
+        "salón de peiteado", 
+        "beleza", 
+        "home cortando o pelo", 
         "corte de pelo"
     ], 
     "💈": [
@@ -3804,21 +5492,10 @@
         "diamante", 
         "xema"
     ], 
-    "💏": [
-        "parella bicándose", 
-        "bico", 
-        "parella"
-    ], 
     "💐": [
         "flores", 
         "ramo de flores", 
         "ramo"
-    ], 
-    "💑": [
-        "parella cun corazón", 
-        "namorados", 
-        "parella", 
-        "corazón"
     ], 
     "💒": [
         "igrexa", 
@@ -3960,10 +5637,20 @@
         "caca"
     ], 
     "💪": [
-        "forte", 
-        "forza", 
+        "bíceps: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "bíceps: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "músculo", 
-        "bíceps"
+        "forte", 
+        "bíceps: ton de pel escuro", 
+        "bíceps: ton de pel moi escuro", 
+        "bíceps: ton de pel claro", 
+        "forza", 
+        "bíceps", 
+        "ton de pel escuro"
     ], 
     "💫": [
         "cómic", 
@@ -4431,6 +6118,14 @@
         "cinta", 
         "videocasete"
     ], 
+    "📽️": [
+        "vídeo", 
+        "cine", 
+        "filme", 
+        "película", 
+        "proxector cinematográfico", 
+        "proxector"
+    ], 
     "📿": [
         "rosario", 
         "relixión", 
@@ -4816,6 +6511,18 @@
         "botón de ir abaixo", 
         "abaixo"
     ], 
+    "🕉️": [
+        "hinduísmo", 
+        "om", 
+        "relixión", 
+        "símbolo de om"
+    ], 
+    "🕊️": [
+        "ave", 
+        "paz", 
+        "voar", 
+        "pomba"
+    ], 
     "🕋": [
         "Kaaba", 
         "musulmán", 
@@ -5012,23 +6719,130 @@
         "doce e media", 
         "e media"
     ], 
-    "🕺": [
-        "bailarín", 
+    "🕯️": [
+        "candea", 
+        "luz", 
+        "iluminar", 
+        "cera"
+    ], 
+    "🕰️": [
+        "reloxo", 
+        "reloxo de repisa"
+    ], 
+    "🕳️": [
+        "buraco", 
+        "burato"
+    ], 
+    "🕴️": [
         "home", 
-        "bailar"
+        "negocios", 
+        "traxe", 
+        "home de negocios"
+    ], 
+    "🕵️‍♂️": [
+        "detective", 
+        "sabuxo", 
+        "espía"
+    ], 
+    "🕶️": [
+        "anteollos", 
+        "lentes", 
+        "sol", 
+        "lentes de sol"
+    ], 
+    "🕷️": [
+        "araña"
+    ], 
+    "🕸️": [
+        "arañeira", 
+        "araña", 
+        "tea de araña"
+    ], 
+    "🕹️": [
+        "consola", 
+        "videoxogo", 
+        "panca de mando", 
+        "xogo"
+    ], 
+    "🕺": [
+        "bailarín: ton de pel medio", 
+        "bailarín: ton de pel moi escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "bailarín", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "bailarín: ton de pel moi claro", 
+        "bailar", 
+        "bailarín: ton de pel claro", 
+        "bailarín: ton de pel escuro", 
+        "home", 
+        "ton de pel escuro"
+    ], 
+    "🖇️": [
+        "clips", 
+        "enganchar", 
+        "clips enganchados", 
+        "unidos"
+    ], 
+    "🖊️": [
+        "boli", 
+        "escribir", 
+        "bolígrafo"
+    ], 
+    "🖋️": [
+        "escribir", 
+        "estilográfica", 
+        "pluma", 
+        "pluma estilográfica"
+    ], 
+    "🖌️": [
+        "pincel", 
+        "pintar"
+    ], 
+    "🖍️": [
+        "lapis de cor", 
+        "cores", 
+        "pintar", 
+        "colorear"
+    ], 
+    "🖐️": [
+        "aberta", 
+        "man aberta", 
+        "man"
     ], 
     "🖕": [
-        "dedo do medio levantado", 
+        "ton de pel escuro", 
+        "dedo do medio levantado: ton de pel moi claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "dedo do medio levantado: ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "dedo do medio levantado: ton de pel escuro", 
         "insulto", 
-        "ofensivo", 
         "dedo", 
+        "dedo do medio levantado: ton de pel moi escuro", 
+        "dedo do medio levantado", 
+        "ofensivo", 
+        "dedo do medio levantado: ton de pel claro", 
         "man"
     ], 
     "🖖": [
-        "Spock", 
-        "saúdo vulcaniano", 
+        "saúdo vulcaniano: ton de pel moi escuro", 
+        "ton de pel escuro", 
+        "saúdo vulcaniano: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "saúdo vulcaniano: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "saúdo vulcaniano: ton de pel escuro", 
         "Star Trek", 
+        "Spock", 
         "saúdo", 
+        "saúdo vulcaniano: ton de pel medio", 
+        "saúdo vulcaniano", 
         "man"
     ], 
     "🖤": [
@@ -5037,6 +6851,127 @@
         "maldade", 
         "negro", 
         "corazón"
+    ], 
+    "🖥️": [
+        "escritorio", 
+        "ordenador de escritorio", 
+        "ordenador"
+    ], 
+    "🖨️": [
+        "ordenador", 
+        "impresora", 
+        "imprimir"
+    ], 
+    "🖱️": [
+        "rato", 
+        "ordenador", 
+        "rato de ordenador"
+    ], 
+    "🖲️": [
+        "rato", 
+        "ordenador", 
+        "rato de bola"
+    ], 
+    "🖼️": [
+        "cadro", 
+        "pintura", 
+        "marco", 
+        "exposición", 
+        "museo"
+    ], 
+    "🗂️": [
+        "separador", 
+        "cartafoles", 
+        "ficheiro", 
+        "separadores de fichas", 
+        "arquivador", 
+        "documentos"
+    ], 
+    "🗃️": [
+        "arquivar", 
+        "caixa", 
+        "caixa de arquivo", 
+        "ficheiro", 
+        "arquivo", 
+        "documentos"
+    ], 
+    "🗄️": [
+        "caixóns", 
+        "escritorio", 
+        "arquivador", 
+        "oficina", 
+        "arquivo", 
+        "documentos"
+    ], 
+    "🗑️": [
+        "papeleira"
+    ], 
+    "🗒️": [
+        "espiral", 
+        "escribir", 
+        "caderno de espiral", 
+        "caderno"
+    ], 
+    "🗓️": [
+        "calendario", 
+        "calendario de espiral", 
+        "data"
+    ], 
+    "🗜️": [
+        "ferramenta", 
+        "compresión", 
+        "ferramenta de compresión"
+    ], 
+    "🗝️": [
+        "chave", 
+        "antiga", 
+        "chave antiga"
+    ], 
+    "🗞️": [
+        "noticias", 
+        "xornal enrolado", 
+        "diario", 
+        "enrolado", 
+        "artigos"
+    ], 
+    "🗡️": [
+        "puñal", 
+        "daga", 
+        "arma"
+    ], 
+    "🗣️": [
+        "silueta de persoa falando", 
+        "cara", 
+        "silueta", 
+        "falar", 
+        "cabeza"
+    ], 
+    "🗨️": [
+        "cómic", 
+        "diálogo", 
+        "globo", 
+        "globo de diálogo á dereita", 
+        "falar"
+    ], 
+    "🗯️": [
+        "cómic", 
+        "diálogo", 
+        "globo", 
+        "berrar", 
+        "globo de diálogo enfadado"
+    ], 
+    "🗳️": [
+        "papeleta", 
+        "eleccións", 
+        "urna electoral con voto", 
+        "voto", 
+        "urna"
+    ], 
+    "🗺️": [
+        "mapa", 
+        "mapa do mundo", 
+        "mapamundi", 
+        "mundo"
     ], 
     "🗻": [
         "monte", 
@@ -5507,23 +7442,50 @@
         "cara", 
         "cara cos ollos en branco"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
+        "muller facendo xesto de prohibición", 
+        "persoa facendo xesto de prohibición", 
         "xesto de prohibición", 
         "xesto", 
-        "persoa facendo xesto de prohibición", 
-        "prohibición"
+        "prohibición", 
+        "muller"
     ], 
-    "🙆": [
-        "mans na cabeza", 
-        "xesto", 
+    "🙅‍♂️": [
+        "home", 
+        "home facendo xesto de prohibición", 
+        "prohibición", 
+        "xesto"
+    ], 
+    "🙆‍♀️": [
+        "muller facendo xesto de “OK”", 
         "hurra", 
         "aprobación", 
-        "persoa facendo xesto de “OK”"
+        "mans na cabeza", 
+        "xesto", 
+        "persoa facendo xesto de “OK”", 
+        "home"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "hurra", 
+        "mans na cabeza", 
+        "aprobación", 
+        "xesto", 
+        "home", 
+        "home facendo xesto de “OK”"
+    ], 
+    "🙇‍♀️": [
         "desculpas", 
         "reverencia", 
-        "xesto"
+        "xesto", 
+        "muller", 
+        "muller facendo unha reverencia"
+    ], 
+    "🙇‍♂️": [
+        "home facendo unha reverencia", 
+        "desculpas", 
+        "reverencia", 
+        "xesto", 
+        "home"
     ], 
     "🙈": [
         "ollos", 
@@ -5546,37 +7508,86 @@
         "boca", 
         "tapada"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "levantar a man", 
+        "muller", 
+        "muller levantando a man", 
         "man levantada", 
         "xesto"
     ], 
-    "🙌": [
-        "chocar", 
+    "🙋‍♂️": [
+        "home", 
         "xesto", 
-        "mans", 
-        "mans levantadas", 
-        "celebración"
+        "man levantada", 
+        "home levantando a man"
     ], 
-    "🙍": [
+    "🙌": [
+        "mans levantadas: ton de pel claro", 
+        "mans", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "chocar", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "mans levantadas: ton de pel escuro", 
+        "mans levantadas: ton de pel moi escuro", 
+        "mans levantadas: ton de pel medio", 
         "xesto", 
+        "mans levantadas: ton de pel moi claro", 
+        "mans levantadas", 
+        "celebración", 
+        "ton de pel escuro"
+    ], 
+    "🙍‍♀️": [
+        "enfurruñado", 
+        "enfurruñada", 
         "persoa enfurruñada", 
+        "xesto", 
+        "cello", 
+        "muller enfurruñada", 
+        "muller"
+    ], 
+    "🙍‍♂️": [
+        "home", 
+        "xesto", 
+        "home enfurruñado", 
         "cello", 
         "enfurruñado"
     ], 
-    "🙎": [
-        "rabia", 
-        "ira", 
-        "xesto", 
+    "🙎‍♀️": [
+        "furiosa", 
         "furioso", 
-        "persoa furiosa"
+        "rabia", 
+        "persoa furiosa", 
+        "xesto", 
+        "muller furiosa", 
+        "ira", 
+        "muller"
+    ], 
+    "🙎‍♂️": [
+        "furioso", 
+        "rabia", 
+        "xesto", 
+        "ira", 
+        "home furioso", 
+        "home"
     ], 
     "🙏": [
-        "favor", 
+        "mans en oración: ton de pel escuro", 
         "mans", 
-        "mans en oración", 
+        "ton de pel claro", 
+        "ton de pel medio", 
         "por favor", 
-        "rezar"
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "mans en oración", 
+        "mans en oración: ton de pel moi escuro", 
+        "rezar", 
+        "mans en oración: ton de pel claro", 
+        "favor", 
+        "mans en oración: ton de pel medio", 
+        "mans en oración: ton de pel moi claro", 
+        "ton de pel escuro"
     ], 
     "🚀": [
         "foguete", 
@@ -5741,12 +7752,20 @@
     "🚢": [
         "barco"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "remeira", 
+        "remo", 
+        "bote", 
+        "muller", 
+        "remador"
+    ], 
+    "🚣‍♂️": [
+        "remo", 
+        "bote", 
+        "embarcación", 
         "remeiro", 
         "remador", 
-        "bote", 
-        "remo", 
-        "embarcación"
+        "home"
     ], 
     "🚤": [
         "barco", 
@@ -5838,21 +7857,49 @@
         "prohibición", 
         "bicicleta"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "muller", 
+        "muller practicando ciclismo", 
         "ciclista", 
         "ciclismo", 
         "bicicleta"
     ], 
-    "🚵": [
-        "bicicleta de montaña", 
-        "ciclista de montaña", 
-        "ciclismo"
+    "🚴‍♂️": [
+        "home", 
+        "home practicando ciclismo", 
+        "ciclista", 
+        "ciclismo", 
+        "bicicleta"
     ], 
-    "🚶": [
-        "persoa andando", 
+    "🚵‍♀️": [
+        "bicicleta de montaña", 
+        "muller practicando ciclismo de montaña", 
+        "ciclista", 
+        "ciclismo", 
+        "muller"
+    ], 
+    "🚵‍♂️": [
+        "home practicando ciclismo de montaña", 
+        "ciclista de montaña", 
+        "bicicleta de montaña", 
+        "ciclista", 
+        "ciclismo", 
+        "home"
+    ], 
+    "🚶‍♀️": [
         "camiñar", 
+        "muller andando", 
+        "muller", 
         "pasear", 
         "andar"
+    ], 
+    "🚶‍♂️": [
+        "persoa andando", 
+        "andar", 
+        "home", 
+        "home andando", 
+        "pasear", 
+        "camiñar"
     ], 
     "🚷": [
         "sinal de acceso prohibido a peóns", 
@@ -5911,9 +7958,19 @@
         "ducha"
     ], 
     "🛀": [
-        "bañarse", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "bañeira", 
+        "persoa bañándose: ton de pel escuro", 
+        "persoa bañándose: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "persoa bañándose", 
-        "bañeira"
+        "persoa bañándose: ton de pel medio", 
+        "persoa bañándose: ton de pel claro", 
+        "persoa bañándose: ton de pel moi claro", 
+        "bañarse", 
+        "ton de pel escuro"
     ], 
     "🛁": [
         "baño", 
@@ -5942,8 +7999,42 @@
         "maletas", 
         "sinal de consigna"
     ], 
+    "🛋️": [
+        "sofá", 
+        "hotel", 
+        "lámpada", 
+        "sofá e lámpada"
+    ], 
     "🛌": [
+        "ton de pel escuro", 
         "persoa durmindo", 
+        "ton de pel claro", 
+        "durmir", 
+        "ton de pel moi claro", 
+        "persoa durmindo: ton de pel moi claro", 
+        "hotel", 
+        "persoa durmindo: ton de pel escuro", 
+        "persoa durmindo: ton de pel claro", 
+        "persoa durmindo: ton de pel moi escuro", 
+        "persoa durmindo: ton de pel medio", 
+        "ton de pel moi escuro", 
+        "ton de pel medio"
+    ], 
+    "🛍️": [
+        "hotel", 
+        "bolsas de compras", 
+        "bolsas", 
+        "compras"
+    ], 
+    "🛎️": [
+        "timbre", 
+        "hotel", 
+        "campaíña", 
+        "campaíña de recepción", 
+        "recepción"
+    ], 
+    "🛏️": [
+        "cama", 
         "hotel", 
         "durmir"
     ], 
@@ -5967,6 +8058,42 @@
         "carro da compra", 
         "carro"
     ], 
+    "🛠️": [
+        "ferramenta", 
+        "martelo e chave inglesa", 
+        "chave inglesa", 
+        "martelo"
+    ], 
+    "🛡️": [
+        "escudo", 
+        "protección", 
+        "arma"
+    ], 
+    "🛢️": [
+        "bidón", 
+        "petróleo", 
+        "barril de petróleo", 
+        "barril"
+    ], 
+    "🛣️": [
+        "autovía", 
+        "autoestrada", 
+        "estrada"
+    ], 
+    "🛤️": [
+        "vía", 
+        "vía do tren", 
+        "tren"
+    ], 
+    "🛥️": [
+        "barco", 
+        "barco a motor", 
+        "motor"
+    ], 
+    "🛩️": [
+        "avión", 
+        "avioneta"
+    ], 
     "🛫": [
         "avión", 
         "avión despegando", 
@@ -5978,6 +8105,15 @@
         "avión", 
         "avión aterrando", 
         "chegada"
+    ], 
+    "🛰️": [
+        "satélite", 
+        "espazo"
+    ], 
+    "🛳️": [
+        "barco", 
+        "cruceiro", 
+        "barco de pasaxeiros"
     ], 
     "🛴": [
         "patinete", 
@@ -6054,33 +8190,83 @@
         "abrazo"
     ], 
     "🤘": [
-        "rock and roll", 
-        "cornos", 
+        "ton de pel escuro", 
         "man facendo os cornos", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "man facendo os cornos: ton de pel claro", 
+        "man facendo os cornos: ton de pel moi claro", 
+        "rock and roll", 
+        "man facendo os cornos: ton de pel escuro", 
+        "cornos", 
+        "man facendo os cornos: ton de pel moi escuro", 
+        "man facendo os cornos: ton de pel medio", 
         "man"
     ], 
     "🤙": [
-        "chámame", 
+        "ton de pel escuro", 
         "xesto de chamar por teléfono", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "chámame", 
+        "ton de pel moi escuro", 
+        "xesto de chamar por teléfono: ton de pel moi escuro", 
+        "xesto de chamar por teléfono: ton de pel moi claro", 
         "chamar", 
+        "ton de pel moi claro", 
+        "xesto de chamar por teléfono: ton de pel escuro", 
+        "xesto de chamar por teléfono: ton de pel medio", 
+        "xesto de chamar por teléfono: ton de pel claro", 
         "man"
     ], 
     "🤚": [
         "palma da man", 
-        "man", 
+        "palma da man: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "palma da man: ton de pel moi escuro", 
+        "palma da man: ton de pel moi claro", 
+        "ton de pel escuro", 
+        "palma da man: ton de pel escuro", 
         "palma", 
-        "deter"
+        "palma da man: ton de pel claro", 
+        "deter", 
+        "man"
     ], 
     "🤛": [
+        "puño cara á esquerda: ton de pel escuro", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "puño cara á esquerda: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "puño cara á esquerda: ton de pel medio", 
         "puño cara á esquerda", 
         "puño", 
+        "puño cara á esquerda: ton de pel moi claro", 
+        "puño cara á esquerda: ton de pel claro", 
+        "ton de pel moi escuro", 
         "esquerda", 
         "man"
     ], 
     "🤜": [
         "dereita", 
+        "ton de pel escuro", 
+        "puño cara á dereita: ton de pel medio", 
+        "ton de pel claro", 
+        "puño cara á dereita: ton de pel claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "puño cara á dereita: ton de pel escuro", 
+        "puño cara á dereita: ton de pel moi escuro", 
         "puño", 
         "puño cara á dereita", 
+        "puño cara á dereita: ton de pel moi claro", 
+        "ton de pel medio", 
         "man"
     ], 
     "🤝": [
@@ -6091,17 +8277,37 @@
     ], 
     "🤞": [
         "dedos", 
-        "dedos cruzados", 
+        "ton de pel escuro", 
+        "dedos cruzados: ton de pel moi claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "dedos cruzados: ton de pel claro", 
         "sorte", 
+        "dedos cruzados: ton de pel medio", 
+        "dedos cruzados: ton de pel moi escuro", 
+        "ton de pel moi escuro", 
+        "dedos cruzados", 
+        "dedos cruzados: ton de pel escuro", 
         "cruzar", 
         "man"
     ], 
     "🤟": [
-        "I Love You", 
         "xesto das iniciais de \"I Love You\"", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "xesto das iniciais de \"I Love You\": ton de pel claro", 
+        "xesto das iniciais de \"I Love You\": ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "I Love You", 
+        "xesto das iniciais de \"I Love You\": ton de pel medio", 
         "xesto", 
-        "man", 
-        "ILY"
+        "xesto das iniciais de \"I Love You\": ton de pel escuro", 
+        "xesto das iniciais de \"I Love You\": ton de pel moi escuro", 
+        "ILY", 
+        "ton de pel medio", 
+        "man"
     ], 
     "🤠": [
         "sombreiro de vaqueiro", 
@@ -6147,8 +8353,32 @@
         "mentireira"
     ], 
     "🤦": [
+        "incredulidade: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "incredulidade: ton de pel moi escuro", 
+        "ton de pel moi claro", 
         "incredulidade", 
+        "incredulidade: ton de pel moi claro", 
+        "incredulidade: ton de pel escuro", 
+        "exasperación", 
+        "incredulidade: ton de pel medio", 
         "cara", 
+        "ton de pel moi escuro", 
+        "ton de pel escuro"
+    ], 
+    "🤦‍♀️": [
+        "xesto", 
+        "muller facendo xesto de incredulidade", 
+        "fronte", 
+        "muller", 
+        "exasperación"
+    ], 
+    "🤦‍♂️": [
+        "home", 
+        "xesto", 
+        "home facendo xesto de incredulidade", 
+        "fronte", 
         "exasperación"
     ], 
     "🤧": [
@@ -6215,66 +8445,204 @@
         "cabeza"
     ], 
     "🤰": [
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "embarazo", 
+        "muller embarazada: ton de pel claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "muller embarazada", 
+        "muller embarazada: ton de pel medio", 
+        "muller embarazada: ton de pel moi escuro", 
+        "muller embarazada: ton de pel escuro", 
+        "muller embarazada: ton de pel moi claro", 
         "muller", 
         "embarazada", 
-        "embarazo"
+        "ton de pel escuro"
     ], 
     "🤱": [
+        "muller dando o peito", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "muller dando o peito: ton de pel moi escuro", 
         "peito", 
         "aleitar", 
         "bebé", 
-        "muller dando o peito", 
-        "mamá"
+        "muller dando o peito: ton de pel claro", 
+        "muller dando o peito: ton de pel escuro", 
+        "muller dando o peito: ton de pel medio", 
+        "muller dando o peito: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "mamá", 
+        "ton de pel escuro"
     ], 
     "🤲": [
         "xuntas", 
+        "palmas xuntas: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "palmas", 
+        "palmas xuntas: ton de pel moi escuro", 
+        "ton de pel moi claro", 
         "palmas xuntas", 
-        "palmas"
+        "palmas xuntas: ton de pel moi claro", 
+        "palmas xuntas: ton de pel medio", 
+        "palmas xuntas: ton de pel escuro", 
+        "ton de pel moi escuro", 
+        "ton de pel escuro"
     ], 
     "🤳": [
         "foto", 
-        "selfie", 
+        "ton de pel claro", 
         "cámara", 
         "teléfono", 
-        "autofoto"
+        "ton de pel moi claro", 
+        "selfie", 
+        "autofoto: ton de pel moi escuro", 
+        "autofoto: ton de pel escuro", 
+        "autofoto: ton de pel claro", 
+        "ton de pel escuro", 
+        "autofoto", 
+        "ton de pel moi escuro", 
+        "autofoto: ton de pel medio", 
+        "autofoto: ton de pel moi claro", 
+        "ton de pel medio"
     ], 
     "🤴": [
-        "fantasía", 
         "conto de fadas", 
-        "príncipe"
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "príncipe: ton de pel claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "príncipe: ton de pel escuro", 
+        "fantasía", 
+        "príncipe: ton de pel medio", 
+        "príncipe: ton de pel moi escuro", 
+        "príncipe: ton de pel moi claro", 
+        "príncipe", 
+        "ton de pel escuro"
     ], 
     "🤵": [
-        "etiqueta", 
+        "home con smóking: ton de pel medio", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
         "traxe", 
         "voda", 
+        "home con smóking: ton de pel escuro", 
+        "elegante", 
+        "home con smóking: ton de pel moi claro", 
+        "home con smóking: ton de pel moi escuro", 
+        "etiqueta", 
         "home con smóking", 
-        "elegante"
+        "home con smóking: ton de pel claro", 
+        "ton de pel escuro"
     ], 
     "🤶": [
         "Mamá Noel", 
+        "ton de pel escuro", 
         "Nadal", 
+        "ton de pel claro", 
+        "Mamá Noel: ton de pel claro", 
+        "Mamá Noel: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "Mamá Noel: ton de pel medio", 
+        "mamá", 
+        "Mamá Noel: ton de pel escuro", 
+        "Mamá Noel: ton de pel moi escuro", 
         "señora Noel", 
-        "mamá"
+        "ton de pel medio"
     ], 
     "🤷": [
-        "ignorancia", 
+        "xesto de \"nin idea\": ton de pel moi escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "xesto de \"nin idea\"", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "xesto de \"nin idea\": ton de pel moi claro", 
+        "xesto de \"nin idea\": ton de pel claro", 
         "indiferenza", 
-        "cara", 
+        "ignorancia", 
         "dúbida", 
-        "xesto de \"nin idea\""
+        "xesto de \"nin idea\": ton de pel medio", 
+        "cara", 
+        "xesto de \"nin idea\": ton de pel escuro", 
+        "ton de pel escuro"
+    ], 
+    "🤷‍♀️": [
+        "muller facendo xesto de “nin idea”", 
+        "xesto", 
+        "ignorancia", 
+        "muller", 
+        "dúbida"
+    ], 
+    "🤷‍♂️": [
+        "home", 
+        "xesto", 
+        "ignorancia", 
+        "home facendo xesto de “nin idea”", 
+        "dúbida"
     ], 
     "🤸": [
+        "ximnasia: ton de pel moi escuro", 
+        "ton de pel escuro", 
+        "ximnasia: ton de pel moi claro", 
+        "ton de pel claro", 
+        "deporte", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "ximnasia: ton de pel claro", 
+        "ximnasia: ton de pel medio", 
         "ximnasia", 
-        "deporte"
+        "ximnasia: ton de pel escuro", 
+        "ton de pel medio"
+    ], 
+    "🤸‍♀️": [
+        "viravolta", 
+        "muller", 
+        "ximnasia", 
+        "muller facendo unha viravolta lateral"
+    ], 
+    "🤸‍♂️": [
+        "home", 
+        "home facendo unha viravolta lateral", 
+        "ximnasia", 
+        "viravolta"
     ], 
     "🤹": [
+        "malabares: ton de pel claro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "malabares: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "malabares: ton de pel medio", 
+        "malabares: ton de pel moi escuro", 
+        "malabares: ton de pel escuro", 
         "multitarefa", 
+        "ton de pel moi escuro", 
         "malabarismo", 
         "malabarista", 
         "habilidade", 
         "malabares", 
-        "malabar"
+        "malabar", 
+        "ton de pel escuro"
+    ], 
+    "🤹‍♀️": [
+        "malabarismo", 
+        "muller malabarista", 
+        "muller", 
+        "multitarefa"
+    ], 
+    "🤹‍♂️": [
+        "home", 
+        "multitarefa", 
+        "home malabarista", 
+        "malabarismo"
     ], 
     "🤺": [
         "sable", 
@@ -6289,15 +8657,71 @@
         "loitadores", 
         "deporte"
     ], 
-    "🤽": [
-        "auga", 
-        "wáter-polo", 
+    "🤼‍♀️": [
+        "loita", 
+        "mulleres practicando loita libre", 
+        "loitadoras", 
+        "deporte", 
+        "mulleres"
+    ], 
+    "🤼‍♂️": [
+        "loita", 
+        "homes", 
+        "loitadores", 
+        "homes practicando loita libre", 
         "deporte"
     ], 
+    "🤽": [
+        "wáter-polo: ton de pel escuro", 
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "wáter-polo: ton de pel claro", 
+        "ton de pel moi claro", 
+        "auga", 
+        "wáter-polo: ton de pel moi escuro", 
+        "wáter-polo: ton de pel moi claro", 
+        "deporte", 
+        "wáter-polo: ton de pel medio", 
+        "ton de pel moi escuro", 
+        "wáter-polo", 
+        "ton de pel escuro"
+    ], 
+    "🤽‍♀️": [
+        "balón", 
+        "muller xogando a wáter-polo", 
+        "muller", 
+        "wáter-polo"
+    ], 
+    "🤽‍♂️": [
+        "balón", 
+        "home xogando a wáter-polo", 
+        "wáter-polo", 
+        "home"
+    ], 
     "🤾": [
-        "balonmán", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
         "pelota", 
-        "deporte"
+        "balonmán: ton de pel moi claro", 
+        "balonmán: ton de pel moi escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "balonmán: ton de pel escuro", 
+        "balonmán: ton de pel claro", 
+        "balonmán", 
+        "deporte", 
+        "balonmán: ton de pel medio", 
+        "ton de pel medio"
+    ], 
+    "🤾‍♀️": [
+        "balonmán", 
+        "muller", 
+        "muller xogando a balonmán"
+    ], 
+    "🤾‍♂️": [
+        "home", 
+        "balonmán", 
+        "home xogando a balonmán"
     ], 
     "🥀": [
         "murcha", 
@@ -6667,74 +9091,196 @@
         "cara con monóculo"
     ], 
     "🧑": [
-        "adulto"
+        "ton de pel claro", 
+        "ton de pel medio", 
+        "adulto: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "adulto: ton de pel claro", 
+        "adulto: ton de pel escuro", 
+        "adulto: ton de pel medio", 
+        "adulto: ton de pel moi escuro", 
+        "adulto", 
+        "ton de pel escuro"
     ], 
     "🧒": [
         "neno", 
-        "rapaza", 
-        "nena", 
+        "ton de pel claro", 
         "rapaz", 
-        "criatura"
+        "rapaza", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "criatura", 
+        "nena", 
+        "ton de pel escuro", 
+        "criatura: ton de pel medio", 
+        "criatura: ton de pel moi claro", 
+        "criatura: ton de pel moi escuro", 
+        "criatura: ton de pel escuro", 
+        "ton de pel medio", 
+        "criatura: ton de pel claro"
     ], 
     "🧓": [
-        "vella", 
+        "ton de pel escuro", 
         "anciá", 
-        "persoa maior", 
+        "ton de pel claro", 
+        "ton de pel medio", 
         "ancián", 
+        "persoa maior: ton de pel escuro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "persoa maior: ton de pel medio", 
+        "persoa maior: ton de pel claro", 
+        "vella", 
+        "persoa maior: ton de pel moi escuro", 
+        "persoa maior: ton de pel moi claro", 
+        "persoa maior", 
         "vello"
     ], 
     "🧔": [
-        "persoa con barba", 
         "barba", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "persoa con barba: ton de pel moi claro", 
+        "persoa con barba", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "persoa con barba: ton de pel medio", 
+        "persoa con barba: ton de pel claro", 
+        "persoa con barba: ton de pel escuro", 
+        "persoa con barba: ton de pel moi escuro", 
+        "home", 
         "persoa", 
-        "home"
+        "ton de pel medio"
     ], 
     "🧕": [
-        "veo", 
+        "ton de pel escuro", 
+        "ton de pel claro", 
+        "muller con veo islámico", 
+        "muller con veo islámico: ton de pel moi claro", 
+        "ton de pel moi claro", 
+        "ton de pel moi escuro", 
+        "muller con veo islámico: ton de pel escuro", 
         "musulmá", 
+        "muller con veo islámico: ton de pel moi escuro", 
+        "muller con veo islámico: ton de pel medio", 
+        "muller con veo islámico: ton de pel claro", 
+        "veo", 
         "muller", 
-        "muller con veo islámico"
+        "ton de pel medio"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "muller dándose un baño de vapor", 
+        "muller", 
         "sauna", 
         "baño de vapor"
     ], 
-    "🧗": [
+    "🧖‍♂️": [
+        "home dándose un baño de vapor", 
+        "home", 
+        "sauna", 
+        "baño de vapor"
+    ], 
+    "🧗‍♀️": [
+        "escalada", 
+        "escalador", 
+        "escalar", 
+        "escaladora"
+    ], 
+    "🧗‍♂️": [
         "escalada", 
         "escalador", 
         "escalar"
     ], 
-    "🧘": [
+    "🧘‍♀️": [
+        "muller practicando ioga", 
         "posición de loto", 
         "ioga", 
+        "meditación", 
+        "muller"
+    ], 
+    "🧘‍♂️": [
+        "home", 
+        "home practicando ioga", 
+        "posición de loto", 
         "meditación"
     ], 
-    "🧙": [
+    "🧙‍♀️": [
+        "bruxa", 
+        "feiticeira", 
+        "meigo", 
+        "druída", 
+        "meiga", 
+        "feiticeiro"
+    ], 
+    "🧙‍♂️": [
         "meigo", 
         "druída", 
         "feiticeiro"
     ], 
-    "🧚": [
-        "fada"
+    "🧚‍♀️": [
+        "fada madriña", 
+        "fada", 
+        "Campaíña", 
+        "fada de sexo feminino", 
+        "muller"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "fada de sexo masculino", 
+        "fada", 
+        "home"
+    ], 
+    "🧛‍♀️": [
         "criatura vampírica", 
+        "vampiresa", 
+        "muller", 
         "vampiro"
     ], 
-    "🧜": [
-        "serea"
+    "🧛‍♂️": [
+        "home", 
+        "vampiro", 
+        "Drácula"
     ], 
-    "🧝": [
+    "🧜‍♀️": [
+        "serea", 
+        "muller", 
+        "serea de sexo feminino"
+    ], 
+    "🧜‍♂️": [
+        "serea", 
+        "serea de sexo masculino", 
+        "home"
+    ], 
+    "🧝‍♀️": [
+        "elfa", 
+        "elfo de sexo feminino"
+    ], 
+    "🧝‍♂️": [
+        "elfo de sexo masculino", 
         "elfo"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
         "desexos", 
+        "xenio de sexo feminino", 
+        "xenia"
+    ], 
+    "🧞‍♂️": [
+        "desexos", 
+        "xenio de sexo masculino", 
         "xenio"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "non-morta", 
         "Walking Dead", 
+        "zombi de sexo feminino", 
+        "muller"
+    ], 
+    "🧟‍♂️": [
+        "Walking Dead", 
+        "zombi de sexo masculino", 
         "zombi", 
-        "non-morto"
+        "non-morto", 
+        "home"
     ], 
     "🧠": [
         "intelixente", 

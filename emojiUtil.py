@@ -9,6 +9,8 @@ import requests
 # imported from https://github.com/iamcal/emoji-data/blob/master/emoji_pretty.json
 EMOJI_JSON_FILE = 'EmojiData/emoji_pretty.json'
 EMOJI_INFO = jsonUtil.json_load_byteified_file(EMOJI_JSON_FILE)
+EMOJI_INFO_NO_OBSOLETE = [entry for entry in EMOJI_INFO if entry.get("obsoleted_by",None)==None]
+
 
 def getEmojiFromCodePoint(code_point, separator='-'):
     codes = code_point.split(separator)
@@ -23,14 +25,24 @@ def getCodePointUpper(e, separator='-', addExtraZeros=True):
     result = separator.join(codePoints)
     return result.upper()
 
-ALL_EMOJIS = [getEmojiFromCodePoint(entry['unified']) for entry in EMOJI_INFO]
-NON_QUALIFIED_CODE_POINTS = [entry['non_qualified'] for entry in EMOJI_INFO]
+ALL_EMOJIS = [getEmojiFromCodePoint(entry['unified']) for entry in EMOJI_INFO_NO_OBSOLETE]
+NON_QUALIFIED_CODE_POINTS = [entry['non_qualified'] for entry in EMOJI_INFO_NO_OBSOLETE]
 
 UNIFICATION_CODE = "FE0F"
 UNIFICATION_CODE_LOWER = UNIFICATION_CODE.lower()
 
 SKIN_TONES = ['🏻', '🏾', '🏿', '🏼', '🏽']
 SKIN_TONES_CODE_POINT = [getCodePointUpper(x) for x in SKIN_TONES]
+
+def getAlphaName(emoji):
+    code_point = getCodePointUpper(emoji)
+    matched_entry = next((entry
+                         for entry in EMOJI_INFO_NO_OBSOLETE
+                         if entry['unified']==code_point
+                         or entry['non_qualified']==code_point),None)
+    if matched_entry:
+        return matched_entry['short_name']
+    return None
 
 def makeCodePointUnified(code_point):
     entry = [x for x in EMOJI_INFO if x['non_qualified']==code_point]
@@ -43,6 +55,17 @@ def removeSkinTones(emoji_text):
         emoji_text = emoji_text.replace(st, '')
     return emoji_text
 
+def makeCodePointDeObsoleted(code_point):
+    try:
+        entry = next(x for x in EMOJI_INFO if x['unified']==code_point)
+    except StopIteration:
+        try:
+            entry = next(x for x in EMOJI_INFO if x['non_qualified'] == code_point)
+        except StopIteration:
+            return None
+    return entry.get("obsoleted_by", None)
+
+
 def checkIfEmojiAndGetNormalized(e):
     if e in ALL_EMOJIS:
         return e
@@ -54,13 +77,15 @@ def checkIfEmojiAndGetNormalized(e):
     emoji_without_skin_tones = removeSkinTones(e)
     if emoji_without_skin_tones != e and emoji_without_skin_tones in ALL_EMOJIS:
         return emoji_without_skin_tones
+    renwed_code_point = makeCodePointDeObsoleted(code_point)
+    if renwed_code_point:
+        renewed_emoji = getEmojiFromCodePoint(renwed_code_point)
+        return renewed_emoji
     return None
 
 
 def getRandomEmoji():
-    entry = random.choice(EMOJI_INFO)
-    emoji = getEmojiFromCodePoint(entry['unified'])
-    return emoji
+    return random.choice(ALL_EMOJIS)
 
 ####################################
 # EMOJI IMG UTIL FUNCTIONS
@@ -74,6 +99,13 @@ EMOJI_PNG_URL_GIT_APPLE_IAMCAL = 'https://github.com/iamcal/emoji-data/raw/maste
 #EMOJI_PNG_URL_EMOJIPEDIA = 'https://emojipedia-us.s3.amazonaws.com/thumbs/240/twitter/131/'
 EMOJI_PNG_URL_GIT_LOICPIREZ = 'https://github.com/loicpirez/EmojiExtractor/raw/master/emojipedia.org/twitter/' # 1f385_1f3fe.png no fe0f
 EMOJI_ONE_WIKIMEDIA = 'https://github.com/emojione/emojione/raw/2.2.7/assets/png_128x128/{}.png' #0023-20e3
+
+def hasImageApple(code_point):
+    try:
+        entry = next(x for x in EMOJI_INFO if x['unified']==code_point)
+    except StopIteration:
+        return False
+    return entry.get("has_img_apple", False)
 
 def getEmojiUrlFromEmojione(e):
     codePointUpper = getCodePointUpper(e, separator='-', addExtraZeros=True)
@@ -118,13 +150,28 @@ def getEmojiUrlFromGitIamcalApple(e):
 
 
 def getEmojiPngUrl(e):
-    return getEmojiUrlFromGitIamcalApple(e)
+    codePointUpper = getCodePointUpper(e, separator='-')
+    if hasImageApple(codePointUpper):
+        url = getEmojiUrlFromGitIamcalApple(e)
+    else:
+        url = getEmojiUrlFromGitIamcalTwitter(e)
+    logging.debug("Sending emoji image. Emoji: {} Codepoints: {} Url: {}".format(e,getCodePointUpper(e), url))
+    return url
 
 def getEmojiPngDataFromUrl(e):
+    from google.appengine.api import urlfetch
+    urlfetch.set_default_fetch_deadline(20)
     png_url = getEmojiPngUrl(e)
     assert png_url
-    png_data = requests.get(png_url).content
-    return png_data
+    try:
+        r = requests.get(png_url)
+        png_data = r.content
+        return png_data
+    except requests.ConnectionError:
+        from time import sleep
+        sleep(1)
+        return getEmojiPngDataFromUrl(e)
+
 
 
 def getEmojiStickerDataFromUrl(e):

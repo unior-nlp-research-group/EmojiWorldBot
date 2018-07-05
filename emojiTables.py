@@ -110,12 +110,13 @@ def getTagList(lang_code, emoji_utf):
     entry =  getEntry(lang_code, emoji_utf)
     default_tags = emojiTags.getTagsForEmoji(emoji_utf, lang_code)
     if entry:
-        return entry.updateTagList(default_tags)
+        all_tags = entry.updateTagList(default_tags)
     else:
         addEntry(lang_code, emoji_utf, default_tags)
-        return default_tags
+        all_tags = default_tags
+    return all_tags
 
-def getEmojiList(lang_code, tag):
+def getEmojiList(lang_code, tag, show_alpha_names):
     tagLower = tag.lower()
     entries = LanguageEmojiTag.query(
         ndb.AND(LanguageEmojiTag.lang_code == lang_code,
@@ -131,6 +132,9 @@ def getEmojiList(lang_code, tag):
     emojis_in_unicode_tags = emojiTags.getEmojisForTag(tag, lang_code)
     result.extend(emojis_in_unicode_tags)
     result = list(set(result))
+    if show_alpha_names:
+        from emojiUtil import getAlphaName
+        return ["{} [{}]".format(x,getAlphaName(x)) for x in result]
     return result
 
 def addUserDefinedTag(lang_code, emoji, proposedTag):

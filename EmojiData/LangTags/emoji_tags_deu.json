@@ -1,4 +1,131 @@
 {
+    "#️⃣": [
+        "Taste", 
+        "Taste: #"
+    ], 
+    "*️⃣": [
+        "Taste", 
+        "Taste: *"
+    ], 
+    "0️⃣": [
+        "Taste", 
+        "Taste: 0"
+    ], 
+    "1️⃣": [
+        "Taste", 
+        "Taste: 1"
+    ], 
+    "2️⃣": [
+        "Taste", 
+        "Taste: 2"
+    ], 
+    "3️⃣": [
+        "Taste", 
+        "Taste: 3"
+    ], 
+    "4️⃣": [
+        "Taste", 
+        "Taste: 4"
+    ], 
+    "5️⃣": [
+        "Taste", 
+        "Taste: 5"
+    ], 
+    "6️⃣": [
+        "Taste", 
+        "Taste: 6"
+    ], 
+    "7️⃣": [
+        "Taste", 
+        "Taste: 7"
+    ], 
+    "8️⃣": [
+        "Taste", 
+        "Taste: 8"
+    ], 
+    "9️⃣": [
+        "Taste", 
+        "Taste: 9"
+    ], 
+    "©️": [
+        "C", 
+        "Copyright"
+    ], 
+    "®️": [
+        "R", 
+        "Markenzeichen", 
+        "Registered-Trademark"
+    ], 
+    "‼️": [
+        "Satzzeichen", 
+        "doppelt", 
+        "rot", 
+        "Ausrufezeichen", 
+        "doppeltes Ausrufezeichen"
+    ], 
+    "⁉️": [
+        "Satzzeichen", 
+        "Ausrufe- und Fragezeichen", 
+        "rot", 
+        "Ausrufezeichen", 
+        "Fragezeichen"
+    ], 
+    "™️": [
+        "Markenzeichen", 
+        "Trademark", 
+        "TM"
+    ], 
+    "ℹ️": [
+        "i", 
+        "Information", 
+        "Buchstabe „i“ in blauem Quadrat"
+    ], 
+    "↔️": [
+        "entgegengesetzt", 
+        "nach links und rechts", 
+        "Pfeil nach links und rechts", 
+        "Pfeil"
+    ], 
+    "↕️": [
+        "entgegengesetzt", 
+        "Pfeil nach oben und unten", 
+        "nach oben und unten", 
+        "Pfeil"
+    ], 
+    "↖️": [
+        "Pfeil nach links oben", 
+        "nach links oben", 
+        "Pfeil"
+    ], 
+    "↗️": [
+        "Pfeil nach rechts oben", 
+        "Pfeil", 
+        "nach rechts oben"
+    ], 
+    "↘️": [
+        "Pfeil nach rechts unten", 
+        "nach rechts unten", 
+        "Pfeil"
+    ], 
+    "↙️": [
+        "nach links unten", 
+        "Pfeil", 
+        "Pfeil nach links unten"
+    ], 
+    "↩️": [
+        "Pfeil", 
+        "geschwungener Pfeil nach links", 
+        "geschwungen", 
+        "links", 
+        "nach links"
+    ], 
+    "↪️": [
+        "rechts", 
+        "geschwungener Pfeil nach rechts", 
+        "nach rechts", 
+        "geschwungen", 
+        "Pfeil"
+    ], 
     "⌚": [
         "Uhr", 
         "Armbanduhr"
@@ -7,6 +134,15 @@
         "Sanduhr", 
         "Vorgang läuft", 
         "Prozess"
+    ], 
+    "⌨️": [
+        "Tastatur", 
+        "Computer"
+    ], 
+    "⏏️": [
+        "auswerfen", 
+        "Auswurf", 
+        "Auswurftaste"
     ], 
     "⏩": [
         "weiter", 
@@ -39,16 +175,104 @@
         "Pfeil", 
         "nach unten"
     ], 
+    "⏭️": [
+        "nächster Titel", 
+        "vorwärts", 
+        "Nächster Titel", 
+        "weiter", 
+        "Doppelpfeil", 
+        "Dreieck"
+    ], 
+    "⏮️": [
+        "zurück", 
+        "Vorheriger Titel", 
+        "Doppelpfeil", 
+        "Dreieck", 
+        "vorheriger Titel", 
+        "Pfeil"
+    ], 
+    "⏯️": [
+        "Wiedergabe", 
+        "rechts", 
+        "Pause", 
+        "Dreieck", 
+        "Wiedergabe oder Pause", 
+        "Pfeil"
+    ], 
     "⏰": [
         "Uhrzeit", 
         "Uhr", 
         "Wecker"
+    ], 
+    "⏱️": [
+        "Uhr", 
+        "Stoppuhr"
+    ], 
+    "⏲️": [
+        "Uhr", 
+        "Timer", 
+        "Zeitschaltuhr"
     ], 
     "⏳": [
         "Sanduhr", 
         "laufende Sanduhr", 
         "Vorgang läuft", 
         "Prozess"
+    ], 
+    "⏸️": [
+        "Streifen", 
+        "Pause", 
+        "vertikal"
+    ], 
+    "⏹️": [
+        "Quadrat", 
+        "Aufnahme stoppen", 
+        "Stopp"
+    ], 
+    "⏺️": [
+        "Kreis", 
+        "aufnehmen", 
+        "Aufnahme", 
+        "Aufnehmen"
+    ], 
+    "Ⓜ️": [
+        "Kreis", 
+        "Buchstabe „M“ in blauem Kreis", 
+        "M"
+    ], 
+    "▪️": [
+        "Quadrat", 
+        "schwarz", 
+        "kleines schwarzes Quadrat"
+    ], 
+    "▫️": [
+        "kleines weißes Quadrat", 
+        "weiß", 
+        "Quadrat"
+    ], 
+    "▶️": [
+        "abspielen", 
+        "Wiedergabe", 
+        "Dreieck", 
+        "Pfeil", 
+        "rechts"
+    ], 
+    "◀️": [
+        "Pfeil zurück", 
+        "zurück", 
+        "Dreieck", 
+        "Pfeil", 
+        "links"
+    ], 
+    "◻️": [
+        "Quadrat", 
+        "weiß", 
+        "mittelgroßes weißes Quadrat"
+    ], 
+    "◼️": [
+        "mittelgroßes schwarzes Quadrat", 
+        "Quadrat", 
+        "schwarz"
     ], 
     "◽": [
         "Quadrat", 
@@ -59,6 +283,43 @@
         "Quadrat", 
         "schwarz", 
         "mittelkleines schwarzes Quadrat"
+    ], 
+    "☀️": [
+        "Wetter", 
+        "sonnig", 
+        "Sonnenstrahlen", 
+        "Sonne", 
+        "Strahlen"
+    ], 
+    "☁️": [
+        "Wetter", 
+        "wolkig", 
+        "Wolke"
+    ], 
+    "☂️": [
+        "Bekleidung", 
+        "Wetter", 
+        "Regenschirm", 
+        "Regen"
+    ], 
+    "☃️": [
+        "Schnee", 
+        "Schneemann im Schnee", 
+        "Schneemann"
+    ], 
+    "☄️": [
+        "Komet", 
+        "Weltall"
+    ], 
+    "☎️": [
+        "Telefon", 
+        "Festnetz"
+    ], 
+    "☑️": [
+        "Abstimmungsfeld", 
+        "Häkchen", 
+        "Abstimmungsfeld mit Häkchen", 
+        "Wahlurne"
     ], 
     "☔": [
         "Regenschirm im Regen", 
@@ -73,6 +334,88 @@
         "Tee", 
         "heiß", 
         "trinken"
+    ], 
+    "☘️": [
+        "Pflanze", 
+        "Kleeblatt"
+    ], 
+    "☝️": [
+        "Zeigefinger", 
+        "nach oben", 
+        "Handvorderseite", 
+        "Hand", 
+        "Finger", 
+        "nach oben weisender Zeigefinger von vorne"
+    ], 
+    "☠️": [
+        "Piratenflagge", 
+        "Totenkopf mit gekreuzten Knochen", 
+        "tot", 
+        "Gesicht", 
+        "Totenkopf", 
+        "Tod"
+    ], 
+    "☢️": [
+        "Radioaktiv", 
+        "radioaktiv"
+    ], 
+    "☣️": [
+        "Biogefährdung", 
+        "Zeichen"
+    ], 
+    "☦️": [
+        "Religion", 
+        "Orthodox", 
+        "Kreuz", 
+        "orthodoxes Kreuz", 
+        "Christentum"
+    ], 
+    "☪️": [
+        "Religion", 
+        "Stern", 
+        "Hilal", 
+        "Hilal und Stern", 
+        "Islam"
+    ], 
+    "☮️": [
+        "Friedensbewegung", 
+        "Friedenszeichen", 
+        "Friedenssymbol"
+    ], 
+    "☯️": [
+        "Yin", 
+        "Religion", 
+        "Yang", 
+        "Daoismus", 
+        "Yin und Yang"
+    ], 
+    "☸️": [
+        "Buddhismus", 
+        "Dharma", 
+        "Dharma-Rad"
+    ], 
+    "☹️": [
+        "Gesicht", 
+        "traurig", 
+        "düsteres Gesicht"
+    ], 
+    "☺️": [
+        "fröhlich", 
+        "lächelnd", 
+        "lächelndes Gesicht", 
+        "Lächeln"
+    ], 
+    "♀️": [
+        "Frau", 
+        "Frauensymbol", 
+        "weiblich", 
+        "Zeichen"
+    ], 
+    "♂️": [
+        "Symbol", 
+        "Zeichen", 
+        "Männersymbol", 
+        "Mann"
     ], 
     "♈": [
         "Widder (Sternzeichen)", 
@@ -134,15 +477,87 @@
         "Fische (Sternzeichen)", 
         "Fische"
     ], 
+    "♠️": [
+        "Pik", 
+        "Kartenspiel"
+    ], 
+    "♣️": [
+        "Kreuz", 
+        "Kartenspiel"
+    ], 
+    "♥️": [
+        "Herz", 
+        "Kartenspiel"
+    ], 
+    "♦️": [
+        "Karo", 
+        "Kartenspiel"
+    ], 
+    "♨️": [
+        "Dampf", 
+        "dampfend", 
+        "Quellen", 
+        "heiße Quellen", 
+        "heiß"
+    ], 
+    "♻️": [
+        "Recycling", 
+        "Recycling-Symbol"
+    ], 
     "♿": [
         "barrierefrei", 
         "behindertengerecht", 
         "Symbol „Rollstuhl“"
     ], 
+    "⚒️": [
+        "Hammer und Pickel", 
+        "Hammer", 
+        "Werkzeug", 
+        "Pickel"
+    ], 
     "⚓": [
         "Anker", 
         "Hafen", 
         "Meer"
+    ], 
+    "⚔️": [
+        "Schwerter", 
+        "gekreuzte Schwerter", 
+        "gekreuzt"
+    ], 
+    "⚕️": [
+        "Asklepiosstab", 
+        "Apotheke", 
+        "Medizin", 
+        "Äskulapstab"
+    ], 
+    "⚖️": [
+        "Gerechtigkeit", 
+        "Waage", 
+        "wiegen", 
+        "Gewicht", 
+        "Werkzeug"
+    ], 
+    "⚗️": [
+        "Werkzeug", 
+        "Destillierapparat"
+    ], 
+    "⚙️": [
+        "Zahnrad", 
+        "Werkzeug"
+    ], 
+    "⚛️": [
+        "Atheist", 
+        "Atomzeichen", 
+        "Atom"
+    ], 
+    "⚜️": [
+        "Lilie", 
+        "Fleur-de-Lis"
+    ], 
+    "⚠️": [
+        "Dreieck", 
+        "Warnung"
     ], 
     "⚡": [
         "Hochspannung", 
@@ -160,6 +575,18 @@
         "Ball", 
         "schwarzer Kreis", 
         "schwarz"
+    ], 
+    "⚰️": [
+        "tot", 
+        "Beerdigung", 
+        "Sarg", 
+        "Tod"
+    ], 
+    "⚱️": [
+        "Urne", 
+        "Beerdigung", 
+        "tot", 
+        "Tod"
     ], 
     "⚽": [
         "Ball", 
@@ -182,15 +609,48 @@
         "Sonne", 
         "Sonne hinter Wolke"
     ], 
+    "⛈️": [
+        "Wetter", 
+        "Blitz", 
+        "Gewitter", 
+        "Regen", 
+        "Wolke", 
+        "Wolke mit Blitz und Regen", 
+        "wolkig"
+    ], 
     "⛎": [
         "Sternbild", 
         "Schlagenträger", 
         "Schlangenträger"
     ], 
+    "⛏️": [
+        "Werkzeug", 
+        "Pickel"
+    ], 
+    "⛑️": [
+        "Helm mit weißem Kreuz", 
+        "Kreuz", 
+        "Rettungshelm", 
+        "Hilfe", 
+        "Helm", 
+        "retten", 
+        "bergen"
+    ], 
+    "⛓️": [
+        "Eisen", 
+        "Ketten", 
+        "Kette"
+    ], 
     "⛔": [
         "keine Durchfahrt", 
         "Zutritt verboten", 
         "verboten"
+    ], 
+    "⛩️": [
+        "Religion", 
+        "Schrein", 
+        "Shinto", 
+        "Shinto-Schrein"
     ], 
     "⛪": [
         "Religion", 
@@ -200,6 +660,15 @@
         "Gebäude", 
         "Kreuz", 
         "Kirche"
+    ], 
+    "⛰️": [
+        "Berg", 
+        "Gebirge"
+    ], 
+    "⛱️": [
+        "aufgestellter Sonnenschirm", 
+        "aufgestellt", 
+        "Sonnenschirm"
     ], 
     "⛲": [
         "Springbrunnen", 
@@ -211,9 +680,31 @@
         "Golfplatz", 
         "Golffahne"
     ], 
+    "⛴️": [
+        "Fähre", 
+        "Schiff"
+    ], 
     "⛵": [
         "Segelboot", 
         "Boot"
+    ], 
+    "⛷️": [
+        "Skifahrer(in)", 
+        "Schnee", 
+        "Skifahrerin", 
+        "Skifahrer", 
+        "Sport", 
+        "Ski"
+    ], 
+    "⛸️": [
+        "Eislauf", 
+        "Schlittschuh"
+    ], 
+    "⛹️‍♂️": [
+        "Person", 
+        "Ball", 
+        "Basketball", 
+        "Person mit Ball"
     ], 
     "⛺": [
         "Campingurlaub", 
@@ -227,22 +718,123 @@
         "Benzin", 
         "tanken"
     ], 
+    "✂️": [
+        "Schere"
+    ], 
     "✅": [
         "erledigt", 
         "abgehakt", 
         "weißes Häkchen"
     ], 
+    "✈️": [
+        "Flieger", 
+        "Flugzeug"
+    ], 
+    "✉️": [
+        "Briefumschlag", 
+        "Brief", 
+        "E-Mail"
+    ], 
     "✊": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "erhobene Faust: mittelhelle Hautfarbe", 
+        "erhobene Faust: helle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Faust", 
-        "erhobene Faust"
+        "erhobene Faust: mitteldunkle Hautfarbe", 
+        "erhobene Faust: dunkle Hautfarbe", 
+        "erhobene Faust", 
+        "erhobene Faust: mittlere Hautfarbe"
     ], 
     "✋": [
+        "erhobene Hand: mitteldunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "erhobene Hand", 
+        "erhobene Hand: dunkle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "erhobene Hand: helle Hautfarbe", 
+        "erhobene Hand: mittlere Hautfarbe", 
+        "Hand", 
+        "erhobene Hand: mittelhelle Hautfarbe"
+    ], 
+    "✌️": [
+        "Victory-Geste", 
+        "Sieg", 
+        "V"
+    ], 
+    "✍️": [
+        "schreiben", 
+        "Schreiben", 
+        "schreibende Hand", 
         "Hand"
+    ], 
+    "✏️": [
+        "Bleistift"
+    ], 
+    "✒️": [
+        "Federhalter", 
+        "Stift", 
+        "Füller", 
+        "schwarzer Federhalter", 
+        "schwarz"
+    ], 
+    "✔️": [
+        "erledigt", 
+        "Häkchen", 
+        "abhaken", 
+        "kräftiges Häkchen"
+    ], 
+    "✖️": [
+        "Multiplikation", 
+        "multiplizieren", 
+        "abbrechen", 
+        "Multiplikationszeichen", 
+        "x"
+    ], 
+    "✝️": [
+        "Religion", 
+        "Römisch", 
+        "Kreuz", 
+        "römisches Kreuz", 
+        "Christentum"
+    ], 
+    "✡️": [
+        "jüdisch", 
+        "Religion", 
+        "Davidstern"
     ], 
     "✨": [
         "Funkelnde Sterne", 
         "Sterne"
+    ], 
+    "✳️": [
+        "Quadrat", 
+        "grün", 
+        "Stern", 
+        "Achtzackiger Stern", 
+        "achtzackig"
+    ], 
+    "✴️": [
+        "Quadrat", 
+        "Stern in orangefarbenem Quadrat", 
+        "orangefarben", 
+        "Stern"
+    ], 
+    "❄️": [
+        "Schnee", 
+        "Schneeflocke", 
+        "Flocke"
+    ], 
+    "❇️": [
+        "grün", 
+        "Funkeln", 
+        "Quadrat"
     ], 
     "❌": [
         "multiplizieren", 
@@ -279,6 +871,16 @@
         "rot", 
         "Ausrufezeichen"
     ], 
+    "❣️": [
+        "Satzzeichen", 
+        "Herz", 
+        "Ausrufezeichen", 
+        "Herz als Ausrufezeichen"
+    ], 
+    "❤️": [
+        "Herz", 
+        "rotes Herz"
+    ], 
     "➕": [
         "Plus", 
         "Pluszeichen"
@@ -291,6 +893,11 @@
         "Divisionszeichen", 
         "geteilt"
     ], 
+    "➡️": [
+        "nach rechts", 
+        "Pfeil", 
+        "Pfeil nach rechts"
+    ], 
     "➰": [
         "Schleife"
     ], 
@@ -299,6 +906,37 @@
         "Schleife", 
         "blau", 
         "Doppelschleife"
+    ], 
+    "⤴️": [
+        "Pfeil", 
+        "oben", 
+        "geschwungen", 
+        "geschwungener Pfeil nach oben", 
+        "nach oben"
+    ], 
+    "⤵️": [
+        "Pfeil", 
+        "unten", 
+        "geschwungen", 
+        "nach unten", 
+        "geschwungener Pfeil nach unten"
+    ], 
+    "⬅️": [
+        "Pfeil nach links", 
+        "Pfeil", 
+        "nach links"
+    ], 
+    "⬆️": [
+        "aufwärts", 
+        "Pfeil nach oben", 
+        "nach oben", 
+        "Pfeil"
+    ], 
+    "⬇️": [
+        "Pfeil nach unten", 
+        "nach unten", 
+        "abwärts", 
+        "Pfeil"
     ], 
     "⬛": [
         "großes schwarzes Quadrat", 
@@ -320,6 +958,26 @@
         "rot", 
         "o"
     ], 
+    "〰️": [
+        "gewellt", 
+        "Linie", 
+        "Wellenlinie"
+    ], 
+    "〽️": [
+        "Zeichensetzung", 
+        "japanisch", 
+        "Teilalternationszeichen"
+    ], 
+    "㊗️": [
+        "chinesisches Schriftzeichen", 
+        "Gratulation", 
+        "Schriftzeichen für „Gratulation“"
+    ], 
+    "㊙️": [
+        "chinesisches Schriftzeichen", 
+        "Geheimnis", 
+        "Schriftzeichen für „Geheimnis“"
+    ], 
     "🀄": [
         "roter Drache", 
         "Mahjong-Stein", 
@@ -329,6 +987,35 @@
         "Joker", 
         "Spielkarte", 
         "Jokerkarte"
+    ], 
+    "🅰️": [
+        "a", 
+        "negativ", 
+        "positiv", 
+        "Blut", 
+        "Blutgruppe", 
+        "Großbuchstabe A in rotem Quadrat"
+    ], 
+    "🅱️": [
+        "b", 
+        "negativ", 
+        "Großbuchstabe B in rotem Quadrat", 
+        "positiv", 
+        "Blut", 
+        "Blutgruppe"
+    ], 
+    "🅾️": [
+        "Großbuchstabe O in rotem Quadrat", 
+        "negativ", 
+        "positiv", 
+        "0", 
+        "Blut", 
+        "Blutgruppe"
+    ], 
+    "🅿️": [
+        "Quadrat", 
+        "Großbuchstabe P in blauem Quadrat", 
+        "Parkplatz"
     ], 
     "🆎": [
         "ab", 
@@ -1421,6 +2108,11 @@
         "Schriftzeichen „koko“", 
         "„koko“"
     ], 
+    "🈂️": [
+        "japanisches Schriftzeichen", 
+        "„sa“", 
+        "Schriftzeichen „sa“"
+    ], 
     "🈚": [
         "japanisches Schriftzeichen", 
         "Verhandlung", 
@@ -1455,6 +2147,11 @@
         "existieren", 
         "japanisches Schriftzeichen", 
         "Schriftzeichen für „existieren“"
+    ], 
+    "🈷️": [
+        "japanisches Schriftzeichen", 
+        "Mond", 
+        "Schriftzeichen für „Mond“"
     ], 
     "🈸": [
         "chinesisches Schriftzeichen", 
@@ -1644,6 +2341,65 @@
         "Sternschnuppe", 
         "Himmel"
     ], 
+    "🌡️": [
+        "Wetter", 
+        "Temperatur", 
+        "Thermometer"
+    ], 
+    "🌤️": [
+        "Sonne hinter kleiner Wolke", 
+        "kleine Wolke", 
+        "Wetter", 
+        "Sonne", 
+        "Wolke"
+    ], 
+    "🌥️": [
+        "Wetter", 
+        "Sonne hinter großer Wolke", 
+        "große Wolke", 
+        "Sonne", 
+        "Wolke"
+    ], 
+    "🌦️": [
+        "Regenwolke", 
+        "Wetter", 
+        "Sonne", 
+        "Sonne hinter Regenwolke"
+    ], 
+    "🌧️": [
+        "Regenwolke", 
+        "Wetter", 
+        "Wolke mit Regen", 
+        "Regen", 
+        "Wolke"
+    ], 
+    "🌨️": [
+        "Schnee", 
+        "Wetter", 
+        "Wolke mit Schnee", 
+        "Wolke"
+    ], 
+    "🌩️": [
+        "Gewitter", 
+        "Wetter", 
+        "Blitz", 
+        "Wolke mit Blitz", 
+        "Wolke"
+    ], 
+    "🌪️": [
+        "Wetter", 
+        "Wirbelsturm"
+    ], 
+    "🌫️": [
+        "Nebel", 
+        "Wetter", 
+        "neblig"
+    ], 
+    "🌬️": [
+        "Wetter", 
+        "windig", 
+        "Wind"
+    ], 
     "🌭": [
         "Hot Dog", 
         "Würstchen", 
@@ -1686,6 +2442,14 @@
     "🌵": [
         "Kaktus", 
         "Pflanze"
+    ], 
+    "🌶️": [
+        "scharf", 
+        "Pflanze", 
+        "Paprika", 
+        "Peperoni", 
+        "Chili", 
+        "Pfeffer"
     ], 
     "🌷": [
         "Blüte", 
@@ -2073,6 +2837,12 @@
         "Baby", 
         "Milch"
     ], 
+    "🍽️": [
+        "kochen", 
+        "Gabel", 
+        "Teller mit Messer und Gabel", 
+        "Messer"
+    ], 
     "🍾": [
         "knallen", 
         "Flasche mit knallendem Korken", 
@@ -2114,8 +2884,18 @@
         "Tanne"
     ], 
     "🎅": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Weihnachtsmann", 
+        "Weihnachtsmann: helle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Weihnachtsmann: mittlere Hautfarbe", 
+        "Weihnachtsmann: dunkle Hautfarbe", 
         "Weihnachten", 
-        "Weihnachtsmann"
+        "Weihnachtsmann: mittelhelle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Weihnachtsmann: mitteldunkle Hautfarbe"
     ], 
     "🎆": [
         "Silvester", 
@@ -2190,6 +2970,37 @@
     "🎓": [
         "Abschlussfeier", 
         "Doktorhut"
+    ], 
+    "🎖️": [
+        "Orden", 
+        "Militärorden"
+    ], 
+    "🎗️": [
+        "Gedenkschleife", 
+        "Schleife"
+    ], 
+    "🎙️": [
+        "Studiomikrofon", 
+        "Mikrofon"
+    ], 
+    "🎚️": [
+        "Musik", 
+        "Schieberegler"
+    ], 
+    "🎛️": [
+        "Drehregler", 
+        "Stellknöpfe", 
+        "Bedienknöpfe"
+    ], 
+    "🎞️": [
+        "Filmstreifen", 
+        "Kino", 
+        "Film", 
+        "Filmband"
+    ], 
+    "🎟️": [
+        "Ticket", 
+        "Eintrittskarten"
     ], 
     "🎠": [
         "Karussellpferd", 
@@ -2391,26 +3202,53 @@
         "karierte Flagge"
     ], 
     "🏂": [
+        "Snowboarder(in): mittelhelle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Snowboarder", 
+        "mittlere Hautfarbe", 
         "Snowboarderin", 
+        "Snowboarder(in): mitteldunkle Hautfarbe", 
         "Snowboarder(in)", 
+        "helle Hautfarbe", 
         "Snowboard", 
+        "Snowboarder(in): mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Snowboarder(in): helle Hautfarbe", 
         "Snowboarden", 
-        "Sport"
+        "Sport", 
+        "Snowboarder(in): dunkle Hautfarbe", 
+        "mittelhelle Hautfarbe"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "laufen", 
+        "joggen", 
+        "laufende Frau", 
+        "Marathon", 
+        "Joggerin"
+    ], 
+    "🏃‍♂️": [
         "laufende Person", 
+        "laufen", 
+        "laufender Mann", 
+        "Jogger", 
+        "joggen", 
         "Sport", 
         "Marathon", 
         "Laufen"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "Surferin", 
+        "Frau", 
+        "Wellenreiten"
+    ], 
+    "🏄‍♂️": [
         "Wellenreiter", 
         "Wassersport", 
         "Surfer", 
         "Surferin", 
         "Surfen", 
         "Wellenreiten", 
+        "Mann", 
         "Surfer(in)", 
         "Sport", 
         "Wellenreiterin"
@@ -2424,9 +3262,19 @@
         "Preis"
     ], 
     "🏇": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Pferderennen: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Pferderennen: mitteldunkle Hautfarbe", 
+        "Pferderennen: helle Hautfarbe", 
         "Pferderennen", 
-        "Sport", 
-        "Jockey auf Pferd"
+        "Pferderennen: mittlere Hautfarbe", 
+        "Jockey auf Pferd", 
+        "Pferderennen: dunkle Hautfarbe", 
+        "Sport"
     ], 
     "🏈": [
         "Ball", 
@@ -2440,12 +3288,40 @@
         "Rugby", 
         "Rugbyball"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "schwimmen", 
+        "Schwimmbad", 
+        "kraulen", 
+        "Pool", 
+        "Schwimmerin"
+    ], 
+    "🏊‍♂️": [
+        "Schwimmer(in)", 
+        "Schwimmer", 
+        "Schwimmbad", 
+        "schwimmen", 
+        "Kraulen", 
         "Schwimmen", 
         "Wasser", 
-        "Schwimmer(in)", 
         "Sport", 
-        "Kraulen"
+        "Pool", 
+        "kraulen"
+    ], 
+    "🏋️‍♂️": [
+        "Gewicht", 
+        "Gewichtheber(in)"
+    ], 
+    "🏌️‍♂️": [
+        "Golf", 
+        "Golfer(in)"
+    ], 
+    "🏍️": [
+        "Motorrennen", 
+        "Motorrad"
+    ], 
+    "🏎️": [
+        "Autorennen", 
+        "Rennauto"
     ], 
     "🏏": [
         "Cricket", 
@@ -2471,6 +3347,77 @@
         "Schläger", 
         "Ball", 
         "Tischtennis"
+    ], 
+    "🏔️": [
+        "Schnee", 
+        "Berg", 
+        "kalt", 
+        "schneebedeckter Berg"
+    ], 
+    "🏕️": [
+        "campen", 
+        "Camping", 
+        "Zelt"
+    ], 
+    "🏖️": [
+        "Strand mit Sonnenschirm", 
+        "Sonnenschirm", 
+        "Strand", 
+        "Meer"
+    ], 
+    "🏗️": [
+        "Kran", 
+        "Bau", 
+        "bauen"
+    ], 
+    "🏘️": [
+        "Wohnhäuser", 
+        "Haus", 
+        "Häuser", 
+        "Wohnhaus", 
+        "Wohnsiedlung", 
+        "Gebäude"
+    ], 
+    "🏙️": [
+        "Wolkenkratzer", 
+        "Skyline", 
+        "Häuser", 
+        "Gebäude", 
+        "Stadt", 
+        "Hochhäuser"
+    ], 
+    "🏚️": [
+        "verfallen", 
+        "verlassen", 
+        "Haus", 
+        "heruntergekommen", 
+        "Gebäude", 
+        "verfallenes Haus"
+    ], 
+    "🏛️": [
+        "klassizistisch", 
+        "antikes Gebäude", 
+        "Gebäude", 
+        "antik"
+    ], 
+    "🏜️": [
+        "Wüste"
+    ], 
+    "🏝️": [
+        "einsame Insel", 
+        "Insel", 
+        "verlassen", 
+        "einsam", 
+        "Strand", 
+        "Meer"
+    ], 
+    "🏞️": [
+        "Park", 
+        "Nationalpark"
+    ], 
+    "🏟️": [
+        "Arena", 
+        "Stadion"
     ], 
     "🏠": [
         "Zuhause", 
@@ -2569,6 +3516,18 @@
         "Gebäude", 
         "europäisch"
     ], 
+    "🏳️": [
+        "weiße Flagge", 
+        "wehen", 
+        "weiße Fahne", 
+        "Fahne"
+    ], 
+    "🏳️‍🌈": [
+        "Regenbogenflagge", 
+        "Regenbogen", 
+        "bunt", 
+        "Fahne"
+    ], 
     "🏴": [
         "wehen", 
         "schwarze Fahne", 
@@ -2586,6 +3545,15 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Wales", 
         "Flagge"
+    ], 
+    "🏵️": [
+        "Rosette", 
+        "Pflanze"
+    ], 
+    "🏷️": [
+        "Marke", 
+        "Etikett", 
+        "Label"
     ], 
     "🏸": [
         "Schläger", 
@@ -2968,18 +3936,46 @@
         "Tatzen", 
         "Abdruck"
     ], 
+    "🐿️": [
+        "Streifenhörnchen", 
+        "Tier"
+    ], 
     "👀": [
         "Gesicht", 
         "Augen", 
         "Auge"
     ], 
+    "👁️": [
+        "Körperteil", 
+        "Auge"
+    ], 
     "👂": [
-        "Ohr", 
-        "Körperteil"
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Ohr: mitteldunkle Hautfarbe", 
+        "Ohr: dunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Ohr: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Ohr: helle Hautfarbe", 
+        "Körperteil", 
+        "Ohr: mittlere Hautfarbe", 
+        "Ohr"
     ], 
     "👃": [
+        "Nase: helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Nase: dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Nase: mitteldunkle Hautfarbe", 
         "Körperteil", 
-        "Nase"
+        "Nase", 
+        "Nase: mittelhelle Hautfarbe", 
+        "Nase: mittlere Hautfarbe"
     ], 
     "👄": [
         "Mund", 
@@ -2991,72 +3987,182 @@
         "Körperteil"
     ], 
     "👆": [
+        "nach oben weisender Zeigefinger von hinten: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "nach oben weisender Zeigefinger von hinten", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "nach oben weisender Zeigefinger von hinten: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
         "aufwärts", 
+        "nach oben weisender Zeigefinger von hinten: dunkle Hautfarbe", 
+        "nach oben weisender Zeigefinger von hinten: mitteldunkle Hautfarbe", 
         "Finger", 
+        "nach oben weisender Zeigefinger von hinten: helle Hautfarbe", 
         "Handrückseite"
     ], 
     "👇": [
-        "Handrückseite", 
-        "Finger", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "abwärts", 
-        "nach unten weisender Zeigefinger"
+        "mittlere Hautfarbe", 
+        "nach unten weisender Zeigefinger", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "nach unten weisender Zeigefinger: mitteldunkle Hautfarbe", 
+        "Finger", 
+        "nach unten weisender Zeigefinger: helle Hautfarbe", 
+        "nach unten weisender Zeigefinger: dunkle Hautfarbe", 
+        "nach unten weisender Zeigefinger: mittlere Hautfarbe", 
+        "Handrückseite", 
+        "nach unten weisender Zeigefinger: mittelhelle Hautfarbe"
     ], 
     "👈": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "links", 
-        "nach links weisender Zeigefinger", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "nach links weisender Zeigefinger: mittlere Hautfarbe", 
+        "nach links weisender Zeigefinger: dunkle Hautfarbe", 
         "Finger", 
+        "nach links weisender Zeigefinger: mittelhelle Hautfarbe", 
+        "nach links weisender Zeigefinger: mitteldunkle Hautfarbe", 
+        "nach links weisender Zeigefinger: helle Hautfarbe", 
+        "nach links weisender Zeigefinger", 
         "Handrückseite"
     ], 
     "👉": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "rechts", 
+        "mittlere Hautfarbe", 
+        "nach rechts weisender Zeigefinger: helle Hautfarbe", 
+        "nach rechts weisender Zeigefinger: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "nach rechts weisender Zeigefinger: dunkle Hautfarbe", 
+        "nach rechts weisender Zeigefinger: mitteldunkle Hautfarbe", 
         "Finger", 
+        "nach rechts weisender Zeigefinger", 
+        "mittelhelle Hautfarbe", 
         "Handrückseite", 
-        "nach rechts weisender Zeigefinger"
+        "nach rechts weisender Zeigefinger: mittelhelle Hautfarbe"
     ], 
     "👊": [
+        "geballte Faust: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "geballte Faust: mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "geballte Faust", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
         "Faust", 
-        "Hand"
+        "geballte Faust: dunkle Hautfarbe", 
+        "geballte Faust: mittlere Hautfarbe", 
+        "Hand", 
+        "geballte Faust: helle Hautfarbe"
     ], 
     "👋": [
-        "winkende Hand", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "winkende Hand: mittlere Hautfarbe", 
         "Winken", 
-        "Hand"
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "winkende Hand: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "winkende Hand: mitteldunkle Hautfarbe", 
+        "winkende Hand: dunkle Hautfarbe", 
+        "winkende Hand", 
+        "Hand", 
+        "winkende Hand: helle Hautfarbe"
     ], 
     "👌": [
+        "OK-Zeichen: mittelhelle Hautfarbe", 
         "OK", 
+        "mittlere Hautfarbe", 
+        "OK-Zeichen: helle Hautfarbe", 
         "in Ordnung", 
         "Hand", 
+        "helle Hautfarbe", 
+        "OK-Zeichen: mitteldunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
         "perfekt", 
+        "mitteldunkle Hautfarbe", 
         "OK-Zeichen", 
-        "exzellent"
+        "OK-Zeichen: dunkle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "exzellent", 
+        "OK-Zeichen: mittlere Hautfarbe"
     ], 
     "👍": [
-        "Hand", 
+        "Daumen hoch: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "nach oben", 
+        "Daumen hoch: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Daumen hoch: helle Hautfarbe", 
         "Daumen hoch", 
         "Daumen", 
-        "nach oben", 
-        "gut"
+        "gut", 
+        "Daumen hoch: dunkle Hautfarbe", 
+        "Hand", 
+        "Daumen hoch: mitteldunkle Hautfarbe"
     ], 
     "👎": [
+        "Daumen runter: helle Hautfarbe", 
+        "Daumen runter: mitteldunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "schlecht", 
-        "Hand", 
-        "Daumen", 
         "nach unten", 
+        "helle Hautfarbe", 
+        "Daumen runter: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Daumen", 
+        "Daumen runter: mittelhelle Hautfarbe", 
+        "Hand", 
+        "mittelhelle Hautfarbe", 
+        "Daumen runter: mittlere Hautfarbe", 
         "Daumen runter"
     ], 
     "👏": [
-        "applaudieren", 
-        "Klatschen", 
+        "klatschende Hände: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "klatschende Hände: mittelhelle Hautfarbe", 
+        "Hände", 
+        "mittlere Hautfarbe", 
         "klatschende Hände", 
+        "klatschende Hände: helle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Klatschen", 
         "Beifall", 
-        "Hände"
+        "klatschende Hände: mitteldunkle Hautfarbe", 
+        "applaudieren", 
+        "mitteldunkle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "klatschende Hände: mittlere Hautfarbe"
     ], 
     "👐": [
         "offene Hände", 
-        "offen", 
-        "Hände"
+        "offene Hände: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Hände", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "offene Hände: helle Hautfarbe", 
+        "offene Hände: mittlere Hautfarbe", 
+        "offene Hände: dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "offene Hände: mitteldunkle Hautfarbe", 
+        "offen"
     ], 
     "👑": [
         "König", 
@@ -3174,50 +4280,180 @@
         "Personen"
     ], 
     "👦": [
+        "dunkle Hautfarbe", 
+        "Junge: mittelhelle Hautfarbe", 
+        "Junge: mitteldunkle Hautfarbe", 
+        "Junge: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Junge: helle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
         "Gesicht", 
-        "Junge"
+        "mitteldunkle Hautfarbe", 
+        "Junge", 
+        "Junge: dunkle Hautfarbe"
     ], 
     "👧": [
+        "Mädchen", 
+        "Mädchen: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Mädchen: helle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Mädchen: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
         "Gesicht", 
-        "Mädchen"
+        "Mädchen: mittlere Hautfarbe", 
+        "Mädchen: dunkle Hautfarbe"
     ], 
     "👨": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Mann: dunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Mann: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "Mann: mittelhelle Hautfarbe", 
+        "Mann: helle Hautfarbe", 
+        "Mann: mitteldunkle Hautfarbe", 
+        "Mann"
+    ], 
+    "👨‍⚕️": [
+        "Arztkittel", 
+        "Arzt", 
+        "Doktor"
+    ], 
+    "👨‍⚖️": [
+        "Gerchtigkeit", 
+        "Recht", 
+        "Richter"
+    ], 
+    "👨‍✈️": [
+        "Flugzeug", 
+        "Mann", 
+        "Pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "Herz", 
+        "Frau", 
+        "Liebespaar: Mann, Mann", 
+        "Mann", 
+        "Liebespaar"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "sich küssendes Paar", 
+        "sich küssendes Paar: Mann, Mann", 
+        "Herz", 
+        "Frau", 
+        "Kuss", 
         "Mann"
     ], 
     "👨‍🌾": [
-        "Bauer", 
+        "Bauer: mitteldunkle Hautfarbe", 
         "Landwirt", 
+        "dunkle Hautfarbe", 
+        "Bauer: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Bauer: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Bauer: helle Hautfarbe", 
+        "Bauer: dunkle Hautfarbe", 
+        "Bauer", 
+        "mitteldunkle Hautfarbe", 
         "Ähre"
     ], 
     "👨‍🍳": [
+        "Koch: helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Koch: dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Koch", 
+        "Koch: mitteldunkle Hautfarbe", 
+        "Koch: mittelhelle Hautfarbe", 
         "Kochen", 
-        "Koch"
+        "Koch: mittlere Hautfarbe"
     ], 
     "👨‍🎓": [
+        "mitteldunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Student: mittelhelle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Doktorhut", 
+        "mittelhelle Hautfarbe", 
         "Absolvent", 
+        "Student: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
         "Student", 
-        "Uni"
+        "Student: helle Hautfarbe", 
+        "Uni", 
+        "Student: mittlere Hautfarbe", 
+        "Student: dunkle Hautfarbe"
     ], 
     "👨‍🎤": [
-        "Popstar", 
+        "Sänger: mittelhelle Hautfarbe", 
+        "Sänger: helle Hautfarbe", 
+        "Sänger: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "Mikrofon", 
+        "helle Hautfarbe", 
+        "dunkle Hautfarbe", 
         "Mann", 
+        "Sänger: dunkle Hautfarbe", 
+        "Sänger: mitteldunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Popstar", 
         "Sänger"
     ], 
     "👨‍🎨": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Künstler: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Maler", 
+        "Farbpalette", 
+        "helle Hautfarbe", 
+        "Künstler: dunkle Hautfarbe", 
+        "Künstler: mitteldunkle Hautfarbe", 
         "Künstler", 
+        "Künstler: helle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "Mann", 
-        "Farbpalette"
+        "Künstler: mittelhelle Hautfarbe"
     ], 
     "👨‍🏫": [
         "Lehrer", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Lehrer: mittelhelle Hautfarbe", 
         "Professor", 
-        "Dozent"
+        "helle Hautfarbe", 
+        "Lehrer: mittlere Hautfarbe", 
+        "Lehrer: dunkle Hautfarbe", 
+        "Lehrer: mitteldunkle Hautfarbe", 
+        "Dozent", 
+        "mittelhelle Hautfarbe", 
+        "Lehrer: helle Hautfarbe"
     ], 
     "👨‍🏭": [
+        "Fabrikarbeiter: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Fabrikarbeiter: mittelhelle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Fabrikarbeiter: mitteldunkle Hautfarbe", 
         "Fabrik", 
+        "helle Hautfarbe", 
+        "Fabrikarbeiter: helle Hautfarbe", 
+        "Fabrikarbeiter: mittlere Hautfarbe", 
         "Fabrikarbeiter"
     ], 
     "👨‍👦": [
@@ -3364,77 +4600,261 @@
         "Mann"
     ], 
     "👨‍💻": [
-        "Entwickler", 
+        "IT-Experte: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "IT-Experte: mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Bildschirm", 
+        "mittelhelle Hautfarbe", 
+        "IT-Experte: mittlere Hautfarbe", 
+        "IT-Experte: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Entwickler", 
         "Computer", 
+        "IT-Experte: helle Hautfarbe", 
         "IT-Experte"
     ], 
     "👨‍💼": [
-        "Manager", 
         "Angestellter", 
+        "Büroarbeiter: mittlere Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "Büro", 
-        "Büroarbeiter"
+        "Büroarbeiter: dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Manager", 
+        "Büroarbeiter", 
+        "dunkle Hautfarbe", 
+        "Büroarbeiter: mitteldunkle Hautfarbe", 
+        "Büroarbeiter: mittelhelle Hautfarbe", 
+        "Büroarbeiter: helle Hautfarbe"
     ], 
     "👨‍🔧": [
-        "Klempner", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Handwerker", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Klempner", 
+        "Mechaniker", 
+        "helle Hautfarbe", 
+        "Mechaniker: mitteldunkle Hautfarbe", 
+        "Mechaniker: mittlere Hautfarbe", 
+        "Mechaniker: helle Hautfarbe", 
+        "Mechaniker: dunkle Hautfarbe", 
         "Elektriker", 
-        "Mechaniker"
+        "Mechaniker: mittelhelle Hautfarbe"
     ], 
     "👨‍🔬": [
+        "Wissenschaftler: dunkle Hautfarbe", 
+        "Wissenschaftler: mitteldunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Wissenschaftler: mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "dunkle Hautfarbe", 
         "Wissenschaftler", 
+        "Labor", 
         "Forscher", 
-        "Labor"
+        "Wissenschaftler: mittelhelle Hautfarbe", 
+        "Wissenschaftler: helle Hautfarbe"
     ], 
     "👨‍🚀": [
-        "Astronaut", 
+        "Astronaut: mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Raumfahrt", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Weltraum", 
+        "Astronaut", 
+        "Astronaut: mittelhelle Hautfarbe", 
+        "Astronaut: dunkle Hautfarbe", 
+        "Astronaut: mitteldunkle Hautfarbe", 
         "Mann", 
-        "Weltraum"
+        "Astronaut: helle Hautfarbe"
     ], 
     "👨‍🚒": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "Feuerwehrmann", 
+        "Feuerwehrmann: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Feuerwehrmann: mittlere Hautfarbe", 
+        "Feuerwehrhelm", 
+        "Feuerwehrmann: mitteldunkle Hautfarbe", 
+        "Feuerwehrmann: dunkle Hautfarbe", 
         "Mann", 
-        "Feuerwehrhelm"
+        "Feuerwehrmann: helle Hautfarbe"
     ], 
     "👩": [
-        "Frau"
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Frau: helle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Frau", 
+        "Frau: mitteldunkle Hautfarbe", 
+        "Frau: dunkle Hautfarbe", 
+        "Frau: mittlere Hautfarbe", 
+        "Frau: mittelhelle Hautfarbe"
+    ], 
+    "👩‍⚕️": [
+        "Ärztin", 
+        "Arztkittel"
+    ], 
+    "👩‍⚖️": [
+        "Gerechtigkeit", 
+        "Recht", 
+        "Richterin"
+    ], 
+    "👩‍✈️": [
+        "Frau", 
+        "Pilotin", 
+        "Flugzeug"
+    ], 
+    "👩‍❤️‍👨": [
+        "Liebespaar: Frau, Mann", 
+        "Herz", 
+        "Frau", 
+        "Mann", 
+        "Liebespaar"
+    ], 
+    "👩‍❤️‍👩": [
+        "Herz", 
+        "Frau", 
+        "Liebespaar: Frau, Frau", 
+        "Mann", 
+        "Liebespaar"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "sich küssendes Paar", 
+        "Herz", 
+        "Frau", 
+        "sich küssendes Paar: Frau, Mann", 
+        "Kuss", 
+        "Mann"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "sich küssendes Paar", 
+        "Herz", 
+        "Frau", 
+        "Kuss", 
+        "sich küssendes Paar: Frau, Frau", 
+        "Mann"
     ], 
     "👩‍🌾": [
         "Bäuerin", 
+        "Bäuerin: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Bäuerin: helle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Bäuerin: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
         "Landwirtin", 
+        "Bäuerin: mittlere Hautfarbe", 
+        "Bäuerin: dunkle Hautfarbe", 
         "Ähre"
     ], 
     "👩‍🍳": [
-        "kochen", 
-        "Köchin"
+        "Köchin: mitteldunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Köchin", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Köchin: mittlere Hautfarbe", 
+        "Köchin: helle Hautfarbe", 
+        "helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Köchin: dunkle Hautfarbe", 
+        "Köchin: mittelhelle Hautfarbe", 
+        "kochen"
     ], 
     "👩‍🎓": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Studentin: mittelhelle Hautfarbe", 
+        "Studentin: dunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Doktorhut", 
         "Absolventin", 
+        "Studentin: helle Hautfarbe", 
+        "Studentin: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "Studentin", 
         "Uni", 
-        "Studentin"
+        "mittelhelle Hautfarbe", 
+        "Studentin: mitteldunkle Hautfarbe"
     ], 
     "👩‍🎤": [
-        "Sängerin", 
-        "Frau", 
+        "Sängerin: mittelhelle Hautfarbe", 
+        "Sängerin: dunkle Hautfarbe", 
+        "Sängerin: mitteldunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Sängerin: helle Hautfarbe", 
         "Mikrofon", 
+        "Frau", 
+        "Sängerin", 
+        "helle Hautfarbe", 
+        "Sängerin: mittlere Hautfarbe", 
         "Popstar"
     ], 
     "👩‍🎨": [
-        "Frau", 
-        "Künstlerin", 
+        "dunkle Hautfarbe", 
+        "Künstlerin: mittlere Hautfarbe", 
         "Malerin", 
-        "Farbpalette"
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Künstlerin: dunkle Hautfarbe", 
+        "Künstlerin: helle Hautfarbe", 
+        "Frau", 
+        "Künstlerin: mitteldunkle Hautfarbe", 
+        "Künstlerin: mittelhelle Hautfarbe", 
+        "Farbpalette", 
+        "mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Künstlerin"
     ], 
     "👩‍🏫": [
-        "Dozentin", 
+        "Lehrerin: helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Professorin", 
-        "Lehrerin"
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Dozentin", 
+        "Lehrerin: mittelhelle Hautfarbe", 
+        "Lehrerin", 
+        "Lehrerin: dunkle Hautfarbe", 
+        "Lehrerin: mittlere Hautfarbe", 
+        "Lehrerin: mitteldunkle Hautfarbe"
     ], 
     "👩‍🏭": [
+        "Fabrikarbeiterin: mittelhelle Hautfarbe", 
+        "Fabrikarbeiterin: mitteldunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Fabrikarbeiterin: mittlere Hautfarbe", 
+        "Fabrikarbeiterin", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "Fabrik", 
-        "Fabrikarbeiterin"
+        "helle Hautfarbe", 
+        "Fabrikarbeiterin: dunkle Hautfarbe", 
+        "Fabrikarbeiterin: helle Hautfarbe"
     ], 
     "👩‍👦": [
         "Familie: Frau, Junge", 
@@ -3529,44 +4949,98 @@
         "Familie"
     ], 
     "👩‍💻": [
-        "Entwickler", 
+        "IT-Expertin: helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Bildschirm", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Entwickler", 
+        "IT-Expertin: dunkle Hautfarbe", 
         "Computer", 
+        "IT-Expertin: mitteldunkle Hautfarbe", 
+        "IT-Expertin: mittlere Hautfarbe", 
+        "IT-Expertin: mittelhelle Hautfarbe", 
         "IT-Expertin"
     ], 
     "👩‍💼": [
-        "Büroarbeiterin", 
-        "Büro", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Managerin", 
+        "Büroarbeiterin: dunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Büro", 
+        "helle Hautfarbe", 
+        "Büroarbeiterin: mitteldunkle Hautfarbe", 
+        "Büroarbeiterin: mittlere Hautfarbe", 
+        "Büroarbeiterin: mittelhelle Hautfarbe", 
+        "Büroarbeiterin: helle Hautfarbe", 
+        "Büroarbeiterin", 
         "Angestellte"
     ], 
     "👩‍🔧": [
-        "Mechanikerin", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Mechanikerin: mittlere Hautfarbe", 
+        "Mechanikerin: mittelhelle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "Klempnerin", 
-        "Elektrikerin", 
-        "Handwerkerin"
+        "Handwerkerin", 
+        "helle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Mechanikerin", 
+        "Mechanikerin: mitteldunkle Hautfarbe", 
+        "Mechanikerin: helle Hautfarbe", 
+        "Mechanikerin: dunkle Hautfarbe", 
+        "Elektrikerin"
     ], 
     "👩‍🔬": [
-        "Forscherin", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Wissenschaftlerin: helle Hautfarbe", 
+        "Wissenschaftlerin: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "Wissenschaftlerin: dunkle Hautfarbe", 
+        "Wissenschaftlerin: mitteldunkle Hautfarbe", 
         "Wissenschaftlerin", 
-        "Labor"
+        "Labor", 
+        "Forscherin", 
+        "mittelhelle Hautfarbe", 
+        "Wissenschaftlerin: mittelhelle Hautfarbe"
     ], 
     "👩‍🚀": [
-        "Frau", 
+        "Astronautin: mittlere Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Weltraum", 
-        "Raumfahrt", 
-        "Astronautin"
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Astronautin: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Astronautin: mitteldunkle Hautfarbe", 
+        "Frau", 
+        "dunkle Hautfarbe", 
+        "Astronautin: dunkle Hautfarbe", 
+        "Astronautin", 
+        "Astronautin: helle Hautfarbe", 
+        "Raumfahrt"
     ], 
     "👩‍🚒": [
+        "Feuerwehrfrau: mitteldunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Feuerwehrfrau", 
+        "mittelhelle Hautfarbe", 
+        "Feuerwehrfrau: dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Frau", 
+        "Feuerwehrfrau: helle Hautfarbe", 
+        "Feuerwehrfrau: mittlere Hautfarbe", 
+        "Feuerwehrfrau: mittelhelle Hautfarbe", 
         "Feuerwehrhelm"
-    ], 
-    "👪": [
-        "Vater", 
-        "Familie", 
-        "Kind", 
-        "Mutter"
     ], 
     "👫": [
         "Paar", 
@@ -3587,67 +5061,171 @@
         "Frauen", 
         "Händchen halten"
     ], 
-    "👮": [
-        "Gesicht", 
-        "Polizist(in)", 
-        "Polizei"
+    "👮‍♀️": [
+        "Frau", 
+        "Polizei", 
+        "Polizistin"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "Gesicht", 
+        "Polizist", 
+        "Polizist(in)", 
+        "Polizei", 
+        "Mann"
+    ], 
+    "👯‍♀️": [
         "Personen mit Hasenohren", 
-        "Hasenohren", 
+        "Frauen mit Hasenohren", 
         "Leute", 
+        "Hasenohren", 
+        "Frauen", 
+        "Party", 
         "Bunnys"
     ], 
+    "👯‍♂️": [
+        "Hasenohren", 
+        "Männer mit Hasenohren", 
+        "Bunnys", 
+        "Männer", 
+        "Party"
+    ], 
     "👰": [
+        "Braut mit Schleier", 
+        "mitteldunkle Hautfarbe", 
+        "Braut mit Schleier: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
         "Gesicht", 
         "Schleier", 
+        "Braut mit Schleier: helle Hautfarbe", 
+        "Braut mit Schleier: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Braut", 
+        "Braut mit Schleier: dunkle Hautfarbe", 
         "Hochzeit", 
-        "Braut mit Schleier", 
-        "Braut"
+        "Braut mit Schleier: mitteldunkle Hautfarbe"
     ], 
-    "👱": [
+    "👱‍♀️": [
         "Gesicht", 
+        "blonde Frau", 
+        "Frau", 
+        "Haar", 
+        "blond"
+    ], 
+    "👱‍♂️": [
+        "Haar", 
+        "blonde Person", 
+        "Gesicht", 
+        "blond", 
+        "blonder Mann", 
         "blonde Haare", 
-        "blonde Person"
+        "Mann"
     ], 
     "👲": [
-        "Gesicht", 
         "Hut", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Mann mit chinesischem Hut: mittelhelle Hautfarbe", 
+        "Mann mit chinesischem Hut: dunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Mann mit chinesischem Hut", 
+        "mittelhelle Hautfarbe", 
+        "Mann mit chinesischem Hut: helle Hautfarbe", 
+        "Mann mit chinesischem Hut: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "Gesicht", 
         "China", 
         "Mann", 
-        "Mann mit chinesischem Hut"
+        "Mann mit chinesischem Hut: mitteldunkle Hautfarbe"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "Gesicht", 
+        "Frau", 
+        "Frau mit Turban", 
+        "Turban"
+    ], 
+    "👳‍♂️": [
+        "Gesicht", 
+        "Mann", 
         "Turban", 
-        "Person mit Turban"
+        "Person mit Turban", 
+        "Mann mit Turban"
     ], 
     "👴": [
-        "älterer Mann", 
+        "älterer Mann: mitteldunkle Hautfarbe", 
+        "älterer Mann: helle Hautfarbe", 
+        "älterer Mann: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
         "Gesicht", 
+        "dunkle Hautfarbe", 
+        "älterer Mann: dunkle Hautfarbe", 
+        "älterer Mann", 
+        "mitteldunkle Hautfarbe", 
         "Senior", 
+        "älterer Mann: mittelhelle Hautfarbe", 
         "Mann"
     ], 
     "👵": [
+        "ältere Frau: mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "ältere Frau: helle Hautfarbe", 
+        "helle Hautfarbe", 
         "Gesicht", 
         "Seniorin", 
         "Frau", 
-        "ältere Frau"
+        "ältere Frau: mitteldunkle Hautfarbe", 
+        "ältere Frau: mittelhelle Hautfarbe", 
+        "ältere Frau", 
+        "ältere Frau: dunkle Hautfarbe"
     ], 
     "👶": [
+        "dunkle Hautfarbe", 
+        "Baby: mittlere Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Baby: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Gesicht", 
+        "Baby: dunkle Hautfarbe", 
         "Baby", 
-        "Gesicht"
+        "mitteldunkle Hautfarbe", 
+        "Baby: mittelhelle Hautfarbe", 
+        "Baby: helle Hautfarbe"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "Helm", 
+        "Baustelle", 
+        "Bauarbeiterin", 
+        "Mann"
+    ], 
+    "👷‍♂️": [
         "Gesicht", 
         "Helm", 
+        "Baustelle", 
         "Bauarbeiter(in)", 
         "Bauarbeiter"
     ], 
     "👸": [
-        "Gesicht", 
+        "Prinzessin: helle Hautfarbe", 
+        "Prinzessin: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
         "Krone", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Prinzessin: mittelhelle Hautfarbe", 
+        "Märchen", 
+        "helle Hautfarbe", 
+        "Gesicht", 
         "Prinzessin", 
-        "Märchen"
+        "Prinzessin: mittlere Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Prinzessin: mitteldunkle Hautfarbe"
     ], 
     "👹": [
         "Gesicht", 
@@ -3671,10 +5249,20 @@
         "Gespenst"
     ], 
     "👼": [
+        "Putte: dunkle Hautfarbe", 
+        "Putte: helle Hautfarbe", 
+        "Putte: mitteldunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Putte: mittelhelle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Märchen", 
+        "helle Hautfarbe", 
         "Gesicht", 
         "Engel", 
-        "Märchen", 
-        "Putte"
+        "dunkle Hautfarbe", 
+        "Putte", 
+        "Putte: mittlere Hautfarbe"
     ], 
     "👽": [
         "Alien", 
@@ -3700,22 +5288,52 @@
         "tot", 
         "Tod"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "Infoschalter-Mitarbeiterin", 
+        "Frau", 
         "Gesicht", 
         "Hilfe", 
         "Informationen", 
+        "Auskunft", 
         "Infoschalter-Mitarbeiter(in)"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "Informationen", 
+        "Auskunft", 
+        "Infoschalter-Mitarbeiter", 
+        "Mann"
+    ], 
+    "💂‍♀️": [
         "Buckingham Palace", 
-        "Gesicht", 
+        "Wächterin", 
+        "Frau", 
+        "Wachfrau", 
+        "Fellmütze"
+    ], 
+    "💂‍♂️": [
+        "Wachmann/Wachfrau", 
+        "Fellmütze", 
+        "Buckingham Palace", 
         "Bärenfellmütze", 
-        "Wachmann/Wachfrau"
+        "Gesicht", 
+        "Wächter", 
+        "Wachmann", 
+        "Mann"
     ], 
     "💃": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "tanzende Frau: dunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "tanzende Frau: mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
         "tanzende Frau", 
         "Frau", 
-        "Tanz"
+        "Tanz", 
+        "tanzende Frau: mitteldunkle Hautfarbe", 
+        "tanzende Frau: helle Hautfarbe", 
+        "tanzende Frau: mittlere Hautfarbe"
     ], 
     "💄": [
         "Schminke", 
@@ -3724,21 +5342,50 @@
         "Make-up"
     ], 
     "💅": [
+        "Nagellack: mitteldunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Maniküre", 
+        "mittlere Hautfarbe", 
         "Nagelpflege", 
-        "Nagellack", 
+        "mittelhelle Hautfarbe", 
         "Nagel", 
         "Kosmetik", 
-        "Maniküre"
+        "helle Hautfarbe", 
+        "Nagellack: dunkle Hautfarbe", 
+        "Nagellack: mittlere Hautfarbe", 
+        "Nagellack: helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Nagellack: mittelhelle Hautfarbe", 
+        "Nagellack"
     ], 
-    "💆": [
-        "Person, die eine Kopfmassage bekommt", 
+    "💆‍♀️": [
         "Salon", 
+        "Kopfmassage", 
+        "Frau, die eine Kopfmassage bekommt", 
+        "Frau", 
+        "Person, die eine Kopfmassage bekommt", 
         "Massage"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "Kopfmassage", 
+        "Mann, der eine Kopfmassage bekommt", 
+        "Mann"
+    ], 
+    "💇‍♀️": [
+        "Schere", 
+        "Frau beim Haareschneiden", 
+        "Haarschnitt", 
+        "Frau", 
         "Frisur", 
         "Friseur", 
         "Person beim Haareschneiden"
+    ], 
+    "💇‍♂️": [
+        "Schere", 
+        "Haarschnitt", 
+        "Friseur", 
+        "Mann beim Haareschneiden", 
+        "Mann"
     ], 
     "💈": [
         "Barbershop-Säule", 
@@ -3779,23 +5426,10 @@
         "Edelstein", 
         "Diamant"
     ], 
-    "💏": [
-        "sich küssendes Paar", 
-        "Herz", 
-        "Frau", 
-        "Kuss", 
-        "Mann"
-    ], 
     "💐": [
         "Bouquet", 
         "Blumen", 
         "Blumenstrauß"
-    ], 
-    "💑": [
-        "Herz", 
-        "Frau", 
-        "Mann", 
-        "Liebespaar"
     ], 
     "💒": [
         "Herz", 
@@ -3923,10 +5557,20 @@
         "Kot"
     ], 
     "💪": [
+        "angespannter Bizeps: mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "angespannter Bizeps: helle Hautfarbe", 
+        "angespannter Bizeps: mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "stark", 
+        "helle Hautfarbe", 
         "angespannter Bizeps", 
+        "angespannter Bizeps: dunkle Hautfarbe", 
+        "angespannter Bizeps: mittlere Hautfarbe", 
         "Muskeln anspannen", 
-        "Comic", 
-        "stark"
+        "Comic"
     ], 
     "💫": [
         "Comic", 
@@ -4345,6 +5989,11 @@
         "Videokassette", 
         "Video"
     ], 
+    "📽️": [
+        "Kino", 
+        "Unterhaltung", 
+        "Filmprojektor"
+    ], 
     "📿": [
         "Rosenkranz", 
         "Gebet", 
@@ -4661,6 +6310,18 @@
         "abwärts", 
         "Pfeil"
     ], 
+    "🕉️": [
+        "Religion", 
+        "om", 
+        "Hinduismus"
+    ], 
+    "🕊️": [
+        "Friede", 
+        "Frieden", 
+        "fliegen", 
+        "Vogel", 
+        "Taube"
+    ], 
     "🕋": [
         "Muslim", 
         "Kaaba", 
@@ -4814,25 +6475,130 @@
         "Uhr", 
         "Ziffernblatt 12:30 Uhr"
     ], 
+    "🕯️": [
+        "Kerze", 
+        "Licht"
+    ], 
+    "🕰️": [
+        "Kaminuhr", 
+        "Uhr"
+    ], 
+    "🕳️": [
+        "Loch", 
+        "schwarz"
+    ], 
+    "🕴️": [
+        "geschäftlich", 
+        "Anzug", 
+        "schwebender Mann im Anzug", 
+        "Mann"
+    ], 
+    "🕵️‍♂️": [
+        "Spion", 
+        "Detektiv(in)"
+    ], 
+    "🕶️": [
+        "dunkel", 
+        "Brille", 
+        "Augen", 
+        "Sonnenbrille"
+    ], 
+    "🕷️": [
+        "Tier", 
+        "Spinne", 
+        "Insekt"
+    ], 
+    "🕸️": [
+        "Spinne", 
+        "Netz", 
+        "Spinnennetz"
+    ], 
+    "🕹️": [
+        "Gaming", 
+        "Joystick", 
+        "Videospiel"
+    ], 
     "🕺": [
-        "tanzen", 
+        "tanzender Mann: mittelhelle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "tanzender Mann: mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "tanzender Mann: dunkle Hautfarbe", 
+        "tanzender Mann: mittlere Hautfarbe", 
         "Mann", 
-        "tanzender Mann"
+        "tanzender Mann", 
+        "dunkle Hautfarbe", 
+        "tanzen", 
+        "tanzender Mann: helle Hautfarbe"
+    ], 
+    "🖇️": [
+        "verhakt", 
+        "Büroklammer", 
+        "verhakte Büroklammern", 
+        "Büroklammern"
+    ], 
+    "🖊️": [
+        "Kugelschreiber", 
+        "Stift"
+    ], 
+    "🖋️": [
+        "Füllhalter", 
+        "Füller", 
+        "Füllfedehalter"
+    ], 
+    "🖌️": [
+        "Pinsel", 
+        "malen", 
+        "Kunst"
+    ], 
+    "🖍️": [
+        "Wachsmalstift", 
+        "Buntstift"
+    ], 
+    "🖐️": [
+        "gespreizt", 
+        "fünf", 
+        "Hand", 
+        "5", 
+        "Finger", 
+        "Hand mit gespreizten Fingern"
     ], 
     "🖕": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Mittelfinger", 
-        "Finger", 
-        "Hand"
+        "Mittelfinger: dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Mittelfinger: mittlere Hautfarbe", 
+        "Mittelfinger: mittelhelle Hautfarbe", 
+        "Mittelfinger: helle Hautfarbe", 
+        "Hand", 
+        "mittelhelle Hautfarbe", 
+        "Mittelfinger: mitteldunkle Hautfarbe", 
+        "Finger"
     ], 
     "🖖": [
+        "vulkanischer Gruß: helle Hautfarbe", 
         "spreizen", 
+        "dunkle Hautfarbe", 
         "gespreizt", 
         "lebe lang und in Frieden", 
+        "mittlere Hautfarbe", 
+        "vulkanischer Gruß: mittelhelle Hautfarbe", 
         "vulkanisch", 
+        "vulkanischer Gruß: dunkle Hautfarbe", 
         "Hand", 
+        "helle Hautfarbe", 
         "Spock", 
+        "vulkanischer Gruß: mittlere Hautfarbe", 
         "Finger", 
+        "mitteldunkle Hautfarbe", 
         "Star Trek", 
+        "vulkanischer Gruß: mitteldunkle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "vulkanischer Gruß"
     ], 
     "🖤": [
@@ -4840,6 +6606,107 @@
         "Herz", 
         "schwarz", 
         "schwarzes Herz"
+    ], 
+    "🖥️": [
+        "Bildschirm", 
+        "Desktopcomputer", 
+        "Monitor", 
+        "Desktop"
+    ], 
+    "🖨️": [
+        "Computer", 
+        "Drucker"
+    ], 
+    "🖱️": [
+        "Computermaus", 
+        "Computer"
+    ], 
+    "🖲️": [
+        "Computer", 
+        "Trackball"
+    ], 
+    "🖼️": [
+        "Bild", 
+        "Zeichnung", 
+        "gerahmtes Bild", 
+        "Gemälde", 
+        "malen", 
+        "zeichnen", 
+        "Rahmen", 
+        "Kunst"
+    ], 
+    "🗂️": [
+        "Karteibahnen", 
+        "Büroausstattung", 
+        "Karteikarten"
+    ], 
+    "🗃️": [
+        "Büroausstattung", 
+        "Karteikasten"
+    ], 
+    "🗄️": [
+        "Ablage", 
+        "Aktenschrank", 
+        "Archiv"
+    ], 
+    "🗑️": [
+        "Papierkorb"
+    ], 
+    "🗒️": [
+        "Notizblock", 
+        "Block"
+    ], 
+    "🗓️": [
+        "Spiralkalender", 
+        "Kalender"
+    ], 
+    "🗜️": [
+        "Schraubzwinge", 
+        "Werkzeug"
+    ], 
+    "🗝️": [
+        "alt", 
+        "Schlüssel", 
+        "alter Schlüssel"
+    ], 
+    "🗞️": [
+        "zusammengerollt", 
+        "zusammengerollte Zeitung", 
+        "Zeitung"
+    ], 
+    "🗡️": [
+        "Waffe", 
+        "Dolch"
+    ], 
+    "🗣️": [
+        "sprechender Kopf", 
+        "sprechen", 
+        "Silhouette", 
+        "Kopf", 
+        "Gesicht", 
+        "sprechend"
+    ], 
+    "🗨️": [
+        "sprechen", 
+        "Sprechblase links", 
+        "reden", 
+        "Dialog", 
+        "Unterhaltung"
+    ], 
+    "🗯️": [
+        "wütend", 
+        "Sprechblase", 
+        "Sprechblase für wütende Aussage rechts"
+    ], 
+    "🗳️": [
+        "Urne", 
+        "Wahlzettel", 
+        "Urne mit Wahlzettel"
+    ], 
+    "🗺️": [
+        "Weltkarte", 
+        "Welt", 
+        "Karte"
     ], 
     "🗻": [
         "Fuji", 
@@ -5258,21 +7125,50 @@
         "Gesicht", 
         "Augen verdrehendes Gesicht"
     ], 
-    "🙅": [
-        "x", 
+    "🙅‍♀️": [
+        "Frau", 
+        "Gesicht", 
         "Person mit überkreuzten Armen", 
-        "verboten"
+        "Frau mit überkreuzten Armen", 
+        "verboten", 
+        "x", 
+        "Arme"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "Gesicht", 
+        "Mann mit überkreuzten Armen", 
+        "Arme", 
+        "Mann"
+    ], 
+    "🙆‍♀️": [
+        "o", 
+        "Gesicht", 
         "alles in Ordnung", 
+        "Frau", 
+        "Arme", 
         "Person mit Händen auf dem Kopf", 
-        "o"
+        "Frau mit Händen auf dem Kopf"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "Gesicht", 
+        "Mann mit Händen auf dem Kopf", 
+        "Arme", 
+        "Mann"
+    ], 
+    "🙇‍♀️": [
+        "verbeugen", 
+        "sich verbeugende Frau", 
+        "Frau", 
+        "Demut"
+    ], 
+    "🙇‍♂️": [
         "verbeugen", 
         "Entschuldigung", 
+        "sich verbeugender Mann", 
+        "Demut", 
+        "Geste", 
         "sich verbeugende Person", 
-        "Geste"
+        "Mann"
     ], 
     "🙈": [
         "nichts sehen", 
@@ -5292,27 +7188,75 @@
         "sich den Mund zuhaltendes Affengesicht", 
         "verboten"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "Person mit erhobenem Arm", 
-        "Siegerpose"
+        "Siegerpose", 
+        "Frau", 
+        "Frau mit erhobenem Arm", 
+        "Geste"
+    ], 
+    "🙋‍♂️": [
+        "Siegerpose", 
+        "Mann mit erhobenem Arm", 
+        "Mann", 
+        "Geste"
     ], 
     "🙌": [
         "zwei erhobene Handflächen", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "zwei erhobene Handflächen: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "zwei erhobene Handflächen: helle Hautfarbe", 
+        "zwei erhobene Handflächen: mittelhelle Hautfarbe", 
+        "zwei erhobene Handflächen: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "zwei erhobene Handflächen: mittlere Hautfarbe", 
         "feiern"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "Gesicht", 
-        "missmutige Person"
+        "missmutige Frau", 
+        "Frau", 
+        "missmutige Person", 
+        "Stirn runzeln"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "Gesicht", 
+        "missmutiger Mann", 
+        "Stirn runzeln", 
+        "Mann"
+    ], 
+    "🙎‍♀️": [
+        "schmollende Frau", 
         "schmollende Person", 
+        "schmollen", 
+        "Gesicht", 
+        "Frau", 
         "Schmollen"
     ], 
+    "🙎‍♂️": [
+        "Gesicht", 
+        "schmollender Mann", 
+        "schmollen", 
+        "Mann"
+    ], 
     "🙏": [
-        "Gebet", 
-        "bitte", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "betende Hände: mitteldunkle Hautfarbe", 
         "beten", 
-        "betende Hände"
+        "Gebet", 
+        "betende Hände: dunkle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "betende Hände", 
+        "helle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "betende Hände: mittelhelle Hautfarbe", 
+        "betende Hände: helle Hautfarbe", 
+        "bitte", 
+        "betende Hände: mittlere Hautfarbe"
     ], 
     "🚀": [
         "Rakete", 
@@ -5482,9 +7426,18 @@
         "Schiff", 
         "Dampfer"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "rudern", 
+        "Frau", 
+        "Boot", 
+        "Frau im Ruderboot"
+    ], 
+    "🚣‍♂️": [
         "Person im Ruderboot", 
-        "Boot"
+        "Mann im Ruderboot", 
+        "rudern", 
+        "Boot", 
+        "Mann"
     ], 
     "🚤": [
         "Boot", 
@@ -5563,20 +7516,50 @@
         "Radfahren verboten", 
         "Fahrräder verboten"
     ], 
-    "🚴": [
-        "Radfahrer", 
+    "🚴‍♀️": [
+        "Frau", 
+        "Radfahrerin", 
+        "Fahrrad", 
+        "Rad"
+    ], 
+    "🚴‍♂️": [
+        "Rad", 
         "Radfahren", 
-        "Radfahrer(in)"
+        "Radfahrer(in)", 
+        "Radfahrer", 
+        "Fahrrad", 
+        "Mann"
     ], 
-    "🚵": [
+    "🚵‍♀️": [
+        "Rad", 
+        "Frau", 
+        "Fahrrad", 
+        "Mountainbike", 
+        "Mountainbikerin"
+    ], 
+    "🚵‍♂️": [
+        "Rad", 
         "Mountainbiker(in)", 
-        "Radfahren"
+        "Radfahren", 
+        "Mountainbike", 
+        "Fahrrad", 
+        "Mountainbiker", 
+        "Mann"
     ], 
-    "🚶": [
-        "wandern", 
+    "🚶‍♀️": [
+        "Frau", 
+        "gehen", 
+        "Fußgängerin", 
+        "Spaziergang"
+    ], 
+    "🚶‍♂️": [
         "gehen", 
         "Fußgänger(in)", 
-        "gehend"
+        "Spaziergang", 
+        "wandern", 
+        "gehend", 
+        "Fußgänger", 
+        "Mann"
     ], 
     "🚷": [
         "Fußgänger verboten", 
@@ -5616,10 +7599,20 @@
         "Dusche"
     ], 
     "🛀": [
+        "mittlere Hautfarbe", 
+        "badende Person: mittelhelle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "badende Person: dunkle Hautfarbe", 
         "Badezimmer", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "badende Person: helle Hautfarbe", 
         "Bad", 
+        "dunkle Hautfarbe", 
+        "badende Person", 
         "Badewanne", 
-        "badende Person"
+        "badende Person: mittlere Hautfarbe", 
+        "badende Person: mitteldunkle Hautfarbe"
     ], 
     "🛁": [
         "Badezimmer", 
@@ -5643,9 +7636,43 @@
         "Schließfach", 
         "Gepäckaufbewahrung"
     ], 
+    "🛋️": [
+        "Sofa", 
+        "Lampe", 
+        "Sofa und Lampe"
+    ], 
     "🛌": [
+        "dunkle Hautfarbe", 
+        "im Bett liegende Person: mittelhelle Hautfarbe", 
         "schlafen", 
+        "Bett", 
+        "mittlere Hautfarbe", 
+        "im Bett liegende Person: helle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "im Bett liegende Person: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
         "im Bett liegende Person", 
+        "im Bett liegende Person: dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "im Bett liegende Person: mittlere Hautfarbe"
+    ], 
+    "🛍️": [
+        "Shopping", 
+        "Tüte", 
+        "Tasche", 
+        "Einkaufstüten", 
+        "Einkaufen", 
+        "einkaufen", 
+        "shoppen"
+    ], 
+    "🛎️": [
+        "Rezeptionsklingel", 
+        "Klingel"
+    ], 
+    "🛏️": [
+        "Übernachtung", 
+        "Hotel", 
+        "schlafen", 
         "Bett"
     ], 
     "🛐": [
@@ -5662,6 +7689,39 @@
         "einkaufen", 
         "Einkaufswagen"
     ], 
+    "🛠️": [
+        "Hammer und Schraubenschlüssel", 
+        "Schraubenschlüssel", 
+        "Hammer", 
+        "Werkzeug"
+    ], 
+    "🛡️": [
+        "Schild", 
+        "Schutzschild"
+    ], 
+    "🛢️": [
+        "Fass", 
+        "Öl", 
+        "Ölfass"
+    ], 
+    "🛣️": [
+        "Autobahn", 
+        "Schnellstraße"
+    ], 
+    "🛤️": [
+        "Bahngleis", 
+        "Schienen"
+    ], 
+    "🛥️": [
+        "Motorboot", 
+        "Boot", 
+        "Schiff"
+    ], 
+    "🛩️": [
+        "kleines Flugzeug", 
+        "Flugzeug", 
+        "klein"
+    ], 
     "🛫": [
         "Start", 
         "Start eines Flugzeugs", 
@@ -5672,6 +7732,15 @@
         "Landung eines Flugzeugs", 
         "Landung", 
         "Flugzeug"
+    ], 
+    "🛰️": [
+        "Satellit", 
+        "Weltraum"
+    ], 
+    "🛳️": [
+        "Passagierschiff", 
+        "Seereise", 
+        "Schiff"
     ], 
     "🛴": [
         "Tretroller"
@@ -5743,33 +7812,83 @@
         "umarmen"
     ], 
     "🤘": [
+        "mitteldunkle Hautfarbe", 
+        "Teufelsgruß: helle Hautfarbe", 
         "Teufelsgruß", 
+        "mittlere Hautfarbe", 
         "Hörner", 
+        "mittelhelle Hautfarbe", 
+        "Teufelsgruß: dunkle Hautfarbe", 
+        "Teufelsgruß: mitteldunkle Hautfarbe", 
         "Hand", 
+        "Teufelsgruß: mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
         "Finger", 
         "Rock", 
-        "Teufel"
+        "Teufel", 
+        "helle Hautfarbe", 
+        "Teufelsgruß: mittelhelle Hautfarbe"
     ], 
     "🤙": [
         "ruf-mich-an-Handzeichen", 
+        "Hand", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "anrufen", 
-        "Hand"
+        "helle Hautfarbe", 
+        "ruf-mich-an-Handzeichen: mittlere Hautfarbe", 
+        "ruf-mich-an-Handzeichen: dunkle Hautfarbe", 
+        "ruf-mich-an-Handzeichen: mitteldunkle Hautfarbe", 
+        "ruf-mich-an-Handzeichen: mittelhelle Hautfarbe", 
+        "ruf-mich-an-Handzeichen: helle Hautfarbe"
     ], 
     "🤚": [
+        "erhobene Hand von hinten: helle Hautfarbe", 
         "erhoben", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "erhobene Hand von hinten: dunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "erhobener Handrücken", 
-        "erhobene Hand von hinten", 
-        "Hand"
+        "helle Hautfarbe", 
+        "erhobene Hand von hinten: mittlere Hautfarbe", 
+        "erhobene Hand von hinten: mittelhelle Hautfarbe", 
+        "Hand", 
+        "erhobene Hand von hinten: mitteldunkle Hautfarbe", 
+        "erhobene Hand von hinten"
     ], 
     "🤛": [
+        "Faust nach links: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Faust nach links: mittelhelle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Faust nach links: helle Hautfarbe", 
+        "helle Hautfarbe", 
         "Faust nach links", 
         "Faust", 
-        "nach links"
+        "mitteldunkle Hautfarbe", 
+        "nach links", 
+        "Faust nach links: mittlere Hautfarbe", 
+        "Faust nach links: mitteldunkle Hautfarbe"
     ], 
     "🤜": [
-        "nach rechts", 
+        "Faust nach rechts: helle Hautfarbe", 
+        "Faust nach rechts: mitteldunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Faust nach rechts: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
         "Faust", 
-        "Faust nach rechts"
+        "Faust nach rechts: mittelhelle Hautfarbe", 
+        "Faust nach rechts", 
+        "nach rechts", 
+        "Faust nach rechts: mittlere Hautfarbe"
     ], 
     "🤝": [
         "Vereinbarung", 
@@ -5778,15 +7897,35 @@
         "Hände"
     ], 
     "🤞": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "gekreuzt", 
+        "mittlere Hautfarbe", 
+        "Hand mit gekreuzten Fingern: mittelhelle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Hand mit gekreuzten Fingern: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
         "Hand mit gekreuzten Fingern", 
-        "Hand", 
         "Finger", 
-        "gekreuzt"
+        "Hand mit gekreuzten Fingern: mittlere Hautfarbe", 
+        "Hand mit gekreuzten Fingern: helle Hautfarbe", 
+        "Hand mit gekreuzten Fingern: dunkle Hautfarbe", 
+        "Hand"
     ], 
     "🤟": [
-        "ich-liebe-dich-Geste", 
+        "ich-liebe-dich-Geste: mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "ich-liebe-dich-Geste: mittelhelle Hautfarbe", 
         "Ich liebe dich", 
-        "Hand"
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "ich-liebe-dich-Geste: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "ich-liebe-dich-Geste: helle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "ich-liebe-dich-Geste", 
+        "Hand", 
+        "ich-liebe-dich-Geste: dunkle Hautfarbe"
     ], 
     "🤠": [
         "Gesicht", 
@@ -5823,9 +7962,31 @@
     ], 
     "🤦": [
         "frustriert", 
-        "Gesicht", 
+        "sich an den Kopf fassende Person: mitteldunkle Hautfarbe", 
         "genervt", 
-        "sich an den Kopf fassende Person"
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "sich an den Kopf fassende Person: mittelhelle Hautfarbe", 
+        "sich an den Kopf fassende Person: helle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "sich an den Kopf fassende Person: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "Gesicht", 
+        "mittlere Hautfarbe", 
+        "sich an den Kopf fassende Person", 
+        "sich an den Kopf fassende Person: dunkle Hautfarbe"
+    ], 
+    "🤦‍♀️": [
+        "frustriert", 
+        "Frau", 
+        "genervt", 
+        "sich an den Kopf fassende Frau"
+    ], 
+    "🤦‍♂️": [
+        "frustriert", 
+        "genervt", 
+        "sich an den Kopf fassender Mann", 
+        "Mann"
     ], 
     "🤧": [
         "Gesicht", 
@@ -5873,53 +8034,193 @@
         "explodierender Kopf"
     ], 
     "🤰": [
+        "dunkle Hautfarbe", 
+        "schwangere Frau: mittlere Hautfarbe", 
+        "schwangere Frau: mittelhelle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "schwanger", 
+        "helle Hautfarbe", 
         "Frau", 
-        "schwangere Frau", 
-        "schwanger"
+        "schwangere Frau: mitteldunkle Hautfarbe", 
+        "schwangere Frau: helle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "schwangere Frau: dunkle Hautfarbe", 
+        "schwangere Frau"
     ], 
     "🤱": [
-        "Baby", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
         "Brust", 
-        "Stillen"
+        "mittelhelle Hautfarbe", 
+        "Stillen: mitteldunkle Hautfarbe", 
+        "Stillen: helle Hautfarbe", 
+        "Stillen: dunkle Hautfarbe", 
+        "Stillen", 
+        "Baby", 
+        "helle Hautfarbe", 
+        "Stillen: mittlere Hautfarbe", 
+        "Stillen: mittelhelle Hautfarbe"
     ], 
     "🤲": [
+        "Handflächen nach oben: dunkle Hautfarbe", 
         "Handflächen nach oben", 
+        "dunkle Hautfarbe", 
+        "Handflächen nach oben: mittelhelle Hautfarbe", 
+        "Handflächen nach oben: helle Hautfarbe", 
+        "Handflächen nach oben: mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Handflächen nach oben: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "beten"
     ], 
     "🤳": [
+        "Smartphone", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Selfie: dunkle Hautfarbe", 
         "Selfie", 
-        "Smartphone"
+        "Selfie: mittelhelle Hautfarbe", 
+        "Selfie: helle Hautfarbe", 
+        "helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Selfie: mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Selfie: mitteldunkle Hautfarbe"
     ], 
     "🤴": [
-        "Prinz"
+        "Prinz: helle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Prinz: dunkle Hautfarbe", 
+        "Prinz: mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Prinz", 
+        "Prinz: mittelhelle Hautfarbe", 
+        "Prinz: mittlere Hautfarbe"
     ], 
     "🤵": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Bräutigam", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
         "Mann im Anzug", 
+        "Mann im Anzug: mittelhelle Hautfarbe", 
+        "Mann im Anzug: dunkle Hautfarbe", 
+        "Mann im Anzug: mitteldunkle Hautfarbe", 
         "Smoking", 
-        "Mann", 
-        "Bräutigam"
+        "Mann im Anzug: helle Hautfarbe", 
+        "Mann im Anzug: mittlere Hautfarbe", 
+        "Mann"
     ], 
     "🤶": [
+        "Weihnachtsfrau: mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Weihnachtsfrau: dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Weihnachtsfrau: mittelhelle Hautfarbe", 
+        "Weihnachtsfrau: mitteldunkle Hautfarbe", 
         "Weihnachten", 
+        "Weihnachtsfrau: helle Hautfarbe", 
         "Weihnachtsfrau"
     ], 
     "🤷": [
-        "gleichgültig", 
         "egal", 
+        "mitteldunkle Hautfarbe", 
+        "keine Ahnung", 
+        "mittlere Hautfarbe", 
+        "gleichgültig", 
+        "mittelhelle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "schulterzuckende Person: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "schulterzuckende Person: mitteldunkle Hautfarbe", 
         "Zweifel", 
+        "schulterzuckende Person: mittelhelle Hautfarbe", 
+        "schulterzuckende Person: helle Hautfarbe", 
         "schulterzuckende Person", 
+        "schulterzuckende Person: dunkle Hautfarbe"
+    ], 
+    "🤷‍♀️": [
+        "gleichgültig", 
+        "Frau", 
+        "Zweifel", 
+        "schulterzuckende Frau", 
+        "keine Ahnung"
+    ], 
+    "🤷‍♂️": [
+        "gleichgültig", 
+        "Zweifel", 
+        "schulterzuckender Mann", 
+        "Mann", 
         "keine Ahnung"
     ], 
     "🤸": [
+        "Rad schlagende Person: mitteldunkle Hautfarbe", 
+        "Rad schlagende Person: mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Rad schlagende Person: mittelhelle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Person", 
+        "Rad schlagende Person: dunkle Hautfarbe", 
+        "Rad schlagende Person: helle Hautfarbe", 
         "Bodenturnen", 
         "Radschlag", 
-        "Rad schlagende Person", 
-        "Person"
+        "Rad schlagende Person"
+    ], 
+    "🤸‍♀️": [
+        "Bodenturnen", 
+        "Frau", 
+        "Radschlag", 
+        "Rad schlagende Frau"
+    ], 
+    "🤸‍♂️": [
+        "Bodenturnen", 
+        "Radschlag", 
+        "Rad schlagender Mann", 
+        "Mann"
     ], 
     "🤹": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Jongleur(in): dunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Jongleur(in)", 
+        "Jongleur(in): mitteldunkle Hautfarbe", 
+        "Jongleur(in): mittlere Hautfarbe", 
         "Multitasking", 
         "geschickt", 
-        "Jongleur(in)", 
+        "Jongleur(in): mittelhelle Hautfarbe", 
+        "Jongleur(in): helle Hautfarbe", 
+        "jonglieren"
+    ], 
+    "🤹‍♀️": [
+        "Multitasking", 
+        "Frau", 
+        "jonglieren", 
+        "geschickt", 
+        "Jongleurin"
+    ], 
+    "🤹‍♂️": [
+        "Jongleur", 
+        "Multitasking", 
+        "geschickt", 
+        "Mann", 
         "jonglieren"
     ], 
     "🤺": [
@@ -5935,16 +8236,70 @@
         "Ringkampf", 
         "Ringer(in)"
     ], 
+    "🤼‍♀️": [
+        "Wrestling", 
+        "Ringer", 
+        "ringende Frauen", 
+        "Ringkampf"
+    ], 
+    "🤼‍♂️": [
+        "Wrestling", 
+        "Ringer", 
+        "ringende Männer", 
+        "Ringkampf"
+    ], 
     "🤽": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Wasserballspieler(in): helle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Wasserballspieler(in)", 
+        "Wasserballspieler(in): mittlere Hautfarbe", 
+        "Wasserball", 
+        "helle Hautfarbe", 
+        "Wasserballspieler(in): mittelhelle Hautfarbe", 
+        "Wasserballspieler(in): dunkle Hautfarbe", 
         "Wasser", 
         "Sport", 
+        "Wasserballspieler(in): mitteldunkle Hautfarbe"
+    ], 
+    "🤽‍♀️": [
+        "Wasser", 
+        "Wassersport", 
+        "Wasserballspielerin", 
+        "Wasserball"
+    ], 
+    "🤽‍♂️": [
+        "Wasser", 
+        "Wassersport", 
         "Wasserball", 
-        "Wasserballspieler(in)"
+        "Wasserballspieler"
     ], 
     "🤾": [
-        "Handball", 
         "Handballspieler(in)", 
-        "Sport"
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Handballspieler(in): mitteldunkle Hautfarbe", 
+        "helle Hautfarbe", 
+        "Handballspieler(in): helle Hautfarbe", 
+        "Handballspieler(in): mittlere Hautfarbe", 
+        "Handball", 
+        "Handballspieler(in): mittelhelle Hautfarbe", 
+        "Sport", 
+        "Handballspieler(in): dunkle Hautfarbe"
+    ], 
+    "🤾‍♀️": [
+        "Handball", 
+        "Handballspielerin", 
+        "Frau"
+    ], 
+    "🤾‍♂️": [
+        "Handball", 
+        "Handballspieler", 
+        "Mann"
     ], 
     "🥀": [
         "verwelkt", 
@@ -6279,83 +8634,191 @@
         "Gesicht mit Monokel"
     ], 
     "🧑": [
+        "Erwachsener: mittlere Hautfarbe", 
+        "Erwachsener: helle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "geschlechtsneutral", 
+        "mittelhelle Hautfarbe", 
+        "helle Hautfarbe", 
         "Erwachsener", 
-        "geschlechtsneutral"
+        "mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "Erwachsener: mitteldunkle Hautfarbe", 
+        "Erwachsener: mittelhelle Hautfarbe", 
+        "Erwachsener: dunkle Hautfarbe"
     ], 
     "🧒": [
-        "geschlechtsneutral", 
         "Kind", 
-        "jung"
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Kind: mitteldunkle Hautfarbe", 
+        "geschlechtsneutral", 
+        "mittelhelle Hautfarbe", 
+        "Kind: mittelhelle Hautfarbe", 
+        "jung", 
+        "helle Hautfarbe", 
+        "mittlere Hautfarbe", 
+        "Kind: dunkle Hautfarbe", 
+        "Kind: mittlere Hautfarbe", 
+        "Kind: helle Hautfarbe"
     ], 
     "🧓": [
+        "mittlere Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "älterer Erwachsener: dunkle Hautfarbe", 
         "geschlechtsneutral", 
+        "mittelhelle Hautfarbe", 
+        "älterer Erwachsener: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "älterer Erwachsener: mittelhelle Hautfarbe", 
+        "älterer Erwachsener: helle Hautfarbe", 
+        "älterer Erwachsener: mitteldunkle Hautfarbe", 
         "alt", 
         "älterer Erwachsener"
     ], 
     "🧔": [
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
         "Bart", 
+        "mittlere Hautfarbe", 
+        "mittelhelle Hautfarbe", 
+        "Person mit Bart: mittlere Hautfarbe", 
+        "helle Hautfarbe", 
+        "Person mit Bart: helle Hautfarbe", 
+        "Person mit Bart: dunkle Hautfarbe", 
+        "Person mit Bart: mitteldunkle Hautfarbe", 
+        "Person mit Bart: mittelhelle Hautfarbe", 
         "Person mit Bart"
     ], 
     "🧕": [
-        "Kopftuch", 
         "Hidschāb", 
-        "Mantilla", 
+        "Frau mit Kopftuch: dunkle Hautfarbe", 
+        "dunkle Hautfarbe", 
+        "mitteldunkle Hautfarbe", 
+        "Frau mit Kopftuch: mitteldunkle Hautfarbe", 
+        "Frau mit Kopftuch: helle Hautfarbe", 
+        "Frau mit Kopftuch: mittelhelle Hautfarbe", 
+        "mittelhelle Hautfarbe", 
         "Frau mit Kopftuch", 
+        "helle Hautfarbe", 
+        "Kopftuch", 
+        "mittlere Hautfarbe", 
+        "Mantilla", 
+        "Frau mit Kopftuch: mittlere Hautfarbe", 
         "Tichel"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "Dampfsauna", 
+        "Frau in Dampfsauna", 
+        "Sauna"
+    ], 
+    "🧖‍♂️": [
+        "Mann in Dampfsauna", 
         "Dampfsauna", 
         "Person in Dampfsauna", 
         "Sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "Bergsteiger", 
-        "Bergsteiger(in)"
+        "Bergsteiger(in)", 
+        "Bergsteigerin"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "Bergsteiger"
+    ], 
+    "🧘‍♀️": [
+        "Frau im Lotossitz", 
         "Person im Lotossitz", 
         "Meditation", 
         "Yoga"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "Yoga", 
+        "Meditation", 
+        "Mann im Lotossitz"
+    ], 
+    "🧙‍♀️": [
         "Zauberin", 
         "Hexe", 
+        "Magierin", 
         "Hexenmeister", 
         "Zauberer", 
         "Magier(in)"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "Magier", 
+        "Hexenmeister", 
+        "Zauberer"
+    ], 
+    "🧚‍♀️": [
+        "Fee", 
         "Puck", 
         "Oberon", 
         "Märchenfee", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "Oberon", 
+        "Zauberer"
+    ], 
+    "🧛‍♀️": [
+        "weiblicher Vampir", 
         "Dracula", 
         "Vampir", 
         "Untoter"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Dracula", 
+        "männlicher Vampir", 
+        "Untoter"
+    ], 
+    "🧜‍♀️": [
+        "Nixe", 
+        "Meerjungfrau", 
+        "Wasserfrau"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
         "Meerjungfrau", 
         "Wassermann", 
         "Wassermensch", 
         "Wasserfrau"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "Elbin", 
+        "Elfe", 
+        "magisch"
+    ], 
+    "🧝‍♂️": [
         "Elbe", 
+        "Elben", 
+        "Elf", 
+        "Alb", 
         "Elf(e)", 
         "Elbin", 
-        "magisch", 
-        "Elben"
+        "magisch"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
         "Dschinn", 
+        "weiblicher Flaschengeist"
+    ], 
+    "🧞‍♂️": [
+        "Dschinn", 
+        "männlicher Flaschengeist", 
         "Flaschengeist"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "weiblicher Zombie", 
+        "wandelnde Tote", 
+        "Untote"
+    ], 
+    "🧟‍♂️": [
         "Zombie", 
         "Untoter", 
-        "wandelnder Toter"
+        "wandelnder Toter", 
+        "männlicher Zombie"
     ], 
     "🧠": [
         "Gehirn", 

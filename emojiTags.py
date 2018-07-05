@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import jsonUtil
-import random
 import languages
 
 
@@ -55,6 +54,7 @@ def getEmojiLanguageTagsFromUrl(language_code):
         root = ElementTree.fromstring(response.content)
         for annotation in root.iter('annotation'):
             emoji = annotation.attrib['cp'].encode('utf-8')
+            emoji = emojiUtil.checkIfEmojiAndGetNormalized(emoji)
             if emoji in emojiUtil.ALL_EMOJIS:
                 annotation_entries = [a.strip() for a in annotation.text.encode('utf-8').split('|')]
                 annotation_dict[emoji].update(annotation_entries)

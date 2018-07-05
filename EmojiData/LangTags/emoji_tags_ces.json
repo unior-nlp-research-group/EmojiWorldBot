@@ -1,4 +1,135 @@
 {
+    "#️⃣": [
+        "klávesy", 
+        "klávesy: #"
+    ], 
+    "*️⃣": [
+        "klávesy", 
+        "klávesy: *"
+    ], 
+    "0️⃣": [
+        "klávesy", 
+        "klávesy: 0"
+    ], 
+    "1️⃣": [
+        "klávesy", 
+        "klávesy: 1"
+    ], 
+    "2️⃣": [
+        "klávesy", 
+        "klávesy: 2"
+    ], 
+    "3️⃣": [
+        "klávesy", 
+        "klávesy: 3"
+    ], 
+    "4️⃣": [
+        "klávesy", 
+        "klávesy: 4"
+    ], 
+    "5️⃣": [
+        "klávesy", 
+        "klávesy: 5"
+    ], 
+    "6️⃣": [
+        "klávesy: 6", 
+        "klávesy"
+    ], 
+    "7️⃣": [
+        "klávesy: 7", 
+        "klávesy"
+    ], 
+    "8️⃣": [
+        "klávesy", 
+        "klávesy: 8"
+    ], 
+    "9️⃣": [
+        "klávesy", 
+        "klávesy: 9"
+    ], 
+    "©️": [
+        "znak ochrany autorského práva", 
+        "copyright"
+    ], 
+    "®️": [
+        "znak registrované ochranné známky", 
+        "registrováno"
+    ], 
+    "‼️": [
+        "interpunkční znaménka", 
+        "vykřičník", 
+        "dvojitý vykřičník", 
+        "značka"
+    ], 
+    "⁉️": [
+        "značka", 
+        "vykřičník a otazník", 
+        "interpunkční znaménka", 
+        "otazník", 
+        "vykřičník"
+    ], 
+    "™️": [
+        "tm", 
+        "trademark", 
+        "znak ochranné známky", 
+        "značka"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informace"
+    ], 
+    "↔️": [
+        "šipka doleva a doprava", 
+        "šipka"
+    ], 
+    "↕️": [
+        "šipka nahoru a dolů", 
+        "šipka"
+    ], 
+    "↖️": [
+        "šipka doleva nahoru", 
+        "strany", 
+        "šipka", 
+        "světové", 
+        "směr", 
+        "severozápad", 
+        "vedlejší"
+    ], 
+    "↗️": [
+        "strany", 
+        "severovýchod", 
+        "šipka", 
+        "světové", 
+        "směr", 
+        "vedlejší", 
+        "šipka doprava nahoru"
+    ], 
+    "↘️": [
+        "strany", 
+        "šipka doprava dolů", 
+        "šipka", 
+        "světové", 
+        "směr", 
+        "jihovýchod", 
+        "vedlejší"
+    ], 
+    "↙️": [
+        "strany", 
+        "šipka", 
+        "světové", 
+        "směr", 
+        "jihozápad", 
+        "vedlejší", 
+        "šipka doleva dolů"
+    ], 
+    "↩️": [
+        "šipka doprava stáčející se doleva", 
+        "šipka"
+    ], 
+    "↪️": [
+        "šipka doleva stáčející se doprava", 
+        "šipka"
+    ], 
     "⌚": [
         "čas", 
         "hodiny", 
@@ -12,6 +143,14 @@
         "časovač", 
         "písek", 
         "přesýpací hodiny"
+    ], 
+    "⌨️": [
+        "počítač", 
+        "klávesnice"
+    ], 
+    "⏏️": [
+        "tlačítko vysunutí", 
+        "vysunout"
     ], 
     "⏩": [
         "převinout", 
@@ -43,12 +182,55 @@
         "dolů", 
         "šipka"
     ], 
+    "⏭️": [
+        "další", 
+        "šipka", 
+        "scéna", 
+        "skladba", 
+        "trojúhelník", 
+        "tlačítko další stopy", 
+        "následující", 
+        "stopa"
+    ], 
+    "⏮️": [
+        "předcházející", 
+        "šipka", 
+        "poslední", 
+        "stopa", 
+        "scéna", 
+        "skladba", 
+        "tlačítko předchozí stopy", 
+        "trojúhelník", 
+        "předchozí"
+    ], 
+    "⏯️": [
+        "přehrát", 
+        "šipka", 
+        "pozastavit", 
+        "trojúhelník", 
+        "vpravo", 
+        "tlačítko přehrávání nebo pozastavení"
+    ], 
     "⏰": [
         "čas", 
         "vstávání", 
         "buzení", 
         "budík", 
         "hodiny"
+    ], 
+    "⏱️": [
+        "časomíra", 
+        "čas", 
+        "stopky", 
+        "hodiny"
+    ], 
+    "⏲️": [
+        "minutka", 
+        "časomíra", 
+        "hodiny", 
+        "kuchyňské", 
+        "čas", 
+        "časovač"
     ], 
     "⏳": [
         "minutka", 
@@ -57,6 +239,74 @@
         "čas", 
         "časovač", 
         "písek"
+    ], 
+    "⏸️": [
+        "tlačítko pozastavení", 
+        "svislý", 
+        "sloupec", 
+        "pozastavit", 
+        "pruhy", 
+        "vertikální", 
+        "pruh", 
+        "sloupce", 
+        "dvojitý", 
+        "svislé"
+    ], 
+    "⏹️": [
+        "zastavit", 
+        "tlačítko zastavení", 
+        "stop", 
+        "čtverec"
+    ], 
+    "⏺️": [
+        "záznam", 
+        "kolečko", 
+        "kruh", 
+        "tlačítko nahrávání", 
+        "nahrát", 
+        "kroužek"
+    ], 
+    "Ⓜ️": [
+        "kruh", 
+        "m", 
+        "kroužek", 
+        "M v kroužku"
+    ], 
+    "▪️": [
+        "černý čtvereček", 
+        "geometrie", 
+        "čtverec"
+    ], 
+    "▫️": [
+        "geometrie", 
+        "čtverec", 
+        "bílý čtvereček"
+    ], 
+    "▶️": [
+        "trojúhelník", 
+        "přehrát", 
+        "vpravo", 
+        "tlačítko přehrávání", 
+        "šipka"
+    ], 
+    "◀️": [
+        "opačně", 
+        "šipka", 
+        "tlačítko přehrávání pozpátku", 
+        "zpět", 
+        "trojúhelník", 
+        "opačného", 
+        "vlevo"
+    ], 
+    "◻️": [
+        "střední bílý čtverec", 
+        "geometrie", 
+        "čtverec"
+    ], 
+    "◼️": [
+        "střední černý čtverec", 
+        "geometrie", 
+        "čtverec"
     ], 
     "◽": [
         "větší bílý čtvereček", 
@@ -67,6 +317,47 @@
         "větší černý čtvereček", 
         "geometrie", 
         "čtverec"
+    ], 
+    "☀️": [
+        "slunečno", 
+        "vesmír", 
+        "počasí", 
+        "jasný", 
+        "paprsky", 
+        "slunce"
+    ], 
+    "☁️": [
+        "oblak", 
+        "počasí", 
+        "mrak"
+    ], 
+    "☂️": [
+        "počasí", 
+        "déšť", 
+        "oblečení", 
+        "deštník"
+    ], 
+    "☃️": [
+        "sníh", 
+        "počasí", 
+        "sněhulák", 
+        "zima"
+    ], 
+    "☄️": [
+        "vesmír", 
+        "kometa"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "okénko", 
+        "čtvereček", 
+        "zaškrtnuté políčko", 
+        "lístek", 
+        "volby", 
+        "zaškrtnutí", 
+        "hlasovací"
     ], 
     "☔": [
         "déšť", 
@@ -85,6 +376,102 @@
         "pití", 
         "nápoj", 
         "kouřící"
+    ], 
+    "☘️": [
+        "trojlístek", 
+        "rostlina", 
+        "jetel"
+    ], 
+    "☝️": [
+        "ruka", 
+        "prst", 
+        "ukazováček", 
+        "tělo", 
+        "nahoru", 
+        "ruka ukazující nahoru", 
+        "ukazovat"
+    ], 
+    "☠️": [
+        "příšera", 
+        "tvář", 
+        "zkřížené hnáty", 
+        "smajlík", 
+        "tělo", 
+        "výraz", 
+        "lebka a zkřížené hnáty", 
+        "smrt", 
+        "lebka"
+    ], 
+    "☢️": [
+        "radioaktivita", 
+        "radioaktivity", 
+        "značka"
+    ], 
+    "☣️": [
+        "biologické", 
+        "biohazard", 
+        "riziko", 
+        "nebezpečí", 
+        "značka"
+    ], 
+    "☦️": [
+        "křesťanský", 
+        "pravoslavný kříž", 
+        "křesťanství", 
+        "křesťan", 
+        "kříž", 
+        "náboženství"
+    ], 
+    "☪️": [
+        "muslimský", 
+        "islámský", 
+        "muslim", 
+        "hvězda a půlměsíc", 
+        "náboženství", 
+        "islám"
+    ], 
+    "☮️": [
+        "mír", 
+        "symbol míru"
+    ], 
+    "☯️": [
+        "jin", 
+        "jin a jang", 
+        "jang", 
+        "tao", 
+        "taoismus", 
+        "náboženství"
+    ], 
+    "☸️": [
+        "buddhismus", 
+        "dharma", 
+        "kolo dharmy", 
+        "náboženství", 
+        "kolo"
+    ], 
+    "☹️": [
+        "zamračení", 
+        "smajlík", 
+        "zamračený obličej", 
+        "tvář", 
+        "výraz"
+    ], 
+    "☺️": [
+        "tvář", 
+        "smajlík", 
+        "usmívající se obličej", 
+        "úsměv", 
+        "výraz", 
+        "silueta", 
+        "pohoda"
+    ], 
+    "♀️": [
+        "žena", 
+        "symbol ženského pohlaví"
+    ], 
+    "♂️": [
+        "symbol mužského pohlaví", 
+        "muž"
     ], 
     "♈": [
         "skopec", 
@@ -145,6 +532,43 @@
         "ryby", 
         "zvěrokruh"
     ], 
+    "♠️": [
+        "karta", 
+        "hra", 
+        "barva", 
+        "piky"
+    ], 
+    "♣️": [
+        "kříže", 
+        "karta", 
+        "kříž", 
+        "hra", 
+        "barva"
+    ], 
+    "♥️": [
+        "srdce", 
+        "karta", 
+        "hra", 
+        "barva"
+    ], 
+    "♦️": [
+        "kára", 
+        "karta", 
+        "hra", 
+        "barva", 
+        "káry"
+    ], 
+    "♨️": [
+        "horko", 
+        "horké prameny", 
+        "pára", 
+        "horký pramen", 
+        "lázeň"
+    ], 
+    "♻️": [
+        "recyklace", 
+        "symbol recyklace"
+    ], 
     "♿": [
         "bezbariérový", 
         "symbol invalidního vozíku", 
@@ -153,10 +577,75 @@
         "zpřístupnění", 
         "vozík"
     ], 
+    "⚒️": [
+        "špičák", 
+        "kladivo", 
+        "nářadí", 
+        "kladivo a špičák"
+    ], 
     "⚓": [
         "kotva", 
         "loď", 
         "zařízení"
+    ], 
+    "⚔️": [
+        "meče", 
+        "zbraň", 
+        "zkřížené", 
+        "zkřížené meče"
+    ], 
+    "⚕️": [
+        "eskulap", 
+        "hůl", 
+        "aesculapova", 
+        "lékařství", 
+        "nemocnice", 
+        "aeskulapova", 
+        "medicína", 
+        "lékař", 
+        "lékárník", 
+        "aesculap", 
+        "eskulapova", 
+        "aeskulap", 
+        "znak medicíny", 
+        "lékárna", 
+        "doktor"
+    ], 
+    "⚖️": [
+        "rovnováha", 
+        "váha", 
+        "miskové váhy", 
+        "zvěrokruh", 
+        "spravedlnost", 
+        "nářadí"
+    ], 
+    "⚗️": [
+        "destilace", 
+        "křivule", 
+        "destilační", 
+        "náčiní", 
+        "nádobí", 
+        "alembik", 
+        "chemie"
+    ], 
+    "⚙️": [
+        "ozubené kolo", 
+        "nářadí"
+    ], 
+    "⚛️": [
+        "symbol atomu", 
+        "ateismus", 
+        "atom"
+    ], 
+    "⚜️": [
+        "lilie", 
+        "heraldická lilie", 
+        "erb"
+    ], 
+    "⚠️": [
+        "varování", 
+        "upozornění", 
+        "výstraha"
     ], 
     "⚡": [
         "blesk", 
@@ -181,6 +670,18 @@
         "černý kroužek", 
         "černá"
     ], 
+    "⚰️": [
+        "smrt", 
+        "rakev"
+    ], 
+    "⚱️": [
+        "ostatky", 
+        "pohřeb", 
+        "popel", 
+        "pohřební urna", 
+        "smrt", 
+        "urna"
+    ], 
     "⚽": [
         "fotbal", 
         "fotbalový míč", 
@@ -204,11 +705,41 @@
         "mrak", 
         "slunce"
     ], 
+    "⛈️": [
+        "déšť", 
+        "blesk", 
+        "oblak", 
+        "počasí", 
+        "mrak", 
+        "hrom", 
+        "mrak s bleskem a deštěm"
+    ], 
     "⛎": [
         "zvěrokruh", 
         "hadonoš", 
         "had", 
         "plaz"
+    ], 
+    "⛏️": [
+        "nářadí", 
+        "dolování", 
+        "krumpáč"
+    ], 
+    "⛑️": [
+        "záchranářská helma", 
+        "čepice", 
+        "tvář", 
+        "helma", 
+        "smajlík", 
+        "kříž", 
+        "výraz", 
+        "přilba", 
+        "pomoc", 
+        "záchrana"
+    ], 
+    "⛓️": [
+        "řetězy", 
+        "řetěz"
     ], 
     "⛔": [
         "zákaz", 
@@ -222,12 +753,30 @@
         "vjezdu", 
         "doprava"
     ], 
+    "⛩️": [
+        "šintoistická svatyně", 
+        "šintoismus", 
+        "svatyně", 
+        "náboženství"
+    ], 
     "⛪": [
         "kostel", 
         "kříž", 
         "budova", 
         "náboženství", 
         "křesťanství"
+    ], 
+    "⛰️": [
+        "hora", 
+        "pohoří", 
+        "kopec"
+    ], 
+    "⛱️": [
+        "počasí", 
+        "déšť", 
+        "deštník", 
+        "slunce", 
+        "slunečník"
     ], 
     "⛲": [
         "vodotrysk", 
@@ -239,6 +788,15 @@
         "jamka", 
         "golfová"
     ], 
+    "⛴️": [
+        "člun", 
+        "loď", 
+        "trajekt", 
+        "plavidlo", 
+        "osobní", 
+        "přívoz", 
+        "doprava"
+    ], 
     "⛵": [
         "jachta", 
         "dovolená", 
@@ -246,6 +804,20 @@
         "plavidlo", 
         "moře", 
         "plachetnice"
+    ], 
+    "⛷️": [
+        "lyže", 
+        "sníh", 
+        "lyžař"
+    ], 
+    "⛸️": [
+        "bruslení", 
+        "led", 
+        "brusle"
+    ], 
+    "⛹️‍♂️": [
+        "osoba driblující s míčem", 
+        "míč"
     ], 
     "⛺": [
         "stan", 
@@ -264,27 +836,138 @@
         "čerpací", 
         "stanice"
     ], 
+    "✂️": [
+        "nástroj", 
+        "stříhání", 
+        "střih", 
+        "nůžky"
+    ], 
     "✅": [
         "značka", 
         "bílá značka zaškrtnutí", 
         "zaškrtnutí"
     ], 
+    "✈️": [
+        "letoun", 
+        "letadlo", 
+        "doprava"
+    ], 
+    "✉️": [
+        "obálka", 
+        "psaní", 
+        "pošta", 
+        "dopis", 
+        "e-mail", 
+        "email"
+    ], 
     "✊": [
         "úder", 
+        "tmavý odstín pleti", 
         "pěst", 
+        "zvednutá pěst: středně tmavý odstín pleti", 
+        "zvednutá pěst: střední odstín pleti", 
         "zaťatá", 
+        "středně tmavý odstín pleti", 
+        "zvednutá pěst: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "ruka", 
         "tělo", 
-        "zvednutá pěst"
+        "zvednutá pěst: tmavý odstín pleti", 
+        "zvednutá pěst", 
+        "zvednutá pěst: světlý odstín pleti"
     ], 
     "✋": [
+        "tmavý odstín pleti", 
+        "ruka", 
+        "zvednutá ruka: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "zvednutá ruka: střední odstín pleti", 
+        "zvednutá ruka", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "tělo", 
+        "zvednutá ruka: tmavý odstín pleti", 
+        "zvednutá ruka: středně tmavý odstín pleti", 
+        "zvednutá ruka: světlý odstín pleti"
+    ], 
+    "✌️": [
+        "gesto vítězství", 
         "ruka", 
         "tělo", 
-        "zvednutá ruka"
+        "vítězství", 
+        "v"
+    ], 
+    "✍️": [
+        "píšící ruka", 
+        "psát", 
+        "ruka", 
+        "tělo"
+    ], 
+    "✏️": [
+        "tužka"
+    ], 
+    "✒️": [
+        "hrot černého pera", 
+        "pero"
+    ], 
+    "✔️": [
+        "značka zaškrtnutí", 
+        "značka", 
+        "zaškrtnutí"
+    ], 
+    "✖️": [
+        "součin", 
+        "znak násobení", 
+        "zrušení", 
+        "zavřít", 
+        "zavírací", 
+        "zrušit", 
+        "x", 
+        "násobit", 
+        "krát", 
+        "násobení"
+    ], 
+    "✝️": [
+        "křesťanský", 
+        "křesťanství", 
+        "křesťan", 
+        "latinský kříž", 
+        "kříž", 
+        "náboženství"
+    ], 
+    "✡️": [
+        "židovský", 
+        "žid", 
+        "david", 
+        "Davidova hvězda", 
+        "hvězda", 
+        "náboženství"
     ], 
     "✨": [
         "jiskry", 
         "hvězda", 
+        "jiskra"
+    ], 
+    "✳️": [
+        "osmicípá hvězdička", 
+        "hvězdička"
+    ], 
+    "✴️": [
+        "hvězda", 
+        "osmicípá hvězda"
+    ], 
+    "❄️": [
+        "sníh", 
+        "počasí", 
+        "zima", 
+        "sněhová vločka"
+    ], 
+    "❇️": [
+        "jiskérka", 
+        "jiskřička", 
         "jiskra"
     ], 
     "❌": [
@@ -332,6 +1015,18 @@
         "vykřičník", 
         "značka"
     ], 
+    "❣️": [
+        "srdce", 
+        "znaménko", 
+        "vykřičník", 
+        "srdce jako vykřičník", 
+        "značka", 
+        "interpunkce"
+    ], 
+    "❤️": [
+        "rudé srdce", 
+        "srdce"
+    ], 
     "➕": [
         "znak plus", 
         "sčítání", 
@@ -353,6 +1048,15 @@
         "podíl", 
         "matematika"
     ], 
+    "➡️": [
+        "strany", 
+        "hlavní", 
+        "šipka", 
+        "světové", 
+        "směr", 
+        "východ", 
+        "šipka doprava"
+    ], 
     "➰": [
         "spirálka", 
         "smyčka"
@@ -362,6 +1066,42 @@
         "dvojitá smyčka", 
         "smyčka", 
         "dvojitý"
+    ], 
+    "⤴️": [
+        "šipka doprava stáčející se nahoru", 
+        "šipka"
+    ], 
+    "⤵️": [
+        "šipka doprava stáčející se dolů", 
+        "dolů", 
+        "šipka"
+    ], 
+    "⬅️": [
+        "strany", 
+        "hlavní", 
+        "šipka", 
+        "světové", 
+        "směr", 
+        "západ", 
+        "šipka doleva"
+    ], 
+    "⬆️": [
+        "strany", 
+        "hlavní", 
+        "šipka", 
+        "světové", 
+        "směr", 
+        "šipka nahoru", 
+        "sever"
+    ], 
+    "⬇️": [
+        "strany", 
+        "hlavní", 
+        "šipka", 
+        "šipka dolů", 
+        "světové", 
+        "směr", 
+        "jih"
     ], 
     "⬛": [
         "geometrie", 
@@ -382,6 +1122,43 @@
         "velký kruh", 
         "o"
     ], 
+    "〰️": [
+        "znaménka", 
+        "dlouhá vlnovka", 
+        "interpunkční", 
+        "interpunkce", 
+        "vlnitá", 
+        "vlny", 
+        "čára", 
+        "pomlčka"
+    ], 
+    "〽️": [
+        "zpěv", 
+        "symbol", 
+        "znak", 
+        "značka", 
+        "značka přechodu mezi částmi skladby", 
+        "part", 
+        "začátek", 
+        "zpěvák"
+    ], 
+    "㊗️": [
+        "štítek s japonským znakem „blahopřání“", 
+        "gratulace", 
+        "blahopřejeme", 
+        "štěstí", 
+        "ideogram", 
+        "祝", 
+        "japonština"
+    ], 
+    "㊙️": [
+        "ideogram", 
+        "秘", 
+        "tajemství", 
+        "štítek s japonským znakem „tajné“", 
+        "japonština", 
+        "utajení"
+    ], 
     "🀄": [
         "červený drak v mahjongu", 
         "madžong", 
@@ -396,6 +1173,28 @@
         "karta", 
         "divoká", 
         "karty"
+    ], 
+    "🅰️": [
+        "a", 
+        "štítek A (krevní skupina)", 
+        "krev"
+    ], 
+    "🅱️": [
+        "b", 
+        "štítek B (krevní skupina)", 
+        "krev"
+    ], 
+    "🅾️": [
+        "štítek 0 (krevní skupina)", 
+        "0", 
+        "o", 
+        "krev"
+    ], 
+    "🅿️": [
+        "parkování", 
+        "štítek P", 
+        "parkoviště", 
+        "parking"
     ], 
     "🆎": [
         "štítek AB (krevní skupina)", 
@@ -1487,6 +2286,16 @@
         "katakana", 
         "japonština"
     ], 
+    "🈂️": [
+        "štítek s japonským znakem „pozornost podniku“", 
+        "zdarma", 
+        "poplatek", 
+        "služba", 
+        "bezplatně", 
+        "サ", 
+        "katakana", 
+        "japonština"
+    ], 
     "🈚": [
         "ideogram", 
         "zdarma", 
@@ -1547,6 +2356,14 @@
         "není zdarma", 
         "štítek s japonským znakem „není zdarma“", 
         "majetek", 
+        "japonština"
+    ], 
+    "🈷️": [
+        "月", 
+        "ideogram", 
+        "štítek s japonským znakem „měsíc“", 
+        "měsíčně", 
+        "měsíční", 
         "japonština"
     ], 
     "🈸": [
@@ -1871,6 +2688,92 @@
         "padající", 
         "kometa"
     ], 
+    "🌡️": [
+        "teplota", 
+        "počasí", 
+        "teplé", 
+        "teplo", 
+        "teploměr"
+    ], 
+    "🌤️": [
+        "obláček", 
+        "oblak", 
+        "slunce za malým mrakem", 
+        "mráček", 
+        "počasí", 
+        "mrak", 
+        "slunce", 
+        "polojasno"
+    ], 
+    "🌥️": [
+        "oblak", 
+        "slunce za velkým mrakem", 
+        "počasí", 
+        "mrak", 
+        "slunce"
+    ], 
+    "🌦️": [
+        "déšť", 
+        "oblak", 
+        "počasí", 
+        "mrak", 
+        "slunce za dešťovým mrakem", 
+        "slunce"
+    ], 
+    "🌧️": [
+        "oblak", 
+        "mrak s deštěm", 
+        "déšť", 
+        "mrak", 
+        "počasí"
+    ], 
+    "🌨️": [
+        "oblak", 
+        "zima", 
+        "sníh", 
+        "počasí", 
+        "mrak", 
+        "mrak se sněhem"
+    ], 
+    "🌩️": [
+        "blesk", 
+        "oblak", 
+        "počasí", 
+        "mrak", 
+        "mrak s bleskem"
+    ], 
+    "🌪️": [
+        "oblak", 
+        "tornádo", 
+        "počasí", 
+        "vír", 
+        "mrak"
+    ], 
+    "🌫️": [
+        "oblak", 
+        "mlhavé počasí", 
+        "počasí", 
+        "mrak", 
+        "mlha"
+    ], 
+    "🌬️": [
+        "foukat", 
+        "větrný obličej", 
+        "foukající", 
+        "větřík", 
+        "oblak", 
+        "tvář", 
+        "fouká", 
+        "smajlík", 
+        "vítr", 
+        "počasí", 
+        "vane", 
+        "mrak", 
+        "vát", 
+        "výraz", 
+        "vánek", 
+        "vanoucí"
+    ], 
     "🌭": [
         "hot dog", 
         "párek v rohlíku", 
@@ -1923,6 +2826,16 @@
     "🌵": [
         "kaktus", 
         "rostlina"
+    ], 
+    "🌶️": [
+        "chilli", 
+        "pálivý", 
+        "rostlina", 
+        "paprika", 
+        "paprička", 
+        "feferonka", 
+        "čili", 
+        "ostrý"
     ], 
     "🌷": [
         "květ", 
@@ -2423,6 +3336,15 @@
         "dítě", 
         "mléko"
     ], 
+    "🍽️": [
+        "talíř", 
+        "vaření", 
+        "talíř s vidličkou a nožem", 
+        "příbor", 
+        "vidlička", 
+        "nůž", 
+        "nádobí"
+    ], 
     "🍾": [
         "bar", 
         "korek", 
@@ -2479,11 +3401,21 @@
         "svátky"
     ], 
     "🎅": [
+        "světlý odstín pleti", 
+        "Santa Claus: světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "Santa Claus: tmavý odstín pleti", 
         "pohádka", 
+        "středně tmavý odstín pleti", 
         "otec", 
+        "Santa Claus: středně světlý odstín pleti", 
         "vánoce", 
         "fantasy", 
+        "Santa Claus: středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "Santa Claus: střední odstín pleti", 
         "santa", 
+        "tmavý odstín pleti", 
         "oslava", 
         "Santa Claus"
     ], 
@@ -2597,6 +3529,60 @@
         "student", 
         "oslava", 
         "čapka"
+    ], 
+    "🎖️": [
+        "vyznamenání", 
+        "armáda", 
+        "medaile", 
+        "řád", 
+        "oslava", 
+        "vojenská medaile"
+    ], 
+    "🎗️": [
+        "angažovanost", 
+        "mašle", 
+        "symbol", 
+        "kauza", 
+        "symbolická stužka", 
+        "připomínka", 
+        "památka", 
+        "oslava", 
+        "podpora"
+    ], 
+    "🎙️": [
+        "studiový mikrofon", 
+        "studio", 
+        "hudba", 
+        "mikrofon"
+    ], 
+    "🎚️": [
+        "fader", 
+        "úroveň", 
+        "potenciometr", 
+        "hudba", 
+        "hlasitost", 
+        "posuvný ovladač hlasitosti", 
+        "jezdec"
+    ], 
+    "🎛️": [
+        "ovládání", 
+        "potenciometr", 
+        "ovládací knoflíky", 
+        "hudba", 
+        "otočný"
+    ], 
+    "🎞️": [
+        "okénka", 
+        "surovina", 
+        "políčka", 
+        "kino", 
+        "filmová okénka", 
+        "film"
+    ], 
+    "🎟️": [
+        "vstupenka", 
+        "vstupenky", 
+        "lístek"
     ], 
     "🎠": [
         "kůň", 
@@ -2817,20 +3803,50 @@
         "praporek"
     ], 
     "🏂": [
-        "lyže", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "snowboardista", 
+        "snowboardista: tmavý odstín pleti", 
+        "snowboardista: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "snowboardista: střední odstín pleti", 
+        "snowboardista: středně světlý odstín pleti", 
         "sníh", 
+        "středně světlý odstín pleti", 
         "snowboard", 
-        "snowboardista"
+        "snowboardista: světlý odstín pleti", 
+        "lyže"
     ], 
-    "🏃": [
-        "běžící osoba", 
+    "🏃‍♀️": [
+        "závod", 
+        "žena", 
+        "běžící žena", 
         "běh", 
         "maraton"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "muž", 
+        "závod", 
+        "běžící muž", 
+        "maraton", 
+        "běžící osoba", 
+        "běh"
+    ], 
+    "🏄‍♀️": [
         "surf", 
+        "žena", 
+        "surfing", 
+        "surfařka", 
+        "prkno", 
+        "surfování"
+    ], 
+    "🏄‍♂️": [
+        "surf", 
+        "muž", 
         "prkno", 
         "surfing", 
+        "surfař", 
         "surfování", 
         "osoba na surfu"
     ], 
@@ -2847,11 +3863,21 @@
     ], 
     "🏇": [
         "dostihový kůň", 
+        "středně tmavý odstín pleti", 
         "žokej", 
+        "žokej na koni: střední odstín pleti", 
         "dostihy", 
         "závod", 
+        "žokej na koni: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "žokej na koni: světlý odstín pleti", 
         "kůň", 
-        "žokej na koni"
+        "tmavý odstín pleti", 
+        "žokej na koni: středně tmavý odstín pleti", 
+        "žokej na koni", 
+        "žokej na koni: tmavý odstín pleti"
     ], 
     "🏈": [
         "fotbalový", 
@@ -2870,9 +3896,40 @@
         "míč na rugby", 
         "míč"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
         "plavání", 
-        "plavající osoba"
+        "žena", 
+        "plavkyně"
+    ], 
+    "🏊‍♂️": [
+        "plavání", 
+        "muž", 
+        "plavající osoba", 
+        "plavec"
+    ], 
+    "🏋️‍♂️": [
+        "silák", 
+        "vzpěrač", 
+        "osoba vzpírající činku", 
+        "tíha", 
+        "váha", 
+        "činka", 
+        "vzpírání"
+    ], 
+    "🏌️‍♂️": [
+        "osoba hrající golf", 
+        "míček", 
+        "golf"
+    ], 
+    "🏍️": [
+        "motorka", 
+        "závod", 
+        "motocykl"
+    ], 
+    "🏎️": [
+        "auto", 
+        "závod", 
+        "formule"
     ], 
     "🏏": [
         "pálka", 
@@ -2907,6 +3964,79 @@
         "hra", 
         "míč", 
         "ping-pong"
+    ], 
+    "🏔️": [
+        "hora", 
+        "sníh", 
+        "zima", 
+        "zasněžená hora"
+    ], 
+    "🏕️": [
+        "stan", 
+        "kempování", 
+        "tábor", 
+        "táboření", 
+        "kemp"
+    ], 
+    "🏖️": [
+        "pláž", 
+        "deštník", 
+        "slunečník", 
+        "pláž se slunečníkem"
+    ], 
+    "🏗️": [
+        "staveniště", 
+        "budova", 
+        "stavba"
+    ], 
+    "🏘️": [
+        "dům", 
+        "domky", 
+        "budova", 
+        "domy"
+    ], 
+    "🏙️": [
+        "městská", 
+        "krajina", 
+        "vyhlídka", 
+        "městská zástavba", 
+        "silueta", 
+        "město", 
+        "budova"
+    ], 
+    "🏚️": [
+        "opuštěný dům", 
+        "opuštěný", 
+        "budova", 
+        "dům"
+    ], 
+    "🏛️": [
+        "klasická", 
+        "klasicismus", 
+        "antika", 
+        "antická budova", 
+        "budova"
+    ], 
+    "🏜️": [
+        "poušť"
+    ], 
+    "🏝️": [
+        "tropy", 
+        "pláž", 
+        "ostrov", 
+        "tropický", 
+        "opuštěný", 
+        "pustý ostrov", 
+        "palma", 
+        "poušť"
+    ], 
+    "🏞️": [
+        "rezervace", 
+        "park", 
+        "národní park"
+    ], 
+    "🏟️": [
+        "stadion"
     ], 
     "🏠": [
         "dům", 
@@ -3017,6 +4147,19 @@
         "budova", 
         "evropský"
     ], 
+    "🏳️": [
+        "bílá vlajka", 
+        "praporek", 
+        "vlající", 
+        "prapor"
+    ], 
+    "🏳️‍🌈": [
+        "prapor", 
+        "praporek", 
+        "duha", 
+        "duhová vlajka", 
+        "vlajka"
+    ], 
     "🏴": [
         "praporek", 
         "vlající", 
@@ -3034,6 +4177,19 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "vlajka", 
         "Wales"
+    ], 
+    "🏵️": [
+        "květ", 
+        "květina", 
+        "rozeta", 
+        "rostlina"
+    ], 
+    "🏷️": [
+        "cedulka", 
+        "cenovka", 
+        "visačka", 
+        "jmenovka", 
+        "štítek"
     ], 
     "🏸": [
         "košík", 
@@ -3470,18 +4626,45 @@
         "tlapa", 
         "otisky tlap"
     ], 
+    "🐿️": [
+        "veverka"
+    ], 
     "👀": [
         "tělo", 
         "oko", 
         "obličej", 
         "oči"
     ], 
-    "👂": [
+    "👁️": [
         "tělo", 
+        "oko"
+    ], 
+    "👂": [
+        "tmavý odstín pleti", 
+        "ucho: tmavý odstín pleti", 
+        "ucho: světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "tělo", 
+        "ucho: středně světlý odstín pleti", 
+        "ucho: středně tmavý odstín pleti", 
+        "ucho: střední odstín pleti", 
         "ucho"
     ], 
     "👃": [
+        "tmavý odstín pleti", 
+        "nos: středně tmavý odstín pleti", 
+        "nos: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "nos: střední odstín pleti", 
+        "nos: světlý odstín pleti", 
         "tělo", 
+        "nos: tmavý odstín pleti", 
         "nos"
     ], 
     "👄": [
@@ -3495,91 +4678,201 @@
         "tělo"
     ], 
     "👆": [
+        "tmavý odstín pleti", 
         "ruka", 
+        "ruka s prstem ukazujícím nahoru: tmavý odstín pleti", 
+        "ruka s prstem ukazujícím nahoru: střední odstín pleti", 
+        "středně světlý odstín pleti", 
+        "ruka s prstem ukazujícím nahoru: středně světlý odstín pleti", 
+        "ruka s prstem ukazujícím nahoru: světlý odstín pleti", 
+        "střední odstín pleti", 
         "prst", 
+        "světlý odstín pleti", 
         "hřbet ruky", 
         "ukazováček", 
         "tělo", 
         "ruka s prstem ukazujícím nahoru", 
         "nahoru", 
+        "středně tmavý odstín pleti", 
+        "ruka s prstem ukazujícím nahoru: středně tmavý odstín pleti", 
         "ukazovat"
     ], 
     "👇": [
+        "tmavý odstín pleti", 
         "ruka", 
+        "ruka s prstem ukazujícím dolů: světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "ruka s prstem ukazujícím dolů: středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "ruka s prstem ukazujícím dolů: středně tmavý odstín pleti", 
         "prst", 
+        "světlý odstín pleti", 
         "hřbet ruky", 
         "ukazováček", 
         "dolů", 
         "tělo", 
         "ruka s prstem ukazujícím dolů", 
-        "ukazovat"
+        "ruka s prstem ukazujícím dolů: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "ukazovat", 
+        "ruka s prstem ukazujícím dolů: střední odstín pleti"
     ], 
     "👈": [
+        "tmavý odstín pleti", 
         "ruka", 
+        "ruka s prstem ukazujícím vlevo: střední odstín pleti", 
+        "ruka s prstem ukazujícím vlevo: světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "ruka s prstem ukazujícím vlevo: středně světlý odstín pleti", 
+        "ruka s prstem ukazujícím vlevo: středně tmavý odstín pleti", 
         "prst", 
+        "světlý odstín pleti", 
         "hřbet ruky", 
+        "střední odstín pleti", 
         "ukazováček", 
         "tělo", 
         "ruka s prstem ukazujícím vlevo", 
-        "ukazovat"
+        "ukazovat", 
+        "ruka s prstem ukazujícím vlevo: tmavý odstín pleti"
     ], 
     "👉": [
+        "tmavý odstín pleti", 
         "ruka", 
+        "ruka s prstem ukazujícím vpravo: světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "ruka s prstem ukazujícím vpravo: střední odstín pleti", 
+        "střední odstín pleti", 
+        "ruka s prstem ukazujícím vpravo: středně světlý odstín pleti", 
         "prst", 
+        "světlý odstín pleti", 
         "hřbet ruky", 
         "ukazováček", 
         "tělo", 
         "ruka s prstem ukazujícím vpravo", 
-        "ukazovat"
+        "středně tmavý odstín pleti", 
+        "ruka s prstem ukazujícím vpravo: středně tmavý odstín pleti", 
+        "ukazovat", 
+        "ruka s prstem ukazujícím vpravo: tmavý odstín pleti"
     ], 
     "👊": [
         "úder", 
+        "tmavý odstín pleti", 
         "pěst", 
+        "namířená pěst: středně světlý odstín pleti", 
         "zaťatá", 
+        "namířená pěst: střední odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "namířená pěst: tmavý odstín pleti", 
         "ruka", 
         "namířená pěst", 
-        "tělo"
+        "tělo", 
+        "namířená pěst: středně tmavý odstín pleti", 
+        "namířená pěst: světlý odstín pleti", 
+        "středně tmavý odstín pleti"
     ], 
     "👋": [
-        "mávání", 
-        "mávající ruka", 
+        "mávající ruka: střední odstín pleti", 
+        "mávající ruka: světlý odstín pleti", 
         "ruka", 
         "mávat", 
-        "tělo"
+        "mávající ruka: středně tmavý odstín pleti", 
+        "mávající ruka", 
+        "středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "tělo", 
+        "mávající ruka: středně světlý odstín pleti", 
+        "mávání", 
+        "mávající ruka: tmavý odstín pleti"
     ], 
     "👌": [
+        "tmavý odstín pleti", 
         "ruka", 
         "OK", 
+        "gesto OK", 
+        "gesto OK: středně světlý odstín pleti", 
+        "gesto OK: středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "tělo", 
-        "gesto OK"
+        "gesto OK: světlý odstín pleti", 
+        "gesto OK: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "gesto OK: střední odstín pleti"
     ], 
     "👍": [
+        "palec nahoru: středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
         "ruka", 
+        "palec nahoru: střední odstín pleti", 
         "palec nahoru", 
+        "středně tmavý odstín pleti", 
         "palec", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "+1", 
+        "střední odstín pleti", 
         "tělo", 
-        "nahoru"
+        "palec nahoru: středně světlý odstín pleti", 
+        "nahoru", 
+        "palec nahoru: světlý odstín pleti", 
+        "palec nahoru: tmavý odstín pleti"
     ], 
     "👎": [
+        "tmavý odstín pleti", 
         "ruka", 
+        "palec dolů: středně tmavý odstín pleti", 
+        "palec dolů: střední odstín pleti", 
+        "palec dolů: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "palec dolů", 
         "palec", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "dolů", 
         "tělo", 
-        "-1"
+        "-1", 
+        "palec dolů: světlý odstín pleti", 
+        "palec dolů: tmavý odstín pleti"
     ], 
     "👏": [
+        "tmavý odstín pleti", 
         "ruka", 
+        "středně světlý odstín pleti", 
+        "tleskající ruce: tmavý odstín pleti", 
+        "tleskající ruce: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "tleskající ruce: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "tleskající ruce: světlý odstín pleti", 
+        "střední odstín pleti", 
+        "tleskající ruce: střední odstín pleti", 
         "tělo", 
         "tleskat", 
         "tleskající ruce"
     ], 
     "👐": [
-        "tělo", 
+        "rozevřené dlaně: středně světlý odstín pleti", 
+        "tmavý odstín pleti", 
         "ruka", 
+        "rozevřené dlaně", 
+        "rozevřené dlaně: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "otevřený", 
-        "rozevřené dlaně"
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "tělo", 
+        "rozevřené dlaně: středně tmavý odstín pleti", 
+        "rozevřené dlaně: střední odstín pleti", 
+        "rozevřené dlaně: světlý odstín pleti"
     ], 
     "👑": [
         "královna", 
@@ -3708,65 +5001,204 @@
         "bysta"
     ], 
     "👦": [
+        "chlapec: středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "chlapec: světlý odstín pleti", 
+        "chlapec: tmavý odstín pleti", 
+        "chlapec: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "chlapec", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "chlapec: střední odstín pleti", 
+        "střední odstín pleti", 
         "kluk", 
-        "hoch", 
-        "chlapec"
+        "hoch"
     ], 
     "👧": [
-        "děvče", 
-        "holka", 
-        "dívka", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "dívka: středně tmavý odstín pleti", 
         "zvěrokruh", 
-        "panna"
+        "středně tmavý odstín pleti", 
+        "dívka: středně světlý odstín pleti", 
+        "panna", 
+        "děvče", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "holka", 
+        "dívka: střední odstín pleti", 
+        "dívka: světlý odstín pleti", 
+        "dívka", 
+        "dívka: tmavý odstín pleti"
     ], 
     "👨": [
-        "muž"
+        "muž: středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "muž", 
+        "muž: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "muž: světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "muž: středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "muž: střední odstín pleti"
+    ], 
+    "👨‍⚕️": [
+        "nemocnice", 
+        "zdravotník", 
+        "terapeut", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "soudce", 
+        "muž", 
+        "právo", 
+        "váhy", 
+        "spravedlnost"
+    ], 
+    "👨‍✈️": [
+        "muž", 
+        "letadlo", 
+        "pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "muž", 
+        "srdce", 
+        "romantika", 
+        "romance", 
+        "láska", 
+        "pár se srdcem: muž, muž", 
+        "pár se srdcem", 
+        "dvojice", 
+        "pár"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "muž", 
+        "romantika", 
+        "polibek", 
+        "romance", 
+        "líbání", 
+        "polibek: muž, muž", 
+        "dvojice", 
+        "pár"
     ], 
     "👨‍🌾": [
         "sedlák", 
+        "farmář: střední odstín pleti", 
+        "tmavý odstín pleti", 
+        "muž", 
+        "farmář: tmavý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "zemědělec", 
+        "farmář: světlý odstín pleti", 
+        "střední odstín pleti", 
+        "farmář: středně světlý odstín pleti", 
         "zahradník", 
         "farmář", 
-        "muž", 
-        "zemědělec"
+        "farmář: středně tmavý odstín pleti"
     ], 
     "👨‍🍳": [
-        "šéfkuchař", 
+        "tmavý odstín pleti", 
         "muž", 
-        "kuchař"
+        "kuchař: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "kuchař", 
+        "kuchař: tmavý odstín pleti", 
+        "kuchař: střední odstín pleti", 
+        "šéfkuchař", 
+        "kuchař: středně světlý odstín pleti", 
+        "kuchař: světlý odstín pleti"
     ], 
     "👨‍🎓": [
+        "tmavý odstín pleti", 
         "muž", 
+        "student: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "absolvent", 
-        "student"
+        "student: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "student: střední odstín pleti", 
+        "student", 
+        "student: světlý odstín pleti", 
+        "student: tmavý odstín pleti"
     ], 
     "👨‍🎤": [
         "rocker", 
+        "zpěvák: světlý odstín pleti", 
+        "tmavý odstín pleti", 
         "muž", 
+        "zpěvák: tmavý odstín pleti", 
         "bavič", 
         "zábava", 
+        "zpěvák: střední odstín pleti", 
+        "zpěvák: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "zpěvák: středně tmavý odstín pleti", 
         "rock", 
         "herec", 
+        "středně tmavý odstín pleti", 
         "hvězda", 
         "zpěvák"
     ], 
     "👨‍🎨": [
-        "paleta", 
-        "umělec", 
+        "umění", 
         "muž", 
+        "malíř: středně světlý odstín pleti", 
+        "umělec", 
+        "malíř: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "tmavý odstín pleti", 
+        "malíř: střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "paleta", 
+        "malíř: světlý odstín pleti", 
         "malíř", 
-        "umění"
+        "malíř: tmavý odstín pleti"
     ], 
     "👨‍🏫": [
+        "učitel: středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
         "muž", 
+        "učitel: světlý odstín pleti", 
+        "učitel: tmavý odstín pleti", 
+        "učitel: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "učitel", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "učitel: střední odstín pleti", 
         "instruktor", 
-        "profesor", 
-        "učitel"
+        "profesor"
     ], 
     "👨‍🏭": [
-        "výroba", 
-        "průmysl", 
+        "tmavý odstín pleti", 
         "muž", 
         "dělník", 
+        "dělník v továrně: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "výroba", 
+        "dělník v továrně: střední odstín pleti", 
+        "dělník v továrně: světlý odstín pleti", 
+        "dělník v továrně: středně světlý odstín pleti", 
+        "průmysl", 
+        "dělník v továrně: tmavý odstín pleti", 
         "dělník v továrně"
     ], 
     "👨‍👦": [
@@ -3913,109 +5345,312 @@
         "dívka"
     ], 
     "👨‍💻": [
+        "programátor: tmavý odstín pleti", 
+        "programátor: středně světlý odstín pleti", 
         "kodér", 
         "muž", 
+        "tmavý odstín pleti", 
         "počítač", 
         "programování", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
         "vývoj", 
         "notebook", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "programátor", 
+        "programátor: světlý odstín pleti", 
+        "programátor: středně tmavý odstín pleti", 
         "vývojář", 
         "vynálezce", 
         "technologie", 
+        "programátor: střední odstín pleti", 
         "software"
     ], 
     "👨‍💼": [
+        "manažer: středně světlý odstín pleti", 
+        "tmavý odstín pleti", 
         "muž", 
         "manažer", 
+        "manažer: střední odstín pleti", 
+        "manažer: světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "byznys", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "úředník", 
         "bílý límeček", 
-        "kancelář"
+        "kancelář", 
+        "manažer: středně tmavý odstín pleti", 
+        "manažer: tmavý odstín pleti"
     ], 
     "👨‍🔧": [
+        "mechanik: tmavý odstín pleti", 
+        "tmavý odstín pleti", 
         "muž", 
         "opravář", 
+        "střední odstín pleti", 
+        "mechanik: světlý odstín pleti", 
+        "mechanik: střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "řemeslník", 
         "elektrikář", 
+        "mechanik: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "montér", 
         "živnostník", 
-        "mechanik"
+        "mechanik", 
+        "mechanik: středně tmavý odstín pleti"
     ], 
     "👨‍🔬": [
+        "tmavý odstín pleti", 
         "muž", 
+        "vědec: tmavý odstín pleti", 
         "fyzik", 
+        "středně světlý odstín pleti", 
+        "vědec: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "vědec: střední odstín pleti", 
         "vědec", 
+        "vědec: středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
         "chemik", 
         "biolog", 
+        "střední odstín pleti", 
+        "vědec: světlý odstín pleti", 
         "věda", 
         "inženýr", 
         "matematik"
     ], 
     "👨‍🚀": [
-        "vesmír", 
-        "kosmonaut", 
+        "kosmonaut: světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
         "muž", 
+        "kosmonaut: středně tmavý odstín pleti", 
+        "kosmonaut: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "raketa", 
+        "kosmonaut: střední odstín pleti", 
+        "vesmír", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "astronaut", 
-        "raketa"
+        "kosmonaut: tmavý odstín pleti", 
+        "kosmonaut"
     ], 
     "👨‍🚒": [
+        "hasič: tmavý odstín pleti", 
+        "hasič: středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
         "muž", 
         "hasičské auto", 
         "stříkačka", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "hasič: světlý odstín pleti", 
         "požár", 
         "požárník", 
+        "hasič: středně světlý odstín pleti", 
+        "hasič: střední odstín pleti", 
         "hasič"
     ], 
     "👩": [
-        "žena"
+        "žena", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "žena: světlý odstín pleti", 
+        "žena: tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "žena: středně světlý odstín pleti", 
+        "žena: středně tmavý odstín pleti", 
+        "žena: střední odstín pleti"
+    ], 
+    "👩‍⚕️": [
+        "nemocnice", 
+        "doktorka", 
+        "sestřička", 
+        "zdravotnice", 
+        "terapeutka"
+    ], 
+    "👩‍⚖️": [
+        "žena", 
+        "soudkyně", 
+        "právo", 
+        "váhy", 
+        "spravedlnost"
+    ], 
+    "👩‍✈️": [
+        "žena", 
+        "pilotka", 
+        "letadlo"
+    ], 
+    "👩‍❤️‍👨": [
+        "žena", 
+        "muž", 
+        "srdce", 
+        "romantika", 
+        "romance", 
+        "pár se srdcem: žena, muž", 
+        "láska", 
+        "pár se srdcem", 
+        "dvojice", 
+        "pár"
+    ], 
+    "👩‍❤️‍👩": [
+        "žena", 
+        "srdce", 
+        "romantika", 
+        "romance", 
+        "láska", 
+        "pár se srdcem: žena, žena", 
+        "pár se srdcem", 
+        "dvojice", 
+        "pár"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "žena", 
+        "muž", 
+        "romantika", 
+        "polibek", 
+        "romance", 
+        "líbání", 
+        "polibek: žena, muž", 
+        "dvojice", 
+        "pár"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "žena", 
+        "polibek: žena, žena", 
+        "romantika", 
+        "polibek", 
+        "romance", 
+        "líbání", 
+        "dvojice", 
+        "pár"
     ], 
     "👩‍🌾": [
         "žena", 
-        "zahradnice", 
-        "farmářka", 
+        "tmavý odstín pleti", 
+        "farmářka: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "farmářka: světlý odstín pleti", 
         "selka", 
-        "zemědělkyně"
+        "farmářka: tmavý odstín pleti", 
+        "zemědělkyně", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "zahradnice", 
+        "farmářka: středně tmavý odstín pleti", 
+        "farmářka", 
+        "farmářka: střední odstín pleti"
     ], 
     "👩‍🍳": [
         "žena", 
+        "kuchařka: tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "kuchařka: střední odstín pleti", 
+        "kuchařka: světlý odstín pleti", 
         "šéfkuchařka", 
+        "středně tmavý odstín pleti", 
+        "kuchařka: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "kuchařka: středně tmavý odstín pleti", 
         "kuchařka"
     ], 
     "👩‍🎓": [
         "studentka", 
         "žena", 
+        "tmavý odstín pleti", 
+        "studentka: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "studentka: světlý odstín pleti", 
+        "studentka: střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "studentka: středně světlý odstín pleti", 
+        "studentka: středně tmavý odstín pleti", 
         "absolventka"
     ], 
     "👩‍🎤": [
         "žena", 
         "zpěvačka", 
         "rockerka", 
+        "středně světlý odstín pleti", 
         "zábava", 
+        "středně tmavý odstín pleti", 
+        "zpěvačka: středně světlý odstín pleti", 
+        "zpěvačka: středně tmavý odstín pleti", 
         "herečka", 
+        "světlý odstín pleti", 
         "bavička", 
+        "střední odstín pleti", 
+        "zpěvačka: tmavý odstín pleti", 
+        "zpěvačka: střední odstín pleti", 
         "rock", 
-        "hvězda"
+        "tmavý odstín pleti", 
+        "hvězda", 
+        "zpěvačka: světlý odstín pleti"
     ], 
     "👩‍🎨": [
         "žena", 
         "umění", 
+        "malířka: středně světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "malířka: střední odstín pleti", 
+        "malířka: světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "malířka: středně tmavý odstín pleti", 
+        "umělkyně", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "paleta", 
         "malířka", 
-        "umělkyně"
+        "malířka: tmavý odstín pleti"
     ], 
     "👩‍🏫": [
         "žena", 
+        "učitelka: střední odstín pleti", 
+        "tmavý odstín pleti", 
+        "učitelka: tmavý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "učitelka: světlý odstín pleti", 
+        "učitelka: středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
         "učitelka", 
+        "střední odstín pleti", 
+        "učitelka: středně světlý odstín pleti", 
         "profesorka", 
         "instruktorka"
     ], 
     "👩‍🏭": [
         "dělnice v továrně", 
+        "žena", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "dělnice v továrně: středně světlý odstín pleti", 
+        "dělnice v továrně: střední odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "dělnice v továrně: tmavý odstín pleti", 
+        "výroba", 
+        "dělnice v továrně: středně tmavý odstín pleti", 
         "průmysl", 
         "dělnice", 
-        "výroba", 
-        "žena"
+        "dělnice v továrně: světlý odstín pleti"
     ], 
     "👩‍👦": [
         "žena", 
@@ -4112,63 +5747,117 @@
     "👩‍💻": [
         "vynálezkyně", 
         "technologie", 
+        "tmavý odstín pleti", 
+        "programátorka: tmavý odstín pleti", 
         "počítač", 
         "programování", 
         "žena", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
         "programátorka", 
         "vývoj", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "programátorka: střední odstín pleti", 
         "notebook", 
+        "programátorka: světlý odstín pleti", 
+        "programátorka: středně světlý odstín pleti", 
         "kodérka", 
         "vývojářka", 
+        "programátorka: středně tmavý odstín pleti", 
         "software"
     ], 
     "👩‍💼": [
         "žena", 
+        "manažerka: středně tmavý odstín pleti", 
+        "manažerka: střední odstín pleti", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
         "byznys", 
         "manažerka", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "manažerka: světlý odstín pleti", 
+        "manažerka: tmavý odstín pleti", 
         "bílý límeček", 
         "kancelář", 
+        "manažerka: středně světlý odstín pleti", 
         "úřednice"
     ], 
     "👩‍🔧": [
         "řemeslnice", 
         "mechanička", 
+        "tmavý odstín pleti", 
         "montérka", 
         "žena", 
+        "středně tmavý odstín pleti", 
         "opravářka", 
         "elektrikářka", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "mechanička: středně světlý odstín pleti", 
+        "mechanička: světlý odstín pleti", 
+        "mechanička: středně tmavý odstín pleti", 
+        "mechanička: střední odstín pleti", 
+        "mechanička: tmavý odstín pleti", 
         "živnostnice"
     ], 
     "👩‍🔬": [
         "žena", 
         "matematička", 
+        "tmavý odstín pleti", 
+        "vědkyně: tmavý odstín pleti", 
         "chemička", 
         "vědkyně", 
+        "vědkyně: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "vědkyně: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "bioložka", 
         "inženýrka", 
         "věda", 
-        "fyzička"
+        "vědkyně: střední odstín pleti", 
+        "fyzička", 
+        "vědkyně: světlý odstín pleti"
     ], 
     "👩‍🚀": [
-        "vesmír", 
         "žena", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "kosmonautka: středně světlý odstín pleti", 
+        "kosmonautka: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "raketa", 
+        "vesmír", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "kosmonautka", 
+        "kosmonautka: tmavý odstín pleti", 
+        "kosmonautka: světlý odstín pleti", 
+        "kosmonautka: střední odstín pleti", 
         "astronautka"
     ], 
     "👩‍🚒": [
         "hasička", 
         "žena", 
+        "tmavý odstín pleti", 
         "hasičské auto", 
+        "hasička: středně světlý odstín pleti", 
         "stříkačka", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "hasička: tmavý odstín pleti", 
         "požár", 
-        "požárnice"
-    ], 
-    "👪": [
-        "rodina", 
-        "otec", 
-        "dítě", 
-        "matka"
+        "požárnice", 
+        "hasička: světlý odstín pleti", 
+        "hasička: střední odstín pleti", 
+        "hasička: středně tmavý odstín pleti"
     ], 
     "👫": [
         "žena", 
@@ -4198,75 +5887,184 @@
         "dvojice", 
         "pár"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "policie", 
+        "policistka", 
+        "žena", 
+        "strážnice", 
+        "policajtka"
+    ], 
+    "👮‍♂️": [
         "policie", 
         "strážník", 
+        "muž", 
         "policajt", 
         "policista"
     ], 
-    "👯": [
+    "👯‍♀️": [
         "uši", 
         "osoby se zaječími oušky", 
         "tanec", 
         "tanečnice", 
         "tanečník", 
         "párty", 
-        "zajíček"
+        "zajíček", 
+        "ženy", 
+        "ženy se zaječími oušky"
+    ], 
+    "👯‍♂️": [
+        "uši", 
+        "muži se zaječími oušky", 
+        "tanec", 
+        "tanečník", 
+        "párty", 
+        "zajíček", 
+        "muži"
     ], 
     "👰": [
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "závoj", 
+        "středně světlý odstín pleti", 
+        "nevěsta se závojem: středně tmavý odstín pleti", 
+        "nevěsta se závojem: tmavý odstín pleti", 
+        "nevěsta se závojem", 
+        "nevěsta se závojem: střední odstín pleti", 
+        "světlý odstín pleti", 
         "svatba", 
         "nevěsta", 
-        "nevěsta se závojem", 
-        "závoj"
+        "střední odstín pleti", 
+        "nevěsta se závojem: středně světlý odstín pleti", 
+        "nevěsta se závojem: světlý odstín pleti"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "žena", 
+        "blondýnka", 
+        "světlovláska", 
+        "blondýna", 
+        "blond", 
+        "plavovláska"
+    ], 
+    "👱‍♂️": [
+        "muž", 
+        "blonďák", 
+        "světlovlasý", 
         "světlé vlasy", 
+        "plavovlasý", 
         "blond", 
         "člověk s blond vlasy"
     ], 
     "👲": [
-        "čepice", 
-        "gua pi mao", 
+        "tmavý odstín pleti", 
         "muž", 
+        "muž s čínskou čepicí: tmavý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "čepice", 
+        "středně tmavý odstín pleti", 
+        "muž s čínskou čepicí: středně tmavý odstín pleti", 
+        "muž s čínskou čepicí: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "gua pi mao", 
+        "střední odstín pleti", 
+        "muž s čínskou čepicí: světlý odstín pleti", 
+        "kua pchi mao", 
         "muž s čínskou čepicí", 
-        "kua pchi mao"
+        "muž s čínskou čepicí: střední odstín pleti"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "žena", 
+        "žena s turbanem", 
+        "turban"
+    ], 
+    "👳‍♂️": [
+        "muž s turbanem", 
         "člověk s turbanem", 
+        "muž", 
         "turban"
     ], 
     "👴": [
+        "starý muž: světlý odstín pleti", 
         "pán", 
         "muž", 
+        "starý muž: tmavý odstín pleti", 
         "starý muž", 
+        "středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "starý muž: střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "starý", 
+        "střední odstín pleti", 
+        "starý muž: středně světlý odstín pleti", 
         "stařec", 
-        "senior"
+        "senior", 
+        "starý muž: středně tmavý odstín pleti"
     ], 
     "👵": [
         "žena", 
         "stará žena", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "stará žena: střední odstín pleti", 
+        "stará žena: světlý odstín pleti", 
         "stará", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "starý", 
+        "střední odstín pleti", 
         "seniorka", 
+        "stará žena: středně tmavý odstín pleti", 
         "paní", 
-        "stařena"
+        "stará žena: středně světlý odstín pleti", 
+        "stařena", 
+        "stará žena: tmavý odstín pleti"
     ], 
     "👶": [
-        "batole", 
+        "tmavý odstín pleti", 
+        "nemluvně: střední odstín pleti", 
+        "nemluvně", 
+        "nemluvně: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "nemluvně: středně tmavý odstín pleti", 
         "malé dítě", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "kojenec", 
-        "nemluvně"
+        "nemluvně: světlý odstín pleti", 
+        "nemluvně: tmavý odstín pleti", 
+        "batole"
     ], 
-    "👷": [
-        "helma", 
-        "dělník na stavbě", 
+    "👷‍♀️": [
+        "žena", 
+        "dělnice", 
+        "stavební dělnice", 
+        "stavařka", 
         "stavba"
     ], 
+    "👷‍♂️": [
+        "dělník na stavbě", 
+        "muž", 
+        "dělník", 
+        "stavba", 
+        "helma", 
+        "stavař", 
+        "stavební dělník"
+    ], 
     "👸": [
-        "fantasy", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "princezna", 
-        "pohádka"
+        "středně světlý odstín pleti", 
+        "pohádka", 
+        "princezna: tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "fantasy", 
+        "princezna: středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "princezna: středně světlý odstín pleti", 
+        "princezna: světlý odstín pleti", 
+        "princezna: střední odstín pleti"
     ], 
     "👹": [
         "pohádka", 
@@ -4309,13 +6107,23 @@
         "bytost"
     ], 
     "👼": [
+        "andílek: střední odstín pleti", 
+        "andílek: světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "andílek: tmavý odstín pleti", 
         "pohádka", 
         "tvář", 
+        "středně tmavý odstín pleti", 
         "andílek", 
+        "světlý odstín pleti", 
         "fantasy", 
         "smajlík", 
+        "střední odstín pleti", 
         "dítě", 
         "výraz", 
+        "andílek: středně světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "andílek: středně tmavý odstín pleti", 
         "anděl"
     ], 
     "👽": [
@@ -4366,27 +6174,60 @@
         "smrt", 
         "lebka"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "žena", 
         "informace", 
         "ruka", 
         "recepční", 
         "poslíček", 
         "drzost", 
         "osoba s dlaní vzhůru", 
+        "žena s dlaní vzhůru", 
         "sarkasmus", 
         "concierge", 
         "recepce", 
         "pomoc", 
         "ironie"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "informace", 
+        "muž", 
+        "recepční", 
+        "poslíček", 
+        "drzost", 
+        "sarkasmus", 
+        "concierge", 
+        "recepce", 
+        "ruka", 
+        "muž s dlaní vzhůru", 
+        "pomoc", 
+        "ironie"
+    ], 
+    "💂‍♀️": [
+        "žena", 
+        "strážkyně", 
+        "stráž"
+    ], 
+    "💂‍♂️": [
+        "muž", 
         "stráž", 
+        "strážce", 
         "gardista"
     ], 
     "💃": [
         "žena", 
+        "tanečnice: světlý odstín pleti", 
+        "tanečnice: tmavý odstín pleti", 
+        "tanečnice: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "tanec", 
-        "tanečnice"
+        "tmavý odstín pleti", 
+        "tanečnice", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "tanečnice: střední odstín pleti", 
+        "tanečnice: středně světlý odstín pleti"
     ], 
     "💄": [
         "make-up", 
@@ -4394,23 +6235,44 @@
         "kosmetika"
     ], 
     "💅": [
+        "lak na nehty: středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
         "lak na nehty", 
         "manikúra", 
         "lak", 
+        "lak na nehty: střední odstín pleti", 
         "kosmetika", 
+        "střední odstín pleti", 
         "nehet", 
         "péče", 
-        "tělo"
+        "středně světlý odstín pleti", 
+        "lak na nehty: středně světlý odstín pleti", 
+        "lak na nehty: světlý odstín pleti", 
+        "lak na nehty: tmavý odstín pleti", 
+        "tělo", 
+        "středně tmavý odstín pleti"
     ], 
-    "💆": [
-        "osoba na masáži obličeje", 
-        "masáž", 
+    "💆‍♀️": [
+        "žena", 
         "salon", 
+        "obličej", 
+        "tvář", 
+        "masáž", 
+        "žena na masáži obličeje", 
+        "osoba na masáži obličeje"
+    ], 
+    "💆‍♂️": [
+        "muž", 
+        "masáž", 
+        "muž na masáži obličeje", 
         "obličej", 
         "tvář"
     ], 
-    "💇": [
+    "💇‍♀️": [
+        "žena", 
         "salon", 
+        "žena u kadeřníka", 
         "stříhání", 
         "vlasy", 
         "osoba u kadeřníka", 
@@ -4419,6 +6281,18 @@
         "účes", 
         "sestřih", 
         "holič"
+    ], 
+    "💇‍♂️": [
+        "salon", 
+        "muž", 
+        "stříhání", 
+        "vlasy", 
+        "kadeřník", 
+        "krása", 
+        "účes", 
+        "sestřih", 
+        "holič", 
+        "muž u kadeřníka"
     ], 
     "💈": [
         "tyč", 
@@ -4476,14 +6350,6 @@
         "šperk", 
         "diamant"
     ], 
-    "💏": [
-        "romantika", 
-        "polibek", 
-        "romance", 
-        "líbání", 
-        "dvojice", 
-        "pár"
-    ], 
     "💐": [
         "květina", 
         "romantika", 
@@ -4493,15 +6359,6 @@
         "kytka", 
         "pugét", 
         "kytice"
-    ], 
-    "💑": [
-        "srdce", 
-        "romantika", 
-        "romance", 
-        "láska", 
-        "pár se srdcem", 
-        "dvojice", 
-        "pár"
     ], 
     "💒": [
         "romance", 
@@ -4666,13 +6523,23 @@
         "hovínko"
     ], 
     "💪": [
+        "zatnutý biceps: středně světlý odstín pleti", 
+        "zatnutý biceps: světlý odstín pleti", 
         "biceps", 
+        "středně tmavý odstín pleti", 
         "svaly", 
+        "zatnutý biceps: tmavý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "zatnutý biceps: střední odstín pleti", 
         "síla", 
         "sval", 
+        "tmavý odstín pleti", 
         "obrázek", 
+        "světlý odstín pleti", 
         "zatnutý biceps", 
-        "tělo"
+        "střední odstín pleti", 
+        "tělo", 
+        "zatnutý biceps: středně tmavý odstín pleti"
     ], 
     "💫": [
         "komiks", 
@@ -5242,6 +7109,13 @@
         "video", 
         "kazeta"
     ], 
+    "📽️": [
+        "kino", 
+        "promítačka", 
+        "video", 
+        "film", 
+        "filmový projektor"
+    ], 
     "📿": [
         "růženec", 
         "oblečení", 
@@ -5710,6 +7584,19 @@
         "trojúhelník", 
         "šipka"
     ], 
+    "🕉️": [
+        "óm", 
+        "hinduismus", 
+        "náboženství"
+    ], 
+    "🕊️": [
+        "pták", 
+        "letící", 
+        "létat", 
+        "let", 
+        "mír", 
+        "holubice"
+    ], 
     "🕋": [
         "Kába", 
         "muslim", 
@@ -5959,24 +7846,143 @@
         "12:30", 
         "půl jedné"
     ], 
-    "🕺": [
-        "tanečník", 
+    "🕯️": [
+        "světlo", 
+        "svíčka"
+    ], 
+    "🕰️": [
+        "čas", 
+        "krbové hodiny", 
+        "hodiny"
+    ], 
+    "🕳️": [
+        "díra"
+    ], 
+    "🕴️": [
+        "levitující byznysmen", 
         "muž", 
-        "tanec"
+        "oblek", 
+        "byznys"
+    ], 
+    "🕵️‍♂️": [
+        "čmuchal", 
+        "inspektor", 
+        "vyšetřovatel", 
+        "špeh", 
+        "agent", 
+        "očko", 
+        "detektiv", 
+        "špión"
+    ], 
+    "🕶️": [
+        "sluneční brýle", 
+        "skla", 
+        "tmavé", 
+        "oko", 
+        "brýle"
+    ], 
+    "🕷️": [
+        "pavouk", 
+        "hmyz"
+    ], 
+    "🕸️": [
+        "pavoučí", 
+        "pavouk", 
+        "síť", 
+        "pavučina"
+    ], 
+    "🕹️": [
+        "videohra", 
+        "joystick", 
+        "hra", 
+        "ovladač"
+    ], 
+    "🕺": [
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "muž", 
+        "tanečník: světlý odstín pleti", 
+        "tanečník: středně světlý odstín pleti", 
+        "tanečník: střední odstín pleti", 
+        "tanec", 
+        "tanečník: tmavý odstín pleti", 
+        "tanečník", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "tanečník: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti"
+    ], 
+    "🖇️": [
+        "svorka", 
+        "spojené kancelářské sponky", 
+        "sponky", 
+        "papír", 
+        "spojení", 
+        "řetěz", 
+        "článek"
+    ], 
+    "🖊️": [
+        "propiska", 
+        "pero", 
+        "kuličkové"
+    ], 
+    "🖋️": [
+        "plnicí", 
+        "pero", 
+        "plnicí pero"
+    ], 
+    "🖌️": [
+        "štětec", 
+        "malování", 
+        "malba", 
+        "malířství"
+    ], 
+    "🖍️": [
+        "voskovka", 
+        "pastelka", 
+        "křída", 
+        "fixa"
+    ], 
+    "🖐️": [
+        "tělo", 
+        "roztažené", 
+        "ruka s roztaženými prsty", 
+        "ruka", 
+        "prst"
     ], 
     "🖕": [
         "prostředníček", 
+        "tmavý odstín pleti", 
         "ruka", 
+        "prostředníček: střední odstín pleti", 
+        "prst", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "prostředníček: tmavý odstín pleti", 
+        "střední odstín pleti", 
         "tělo", 
-        "prst"
+        "prostředníček: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "prostředníček: světlý odstín pleti", 
+        "prostředníček: středně tmavý odstín pleti"
     ], 
     "🖖": [
+        "vulkánský pozdrav: středně tmavý odstín pleti", 
         "vulkán", 
+        "tmavý odstín pleti", 
         "ruka", 
         "vulkánský pozdrav", 
+        "vulkánský pozdrav: střední odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
         "prst", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "vulkánský pozdrav: středně světlý odstín pleti", 
         "spock", 
-        "tělo"
+        "tělo", 
+        "vulkánský pozdrav: tmavý odstín pleti", 
+        "vulkánský pozdrav: světlý odstín pleti"
     ], 
     "🖤": [
         "srdce", 
@@ -5985,6 +7991,139 @@
         "černá", 
         "smutek", 
         "černé srdce"
+    ], 
+    "🖥️": [
+        "počítač", 
+        "osobní", 
+        "stolní", 
+        "desktop"
+    ], 
+    "🖨️": [
+        "počítač", 
+        "tiskárna"
+    ], 
+    "🖱️": [
+        "počítač", 
+        "počítačová myš"
+    ], 
+    "🖲️": [
+        "počítač", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "umění", 
+        "obraz", 
+        "obraz v rámu", 
+        "muzeum", 
+        "rám", 
+        "malování", 
+        "malířství"
+    ], 
+    "🗂️": [
+        "karta", 
+        "rejstřík", 
+        "kartotéka", 
+        "oddělovač", 
+        "oddíl"
+    ], 
+    "🗃️": [
+        "krabice", 
+        "spis", 
+        "karta", 
+        "krabice s kartotékou"
+    ], 
+    "🗄️": [
+        "spis", 
+        "pořadač", 
+        "skříň na spisy", 
+        "kartotéka", 
+        "archiv", 
+        "skříň"
+    ], 
+    "🗑️": [
+        "koš", 
+        "odpad", 
+        "smetí", 
+        "odpadkový koš"
+    ], 
+    "🗒️": [
+        "kroužky", 
+        "kroužkový zápisník", 
+        "poznámky", 
+        "zápisky", 
+        "spirálový", 
+        "blok"
+    ], 
+    "🗓️": [
+        "spirálový", 
+        "kroužky", 
+        "kalendář", 
+        "kroužkový kalendář"
+    ], 
+    "🗜️": [
+        "svěrka", 
+        "komprese", 
+        "tlak", 
+        "svorka", 
+        "nářadí"
+    ], 
+    "🗝️": [
+        "zámek", 
+        "dózický", 
+        "starý", 
+        "starý klíč", 
+        "stopa", 
+        "klíč"
+    ], 
+    "🗞️": [
+        "noviny", 
+        "srolované noviny", 
+        "tisk", 
+        "zprávy", 
+        "stočené", 
+        "papír", 
+        "srolované"
+    ], 
+    "🗡️": [
+        "nůž", 
+        "dýka", 
+        "zbraň"
+    ], 
+    "🗣️": [
+        "hlava", 
+        "tvář", 
+        "výraz", 
+        "smajlík", 
+        "silueta", 
+        "mluvit", 
+        "mluvící hlava", 
+        "řeč"
+    ], 
+    "🗨️": [
+        "levá řečová bublina", 
+        "řeč", 
+        "dialog"
+    ], 
+    "🗯️": [
+        "naštvaný", 
+        "hněv", 
+        "pravá rozzlobená bublina", 
+        "zloba", 
+        "zlost", 
+        "bublina", 
+        "vztek"
+    ], 
+    "🗳️": [
+        "krabice", 
+        "volební", 
+        "schránka", 
+        "volby", 
+        "urna s volebním lístkem"
+    ], 
+    "🗺️": [
+        "mapa světa", 
+        "svět", 
+        "mapa"
     ], 
     "🗻": [
         "fuji", 
@@ -6688,26 +8827,60 @@
         "obličej s očima v sloup", 
         "výraz"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
+        "žena", 
+        "žena s gestem nesouhlasu", 
         "zákaz", 
         "ruka", 
         "ne", 
+        "nesouhlas", 
         "zakázáno", 
         "gesto nesouhlasu", 
         "gesto"
     ], 
-    "🙆": [
-        "gesto souhlasu", 
+    "🙅‍♂️": [
+        "nesouhlas", 
+        "zákaz", 
+        "muž", 
+        "ne", 
+        "muž s gestem nesouhlasu"
+    ], 
+    "🙆‍♀️": [
+        "žena", 
         "ruka", 
         "ok", 
+        "gesto souhlasu", 
+        "ano", 
+        "souhlas", 
+        "žena s gestem souhlasu", 
         "gesto"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "souhlas", 
+        "muž", 
+        "ano", 
+        "ok", 
+        "muž s gestem souhlasu"
+    ], 
+    "🙇‍♀️": [
+        "žena", 
         "úklona", 
         "poklona", 
         "omluva", 
         "prosba", 
         "úcta", 
+        "lítost", 
+        "uklánějící se žena", 
+        "gesto"
+    ], 
+    "🙇‍♂️": [
+        "úklona", 
+        "muž", 
+        "poklona", 
+        "omluva", 
+        "prosba", 
+        "úcta", 
+        "uklánějící se muž", 
         "lítost", 
         "gesto", 
         "uklánějící se osoba"
@@ -6751,44 +8924,93 @@
         "opička „nic nepovím“", 
         "gesto"
     ], 
-    "🙋": [
-        "osoba se zvednutou rukou", 
-        "šťastný", 
+    "🙋‍♀️": [
+        "žena", 
+        "žena se zvednutou rukou", 
         "ruka", 
-        "gesto", 
-        "zvednutá"
+        "šťastný", 
+        "zvednutá", 
+        "osoba se zvednutou rukou", 
+        "zvednutí", 
+        "přihlášení", 
+        "gesto"
+    ], 
+    "🙋‍♂️": [
+        "muž se zvednutou rukou", 
+        "zvednutí", 
+        "přihlášení", 
+        "muž", 
+        "ruka"
     ], 
     "🙌": [
+        "zvednuté ruce: střední odstín pleti", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
         "ruka", 
+        "zvednuté ruce: středně světlý odstín pleti", 
         "zvednuté ruce", 
+        "středně tmavý odstín pleti", 
+        "zvednuté ruce: tmavý odstín pleti", 
         "hurá", 
+        "středně světlý odstín pleti", 
+        "zvednuté ruce: světlý odstín pleti", 
+        "střední odstín pleti", 
+        "zvednuté ruce: středně tmavý odstín pleti", 
         "tělo", 
         "zdvižená", 
         "oslava", 
         "gesto", 
         "zvednutá"
     ], 
-    "🙍": [
-        "zamračená osoba", 
+    "🙍‍♀️": [
+        "žena", 
+        "zamračený", 
         "zamračení", 
+        "výraz", 
+        "zamračená osoba", 
+        "zamračená žena"
+    ], 
+    "🙍‍♂️": [
+        "zamračený", 
+        "muž", 
+        "zamračený muž", 
         "výraz"
     ], 
-    "🙎": [
-        "výraz", 
+    "🙎‍♀️": [
+        "žena", 
         "podrážděná osoba", 
-        "podráždění"
+        "podrážděná žena", 
+        "podráždění", 
+        "výraz", 
+        "podrážděný"
+    ], 
+    "🙎‍♂️": [
+        "muž", 
+        "podrážděný muž", 
+        "podrážděný", 
+        "výraz"
     ], 
     "🙏": [
+        "sepjaté ruce: střední odstín pleti", 
         "úklona", 
+        "tmavý odstín pleti", 
         "ruka", 
+        "sepjaté ruce: středně tmavý odstín pleti", 
+        "sepjaté ruce: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "sepjaté", 
         "otázka", 
         "gesto", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "tělo", 
         "sepjaté ruce", 
+        "sepjaté ruce: tmavý odstín pleti", 
         "modlitba", 
         "díky", 
-        "prosím"
+        "prosím", 
+        "sepjaté ruce: světlý odstín pleti"
     ], 
     "🚀": [
         "vesmír", 
@@ -7020,14 +9242,26 @@
         "loď", 
         "doprava"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "žena", 
+        "pramice", 
+        "člun", 
+        "veslařka", 
+        "loďka", 
+        "plavidlo", 
+        "veslice", 
+        "veslování"
+    ], 
+    "🚣‍♂️": [
         "pramice", 
         "člun", 
         "veslující osoba", 
         "loďka", 
         "plavidlo", 
         "veslice", 
-        "veslování"
+        "veslař", 
+        "veslování", 
+        "muž"
     ], 
     "🚤": [
         "motorový člun", 
@@ -7134,20 +9368,48 @@
         "zakázáno", 
         "zákaz"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "žena", 
         "kolo", 
+        "cyklistka", 
+        "cyklistika"
+    ], 
+    "🚴‍♂️": [
+        "kolo", 
+        "muž", 
         "cyklista", 
         "osoba na kole", 
         "cyklistika"
     ], 
-    "🚵": [
+    "🚵‍♀️": [
         "hora", 
         "kolo", 
-        "osoba na horském kole", 
+        "žena", 
+        "cyklistika", 
+        "horská cyklistka"
+    ], 
+    "🚵‍♂️": [
+        "hora", 
+        "muž", 
         "cyklista", 
+        "osoba na horském kole", 
+        "horský cyklista", 
+        "kolo", 
         "cyklistika"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "žena", 
+        "žena v chůzi", 
+        "chůze", 
+        "chodec", 
+        "procházka", 
+        "túra", 
+        "pěšky", 
+        "pěší"
+    ], 
+    "🚶‍♂️": [
+        "muž v chůzi", 
+        "muž", 
         "chůze", 
         "chodec", 
         "procházka", 
@@ -7218,9 +9480,19 @@
         "sprcha"
     ], 
     "🛀": [
-        "vana", 
-        "koupelna", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "osoba ve vaně: světlý odstín pleti", 
+        "osoba ve vaně: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "koupel", 
+        "vana", 
+        "středně světlý odstín pleti", 
+        "osoba ve vaně: střední odstín pleti", 
+        "střední odstín pleti", 
+        "osoba ve vaně: středně světlý odstín pleti", 
+        "osoba ve vaně: středně tmavý odstín pleti", 
+        "koupelna", 
         "osoba ve vaně"
     ], 
     "🛁": [
@@ -7254,10 +9526,47 @@
         "úschova", 
         "zavazadla"
     ], 
+    "🛋️": [
+        "hotel", 
+        "gauč a lampa", 
+        "gauč", 
+        "lampa"
+    ], 
     "🛌": [
+        "osoba v posteli: střední odstín pleti", 
+        "spánek", 
+        "středně tmavý odstín pleti", 
+        "osoba v posteli: středně světlý odstín pleti", 
+        "osoba v posteli", 
+        "hotel", 
+        "tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "osoba v posteli: tmavý odstín pleti", 
+        "osoba v posteli: světlý odstín pleti", 
+        "osoba v posteli: středně tmavý odstín pleti"
+    ], 
+    "🛍️": [
+        "nákupy", 
+        "hotel", 
+        "nakupování", 
+        "nákupní tašky", 
+        "zavazadlo"
+    ], 
+    "🛎️": [
+        "poslíček", 
+        "hotel", 
+        "zvonek", 
+        "recepce", 
+        "portýrský zvonek", 
+        "portýr", 
+        "zvon"
+    ], 
+    "🛏️": [
         "spánek", 
         "hotel", 
-        "osoba v posteli"
+        "postel"
     ], 
     "🛐": [
         "svatostánek", 
@@ -7281,6 +9590,47 @@
         "nákupní vozík", 
         "vozík"
     ], 
+    "🛠️": [
+        "montážní", 
+        "kladivo a maticový klíč", 
+        "kladivo", 
+        "klíč", 
+        "nářadí"
+    ], 
+    "🛡️": [
+        "štít", 
+        "zbraň"
+    ], 
+    "🛢️": [
+        "barel", 
+        "sud", 
+        "ropa", 
+        "nafta"
+    ], 
+    "🛣️": [
+        "silnice", 
+        "dálnice", 
+        "motorová", 
+        "cesta"
+    ], 
+    "🛤️": [
+        "železniční trať", 
+        "železnice", 
+        "vlak", 
+        "koleje"
+    ], 
+    "🛥️": [
+        "plavidlo", 
+        "motorová loď", 
+        "člun", 
+        "loď", 
+        "motorová jachta"
+    ], 
+    "🛩️": [
+        "letoun", 
+        "malé letadlo", 
+        "doprava"
+    ], 
     "🛫": [
         "odlety", 
         "letoun", 
@@ -7299,6 +9649,20 @@
         "letadlo", 
         "přílet", 
         "přistání", 
+        "doprava"
+    ], 
+    "🛰️": [
+        "vesmír", 
+        "kosmos", 
+        "družice", 
+        "satelit"
+    ], 
+    "🛳️": [
+        "loď", 
+        "trajekt", 
+        "zaoceánská loď", 
+        "plavidlo", 
+        "osobní", 
         "doprava"
     ], 
     "🛴": [
@@ -7389,37 +9753,87 @@
         "obličej s otevřenou náručí"
     ], 
     "🤘": [
+        "gesto parohů: střední odstín pleti", 
+        "tmavý odstín pleti", 
         "ruka", 
+        "gesto parohů: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "paroháč", 
         "prst", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "rohy", 
         "tělo", 
         "rock", 
+        "gesto parohů: tmavý odstín pleti", 
         "gesto parohů", 
-        "parohy"
+        "parohy", 
+        "gesto parohů: středně tmavý odstín pleti", 
+        "gesto parohů: světlý odstín pleti"
     ], 
     "🤙": [
+        "gesto „zavolej mi“: střední odstín pleti", 
+        "tmavý odstín pleti", 
+        "ruka", 
+        "gesto „zavolej mi“: středně světlý odstín pleti", 
+        "zatelefonovat", 
+        "gesto „zavolej mi“: světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "zavolej", 
         "gesto „zavolej mi“", 
         "zavolat", 
-        "ruka", 
-        "zatelefonovat"
+        "gesto „zavolej mi“: středně tmavý odstín pleti", 
+        "gesto „zavolej mi“: tmavý odstín pleti"
     ], 
     "🤚": [
+        "tmavý odstín pleti", 
         "ruka", 
-        "hřbet zvednuté ruky", 
         "hřbet", 
+        "hřbet zvednuté ruky: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "hřbet zvednuté ruky: světlý odstín pleti", 
+        "hřbet zvednuté ruky: střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "hřbet zvednuté ruky", 
         "zvednutá", 
-        "zdvižená"
+        "zdvižená", 
+        "hřbet zvednuté ruky: středně světlý odstín pleti", 
+        "hřbet zvednuté ruky: tmavý odstín pleti"
     ], 
     "🤛": [
-        "pěst mířící doleva", 
+        "tmavý odstín pleti", 
         "pěst", 
+        "pěst mířící doleva: střední odstín pleti", 
+        "pěst mířící doleva: středně světlý odstín pleti", 
+        "pěst mířící doleva: středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "pěst mířící doleva", 
+        "střední odstín pleti", 
+        "pěst mířící doleva: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "pěst mířící doleva: světlý odstín pleti", 
         "doleva"
     ], 
     "🤜": [
+        "pěst mířící doprava: středně světlý odstín pleti", 
+        "tmavý odstín pleti", 
         "pěst", 
+        "pěst mířící doprava: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "pěst mířící doprava", 
+        "pěst mířící doprava: střední odstín pleti", 
+        "pěst mířící doprava: světlý odstín pleti", 
+        "pěst mířící doprava: tmavý odstín pleti", 
         "doprava"
     ], 
     "🤝": [
@@ -7435,18 +9849,38 @@
         "stisk rukou"
     ], 
     "🤞": [
-        "štěstí", 
-        "zkřížit", 
+        "tmavý odstín pleti", 
         "ruka", 
+        "zkřížené prsty: středně světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "zkřížené prsty: střední odstín pleti", 
+        "štěstí", 
+        "zkřížené prsty: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "zkřížit", 
+        "světlý odstín pleti", 
+        "zkřížené prsty: světlý odstín pleti", 
+        "střední odstín pleti", 
+        "zkřížené prsty", 
         "prsty", 
-        "zkřížené prsty"
+        "zkřížené prsty: tmavý odstín pleti"
     ], 
     "🤟": [
-        "gesto „miluji tě“", 
+        "gesto „miluji tě“: střední odstín pleti", 
+        "tmavý odstín pleti", 
         "ruka", 
-        "gesto", 
+        "gesto „miluji tě“", 
+        "gesto „miluji tě“: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "miluju", 
-        "láska"
+        "gesto „miluji tě“: tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "gesto „miluji tě“: středně světlý odstín pleti", 
+        "láska", 
+        "gesto „miluji tě“: světlý odstín pleti", 
+        "gesto"
     ], 
     "🤠": [
         "obličej s kovbojským kloboukem", 
@@ -7497,7 +9931,47 @@
         "výraz"
     ], 
     "🤦": [
+        "hlava", 
+        "tvář", 
+        "osoba chytající se za hlavu: střední odstín pleti", 
+        "střední odstín pleti", 
+        "středně světlý odstín pleti", 
+        "osoba chytající se za hlavu: světlý odstín pleti", 
+        "nevíra", 
+        "světlý odstín pleti", 
+        "osoba chytající se za hlavu: středně tmavý odstín pleti", 
+        "dlaň", 
+        "středně tmavý odstín pleti", 
         "osoba chytající se za hlavu", 
+        "facepalm", 
+        "smajlík", 
+        "chycení", 
+        "tmavý odstín pleti", 
+        "rozhořčení", 
+        "čelo", 
+        "osoba chytající se za hlavu: středně světlý odstín pleti", 
+        "výraz", 
+        "osoba chytající se za hlavu: tmavý odstín pleti", 
+        "zoufalství"
+    ], 
+    "🤦‍♀️": [
+        "žena", 
+        "hlava", 
+        "rozhořčení", 
+        "tvář", 
+        "facepalm", 
+        "nevíra", 
+        "čelo", 
+        "smajlík", 
+        "chycení", 
+        "žena chytající se za hlavu", 
+        "výraz", 
+        "zoufalství", 
+        "dlaň"
+    ], 
+    "🤦‍♂️": [
+        "muž chytající se za hlavu", 
+        "muž", 
         "hlava", 
         "rozhořčení", 
         "tvář", 
@@ -7583,50 +10057,158 @@
     "🤰": [
         "žena", 
         "těhotná žena", 
+        "tmavý odstín pleti", 
+        "těhotná žena: světlý odstín pleti", 
+        "těhotenství", 
+        "těhotná žena: střední odstín pleti", 
+        "střední odstín pleti", 
+        "těhotná žena: středně světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "těhotná", 
-        "těhotenství"
+        "těhotná žena: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "těhotná žena: středně tmavý odstín pleti"
     ], 
     "🤱": [
+        "kojení: tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "kojení: světlý odstín pleti", 
+        "kojení: střední odstín pleti", 
         "kojení", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
         "krmení", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "kojení: středně světlý odstín pleti", 
         "prso", 
         "dítě", 
         "kojenec", 
         "prsa", 
-        "kojit"
+        "kojit", 
+        "kojení: středně tmavý odstín pleti"
     ], 
     "🤲": [
+        "zdvižené dlaně vedle sebe: středně světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "zdvižené dlaně vedle sebe: středně tmavý odstín pleti", 
+        "prosba", 
+        "zdvižené dlaně vedle sebe: střední odstín pleti", 
+        "zdvižené dlaně vedle sebe: světlý odstín pleti", 
+        "zdvižené dlaně vedle sebe: tmavý odstín pleti", 
         "zdvižené dlaně vedle sebe", 
-        "prosba"
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti"
     ], 
     "🤳": [
+        "selfie: střední odstín pleti", 
+        "tmavý odstín pleti", 
+        "selfie: světlý odstín pleti", 
+        "selfíčko", 
+        "selfie: tmavý odstín pleti", 
         "selfie", 
-        "fotoaparát", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
         "telefon", 
-        "selfíčko"
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "fotoaparát", 
+        "selfie: středně světlý odstín pleti", 
+        "selfie: středně tmavý odstín pleti"
     ], 
     "🤴": [
-        "fantasy", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "princ: střední odstín pleti", 
+        "středně světlý odstín pleti", 
+        "princ: tmavý odstín pleti", 
+        "princ: světlý odstín pleti", 
         "princ", 
+        "světlý odstín pleti", 
+        "fantasy", 
+        "princ: středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "princ: středně tmavý odstín pleti", 
         "pohádka"
     ], 
     "🤵": [
-        "smoking", 
+        "muž ve smokingu: středně světlý odstín pleti", 
+        "muž ve smokingu: tmavý odstín pleti", 
+        "tmavý odstín pleti", 
         "muž", 
+        "muž ve smokingu: střední odstín pleti", 
+        "muž ve smokingu: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "ženich", 
         "muž ve smokingu", 
-        "ženich"
+        "muž ve smokingu: světlý odstín pleti", 
+        "smoking"
     ], 
     "🤶": [
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "Santa Clausová: středně tmavý odstín pleti", 
         "pohádka", 
+        "Santa Clausová: střední odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "Santa Clausová: středně světlý odstín pleti", 
         "matka", 
         "vánoce", 
         "fantasy", 
+        "střední odstín pleti", 
+        "Santa Clausová: světlý odstín pleti", 
         "santa", 
         "oslava", 
-        "Santa Clausová"
+        "Santa Clausová", 
+        "Santa Clausová: tmavý odstín pleti"
     ], 
     "🤷": [
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "osoba krčící rameny: střední odstín pleti", 
+        "středně světlý odstín pleti", 
         "osoba krčící rameny", 
+        "osoba krčící rameny: středně tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "ramena", 
+        "pokrčit", 
+        "nevědomost", 
+        "pochybnost", 
+        "nezájem", 
+        "pokrčení", 
+        "pochyby", 
+        "osoba krčící rameny: středně světlý odstín pleti", 
+        "nejistota", 
+        "osoba krčící rameny: světlý odstín pleti", 
+        "nevím", 
+        "osoba krčící rameny: tmavý odstín pleti", 
+        "nerozhodnost", 
+        "střední odstín pleti"
+    ], 
+    "🤷‍♀️": [
+        "žena", 
+        "žena krčící rameny", 
+        "ramena", 
+        "pokrčit", 
+        "nerozhodnost", 
+        "nezájem", 
+        "pokrčení", 
+        "pochyby", 
+        "nejistota", 
+        "nevím", 
+        "pochybnost", 
+        "nevědomost"
+    ], 
+    "🤷‍♂️": [
+        "muž krčící rameny", 
+        "muž", 
         "ramena", 
         "pokrčit", 
         "nevědomost", 
@@ -7639,18 +10221,68 @@
         "nerozhodnost"
     ], 
     "🤸": [
-        "sport", 
+        "osoba dělající přemet stranou: středně tmavý odstín pleti", 
+        "tmavý odstín pleti", 
         "hvězda", 
+        "osoba dělající přemet stranou: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "osoba dělající přemet stranou", 
-        "gymnastika", 
-        "člověk"
+        "osoba dělající přemet stranou: střední odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "osoba dělající přemet stranou: světlý odstín pleti", 
+        "osoba dělající přemet stranou: tmavý odstín pleti", 
+        "člověk", 
+        "sport", 
+        "gymnastika"
+    ], 
+    "🤸‍♀️": [
+        "žena", 
+        "žena dělající přemet stranou", 
+        "hvězda", 
+        "sport", 
+        "gymnastika"
+    ], 
+    "🤸‍♂️": [
+        "muž", 
+        "hvězda", 
+        "sport", 
+        "muž dělající přemet stranou", 
+        "gymnastika"
     ], 
     "🤹": [
-        "multitasking", 
-        "žonglující osoba", 
-        "šikovnost", 
+        "světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
         "rovnováha", 
-        "žonglování"
+        "žonglující osoba: středně tmavý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "žonglování", 
+        "střední odstín pleti", 
+        "žonglující osoba: středně světlý odstín pleti", 
+        "žonglující osoba: tmavý odstín pleti", 
+        "žonglující osoba", 
+        "žonglující osoba: světlý odstín pleti", 
+        "šikovnost", 
+        "multitasking", 
+        "žonglující osoba: střední odstín pleti"
+    ], 
+    "🤹‍♀️": [
+        "žena", 
+        "rovnováha", 
+        "žonglování", 
+        "žonglérka", 
+        "šikovnost", 
+        "multitasking"
+    ], 
+    "🤹‍♂️": [
+        "muž", 
+        "rovnováha", 
+        "žonglér", 
+        "žonglování", 
+        "šikovnost", 
+        "multitasking"
     ], 
     "🤺": [
         "sport", 
@@ -7667,19 +10299,81 @@
         "zápasící dvojice", 
         "člověk"
     ], 
+    "🤼‍♀️": [
+        "zápas", 
+        "zápasící ženy", 
+        "ženy", 
+        "sport", 
+        "zápasník"
+    ], 
+    "🤼‍♂️": [
+        "zápas", 
+        "muži", 
+        "sport", 
+        "zápasící muži", 
+        "zápasník"
+    ], 
     "🤽": [
+        "tmavý odstín pleti", 
+        "osoba hrající vodní pólo: středně světlý odstín pleti", 
+        "osoba hrající vodní pólo: světlý odstín pleti", 
+        "osoba hrající vodní pólo: tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "voda", 
+        "osoba hrající vodní pólo", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "osoba hrající vodní pólo: střední odstín pleti", 
+        "člověk", 
+        "sport", 
+        "pólo", 
+        "osoba hrající vodní pólo: středně tmavý odstín pleti"
+    ], 
+    "🤽‍♀️": [
+        "žena", 
         "voda", 
         "sport", 
         "pólo", 
-        "osoba hrající vodní pólo", 
-        "člověk"
+        "hráčka vodního póla"
+    ], 
+    "🤽‍♂️": [
+        "sport", 
+        "voda", 
+        "muž", 
+        "hráč vodního póla", 
+        "pólo"
     ], 
     "🤾": [
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "osoba hrající házenou: střední odstín pleti", 
         "osoba hrající házenou", 
+        "osoba hrající házenou: světlý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "osoba hrající házenou: středně světlý odstín pleti", 
         "házená", 
+        "člověk", 
+        "osoba hrající házenou: středně tmavý odstín pleti", 
+        "osoba hrající házenou: tmavý odstín pleti", 
         "sport", 
         "míč", 
-        "člověk"
+        "střední odstín pleti"
+    ], 
+    "🤾‍♀️": [
+        "žena", 
+        "házená", 
+        "sport", 
+        "házenkářka", 
+        "míč"
+    ], 
+    "🤾‍♂️": [
+        "házenkář", 
+        "muž", 
+        "házená", 
+        "sport", 
+        "míč"
     ], 
     "🥀": [
         "květina", 
@@ -8115,113 +10809,260 @@
     ], 
     "🧑": [
         "dospělák", 
+        "tmavý odstín pleti", 
+        "dospělý člověk: střední odstín pleti", 
+        "dospělý člověk: středně světlý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "střední odstín pleti", 
+        "dospělý člověk: světlý odstín pleti", 
+        "neutrální", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "osoba", 
-        "dospělý člověk", 
         "člověk", 
-        "neutrální"
+        "dospělý člověk: tmavý odstín pleti", 
+        "dospělý člověk", 
+        "dospělý člověk: středně tmavý odstín pleti"
     ], 
     "🧒": [
+        "dítě: středně světlý odstín pleti", 
+        "tmavý odstín pleti", 
+        "dítě: tmavý odstín pleti", 
+        "dítě: střední odstín pleti", 
+        "dítě: středně tmavý odstín pleti", 
+        "malé", 
+        "středně tmavý odstín pleti", 
         "neutrální", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "dítě", 
-        "malé"
+        "dítě: světlý odstín pleti"
     ], 
     "🧓": [
+        "starší dospělý člověk: tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "starší dospělý člověk: světlý odstín pleti", 
+        "starší dospělý člověk: střední odstín pleti", 
+        "starší dospělý člověk: středně světlý odstín pleti", 
+        "střední odstín pleti", 
         "stará", 
         "neutrální", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "starý", 
         "osoba", 
         "člověk", 
-        "starší dospělý člověk"
+        "starší dospělý člověk", 
+        "starší dospělý člověk: středně tmavý odstín pleti"
     ], 
     "🧔": [
         "vous", 
+        "tmavý odstín pleti", 
+        "středně tmavý odstín pleti", 
+        "vousáč", 
+        "muž s plnovousem: středně tmavý odstín pleti", 
+        "muž s plnovousem: světlý odstín pleti", 
+        "střední odstín pleti", 
+        "muž s plnovousem: tmavý odstín pleti", 
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
         "muž s plnovousem", 
         "plnovous", 
-        "vousáč"
+        "muž s plnovousem: střední odstín pleti", 
+        "muž s plnovousem: středně světlý odstín pleti"
     ], 
     "🧕": [
+        "žena v šátku: tmavý odstín pleti", 
+        "tmavý odstín pleti", 
+        "žena v šátku: středně světlý odstín pleti", 
+        "závoj", 
+        "žena v šátku: střední odstín pleti", 
         "žena v šátku", 
-        "hidžáb", 
+        "středně tmavý odstín pleti", 
         "šátek", 
-        "závoj"
+        "světlý odstín pleti", 
+        "středně světlý odstín pleti", 
+        "střední odstín pleti", 
+        "hidžáb", 
+        "žena v šátku: středně tmavý odstín pleti", 
+        "žena v šátku: světlý odstín pleti"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "parní", 
+        "pára", 
+        "lázně", 
+        "sauna", 
+        "žena v sauně", 
+        "lázeň"
+    ], 
+    "🧖‍♂️": [
         "parní", 
         "osoba v sauně", 
         "pára", 
         "lázně", 
         "sauna", 
-        "lázeň"
+        "lázeň", 
+        "muž v sauně"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "horolezkyně", 
+        "lezkyně", 
         "lezec", 
         "horolezec", 
         "stěna"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "lezec", 
+        "horolezec", 
+        "stěna"
+    ], 
+    "🧘‍♀️": [
         "jóga", 
         "pozice", 
         "lotos", 
+        "žena v lotosovém sedu", 
         "meditace", 
         "osoba v lotosovém sedu", 
         "lotosová"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "muž v lotosovém sedu", 
+        "jóga", 
+        "pozice", 
+        "lotos", 
+        "meditace", 
+        "lotosová"
+    ], 
+    "🧙‍♀️": [
+        "mág", 
+        "čaroděj", 
+        "čarodějka", 
+        "čarodějník", 
+        "kouzelnice", 
+        "mágyně", 
+        "vědma", 
+        "čarodějnice", 
+        "kouzelník"
+    ], 
+    "🧙‍♂️": [
         "čarodějník", 
         "mág", 
         "čaroděj", 
         "kouzelník"
     ], 
-    "🧚": [
+    "🧚‍♀️": [
         "skřítek", 
+        "elfka", 
         "puk", 
+        "okřídlená víla", 
         "duch", 
         "víla", 
+        "divoženka", 
         "oberon", 
+        "rusalka", 
         "titánie"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "okřídlený skřítek", 
+        "oberon", 
+        "vílák", 
+        "puk"
+    ], 
+    "🧛‍♀️": [
         "obličej upíra", 
+        "vampýrka", 
+        "nemrtvý", 
+        "nemrtvá", 
+        "upírka", 
+        "vampýr", 
+        "drákula"
+    ], 
+    "🧛‍♂️": [
+        "upír", 
         "nemrtvý", 
         "vampýr", 
         "drákula"
     ], 
-    "🧜": [
+    "🧜‍♀️": [
         "mořská", 
+        "žena", 
+        "nymfa", 
+        "mořská panna", 
+        "víla"
+    ], 
+    "🧜‍♂️": [
+        "mořská", 
+        "poseidón", 
         "muž", 
+        "tritón", 
         "panic", 
         "moře", 
+        "mořský muž", 
         "panna", 
         "postava", 
         "mořský", 
         "nymfa", 
         "mořská bytost"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
         "magie", 
+        "les", 
+        "kouzelná", 
+        "postava", 
+        "elfka", 
+        "divoženka"
+    ], 
+    "🧝‍♂️": [
+        "lesní", 
+        "magie", 
+        "muž", 
         "elf", 
         "kouzelná", 
         "les", 
         "postava", 
         "obličej elfa"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "žena", 
         "lahev", 
         "lampa", 
+        "aladin", 
+        "duch", 
+        "džin", 
+        "džinka"
+    ], 
+    "🧞‍♂️": [
+        "lahev", 
+        "lampa", 
+        "muž", 
         "aladin", 
         "duch", 
         "duch z lahve", 
         "džin"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "nemrtvá", 
+        "chodící", 
+        "mrtvola", 
+        "zombice", 
+        "nemrtvá žena", 
+        "mrtvá", 
+        "ghúl", 
+        "zombie"
+    ], 
+    "🧟‍♂️": [
         "nemrtvá", 
         "mrtvý", 
         "nemrtvý", 
         "chodící", 
         "mrtvola", 
         "mrtvá", 
+        "zombík", 
         "ghúl", 
-        "zombie"
+        "zombie", 
+        "nemrtvý muž"
     ], 
     "🧠": [
         "inteligence", 

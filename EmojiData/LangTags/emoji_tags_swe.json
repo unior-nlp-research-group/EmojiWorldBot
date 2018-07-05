@@ -1,4 +1,128 @@
 {
+    "#️⃣": [
+        "keycap", 
+        "keycap: #"
+    ], 
+    "*️⃣": [
+        "keycap", 
+        "keycap: *"
+    ], 
+    "0️⃣": [
+        "keycap", 
+        "keycap: 0"
+    ], 
+    "1️⃣": [
+        "keycap", 
+        "keycap: 1"
+    ], 
+    "2️⃣": [
+        "keycap", 
+        "keycap: 2"
+    ], 
+    "3️⃣": [
+        "keycap", 
+        "keycap: 3"
+    ], 
+    "4️⃣": [
+        "keycap", 
+        "keycap: 4"
+    ], 
+    "5️⃣": [
+        "keycap", 
+        "keycap: 5"
+    ], 
+    "6️⃣": [
+        "keycap: 6", 
+        "keycap"
+    ], 
+    "7️⃣": [
+        "keycap", 
+        "keycap: 7"
+    ], 
+    "8️⃣": [
+        "keycap", 
+        "keycap: 8"
+    ], 
+    "9️⃣": [
+        "keycap", 
+        "keycap: 9"
+    ], 
+    "©️": [
+        "upphovsrättssymbol", 
+        "upphovsrätt", 
+        "copyright"
+    ], 
+    "®️": [
+        "registrerat", 
+        "registrerat varumärke"
+    ], 
+    "‼️": [
+        "dubbla utropstecken", 
+        "två", 
+        "utropstecken"
+    ], 
+    "⁉️": [
+        "frågetecken", 
+        "utropstecken och frågetecken", 
+        "utropstecken"
+    ], 
+    "™️": [
+        "varumärke", 
+        "skyddat varumärke"
+    ], 
+    "ℹ️": [
+        "i", 
+        "information", 
+        "informationskälla"
+    ], 
+    "↔️": [
+        "pil höger och vänster", 
+        "vänster", 
+        "pil", 
+        "höger"
+    ], 
+    "↕️": [
+        "uppåt", 
+        "pil upp och ned", 
+        "pil", 
+        "nedåt"
+    ], 
+    "↖️": [
+        "uppåt", 
+        "uppåtpil vänster", 
+        "pil", 
+        "vänster"
+    ], 
+    "↗️": [
+        "uppåt", 
+        "pil", 
+        "höger", 
+        "uppåtpil höger"
+    ], 
+    "↘️": [
+        "nedåtpil höger", 
+        "pil", 
+        "höger", 
+        "nedåt"
+    ], 
+    "↙️": [
+        "vänster", 
+        "pil", 
+        "nedåt", 
+        "nedåtpil vänster"
+    ], 
+    "↩️": [
+        "svängd vänsterpil", 
+        "vänster", 
+        "pil", 
+        "sväng"
+    ], 
+    "↪️": [
+        "pil", 
+        "höger", 
+        "svängd högerpil", 
+        "sväng"
+    ], 
     "⌚": [
         "armbandsur", 
         "klocka"
@@ -6,6 +130,15 @@
     "⌛": [
         "timglas", 
         "sand"
+    ], 
+    "⌨️": [
+        "dator", 
+        "tangentbord"
+    ], 
+    "⏏️": [
+        "knapp", 
+        "mata ut", 
+        "knapp för mata ut"
     ], 
     "⏩": [
         "framåt", 
@@ -26,15 +159,92 @@
         "dubbla nedåtpilar", 
         "nedåtpilar"
     ], 
+    "⏭️": [
+        "knapp", 
+        "nästa spår", 
+        "knapp för nästa spår"
+    ], 
+    "⏮️": [
+        "knapp", 
+        "sista spåret", 
+        "knapp för sista spåret"
+    ], 
+    "⏯️": [
+        "knapp", 
+        "play", 
+        "knapp för spela eller pausa", 
+        "paus", 
+        "spela"
+    ], 
     "⏰": [
         "klocka", 
         "väckarklocka"
+    ], 
+    "⏱️": [
+        "tid", 
+        "klocka", 
+        "stoppur"
+    ], 
+    "⏲️": [
+        "tid", 
+        "klocka", 
+        "timer"
     ], 
     "⏳": [
         "tid", 
         "timglas", 
         "sand", 
         "timglas med rinnande sand"
+    ], 
+    "⏸️": [
+        "knapp", 
+        "paus", 
+        "knapp för pausa"
+    ], 
+    "⏹️": [
+        "knapp", 
+        "knapp för stoppa", 
+        "stopp"
+    ], 
+    "⏺️": [
+        "spela in", 
+        "knapp", 
+        "knapp för spela in"
+    ], 
+    "Ⓜ️": [
+        "m i en cirkel", 
+        "cirkel"
+    ], 
+    "▪️": [
+        "liten svart ruta", 
+        "svart", 
+        "ruta"
+    ], 
+    "▫️": [
+        "ruta", 
+        "liten vit ruta", 
+        "vit"
+    ], 
+    "▶️": [
+        "knapp", 
+        "knapp för spela", 
+        "play", 
+        "spela"
+    ], 
+    "◀️": [
+        "knapp", 
+        "knapp för spola tillbaka", 
+        "spola tillbaka"
+    ], 
+    "◻️": [
+        "ruta", 
+        "mellanstor vit ruta", 
+        "vit"
+    ], 
+    "◼️": [
+        "mellanstor svart ruta", 
+        "svart", 
+        "ruta"
     ], 
     "◽": [
         "medelstor vit ruta", 
@@ -46,6 +256,39 @@
         "svart", 
         "medelstor svart ruta"
     ], 
+    "☀️": [
+        "väder", 
+        "sol", 
+        "strålar"
+    ], 
+    "☁️": [
+        "väder", 
+        "moln"
+    ], 
+    "☂️": [
+        "regn", 
+        "accessoar", 
+        "paraply", 
+        "väder"
+    ], 
+    "☃️": [
+        "snö", 
+        "snöar", 
+        "snögubbe"
+    ], 
+    "☄️": [
+        "komet", 
+        "rymden"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "avbockad", 
+        "kryssruta med bock", 
+        "kryssruta", 
+        "bock"
+    ], 
     "☔": [
         "regn", 
         "accessoar", 
@@ -56,6 +299,85 @@
     "☕": [
         "dryck", 
         "kaffe"
+    ], 
+    "☘️": [
+        "treklöver", 
+        "Irland"
+    ], 
+    "☝️": [
+        "peka", 
+        "finger upp", 
+        "finger", 
+        "förmaning"
+    ], 
+    "☠️": [
+        "dödskalle med ben i kors", 
+        "dödskalle", 
+        "pirater"
+    ], 
+    "☢️": [
+        "skylt", 
+        "radioaktiv", 
+        "varning"
+    ], 
+    "☣️": [
+        "skylt", 
+        "biologisk fara", 
+        "fara", 
+        "varning", 
+        "biologisk"
+    ], 
+    "☦️": [
+        "religion", 
+        "ortodoxt kors", 
+        "kristendom", 
+        "kors"
+    ], 
+    "☪️": [
+        "religion", 
+        "muslim", 
+        "stjärna och halvmåne", 
+        "halvmåne", 
+        "islam"
+    ], 
+    "☮️": [
+        "fredssymbol", 
+        "peace", 
+        "fred"
+    ], 
+    "☯️": [
+        "taoist", 
+        "yin och yang", 
+        "yin", 
+        "religion", 
+        "yang", 
+        "tao"
+    ], 
+    "☸️": [
+        "hjul", 
+        "religion", 
+        "buddhist", 
+        "livets hjul", 
+        "livshjul"
+    ], 
+    "☹️": [
+        "ansikte", 
+        "ansikte med sur mun", 
+        "sur"
+    ], 
+    "☺️": [
+        "smiley", 
+        "leende ansikte"
+    ], 
+    "♀️": [
+        "kvinnlig", 
+        "kvinnosymbol", 
+        "kvinna"
+    ], 
+    "♂️": [
+        "manssymbol", 
+        "manlig", 
+        "man"
     ], 
     "♈": [
         "Väduren", 
@@ -105,15 +427,95 @@
         "Fiskarna", 
         "stjärntecken"
     ], 
+    "♠️": [
+        "kort", 
+        "spader", 
+        "färg"
+    ], 
+    "♣️": [
+        "kort", 
+        "klöver", 
+        "färg"
+    ], 
+    "♥️": [
+        "kort", 
+        "hjärter", 
+        "färg"
+    ], 
+    "♦️": [
+        "kort", 
+        "ruter", 
+        "färg"
+    ], 
+    "♨️": [
+        "varma källor", 
+        "värme", 
+        "het källa"
+    ], 
+    "♻️": [
+        "symbol", 
+        "återvinningssymbol", 
+        "återvinning"
+    ], 
     "♿": [
         "tillgänglighet", 
         "rullstolssymbol", 
         "symbol", 
         "rullstol"
     ], 
+    "⚒️": [
+        "hammare", 
+        "verktyg", 
+        "hammare och hacka", 
+        "hacka"
+    ], 
     "⚓": [
         "hopp", 
         "ankare"
+    ], 
+    "⚔️": [
+        "vapen", 
+        "svärd", 
+        "korslagda svärd", 
+        "korsade"
+    ], 
+    "⚕️": [
+        "medicin", 
+        "personal", 
+        "aesculapius", 
+        "medicinsk symbol"
+    ], 
+    "⚖️": [
+        "balansvåg", 
+        "våg", 
+        "rättvisa", 
+        "vågen"
+    ], 
+    "⚗️": [
+        "retort", 
+        "kemi"
+    ], 
+    "⚙️": [
+        "kugge", 
+        "kugghjul"
+    ], 
+    "⚛️": [
+        "ateist", 
+        "naturvetenskap", 
+        "symbol för atom", 
+        "atom"
+    ], 
+    "⚜️": [
+        "franska liljan", 
+        "fleur-de-lis"
+    ], 
+    "⚠️": [
+        "fara", 
+        "se upp", 
+        "skylt", 
+        "varningstecken", 
+        "varning", 
+        "utropstecken"
     ], 
     "⚡": [
         "hög spänning", 
@@ -130,6 +532,16 @@
         "svart cirkel", 
         "cirkel", 
         "vit"
+    ], 
+    "⚰️": [
+        "kista", 
+        "begravning"
+    ], 
+    "⚱️": [
+        "aska", 
+        "begravning", 
+        "urna", 
+        "begravningsurna"
     ], 
     "⚽": [
         "fotboll", 
@@ -151,19 +563,53 @@
         "sol", 
         "moln"
     ], 
+    "⛈️": [
+        "väder", 
+        "oväder", 
+        "moln med regn och blixtar", 
+        "moln"
+    ], 
     "⛎": [
         "stjärnbild", 
         "Ormbäraren"
+    ], 
+    "⛏️": [
+        "verktyg", 
+        "hacka"
+    ], 
+    "⛑️": [
+        "hjälp", 
+        "hjälm", 
+        "hjälm med vitt kors"
+    ], 
+    "⛓️": [
+        "kedja", 
+        "kedjor"
     ], 
     "⛔": [
         "Förbjuden ingång", 
         "förbjuden", 
         "ingång"
     ], 
+    "⛩️": [
+        "shintohelgedom", 
+        "religion", 
+        "shinto"
+    ], 
     "⛪": [
         "byggnad", 
         "kyrka", 
         "kristen"
+    ], 
+    "⛰️": [
+        "berg"
+    ], 
+    "⛱️": [
+        "parasoll", 
+        "paraply", 
+        "parasoll på marken", 
+        "väder", 
+        "sol"
     ], 
     "⛲": [
         "springbrunn"
@@ -174,10 +620,30 @@
         "golfflagga", 
         "flagga i hål"
     ], 
+    "⛴️": [
+        "färja", 
+        "båt"
+    ], 
     "⛵": [
         "segelbåt", 
         "segling", 
         "båt"
+    ], 
+    "⛷️": [
+        "skidåkare", 
+        "skidor", 
+        "vinter", 
+        "snö"
+    ], 
+    "⛸️": [
+        "skridsko", 
+        "is", 
+        "sport"
+    ], 
+    "⛹️‍♂️": [
+        "sport", 
+        "boll", 
+        "person med boll"
     ], 
     "⛺": [
         "tält", 
@@ -188,25 +654,115 @@
         "bensinpump", 
         "bränsle"
     ], 
+    "✂️": [
+        "sax", 
+        "klippa"
+    ], 
     "✅": [
         "vit bock", 
         "bock"
     ], 
+    "✈️": [
+        "fordon", 
+        "flygplan"
+    ], 
+    "✉️": [
+        "brev", 
+        "kuvert", 
+        "mail"
+    ], 
     "✊": [
-        "knytnäve i luften", 
+        "knytnäve i luften: hudton 1–2", 
+        "knytnäve i luften: hudton 6", 
         "knytnäve", 
-        "hand"
+        "knytnäve i luften: hudton 5", 
+        "knytnäve i luften: hudton 4", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "knytnäve i luften: hudton 3", 
+        "hand", 
+        "hudton 6", 
+        "knytnäve i luften", 
+        "hudton 4"
     ], 
     "✋": [
         "uppräckt", 
+        "hand i luften: hudton 5", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hand", 
+        "hand i luften: hudton 3", 
         "hand i luften", 
         "handflata", 
+        "hand i luften: hudton 4", 
+        "hand i luften: hudton 1–2", 
+        "hudton 4", 
+        "hand i luften: hudton 6"
+    ], 
+    "✌️": [
+        "v-tecken", 
+        "seger"
+    ], 
+    "✍️": [
+        "hand som skriver", 
+        "skriver", 
         "hand"
+    ], 
+    "✏️": [
+        "blyertspenna"
+    ], 
+    "✒️": [
+        "penna", 
+        "stiftpenna"
+    ], 
+    "✔️": [
+        "avbockad", 
+        "bock"
+    ], 
+    "✖️": [
+        "multiplikation", 
+        "multiplikationstecken", 
+        "kryss"
+    ], 
+    "✝️": [
+        "religion", 
+        "latinskt kors", 
+        "kristendom", 
+        "kors"
+    ], 
+    "✡️": [
+        "religion", 
+        "davidsstjärna", 
+        "judendom", 
+        "jude", 
+        "stjärna"
     ], 
     "✨": [
         "gnistrar", 
         "gnistrande stjärnor", 
         "stjärnor"
+    ], 
+    "✳️": [
+        "åttauddig", 
+        "stjärna", 
+        "spetsig", 
+        "åttauddig spetsig stjärna"
+    ], 
+    "✴️": [
+        "åttauddig", 
+        "stjärna", 
+        "åttauddig stjärna"
+    ], 
+    "❄️": [
+        "snö", 
+        "snöflinga"
+    ], 
+    "❇️": [
+        "gnistra", 
+        "glittra"
     ], 
     "❌": [
         "X", 
@@ -238,6 +794,16 @@
         "kommatering", 
         "utropstecken"
     ], 
+    "❣️": [
+        "utropstecken i form av ett hjärta", 
+        "hjärta", 
+        "utropstecken"
+    ], 
+    "❤️": [
+        "hjärta", 
+        "kärlek", 
+        "rött hjärta"
+    ], 
     "➕": [
         "plustecken", 
         "matte", 
@@ -253,6 +819,11 @@
         "matte", 
         "divisionstecken"
     ], 
+    "➡️": [
+        "högerpil", 
+        "pil", 
+        "höger"
+    ], 
     "➰": [
         "kurva", 
         "slinga"
@@ -260,6 +831,33 @@
     "➿": [
         "dubbel ögla", 
         "öglor"
+    ], 
+    "⤴️": [
+        "uppåt", 
+        "pil", 
+        "sväng", 
+        "svängd uppåtpil"
+    ], 
+    "⤵️": [
+        "pil", 
+        "nedåt", 
+        "svängd nedåtpil", 
+        "sväng"
+    ], 
+    "⬅️": [
+        "vänsterpil", 
+        "vänster", 
+        "pil"
+    ], 
+    "⬆️": [
+        "uppåt", 
+        "pil", 
+        "uppåtpil"
+    ], 
+    "⬇️": [
+        "nedåtpil", 
+        "pil", 
+        "nedåt"
     ], 
     "⬛": [
         "ruta", 
@@ -281,6 +879,26 @@
         "cirkel", 
         "o"
     ], 
+    "〰️": [
+        "vågig", 
+        "tankstreck", 
+        "vågigt tankstreck"
+    ], 
+    "〽️": [
+        "japansk", 
+        "japansk kommatering", 
+        "kommatering"
+    ], 
+    "㊗️": [
+        "ideogram", 
+        "grattis", 
+        "ideogram för grattis"
+    ], 
+    "㊙️": [
+        "hemlighet", 
+        "ideogram för hemlighet", 
+        "ideogram"
+    ], 
     "🀄": [
         "spelbricka", 
         "Mahjong-bricka", 
@@ -291,6 +909,22 @@
         "Joker", 
         "Joker-kort", 
         "spelkort"
+    ], 
+    "🅰️": [
+        "blodgrupp A", 
+        "typ A"
+    ], 
+    "🅱️": [
+        "blodgrupp B", 
+        "typ B"
+    ], 
+    "🅾️": [
+        "blodgrupp 0", 
+        "typ 0"
+    ], 
+    "🅿️": [
+        "parkering", 
+        "parkeringsplats"
     ], 
     "🆎": [
         "typ AB", 
@@ -1383,6 +2017,11 @@
         "katakana", 
         "katakana för koko"
     ], 
+    "🈂️": [
+        "katakana för sa", 
+        "katakana", 
+        "sa"
+    ], 
     "🈚": [
         "ideogram", 
         "ideogram för gratis", 
@@ -1417,6 +2056,12 @@
         "ideogram", 
         "ideogram för finns", 
         "finns"
+    ], 
+    "🈷️": [
+        "månad", 
+        "ideogram", 
+        "måne", 
+        "ideogram för månad"
     ], 
     "🈸": [
         "ideogram för tillämpa", 
@@ -1625,6 +2270,63 @@
         "stjärnfall", 
         "fallande stjärna"
     ], 
+    "🌡️": [
+        "väder", 
+        "termometer"
+    ], 
+    "🌤️": [
+        "sol bakom litet moln", 
+        "väder", 
+        "sol", 
+        "moln"
+    ], 
+    "🌥️": [
+        "sol bakom stort moln", 
+        "väder", 
+        "sol", 
+        "moln"
+    ], 
+    "🌦️": [
+        "regn", 
+        "sol bakom moln med regn", 
+        "väder", 
+        "sol", 
+        "moln"
+    ], 
+    "🌧️": [
+        "regn", 
+        "väder", 
+        "regnmoln", 
+        "moln"
+    ], 
+    "🌨️": [
+        "snö", 
+        "väder", 
+        "moln med snö", 
+        "moln"
+    ], 
+    "🌩️": [
+        "moln med blixt", 
+        "oväder", 
+        "väder", 
+        "moln"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "väder", 
+        "virvelvind"
+    ], 
+    "🌫️": [
+        "väder", 
+        "dimma", 
+        "dimmigt"
+    ], 
+    "🌬️": [
+        "blåser vind", 
+        "blåser", 
+        "vind", 
+        "väder"
+    ], 
     "🌭": [
         "korv", 
         "varmkorv", 
@@ -1668,6 +2370,12 @@
     "🌵": [
         "kaktus", 
         "växt"
+    ], 
+    "🌶️": [
+        "chili", 
+        "starkt", 
+        "växt", 
+        "peppar"
     ], 
     "🌷": [
         "blomma", 
@@ -2009,6 +2717,12 @@
         "mjölk", 
         "nappflaska"
     ], 
+    "🍽️": [
+        "tallrik, kniv och gaffel", 
+        "äta", 
+        "dukning", 
+        "bestick"
+    ], 
     "🍾": [
         "fest", 
         "champagne", 
@@ -2050,9 +2764,19 @@
         "gran"
     ], 
     "🎅": [
+        "jultomte: hudton 1–2", 
+        "jultomte: hudton 4", 
+        "jultomte: hudton 6", 
+        "jultomte: hudton 5", 
         "jultomte", 
+        "jultomte: hudton 3", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "jul", 
         "högtid", 
+        "hudton 4", 
         "tomten"
     ], 
     "🎆": [
@@ -2126,6 +2850,38 @@
         "examenshatt", 
         "högtid", 
         "hatt"
+    ], 
+    "🎖️": [
+        "militär", 
+        "militär medalj", 
+        "medalj"
+    ], 
+    "🎗️": [
+        "band", 
+        "gult band"
+    ], 
+    "🎙️": [
+        "studiomikrofon", 
+        "sjunga", 
+        "mikrofon"
+    ], 
+    "🎚️": [
+        "reglage", 
+        "nivåreglage"
+    ], 
+    "🎛️": [
+        "knappar", 
+        "kontrollknappar"
+    ], 
+    "🎞️": [
+        "filmnegativ", 
+        "film", 
+        "negativ"
+    ], 
+    "🎟️": [
+        "biljett", 
+        "inträde", 
+        "inträdesbiljett"
     ], 
     "🎠": [
         "karusell", 
@@ -2306,17 +3062,46 @@
         "racing"
     ], 
     "🏂": [
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "snowboardåkare", 
+        "snowboardåkare: hudton 5", 
+        "snowboardåkare: hudton 4", 
         "snowboard", 
-        "snowboardåkare"
+        "snowboardåkare: hudton 6", 
+        "snowboardåkare: hudton 1–2", 
+        "snowboardåkare: hudton 3", 
+        "hudton 4"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "kvinna springer", 
+        "löpa", 
+        "jogga", 
+        "kvinna"
+    ], 
+    "🏃‍♂️": [
+        "löpare", 
+        "man springer", 
+        "löpa", 
+        "jogga", 
         "löpning", 
-        "löpare"
+        "man"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "kvinnlig", 
+        "woman", 
+        "kvinna surfar", 
+        "surfing"
+    ], 
+    "🏄‍♂️": [
+        "manlig", 
         "surfing", 
+        "surfning", 
+        "man surfar", 
         "surfare", 
-        "surfning"
+        "man"
     ], 
     "🏅": [
         "sportmedalj", 
@@ -2329,9 +3114,19 @@
         "pris"
     ], 
     "🏇": [
-        "hästkapplöpning", 
         "jockey", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hästkapplöpning: hudton 4", 
+        "hästkapplöpning: hudton 5", 
+        "hästkapplöpning", 
         "häst", 
+        "hästkapplöpning: hudton 6", 
+        "hästkapplöpning: hudton 3", 
+        "hästkapplöpning: hudton 1–2", 
+        "hudton 4", 
         "kapplöpning"
     ], 
     "🏈": [
@@ -2345,9 +3140,37 @@
         "boll", 
         "rugbyboll"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "kvinnlig", 
+        "badar", 
+        "kvinna badar", 
+        "kvinna"
+    ], 
+    "🏊‍♂️": [
+        "badar", 
+        "manlig", 
+        "man badar", 
         "simning", 
-        "simmare"
+        "simmare", 
+        "man"
+    ], 
+    "🏋️‍♂️": [
+        "sport", 
+        "tyngdlyftare"
+    ], 
+    "🏌️‍♂️": [
+        "sport", 
+        "golf", 
+        "golfspelare"
+    ], 
+    "🏍️": [
+        "motorcykel", 
+        "racing"
+    ], 
+    "🏎️": [
+        "racerbil", 
+        "bil", 
+        "sport"
     ], 
     "🏏": [
         "cricket", 
@@ -2374,6 +3197,63 @@
         "bordtennis", 
         "pingpong", 
         "pingis"
+    ], 
+    "🏔️": [
+        "snö", 
+        "kallt", 
+        "berg", 
+        "snöklädda berg"
+    ], 
+    "🏕️": [
+        "tält", 
+        "camping"
+    ], 
+    "🏖️": [
+        "parasoll", 
+        "strand med parasoll", 
+        "strand"
+    ], 
+    "🏗️": [
+        "bygge", 
+        "byggarbetsplats"
+    ], 
+    "🏘️": [
+        "flera hus", 
+        "byggnader", 
+        "hus"
+    ], 
+    "🏙️": [
+        "höga hus", 
+        "storstad", 
+        "skyskrapa"
+    ], 
+    "🏚️": [
+        "öde", 
+        "hus", 
+        "ödehus", 
+        "förfallet"
+    ], 
+    "🏛️": [
+        "byggnad", 
+        "sevärdhet", 
+        "klassisk byggnad"
+    ], 
+    "🏜️": [
+        "torrt", 
+        "varmt", 
+        "öken"
+    ], 
+    "🏝️": [
+        "öde", 
+        "ö", 
+        "öde ö"
+    ], 
+    "🏞️": [
+        "park", 
+        "nationalpark"
+    ], 
+    "🏟️": [
+        "stadion"
     ], 
     "🏠": [
         "byggnad", 
@@ -2451,6 +3331,16 @@
         "europeiskt slott", 
         "slott"
     ], 
+    "🏳️": [
+        "flagga", 
+        "vit flagga", 
+        "vit"
+    ], 
+    "🏳️‍🌈": [
+        "flagga", 
+        "regnbåge", 
+        "regnbågsflagga"
+    ], 
     "🏴": [
         "flagga", 
         "svart flagga", 
@@ -2467,6 +3357,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "flagga", 
         "Wales"
+    ], 
+    "🏵️": [
+        "blomma", 
+        "bandros"
+    ], 
+    "🏷️": [
+        "etikett"
     ], 
     "🏸": [
         "badminton", 
@@ -2802,17 +3699,45 @@
         "djur", 
         "tassavtryck"
     ], 
+    "🐿️": [
+        "jordekorre", 
+        "djur"
+    ], 
     "👀": [
         "ögon", 
         "öga"
     ], 
+    "👁️": [
+        "kropp", 
+        "öga"
+    ], 
     "👂": [
+        "kropp", 
         "öra", 
-        "kropp"
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "hudton 6", 
+        "öra: hudton 6", 
+        "öra: hudton 4", 
+        "öra: hudton 5", 
+        "öra: hudton 3", 
+        "öra: hudton 1–2"
     ], 
     "👃": [
         "kropp", 
-        "näsa"
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "näsa", 
+        "näsa: hudton 5", 
+        "näsa: hudton 1–2", 
+        "näsa: hudton 3", 
+        "näsa: hudton 4", 
+        "hudton 4", 
+        "näsa: hudton 6"
     ], 
     "👄": [
         "läppar", 
@@ -2823,63 +3748,173 @@
         "tunga"
     ], 
     "👆": [
+        "hudton 5", 
+        "hudton 6", 
+        "hudton 1–2", 
         "peka uppåt", 
-        "finger", 
+        "hudton 3", 
         "pekfinger", 
-        "pekfinger upp"
+        "pekfinger upp: hudton 1–2", 
+        "finger", 
+        "pekfinger upp", 
+        "pekfinger upp: hudton 5", 
+        "pekfinger upp: hudton 4", 
+        "pekfinger upp: hudton 6", 
+        "hudton 4", 
+        "pekfinger upp: hudton 3"
     ], 
     "👇": [
         "peka nedåt", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "pekfinger", 
+        "nedåtpekande finger: hudton 3", 
         "nedåtpekande finger", 
         "finger", 
-        "pekfinger"
+        "nedåtpekande finger: hudton 4", 
+        "nedåtpekande finger: hudton 5", 
+        "nedåtpekande finger: hudton 6", 
+        "nedåtpekande finger: hudton 1–2"
     ], 
     "👈": [
-        "peka åt vänster", 
+        "vänsterpekande finger: hudton 4", 
+        "vänsterpekande finger: hudton 5", 
+        "vänsterpekande finger: hudton 6", 
+        "vänsterpekande finger: hudton 1–2", 
+        "vänsterpekande finger: hudton 3", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "vänsterpekande finger", 
-        "pekfinger"
+        "pekfinger", 
+        "peka åt vänster", 
+        "hudton 4"
     ], 
     "👉": [
-        "peka åt höger", 
+        "högerpekande finger: hudton 1–2", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
         "högerpekande finger", 
-        "pekfinger"
+        "hudton 3", 
+        "pekfinger", 
+        "peka åt höger", 
+        "högerpekande finger: hudton 3", 
+        "högerpekande finger: hudton 6", 
+        "hudton 4", 
+        "högerpekande finger: hudton 4", 
+        "högerpekande finger: hudton 5"
     ], 
     "👊": [
+        "knuten hand: hudton 1–2", 
+        "knytnäve", 
+        "hudton 6", 
+        "knuten hand: hudton 5", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "knuten hand: hudton 4", 
+        "knuten hand: hudton 6", 
         "knuten hand", 
-        "knytnäve"
+        "knuten hand: hudton 3"
     ], 
     "👋": [
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "hand", 
+        "vinkande hand: hudton 6", 
+        "vinkande hand: hudton 4", 
+        "vinkande hand: hudton 5", 
         "vinkande hand", 
+        "vinkande hand: hudton 3", 
         "vinka", 
-        "hand"
+        "vinkande hand: hudton 1–2"
     ], 
     "👌": [
-        "OK-tecken", 
-        "tecken", 
         "OK", 
-        "hand"
+        "OK-tecken", 
+        "OK-tecken: hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "OK-tecken: hudton 1–2", 
+        "hand", 
+        "hudton 6", 
+        "OK-tecken: hudton 3", 
+        "tecken", 
+        "hudton 4", 
+        "OK-tecken: hudton 4", 
+        "OK-tecken: hudton 5"
     ], 
     "👍": [
+        "tummen upp: hudton 3", 
         "tummen upp", 
+        "hudton 3", 
+        "tummen upp: hudton 6", 
+        "tummen upp: hudton 5", 
+        "tummen upp: hudton 4", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
         "gillar", 
         "tumme", 
+        "tummen upp: hudton 1–2", 
+        "hudton 4", 
         "upp"
     ], 
     "👎": [
-        "tummen ned", 
         "ogilla", 
+        "hudton 5", 
+        "tummen ned: hudton 6", 
+        "tummen ned: hudton 3", 
+        "hudton 1–2", 
+        "tummen ned: hudton 1–2", 
+        "tumme", 
+        "tummen ned: hudton 5", 
+        "hudton 3", 
+        "hudton 6", 
+        "tummen ned", 
+        "tummen ned: hudton 4", 
         "ner", 
-        "tumme"
+        "hudton 4"
     ], 
     "👏": [
-        "klappande händer", 
+        "hudton 5", 
         "klappa", 
-        "klappa händer"
+        "hudton 6", 
+        "hudton 1–2", 
+        "klappande händer: hudton 4", 
+        "hudton 3", 
+        "klappande händer: hudton 3", 
+        "klappande händer", 
+        "klappande händer: hudton 5", 
+        "klappa händer", 
+        "klappande händer: hudton 1–2", 
+        "hudton 4", 
+        "klappande händer: hudton 6"
     ], 
     "👐": [
-        "öppna händer", 
+        "öppna händer: hudton 4", 
+        "öppna", 
+        "hudton 6", 
+        "öppna händer: hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "händer", 
-        "öppna"
+        "öppna händer: hudton 3", 
+        "öppna händer", 
+        "hudton 4", 
+        "öppna händer: hudton 1–2", 
+        "öppna händer: hudton 5"
     ], 
     "👑": [
         "krona", 
@@ -2985,66 +4020,204 @@
         "människor"
     ], 
     "👦": [
-        "kille", 
+        "pojke: hudton 6", 
+        "pojke: hudton 1–2", 
+        "människor", 
+        "pojke: hudton 4", 
+        "pojke: hudton 5", 
         "pojke", 
-        "människor"
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "pojke: hudton 3", 
+        "kille", 
+        "hudton 6", 
+        "hudton 1–2"
     ], 
     "👧": [
+        "flicka: hudton 6", 
+        "flicka: hudton 1–2", 
+        "flicka: hudton 5", 
+        "flicka: hudton 3", 
+        "människor", 
         "flicka", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "flicka: hudton 4", 
+        "hudton 3", 
+        "hudton 6", 
         "tjej", 
-        "människor"
+        "hudton 4"
     ], 
     "👨": [
+        "man: hudton 6", 
         "människor", 
+        "man: hudton 5", 
+        "man: hudton 4", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "man: hudton 3", 
+        "man: hudton 1–2", 
+        "hudton 6", 
+        "hudton 4", 
+        "man"
+    ], 
+    "👨‍⚕️": [
+        "manlig", 
+        "manlig läkare", 
+        "skötare", 
+        "läkare", 
+        "doktor", 
+        "hälsovård", 
+        "man"
+    ], 
+    "👨‍⚖️": [
+        "manlig", 
+        "jurist", 
+        "manlig domare", 
+        "advokat", 
+        "man"
+    ], 
+    "👨‍✈️": [
+        "manlig pilot", 
+        "pilot", 
+        "flyga", 
+        "man"
+    ], 
+    "👨‍❤️‍👨": [
+        "par med hjärta", 
+        "människor", 
+        "hjärta", 
+        "kärlek", 
+        "par med hjärta: man, man", 
+        "man"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "kyssas", 
+        "puss", 
+        "människor", 
+        "kärlek", 
+        "puss: man, man", 
         "man"
     ], 
     "👨‍🌾": [
-        "trädgårdsmästare", 
-        "bonde", 
-        "jordbruk", 
+        "manlig bonde: hudton 3", 
         "manlig bonde", 
+        "manlig bonde: hudton 4", 
+        "manlig bonde: hudton 5", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "jordbruk", 
+        "hudton 3", 
+        "bonde", 
+        "trädgårdsmästare", 
+        "manlig bonde: hudton 6", 
+        "hudton 4", 
+        "manlig bonde: hudton 1–2", 
         "man"
     ], 
     "👨‍🍳": [
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
         "manlig kock", 
         "restaurang", 
         "matlagning", 
+        "manlig kock: hudton 5", 
+        "manlig kock: hudton 4", 
+        "manlig kock: hudton 6", 
+        "manlig kock: hudton 1–2", 
+        "manlig kock: hudton 3", 
         "man"
     ], 
     "👨‍🎓": [
         "manlig", 
-        "manlig student", 
+        "hudton 5", 
         "studerande", 
+        "hudton 6", 
+        "manlig student: hudton 1–2", 
+        "hudton 1–2", 
+        "manlig student", 
+        "hudton 3", 
         "student", 
+        "manlig student: hudton 5", 
+        "manlig student: hudton 4", 
+        "manlig student: hudton 6", 
+        "hudton 4", 
+        "manlig student: hudton 3", 
         "man"
     ], 
     "👨‍🎤": [
         "kändis", 
         "artist", 
+        "hudton 5", 
+        "hudton 1–2", 
         "manlig sångare", 
+        "hudton 4", 
+        "hudton 3", 
+        "hudton 6", 
+        "manlig sångare: hudton 3", 
+        "manlig sångare: hudton 5", 
+        "manlig sångare: hudton 4", 
+        "manlig sångare: hudton 1–2", 
         "stjärna", 
+        "manlig sångare: hudton 6", 
         "konsert", 
         "man"
     ], 
     "👨‍🎨": [
-        "målare", 
         "palett", 
+        "manlig konstnär: hudton 1–2", 
+        "manlig konstnär: hudton 5", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hudton 6", 
+        "manlig konstnär: hudton 3", 
+        "manlig konstnär: hudton 4", 
+        "manlig konstnär: hudton 6", 
+        "målare", 
+        "hudton 4", 
         "manlig konstnär", 
         "man"
     ], 
     "👨‍🏫": [
         "manlig", 
+        "hudton 5", 
+        "hudton 6", 
+        "manlig lärare: hudton 1–2", 
         "professor", 
         "manlig lärare", 
+        "hudton 4", 
+        "hudton 3", 
         "instruktör", 
+        "manlig lärare: hudton 3", 
+        "manlig lärare: hudton 5", 
+        "manlig lärare: hudton 4", 
+        "manlig lärare: hudton 6", 
+        "hudton 1–2", 
         "lärare", 
         "man"
     ], 
     "👨‍🏭": [
+        "manlig fabriksarbetare: hudton 4", 
+        "manlig fabriksarbetare: hudton 6", 
+        "manlig fabriksarbetare: hudton 1–2", 
+        "hudton 5", 
+        "manlig fabriksarbetare: hudton 3", 
         "manlig fabriksarbetare", 
-        "industri", 
+        "hudton 1–2", 
         "produktion", 
         "fabrik", 
+        "hudton 3", 
+        "hudton 6", 
+        "manlig fabriksarbetare: hudton 5", 
+        "industri", 
+        "hudton 4", 
         "man"
     ], 
     "👨‍👦": [
@@ -3206,99 +4379,295 @@
         "man"
     ], 
     "👨‍💻": [
-        "manlig IT-expert", 
-        "teknologi", 
+        "manlig IT-expert: hudton 5", 
+        "hudton 6", 
         "data", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "manlig IT-expert: hudton 6", 
         "IT", 
-        "man"
+        "manlig IT-expert: hudton 4", 
+        "hudton 3", 
+        "manlig IT-expert: hudton 1–2", 
+        "manlig IT-expert: hudton 3", 
+        "man", 
+        "manlig IT-expert", 
+        "hudton 4", 
+        "teknologi"
     ], 
     "👨‍💼": [
-        "chef", 
         "kontor", 
+        "kontorstjänsteman: hudton 5", 
+        "kontorstjänsteman: hudton 4", 
+        "kontorstjänsteman: hudton 3", 
+        "kontorstjänsteman: hudton 6", 
+        "hudton 6", 
         "näringsliv", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "kontorstjänsteman: hudton 1–2", 
+        "chef", 
         "kontorstjänsteman", 
+        "hudton 1–2", 
         "man"
     ], 
     "👨‍🔧": [
-        "mekaniker", 
         "bil", 
+        "hudton 5", 
+        "mekaniker", 
+        "hudton 1–2", 
+        "manlig mekaniker: hudton 1–2", 
+        "hudton 3", 
+        "hudton 6", 
         "manlig mekaniker", 
         "motor", 
+        "manlig mekaniker: hudton 6", 
+        "manlig mekaniker: hudton 5", 
+        "manlig mekaniker: hudton 4", 
+        "manlig mekaniker: hudton 3", 
+        "hudton 4", 
         "man"
     ], 
     "👨‍🔬": [
         "vetenskapsman", 
+        "manlig forskare: hudton 5", 
         "manlig forskare", 
         "vetenskap", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "kemi", 
+        "manlig forskare: hudton 3", 
+        "manlig forskare: hudton 4", 
+        "hudton 6", 
         "laboratorium", 
+        "manlig forskare: hudton 1–2", 
+        "manlig forskare: hudton 6", 
+        "hudton 4", 
         "man"
     ], 
     "👨‍🚀": [
-        "manlig astronaut", 
+        "hudton 6", 
+        "manlig astronaut: hudton 3", 
+        "manlig astronaut: hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "manlig astronaut: hudton 5", 
+        "manlig astronaut: hudton 4", 
         "rymdfart", 
         "rymden", 
         "astronaut", 
+        "manlig astronaut", 
+        "manlig astronaut: hudton 1–2", 
+        "hudton 4", 
         "man"
     ], 
     "👨‍🚒": [
-        "brandbil", 
-        "brandväsendet", 
+        "hudton 5", 
         "brandman", 
+        "brandbil", 
+        "hudton 1–2", 
+        "brandman: hudton 1–2", 
+        "hudton 3", 
+        "hudton 6", 
+        "brandväsendet", 
+        "brandman: hudton 6", 
+        "brandman: hudton 5", 
+        "brandman: hudton 4", 
+        "brandman: hudton 3", 
+        "hudton 4", 
         "man"
     ], 
     "👩": [
+        "hudton 5", 
         "människor", 
+        "hudton 6", 
+        "kvinna: hudton 5", 
+        "kvinna: hudton 3", 
+        "kvinna: hudton 4", 
+        "hudton 4", 
+        "hudton 3", 
+        "kvinna: hudton 1–2", 
+        "kvinna", 
+        "kvinna: hudton 6", 
+        "hudton 1–2"
+    ], 
+    "👩‍⚕️": [
+        "skötare", 
+        "kvinna", 
+        "kvinnlig", 
+        "läkare", 
+        "hälsovård", 
+        "kvinnlig läkare", 
+        "doktor"
+    ], 
+    "👩‍⚖️": [
+        "kvinnlig", 
+        "jurist", 
+        "kvinnlig domare", 
+        "advokat", 
+        "kvinna"
+    ], 
+    "👩‍✈️": [
+        "pilot", 
+        "kvinnlig pilot", 
+        "flyga", 
+        "kvinna"
+    ], 
+    "👩‍❤️‍👨": [
+        "par med hjärta", 
+        "människor", 
+        "par med hjärta: kvinna, man", 
+        "hjärta", 
+        "kärlek", 
+        "kvinna", 
+        "man"
+    ], 
+    "👩‍❤️‍👩": [
+        "par med hjärta", 
+        "par med hjärta: kvinna, kvinna", 
+        "människor", 
+        "hjärta", 
+        "kärlek", 
+        "kvinna"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "kyssas", 
+        "puss", 
+        "människor", 
+        "puss: kvinna, man", 
+        "kärlek", 
+        "kvinna", 
+        "man"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "kyssas", 
+        "puss", 
+        "puss: kvinna, kvinna", 
+        "människor", 
+        "kärlek", 
         "kvinna"
     ], 
     "👩‍🌾": [
-        "trädgårdsmästare", 
-        "bonde", 
+        "hudton 6", 
         "kvinnlig bonde", 
+        "hudton 5", 
         "jordbruk", 
-        "kvinna"
+        "hudton 3", 
+        "kvinnlig bonde: hudton 3", 
+        "bonde", 
+        "trädgårdsmästare", 
+        "kvinnlig bonde: hudton 4", 
+        "kvinnlig bonde: hudton 5", 
+        "kvinnlig bonde: hudton 6", 
+        "kvinna", 
+        "kvinnlig bonde: hudton 1–2", 
+        "hudton 1–2", 
+        "hudton 4"
     ], 
     "👩‍🍳": [
+        "kvinnlig kock: hudton 6", 
         "matlaging", 
-        "restaurang", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
         "kvinnlig kock", 
-        "kvinna"
+        "hudton 3", 
+        "kvinnlig kock: hudton 1–2", 
+        "restaurang", 
+        "kvinna", 
+        "kvinnlig kock: hudton 3", 
+        "hudton 4", 
+        "kvinnlig kock: hudton 5", 
+        "kvinnlig kock: hudton 4"
     ], 
     "👩‍🎓": [
-        "kvinnlig", 
-        "kvinnlig student", 
+        "kvinnlig student: hudton 5", 
+        "hudton 5", 
         "studerande", 
+        "kvinnlig student: hudton 1–2", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "kvinnlig student: hudton 4", 
+        "hudton 3", 
+        "kvinnlig student: hudton 3", 
+        "kvinnlig student", 
+        "kvinnlig student: hudton 6", 
         "student", 
-        "kvinna"
+        "kvinna", 
+        "kvinnlig", 
+        "hudton 4"
     ], 
     "👩‍🎤": [
         "kändis", 
         "artist", 
+        "hudton 6", 
         "kvinnlig sångare", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "kvinnlig sångare: hudton 6", 
         "kvinna", 
         "stjärna", 
-        "konsert"
+        "kvinnlig sångare: hudton 5", 
+        "kvinnlig sångare: hudton 4", 
+        "kvinnlig sångare: hudton 3", 
+        "konsert", 
+        "kvinnlig sångare: hudton 1–2"
     ], 
     "👩‍🎨": [
         "kvinnlig konstnär", 
-        "målare", 
+        "kvinnlig konstnär: hudton 1–2", 
         "palett", 
-        "kvinna"
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "kvinnlig konstnär: hudton 6", 
+        "kvinna", 
+        "målare", 
+        "kvinnlig konstnär: hudton 4", 
+        "kvinnlig konstnär: hudton 5", 
+        "kvinnlig konstnär: hudton 3"
     ], 
     "👩‍🏫": [
+        "kvinnlig lärare: hudton 6", 
+        "kvinnlig lärare: hudton 3", 
         "professor", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "kvinnlig lärare: hudton 5", 
+        "kvinnlig lärare: hudton 4", 
+        "hudton 6", 
         "instruktör", 
         "kvinna", 
         "kvinnlig", 
         "kvinnlig lärare", 
-        "lärarinna"
+        "lärarinna", 
+        "hudton 1–2", 
+        "kvinnlig lärare: hudton 1–2"
     ], 
     "👩‍🏭": [
-        "kvinnlig fabriksarbetare", 
-        "industri", 
+        "hudton 5", 
+        "hudton 6", 
+        "kvinnlig fabriksarbetare: hudton 4", 
+        "hudton 1–2", 
         "produktion", 
         "fabrik", 
-        "kvinna"
+        "hudton 3", 
+        "kvinnlig fabriksarbetare", 
+        "kvinnlig fabriksarbetare: hudton 5", 
+        "kvinna", 
+        "industri", 
+        "kvinnlig fabriksarbetare: hudton 3", 
+        "kvinnlig fabriksarbetare: hudton 1–2", 
+        "hudton 4", 
+        "kvinnlig fabriksarbetare: hudton 6"
     ], 
     "👩‍👦": [
         "familj: kvinna, pojke", 
@@ -3404,51 +4773,104 @@
     ], 
     "👩‍💻": [
         "kvinnlig IT-expert", 
-        "teknologi", 
-        "data", 
+        "kvinnlig IT-expert: hudton 3", 
+        "kvinnlig IT-expert: hudton 4", 
+        "kvinnlig IT-expert: hudton 5", 
+        "kvinnlig IT-expert: hudton 6", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
         "IT", 
-        "kvinna"
+        "hudton 3", 
+        "kvinna", 
+        "kvinnlig IT-expert: hudton 1–2", 
+        "data", 
+        "hudton 4", 
+        "teknologi"
     ], 
     "👩‍💼": [
-        "chef", 
         "kontor", 
+        "kontorstjänstekvinna: hudton 1–2", 
+        "kontorstjänstekvinna: hudton 6", 
+        "hudton 6", 
         "näringsliv", 
+        "hudton 5", 
+        "hudton 4", 
         "kontorstjänstekvinna", 
-        "kvinna"
+        "hudton 3", 
+        "chef", 
+        "kvinna", 
+        "kontorstjänstekvinna: hudton 3", 
+        "hudton 1–2", 
+        "kontorstjänstekvinna: hudton 5", 
+        "kontorstjänstekvinna: hudton 4"
     ], 
     "👩‍🔧": [
-        "mekaniker", 
+        "kvinnlig mekaniker: hudton 5", 
+        "kvinnlig mekaniker: hudton 4", 
         "bil", 
         "kvinnlig mekaniker", 
+        "kvinnlig mekaniker: hudton 3", 
+        "mekaniker", 
+        "kvinnlig mekaniker: hudton 1–2", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hudton 6", 
+        "kvinnlig mekaniker: hudton 6", 
         "motor", 
-        "kvinna"
+        "kvinna", 
+        "hudton 4"
     ], 
     "👩‍🔬": [
+        "kvinnlig forskare: hudton 3", 
+        "kvinnlig forskare: hudton 4", 
+        "kvinnlig forskare: hudton 5", 
+        "kvinnlig forskare: hudton 6", 
         "vetenskap", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "kemi", 
+        "kvinnlig forskare: hudton 1–2", 
+        "hudton 6", 
         "laboratorium", 
         "kvinnlig forskare", 
-        "kemi", 
-        "kvinna"
+        "kvinna", 
+        "hudton 4"
     ], 
     "👩‍🚀": [
-        "rymden", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
         "rymdfart", 
-        "kvinnlig astronaut", 
+        "kvinnlig astronaut: hudton 3", 
+        "rymden", 
         "astronaut", 
-        "kvinna"
+        "kvinnlig astronaut: hudton 4", 
+        "kvinna", 
+        "kvinnlig astronaut: hudton 5", 
+        "kvinnlig astronaut: hudton 6", 
+        "kvinnlig astronaut: hudton 1–2", 
+        "kvinnlig astronaut"
     ], 
     "👩‍🚒": [
+        "kvinnlig brandman: hudton 6", 
+        "kvinnlig brandman: hudton 4", 
+        "kvinnlig brandman: hudton 5", 
+        "kvinnlig brandman: hudton 3", 
         "brandbil", 
-        "brandväsendet", 
+        "hudton 1–2", 
+        "hudton 5", 
         "kvinnlig brandman", 
-        "kvinna"
-    ], 
-    "👪": [
-        "pappa", 
-        "mamma", 
-        "familj", 
-        "människor", 
-        "barn"
+        "hudton 3", 
+        "hudton 6", 
+        "brandväsendet", 
+        "kvinnlig brandman: hudton 1–2", 
+        "kvinna", 
+        "hudton 4"
     ], 
     "👫": [
         "man och kvinna håller hand", 
@@ -3472,67 +4894,175 @@
         "människor", 
         "två kvinnor håller hand"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "konstapel", 
         "polis", 
-        "människor"
-    ], 
-    "👯": [
-        "personer med kaninöron", 
-        "kaninöron", 
-        "tjej", 
-        "människor", 
+        "kvinnlig polis", 
+        "lagen", 
         "kvinna"
     ], 
-    "👰": [
-        "brud med slöja", 
-        "bröllop", 
-        "brud", 
+    "👮‍♂️": [
         "människor", 
-        "slöja"
-    ], 
-    "👱": [
-        "människor", 
-        "blond person", 
-        "blond"
-    ], 
-    "👲": [
-        "man med mössa", 
-        "kinesisk mössa", 
-        "människor", 
+        "polisman", 
+        "konstapel", 
+        "polis", 
+        "lagen", 
+        "manlig polis", 
         "man"
     ], 
-    "👳": [
+    "👯‍♀️": [
+        "människor", 
+        "kvinnor", 
+        "personer med kaninöron", 
+        "kaninöron", 
+        "dans", 
+        "kvinna", 
+        "party", 
+        "tjej", 
+        "kvinnor med kaninöron"
+    ], 
+    "👯‍♂️": [
+        "män med kaninöron", 
+        "kaninöron", 
+        "dans", 
+        "män", 
+        "party", 
+        "man"
+    ], 
+    "👰": [
+        "brud med slöja: hudton 4", 
+        "slöja", 
+        "brud med slöja: hudton 1–2", 
+        "människor", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "brud med slöja", 
+        "bröllop", 
+        "brud med slöja: hudton 6", 
+        "brud med slöja: hudton 5", 
+        "brud", 
+        "brud med slöja: hudton 3", 
+        "hudton 4"
+    ], 
+    "👱‍♀️": [
+        "blondin", 
+        "blond kvinna", 
+        "blond", 
+        "kvinna"
+    ], 
+    "👱‍♂️": [
+        "blond man", 
+        "människor", 
+        "blond person", 
+        "blond", 
+        "man"
+    ], 
+    "👲": [
+        "hudton 6", 
+        "man med mössa: hudton 6", 
+        "människor", 
+        "man med mössa: hudton 3", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "man med mössa: hudton 5", 
+        "man med mössa: hudton 4", 
+        "man med mössa", 
+        "man med mössa: hudton 1–2", 
+        "kinesisk mössa", 
+        "man"
+    ], 
+    "👳‍♀️": [
+        "kvinna i turban", 
+        "turban", 
+        "kvinna"
+    ], 
+    "👳‍♂️": [
         "man med turban", 
+        "man i turban", 
         "turban", 
         "människor", 
         "man"
     ], 
     "👴": [
         "äldre man", 
-        "gammal", 
+        "äldre man: hudton 5", 
+        "äldre man: hudton 1–2", 
+        "äldre man: hudton 4", 
         "människor", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "äldre man: hudton 3", 
+        "äldre man: hudton 6", 
+        "gammal", 
+        "hudton 4", 
         "man"
     ], 
     "👵": [
-        "äldre kvinna", 
-        "gammal", 
+        "äldre kvinna: hudton 6", 
         "människor", 
-        "kvinna"
+        "äldre kvinna: hudton 4", 
+        "äldre kvinna: hudton 5", 
+        "äldre kvinna", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "äldre kvinna: hudton 3", 
+        "hudton 6", 
+        "äldre kvinna: hudton 1–2", 
+        "kvinna", 
+        "gammal", 
+        "hudton 1–2"
     ], 
     "👶": [
-        "baby", 
         "människor", 
-        "bebis"
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "bebis", 
+        "bebis: hudton 5", 
+        "bebis: hudton 1–2", 
+        "baby", 
+        "bebis: hudton 3", 
+        "bebis: hudton 4", 
+        "hudton 4", 
+        "bebis: hudton 6"
     ], 
-    "👷": [
-        "arbetare", 
+    "👷‍♀️": [
+        "ingenjör", 
+        "bygge", 
+        "kvinnlig byggarbetare", 
+        "kvinna"
+    ], 
+    "👷‍♂️": [
+        "människor", 
+        "ingenjör", 
+        "manlig byggarbetare", 
         "byggarbetare", 
-        "människor"
+        "bygge", 
+        "arbetare", 
+        "man"
     ], 
     "👸": [
-        "saga", 
+        "prinsessa: hudton 5", 
+        "prinsessa: hudton 1–2", 
+        "prinsessa: hudton 6", 
+        "prinsessa: hudton 3", 
         "människor", 
-        "prinsessa"
+        "prinsessa", 
+        "saga", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hudton 6", 
+        "hudton 4", 
+        "prinsessa: hudton 4"
     ], 
     "👹": [
         "japanskt monster", 
@@ -3553,8 +5083,18 @@
     ], 
     "👼": [
         "saga", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "bebisängel", 
+        "hudton 6", 
+        "bebisängel: hudton 4", 
+        "bebisängel: hudton 5", 
         "ängel", 
-        "bebisängel"
+        "bebisängel: hudton 6", 
+        "bebisängel: hudton 1–2", 
+        "bebisängel: hudton 3"
     ], 
     "👽": [
         "alien", 
@@ -3579,20 +5119,51 @@
         "dödskalle", 
         "döskalle"
     ], 
-    "💁": [
+    "💁‍♀️": [
         "information", 
-        "reception", 
         "människor", 
-        "receptionist"
+        "hjälpa", 
+        "receptionist", 
+        "reception", 
+        "kvinna", 
+        "hjälpande kvinna", 
+        "dricks"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "hjälpande man", 
+        "dricks", 
+        "hjälpa", 
+        "man", 
+        "information"
+    ], 
+    "💂‍♀️": [
+        "kvinnlig vakt", 
+        "vaktbyte", 
+        "vaktparad", 
+        "kvinna"
+    ], 
+    "💂‍♂️": [
+        "människor", 
+        "vaktparad", 
+        "manlig vakt", 
         "vakt", 
-        "människor"
+        "vaktbyte", 
+        "man"
     ], 
     "💃": [
-        "dansande kvinna", 
+        "människor", 
+        "dansande kvinna: hudton 4", 
+        "dansande kvinna: hudton 5", 
+        "hudton 1–2", 
+        "hudton 5", 
         "dans", 
-        "människor"
+        "hudton 3", 
+        "dansande kvinna: hudton 3", 
+        "hudton 6", 
+        "dansande kvinna: hudton 1–2", 
+        "dansande kvinna: hudton 6", 
+        "dansande kvinna", 
+        "hudton 4"
     ], 
     "💄": [
         "makeup", 
@@ -3600,20 +5171,51 @@
         "smink"
     ], 
     "💅": [
-        "manikyr", 
+        "hudton 5", 
+        "hudton 6", 
+        "hudton 1–2", 
         "måla naglar", 
+        "hudton 4", 
+        "hudton 3", 
+        "nagellack", 
+        "manikyr", 
+        "nagellack: hudton 4", 
+        "nagellack: hudton 5", 
+        "nagellack: hudton 1–2", 
+        "nagellack: hudton 6", 
         "smink", 
-        "nagellack"
+        "nagellack: hudton 3"
     ], 
-    "💆": [
-        "ansiktsmassage", 
+    "💆‍♀️": [
+        "huvudmassage", 
+        "wellness", 
         "behandling", 
+        "kvinna som får ansiktsmassage", 
+        "kvinna", 
+        "ansiktsmassage", 
+        "avslapning", 
         "massage"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "man som får ansiktsmassage", 
+        "wellness", 
+        "avslapning", 
+        "huvudmassage", 
+        "man"
+    ], 
+    "💇‍♀️": [
         "frisör", 
         "hårklippning", 
+        "hårklipp", 
+        "kvinna som får håret klippt", 
+        "kvinna", 
         "skönhet"
+    ], 
+    "💇‍♂️": [
+        "frisör", 
+        "man som får håret klippt", 
+        "hårklipp", 
+        "man"
     ], 
     "💈": [
         "frisör", 
@@ -3654,22 +5256,10 @@
         "diamant", 
         "juvel"
     ], 
-    "💏": [
-        "kyssas", 
-        "kärlek", 
-        "människor", 
-        "puss"
-    ], 
     "💐": [
         "blommor", 
         "blombukett", 
         "kärlek"
-    ], 
-    "💑": [
-        "hjärta", 
-        "par med hjärta", 
-        "kärlek", 
-        "människor"
     ], 
     "💒": [
         "bröllop", 
@@ -3807,9 +5397,19 @@
         "bajshög"
     ], 
     "💪": [
-        "muskler", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "stark", 
+        "spänd biceps: hudton 3", 
         "spänd biceps", 
-        "stark"
+        "spänd biceps: hudton 5", 
+        "spänd biceps: hudton 4", 
+        "spänd biceps: hudton 6", 
+        "muskler", 
+        "spänd biceps: hudton 1–2"
     ], 
     "💫": [
         "stjärna", 
@@ -4201,6 +5801,11 @@
         "videoband", 
         "VHS"
     ], 
+    "📽️": [
+        "projektor", 
+        "film", 
+        "filmprojektor"
+    ], 
     "📿": [
         "bön", 
         "radband", 
@@ -4502,6 +6107,16 @@
         "triangel", 
         "nedåtpekande liten triangel"
     ], 
+    "🕉️": [
+        "hinduism", 
+        "religion", 
+        "ohm-tecken"
+    ], 
+    "🕊️": [
+        "duva", 
+        "fågel", 
+        "fred"
+    ], 
     "🕋": [
         "religion", 
         "kaba", 
@@ -4657,28 +6272,220 @@
         "halv ett", 
         "00.30"
     ], 
+    "🕯️": [
+        "ljus", 
+        "stearinljus", 
+        "levande ljus"
+    ], 
+    "🕰️": [
+        "tid", 
+        "klocka"
+    ], 
+    "🕳️": [
+        "hål"
+    ], 
+    "🕴️": [
+        "svävande man i kostym", 
+        "svävar", 
+        "människor", 
+        "kostym"
+    ], 
+    "🕵️‍♂️": [
+        "detektiv", 
+        "människor"
+    ], 
+    "🕶️": [
+        "glasögon", 
+        "solglasögon"
+    ], 
+    "🕷️": [
+        "spindel", 
+        "insekt", 
+        "djur"
+    ], 
+    "🕸️": [
+        "spindel", 
+        "spindelnät", 
+        "nät"
+    ], 
+    "🕹️": [
+        "spak", 
+        "joystick", 
+        "spel"
+    ], 
     "🕺": [
-        "dansande man", 
+        "hudton 6", 
         "dans", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "dansande man", 
+        "hudton 3", 
+        "dansande man: hudton 1–2", 
+        "dansande man: hudton 3", 
+        "dansande man: hudton 5", 
+        "dansande man: hudton 6", 
+        "hudton 4", 
+        "dansande man: hudton 4", 
         "man"
     ], 
-    "🖕": [
-        "långfinger upp", 
-        "finger", 
+    "🖇️": [
+        "ihopsatta gem", 
+        "gem"
+    ], 
+    "🖊️": [
+        "kulspetspenna"
+    ], 
+    "🖋️": [
+        "penna", 
+        "reservoarpenna"
+    ], 
+    "🖌️": [
+        "målarpensel", 
+        "pensel"
+    ], 
+    "🖍️": [
+        "krita"
+    ], 
+    "🖐️": [
+        "handflata", 
         "hand"
     ], 
+    "🖕": [
+        "hudton 6", 
+        "långfinger upp: hudton 3", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "långfinger upp: hudton 6", 
+        "hudton 3", 
+        "långfinger upp: hudton 4", 
+        "hand", 
+        "långfinger upp", 
+        "finger", 
+        "långfinger upp: hudton 1–2", 
+        "långfinger upp: hudton 5", 
+        "hudton 4"
+    ], 
     "🖖": [
+        "hudton 5", 
+        "vulcan-hälsning: hudton 5", 
+        "hudton 6", 
+        "vulcan-hälsning: hudton 4", 
+        "hudton 1–2", 
+        "vulcan-hälsning: hudton 3", 
+        "vulcan-hälsning: hudton 1–2", 
+        "hudton 3", 
+        "vulcan-hälsning: hudton 6", 
         "Star Trek", 
+        "vulcan-hälsning", 
         "vulcan", 
         "spock", 
-        "vulcan-hälsning", 
-        "hand"
+        "hand", 
+        "hudton 4"
     ], 
     "🖤": [
         "hjärta", 
         "svart", 
         "svart hjärta", 
         "ond"
+    ], 
+    "🖥️": [
+        "pc", 
+        "dator", 
+        "stationär dator"
+    ], 
+    "🖨️": [
+        "skrivare", 
+        "dator"
+    ], 
+    "🖱️": [
+        "dator", 
+        "mus", 
+        "datormus"
+    ], 
+    "🖲️": [
+        "styrplatta", 
+        "dator", 
+        "mus"
+    ], 
+    "🖼️": [
+        "bild i ram", 
+        "tavla", 
+        "museum", 
+        "konst"
+    ], 
+    "🗂️": [
+        "kort", 
+        "flikar", 
+        "pärmflikar", 
+        "index"
+    ], 
+    "🗃️": [
+        "låda", 
+        "kartotek"
+    ], 
+    "🗄️": [
+        "dokument", 
+        "dokumentskåp", 
+        "skåp"
+    ], 
+    "🗑️": [
+        "soptunna", 
+        "sopor", 
+        "skräp", 
+        "papperskorg"
+    ], 
+    "🗒️": [
+        "anteckningar", 
+        "block", 
+        "anteckningsblock"
+    ], 
+    "🗓️": [
+        "månadskalender", 
+        "kalender"
+    ], 
+    "🗜️": [
+        "verktyg", 
+        "skruvtving", 
+        "tving"
+    ], 
+    "🗝️": [
+        "gammal nyckel", 
+        "nyckel"
+    ], 
+    "🗞️": [
+        "ihoprullad", 
+        "nyheter", 
+        "ihoprullad tidning", 
+        "tidning"
+    ], 
+    "🗡️": [
+        "dolk", 
+        "vapen", 
+        "kniv"
+    ], 
+    "🗣️": [
+        "silhuett som talar", 
+        "silhuett", 
+        "talar"
+    ], 
+    "🗨️": [
+        "pratbubbla åt vänster", 
+        "pratbubbla"
+    ], 
+    "🗯️": [
+        "arg pratbubbla åt höger", 
+        "pratbubbla", 
+        "arg"
+    ], 
+    "🗳️": [
+        "rösta", 
+        "valurna med röstsedel", 
+        "val"
+    ], 
+    "🗺️": [
+        "karta", 
+        "världskarta", 
+        "världen"
     ], 
     "🗻": [
         "Fuji", 
@@ -5047,22 +6854,55 @@
         "himlar med ögonen", 
         "ansikte som himlar med ögonen"
     ], 
-    "🙅": [
-        "gest", 
-        "gest för inte bra", 
+    "🙅‍♀️": [
         "inte bra", 
+        "gest för inte bra", 
+        "stopp", 
+        "avbryt", 
+        "kvinna med korsade armar", 
+        "kvinna", 
+        "gest", 
         "förbjudet"
     ], 
-    "🙆": [
-        "gest för OK", 
-        "gest", 
-        "okej"
+    "🙅‍♂️": [
+        "avbryt", 
+        "stopp", 
+        "man", 
+        "man med korsade armar", 
+        "förbjudet"
     ], 
-    "🙇": [
-        "gest", 
+    "🙆‍♀️": [
+        "OK", 
+        "kvinna med händerna på huvudet", 
+        "okej", 
+        "händerna på huvudet", 
+        "kvinna", 
+        "gest för OK", 
+        "gest"
+    ], 
+    "🙆‍♂️": [
+        "man med händerna på huvudet", 
+        "OK", 
+        "händerna på huvudet", 
+        "man"
+    ], 
+    "🙇‍♀️": [
+        "ursäkt", 
+        "djupt bugande kvinna", 
+        "beklagelse", 
+        "kvinna", 
+        "buga"
+    ], 
+    "🙇‍♂️": [
+        "ursäkt", 
         "djupt bugande person", 
         "bugar", 
-        "beklagar"
+        "beklagelse", 
+        "djupt bugande man", 
+        "beklagar", 
+        "gest", 
+        "man", 
+        "buga"
     ], 
     "🙈": [
         "ser inget", 
@@ -5079,30 +6919,78 @@
         "apa säger inget", 
         "säger inget"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
+        "räcker upp handen", 
         "person", 
-        "person som räcker upp handen", 
-        "räcker upp handen"
+        "räcka upp handen", 
+        "kvinna som räcker upp handen", 
+        "kvinna", 
+        "person som räcker upp handen"
+    ], 
+    "🙋‍♂️": [
+        "man som räcker upp handen", 
+        "räcka upp handen", 
+        "man"
     ], 
     "🙌": [
-        "räcker upp händerna", 
+        "hudton 6", 
         "hurra", 
-        "båda händerna i luften"
+        "båda händerna i luften: hudton 1–2", 
+        "båda händerna i luften: hudton 5", 
+        "båda händerna i luften: hudton 4", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "båda händerna i luften: hudton 6", 
+        "hudton 3", 
+        "båda händerna i luften: hudton 3", 
+        "räcker upp händerna", 
+        "båda händerna i luften", 
+        "hudton 4"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "bister uppsyn", 
+        "rynka", 
+        "skeptisk kvinna", 
+        "person", 
         "sur", 
-        "person"
+        "kvinna", 
+        "skeptisk"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "rynka", 
+        "skeptisk man", 
+        "skeptisk", 
+        "man"
+    ], 
+    "🙎‍♀️": [
+        "kyss", 
+        "kvinna med plutmunn", 
+        "person som plutar", 
+        "kvinna", 
         "plutar", 
-        "person som plutar"
+        "plutmunn"
+    ], 
+    "🙎‍♂️": [
+        "man med plutmunn", 
+        "plutmunn", 
+        "kyss", 
+        "man"
     ], 
     "🙏": [
-        "ber", 
         "be", 
+        "knäppta händer: hudton 1–2", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "knäppta händer: hudton 3", 
+        "knäppta händer", 
         "händer", 
-        "knäppta händer"
+        "knäppta händer: hudton 5", 
+        "knäppta händer: hudton 4", 
+        "ber", 
+        "hudton 4", 
+        "knäppta händer: hudton 6"
     ], 
     "🚀": [
         "rymdraket", 
@@ -5272,10 +7160,20 @@
         "fartyg", 
         "båt"
     ], 
-    "🚣": [
-        "fordon", 
+    "🚣‍♀️": [
+        "kvinnlig", 
+        "kvinna ror", 
         "roddbåt", 
-        "eka"
+        "eka", 
+        "kvinna"
+    ], 
+    "🚣‍♂️": [
+        "manlig", 
+        "roddbåt", 
+        "fordon", 
+        "eka", 
+        "man ror", 
+        "man"
     ], 
     "🚤": [
         "racerbåt", 
@@ -5351,17 +7249,48 @@
         "fordon", 
         "inte tillåtet att cykla"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "cyklist", 
-        "cykel"
-    ], 
-    "🚵": [
-        "cyklist", 
+        "kvinnlig", 
         "cykel", 
-        "mountainbikeåkare"
+        "kvinna cyklar", 
+        "kvinna"
     ], 
-    "🚶": [
+    "🚴‍♂️": [
+        "cyklist", 
+        "manlig", 
+        "cykel", 
+        "man cyklar", 
+        "man"
+    ], 
+    "🚵‍♀️": [
+        "mountain", 
+        "cyklist", 
+        "kvinna åker mountainbike", 
+        "cykel", 
+        "kvinna", 
+        "kvinnlig"
+    ], 
+    "🚵‍♂️": [
+        "mountain", 
+        "manlig", 
+        "cyklist", 
+        "mountainbikeåkare", 
+        "cykel", 
+        "man åker mountainbike", 
+        "man"
+    ], 
+    "🚶‍♀️": [
+        "kvinna går", 
+        "kvinna", 
+        "gå", 
+        "fotgängare"
+    ], 
+    "🚶‍♂️": [
         "promenerar", 
+        "man", 
+        "gå", 
+        "man går", 
         "fotgängare"
     ], 
     "🚷": [
@@ -5412,8 +7341,18 @@
     ], 
     "🛀": [
         "badar", 
+        "bad: hudton 6", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "badkar", 
+        "bad: hudton 4", 
+        "bad: hudton 5", 
         "bad", 
-        "badkar"
+        "bad: hudton 3", 
+        "bad: hudton 1–2", 
+        "hudton 4"
     ], 
     "🛁": [
         "bad", 
@@ -5437,9 +7376,40 @@
         "bagage", 
         "bagageservice"
     ], 
+    "🛋️": [
+        "hotell", 
+        "soffa och lampa", 
+        "soffa", 
+        "lampa"
+    ], 
     "🛌": [
         "hotell", 
+        "sömn", 
+        "person i en säng: hudton 6", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "person i en säng", 
+        "säng", 
+        "person i en säng: hudton 4", 
+        "person i en säng: hudton 3", 
+        "person i en säng: hudton 1–2", 
+        "person i en säng: hudton 5", 
+        "hudton 4"
+    ], 
+    "🛍️": [
+        "påsar", 
+        "shoppingpåsar", 
+        "shopping"
+    ], 
+    "🛎️": [
+        "hotell", 
+        "klocka", 
+        "plingklocka"
+    ], 
+    "🛏️": [
+        "hotell", 
         "säng", 
         "sömn"
     ], 
@@ -5462,6 +7432,38 @@
         "vagn", 
         "inköp"
     ], 
+    "🛠️": [
+        "hammare", 
+        "verktyg", 
+        "skiftnyckel", 
+        "hammare och skiftnyckel"
+    ], 
+    "🛡️": [
+        "vapen", 
+        "sköld"
+    ], 
+    "🛢️": [
+        "oljefat", 
+        "olja"
+    ], 
+    "🛣️": [
+        "motorväg", 
+        "väg"
+    ], 
+    "🛤️": [
+        "järnväg", 
+        "tåg"
+    ], 
+    "🛥️": [
+        "fordon", 
+        "motorbåt", 
+        "båt"
+    ], 
+    "🛩️": [
+        "fordon", 
+        "flygplan", 
+        "litet flygplan"
+    ], 
     "🛫": [
         "resa", 
         "flyg", 
@@ -5473,6 +7475,17 @@
         "flyg", 
         "ankomst med flyg", 
         "ankomst"
+    ], 
+    "🛰️": [
+        "fordon", 
+        "rymden", 
+        "satellit"
+    ], 
+    "🛳️": [
+        "fordon", 
+        "fartyg", 
+        "passagerarfartyg", 
+        "passagerare"
     ], 
     "🛴": [
         "sparka", 
@@ -5541,31 +7554,81 @@
     ], 
     "🤘": [
         "hårdrock", 
+        "djävulstecknet: hudton 1–2", 
         "djävulstecknet", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
         "horn", 
-        "hand"
+        "hudton 6", 
+        "djävulstecknet: hudton 4", 
+        "djävulstecknet: hudton 5", 
+        "djävulstecknet: hudton 6", 
+        "hand", 
+        "hudton 1–2", 
+        "djävulstecknet: hudton 3"
     ], 
     "🤙": [
+        "ring mig hand: hudton 5", 
+        "ring mig hand: hudton 4", 
+        "ring mig hand: hudton 6", 
+        "ring mig hand: hudton 3", 
+        "hudton 6", 
+        "ring mig hand: hudton 1–2", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "ring mig hand", 
-        "ringa", 
-        "hand"
+        "hand", 
+        "hudton 4", 
+        "ringa"
     ], 
     "🤚": [
+        "lyft hand: hudton 3", 
         "lyft", 
+        "lyft hand: hudton 5", 
+        "lyft hand: hudton 1–2", 
+        "lyft hand: hudton 6", 
+        "hudton 5", 
+        "hudton 1–2", 
         "lyft hand", 
-        "hand"
+        "hudton 3", 
+        "hand", 
+        "hudton 6", 
+        "hudton 4", 
+        "lyft hand: hudton 4"
     ], 
     "🤛": [
         "näve", 
         "vänster", 
+        "vänstervänd näve: hudton 1–2", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
         "vänstervänd", 
-        "vänstervänd näve"
+        "hudton 3", 
+        "vänstervänd näve: hudton 5", 
+        "vänstervänd näve: hudton 4", 
+        "vänstervänd näve: hudton 6", 
+        "vänstervänd näve: hudton 3", 
+        "vänstervänd näve", 
+        "hudton 4"
     ], 
     "🤜": [
         "näve", 
-        "högervänd", 
         "vänster", 
-        "högervänd näve"
+        "hudton 5", 
+        "hudton 1–2", 
+        "högervänd", 
+        "hudton 3", 
+        "högervänd näve: hudton 3", 
+        "hudton 6", 
+        "högervänd näve", 
+        "högervänd näve: hudton 5", 
+        "högervänd näve: hudton 4", 
+        "högervänd näve: hudton 1–2", 
+        "hudton 4", 
+        "högervänd näve: hudton 6"
     ], 
     "🤝": [
         "avtal", 
@@ -5574,16 +7637,36 @@
         "hand"
     ], 
     "🤞": [
-        "korsa", 
         "lycka", 
+        "korsade fingrar: hudton 4", 
+        "korsade fingrar: hudton 1–2", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hand", 
         "korsade fingrar", 
-        "finger", 
-        "hand"
+        "korsa", 
+        "korsade fingrar: hudton 3", 
+        "korsade fingrar: hudton 6", 
+        "korsade fingrar: hudton 5", 
+        "hudton 4", 
+        "finger"
     ], 
     "🤟": [
-        "hjärtformade händer", 
+        "hjärtformade händer: hudton 6", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hand", 
+        "hjärtformade händer: hudton 1–2", 
         "hjärtform", 
-        "hand"
+        "hjärtformade händer: hudton 4", 
+        "hjärtformade händer: hudton 5", 
+        "hjärtformade händer", 
+        "hudton 4", 
+        "hjärtformade händer: hudton 3"
     ], 
     "🤠": [
         "cowgirl", 
@@ -5624,11 +7707,33 @@
         "pinocchio"
     ], 
     "🤦": [
-        "ansikte", 
+        "slå sig för pannan: hudton 5", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
         "slå sig för pannan", 
-        "misstro", 
+        "hudton 3", 
+        "slå sig för pannan: hudton 1–2", 
         "handflata", 
-        "irritation"
+        "irritation", 
+        "slå sig för pannan: hudton 6", 
+        "ansikte", 
+        "slå sig för pannan: hudton 4", 
+        "slå sig för pannan: hudton 3", 
+        "misstro"
+    ], 
+    "🤦‍♀️": [
+        "misstro", 
+        "facepalm", 
+        "kvinna som slår sig för pannan", 
+        "kvinna"
+    ], 
+    "🤦‍♂️": [
+        "misstro", 
+        "facepalm", 
+        "man som slår sig för pannan", 
+        "man"
     ], 
     "🤧": [
         "prosit", 
@@ -5675,59 +7780,203 @@
         "exploderande huvud"
     ], 
     "🤰": [
-        "kvinna", 
+        "gravid kvinna: hudton 5", 
+        "gravid kvinna: hudton 4", 
+        "gravid kvinna: hudton 6", 
+        "gravid kvinna: hudton 3", 
+        "gravid", 
+        "hudton 6", 
+        "gravid kvinna: hudton 1–2", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "gravid kvinna", 
-        "gravid"
+        "kvinna", 
+        "hudton 4"
     ], 
     "🤱": [
+        "amning: hudton 1–2", 
+        "amning", 
+        "bröst", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "amning: hudton 5", 
         "amma", 
         "baby", 
-        "amning", 
-        "bröst"
+        "amning: hudton 3", 
+        "amning: hudton 4", 
+        "hudton 4", 
+        "amning: hudton 6"
     ], 
     "🤲": [
         "bön", 
-        "handflatorna upp"
+        "hudton 5", 
+        "handflatorna upp: hudton 1–2", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "handflatorna upp", 
+        "hudton 3", 
+        "handflatorna upp: hudton 5", 
+        "handflatorna upp: hudton 4", 
+        "handflatorna upp: hudton 6", 
+        "hudton 4", 
+        "handflatorna upp: hudton 3"
     ], 
     "🤳": [
+        "selfie: hudton 3", 
+        "selfie: hudton 4", 
+        "selfie: hudton 5", 
+        "selfie: hudton 6", 
+        "hudton 6", 
         "selfie", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "telefon", 
+        "selfie: hudton 1–2", 
         "kamera", 
-        "telefon"
+        "hudton 1–2"
     ], 
     "🤴": [
+        "prins: hudton 5", 
+        "prins: hudton 4", 
+        "prins: hudton 6", 
+        "prins: hudton 3", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "prins: hudton 1–2", 
+        "hudton 4", 
         "prins"
     ], 
     "🤵": [
+        "hudton 5", 
+        "man i smoking: hudton 1–2", 
+        "hudton 1–2", 
+        "man i smoking: hudton 3", 
+        "man i smoking: hudton 4", 
+        "hudton 3", 
+        "man i smoking: hudton 6", 
+        "man i smoking: hudton 5", 
+        "hudton 6", 
         "smoking", 
         "brudgum", 
+        "hudton 4", 
         "man i smoking", 
         "man"
     ], 
     "🤶": [
+        "tomtemor: hudton 6", 
+        "tomtemor: hudton 3", 
         "mor", 
-        "tomtemor", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
         "jul", 
-        "nisse"
+        "tomtemor: hudton 4", 
+        "hudton 6", 
+        "tomtemor: hudton 5", 
+        "nisse", 
+        "tomtemor", 
+        "hudton 4", 
+        "tomtemor: hudton 1–2"
     ], 
     "🤷": [
+        "axelryckning: hudton 1–2", 
+        "hudton 6", 
         "okunskap", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "axelryckning: hudton 3", 
+        "axelryckning: hudton 6", 
+        "axelryckning: hudton 5", 
+        "axelryckning: hudton 4", 
+        "axelryckning", 
         "likgiltighet", 
-        "tvivel", 
+        "hudton 1–2", 
+        "tvivel"
+    ], 
+    "🤷‍♀️": [
+        "kvinna som rycker på axlarna", 
+        "kvinna", 
+        "ignorant", 
+        "axelryckning"
+    ], 
+    "🤷‍♂️": [
+        "man som rycker på axlarna", 
+        "man", 
+        "ignorant", 
         "axelryckning"
     ], 
     "🤸": [
+        "hudton 5", 
+        "hjula: hudton 1–2", 
+        "hudton 6", 
         "gym", 
         "hjula", 
+        "hudton 4", 
+        "hudton 3", 
+        "gymnastik", 
+        "hjula: hudton 4", 
+        "person", 
+        "hjula: hudton 6", 
+        "hjula: hudton 3", 
+        "sport", 
+        "hjula: hudton 5", 
+        "hudton 1–2", 
+        "slå hjul"
+    ], 
+    "🤸‍♀️": [
         "gymnastik", 
         "person", 
+        "kvinna som hjular", 
+        "kvinna", 
+        "kvinnlig", 
         "sport", 
         "slå hjul"
     ], 
+    "🤸‍♂️": [
+        "manlig", 
+        "sport", 
+        "gymnastik", 
+        "man som hjular", 
+        "person", 
+        "man", 
+        "slå hjul"
+    ], 
     "🤹": [
-        "multitasking", 
-        "färdighet", 
         "balans", 
+        "jonglering: hudton 1–2", 
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "jonglering: hudton 5", 
+        "multitasking", 
+        "jonglering: hudton 6", 
+        "färdighet", 
+        "jonglering: hudton 4", 
+        "jonglering: hudton 3", 
         "jonglering"
+    ], 
+    "🤹‍♀️": [
+        "kvinnlig", 
+        "multitask", 
+        "jonglering", 
+        "kvinna jonglerar", 
+        "kvinna"
+    ], 
+    "🤹‍♂️": [
+        "man jonglerar", 
+        "manlig", 
+        "multitask", 
+        "jonglering", 
+        "man"
     ], 
     "🤺": [
         "person", 
@@ -5742,18 +7991,82 @@
         "brottare", 
         "sport"
     ], 
-    "🤽": [
-        "polo", 
+    "🤼‍♀️": [
+        "brottande kvinnor", 
+        "kvinnor", 
+        "brottning", 
         "person", 
-        "sport", 
+        "kvinnlig", 
+        "sport"
+    ], 
+    "🤼‍♂️": [
+        "manlig", 
+        "person", 
+        "brottning", 
+        "brottande män", 
+        "män", 
+        "sport"
+    ], 
+    "🤽": [
+        "hudton 6", 
+        "vattenpolo", 
+        "hudton 1–2", 
+        "hudton 5", 
         "vatten", 
-        "vattenpolo"
+        "hudton 3", 
+        "person", 
+        "vattenpolo: hudton 1–2", 
+        "polo", 
+        "vattenpolo: hudton 3", 
+        "sport", 
+        "vattenpolo: hudton 6", 
+        "hudton 4", 
+        "vattenpolo: hudton 4", 
+        "vattenpolo: hudton 5"
+    ], 
+    "🤽‍♀️": [
+        "kvinnlig", 
+        "kvinna spelar vattenpolo", 
+        "sport", 
+        "vattenpolo", 
+        "kvinna"
+    ], 
+    "🤽‍♂️": [
+        "manlig", 
+        "sport", 
+        "vattenpolo", 
+        "man spelar vattenpolo", 
+        "man"
     ], 
     "🤾": [
-        "person", 
-        "sport", 
+        "handboll: hudton 4", 
+        "handboll: hudton 1–2", 
+        "handboll: hudton 5", 
+        "hudton 1–2", 
+        "hudton 5", 
         "boll", 
+        "hudton 6", 
+        "hudton 3", 
+        "person", 
+        "handboll: hudton 3", 
+        "handboll: hudton 6", 
+        "sport", 
+        "hudton 4", 
         "handboll"
+    ], 
+    "🤾‍♀️": [
+        "handball", 
+        "kvinnlig", 
+        "sport", 
+        "kvinna spelar handboll", 
+        "kvinna"
+    ], 
+    "🤾‍♂️": [
+        "man spelar handboll", 
+        "manlig", 
+        "sport", 
+        "handboll", 
+        "man"
     ], 
     "🥀": [
         "blomma", 
@@ -6098,75 +8411,182 @@
     ], 
     "🧑": [
         "könsneutral", 
-        "vuxen"
+        "vuxen: hudton 3", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "vuxen: hudton 5", 
+        "vuxen: hudton 4", 
+        "hudton 6", 
+        "vuxen: hudton 1–2", 
+        "vuxen", 
+        "vuxen: hudton 6"
     ], 
     "🧒": [
         "könsneutral", 
+        "hudton 6", 
+        "barn: hudton 1–2", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 4", 
+        "hudton 3", 
+        "barn: hudton 4", 
+        "barn: hudton 5", 
         "ung", 
+        "barn: hudton 6", 
+        "barn: hudton 3", 
         "barn"
     ], 
     "🧓": [
         "könsneutral", 
-        "senior"
+        "senior: hudton 1–2", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "hudton 6", 
+        "senior: hudton 3", 
+        "senior: hudton 4", 
+        "senior: hudton 5", 
+        "senior: hudton 6", 
+        "senior", 
+        "hudton 4"
     ], 
     "🧔": [
         "skägg", 
-        "person med skägg"
+        "hudton 6", 
+        "hudton 1–2", 
+        "hudton 5", 
+        "hudton 3", 
+        "person med skägg", 
+        "person med skägg: hudton 4", 
+        "person med skägg: hudton 5", 
+        "person med skägg: hudton 1–2", 
+        "person med skägg: hudton 6", 
+        "hudton 4", 
+        "person med skägg: hudton 3"
     ], 
     "🧕": [
         "sjal", 
-        "hijab", 
         "slöja", 
-        "kvinna i sjal"
+        "hudton 5", 
+        "kvinna i sjal: hudton 6", 
+        "hudton 1–2", 
+        "kvinna i sjal: hudton 4", 
+        "kvinna i sjal: hudton 3", 
+        "hudton 3", 
+        "kvinna i sjal: hudton 1–2", 
+        "hudton 6", 
+        "kvinna i sjal: hudton 5", 
+        "kvinna i sjal", 
+        "hijab", 
+        "hudton 4"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "bastu", 
+        "ångbastu", 
+        "kvinna i ångbastu"
+    ], 
+    "🧖‍♂️": [
         "bastu", 
         "person i ångbastu", 
-        "ångbastu"
+        "ångbastu", 
+        "man i ångbastu"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "person klättrar", 
-        "klättrare"
+        "klättrare", 
+        "kvinna klättrar"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "klättrare", 
+        "man klättrar"
+    ], 
+    "🧘‍♀️": [
         "yoga", 
         "meditering", 
-        "person i lotusposition"
+        "person i lotusposition", 
+        "kvinna i lotusposition"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "meditering", 
+        "yoga", 
+        "man i lotusposition"
+    ], 
+    "🧙‍♀️": [
+        "kvinnlig magiker", 
         "häxa", 
         "trollkarl", 
         "magiker"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "manlig magiker", 
+        "trollkarl"
+    ], 
+    "🧚‍♀️": [
         "älva", 
         "Oberon", 
+        "kvinnlig fé", 
         "Titania", 
         "Puck"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "alv", 
+        "Puck", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
         "Drakula", 
+        "kvinnlig vampyr", 
         "vampyr", 
         "vandöd"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Drakula", 
+        "manlig vampyr", 
+        "vandöd"
+    ], 
+    "🧜‍♀️": [
         "sjöjungfru", 
-        "vattenväsen", 
-        "näcken", 
         "sjörå"
     ], 
-    "🧝": [
-        "tomte", 
-        "magisk"
+    "🧜‍♂️": [
+        "Triton", 
+        "vattenväsen", 
+        "strömkarl", 
+        "sjörå", 
+        "sjöjungfru", 
+        "näcken"
     ], 
-    "🧞": [
+    "🧝‍♀️": [
+        "magisk", 
+        "skogsrå"
+    ], 
+    "🧝‍♂️": [
+        "tomte", 
+        "magisk", 
+        "nisse"
+    ], 
+    "🧞‍♀️": [
+        "kvinnlig ande", 
+        "djinn"
+    ], 
+    "🧞‍♂️": [
         "ande", 
+        "spöke", 
+        "manlig ande", 
         "andligt väsen"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "kvinnlig zombie", 
+        "odöd", 
+        "vandöd"
+    ], 
+    "🧟‍♂️": [
         "zombie", 
         "vandöd", 
-        "odöd"
+        "odöd", 
+        "manlig zombie"
     ], 
     "🧠": [
         "hjärna", 

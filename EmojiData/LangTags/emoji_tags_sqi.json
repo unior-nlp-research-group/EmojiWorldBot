@@ -1,4 +1,124 @@
 {
+    "#️⃣": [
+        "tast", 
+        "tast: #"
+    ], 
+    "*️⃣": [
+        "tast", 
+        "tast: *"
+    ], 
+    "0️⃣": [
+        "tast", 
+        "tast: 0"
+    ], 
+    "1️⃣": [
+        "tast: 1", 
+        "tast"
+    ], 
+    "2️⃣": [
+        "tast", 
+        "tast: 2"
+    ], 
+    "3️⃣": [
+        "tast", 
+        "tast: 3"
+    ], 
+    "4️⃣": [
+        "tast: 4", 
+        "tast"
+    ], 
+    "5️⃣": [
+        "tast: 5", 
+        "tast"
+    ], 
+    "6️⃣": [
+        "tast: 6", 
+        "tast"
+    ], 
+    "7️⃣": [
+        "tast: 7", 
+        "tast"
+    ], 
+    "8️⃣": [
+        "tast", 
+        "tast: 8"
+    ], 
+    "9️⃣": [
+        "tast: 9", 
+        "tast"
+    ], 
+    "©️": [
+        "të drejtat e autorit"
+    ], 
+    "®️": [
+        "i regjistruar"
+    ], 
+    "‼️": [
+        "dy pikëçuditje", 
+        "shenjë", 
+        "pikëçuditje", 
+        "pikësim"
+    ], 
+    "⁉️": [
+        "shenja e pikëpyetjes dhe pikëçuditjes", 
+        "pyetje", 
+        "pikësim", 
+        "pikëçuditje", 
+        "shenjë", 
+        "pikëpyetje"
+    ], 
+    "™️": [
+        "markë tregtare", 
+        "shenjë"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informacion"
+    ], 
+    "↔️": [
+        "shigjetë", 
+        "shigjetë majtas-djathtas"
+    ], 
+    "↕️": [
+        "shigjetë", 
+        "shigjeta lart-poshtë"
+    ], 
+    "↖️": [
+        "shigjetë", 
+        "i ndërmjetëm", 
+        "shigjeta lart-majtas", 
+        "drejtim", 
+        "veriperëndim"
+    ], 
+    "↗️": [
+        "shigjeta lart-djathtas", 
+        "i ndërmjetëm", 
+        "drejtim", 
+        "verilindje", 
+        "shigjetë"
+    ], 
+    "↘️": [
+        "shigjetë", 
+        "i ndërmjetëm", 
+        "shigjetë poshtë djathtas", 
+        "drejtim", 
+        "juglindje"
+    ], 
+    "↙️": [
+        "shigjetë poshtë majtas", 
+        "shigjetë", 
+        "i ndërmjetëm", 
+        "drejtim", 
+        "jugperëndim"
+    ], 
+    "↩️": [
+        "shigjetë", 
+        "shigjetë djathtas e përkulur majtas"
+    ], 
+    "↪️": [
+        "shigjeta majtas me hark djathtas", 
+        "shigjetë"
+    ], 
     "⌚": [
         "orë"
     ], 
@@ -6,6 +126,14 @@
         "orë me rërë", 
         "kohëmatës", 
         "rërë"
+    ], 
+    "⌨️": [
+        "kompjuter", 
+        "tastierë"
+    ], 
+    "⏏️": [
+        "butoni i nxjerrjes", 
+        "nxirr"
     ], 
     "⏩": [
         "e shpejtë", 
@@ -31,16 +159,105 @@
         "poshtë", 
         "e dyfishtë"
     ], 
+    "⏭️": [
+        "shigjetë", 
+        "skena tjetër", 
+        "kënga tjetër", 
+        "butoni i këngës tjetër", 
+        "trekëndësh"
+    ], 
+    "⏮️": [
+        "kënga e mëparshme", 
+        "butoni i këngës së fundit", 
+        "trekëndësh", 
+        "skena e mëparshme", 
+        "shigjetë"
+    ], 
+    "⏯️": [
+        "shigjetë", 
+        "butoni i luajtjes ose pauzës", 
+        "djathtas", 
+        "ndërprerje", 
+        "luaj", 
+        "pauzë", 
+        "trekëndësh"
+    ], 
     "⏰": [
         "alarm", 
         "orë", 
         "orë me zile"
+    ], 
+    "⏱️": [
+        "kronometër", 
+        "orë"
+    ], 
+    "⏲️": [
+        "kohëmatës", 
+        "orë"
     ], 
     "⏳": [
         "orë me rërë që rrjedh", 
         "kohëmatës", 
         "orë", 
         "rërë"
+    ], 
+    "⏸️": [
+        "shirit", 
+        "ndërprerje", 
+        "butoni i pauzës", 
+        "i dyfishtë", 
+        "pauzë", 
+        "vertikal"
+    ], 
+    "⏹️": [
+        "butoni i ndalimit", 
+        "ndaloj", 
+        "katror"
+    ], 
+    "⏺️": [
+        "butoni i regjistrimit", 
+        "rreth", 
+        "regjistrim"
+    ], 
+    "Ⓜ️": [
+        "rreth", 
+        "«M» e rrethuar", 
+        "m"
+    ], 
+    "▪️": [
+        "gjeometri", 
+        "katror i vogël i zi", 
+        "katror"
+    ], 
+    "▫️": [
+        "gjeometrik", 
+        "katror", 
+        "katror i vogël i bardhë"
+    ], 
+    "▶️": [
+        "luaj", 
+        "shigjetë", 
+        "trekëndësh", 
+        "butoni i luajtjes", 
+        "djathtas"
+    ], 
+    "◀️": [
+        "shigjetë", 
+        "trekëndësh", 
+        "butoni i kthimit prapa", 
+        "mbrapsht", 
+        "majtas", 
+        "prapa"
+    ], 
+    "◻️": [
+        "gjeometrik", 
+        "katror mesatar i bardhë", 
+        "katror"
+    ], 
+    "◼️": [
+        "gjeometri", 
+        "katror", 
+        "katror mesatar i zi"
     ], 
     "◽": [
         "gjeometrik", 
@@ -51,6 +268,44 @@
         "gjeometri", 
         "katror", 
         "katror mesatarisht i vogël i zi"
+    ], 
+    "☀️": [
+        "rreze", 
+        "me diell", 
+        "moti", 
+        "i ndritshëm", 
+        "hapësirë", 
+        "diell"
+    ], 
+    "☁️": [
+        "moti", 
+        "re"
+    ], 
+    "☂️": [
+        "çadër", 
+        "moti", 
+        "veshje", 
+        "shi"
+    ], 
+    "☃️": [
+        "moti", 
+        "ftohtë", 
+        "njeri prej bore", 
+        "borë"
+    ], 
+    "☄️": [
+        "kometë", 
+        "hapësirë"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "votë", 
+        "votim", 
+        "kuti", 
+        "zgjedhje", 
+        "kutia e votimit me shenjën e zgjedhjes"
     ], 
     "☔": [
         "pikë", 
@@ -68,6 +323,91 @@
         "kafe", 
         "e nxehtë", 
         "pi"
+    ], 
+    "☘️": [
+        "tërfil", 
+        "bimë"
+    ], 
+    "☝️": [
+        "gisht tregues që tregon lart", 
+        "gisht", 
+        "lart", 
+        "trup", 
+        "tregues", 
+        "dorë", 
+        "tregoj"
+    ], 
+    "☠️": [
+        "kocka të kryqëzuara", 
+        "përbindësh", 
+        "vdekje", 
+        "fytyrë", 
+        "trup", 
+        "kafkë me kocka të kryqëzuara", 
+        "kafkë"
+    ], 
+    "☢️": [
+        "rrezik radioaktiv", 
+        "shenjë"
+    ], 
+    "☣️": [
+        "shenjë", 
+        "rrezik biologjik"
+    ], 
+    "☦️": [
+        "i krishterë", 
+        "fe", 
+        "kryq ortodoks", 
+        "kryq"
+    ], 
+    "☪️": [
+        "mysliman", 
+        "yll dhe gjysmëhënë", 
+        "fe", 
+        "islam"
+    ], 
+    "☮️": [
+        "faqe", 
+        "simboli i paqes"
+    ], 
+    "☯️": [
+        "taoist", 
+        "jin", 
+        "jin jang", 
+        "fe", 
+        "jang", 
+        "tao"
+    ], 
+    "☸️": [
+        "budist", 
+        "darmë", 
+        "rrotë", 
+        "fe", 
+        "rrota e darmës"
+    ], 
+    "☹️": [
+        "fytyrë e vrenjtur", 
+        "fytyrë", 
+        "e vrenjtur"
+    ], 
+    "☺️": [
+        "e çlodhur", 
+        "fytyrë e qeshur", 
+        "fytyrë", 
+        "e qetë", 
+        "kontur", 
+        "buzëqeshje", 
+        "buzëqesh"
+    ], 
+    "♀️": [
+        "shenja femër", 
+        "femër", 
+        "grua"
+    ], 
+    "♂️": [
+        "shenja mashkull", 
+        "burrë", 
+        "mashkull"
     ], 
     "♈": [
         "dashi", 
@@ -133,14 +473,101 @@
         "peshk", 
         "zodiak"
     ], 
+    "♠️": [
+        "lojë", 
+        "maç", 
+        "figurë maç", 
+        "figurë", 
+        "letër"
+    ], 
+    "♣️": [
+        "lojë", 
+        "figura spathi", 
+        "spathi", 
+        "figurë", 
+        "letër"
+    ], 
+    "♥️": [
+        "lojë", 
+        "kupë", 
+        "figurë kupë", 
+        "figurë", 
+        "letër"
+    ], 
+    "♦️": [
+        "lojë", 
+        "figurë karo", 
+        "karo", 
+        "figurë", 
+        "letër"
+    ], 
+    "♨️": [
+        "burim", 
+        "i nxehtë", 
+        "me avull", 
+        "llixhë"
+    ], 
+    "♻️": [
+        "ricikloj", 
+        "simboli i riciklimit"
+    ], 
     "♿": [
         "karrocë me rrota", 
         "qasje"
+    ], 
+    "⚒️": [
+        "kazmë", 
+        "vegël", 
+        "çekiç", 
+        "çekiç dhe kazmë"
     ], 
     "⚓": [
         "anije", 
         "spirancë", 
         "vegël"
+    ], 
+    "⚔️": [
+        "e kryqëzuar", 
+        "shpata", 
+        "të kryqëzuara", 
+        "armë", 
+        "shpata të kryqëzuara"
+    ], 
+    "⚕️": [
+        "mjekësi", 
+        "asklepiu", 
+        "personel mjekësor", 
+        "simboli mjekësor"
+    ], 
+    "⚖️": [
+        "ekuilibër", 
+        "drejtësi", 
+        "zodiak", 
+        "vegël", 
+        "peshë", 
+        "peshore"
+    ], 
+    "⚗️": [
+        "aparat destilues", 
+        "kimi", 
+        "lambik"
+    ], 
+    "⚙️": [
+        "vegël", 
+        "ingranazh"
+    ], 
+    "⚛️": [
+        "simboli i atomit", 
+        "ateist", 
+        "atom"
+    ], 
+    "⚜️": [
+        "simbol", 
+        "shpatore"
+    ], 
+    "⚠️": [
+        "kujdes", 
+        "shenjë"
     ], 
     "⚡": [
         "tension", 
@@ -160,6 +587,16 @@
         "rreth", 
         "gjeometri", 
         "rreth i zi"
+    ], 
+    "⚰️": [
+        "vdekje", 
+        "arkivol"
+    ], 
+    "⚱️": [
+        "funeral", 
+        "vdekje", 
+        "urnë funerali", 
+        "urnë"
     ], 
     "⚽": [
         "top", 
@@ -183,11 +620,35 @@
         "re", 
         "diell"
     ], 
+    "⛈️": [
+        "shi", 
+        "moti", 
+        "re me vetëtimë dhe shi", 
+        "bubullimë", 
+        "re"
+    ], 
     "⛎": [
         "mbajtës", 
         "zodiak", 
         "gjarpër", 
         "ofiuku"
+    ], 
+    "⛏️": [
+        "kazmë", 
+        "vegël", 
+        "minierë"
+    ], 
+    "⛑️": [
+        "helmetë", 
+        "kapelë", 
+        "fytyrë", 
+        "kryq", 
+        "ndihmë", 
+        "helmetë me kryq të bardhë"
+    ], 
+    "⛓️": [
+        "zinxhir", 
+        "zinxhirë"
     ], 
     "⛔": [
         "ndalohet hyrja", 
@@ -197,12 +658,28 @@
         "nuk", 
         "trafik"
     ], 
+    "⛩️": [
+        "faltore", 
+        "fe", 
+        "faltore shinto", 
+        "shinto"
+    ], 
     "⛪": [
         "kryq", 
         "kishë", 
         "fe", 
         "ndërtesë", 
         "e krishterë"
+    ], 
+    "⛰️": [
+        "mal"
+    ], 
+    "⛱️": [
+        "çadër", 
+        "moti", 
+        "shi", 
+        "çadër në tokë", 
+        "diell"
     ], 
     "⛲": [
         "shatërvan"
@@ -212,6 +689,11 @@
         "golf", 
         "vrimë"
     ], 
+    "⛴️": [
+        "udhëtar", 
+        "varkë", 
+        "traget"
+    ], 
     "⛵": [
         "turistike", 
         "varkë me vela", 
@@ -219,6 +701,20 @@
         "det", 
         "jaht", 
         "mjet"
+    ], 
+    "⛷️": [
+        "skiator", 
+        "ski", 
+        "borë"
+    ], 
+    "⛸️": [
+        "akull", 
+        "patinë", 
+        "patina akulli"
+    ], 
+    "⛹️‍♂️": [
+        "njeri me top", 
+        "top"
     ], 
     "⛺": [
         "tendë", 
@@ -232,28 +728,129 @@
         "karburant", 
         "pompë karburanti"
     ], 
+    "✂️": [
+        "prerje", 
+        "gërshërë", 
+        "vegël"
+    ], 
     "✅": [
         "shenja e zgjedhjes e bardhë e trashë", 
         "zgjedhje", 
         "shenjë"
     ], 
+    "✈️": [
+        "mjet fluturimi", 
+        "fluturake", 
+        "aeroplan"
+    ], 
+    "✉️": [
+        "postë elektronike", 
+        "zarf", 
+        "email", 
+        "letër"
+    ], 
     "✊": [
+        "nuancë lëkure e errët", 
         "grusht", 
+        "grusht i ngritur: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
         "grushtoj", 
+        "grusht i ngritur: nuancë lëkure zeshkane", 
+        "grusht i ngritur: nuancë lëkure gjysmë e çelët", 
+        "grusht i ngritur: nuancë lëkure e errët", 
         "grusht i ngritur", 
+        "nuancë lëkure e çelët", 
         "dorë", 
-        "i mbledhur"
+        "i mbledhur", 
+        "grusht i ngritur: nuancë lëkure gjysmë e errët"
     ], 
     "✋": [
-        "dorë", 
+        "nuancë lëkure e errët", 
+        "dorë e ngritur: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "dorë e ngritur: nuancë lëkure e errët", 
+        "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "dorë e ngritur: nuancë lëkure e çelët", 
         "dorë e ngritur", 
+        "dorë e ngritur: nuancë lëkure gjysmë e errët", 
+        "dorë e ngritur: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
+        "dorë"
+    ], 
+    "✌️": [
+        "dorë", 
+        "dora e fitores", 
+        "v", 
+        "fitore", 
         "trup"
+    ], 
+    "✍️": [
+        "dorë", 
+        "trup", 
+        "dorë që shkruan", 
+        "shkruaj"
+    ], 
+    "✏️": [
+        "laps"
+    ], 
+    "✒️": [
+        "majë pene", 
+        "penë e zezë", 
+        "penë"
+    ], 
+    "✔️": [
+        "zgjedhje", 
+        "shenjë", 
+        "zgjedh", 
+        "shenja e zgjedhjes e trashë"
+    ], 
+    "✖️": [
+        "x", 
+        "shumëzim", 
+        "shenja x e shumëzimit e trashë", 
+        "anulo", 
+        "shumëzoj"
+    ], 
+    "✝️": [
+        "kryqi latin", 
+        "i krishterë", 
+        "fe", 
+        "kryq"
+    ], 
+    "✡️": [
+        "hebre", 
+        "david", 
+        "ylli i davidit", 
+        "fe", 
+        "yll", 
+        "hebraik"
     ], 
     "✨": [
         "xixëllimë", 
         "yll", 
         "xixëllima"
+    ], 
+    "✳️": [
+        "yllth", 
+        "yllth me tetë cepa me majë"
+    ], 
+    "✴️": [
+        "yll me tetë cepa", 
+        "yll"
+    ], 
+    "❄️": [
+        "moti", 
+        "ftohtë", 
+        "borë", 
+        "flokë bore"
+    ], 
+    "❇️": [
+        "xixëllim"
     ], 
     "❌": [
         "anulo", 
@@ -294,6 +891,17 @@
         "shenja e pikëçuditjes", 
         "pikësim"
     ], 
+    "❣️": [
+        "zbukurim i trashë me pikëçuditje me zemër", 
+        "pikëçuditje", 
+        "shenjë", 
+        "zemër", 
+        "pikësim"
+    ], 
+    "❤️": [
+        "zemër e kuqe", 
+        "zemër"
+    ], 
     "➕": [
         "matematikë", 
         "plus", 
@@ -309,6 +917,13 @@
         "matematikë", 
         "ndarje"
     ], 
+    "➡️": [
+        "kryesore", 
+        "shigjetë djathtas", 
+        "drejtim", 
+        "lindje", 
+        "shigjetë"
+    ], 
     "➰": [
         "lak i përdredhur", 
         "përdredhje", 
@@ -320,6 +935,38 @@
         "lak i përdredhur dy herë", 
         "dy herë", 
         "lak"
+    ], 
+    "⤴️": [
+        "shigjetë", 
+        "shigjetë djathtas e përkulur lart"
+    ], 
+    "⤵️": [
+        "shigjetë", 
+        "poshtë", 
+        "shigjetë djathtas e përkulur poshtë"
+    ], 
+    "⬅️": [
+        "shigjetë", 
+        "kryesor", 
+        "perëndim", 
+        "kryesore", 
+        "drejtim", 
+        "shigjeta majtas"
+    ], 
+    "⬆️": [
+        "veri", 
+        "kryesore", 
+        "shigjeta lart", 
+        "drejtim", 
+        "shigjetë"
+    ], 
+    "⬇️": [
+        "shigjetë", 
+        "kryesore", 
+        "jug", 
+        "poshtë", 
+        "drejtim", 
+        "shigjetë poshtë"
     ], 
     "⬛": [
         "gjeometri", 
@@ -340,6 +987,31 @@
         "rreth i madh i trashë", 
         "o"
     ], 
+    "〰️": [
+        "vijë", 
+        "vijë e valëzuar", 
+        "e valëzuar", 
+        "pikësim"
+    ], 
+    "〽️": [
+        "pjesë", 
+        "shenja e ndryshimit të pjesës", 
+        "shenjë"
+    ], 
+    "㊗️": [
+        "ideograf", 
+        "«urime»", 
+        "butoni «urime» në japonisht", 
+        "祝", 
+        "japonisht"
+    ], 
+    "㊙️": [
+        "butoni «sekret» në japonisht", 
+        "ideograf", 
+        "秘", 
+        "«sekret»", 
+        "japonisht"
+    ], 
     "🀄": [
         "lojë", 
         "dragua i kuq mahjong", 
@@ -351,6 +1023,25 @@
         "luaj", 
         "xholi", 
         "letër"
+    ], 
+    "🅰️": [
+        "a", 
+        "grup gjaku", 
+        "butoni «A»"
+    ], 
+    "🅱️": [
+        "butoni «B»", 
+        "grup gjaku", 
+        "b"
+    ], 
+    "🅾️": [
+        "butoni «O»", 
+        "grup gjaku", 
+        "o"
+    ], 
+    "🅿️": [
+        "parkim", 
+        "butoni «P»"
     ], 
     "🆎": [
         "grup gjaku", 
@@ -1457,6 +2148,13 @@
         "ココ", 
         "«këtu»"
     ], 
+    "🈂️": [
+        "butoni «tarifa e shërbimit» në japonisht", 
+        "katakana", 
+        "«tarifa e shërbimit»", 
+        "サ", 
+        "japonisht"
+    ], 
     "🈚": [
         "butoni «falas» në japonisht", 
         "ideograf", 
@@ -1504,6 +2202,13 @@
         "ideograf", 
         "butoni «jo falas» në japonisht", 
         "«jo falas»", 
+        "japonisht"
+    ], 
+    "🈷️": [
+        "«shuma mujore»", 
+        "ideograf", 
+        "月", 
+        "butoni «shuma mujore» në japonisht", 
         "japonisht"
     ], 
     "🈸": [
@@ -1779,6 +2484,67 @@
         "hapësirë", 
         "yll që bie"
     ], 
+    "🌡️": [
+        "termometër", 
+        "mot"
+    ], 
+    "🌤️": [
+        "moti", 
+        "diell pas reve të vogla", 
+        "re", 
+        "diell"
+    ], 
+    "🌥️": [
+        "moti", 
+        "diell pas reve të mëdha", 
+        "re", 
+        "diell"
+    ], 
+    "🌦️": [
+        "shi", 
+        "moti", 
+        "diell pas reve me shi", 
+        "re", 
+        "diell"
+    ], 
+    "🌧️": [
+        "moti", 
+        "shi", 
+        "re me shi", 
+        "re"
+    ], 
+    "🌨️": [
+        "moti", 
+        "re me borë", 
+        "ftohtë", 
+        "borë", 
+        "re"
+    ], 
+    "🌩️": [
+        "moti", 
+        "vetëtimë", 
+        "re me vetëtimë", 
+        "re"
+    ], 
+    "🌪️": [
+        "tornado", 
+        "re", 
+        "vorbull ere", 
+        "mot"
+    ], 
+    "🌫️": [
+        "mjegull", 
+        "re", 
+        "moti"
+    ], 
+    "🌬️": [
+        "fytyrë në erë", 
+        "moti", 
+        "re", 
+        "erë", 
+        "fytyrë", 
+        "fryj"
+    ], 
     "🌭": [
         "salsiçe", 
         "hot-dog"
@@ -1819,6 +2585,12 @@
     ], 
     "🌵": [
         "kaktus", 
+        "bimë"
+    ], 
+    "🌶️": [
+        "djegës", 
+        "spec", 
+        "spec djegës", 
         "bimë"
     ], 
     "🌷": [
@@ -2243,6 +3015,13 @@
         "qumësht", 
         "shishe"
     ], 
+    "🍽️": [
+        "thikë", 
+        "pirun", 
+        "pirun dhe thikë me pjatë", 
+        "gatim", 
+        "pjatë"
+    ], 
     "🍾": [
         "shishe me tapë që kërcet", 
         "pije", 
@@ -2293,13 +3072,23 @@
     ], 
     "🎅": [
         "baba", 
+        "babagjyshi i krishtlindjes: nuancë lëkure gjysmë e errët", 
         "krishtlindje", 
+        "babagjyshi i krishtlindjes: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "fantazi", 
+        "nuancë lëkure e çelët", 
+        "babagjyshi i krishtlindjes: nuancë lëkure gjysmë e çelët", 
         "festë", 
         "babagjyshi i krishtlindjes", 
         "babagjysh", 
         "përrallë", 
-        "festim"
+        "nuancë lëkure e errët", 
+        "babagjyshi i krishtlindjes: nuancë lëkure e errët", 
+        "babagjyshi i krishtlindjes: nuancë lëkure zeshkane", 
+        "festim", 
+        "nuancë lëkure gjysmë e errët"
     ], 
     "🎆": [
         "festim", 
@@ -2401,6 +3190,50 @@
         "festë", 
         "veshje", 
         "kapë"
+    ], 
+    "🎖️": [
+        "medalje", 
+        "festim", 
+        "ushtarake", 
+        "medalje ushtarake", 
+        "festë"
+    ], 
+    "🎗️": [
+        "fjongo kujtese", 
+        "kujtesë", 
+        "festim", 
+        "fjongo", 
+        "festë"
+    ], 
+    "🎙️": [
+        "muzikë", 
+        "studio", 
+        "mikrofon", 
+        "mikrofon studioje"
+    ], 
+    "🎚️": [
+        "muzikë", 
+        "rrëshqitësi i nivelit", 
+        "rrëshqitës", 
+        "nivel"
+    ], 
+    "🎛️": [
+        "çelësat e kontrollit", 
+        "kontroll", 
+        "muzikë", 
+        "çelësa"
+    ], 
+    "🎞️": [
+        "kuadro", 
+        "video", 
+        "kuadro filmi", 
+        "film", 
+        "kinema"
+    ], 
+    "🎟️": [
+        "biletat e hyrjes", 
+        "hyrje", 
+        "biletë"
     ], 
     "🎠": [
         "kalë në karusel", 
@@ -2592,19 +3425,46 @@
         "me katrorë"
     ], 
     "🏂": [
-        "sërfist në borë", 
-        "ski", 
+        "sërfist në borë: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "borë", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "sërfist në borë: nuancë lëkure gjysmë e çelët", 
         "sërf në borë", 
-        "borë"
+        "sërfist në borë: nuancë lëkure e çelët", 
+        "sërfist në borë", 
+        "nuancë lëkure e çelët", 
+        "sërfist në borë: nuancë lëkure zeshkane", 
+        "ski", 
+        "sërfist në borë: nuancë lëkure e errët"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
         "vrapim", 
+        "grua që vrapon", 
         "maratonë", 
-        "vrapues"
+        "garë", 
+        "grua"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "burrë", 
+        "burrë që vrapon", 
+        "vrapim", 
+        "vrapues", 
+        "garë", 
+        "maratonë"
+    ], 
+    "🏄‍♀️": [
+        "grua që bën sërf", 
+        "sërf", 
+        "grua"
+    ], 
+    "🏄‍♂️": [
+        "burrë që bën sërf", 
         "sërfist", 
-        "sërf"
+        "sërf", 
+        "burrë"
     ], 
     "🏅": [
         "medalje", 
@@ -2615,11 +3475,21 @@
         "çmim"
     ], 
     "🏇": [
-        "gara me kuaj", 
+        "nuancë lëkure e errët", 
         "garim", 
-        "kalë", 
+        "gara me kuaj: nuancë lëkure gjysmë e errët", 
+        "gara me kuaj: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "gara me kuaj: nuancë lëkure e çelët", 
+        "gara me kuaj", 
         "kalorës", 
-        "garë"
+        "garë", 
+        "nuancë lëkure e çelët", 
+        "gara me kuaj: nuancë lëkure e errët", 
+        "kalë", 
+        "gara me kuaj: nuancë lëkure gjysmë e çelët"
     ], 
     "🏈": [
         "amerikan", 
@@ -2632,10 +3502,37 @@
         "futboll", 
         "regbi"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "grua që noton", 
         "not", 
+        "grua"
+    ], 
+    "🏊‍♂️": [
+        "not", 
+        "burrë që noton", 
+        "burrë", 
         "notoj", 
         "notar"
+    ], 
+    "🏋️‍♂️": [
+        "peshë", 
+        "peshëngritës"
+    ], 
+    "🏌️‍♂️": [
+        "top", 
+        "golf", 
+        "lojtar golfi"
+    ], 
+    "🏍️": [
+        "garim", 
+        "garë", 
+        "motoçikletë"
+    ], 
+    "🏎️": [
+        "garim", 
+        "garë", 
+        "makinë garash", 
+        "makinë"
     ], 
     "🏏": [
         "lojë", 
@@ -2670,6 +3567,62 @@
         "raketë", 
         "tavolinë", 
         "pingpong"
+    ], 
+    "🏔️": [
+        "mal i mbuluar me borë në majë", 
+        "ftohtë", 
+        "mal", 
+        "borë"
+    ], 
+    "🏕️": [
+        "kamp"
+    ], 
+    "🏖️": [
+        "çadër", 
+        "plazh", 
+        "plazh me çadër"
+    ], 
+    "🏗️": [
+        "ndërtim", 
+        "ndërtim ndërtese", 
+        "ndërtesë"
+    ], 
+    "🏘️": [
+        "shtëpitë", 
+        "ndërtesë", 
+        "shtëpi"
+    ], 
+    "🏙️": [
+        "qytet", 
+        "panoramë qyteti", 
+        "ndërtesë"
+    ], 
+    "🏚️": [
+        "shtëpi e braktisur", 
+        "shtëpi", 
+        "ndërtesë", 
+        "e braktisur"
+    ], 
+    "🏛️": [
+        "klasik", 
+        "ndërtesë klasike", 
+        "klasike", 
+        "ndërtesë"
+    ], 
+    "🏜️": [
+        "shkretëtirë"
+    ], 
+    "🏝️": [
+        "ishull", 
+        "ishull shkretëtirë", 
+        "shkretëtirë"
+    ], 
+    "🏞️": [
+        "park kombëtar", 
+        "park"
+    ], 
+    "🏟️": [
+        "stadium"
     ], 
     "🏠": [
         "ndërtesë", 
@@ -2771,9 +3724,24 @@
         "evropian", 
         "ndërtesë"
     ], 
+    "🏳️": [
+        "valëvitës", 
+        "flamur i bardhë"
+    ], 
+    "🏳️‍🌈": [
+        "flamur i ylbertë", 
+        "ylber"
+    ], 
     "🏴": [
         "valëvitës", 
         "flamur i zi"
+    ], 
+    "🏵️": [
+        "rozetë", 
+        "bimë"
+    ], 
+    "🏷️": [
+        "etiketë"
     ], 
     "🏸": [
         "lojë", 
@@ -3113,19 +4081,46 @@
         "gjurmë putrash", 
         "putër"
     ], 
+    "🐿️": [
+        "ketër"
+    ], 
     "👀": [
         "trup", 
         "sy", 
         "sytë", 
         "fytyrë"
     ], 
-    "👂": [
+    "👁️": [
         "trup", 
+        "sy"
+    ], 
+    "👂": [
+        "nuancë lëkure e errët", 
+        "vesh: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "vesh: nuancë lëkure gjysmë e çelët", 
+        "vesh: nuancë lëkure gjysmë e errët", 
+        "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "vesh: nuancë lëkure e çelët", 
+        "nuancë lëkure e çelët", 
+        "vesh: nuancë lëkure zeshkane", 
         "vesh"
     ], 
     "👃": [
+        "nuancë lëkure e errët", 
+        "hundë: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "trup", 
-        "hundë"
+        "nuancë lëkure gjysmë e errët", 
+        "hundë", 
+        "hundë: nuancë lëkure zeshkane", 
+        "hundë: nuancë lëkure gjysmë e çelët", 
+        "hundë: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "hundë: nuancë lëkure e çelët"
     ], 
     "👄": [
         "buzë", 
@@ -3137,93 +4132,203 @@
         "gjuhë"
     ], 
     "👆": [
+        "nuancë lëkure e errët", 
         "gisht tregues i drejtuar lart", 
+        "gisht tregues i drejtuar lart: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
         "gisht", 
         "lart", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "gisht tregues i drejtuar lart: nuancë lëkure gjysmë e errët", 
         "tregues", 
+        "gisht tregues i drejtuar lart: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
         "dorë", 
         "kurrizi i dorës", 
+        "gisht tregues i drejtuar lart: nuancë lëkure e çelët", 
+        "gisht tregues i drejtuar lart: nuancë lëkure e errët", 
         "tregoj"
     ], 
     "👇": [
+        "nuancë lëkure e errët", 
+        "gisht tregues i drejtuar poshtë: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e çelët", 
         "gisht", 
+        "gisht tregues i drejtuar poshtë: nuancë lëkure e çelët", 
         "gisht tregues i drejtuar poshtë", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "gisht tregues i drejtuar poshtë: nuancë lëkure gjysmë e errët", 
+        "gisht tregues i drejtuar poshtë: nuancë lëkure e errët", 
         "tregues", 
+        "gisht tregues i drejtuar poshtë: nuancë lëkure gjysmë e çelët", 
         "poshtë", 
+        "nuancë lëkure e çelët", 
         "dorë", 
         "kurrizi i dorës", 
         "tregoj"
     ], 
     "👈": [
+        "gishti tregues që tregon majtas: nuancë lëkure zeshkane", 
+        "gishti tregues që tregon majtas: nuancë lëkure gjysmë e errët", 
+        "gishti tregues që tregon majtas: nuancë lëkure gjysmë e çelët", 
+        "gishti tregues që tregon majtas: nuancë lëkure e errët", 
+        "gishti tregues që tregon majtas: nuancë lëkure e çelët", 
         "gisht", 
+        "nuancë lëkure zeshkane", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "nuancë lëkure e errët", 
         "tregues", 
         "gishti tregues që tregon majtas", 
         "dorë", 
         "kurrizi i dorës", 
-        "tregon"
+        "tregon", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👉": [
         "gisht tregues i drejtuar djathtas", 
+        "gisht tregues i drejtuar djathtas: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
         "gisht", 
+        "nuancë lëkure zeshkane", 
+        "gisht tregues i drejtuar djathtas: nuancë lëkure e errët", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "gisht tregues i drejtuar djathtas: nuancë lëkure e çelët", 
+        "nuancë lëkure e errët", 
         "tregues", 
+        "gisht tregues i drejtuar djathtas: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
         "dorë", 
         "kurrizi i dorës", 
+        "gisht tregues i drejtuar djathtas: nuancë lëkure zeshkane", 
         "tregoj"
     ], 
     "👊": [
+        "nuancë lëkure e errët", 
         "grusht", 
+        "nuancë lëkure gjysmë e çelët", 
         "grusht që vjen", 
+        "grusht që vjen: nuancë lëkure gjysmë e çelët", 
+        "grusht që vjen: nuancë lëkure gjysmë e errët", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
         "grushtoj", 
+        "grusht që vjen: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
         "dorë", 
-        "i mbledhur"
+        "grusht që vjen: nuancë lëkure e çelët", 
+        "i mbledhur", 
+        "grusht që vjen: nuancë lëkure zeshkane"
     ], 
     "👋": [
-        "dorë", 
-        "trup", 
-        "që tundet", 
+        "nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
         "dorë që tundet", 
+        "nuancë lëkure zeshkane", 
+        "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "dorë që tundet: nuancë lëkure e çelët", 
+        "dorë që tundet: nuancë lëkure gjysmë e çelët", 
+        "dorë që tundet: nuancë lëkure gjysmë e errët", 
+        "që tundet", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "dorë që tundet: nuancë lëkure zeshkane", 
+        "dorë që tundet: nuancë lëkure e errët", 
         "tund"
     ], 
     "👌": [
-        "dorë", 
-        "trup", 
-        "«ok» me dorë", 
+        "nuancë lëkure e errët", 
         "ok", 
-        "në rregull"
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "«ok» me dorë: nuancë lëkure gjysmë e çelët", 
+        "«ok» me dorë: nuancë lëkure e çelët", 
+        "«ok» me dorë: nuancë lëkure zeshkane", 
+        "«ok» me dorë", 
+        "«ok» me dorë: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "në rregull", 
+        "«ok» me dorë: nuancë lëkure e errët"
     ], 
     "👍": [
+        "nuancë lëkure e errët", 
         "gisht i madh", 
+        "gishti i madh lart: nuancë lëkure e çelët", 
         "gishti i madh lart", 
         "lart", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "gishti i madh lart: nuancë lëkure gjysmë e çelët", 
+        "gishti i madh lart: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
         "+1", 
-        "dorë"
+        "gishti i madh lart: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "gishti i madh lart: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👎": [
         "gishti i madh poshtë", 
+        "nuancë lëkure e errët", 
         "gisht i madh", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "gishti i madh poshtë: nuancë lëkure zeshkane", 
+        "gishti i madh poshtë: nuancë lëkure e çelët", 
         "poshtë", 
         "-1", 
-        "dorë"
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "gishti i madh poshtë: nuancë lëkure e errët", 
+        "gishti i madh poshtë: nuancë lëkure gjysmë e errët", 
+        "gishti i madh poshtë: nuancë lëkure gjysmë e çelët"
     ], 
     "👏": [
-        "dorë", 
-        "duar që duartrokasin", 
+        "nuancë lëkure e errët", 
+        "duar që duartrokasin: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "duar që duartrokasin: nuancë lëkure e çelët", 
+        "trup", 
         "duartrokas", 
-        "trup"
+        "duar që duartrokasin", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "duar që duartrokasin: nuancë lëkure gjysmë e çelët", 
+        "duar që duartrokasin: nuancë lëkure e errët", 
+        "duar që duartrokasin: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët"
     ], 
     "👐": [
-        "dorë", 
-        "hap", 
-        "duar të hapura", 
+        "nuancë lëkure e errët", 
+        "duar të hapura: nuancë lëkure zeshkane", 
         "e hapur", 
-        "trup"
+        "duar të hapura: nuancë lëkure e çelët", 
+        "nuancë lëkure zeshkane", 
+        "trup", 
+        "duar të hapura", 
+        "hap", 
+        "duar të hapura: nuancë lëkure gjysmë e çelët", 
+        "duar të hapura: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "duar të hapura: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👑": [
         "kurorë", 
@@ -3340,57 +4445,191 @@
         "bust"
     ], 
     "👦": [
+        "nuancë lëkure e errët", 
+        "mashkull", 
+        "djalë: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "djalë: nuancë lëkure e errët", 
+        "djalë: nuancë lëkure gjysmë e çelët", 
+        "djalë: nuancë lëkure zeshkane", 
+        "djalë: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
         "djalë", 
-        "mashkull"
+        "nuancë lëkure gjysmë e errët"
     ], 
     "👧": [
-        "zodiak", 
+        "nuancë lëkure e errët", 
         "vajzë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "vajzë: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "vajzë: nuancë lëkure e çelët", 
+        "zodiak", 
+        "nuancë lëkure e çelët", 
+        "vajzë: nuancë lëkure zeshkane", 
+        "vajzë: nuancë lëkure gjysmë e errët", 
+        "vajzë: nuancë lëkure e errët", 
         "virgjëreshë"
     ], 
     "👨": [
+        "nuancë lëkure e errët", 
         "burrë", 
-        "mashkull"
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "burrë: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "burrë: nuancë lëkure e çelët", 
+        "mashkull", 
+        "nuancë lëkure e çelët", 
+        "burrë: nuancë lëkure zeshkane", 
+        "burrë: nuancë lëkure e errët", 
+        "burrë: nuancë lëkure gjysmë e errët"
+    ], 
+    "👨‍⚕️": [
+        "kujdes mjekësor", 
+        "burrë", 
+        "punonjës shëndetësor", 
+        "infermier", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "peshore", 
+        "burrë", 
+        "gjykatës", 
+        "drejtësi"
+    ], 
+    "👨‍✈️": [
+        "burrë", 
+        "aeroplan", 
+        "pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "burrë", 
+        "çift me zemër", 
+        "zemër", 
+        "romancë", 
+        "dashuri", 
+        "çift me zemër: burrë e burrë", 
+        "çift"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "puthje", 
+        "romancë", 
+        "puthje: burrë e burrë", 
+        "burrë", 
+        "çift"
     ], 
     "👨‍🌾": [
+        "bujk: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e errët", 
         "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "bujk: nuancë lëkure e errët", 
         "kopshtar", 
-        "bujk"
+        "bujk: nuancë lëkure zeshkane", 
+        "bujk", 
+        "nuancë lëkure e çelët", 
+        "bujk: nuancë lëkure e çelët", 
+        "bujk: nuancë lëkure gjysmë e çelët"
     ], 
     "👨‍🍳": [
+        "nuancë lëkure e errët", 
         "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "kuzhinier: nuancë lëkure zeshkane", 
+        "kuzhinier: nuancë lëkure e errët", 
+        "kuzhinë", 
+        "kuzhinier: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "kuzhinier: nuancë lëkure e çelët", 
         "kuzhinier", 
-        "kuzhinë"
+        "kuzhinier: nuancë lëkure gjysmë e çelët"
     ], 
     "👨‍🎓": [
+        "nuancë lëkure e errët", 
+        "student: nuancë lëkure e errët", 
         "diplomim", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "student: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "student: nuancë lëkure gjysmë e çelët", 
+        "student: nuancë lëkure zeshkane", 
+        "mashkull", 
         "student", 
-        "mashkull"
+        "nuancë lëkure e çelët", 
+        "student: nuancë lëkure e çelët"
     ], 
     "👨‍🎤": [
-        "këngëtar", 
+        "nuancë lëkure e errët", 
         "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "këngëtar", 
+        "këngëtar: nuancë lëkure gjysmë e çelët", 
+        "këngëtar: nuancë lëkure e çelët", 
+        "këngëtar: nuancë lëkure e errët", 
         "aktor", 
+        "nuancë lëkure e çelët", 
+        "këngëtar: nuancë lëkure zeshkane", 
+        "këngëtar: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët", 
         "muzikant"
     ], 
     "👨‍🎨": [
-        "paletë", 
+        "nuancë lëkure e errët", 
         "burrë", 
+        "artist: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "artist", 
+        "paletë", 
+        "artist: nuancë lëkure e çelët", 
+        "nuancë lëkure zeshkane", 
         "piktor", 
-        "artist"
+        "artist: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "artist: nuancë lëkure gjysmë e errët", 
+        "artist: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët"
     ], 
     "👨‍🏫": [
-        "profesor", 
+        "nuancë lëkure e errët", 
         "burrë", 
         "mësues", 
-        "instruktor"
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "mësues: nuancë lëkure e çelët", 
+        "mësues: nuancë lëkure gjysmë e çelët", 
+        "instruktor", 
+        "mësues: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "profesor", 
+        "mësues: nuancë lëkure gjysmë e errët", 
+        "mësues: nuancë lëkure zeshkane"
     ], 
     "👨‍🏭": [
-        "industri", 
+        "punëtor fabrike: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e errët", 
         "burrë", 
         "fabrikë", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "punëtor fabrike: nuancë lëkure zeshkane", 
+        "montator", 
+        "punëtor fabrike: nuancë lëkure e errët", 
         "punëtor fabrike", 
-        "montator"
+        "nuancë lëkure e çelët", 
+        "industri", 
+        "punëtor fabrike: nuancë lëkure gjysmë e çelët", 
+        "punëtor fabrike: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👨‍👦": [
         "baba", 
@@ -3551,84 +4790,276 @@
         "familje"
     ], 
     "👨‍💻": [
+        "nuancë lëkure e errët", 
         "softuer", 
-        "zhvillues", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "teknolog: nuancë lëkure zeshkane", 
+        "teknolog: nuancë lëkure gjysmë e errët", 
+        "teknolog: nuancë lëkure e errët", 
+        "teknolog", 
         "burrë", 
+        "nuancë lëkure e çelët", 
+        "teknolog: nuancë lëkure gjysmë e çelët", 
+        "zhvillues", 
+        "teknolog: nuancë lëkure e çelët", 
         "kodues", 
-        "teknolog"
+        "nuancë lëkure gjysmë e errët"
     ], 
     "👨‍💼": [
+        "punonjës zyre: nuancë lëkure e çelët", 
+        "nuancë lëkure e errët", 
+        "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "punonjës zyre: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "punonjës zyre: nuancë lëkure gjysmë e errët", 
+        "punonjës zyre", 
+        "punonjës zyre: nuancë lëkure e errët", 
+        "punonjës zyre: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
         "menaxher", 
         "biznes", 
-        "burrë", 
-        "arkitekt", 
-        "punonjës zyre"
+        "arkitekt"
     ], 
     "👨‍🔧": [
-        "mekanik", 
+        "nuancë lëkure e errët", 
         "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "mekanik: nuancë lëkure e errët", 
+        "nuancë lëkure zeshkane", 
+        "mekanik: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "mekanik: nuancë lëkure gjysmë e çelët", 
+        "mekanik: nuancë lëkure e çelët", 
+        "hidraulik", 
+        "nuancë lëkure e çelët", 
+        "mekanik", 
         "elektricist", 
-        "hidraulik"
+        "mekanik: nuancë lëkure gjysmë e errët"
     ], 
     "👨‍🔬": [
+        "nuancë lëkure e errët", 
         "fizikan", 
-        "biolog", 
         "shkencëtar", 
-        "kimist"
+        "nuancë lëkure gjysmë e çelët", 
+        "kimist", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "biolog", 
+        "shkencëtar: nuancë lëkure e çelët", 
+        "shkencëtar: nuancë lëkure zeshkane", 
+        "shkencëtar: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "shkencëtar: nuancë lëkure e errët", 
+        "shkencëtar: nuancë lëkure gjysmë e çelët"
     ], 
     "👨‍🚀": [
-        "raketë", 
+        "nuancë lëkure e errët", 
+        "astronaut: nuancë lëkure e errët", 
+        "astronaut: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "astronaut: nuancë lëkure gjysmë e errët", 
+        "astronaut: nuancë lëkure zeshkane", 
         "burrë", 
+        "raketë", 
+        "astronaut: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
         "astronaut", 
         "hapësirë"
     ], 
     "👨‍🚒": [
+        "nuancë lëkure e errët", 
         "burrë", 
-        "makinë zjarrfikëse", 
-        "zjarrfikës"
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "zjarrfikës: nuancë lëkure zeshkane", 
+        "zjarrfikës: nuancë lëkure gjysmë e errët", 
+        "zjarrfikës", 
+        "zjarrfikës: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "zjarrfikës: nuancë lëkure e çelët", 
+        "zjarrfikës: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "makinë zjarrfikëse"
     ], 
     "👩": [
+        "nuancë lëkure e errët", 
+        "grua: nuancë lëkure zeshkane", 
+        "grua", 
+        "nuancë lëkure zeshkane", 
+        "grua: nuancë lëkure gjysmë e çelët", 
+        "grua: nuancë lëkure gjysmë e errët", 
+        "grua: nuancë lëkure e errët", 
+        "grua: nuancë lëkure e çelët", 
+        "nuancë lëkure e çelët", 
         "femër", 
-        "grua"
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët"
+    ], 
+    "👩‍⚕️": [
+        "doktore", 
+        "infermiere", 
+        "punonjëse shëndetësor", 
+        "grua", 
+        "kujdes mjekësor"
+    ], 
+    "👩‍⚖️": [
+        "gjykatëse", 
+        "peshore", 
+        "grua", 
+        "drejtësi"
+    ], 
+    "👩‍✈️": [
+        "grua", 
+        "aeroplan", 
+        "pilote"
+    ], 
+    "👩‍❤️‍👨": [
+        "burrë", 
+        "çift me zemër", 
+        "grua", 
+        "çift me zemër: grua e burrë", 
+        "zemër", 
+        "romancë", 
+        "dashuri", 
+        "çift"
+    ], 
+    "👩‍❤️‍👩": [
+        "çift me zemër: grua e grua", 
+        "çift me zemër", 
+        "grua", 
+        "zemër", 
+        "romancë", 
+        "dashuri", 
+        "çift"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "puthje", 
+        "burrë", 
+        "grua", 
+        "puthje: grua e burrë", 
+        "romancë", 
+        "çift"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "puthje", 
+        "romancë", 
+        "çift", 
+        "grua", 
+        "puthje: grua e grua"
     ], 
     "👩‍🌾": [
-        "kopshtare", 
+        "nuancë lëkure e errët", 
         "bujkeshë", 
+        "bujkeshë: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "bujkeshë: nuancë lëkure gjysmë e çelët", 
+        "bujkeshë: nuancë lëkure e çelët", 
+        "bujkeshë: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
+        "kopshtare", 
+        "bujkeshë: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët", 
         "grua"
     ], 
     "👩‍🍳": [
-        "kuzhiniere", 
+        "nuancë lëkure e errët", 
+        "kuzhiniere: nuancë lëkure gjysmë e errët", 
         "grua", 
-        "kuzhinë"
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "kuzhiniere: nuancë lëkure zeshkane", 
+        "kuzhiniere: nuancë lëkure gjysmë e çelët", 
+        "kuzhiniere: nuancë lëkure e çelët", 
+        "kuzhiniere", 
+        "kuzhinë", 
+        "nuancë lëkure e çelët", 
+        "kuzhiniere: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👩‍🎓": [
-        "femër", 
+        "nuancë lëkure e errët", 
         "diplomim", 
-        "studente"
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "studente: nuancë lëkure gjysmë e errët", 
+        "studente: nuancë lëkure zeshkane", 
+        "studente: nuancë lëkure gjysmë e çelët", 
+        "studente: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "femër", 
+        "nuancë lëkure gjysmë e errët", 
+        "studente", 
+        "studente: nuancë lëkure e çelët"
     ], 
     "👩‍🎤": [
-        "muzikante", 
-        "aktore", 
+        "nuancë lëkure e errët", 
+        "këngëtare: nuancë lëkure e errët", 
+        "këngëtare: nuancë lëkure gjysmë e çelët", 
         "grua", 
-        "këngëtare"
+        "këngëtare: nuancë lëkure e çelët", 
+        "këngëtare", 
+        "këngëtare: nuancë lëkure zeshkane", 
+        "muzikante", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "këngëtare: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "aktore", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👩‍🎨": [
+        "nuancë lëkure e errët", 
         "artiste", 
         "piktore", 
         "grua", 
-        "paletë"
+        "artiste: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "paletë", 
+        "nuancë lëkure gjysmë e errët", 
+        "artiste: nuancë lëkure e errët", 
+        "artiste: nuancë lëkure e çelët", 
+        "artiste: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
+        "artiste: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👩‍🏫": [
-        "profesore", 
+        "nuancë lëkure e errët", 
+        "mësuese: nuancë lëkure gjysmë e çelët", 
+        "mësuese: nuancë lëkure e çelët", 
         "mësuese", 
         "grua", 
-        "Instruktore"
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "mësuese: nuancë lëkure e errët", 
+        "mësuese: nuancë lëkure zeshkane", 
+        "Instruktore", 
+        "mësuese: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "profesore", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👩‍🏭": [
-        "industri", 
+        "punëtore fabrike: nuancë lëkure gjysmë e errët", 
+        "punëtore fabrike: nuancë lëkure e çelët", 
         "montatore", 
         "fabrikë", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e errët", 
         "punëtore fabrike", 
+        "nuancë lëkure e çelët", 
+        "industri", 
+        "punëtore fabrike: nuancë lëkure gjysmë e çelët", 
+        "punëtore fabrike: nuancë lëkure zeshkane", 
+        "punëtore fabrike: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
         "grua"
     ], 
     "👩‍👦": [
@@ -3734,49 +5165,102 @@
         "familje"
     ], 
     "👩‍💻": [
+        "teknologe: nuancë lëkure zeshkane", 
+        "nuancë lëkure e errët", 
         "softuer", 
-        "koduese", 
         "grua", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "teknologe: nuancë lëkure gjysmë e çelët", 
+        "teknologe: nuancë lëkure e çelët", 
+        "koduese", 
         "teknologe", 
-        "zhvilluese"
+        "nuancë lëkure e çelët", 
+        "teknologe: nuancë lëkure gjysmë e errët", 
+        "zhvilluese", 
+        "teknologe: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👩‍💼": [
+        "punonjëse zyre: nuancë lëkure e çelët", 
+        "nuancë lëkure e errët", 
+        "grua", 
+        "nuancë lëkure zeshkane", 
+        "punonjëse zyre: nuancë lëkure zeshkane", 
+        "punonjëse zyre: nuancë lëkure e errët", 
+        "punonjëse zyre: nuancë lëkure gjysmë e çelët", 
+        "arkitekte", 
+        "punonjëse zyre", 
+        "nuancë lëkure e çelët", 
         "menaxher", 
         "biznes", 
-        "arkitekte", 
-        "grua", 
-        "punonjëse zyre"
+        "punonjëse zyre: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👩‍🔧": [
-        "mekanike", 
-        "hidraulike", 
+        "nuancë lëkure e errët", 
+        "mekanike: nuancë lëkure e errët", 
         "burrë", 
-        "elektriciste"
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "mekanike: nuancë lëkure gjysmë e errët", 
+        "elektriciste", 
+        "mekanike: nuancë lëkure zeshkane", 
+        "hidraulike", 
+        "mekanike: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
+        "mekanike: nuancë lëkure e çelët", 
+        "mekanike"
     ], 
     "👩‍🔬": [
-        "kimiste", 
+        "nuancë lëkure e errët", 
+        "shkencëtare: nuancë lëkure zeshkane", 
         "shkencëtare", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "shkencëtare: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "kimiste", 
+        "shkencëtare: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "shkencëtare: nuancë lëkure e errët", 
+        "shkencëtare: nuancë lëkure e çelët", 
         "biologe", 
         "fizikane"
     ], 
     "👩‍🚀": [
-        "astronaute", 
-        "raketë", 
+        "nuancë lëkure e errët", 
         "grua", 
-        "hapësirë"
+        "astronaute: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "astronaute: nuancë lëkure zeshkane", 
+        "astronaute: nuancë lëkure e errët", 
+        "raketë", 
+        "astronaute: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
+        "astronaute", 
+        "astronaute: nuancë lëkure gjysmë e errët", 
+        "hapësirë", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👩‍🚒": [
-        "makinë zjarrfikëse", 
+        "grua zjarrëfikëse: nuancë lëkure e çelët", 
+        "nuancë lëkure e errët", 
         "zjarrfikëse", 
-        "grua", 
-        "grua zjarrëfikëse"
-    ], 
-    "👪": [
-        "baba", 
-        "mama", 
-        "fëmijë", 
-        "familje", 
-        "nënë"
+        "makinë zjarrfikëse", 
+        "nuancë lëkure zeshkane", 
+        "grua zjarrëfikëse: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "grua zjarrëfikëse", 
+        "grua zjarrëfikëse: nuancë lëkure gjysmë e çelët", 
+        "grua zjarrëfikëse: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "grua zjarrëfikëse: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "grua"
     ], 
     "👫": [
         "burrë", 
@@ -3803,66 +5287,172 @@
         "çift", 
         "grua"
     ], 
-    "👮": [
-        "oficer", 
-        "polic", 
-        "polici"
+    "👮‍♀️": [
+        "oficere", 
+        "oficere policie", 
+        "police", 
+        "grua"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "policë", 
+        "burrë", 
+        "polici", 
+        "oficer", 
+        "oficer policie", 
+        "polic"
+    ], 
+    "👯‍♀️": [
         "vajzë", 
         "grua", 
+        "vesh lepuri", 
         "gra duke festuar", 
+        "festë", 
         "kërcimtare", 
         "lepur", 
-        "vesh"
+        "gra", 
+        "kërcim", 
+        "vesh", 
+        "gra që festojnë"
+    ], 
+    "👯‍♂️": [
+        "vesh lepuri", 
+        "burra që festojnë", 
+        "burra", 
+        "festë", 
+        "kërcim"
     ], 
     "👰": [
+        "nuancë lëkure e errët", 
+        "nuse me vello: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
         "nuse", 
         "nuse me vello", 
+        "nuse me vello: nuancë lëkure gjysmë e çelët", 
+        "nuse me vello: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "nuse me vello: nuancë lëkure zeshkane", 
         "dasmë", 
+        "nuse me vello: nuancë lëkure gjysmë e errët", 
         "vello"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "grua bionde", 
+        "femër", 
+        "grua", 
+        "bionde"
+    ], 
+    "👱‍♂️": [
         "biond", 
-        "njeri biond"
+        "burrë", 
+        "njeri biond", 
+        "mashkull", 
+        "burrë biond"
     ], 
     "👲": [
-        "burrë me kapelë kineze", 
-        "gua pi mao", 
+        "nuancë lëkure e errët", 
         "kapelë", 
-        "burrë"
-    ], 
-    "👳": [
-        "burrë me çallmë", 
         "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "burrë me kapelë kineze: nuancë lëkure e çelët", 
+        "burrë me kapelë kineze: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "burrë me kapelë kineze: nuancë lëkure zeshkane", 
+        "gua pi mao", 
+        "burrë me kapelë kineze: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "burrë me kapelë kineze", 
+        "burrë me kapelë kineze: nuancë lëkure gjysmë e çelët"
+    ], 
+    "👳‍♀️": [
+        "femër", 
+        "vajzë me çallmë", 
+        "grua", 
         "çallmë"
     ], 
-    "👴": [
-        "i vjetër", 
-        "i moshuar", 
+    "👳‍♂️": [
+        "djalë me çallmë", 
+        "burrë me çallmë", 
         "burrë", 
+        "çallmë", 
+        "mashkull"
+    ], 
+    "👴": [
+        "nuancë lëkure e errët", 
+        "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "burrë i moshuar: nuancë lëkure e çelët", 
+        "i moshuar", 
+        "burrë i moshuar: nuancë lëkure gjysmë e çelët", 
+        "i vjetër", 
+        "burrë i moshuar: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "burrë i moshuar: nuancë lëkure zeshkane", 
+        "burrë i moshuar: nuancë lëkure gjysmë e errët", 
         "burrë i moshuar"
     ], 
     "👵": [
-        "grua e moshuar", 
+        "nuancë lëkure e errët", 
         "e moshuar", 
+        "grua", 
+        "nuancë lëkure zeshkane", 
+        "grua e moshuar: nuancë lëkure e errët", 
+        "grua e moshuar: nuancë lëkure gjysmë e çelët", 
+        "grua e moshuar: nuancë lëkure zeshkane", 
+        "grua e moshuar: nuancë lëkure gjysmë e errët", 
+        "grua e moshuar: nuancë lëkure e çelët", 
         "e vjetër", 
-        "grua"
+        "nuancë lëkure e çelët", 
+        "grua e moshuar", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👶": [
         "bebe", 
-        "foshnjë"
+        "nuancë lëkure e errët", 
+        "bebe: nuancë lëkure zeshkane", 
+        "bebe: nuancë lëkure gjysmë e çelët", 
+        "bebe: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "bebe: nuancë lëkure gjysmë e errët", 
+        "foshnjë", 
+        "nuancë lëkure e çelët", 
+        "bebe: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
-    "👷": [
+    "👷‍♀️": [
         "ndërtim", 
-        "punëtor ndërtimi", 
+        "punëtore", 
+        "grua", 
+        "muratore"
+    ], 
+    "👷‍♂️": [
         "kapelë", 
-        "punëtor"
+        "burrë", 
+        "punëtor", 
+        "punëtor ndërtimi", 
+        "murator", 
+        "ndërtim"
     ], 
     "👸": [
+        "nuancë lëkure e errët", 
+        "princeshë: nuancë lëkure e çelët", 
+        "princeshë: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "fantazi", 
+        "përrallë", 
+        "princeshë: nuancë lëkure zeshkane", 
+        "princeshë: nuancë lëkure e errët", 
+        "princeshë: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
         "princeshë", 
-        "përrallë"
+        "nuancë lëkure gjysmë e errët"
     ], 
     "👹": [
         "japoneze", 
@@ -3894,11 +5484,21 @@
     ], 
     "👼": [
         "bebe", 
+        "nuancë lëkure e errët", 
         "fytyrë", 
+        "engjëll bebe: nuancë lëkure e errët", 
+        "nuancë lëkure zeshkane", 
         "engjëll", 
         "engjëll bebe", 
         "fantazi", 
-        "përrallë"
+        "nuancë lëkure e çelët", 
+        "engjëll bebe: nuancë lëkure zeshkane", 
+        "engjëll bebe: nuancë lëkure e çelët", 
+        "engjëll bebe: nuancë lëkure gjysmë e çelët", 
+        "përrallë", 
+        "engjëll bebe: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "👽": [
         "përbindësh", 
@@ -3939,21 +5539,47 @@
         "kafkë", 
         "përrallë"
     ], 
-    "💁": [
-        "dorë", 
+    "💁‍♀️": [
+        "grua që tregon me dorë", 
+        "grua", 
+        "tregues", 
         "informacion", 
-        "aktiv", 
         "personi i sportelit të informacionit", 
-        "ndihmë"
+        "aktiv", 
+        "ndihmë", 
+        "dorë"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "tregues", 
+        "informacion", 
+        "burrë", 
+        "burrë që tregon me dorë"
+    ], 
+    "💂‍♀️": [
+        "rojtare", 
+        "ushtare garde", 
+        "grua"
+    ], 
+    "💂‍♂️": [
         "rojtar", 
+        "burrë", 
+        "gardist", 
         "ushtar garde"
     ], 
     "💃": [
-        "grua", 
+        "nuancë lëkure e errët", 
+        "grua që kërcen: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "grua që kërcen: nuancë lëkure e çelët", 
+        "grua që kërcen", 
+        "grua që kërcen: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
+        "grua që kërcen: nuancë lëkure zeshkane", 
+        "grua që kërcen: nuancë lëkure gjysmë e errët", 
         "kërcim", 
-        "grua që kërcen"
+        "grua"
     ], 
     "💄": [
         "buzëkuq", 
@@ -3961,23 +5587,49 @@
         "makijazh"
     ], 
     "💅": [
+        "nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
         "manikyr", 
+        "manikyr: nuancë lëkure zeshkane", 
         "kujdes", 
         "kozmetikë", 
+        "manikyr: nuancë lëkure gjysmë e errët", 
+        "manikyr: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
         "lyej", 
+        "manikyr: nuancë lëkure gjysmë e çelët", 
+        "manikyr: nuancë lëkure e çelët", 
         "thua"
     ], 
-    "💆": [
-        "masazh", 
+    "💆‍♀️": [
+        "grua", 
         "masazh fytyre", 
+        "grua që i bëhet masazh fytyre", 
+        "masazh", 
+        "fytyrë", 
         "sallon"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "burrë që i bëhet masazh fytyre", 
+        "burrë", 
+        "fytyrë", 
+        "masazh"
+    ], 
+    "💇‍♀️": [
         "berber", 
-        "prerje flokësh", 
+        "grua që i priten flokët", 
         "sallon", 
-        "bukuri"
+        "prerje flokësh", 
+        "bukuri", 
+        "grua"
+    ], 
+    "💇‍♂️": [
+        "prerje flokësh", 
+        "burrë", 
+        "burrë që i priten flokët"
     ], 
     "💈": [
         "berber", 
@@ -4030,23 +5682,11 @@
         "diamant", 
         "i çmuar"
     ], 
-    "💏": [
-        "puthje", 
-        "romancë", 
-        "çift"
-    ], 
     "💐": [
         "romancë", 
         "buqetë", 
         "lule", 
         "bimë"
-    ], 
-    "💑": [
-        "romancë", 
-        "çift me zemër", 
-        "çift", 
-        "dashuri", 
-        "zemër"
     ], 
     "💒": [
         "romancë", 
@@ -4197,9 +5837,19 @@
     "💪": [
         "muskul dykrerësh", 
         "muskul", 
+        "muskuli dykrerësh i mbledhur: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e errët", 
         "muskuli dykrerësh i mbledhur", 
+        "muskuli dykrerësh i mbledhur: nuancë lëkure zeshkane", 
+        "muskuli dykrerësh i mbledhur: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
         "vizatim komik", 
+        "muskuli dykrerësh i mbledhur: nuancë lëkure gjysmë e errët", 
+        "muskuli dykrerësh i mbledhur: nuancë lëkure e çelët", 
         "i mbledhur"
     ], 
     "💫": [
@@ -4710,6 +6360,13 @@
         "shirit", 
         "vhs"
     ], 
+    "📽️": [
+        "video", 
+        "projektor filmi", 
+        "projektor", 
+        "film", 
+        "kinema"
+    ], 
     "📿": [
         "rruzare", 
         "rruaza", 
@@ -5110,6 +6767,17 @@
         "shigjetë", 
         "e kuqe"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "fe"
+    ], 
+    "🕊️": [
+        "paqe", 
+        "zog", 
+        "pëllumb", 
+        "fluturoj"
+    ], 
     "🕋": [
         "mysliman", 
         "qabeja", 
@@ -5364,23 +7032,122 @@
         "12:30", 
         "orë"
     ], 
-    "🕺": [
-        "burrë që kërcen", 
+    "🕯️": [
+        "dritë", 
+        "qiri"
+    ], 
+    "🕰️": [
+        "orë oxhaku", 
+        "orë"
+    ], 
+    "🕳️": [
+        "vrimë"
+    ], 
+    "🕴️": [
+        "biznes", 
         "burrë", 
+        "burrë me kostum që ngrihet", 
+        "kostum"
+    ], 
+    "🕵️‍♂️": [
+        "spiun", 
+        "detektiv"
+    ], 
+    "🕶️": [
+        "syze dielli", 
+        "i errët", 
+        "sy", 
+        "syze"
+    ], 
+    "🕷️": [
+        "insekt", 
+        "merimangë"
+    ], 
+    "🕸️": [
+        "rrjetë merimange", 
+        "merimangë", 
+        "rrjetë"
+    ], 
+    "🕹️": [
+        "lojë", 
+        "levë", 
+        "videolojë"
+    ], 
+    "🕺": [
+        "nuancë lëkure e errët", 
+        "burrë", 
+        "burrë që kërcen: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "burrë që kërcen: nuancë lëkure zeshkane", 
+        "burrë që kërcen", 
+        "burrë që kërcen: nuancë lëkure gjysmë e çelët", 
+        "burrë që kërcen: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "burrë që kërcen: nuancë lëkure e errët", 
         "kërcim"
     ], 
-    "🖕": [
-        "dorë", 
-        "gishti i mesit", 
+    "🖇️": [
+        "lidhje", 
+        "kapëse teli të lidhura", 
+        "kapëse teli"
+    ], 
+    "🖊️": [
+        "stilolaps", 
+        "me sferë"
+    ], 
+    "🖋️": [
+        "stilograf", 
+        "penë"
+    ], 
+    "🖌️": [
+        "pikturë", 
+        "furçë piktori"
+    ], 
+    "🖍️": [
+        "shkumës me ngjyrë"
+    ], 
+    "🖐️": [
+        "e hapur", 
         "gisht", 
-        "trup"
+        "dorë e ngritur me gishtat të hapur", 
+        "i hapur", 
+        "trup", 
+        "dorë"
+    ], 
+    "🖕": [
+        "nuancë lëkure e errët", 
+        "gishti i mesit", 
+        "gishti i mesit: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "gisht", 
+        "nuancë lëkure zeshkane", 
+        "trup", 
+        "gishti i mesit: nuancë lëkure zeshkane", 
+        "gishti i mesit: nuancë lëkure gjysmë e errët", 
+        "gishti i mesit: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "gishti i mesit: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e errët"
     ], 
     "🖖": [
+        "nuancë lëkure e errët", 
+        "përshëndetja e vulkanit: nuancë lëkure e çelët", 
+        "përshëndetja e vulkanit: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e çelët", 
         "gisht", 
+        "nuancë lëkure zeshkane", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "përshëndetja e vulkanit: nuancë lëkure gjysmë e çelët", 
         "spock", 
+        "përshëndetja e vulkanit: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
         "dorë", 
         "vulkan", 
+        "përshëndetja e vulkanit: nuancë lëkure gjysmë e errët", 
         "përshëndetja e vulkanit"
     ], 
     "🖤": [
@@ -5389,6 +7156,123 @@
         "e zezë", 
         "i keq", 
         "zemër"
+    ], 
+    "🖥️": [
+        "kompjuter", 
+        "kompjuter desktop", 
+        "desktop"
+    ], 
+    "🖨️": [
+        "kompjuter", 
+        "printer"
+    ], 
+    "🖱️": [
+        "kompjuter", 
+        "miu i kompjuterit"
+    ], 
+    "🖲️": [
+        "kompjuter", 
+        "sfera rrotulluese"
+    ], 
+    "🖼️": [
+        "art", 
+        "kornizë", 
+        "kornizë me pikturë", 
+        "pikturë", 
+        "imazh", 
+        "muze"
+    ], 
+    "🗂️": [
+        "indeks", 
+        "ndarëse", 
+        "ndarëse skedash", 
+        "skedë", 
+        "letër"
+    ], 
+    "🗃️": [
+        "letër", 
+        "kuti", 
+        "skedar", 
+        "kuti skedarësh"
+    ], 
+    "🗄️": [
+        "sirtar dokumentesh", 
+        "sirtar", 
+        "dokument", 
+        "skedar"
+    ], 
+    "🗑️": [
+        "kosh basketbolli"
+    ], 
+    "🗒️": [
+        "spirale", 
+        "bllok shënimesh me spirale", 
+        "bllok", 
+        "shënim", 
+        "spiral"
+    ], 
+    "🗓️": [
+        "kalendar", 
+        "spirale", 
+        "bllok", 
+        "kalendar me spirale"
+    ], 
+    "🗜️": [
+        "ngjeshje", 
+        "morsë", 
+        "vegël", 
+        "shtrënguese", 
+        "ngjeshëse"
+    ], 
+    "🗝️": [
+        "i vjetër", 
+        "kyç", 
+        "ide", 
+        "çelës", 
+        "çelës i vjetër"
+    ], 
+    "🗞️": [
+        "gazetë e mbledhur rrotull", 
+        "gazetë", 
+        "rrotull", 
+        "lajme", 
+        "letër"
+    ], 
+    "🗡️": [
+        "thikë", 
+        "kamë", 
+        "armë"
+    ], 
+    "🗣️": [
+        "fytyrë", 
+        "flas", 
+        "që flet", 
+        "kokë", 
+        "siluetë", 
+        "kokë që flet"
+    ], 
+    "🗨️": [
+        "të folurit", 
+        "flluskë e të folurit majtas", 
+        "dialog"
+    ], 
+    "🗯️": [
+        "flluskë", 
+        "balonë", 
+        "i inatosur", 
+        "i zemëruar", 
+        "flluskë zemërimi djathtas"
+    ], 
+    "🗳️": [
+        "kuti votimi me votë", 
+        "votë", 
+        "votim", 
+        "kuti"
+    ], 
+    "🗺️": [
+        "botë", 
+        "harta e botës", 
+        "hartë"
     ], 
     "🗻": [
         "Fuxhi", 
@@ -5921,25 +7805,53 @@
         "fytyrë me sytë që rrotullohen", 
         "fytyrë"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "gjest", 
         "i ndaluar", 
         "ndalohet", 
+        "grua", 
+        "grua që bën gjestin e ndaluar", 
         "«jo» me gjeste", 
+        "jo në rregull", 
         "jo", 
         "nuk", 
-        "dorë"
+        "dorë", 
+        "e ndaluar"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "gjest", 
+        "e ndaluar", 
+        "jo në rregull", 
+        "burrë", 
+        "burrë që bën gjestin e ndaluar"
+    ], 
+    "🙆‍♀️": [
+        "gjest", 
+        "ok", 
+        "grua", 
+        "«në rregull» me gjeste", 
+        "dorë", 
+        "në rregull", 
+        "grua që bën gjestin në rregull"
+    ], 
+    "🙆‍♂️": [
         "dorë", 
         "gjest", 
-        "në rregull", 
-        "ok", 
-        "«në rregull» me gjeste"
+        "burrë që bën gjestin në rregull", 
+        "burrë", 
+        "në rregull"
     ], 
-    "🙇": [
+    "🙇‍♀️": [
+        "gjest", 
+        "grua që përkulet për falje", 
+        "ndjesë", 
+        "falje"
+    ], 
+    "🙇‍♂️": [
         "gjest", 
         "përkulje", 
+        "ndjesë", 
+        "burrë që përkulet për falje", 
         "njeri i përkulur", 
         "shfajësim", 
         "fal", 
@@ -5982,45 +7894,92 @@
         "fol", 
         "nuk"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
         "gjest", 
+        "grua", 
         "njeri i gëzuar që ngre dorën", 
         "e ngritur", 
+        "grua që ngre dorën", 
+        "dorë e ngritur", 
         "i gëzuar", 
         "dorë", 
         "ngre"
     ], 
+    "🙋‍♂️": [
+        "dorë e ngritur", 
+        "gjest", 
+        "burrë", 
+        "burrë që ngre dorën"
+    ], 
     "🙌": [
         "gjest", 
+        "nuancë lëkure e errët", 
+        "njeri që ngre duart: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "trup", 
         "festim", 
         "e ngritur", 
+        "njeri që ngre duart: nuancë lëkure zeshkane", 
         "festë", 
+        "njeri që ngre duart: nuancë lëkure gjysmë e errët", 
+        "njeri që ngre duart: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
         "dorë", 
         "urra", 
-        "njeri që ngre duart"
+        "njeri që ngre duart: nuancë lëkure e çelët", 
+        "njeri që ngre duart", 
+        "nuancë lëkure gjysmë e errët"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "gjest", 
+        "grua", 
+        "njeri i vrenjtur", 
         "vrenjtje", 
-        "njeri i vrenjtur"
+        "grua e vrenjtur", 
+        "e vrenjtur"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
         "gjest", 
+        "burrë", 
+        "i vrenjtur", 
+        "burrë i vrenjtur"
+    ], 
+    "🙎‍♀️": [
+        "gjest", 
+        "grua", 
+        "grua e pakënaqur", 
+        "var buzët", 
         "njeri i pakënaqur", 
         "i pakënaqur"
     ], 
+    "🙎‍♂️": [
+        "gjest", 
+        "var buzët", 
+        "burrë", 
+        "burrë i pakënaqur"
+    ], 
     "🙏": [
         "gjest", 
+        "nuancë lëkure e errët", 
         "faleminderit", 
+        "nuancë lëkure gjysmë e çelët", 
         "përkulem", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "duar të mbledhura: nuancë lëkure gjysmë e çelët", 
+        "duar të mbledhura: nuancë lëkure e çelët", 
         "lutem", 
         "duar të mbledhura", 
         "kërkoj", 
+        "duar të mbledhura: nuancë lëkure zeshkane", 
+        "duar të mbledhura: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
         "dorë", 
         "të mbledhura", 
-        "lutje"
+        "duar të mbledhura: nuancë lëkure gjysmë e errët", 
+        "lutje", 
+        "nuancë lëkure zeshkane"
     ], 
     "🚀": [
         "mjet komunikimi", 
@@ -6237,10 +8196,20 @@
         "udhëtar", 
         "varkë"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "grua që vozit barkë", 
+        "vozitje", 
+        "grua", 
+        "barkë"
+    ], 
+    "🚣‍♂️": [
+        "vozitje", 
+        "burrë", 
+        "barkë", 
         "varkë", 
-        "varkë me rrema", 
-        "mjet"
+        "burrë që vozit barkë", 
+        "mjet", 
+        "varkë me rrema"
     ], 
     "🚤": [
         "mjet lundrimi", 
@@ -6339,21 +8308,48 @@
         "mjet", 
         "nuk"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "ngas", 
+        "grua që nget biçikletë", 
         "biçikletë", 
-        "çiklist"
+        "grua"
     ], 
-    "🚵": [
-        "çiklist në mal", 
+    "🚴‍♂️": [
+        "burrë që nget biçikletë", 
+        "burrë", 
         "biçikletë", 
         "çiklist", 
-        "mal"
+        "ngas"
     ], 
-    "🚶": [
+    "🚵‍♀️": [
+        "grua që bën çiklizëm malor", 
+        "mal", 
+        "biçikletë", 
+        "çiklist", 
+        "grua"
+    ], 
+    "🚵‍♂️": [
+        "çiklist në mal", 
+        "burrë", 
+        "burrë që bën çiklizëm malor", 
+        "biçikletë", 
+        "mal", 
+        "çiklist"
+    ], 
+    "🚶‍♀️": [
+        "grua që ecën", 
+        "ngjitje", 
+        "ecje", 
+        "grua"
+    ], 
+    "🚶‍♂️": [
+        "burrë që ecën", 
+        "burrë", 
         "shëtitje", 
         "ecje", 
-        "këmbësor", 
         "ekskursion", 
+        "ngjitje", 
+        "këmbësor", 
         "ec"
     ], 
     "🚷": [
@@ -6409,10 +8405,20 @@
         "dush"
     ], 
     "🛀": [
-        "vaskë", 
+        "nuancë lëkure e errët", 
         "njeri që lahet", 
+        "njeri që lahet: nuancë lëkure gjysmë e çelët", 
+        "njeri që lahet: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "vaskë", 
+        "nuancë lëkure gjysmë e errët", 
+        "larje", 
+        "njeri që lahet: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "njeri që lahet: nuancë lëkure zeshkane", 
         "banjë", 
-        "larje"
+        "njeri që lahet: nuancë lëkure e çelët"
     ], 
     "🛁": [
         "vaskë"
@@ -6437,11 +8443,44 @@
         "bagazh i lënë", 
         "dollap"
     ], 
-    "🛌": [
-        "gjumë", 
-        "njeri në krevat", 
+    "🛋️": [
         "hotel", 
+        "divan", 
+        "divan dhe llambë", 
+        "llambë"
+    ], 
+    "🛌": [
+        "nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "njeri në krevat: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "hotel", 
+        "njeri në krevat: nuancë lëkure gjysmë e errët", 
+        "njeri në krevat: nuancë lëkure e errët", 
+        "njeri në krevat: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
+        "gjumë", 
+        "njeri në krevat: nuancë lëkure e çelët", 
+        "njeri në krevat", 
         "fle"
+    ], 
+    "🛍️": [
+        "qese dyqani", 
+        "blerje", 
+        "hotel", 
+        "dyqan", 
+        "qese"
+    ], 
+    "🛎️": [
+        "zile", 
+        "hotel", 
+        "zile shërbimi"
+    ], 
+    "🛏️": [
+        "gjumë", 
+        "hotel", 
+        "krevat"
     ], 
     "🛐": [
         "vend kulti", 
@@ -6462,6 +8501,41 @@
         "karrocë dore", 
         "karrocë pazari"
     ], 
+    "🛠️": [
+        "çekiç dhe çelës", 
+        "vegël", 
+        "çelës", 
+        "çekiç"
+    ], 
+    "🛡️": [
+        "armë", 
+        "mburojë"
+    ], 
+    "🛢️": [
+        "fuçi", 
+        "naftë", 
+        "fuçi karburanti"
+    ], 
+    "🛣️": [
+        "autostradë", 
+        "rrugë"
+    ], 
+    "🛤️": [
+        "shina", 
+        "hekurudhë", 
+        "tren"
+    ], 
+    "🛥️": [
+        "mjet lundrimi", 
+        "varkë", 
+        "motobarkë", 
+        "barkë"
+    ], 
+    "🛩️": [
+        "aeroplan i vogël", 
+        "mjet fluturimi", 
+        "aeroplan"
+    ], 
     "🛫": [
         "regjistrim", 
         "mjet fluturimi", 
@@ -6476,6 +8550,17 @@
         "mbërritje aeroplani", 
         "aeroplan", 
         "në mbërritje"
+    ], 
+    "🛰️": [
+        "mjet komunikimi", 
+        "hapësirë", 
+        "satelit"
+    ], 
+    "🛳️": [
+        "anije", 
+        "mjet lundrimi", 
+        "udhëtar", 
+        "anije udhëtarësh"
     ], 
     "🛴": [
         "shtyrje me këmbë", 
@@ -6552,32 +8637,82 @@
         "fytyrë që përqafon"
     ], 
     "🤘": [
+        "nuancë lëkure e errët", 
         "brirë", 
         "rok", 
+        "nuancë lëkure gjysmë e çelët", 
         "gisht", 
+        "nuancë lëkure zeshkane", 
+        "shenja e brirëve: nuancë lëkure gjysmë e errët", 
         "trup", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "shenja e brirëve: nuancë lëkure gjysmë e çelët", 
         "shenja e brirëve", 
-        "dorë"
+        "dorë", 
+        "shenja e brirëve: nuancë lëkure e çelët", 
+        "shenja e brirëve: nuancë lëkure zeshkane", 
+        "shenja e brirëve: nuancë lëkure e errët"
     ], 
     "🤙": [
+        "nuancë lëkure e errët", 
+        "dorë me shenjën “më telefono”: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "dorë me shenjën “më telefono”: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "dorë me shenjën “më telefono”: nuancë lëkure e çelët", 
+        "dorë me shenjën “më telefono”: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
         "dorë", 
         "dorë me shenjën “më telefono”", 
-        "telefono"
+        "telefono", 
+        "dorë me shenjën “më telefono”: nuancë lëkure gjysmë e çelët"
     ], 
     "🤚": [
-        "kurriz dore", 
+        "nuancë lëkure e errët", 
         "dorë e ngritur nga ana e kurrizit", 
-        "i ngritur"
+        "nuancë lëkure gjysmë e çelët", 
+        "dorë e ngritur nga ana e kurrizit: nuancë lëkure e errët", 
+        "nuancë lëkure zeshkane", 
+        "dorë e ngritur nga ana e kurrizit: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "dorë e ngritur nga ana e kurrizit: nuancë lëkure gjysmë e errët", 
+        "i ngritur", 
+        "nuancë lëkure e çelët", 
+        "kurriz dore", 
+        "dorë e ngritur nga ana e kurrizit: nuancë lëkure gjysmë e çelët", 
+        "dorë e ngritur nga ana e kurrizit: nuancë lëkure zeshkane"
     ], 
     "🤛": [
-        "grusht i majtë në anën e përparme", 
+        "nuancë lëkure e errët", 
         "grusht", 
-        "i majtë"
+        "i majtë", 
+        "grusht i majtë në anën e përparme: nuancë lëkure e errët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "grusht i majtë në anën e përparme: nuancë lëkure zeshkane", 
+        "grusht i majtë në anën e përparme", 
+        "nuancë lëkure e çelët", 
+        "grusht i majtë në anën e përparme: nuancë lëkure gjysmë e çelët", 
+        "grusht i majtë në anën e përparme: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "grusht i majtë në anën e përparme: nuancë lëkure e çelët"
     ], 
     "🤜": [
+        "nuancë lëkure e errët", 
         "grusht", 
-        "i djathtë", 
-        "grusht i djathtë në anën e përparme"
+        "grusht i djathtë në anën e përparme: nuancë lëkure e errët", 
+        "grusht i djathtë në anën e përparme: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "grusht i djathtë në anën e përparme: nuancë lëkure e çelët", 
+        "nuancë lëkure zeshkane", 
+        "grusht i djathtë në anën e përparme: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "grusht i djathtë në anën e përparme", 
+        "grusht i djathtë në anën e përparme: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "i djathtë"
     ], 
     "🤝": [
         "dorë", 
@@ -6587,16 +8722,36 @@
         "takim"
     ], 
     "🤞": [
-        "dorë", 
-        "gishta të kryqëzuar", 
-        "kryqëzim", 
+        "nuancë lëkure e errët", 
+        "gishta të kryqëzuar: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët", 
         "gisht", 
-        "fat"
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "fat", 
+        "gishta të kryqëzuar", 
+        "gishta të kryqëzuar: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "kryqëzim", 
+        "gishta të kryqëzuar: nuancë lëkure e çelët", 
+        "gishta të kryqëzuar: nuancë lëkure e errët", 
+        "gishta të kryqëzuar: nuancë lëkure zeshkane"
     ], 
     "🤟": [
-        "dorë", 
+        "nuancë lëkure e errët", 
         "\"Të dua\"", 
-        "gjesti \"të dua\""
+        "nuancë lëkure gjysmë e çelët", 
+        "gjesti \"të dua\"", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "gjesti \"të dua\": nuancë lëkure zeshkane", 
+        "gjesti \"të dua\": nuancë lëkure e çelët", 
+        "gjesti \"të dua\": nuancë lëkure gjysmë e çelët", 
+        "gjesti \"të dua\": nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "dorë", 
+        "gjesti \"të dua\": nuancë lëkure e errët"
     ], 
     "🤠": [
         "fytyrë me kapele lopari", 
@@ -6637,12 +8792,34 @@
         "fytyrë mashtrimi"
     ], 
     "🤦": [
+        "nuancë lëkure e errët", 
         "mosbesim", 
+        "fytyrë me pëllëmbë në ballë: nuancë lëkure gjysmë e errët", 
         "fytyrë", 
+        "nuancë lëkure zeshkane", 
+        "fytyrë me pëllëmbë në ballë: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
         "pëllëmbë në ballë", 
         "fytyrë me pëllëmbë në ballë", 
+        "fytyrë me pëllëmbë në ballë: nuancë lëkure zeshkane", 
         "nervozizëm", 
-        "pezmatim"
+        "fytyrë me pëllëmbë në ballë: nuancë lëkure e çelët", 
+        "fytyrë me pëllëmbë në ballë: nuancë lëkure e errët", 
+        "pezmatim", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët"
+    ], 
+    "🤦‍♀️": [
+        "mosbesim", 
+        "burrë", 
+        "grua që vë dorën në kokë", 
+        "pëllëmbë në ballë"
+    ], 
+    "🤦‍♂️": [
+        "mosbesim", 
+        "burrë", 
+        "pëllëmbë në ballë", 
+        "burrë që vë dorën në kokë"
     ], 
     "🤧": [
         "fytyrë me teshtitje", 
@@ -6692,60 +8869,200 @@
         "i tronditur"
     ], 
     "🤰": [
-        "grua shtatzënë", 
+        "nuancë lëkure e errët", 
         "grua", 
-        "shtatzënë"
+        "nuancë lëkure zeshkane", 
+        "grua shtatzënë: nuancë lëkure zeshkane", 
+        "grua shtatzënë: nuancë lëkure gjysmë e errët", 
+        "grua shtatzënë: nuancë lëkure e errët", 
+        "shtatzënë", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "grua shtatzënë: nuancë lëkure gjysmë e çelët", 
+        "grua shtatzënë: nuancë lëkure e çelët", 
+        "grua shtatzënë", 
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "🤱": [
+        "nuancë lëkure e errët", 
+        "gji: nuancë lëkure gjysmë e errët", 
+        "gji: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
         "ushqim me gji", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "gji", 
         "foshnjë", 
-        "gji"
+        "gji: nuancë lëkure gjysmë e çelët", 
+        "gji: nuancë lëkure e çelët", 
+        "nuancë lëkure e çelët", 
+        "gji: nuancë lëkure zeshkane"
     ], 
     "🤲": [
-        "pëllëmbë të bashkuara", 
-        "lutje", 
+        "nuancë lëkure e errët", 
+        "pëllëmbë të bashkuara: nuancë lëkure gjysmë e errët", 
         "besimtar", 
+        "pëllëmbë të bashkuara: nuancë lëkure e çelët", 
+        "pëllëmbë të bashkuara: nuancë lëkure e errët", 
+        "pëllëmbë të bashkuara: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "pëllëmbë të bashkuara", 
+        "pëllëmbë të bashkuara: nuancë lëkure zeshkane", 
+        "nuancë lëkure e çelët", 
+        "lutje", 
+        "nuancë lëkure gjysmë e çelët", 
         "falje"
     ], 
     "🤳": [
-        "foto vetjake", 
-        "kamerë", 
+        "nuancë lëkure e errët", 
+        "foto vetjake: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e çelët", 
+        "sellfi", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
         "vetjake", 
         "telefon", 
-        "sellfi"
+        "foto vetjake: nuancë lëkure e çelët", 
+        "foto vetjake: nuancë lëkure e errët", 
+        "kamerë", 
+        "foto vetjake: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "foto vetjake", 
+        "foto vetjake: nuancë lëkure gjysmë e çelët"
     ], 
     "🤴": [
-        "princ"
+        "nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "princ: nuancë lëkure zeshkane", 
+        "princ", 
+        "princ: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "princ: nuancë lëkure gjysmë e çelët", 
+        "princ: nuancë lëkure gjysmë e errët", 
+        "princ: nuancë lëkure e çelët"
     ], 
     "🤵": [
-        "burrë me kostum", 
+        "nuancë lëkure e errët", 
+        "burrë me kostum: nuancë lëkure e çelët", 
         "burrë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "burrë me kostum: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "burrë me kostum: nuancë lëkure zeshkane", 
+        "burrë me kostum", 
         "dhëndër", 
-        "kostum"
+        "kostum", 
+        "burrë me kostum: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "burrë me kostum: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët"
     ], 
     "🤶": [
+        "nuancë lëkure e errët", 
         "krishtlindje", 
+        "gjyshe krishtlindjesh", 
+        "gjyshe krishtlindjesh: nuancë lëkure zeshkane", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "gjyshe krishtlindjesh: nuancë lëkure gjysmë e errët", 
+        "gjyshe krishtlindjesh: nuancë lëkure e errët", 
+        "gjyshe krishtlindjesh: nuancë lëkure e çelët", 
+        "gjyshe krishtlindjesh: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
         "gjyshe", 
-        "gjyshe krishtlindjesh"
+        "nuancë lëkure gjysmë e çelët"
     ], 
     "🤷": [
+        "nuancë lëkure e errët", 
+        "ngritje supesh: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "indiferencë", 
+        "ngritje supesh: nuancë lëkure e çelët", 
+        "ngritje supesh", 
+        "ngritje supesh: nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure e çelët", 
+        "ngritje supesh: nuancë lëkure zeshkane", 
+        "ngritje supesh: nuancë lëkure gjysmë e errët", 
+        "dyshime", 
+        "injorancë"
+    ], 
+    "🤷‍♀️": [
+        "grua që ngre supet", 
         "ngritje supesh", 
         "dyshime", 
-        "injorancë", 
+        "grua", 
+        "indiferencë"
+    ], 
+    "🤷‍♂️": [
+        "ngritje supesh", 
+        "burrë që ngre supet", 
+        "burrë", 
+        "dyshime", 
         "indiferencë"
     ], 
     "🤸": [
+        "nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "kapërdimje: nuancë lëkure zeshkane", 
+        "kapërdimje: nuancë lëkure gjysmë e errët", 
         "person", 
+        "nuancë lëkure e çelët", 
+        "kapërdimje: nuancë lëkure e çelët", 
+        "sport", 
+        "kapërdimje: nuancë lëkure e errët", 
+        "gjimnastikë", 
+        "kapërdimje", 
+        "kapërdimje: nuancë lëkure gjysmë e çelët"
+    ], 
+    "🤸‍♀️": [
+        "sport", 
+        "grua që bën kapërdimje", 
+        "gjimnastikë", 
+        "kapërdimje", 
+        "grua"
+    ], 
+    "🤸‍♂️": [
+        "burrë që bën kapërdimje", 
+        "burrë", 
         "sport", 
         "gjimnastikë", 
         "kapërdimje"
     ], 
     "🤹": [
+        "nuancë lëkure e errët", 
         "aftësi", 
-        "zhonglim", 
-        "baraspeshim", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "zhongler: nuancë lëkure gjysmë e çelët", 
+        "zhongler: nuancë lëkure gjysmë e errët", 
+        "zhongler: nuancë lëkure e çelët", 
+        "zhongler", 
         "shkathtësi", 
-        "zhongler"
+        "zhongler: nuancë lëkure e errët", 
+        "baraspeshim", 
+        "zhonglim", 
+        "nuancë lëkure e çelët", 
+        "zhongler: nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët"
+    ], 
+    "🤹‍♀️": [
+        "grua që zhonglon", 
+        "sport", 
+        "grua", 
+        "zhonglim"
+    ], 
+    "🤹‍♂️": [
+        "burrë", 
+        "sport", 
+        "zhonglim", 
+        "burrë që zhonglon"
     ], 
     "🤺": [
         "skermist", 
@@ -6760,16 +9077,72 @@
         "mundës", 
         "person"
     ], 
-    "🤽": [
-        "person", 
+    "🤼‍♀️": [
+        "mundje", 
         "sport", 
-        "vaterpolo"
+        "grua", 
+        "gra që bëjnë mundje"
+    ], 
+    "🤼‍♂️": [
+        "sport", 
+        "mundje", 
+        "burrë", 
+        "burra që bëjnë mundje"
+    ], 
+    "🤽": [
+        "nuancë lëkure e errët", 
+        "vaterpolo: nuancë lëkure zeshkane", 
+        "vaterpolo: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "vaterpolo", 
+        "vaterpolo: nuancë lëkure e çelët", 
+        "vaterpolo: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure zeshkane", 
+        "person", 
+        "nuancë lëkure e çelët", 
+        "vaterpolo: nuancë lëkure gjysmë e çelët", 
+        "sport"
+    ], 
+    "🤽‍♀️": [
+        "vaterpolo", 
+        "gra që luajnë vaterpolo", 
+        "sport", 
+        "grua"
+    ], 
+    "🤽‍♂️": [
+        "sport", 
+        "vaterpolo", 
+        "burrë", 
+        "burra që luajnë vaterpolo"
     ], 
     "🤾": [
+        "nuancë lëkure e errët", 
+        "hendboll: nuancë lëkure e çelët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "hendboll: nuancë lëkure zeshkane", 
+        "top", 
+        "hendboll: nuancë lëkure gjysmë e errët", 
         "person", 
+        "hendboll: nuancë lëkure gjysmë e çelët", 
+        "hendboll: nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
         "hendboll", 
         "sport", 
-        "top"
+        "nuancë lëkure gjysmë e errët"
+    ], 
+    "🤾‍♀️": [
+        "hendboll", 
+        "gra që luajnë hendboll", 
+        "sport", 
+        "grua"
+    ], 
+    "🤾‍♂️": [
+        "hendboll", 
+        "burrë", 
+        "sport", 
+        "burra që luajnë hendboll"
     ], 
     "🥀": [
         "vyshkje", 
@@ -7119,72 +9492,180 @@
         "fytyrë me monokël"
     ], 
     "🧑": [
-        "adoleshente", 
+        "nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "fëmijë i rritur: nuancë lëkure e errët", 
+        "nuancë lëkure zeshkane", 
         "fëmijë i rritur", 
-        "i rritur", 
+        "fëmijë i rritur: nuancë lëkure gjysmë e çelët", 
         "e rritur", 
+        "fëmijë i rritur: nuancë lëkure zeshkane", 
+        "fëmijë i rritur: nuancë lëkure e çelët", 
+        "adoleshente", 
+        "nuancë lëkure e çelët", 
+        "i rritur", 
+        "fëmijë i rritur: nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure gjysmë e errët", 
         "adoleshent"
     ], 
     "🧒": [
+        "nuancë lëkure e errët", 
         "fëmijë", 
-        "minoren"
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "fëmijë: nuancë lëkure e errët", 
+        "fëmijë: nuancë lëkure zeshkane", 
+        "fëmijë: nuancë lëkure gjysmë e errët", 
+        "minoren", 
+        "nuancë lëkure e çelët", 
+        "fëmijë: nuancë lëkure e çelët", 
+        "fëmijë: nuancë lëkure gjysmë e çelët"
     ], 
     "🧓": [
+        "nuancë lëkure e errët", 
+        "i ri", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "i ri: nuancë lëkure e çelët", 
+        "nuancë lëkure e çelët", 
+        "i ri: nuancë lëkure gjysmë e errët", 
+        "i ri: nuancë lëkure zeshkane", 
         "i rritur", 
-        "i ri"
+        "i ri: nuancë lëkure e errët", 
+        "i ri: nuancë lëkure gjysmë e çelët"
     ], 
     "🧔": [
         "mjekër", 
-        "njëri me mjekër"
+        "njëri me mjekër: nuancë lëkure gjysmë e errët", 
+        "njëri me mjekër: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
+        "nuancë lëkure gjysmë e errët", 
+        "njëri me mjekër", 
+        "nuancë lëkure e errët", 
+        "nuancë lëkure e çelët", 
+        "njëri me mjekër: nuancë lëkure gjysmë e çelët", 
+        "njëri me mjekër: nuancë lëkure e çelët", 
+        "njëri me mjekër: nuancë lëkure zeshkane"
     ], 
     "🧕": [
         "grua me shami", 
+        "nuancë lëkure e errët", 
+        "mbulesë", 
+        "nuancë lëkure gjysmë e çelët", 
+        "nuancë lëkure zeshkane", 
         "tikël", 
         "hixhab", 
-        "mbulesë", 
-        "shami"
+        "grua me shami: nuancë lëkure zeshkane", 
+        "grua me shami: nuancë lëkure e errët", 
+        "nuancë lëkure gjysmë e errët", 
+        "nuancë lëkure e çelët", 
+        "grua me shami: nuancë lëkure gjysmë e çelët", 
+        "grua me shami: nuancë lëkure gjysmë e errët", 
+        "shami", 
+        "grua me shami: nuancë lëkure e çelët"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
         "dhomë me avull", 
+        "grua në dhomë me avull", 
+        "saunë"
+    ], 
+    "🧖‍♂️": [
+        "dhomë me avull", 
+        "burrë në dhomë me avull", 
         "saunë", 
         "person në dhomë me avull"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "alpinist", 
-        "person që ngjitet"
+        "person që ngjitet", 
+        "grua që ngjitet"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "alpinist", 
+        "burrë që ngjitet"
+    ], 
+    "🧘‍♀️": [
+        "grua në pozicion ëndërrues", 
         "jogë", 
         "meditim", 
         "person në pozicion ëndërrues"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "meditim", 
+        "jogë", 
+        "burrë në pozicion ëndërrues"
+    ], 
+    "🧙‍♀️": [
         "shtrigë", 
+        "magjistare", 
         "magjistricë", 
         "magjistar"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "magjistar", 
+        "shtrigan", 
+        "burrë magjistar"
+    ], 
+    "🧚‍♀️": [
         "zanë", 
         "Oberoni", 
+        "grua zanë", 
         "Puku", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "burrë zanë", 
+        "Oberoni", 
+        "Puku"
+    ], 
+    "🧛‍♀️": [
         "Drakula", 
+        "grua vampir", 
         "vampir", 
+        "e pavdekur", 
         "i pavdekur"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Drakula", 
+        "burrë vampir", 
+        "i pavdekur"
+    ], 
+    "🧜‍♀️": [
+        "sirenë deti", 
+        "grua sirenë"
+    ], 
+    "🧜‍♂️": [
+        "Triton", 
+        "burrë sirenë", 
         "sirenë deti"
     ], 
-    "🧝": [
-        "kukudh", 
+    "🧝‍♀️": [
+        "grua kukudh", 
         "magjik"
     ], 
-    "🧞": [
+    "🧝‍♂️": [
+        "kukudh", 
+        "burrë kukudh", 
+        "magjik"
+    ], 
+    "🧞‍♀️": [
+        "grua xhind", 
         "xhind"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "burrë xhind", 
+        "xhind"
+    ], 
+    "🧟‍♀️": [
+        "i pa vdekur", 
+        "i vdekur që ecën", 
+        "grua zombi"
+    ], 
+    "🧟‍♂️": [
+        "burrë zombi", 
         "i pa vdekur", 
         "zombi", 
         "i vdekur që ecën"

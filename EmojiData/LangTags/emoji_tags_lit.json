@@ -1,4 +1,119 @@
 {
+    "#️⃣": [
+        "mygtukas: #", 
+        "mygtukas"
+    ], 
+    "*️⃣": [
+        "mygtukas: *", 
+        "mygtukas"
+    ], 
+    "0️⃣": [
+        "mygtukas: 0", 
+        "mygtukas"
+    ], 
+    "1️⃣": [
+        "mygtukas: 1", 
+        "mygtukas"
+    ], 
+    "2️⃣": [
+        "mygtukas: 2", 
+        "mygtukas"
+    ], 
+    "3️⃣": [
+        "mygtukas: 3", 
+        "mygtukas"
+    ], 
+    "4️⃣": [
+        "mygtukas: 4", 
+        "mygtukas"
+    ], 
+    "5️⃣": [
+        "mygtukas: 5", 
+        "mygtukas"
+    ], 
+    "6️⃣": [
+        "mygtukas: 6", 
+        "mygtukas"
+    ], 
+    "7️⃣": [
+        "mygtukas: 7", 
+        "mygtukas"
+    ], 
+    "8️⃣": [
+        "mygtukas: 8", 
+        "mygtukas"
+    ], 
+    "9️⃣": [
+        "mygtukas: 9", 
+        "mygtukas"
+    ], 
+    "©️": [
+        "autorių teisės"
+    ], 
+    "®️": [
+        "užregistruota"
+    ], 
+    "‼️": [
+        "skyryba", 
+        "du šauktukai", 
+        "žymė", 
+        "šauktukas"
+    ], 
+    "⁉️": [
+        "skyryba", 
+        "šauktukas ir klaustukas", 
+        "klausimas", 
+        "žymė", 
+        "šauktukas"
+    ], 
+    "™️": [
+        "prekės ženklas", 
+        "žymė"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informacija"
+    ], 
+    "↔️": [
+        "rodyklė", 
+        "rodyklė į kairę ir į dešinę"
+    ], 
+    "↕️": [
+        "rodyklė", 
+        "rodyklė į viršų ir į apačią"
+    ], 
+    "↖️": [
+        "rodyklė į viršų ir į kairę", 
+        "šiaurės vakarai", 
+        "rodyklė", 
+        "kryptis"
+    ], 
+    "↗️": [
+        "šiaurės rytai", 
+        "rodyklė", 
+        "kryptis", 
+        "rodyklė į viršų ir į dešinę"
+    ], 
+    "↘️": [
+        "rodyklė į apačią ir į dešinę", 
+        "rodyklė", 
+        "kryptis", 
+        "pietryčiai"
+    ], 
+    "↙️": [
+        "rodyklė į apačią ir į kairę", 
+        "rodyklė", 
+        "kryptis", 
+        "pietvakariai"
+    ], 
+    "↩️": [
+        "rodyklė", 
+        "rodyklė į dešinę, užlenkta į kairę"
+    ], 
+    "↪️": [
+        "rodyklė", 
+        "rodyklė į kairę, užlenkta į dešinę"
+    ], 
     "⌚": [
         "laikrodis"
     ], 
@@ -6,6 +121,14 @@
         "laikmatis", 
         "smėlio laikrodis", 
         "smėlis"
+    ], 
+    "⌨️": [
+        "klaviatūra", 
+        "kompiuteris"
+    ], 
+    "⏏️": [
+        "išmetimo mygtukas", 
+        "išmesti"
     ], 
     "⏩": [
         "du kartus", 
@@ -31,16 +154,100 @@
         "į apačią", 
         "dviguba"
     ], 
+    "⏭️": [
+        "trikampis", 
+        "rodyklė", 
+        "kitas takelis", 
+        "kitas vaizdas"
+    ], 
+    "⏮️": [
+        "ankstesnis takelis", 
+        "ankstesnis vaizdas", 
+        "paskutinis takelis", 
+        "rodyklė", 
+        "trikampis"
+    ], 
+    "⏯️": [
+        "rodyklė", 
+        "pristabdyti", 
+        "paleisti arba pristabdyti", 
+        "paleisti", 
+        "trikampis", 
+        "dešinė"
+    ], 
     "⏰": [
         "laikrodis", 
         "žadintuvas", 
         "signalas"
+    ], 
+    "⏱️": [
+        "chronometras", 
+        "laikrodis"
+    ], 
+    "⏲️": [
+        "laikmatis", 
+        "laikrodis"
     ], 
     "⏳": [
         "laikmatis", 
         "smėlio laikrodis", 
         "smėlis", 
         "smėlio laikrodis su krentančiu smėliu"
+    ], 
+    "⏸️": [
+        "pristabdyti", 
+        "juosta", 
+        "pauzė", 
+        "vertikali", 
+        "dviguba"
+    ], 
+    "⏹️": [
+        "stabdyti", 
+        "kvadratas", 
+        "sustabdymo mygtukas"
+    ], 
+    "⏺️": [
+        "įrašymo mygtukas", 
+        "ratas", 
+        "įrašas"
+    ], 
+    "Ⓜ️": [
+        "raidė „M“", 
+        "m", 
+        "apskritimas"
+    ], 
+    "▪️": [
+        "kvadratas", 
+        "geometrija", 
+        "juodas mažas kvadratas"
+    ], 
+    "▫️": [
+        "baltas mažas kvadratas", 
+        "kvadratas", 
+        "geometrija"
+    ], 
+    "▶️": [
+        "trikampis", 
+        "rodyklė", 
+        "dešinė", 
+        "paleisti"
+    ], 
+    "◀️": [
+        "trikampis", 
+        "atvirkštinė tvarka", 
+        "kairė", 
+        "rodyklė", 
+        "atvirkštinė"
+    ], 
+    "◻️": [
+        "baltas vidutinis kvadratas", 
+        "kvadratas", 
+        "geometrija"
+    ], 
+    "◼️": [
+        "juodas vidutinis kvadratas", 
+        "kvadratas", 
+        "geometrija"
     ], 
     "◽": [
         "kvadratas", 
@@ -51,6 +258,39 @@
         "kvadratas", 
         "juodas vidutiniškai mažas kvadratas", 
         "geometrija"
+    ], 
+    "☀️": [
+        "spinduliai", 
+        "saulėta", 
+        "saulė", 
+        "šviesu"
+    ], 
+    "☁️": [
+        "debesis", 
+        "oras"
+    ], 
+    "☂️": [
+        "skėtis", 
+        "drabužiai", 
+        "lietus"
+    ], 
+    "☃️": [
+        "sniego senis", 
+        "sniegas", 
+        "šaltis"
+    ], 
+    "☄️": [
+        "kometa", 
+        "kosmosas"
+    ], 
+    "☎️": [
+        "telefonas"
+    ], 
+    "☑️": [
+        "balsavimo laukelis su varnele", 
+        "balsavimas", 
+        "laukelis", 
+        "varnelė"
     ], 
     "☔": [
         "skėtis", 
@@ -67,6 +307,84 @@
         "garuoja", 
         "karštas gėrimas", 
         "gerti"
+    ], 
+    "☘️": [
+        "augalas", 
+        "trilapis dobilas"
+    ], 
+    "☝️": [
+        "pirštas", 
+        "delnu atsukta aukštyn pirštu rodanti ranka", 
+        "indeksas", 
+        "rodyti", 
+        "ranka", 
+        "į viršų"
+    ], 
+    "☠️": [
+        "mirtis", 
+        "veidas", 
+        "sukryžiuoti kaulai", 
+        "monstras", 
+        "kaukolė", 
+        "kaukolė ir sukryžiuoti kaulai"
+    ], 
+    "☢️": [
+        "radioaktyvu", 
+        "ženklas"
+    ], 
+    "☣️": [
+        "biorizika", 
+        "ženklas"
+    ], 
+    "☦️": [
+        "religija", 
+        "kryžius", 
+        "ortodoksų kryžius", 
+        "krikščionis"
+    ], 
+    "☪️": [
+        "islamas", 
+        "žvaigždė ir pusmėnulis", 
+        "musulmonas", 
+        "religija"
+    ], 
+    "☮️": [
+        "taikos simbolis", 
+        "taika"
+    ], 
+    "☯️": [
+        "religija", 
+        "taoizmas", 
+        "In ir Jang", 
+        "in", 
+        "jang", 
+        "tao"
+    ], 
+    "☸️": [
+        "Dharmos ratas", 
+        "dharma", 
+        "religija", 
+        "ratas", 
+        "budistas"
+    ], 
+    "☹️": [
+        "paniuręs veidas", 
+        "paniuręs", 
+        "veidas"
+    ], 
+    "☺️": [
+        "besišypsantis veidas", 
+        "šypsena", 
+        "atsipalaidavęs", 
+        "veidas"
+    ], 
+    "♀️": [
+        "moteris", 
+        "moteriškos lyties ženklas"
+    ], 
+    "♂️": [
+        "vyras", 
+        "vyriškos lyties ženklas"
     ], 
     "♈": [
         "avinas", 
@@ -123,14 +441,93 @@
         "zodiakas", 
         "žuvys"
     ], 
+    "♠️": [
+        "žaidimas", 
+        "kortos", 
+        "pikai"
+    ], 
+    "♣️": [
+        "kryžiai", 
+        "žaidimas", 
+        "kortos"
+    ], 
+    "♥️": [
+        "žaidimas", 
+        "kortos", 
+        "širdys"
+    ], 
+    "♦️": [
+        "kortos", 
+        "žaidimas", 
+        "būgnai", 
+        "būgnas"
+    ], 
+    "♨️": [
+        "karštosios versmės", 
+        "karšta", 
+        "garai", 
+        "versmės"
+    ], 
+    "♻️": [
+        "perdirbti", 
+        "perdirbimo simbolis"
+    ], 
     "♿": [
         "pasiekiamumas", 
         "neįgaliojo vežimėlio simbolis"
+    ], 
+    "⚒️": [
+        "plaktuvas ir kirstuvas", 
+        "įrankis", 
+        "plaktukas", 
+        "kirstuvas"
     ], 
     "⚓": [
         "laivas", 
         "įrankis", 
         "inkaras"
+    ], 
+    "⚔️": [
+        "kardai", 
+        "sukryžiuoti", 
+        "sukryžiuoti kardai", 
+        "ginklai"
+    ], 
+    "⚕️": [
+        "medicinos simbolis", 
+        "personalas", 
+        "medicina", 
+        "asklepijus"
+    ], 
+    "⚖️": [
+        "teisingumas", 
+        "svoris", 
+        "zodiakas", 
+        "pusiausvyra", 
+        "įrankis", 
+        "svarstyklės", 
+        "svarstyklės su lėkštėmis"
+    ], 
+    "⚗️": [
+        "distiliavimo indas", 
+        "chemija", 
+        "įrankis"
+    ], 
+    "⚙️": [
+        "krumpliaratis", 
+        "įrankis"
+    ], 
+    "⚛️": [
+        "atomo simbolis", 
+        "ateistas", 
+        "atomas"
+    ], 
+    "⚜️": [
+        "lelijos simbolis", 
+        "lelija"
+    ], 
+    "⚠️": [
+        "įspėjimas"
     ], 
     "⚡": [
         "žaibas", 
@@ -148,6 +545,16 @@
         "rutulys", 
         "geometrija", 
         "juodas rutulys"
+    ], 
+    "⚰️": [
+        "mirtis", 
+        "karstas"
+    ], 
+    "⚱️": [
+        "mirtis", 
+        "laidotuvės", 
+        "urna", 
+        "laidojimo urna"
     ], 
     "⚽": [
         "futbolas", 
@@ -169,11 +576,34 @@
         "saulė už debesų", 
         "saulė"
     ], 
+    "⛈️": [
+        "žaibas", 
+        "debesis", 
+        "debesis su žaibu ir lietumi", 
+        "lietus"
+    ], 
     "⛎": [
         "gyvatnešis", 
         "zodiakas", 
         "gyvatė", 
         "nešėjas"
+    ], 
+    "⛏️": [
+        "įrankis", 
+        "kasimas", 
+        "kirstuvas"
+    ], 
+    "⛑️": [
+        "veidas", 
+        "šalmas", 
+        "kryžius", 
+        "šalmas su baltu kryžiumi", 
+        "pagalba", 
+        "kepurė"
+    ], 
+    "⛓️": [
+        "grandinė", 
+        "grandinės"
     ], 
     "⛔": [
         "uždrausta", 
@@ -183,12 +613,27 @@
         "draudžiama", 
         "eismas"
     ], 
+    "⛩️": [
+        "religija", 
+        "šventykla", 
+        "šintoizmas", 
+        "Šintoizmo šventykla"
+    ], 
     "⛪": [
         "religija", 
         "kryžius", 
         "pastatas", 
         "bažnyčia", 
         "krikščionis"
+    ], 
+    "⛰️": [
+        "kalnas"
+    ], 
+    "⛱️": [
+        "skėtis", 
+        "skėtis ant žemės", 
+        "lietus", 
+        "saulė"
     ], 
     "⛲": [
         "fontanas"
@@ -198,12 +643,31 @@
         "golfas", 
         "vėliava skylutėje"
     ], 
+    "⛴️": [
+        "keltas", 
+        "keleivis", 
+        "valtis"
+    ], 
     "⛵": [
         "jūra", 
         "jachta", 
         "kurortas", 
         "valtis", 
         "burlaivis"
+    ], 
+    "⛷️": [
+        "sniegas", 
+        "slidininkas", 
+        "slidinėti"
+    ], 
+    "⛸️": [
+        "pačiūžos", 
+        "ledas", 
+        "čiuožinėti"
+    ], 
+    "⛹️‍♂️": [
+        "žmogus su kamuoliu", 
+        "kamuolys"
     ], 
     "⛺": [
         "palapinė", 
@@ -216,26 +680,120 @@
         "dujos", 
         "degalai"
     ], 
+    "✂️": [
+        "žirklės", 
+        "įrankis"
+    ], 
     "✅": [
         "balta paryškinta varnelė", 
         "žymė", 
         "varnelė"
     ], 
+    "✈️": [
+        "lėktuvas"
+    ], 
+    "✉️": [
+        "vokas", 
+        "el. laiškas", 
+        "el. paštas"
+    ], 
     "✊": [
         "smūgis", 
         "kumštis", 
+        "6 odos tipas", 
+        "sugniaužta", 
+        "iškeltas kumštis: 6 odos tipas", 
+        "iškeltas kumštis: 1 ir 2 odos tipai", 
+        "iškeltas kumštis: 3 odos tipas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "4 odos tipas", 
+        "iškeltas kumštis: 4 odos tipas", 
+        "iškeltas kumštis: 5 odos tipas", 
         "ranka", 
-        "iškeltas kumštis", 
-        "sugniaužta"
+        "1 ir 2 odos tipai", 
+        "iškeltas kumštis"
     ], 
     "✋": [
+        "iškelta ranka: 3 odos tipas", 
+        "4 odos tipas", 
+        "iškelta ranka: 5 odos tipas", 
+        "iškelta ranka: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "iškelta ranka: 4 odos tipas", 
+        "5 odos tipas", 
+        "iškelta ranka: 6 odos tipas", 
+        "6 odos tipas", 
         "iškelta ranka", 
+        "ranka", 
+        "1 ir 2 odos tipai"
+    ], 
+    "✌️": [
+        "pergalės ženklą rodanti ranka", 
+        "ranka", 
+        "pergalė", 
+        "v"
+    ], 
+    "✍️": [
+        "rašanti ranka", 
+        "rašyti", 
         "ranka"
+    ], 
+    "✏️": [
+        "pieštukas"
+    ], 
+    "✒️": [
+        "rašiklis", 
+        "smaigalys", 
+        "juoda plunksna"
+    ], 
+    "✔️": [
+        "žymė", 
+        "paryškinta varnelė", 
+        "varnelė"
+    ], 
+    "✖️": [
+        "x", 
+        "daugyba", 
+        "paryškintas daugybos ženklas", 
+        "dauginti", 
+        "atšaukti"
+    ], 
+    "✝️": [
+        "religija", 
+        "kryžius", 
+        "Romos katalikų kryžius", 
+        "krikščionis"
+    ], 
+    "✡️": [
+        "religija", 
+        "žvaigždė", 
+        "Dovydo žvaigždė", 
+        "žydų", 
+        "žydas", 
+        "Dovydas"
     ], 
     "✨": [
         "kibirkštis", 
         "žvaigždė", 
         "kibirkštėlės"
+    ], 
+    "✳️": [
+        "aštuoniakampė žvaigždutė", 
+        "žvaigždutė"
+    ], 
+    "✴️": [
+        "aštuoniakampė žvaigždė", 
+        "žvaigždė"
+    ], 
+    "❄️": [
+        "snaigė", 
+        "sniegas", 
+        "šaltis"
+    ], 
+    "❇️": [
+        "kibirkštėlė", 
+        "kibirkštis"
     ], 
     "❌": [
         "žymė", 
@@ -275,6 +833,17 @@
         "žymė", 
         "šauktukas"
     ], 
+    "❣️": [
+        "storas širdelės formos šauktukas", 
+        "skyryba", 
+        "ženklas", 
+        "širdis", 
+        "šauktukas"
+    ], 
+    "❤️": [
+        "raudona širdelė", 
+        "širdis"
+    ], 
     "➕": [
         "pliusas", 
         "matematika", 
@@ -290,6 +859,13 @@
         "paryškintas dalybos ženklas", 
         "matematika"
     ], 
+    "➡️": [
+        "rodyklė į dešinę", 
+        "rytai", 
+        "rodyklė", 
+        "kryptis", 
+        "koordinatė"
+    ], 
     "➰": [
         "kilpa", 
         "raityti", 
@@ -300,6 +876,37 @@
         "raityti", 
         "dviguba kilpelė", 
         "dviguba"
+    ], 
+    "⤴️": [
+        "rodyklė", 
+        "rodyklė į dešinę, užlenkta į viršų"
+    ], 
+    "⤵️": [
+        "rodyklė į dešinę, užlenkta į apačią", 
+        "rodyklė", 
+        "į apačią"
+    ], 
+    "⬅️": [
+        "rodyklė", 
+        "kryptis", 
+        "koordinatė", 
+        "vakarai", 
+        "rodyklė į kairę"
+    ], 
+    "⬆️": [
+        "rodyklė", 
+        "kryptis", 
+        "koordinatė", 
+        "šiaurė", 
+        "rodyklė į viršų"
+    ], 
+    "⬇️": [
+        "rodyklė", 
+        "į apačią", 
+        "rodyklė į apačią", 
+        "pietūs", 
+        "kryptis", 
+        "koordinatė"
     ], 
     "⬛": [
         "juodas didelis kvadratas", 
@@ -320,6 +927,29 @@
         "ryškus didelis ratas", 
         "o"
     ], 
+    "〰️": [
+        "vingiuotas", 
+        "skyryba", 
+        "vingiuotas brūkšnys", 
+        "brūkšnys"
+    ], 
+    "〽️": [
+        "žymė", 
+        "dalis", 
+        "dalių apkeitimo ženklas"
+    ], 
+    "㊗️": [
+        "hieroglifas", 
+        "japonų", 
+        "sveikinimas", 
+        "pasveikinimą reiškiantis hieroglifas"
+    ], 
+    "㊙️": [
+        "hieroglifas", 
+        "japonų", 
+        "paslaptis", 
+        "paslaptį reiškiantis hieroglifas"
+    ], 
     "🀄": [
         "madžongas", 
         "žaidimas", 
@@ -330,6 +960,25 @@
         "žaidimas", 
         "juokdarys", 
         "kortos"
+    ], 
+    "🅰️": [
+        "a", 
+        "raudona", 
+        "mygtukas „A“ (raudona)"
+    ], 
+    "🅱️": [
+        "mygtukas „B“ (raudona)", 
+        "b", 
+        "raudona"
+    ], 
+    "🅾️": [
+        "raudona", 
+        "simbolis „O“ (raudona)", 
+        "o"
+    ], 
+    "🅿️": [
+        "automobilių stovėjimas", 
+        "simbolis „P“"
     ], 
     "🆎": [
         "ab", 
@@ -1417,6 +2066,12 @@
         "čia reiškiantis hieroglifas", 
         "čia"
     ], 
+    "🈂️": [
+        "hieroglifas", 
+        "japonų", 
+        "paslaugos mokestis", 
+        "paslaugos mokestį reiškiantis hieroglifas"
+    ], 
     "🈚": [
         "hieroglifas", 
         "japonų", 
@@ -1458,6 +2113,12 @@
         "japonų", 
         "ne nemokamas", 
         "ne nemokamą reiškiantis hieroglifas"
+    ], 
+    "🈷️": [
+        "hieroglifas", 
+        "japonų", 
+        "mėnesio suma", 
+        "mėnesio sumą reiškiantis hieroglifas"
     ], 
     "🈸": [
         "hieroglifas", 
@@ -1679,6 +2340,58 @@
         "krintanti", 
         "žvaigždė"
     ], 
+    "🌡️": [
+        "termometras", 
+        "oras"
+    ], 
+    "🌤️": [
+        "saulė už nedidelio debesies", 
+        "debesis", 
+        "saulė"
+    ], 
+    "🌥️": [
+        "debesis", 
+        "saulė už didelio debesies", 
+        "saulė"
+    ], 
+    "🌦️": [
+        "saulė už debesies, iš kurio lyja", 
+        "debesis", 
+        "lietus", 
+        "saulė"
+    ], 
+    "🌧️": [
+        "debesis", 
+        "debesis, iš kurio lyja", 
+        "lietus"
+    ], 
+    "🌨️": [
+        "debesis", 
+        "sniegas", 
+        "šaltis", 
+        "debesis, iš kurio sninga"
+    ], 
+    "🌩️": [
+        "debesis su žaibu", 
+        "žaibas", 
+        "debesis"
+    ], 
+    "🌪️": [
+        "tornadas", 
+        "debesis", 
+        "sūkurys"
+    ], 
+    "🌫️": [
+        "ūkana", 
+        "debesis"
+    ], 
+    "🌬️": [
+        "vėjo veidas", 
+        "debesis", 
+        "pūsti", 
+        "veidas", 
+        "vėjas"
+    ], 
     "🌭": [
         "dešrelė", 
         "dešrainis"
@@ -1718,6 +2431,11 @@
     "🌵": [
         "kaktusas", 
         "augalas"
+    ], 
+    "🌶️": [
+        "pipiras", 
+        "aštrus", 
+        "aštrusis pipiras"
     ], 
     "🌷": [
         "tulpė", 
@@ -2115,6 +2833,13 @@
         "pienas", 
         "kūdikis"
     ], 
+    "🍽️": [
+        "šakutė ir peilis su lėkšte", 
+        "lėkštė", 
+        "maisto gaminimas", 
+        "peilis", 
+        "šakutė"
+    ], 
     "🍾": [
         "kamštis", 
         "baras", 
@@ -2159,9 +2884,19 @@
         "Kalėdos"
     ], 
     "🎅": [
-        "šventė", 
-        "Kalėdų senelis", 
+        "4 odos tipas", 
+        "Kalėdų senelis: 6 odos tipas", 
+        "Kalėdų senelis: 4 odos tipas", 
+        "3 odos tipas", 
+        "Kalėdų senelis: 1 ir 2 odos tipai", 
+        "5 odos tipas", 
         "tėvas", 
+        "6 odos tipas", 
+        "Kalėdų senelis: 5 odos tipas", 
+        "šventė", 
+        "Kalėdų senelis: 3 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "Kalėdų senelis", 
         "senelis", 
         "Kalėdos"
     ], 
@@ -2250,6 +2985,48 @@
         "kepurė", 
         "šventė", 
         "baigimas"
+    ], 
+    "🎖️": [
+        "kariuomenės medalis", 
+        "kariuomenė", 
+        "medalis", 
+        "šventė"
+    ], 
+    "🎗️": [
+        "kaspinas", 
+        "šventė", 
+        "priminimas", 
+        "atminimo kaspinas"
+    ], 
+    "🎙️": [
+        "studija", 
+        "mikrofonas", 
+        "muzika", 
+        "studijos mikrofonas"
+    ], 
+    "🎚️": [
+        "lygio slankiklis", 
+        "muzika", 
+        "lygis", 
+        "slankiklis"
+    ], 
+    "🎛️": [
+        "valdymas", 
+        "muzika", 
+        "rankenos", 
+        "valdymo rankenos"
+    ], 
+    "🎞️": [
+        "filmas", 
+        "juosta", 
+        "filmo kadrai", 
+        "kadrai", 
+        "kinas"
+    ], 
+    "🎟️": [
+        "bilietas", 
+        "įėjimo bilietai", 
+        "įėjimas"
     ], 
     "🎠": [
         "karuselės arkliukas", 
@@ -2435,18 +3212,46 @@
         "langeliai"
     ], 
     "🏂": [
-        "sniegas", 
+        "4 odos tipas", 
         "slidinėti", 
+        "snieglenčių sporto mėgėjas: 4 odos tipas", 
+        "snieglenčių sporto mėgėjas: 1 ir 2 odos tipai", 
+        "snieglenčių sporto mėgėjas: 3 odos tipas", 
+        "snieglenčių sporto mėgėjas: 5 odos tipas", 
         "snieglenčių sporto mėgėjas", 
+        "3 odos tipas", 
+        "sniegas", 
+        "6 odos tipas", 
+        "5 odos tipas", 
+        "snieglenčių sporto mėgėjas: 6 odos tipas", 
+        "1 ir 2 odos tipai", 
         "snieglentė"
     ], 
-    "🏃": [
-        "maratonas", 
-        "bėgiojimas", 
-        "bėgikas"
+    "🏃‍♀️": [
+        "bėganti moteris", 
+        "moteris", 
+        "lenktynės", 
+        "bėgimas", 
+        "maratonas"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "bėgiojimas", 
+        "maratonas", 
+        "lenktynės", 
+        "bėgikas", 
+        "vyras", 
+        "bėgantis vyras", 
+        "bėgimas"
+    ], 
+    "🏄‍♀️": [
         "banglenčių sportas", 
+        "moteris", 
+        "banglentininkė"
+    ], 
+    "🏄‍♂️": [
+        "banglenčių sportas", 
+        "vyras banglentininkas", 
+        "vyras", 
         "banglentininkas"
     ], 
     "🏅": [
@@ -2458,10 +3263,20 @@
         "trofėjus"
     ], 
     "🏇": [
-        "arklių lenktynės", 
+        "4 odos tipas", 
+        "arklių lenktynės: 1 ir 2 odos tipai", 
+        "arklių lenktynės: 6 odos tipas", 
+        "jojikas", 
+        "arklių lenktynės: 5 odos tipas", 
         "arklys", 
         "lenktynės", 
-        "jojikas"
+        "3 odos tipas", 
+        "arklių lenktynės", 
+        "5 odos tipas", 
+        "arklių lenktynės: 3 odos tipas", 
+        "6 odos tipas", 
+        "arklių lenktynės: 4 odos tipas", 
+        "1 ir 2 odos tipai"
     ], 
     "🏈": [
         "futbolas", 
@@ -2475,9 +3290,36 @@
         "regbis", 
         "kamuolys"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "moteris", 
+        "plaukikė", 
+        "plaukimas"
+    ], 
+    "🏊‍♂️": [
+        "vyras plaukikas", 
         "plaukikas", 
+        "vyras", 
+        "plaukimas", 
         "plaukti"
+    ], 
+    "🏋️‍♂️": [
+        "svoris", 
+        "svorių kilnotojas", 
+        "kilnotojas"
+    ], 
+    "🏌️‍♂️": [
+        "kamuoliukas", 
+        "golfo žaidėjas", 
+        "golfas"
+    ], 
+    "🏍️": [
+        "motociklas", 
+        "lenktynės"
+    ], 
+    "🏎️": [
+        "lenktynės", 
+        "automobilis", 
+        "lenktyninis automobilis"
     ], 
     "🏏": [
         "kriketas", 
@@ -2512,6 +3354,55 @@
         "raketė", 
         "lazda", 
         "kamuolys"
+    ], 
+    "🏔️": [
+        "kalnas", 
+        "šaltis", 
+        "sniegas", 
+        "kalnas su snieguota viršūne"
+    ], 
+    "🏕️": [
+        "stovyklavimas"
+    ], 
+    "🏖️": [
+        "skėtis", 
+        "paplūdimys", 
+        "paplūdimys ir skėtis"
+    ], 
+    "🏗️": [
+        "pastato konstrukcija", 
+        "klasikinis"
+    ], 
+    "🏘️": [
+        "namai"
+    ], 
+    "🏙️": [
+        "miesto vaizdas", 
+        "miestas"
+    ], 
+    "🏚️": [
+        "namas", 
+        "apleistas", 
+        "apleistas pastatas"
+    ], 
+    "🏛️": [
+        "klasikinis pastatas", 
+        "klasikinis"
+    ], 
+    "🏜️": [
+        "dykuma"
+    ], 
+    "🏝️": [
+        "atoki sala", 
+        "dykuma", 
+        "sala"
+    ], 
+    "🏞️": [
+        "nacionalinis parkas", 
+        "parkas"
+    ], 
+    "🏟️": [
+        "stadionas"
     ], 
     "🏠": [
         "pastatas", 
@@ -2599,6 +3490,14 @@
         "pilis", 
         "pastatas"
     ], 
+    "🏳️": [
+        "mojavimas", 
+        "balta vėliava"
+    ], 
+    "🏳️‍🌈": [
+        "vaivorykštė", 
+        "vaivorykštinė vėliava"
+    ], 
     "🏴": [
         "mojavimas", 
         "juoda vėliava"
@@ -2614,6 +3513,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Velsas", 
         "vėliava"
+    ], 
+    "🏵️": [
+        "rozetė", 
+        "augalas"
+    ], 
+    "🏷️": [
+        "etiketė"
     ], 
     "🏸": [
         "žaidimas", 
@@ -2950,18 +3856,45 @@
         "pėdos", 
         "pėdsakai"
     ], 
+    "🐿️": [
+        "voverė"
+    ], 
     "👀": [
         "akys", 
         "akis", 
         "veidas"
     ], 
-    "👂": [
-        "ausis", 
+    "👁️": [
+        "akis", 
         "kūnas"
     ], 
+    "👂": [
+        "4 odos tipas", 
+        "ausis: 4 odos tipas", 
+        "ausis: 6 odos tipas", 
+        "ausis: 5 odos tipas", 
+        "kūnas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "ausis: 1 ir 2 odos tipai", 
+        "ausis", 
+        "ausis: 3 odos tipas", 
+        "1 ir 2 odos tipai"
+    ], 
     "👃": [
+        "4 odos tipas", 
         "nosis", 
-        "kūnas"
+        "kūnas", 
+        "nosis: 6 odos tipas", 
+        "nosis: 1 ir 2 odos tipai", 
+        "nosis: 3 odos tipas", 
+        "3 odos tipas", 
+        "nosis: 5 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "nosis: 4 odos tipas"
     ], 
     "👄": [
         "lūpos", 
@@ -2972,76 +3905,186 @@
         "kūnas"
     ], 
     "👆": [
+        "4 odos tipas", 
         "pirštas", 
         "kūnas", 
+        "delnu nusukta aukštyn pirštu rodanti ranka: 4 odos tipas", 
         "rodyti", 
+        "delnu nusukta aukštyn pirštu rodanti ranka: 5 odos tipas", 
+        "3 odos tipas", 
+        "delnu nusukta aukštyn pirštu rodanti ranka: 1 ir 2 odos tipai", 
         "indeksas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
         "delnu nusukta aukštyn pirštu rodanti ranka", 
         "ranka", 
-        "į viršų"
+        "1 ir 2 odos tipai", 
+        "į viršų", 
+        "delnu nusukta aukštyn pirštu rodanti ranka: 3 odos tipas", 
+        "delnu nusukta aukštyn pirštu rodanti ranka: 6 odos tipas"
     ], 
     "👇": [
+        "4 odos tipas", 
         "pirštas", 
+        "delnu nusukta žemyn pirštu rodanti ranka: 4 odos tipas", 
         "į apačią", 
+        "delnu nusukta žemyn pirštu rodanti ranka: 5 odos tipas", 
+        "delnu nusukta žemyn pirštu rodanti ranka: 6 odos tipas", 
         "delnu nusukta žemyn pirštu rodanti ranka", 
+        "delnu nusukta žemyn pirštu rodanti ranka: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "delnu nusukta žemyn pirštu rodanti ranka: 3 odos tipas", 
         "indeksas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
         "rodyti", 
-        "ranka"
+        "ranka", 
+        "1 ir 2 odos tipai"
     ], 
     "👈": [
-        "į kairę pirštu rodanti ranka", 
+        "4 odos tipas", 
         "pirštas", 
+        "į kairę pirštu rodanti ranka: 3 odos tipas", 
+        "į kairę pirštu rodanti ranka: 5 odos tipas", 
+        "į kairę pirštu rodanti ranka: 1 ir 2 odos tipai", 
+        "į kairę pirštu rodanti ranka: 4 odos tipas", 
+        "3 odos tipas", 
+        "į kairę pirštu rodanti ranka: 6 odos tipas", 
         "indeksas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "rodyti", 
+        "į kairę pirštu rodanti ranka", 
         "ranka", 
-        "rodyti"
+        "1 ir 2 odos tipai"
     ], 
     "👉": [
-        "ranka", 
+        "į dešinę pirštu rodanti ranka: 1 ir 2 odos tipai", 
         "pirštas", 
-        "indeksas", 
         "į dešinę pirštu rodanti ranka", 
-        "rodyti"
+        "į dešinę pirštu rodanti ranka: 4 odos tipas", 
+        "3 odos tipas", 
+        "į dešinę pirštu rodanti ranka: 5 odos tipas", 
+        "į dešinę pirštu rodanti ranka: 6 odos tipas", 
+        "į dešinę pirštu rodanti ranka: 3 odos tipas", 
+        "indeksas", 
+        "5 odos tipas", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "rodyti", 
+        "ranka", 
+        "1 ir 2 odos tipai"
     ], 
     "👊": [
         "smūgis", 
         "kumštis", 
-        "ranka", 
+        "sugniaužtas", 
+        "artėjantis kumštis: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
         "artėjantis kumštis", 
-        "sugniaužtas"
+        "artėjantis kumštis: 3 odos tipas", 
+        "artėjantis kumštis: 5 odos tipas", 
+        "artėjantis kumštis: 4 odos tipas", 
+        "5 odos tipas", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "ranka", 
+        "1 ir 2 odos tipai", 
+        "artėjantis kumštis: 6 odos tipas"
     ], 
     "👋": [
-        "ranka", 
-        "mojuoti", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "3 odos tipas", 
         "mojuoja", 
-        "mojuojanti ranka"
+        "mojuojanti ranka: 5 odos tipas", 
+        "mojuojanti ranka: 3 odos tipas", 
+        "5 odos tipas", 
+        "mojuojanti ranka: 1 ir 2 odos tipai", 
+        "mojuojanti ranka", 
+        "ranka", 
+        "1 ir 2 odos tipai", 
+        "mojuoti", 
+        "mojuojanti ranka: 6 odos tipas", 
+        "mojuojanti ranka: 4 odos tipas"
     ], 
     "👌": [
-        "gerai", 
+        "4 odos tipas", 
         "GERAI ženklas rankomis", 
-        "ranka"
+        "GERAI ženklas rankomis: 3 odos tipas", 
+        "GERAI ženklas rankomis: 6 odos tipas", 
+        "3 odos tipas", 
+        "GERAI ženklas rankomis: 4 odos tipas", 
+        "GERAI ženklas rankomis: 5 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "gerai", 
+        "ranka", 
+        "1 ir 2 odos tipai", 
+        "GERAI ženklas rankomis: 1 ir 2 odos tipai"
     ], 
     "👍": [
+        "4 odos tipas", 
         "liuks", 
-        "ranka", 
-        "į viršų", 
+        "nykštys į viršų: 1 ir 2 odos tipai", 
         "nykštys", 
-        "nykštys į viršų"
+        "nykštys į viršų: 3 odos tipas", 
+        "3 odos tipas", 
+        "nykštys į viršų: 4 odos tipas", 
+        "nykštys į viršų: 5 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "nykštys į viršų", 
+        "ranka", 
+        "1 ir 2 odos tipai", 
+        "į viršų", 
+        "nykštys į viršų: 6 odos tipas"
     ], 
     "👎": [
+        "4 odos tipas", 
+        "nykštys į apačią: 1 ir 2 odos tipai", 
+        "nykštys į apačią: 6 odos tipas", 
+        "6 odos tipas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "nykštys į apačią", 
+        "nykštys į apačią: 3 odos tipas", 
         "blogai", 
+        "nykštys į apačią: 5 odos tipas", 
         "ranka", 
+        "1 ir 2 odos tipai", 
         "nykštys", 
-        "nykštys į apačią"
+        "nykštys į apačią: 4 odos tipas"
     ], 
     "👏": [
-        "plojančios rankos", 
+        "4 odos tipas", 
         "ploti", 
-        "rankos"
+        "plojančios rankos: 6 odos tipas", 
+        "rankos", 
+        "plojančios rankos: 5 odos tipas", 
+        "3 odos tipas", 
+        "plojančios rankos", 
+        "plojančios rankos: 1 ir 2 odos tipai", 
+        "plojančios rankos: 3 odos tipas", 
+        "6 odos tipas", 
+        "5 odos tipas", 
+        "plojančios rankos: 4 odos tipas", 
+        "1 ir 2 odos tipai"
     ], 
     "👐": [
-        "atviros rankos", 
+        "4 odos tipas", 
+        "atviros rankos: 1 ir 2 odos tipai", 
+        "6 odos tipas", 
         "rankos", 
-        "atviros"
+        "atviros rankos", 
+        "atviros rankos: 3 odos tipas", 
+        "3 odos tipas", 
+        "atviros rankos: 6 odos tipas", 
+        "atviros", 
+        "atviros rankos: 5 odos tipas", 
+        "5 odos tipas", 
+        "atviros rankos: 4 odos tipas", 
+        "1 ir 2 odos tipai"
     ], 
     "👑": [
         "karūna", 
@@ -3159,61 +4202,193 @@
         "biustas"
     ], 
     "👦": [
+        "4 odos tipas", 
+        "berniukas: 6 odos tipas", 
+        "6 odos tipas", 
         "berniukas", 
+        "3 odos tipas", 
+        "berniukas: 5 odos tipas", 
+        "5 odos tipas", 
+        "berniukas: 1 ir 2 odos tipai", 
+        "berniukas: 4 odos tipas", 
+        "berniukas: 3 odos tipas", 
+        "1 ir 2 odos tipai", 
         "jaunas"
     ], 
     "👧": [
+        "mergaitė: 1 ir 2 odos tipai", 
+        "mergaitė: 3 odos tipas", 
         "mergelė", 
+        "jauna", 
         "zodiakas", 
+        "3 odos tipas", 
+        "mergaitė: 5 odos tipas", 
+        "mergaitė: 6 odos tipas", 
+        "mergaitė: 4 odos tipas", 
+        "5 odos tipas", 
+        "4 odos tipas", 
         "mergaitė", 
-        "jauna"
+        "6 odos tipas", 
+        "1 ir 2 odos tipai"
     ], 
     "👨": [
+        "4 odos tipas", 
+        "vyras: 3 odos tipas", 
+        "3 odos tipas", 
+        "vyras", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "vyras: 5 odos tipas", 
+        "vyras: 1 ir 2 odos tipai", 
+        "1 ir 2 odos tipai", 
+        "vyras: 6 odos tipas", 
+        "vyras: 4 odos tipas"
+    ], 
+    "👨‍⚕️": [
+        "sveikata", 
+        "gydytojas", 
+        "terapeutas", 
+        "medikas", 
+        "vyras", 
+        "slaugytojas"
+    ], 
+    "👨‍⚖️": [
+        "svarstyklės", 
+        "vyras", 
+        "teisingumas", 
+        "teisėjas"
+    ], 
+    "👨‍✈️": [
+        "pilotas", 
+        "lėktuvas", 
+        "vyras"
+    ], 
+    "👨‍❤️‍👨": [
+        "pora", 
+        "pora su širdele", 
+        "meilė", 
+        "pora su širdele: vyras vyras", 
+        "vyras"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "pora", 
+        "bučinys", 
+        "bučinys: vyras vyras", 
         "vyras"
     ], 
     "👨‍🌾": [
-        "sodininkas", 
+        "4 odos tipas", 
+        "ūkininkas: 6 odos tipas", 
         "darbininkas", 
+        "1 ir 2 odos tipai", 
+        "ūkininkas: 5 odos tipas", 
+        "3 odos tipas", 
+        "vyras", 
+        "5 odos tipas", 
         "ūkininkas", 
-        "vyras"
+        "6 odos tipas", 
+        "ūkininkas: 1 ir 2 odos tipai", 
+        "ūkininkas: 3 odos tipas", 
+        "sodininkas", 
+        "ūkininkas: 4 odos tipas"
     ], 
     "👨‍🍳": [
-        "šefas", 
+        "4 odos tipas", 
+        "virėjas: 1 ir 2 odos tipai", 
         "virėjas", 
-        "vyras"
+        "virėjas: 3 odos tipas", 
+        "virėjas: 4 odos tipas", 
+        "3 odos tipas", 
+        "vyras", 
+        "5 odos tipas", 
+        "šefas", 
+        "6 odos tipas", 
+        "virėjas: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "virėjas: 6 odos tipas"
     ], 
     "👨‍🎓": [
+        "4 odos tipas", 
+        "studentas: 1 ir 2 odos tipai", 
+        "studentas: 3 odos tipas", 
+        "studentas: 4 odos tipas", 
         "studentas", 
+        "3 odos tipas", 
         "vyras", 
+        "studentas: 5 odos tipas", 
+        "5 odos tipas", 
+        "studentas: 6 odos tipas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
         "absolventas"
     ], 
     "👨‍🎤": [
+        "4 odos tipas", 
+        "dainininkas: 5 odos tipas", 
         "žvaigždė", 
+        "dainininkas: 3 odos tipas", 
         "dainininkas", 
         "linksmintojas", 
+        "3 odos tipas", 
         "vyras", 
         "daininkas", 
+        "5 odos tipas", 
         "aktorius", 
-        "rokas"
+        "rokas", 
+        "6 odos tipas", 
+        "dainininkas: 1 ir 2 odos tipai", 
+        "1 ir 2 odos tipai", 
+        "dainininkas: 4 odos tipas", 
+        "dainininkas: 6 odos tipas"
     ], 
     "👨‍🎨": [
         "paletė", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "dailininkas: 5 odos tipas", 
+        "dailininkas: 3 odos tipas", 
+        "3 odos tipas", 
+        "vyras", 
+        "5 odos tipas", 
+        "dailininkas: 6 odos tipas", 
+        "dailininkas: 1 ir 2 odos tipai", 
+        "dailininkas: 4 odos tipas", 
         "dailininkas", 
-        "vyras"
+        "1 ir 2 odos tipai"
     ], 
     "👨‍🏫": [
         "profesorius", 
+        "4 odos tipas", 
+        "mokytojas: 6 odos tipas", 
+        "mokytojas: 4 odos tipas", 
+        "mokytojas: 1 ir 2 odos tipai", 
+        "vyras", 
+        "3 odos tipas", 
+        "mokytojas: 5 odos tipas", 
         "mokytojas", 
-        "dėstytojas", 
-        "vyras"
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "mokytojas: 3 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "dėstytojas"
     ], 
     "👨‍🏭": [
         "susirinkimas", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
         "fabriko darbininkas", 
+        "3 odos tipas", 
         "vyras", 
         "gamyba", 
+        "fabriko darbininkas: 1 ir 2 odos tipai", 
+        "fabriko darbininkas: 5 odos tipas", 
         "darbuotojas", 
-        "fabrikas"
+        "fabriko darbininkas: 3 odos tipas", 
+        "5 odos tipas", 
+        "fabrikas", 
+        "fabriko darbininkas: 6 odos tipas", 
+        "fabriko darbininkas: 4 odos tipas"
     ], 
     "👨‍👦": [
         "šeima", 
@@ -3359,94 +4534,281 @@
         "vaikas"
     ], 
     "👨‍💻": [
+        "4 odos tipas", 
         "kūrėjas", 
+        "technologas: 6 odos tipas", 
         "išradėjas", 
+        "3 odos tipas", 
         "vyras", 
+        "technologas: 5 odos tipas", 
         "technologas", 
         "programinė įranga", 
-        "programuotojas"
+        "technologas: 4 odos tipas", 
+        "6 odos tipas", 
+        "5 odos tipas", 
+        "programuotojas", 
+        "1 ir 2 odos tipai", 
+        "technologas: 1 ir 2 odos tipai", 
+        "technologas: 3 odos tipas"
     ], 
     "👨‍💼": [
+        "4 odos tipas", 
+        "biuro darbuotojas: 4 odos tipas", 
         "architektas", 
         "vadybininkas", 
         "verslas", 
+        "1 ir 2 odos tipai", 
+        "biuro darbuotojas: 6 odos tipas", 
+        "3 odos tipas", 
         "vyras", 
+        "biuro darbuotojas: 5 odos tipas", 
         "biuro darbuotojas", 
+        "biuro darbuotojas: 3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
         "biuras", 
-        "darbas įstaigoje"
+        "darbas įstaigoje", 
+        "biuro darbuotojas: 1 ir 2 odos tipai"
     ], 
     "👨‍🔧": [
-        "mechanikas", 
-        "prekybininkas", 
+        "4 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "6 odos tipas", 
+        "mechanikas: 6 odos tipas", 
+        "mechanikas: 4 odos tipas", 
         "elektrikas", 
         "santechnikas", 
-        "vyras"
+        "3 odos tipas", 
+        "vyras", 
+        "mechanikas", 
+        "mechanikas: 1 ir 2 odos tipai", 
+        "mechanikas: 3 odos tipas", 
+        "mechanikas: 5 odos tipas", 
+        "5 odos tipas", 
+        "prekybininkas"
     ], 
     "👨‍🔬": [
+        "4 odos tipas", 
+        "mokslininkas: 4 odos tipas", 
+        "mokslininkas: 5 odos tipas", 
+        "mokslininkas: 6 odos tipas", 
+        "mokslininkas: 3 odos tipas", 
         "biologas", 
         "chemikas", 
         "inžinierius", 
+        "3 odos tipas", 
         "vyras", 
+        "5 odos tipas", 
         "matematikas", 
+        "6 odos tipas", 
         "mokslininkas", 
+        "mokslininkas: 1 ir 2 odos tipai", 
+        "1 ir 2 odos tipai", 
         "fizikas"
     ], 
     "👨‍🚀": [
-        "astronautas", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "astronautas: 5 odos tipas", 
+        "astronautas: 3 odos tipas", 
         "raketa", 
-        "vyras"
+        "3 odos tipas", 
+        "vyras", 
+        "5 odos tipas", 
+        "astronautas: 6 odos tipas", 
+        "astronautas: 1 ir 2 odos tipai", 
+        "astronautas: 4 odos tipas", 
+        "astronautas", 
+        "1 ir 2 odos tipai"
     ], 
     "👨‍🚒": [
-        "gaisrininkas", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "gaisrininkas: 1 ir 2 odos tipai", 
+        "gaisrininkas: 4 odos tipas", 
+        "gaisrininkas: 6 odos tipas", 
+        "gaisrininkų automobilis", 
+        "3 odos tipas", 
         "vyras", 
-        "gaisrininkų automobilis"
+        "gaisrininkas", 
+        "5 odos tipas", 
+        "gaisrininkas: 3 odos tipas", 
+        "gaisrininkas: 5 odos tipas", 
+        "1 ir 2 odos tipai"
     ], 
     "👩": [
+        "4 odos tipas", 
+        "moteris: 6 odos tipas", 
+        "moteris: 5 odos tipas", 
+        "moteris: 4 odos tipas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "moteris: 1 ir 2 odos tipai", 
+        "6 odos tipas", 
+        "moteris", 
+        "1 ir 2 odos tipai", 
+        "moteris: 3 odos tipas"
+    ], 
+    "👩‍⚕️": [
+        "seselė", 
+        "sveikata", 
+        "terapeutė", 
+        "medikė", 
+        "moteris", 
+        "gydytoja"
+    ], 
+    "👩‍⚖️": [
+        "svarstyklės", 
+        "moteris", 
+        "teisingumas", 
+        "teisėja"
+    ], 
+    "👩‍✈️": [
+        "lėktuvas", 
+        "moteris", 
+        "pilotė"
+    ], 
+    "👩‍❤️‍👨": [
+        "meilė", 
+        "pora", 
+        "pora su širdele", 
+        "vyras", 
+        "pora su širdele: moteris vyras", 
         "moteris"
     ], 
+    "👩‍❤️‍👩": [
+        "pora", 
+        "moteris", 
+        "pora su širdele", 
+        "meilė", 
+        "pora su širdele: moteris moteris"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "pora", 
+        "moteris", 
+        "bučinys", 
+        "bučinys: moteris vyras", 
+        "vyras"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "pora", 
+        "moteris", 
+        "bučinys", 
+        "bučinys: moteris moteris"
+    ], 
     "👩‍🌾": [
+        "4 odos tipas", 
+        "ūkininkė", 
+        "sodininkė", 
+        "ūkininkė: 5 odos tipas", 
+        "3 odos tipas", 
+        "ūkininkė: 1 ir 2 odos tipai", 
+        "5 odos tipas", 
+        "ūkininkė: 3 odos tipas", 
+        "6 odos tipas", 
         "darbininkė", 
         "moteris", 
-        "ūkininkė", 
-        "sodininkė"
+        "1 ir 2 odos tipai", 
+        "ūkininkė: 6 odos tipas", 
+        "ūkininkė: 4 odos tipas"
     ], 
     "👩‍🍳": [
+        "4 odos tipas", 
+        "virėja: 5 odos tipas", 
+        "virėja: 1 ir 2 odos tipai", 
+        "virėja: 4 odos tipas", 
+        "3 odos tipas", 
+        "virėja: 6 odos tipas", 
+        "virėja: 3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
         "virėja", 
         "moteris", 
+        "1 ir 2 odos tipai", 
         "šefė"
     ], 
     "👩‍🎓": [
+        "4 odos tipas", 
+        "studentė: 6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "absolventė", 
+        "studentė: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "studentė: 3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
         "moteris", 
         "studentė", 
-        "absolventė"
+        "studentė: 5 odos tipas", 
+        "studentė: 4 odos tipas"
     ], 
     "👩‍🎤": [
+        "4 odos tipas", 
         "dainininkė", 
         "žvaigždė", 
         "aktorė", 
         "daininkė", 
+        "3 odos tipas", 
         "linksmintoja", 
+        "dainininkė: 4 odos tipas", 
+        "dainininkė: 5 odos tipas", 
         "rokas", 
-        "moteris"
+        "6 odos tipas", 
+        "5 odos tipas", 
+        "moteris", 
+        "1 ir 2 odos tipai", 
+        "dainininkė: 3 odos tipas", 
+        "dainininkė: 1 ir 2 odos tipai", 
+        "dainininkė: 6 odos tipas"
     ], 
     "👩‍🎨": [
         "paletė", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "dailininkė: 1 ir 2 odos tipai", 
+        "dailininkė", 
+        "dailininkė: 3 odos tipas", 
+        "3 odos tipas", 
+        "dailininkė: 6 odos tipas", 
+        "5 odos tipas", 
+        "dailininkė: 5 odos tipas", 
         "moteris", 
-        "dailininkė"
+        "1 ir 2 odos tipai", 
+        "dailininkė: 4 odos tipas"
     ], 
     "👩‍🏫": [
-        "mokytoja", 
-        "moteris", 
+        "4 odos tipas", 
+        "mokytoja: 6 odos tipas", 
+        "mokytoja: 1 ir 2 odos tipai", 
         "profesorė", 
+        "mokytoja: 4 odos tipas", 
+        "3 odos tipas", 
+        "mokytoja", 
+        "mokytoja: 5 odos tipas", 
+        "5 odos tipas", 
+        "mokytoja: 3 odos tipas", 
+        "6 odos tipas", 
+        "moteris", 
+        "1 ir 2 odos tipai", 
         "dėstytoja"
     ], 
     "👩‍🏭": [
         "susirinkimas", 
+        "4 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "fabriko darbininkė: 5 odos tipas", 
+        "3 odos tipas", 
         "darbuotoja", 
         "fabriko darbininkė", 
         "gamyba", 
+        "6 odos tipas", 
+        "5 odos tipas", 
+        "fabriko darbininkė: 3 odos tipas", 
         "moteris", 
-        "fabrikas"
+        "fabrikas", 
+        "fabriko darbininkė: 6 odos tipas", 
+        "fabriko darbininkė: 1 ir 2 odos tipai", 
+        "fabriko darbininkė: 4 odos tipas"
     ], 
     "👩‍👦": [
         "šeima", 
@@ -3541,30 +4903,70 @@
         "tėvas"
     ], 
     "👩‍💻": [
+        "technologė: 3 odos tipas", 
         "programuotoja", 
+        "1 ir 2 odos tipai", 
+        "6 odos tipas", 
+        "technologė: 6 odos tipas", 
+        "technologė: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "technologė: 5 odos tipas", 
+        "technologė: 4 odos tipas", 
         "programinė įranga", 
+        "4 odos tipas", 
         "išradėja", 
+        "5 odos tipas", 
         "moteris", 
         "kūrėja", 
         "technologė"
     ], 
     "👩‍💼": [
+        "4 odos tipas", 
+        "biuro darbuotoja: 1 ir 2 odos tipai", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
         "verslas", 
         "vadybininkė", 
+        "biuro darbuotoja: 4 odos tipas", 
         "architektė", 
+        "3 odos tipas", 
+        "5 odos tipas", 
         "biuro darbuotoja", 
+        "biuro darbuotoja: 3 odos tipas", 
+        "biuro darbuotoja: 5 odos tipas", 
         "moteris", 
-        "darbas įstaigoje"
+        "darbas įstaigoje", 
+        "biuro darbuotoja: 6 odos tipas"
     ], 
     "👩‍🔧": [
-        "prekybininkė", 
-        "moteris", 
+        "4 odos tipas", 
+        "mechanikė: 5 odos tipas", 
+        "mechanikė: 4 odos tipas", 
+        "mechanikė: 6 odos tipas", 
         "santechnikė", 
+        "mechanikė: 3 odos tipas", 
+        "prekybininkė", 
+        "3 odos tipas", 
+        "mechanikė", 
+        "5 odos tipas", 
         "elektrikė", 
-        "mechanikė"
+        "6 odos tipas", 
+        "moteris", 
+        "1 ir 2 odos tipai", 
+        "mechanikė: 1 ir 2 odos tipai"
     ], 
     "👩‍🔬": [
+        "4 odos tipas", 
+        "1 ir 2 odos tipai", 
         "fizikė", 
+        "mokslininkė: 1 ir 2 odos tipai", 
+        "mokslininkė: 6 odos tipas", 
+        "3 odos tipas", 
+        "mokslininkė: 3 odos tipas", 
+        "mokslininkė: 5 odos tipas", 
+        "mokslininkė: 4 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
         "biologė", 
         "moteris", 
         "matematikė", 
@@ -3573,20 +4975,34 @@
         "inžinierė"
     ], 
     "👩‍🚀": [
-        "moteris", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "astronautė: 1 ir 2 odos tipai", 
+        "astronautė", 
+        "astronautė: 3 odos tipas", 
         "raketa", 
-        "astronautė"
+        "3 odos tipas", 
+        "astronautė: 6 odos tipas", 
+        "5 odos tipas", 
+        "astronautė: 5 odos tipas", 
+        "moteris", 
+        "1 ir 2 odos tipai", 
+        "astronautė: 4 odos tipas"
     ], 
     "👩‍🚒": [
+        "4 odos tipas", 
+        "gaisrininkė: 6 odos tipas", 
+        "6 odos tipas", 
+        "gaisrininkė: 3 odos tipas", 
+        "gaisrininkė: 5 odos tipas", 
+        "3 odos tipas", 
+        "gaisrininkų automobilis", 
         "gaisrininkė", 
+        "5 odos tipas", 
+        "gaisrininkė: 1 ir 2 odos tipai", 
+        "gaisrininkė: 4 odos tipas", 
         "moteris", 
-        "gaisrininkų automobilis"
-    ], 
-    "👪": [
-        "mama", 
-        "šeima", 
-        "tėvas", 
-        "vaikas"
+        "1 ir 2 odos tipai"
     ], 
     "👫": [
         "laikyti", 
@@ -3612,63 +5028,165 @@
         "ranka", 
         "dvi moterys, susikibusios už rankų"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "moteris policininkė", 
         "policija", 
+        "moteris", 
+        "pareigūnė", 
+        "policininkė"
+    ], 
+    "👮‍♂️": [
+        "policija", 
+        "vyras policininkas", 
         "policininkas", 
+        "vyras", 
         "pareigūnas"
     ], 
-    "👯": [
+    "👯‍♀️": [
         "zuikutis", 
+        "vakarėlis", 
         "ausys", 
         "moterys", 
         "merginos", 
+        "kiškio ausytės", 
         "šokėjos", 
+        "vakarėlyje dalyvaujančios moterys", 
+        "moteris", 
+        "šokėja", 
         "besilinksminančios moterys"
     ], 
-    "👰": [
-        "veliumas", 
-        "nuotaka su veliumu", 
-        "nuotaka", 
-        "vestuvės"
+    "👯‍♂️": [
+        "vakarėlis", 
+        "vyrai", 
+        "iškio ausytės", 
+        "šokėjas", 
+        "vakarėlyje dalyvaujantys vyrai"
     ], 
-    "👱": [
+    "👰": [
+        "4 odos tipas", 
+        "nuotaka su veliumu: 4 odos tipas", 
+        "nuotaka su veliumu: 5 odos tipas", 
+        "vestuvės", 
+        "nuotaka su veliumu: 3 odos tipas", 
+        "veliumas", 
+        "nuotaka su veliumu: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "nuotaka su veliumu", 
+        "5 odos tipas", 
+        "nuotaka su veliumu: 6 odos tipas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "nuotaka"
+    ], 
+    "👱‍♀️": [
+        "moteris", 
+        "blondinė"
+    ], 
+    "👱‍♂️": [
         "šviesiaplaukis žmogus", 
+        "vyras", 
+        "blondinas", 
         "šviesiaplaukis"
     ], 
     "👲": [
+        "4 odos tipas", 
         "vyras su kinietiška kepurėle", 
-        "kepurė", 
+        "vyras su kinietiška kepurėle: 3 odos tipas", 
+        "3 odos tipas", 
+        "vyras", 
+        "5 odos tipas", 
         "kinietiška kepurėlė", 
-        "vyras"
+        "kepurė", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "vyras su kinietiška kepurėle: 5 odos tipas", 
+        "vyras su kinietiška kepurėle: 6 odos tipas", 
+        "vyras su kinietiška kepurėle: 1 ir 2 odos tipai", 
+        "vyras su kinietiška kepurėle: 4 odos tipas"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "moteris su turbanu", 
         "turbanas", 
-        "vyras su turbanu"
+        "moteris"
+    ], 
+    "👳‍♂️": [
+        "turbanas", 
+        "vyras su turbanu", 
+        "vyriškis su turbanu", 
+        "vyras"
     ], 
     "👴": [
+        "4 odos tipas", 
         "senas", 
-        "senas vyras", 
-        "vyras"
+        "senas vyras: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "vyras", 
+        "senas vyras: 6 odos tipas", 
+        "senas vyras: 5 odos tipas", 
+        "senas vyras: 4 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "senas vyras: 3 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "senas vyras"
     ], 
     "👵": [
-        "moteris", 
+        "4 odos tipas", 
+        "sena moteris: 6 odos tipas", 
+        "6 odos tipas", 
+        "sena moteris: 3 odos tipas", 
+        "sena moteris: 5 odos tipas", 
         "sena", 
-        "sena moteris"
+        "3 odos tipas", 
+        "sena moteris", 
+        "5 odos tipas", 
+        "sena moteris: 1 ir 2 odos tipai", 
+        "sena moteris: 4 odos tipas", 
+        "moteris", 
+        "1 ir 2 odos tipai"
     ], 
     "👶": [
+        "kūdikis: 1 ir 2 odos tipai", 
+        "4 odos tipas", 
         "kūdikis", 
+        "kūdikis: 6 odos tipas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "kūdikis: 4 odos tipas", 
+        "kūdikis: 3 odos tipas", 
+        "kūdikis: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
         "jaunas"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "darbininkė", 
+        "statybininkė", 
+        "moteris"
+    ], 
+    "👷‍♂️": [
+        "darbininkas", 
+        "vyras statybininkas", 
+        "vyras", 
         "statybininkas", 
-        "statyba", 
         "kepurė", 
-        "darbuotojas"
+        "darbuotojas", 
+        "statyba"
     ], 
     "👸": [
+        "4 odos tipas", 
+        "princesė: 3 odos tipas", 
+        "princesė: 5 odos tipas", 
+        "3 odos tipas", 
+        "fantazija", 
+        "princesė: 4 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "princesė: 1 ir 2 odos tipai", 
         "princesė", 
-        "pasaka", 
-        "fantazija"
+        "princesė: 6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "pasaka"
     ], 
     "👹": [
         "padaras", 
@@ -3695,11 +5213,21 @@
         "vaiduoklis"
     ], 
     "👼": [
+        "4 odos tipas", 
+        "6 odos tipas", 
         "veidas", 
+        "angeliukas: 3 odos tipas", 
         "kūdikis", 
         "angelas", 
+        "3 odos tipas", 
         "angeliukas", 
         "fantazija", 
+        "5 odos tipas", 
+        "angeliukas: 4 odos tipas", 
+        "angeliukas: 1 ir 2 odos tipai", 
+        "angeliukas: 6 odos tipas", 
+        "angeliukas: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
         "pasaka"
     ], 
     "👽": [
@@ -3737,20 +5265,46 @@
         "kaukolė", 
         "monstras"
     ], 
-    "💁": [
-        "informacija", 
+    "💁‍♀️": [
+        "ranką pakėlusi moteris", 
+        "gyvas", 
         "informacijos skyriaus darbuotojas", 
-        "ranka", 
         "įžūlus", 
+        "informacija", 
+        "ranka", 
+        "lengvai pakelta ranka", 
+        "moteris", 
         "pagalba"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "gyvas", 
+        "lengvai pakelta ranka", 
+        "lengvai ranką pakėlęs vyras", 
+        "vyras"
+    ], 
+    "💂‍♀️": [
+        "sargybinė", 
+        "moteris"
+    ], 
+    "💂‍♂️": [
         "sargyba", 
+        "vyras sargybinis", 
+        "vyras", 
         "sargybinis"
     ], 
     "💃": [
+        "4 odos tipas", 
+        "šokanti moteris: 4 odos tipas", 
+        "šokanti moteris: 6 odos tipas", 
+        "3 odos tipas", 
+        "šokanti moteris: 3 odos tipas", 
         "šokanti moteris", 
+        "šokanti moteris: 5 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "šokanti moteris: 1 ir 2 odos tipai", 
         "moteris", 
+        "1 ir 2 odos tipai", 
         "šokis"
     ], 
     "💄": [
@@ -3759,24 +5313,50 @@
         "kosmetika"
     ], 
     "💅": [
-        "nagų lakas", 
-        "lakas", 
-        "manikiūras", 
+        "4 odos tipas", 
+        "nagų lakas: 6 odos tipas", 
         "priežiūra", 
-        "kosmetika"
+        "lakas", 
+        "nagų lakas: 4 odos tipas", 
+        "nagų lakas: 5 odos tipas", 
+        "kosmetika", 
+        "3 odos tipas", 
+        "nagų lakas: 1 ir 2 odos tipai", 
+        "nagų lakas", 
+        "manikiūras", 
+        "5 odos tipas", 
+        "nagų lakas: 3 odos tipas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "masažuojama moters galva", 
+        "veidas", 
         "salonas", 
         "veido masažas", 
+        "masažas", 
+        "moteris"
+    ], 
+    "💆‍♂️": [
+        "masažuojama vyro galva", 
+        "vyras", 
         "veidas", 
         "masažas"
     ], 
-    "💇": [
+    "💇‍♀️": [
         "grožis", 
-        "kirpėjas", 
-        "šukuosena", 
+        "kirpimas", 
         "salonas", 
-        "apkerpamas žmogus"
+        "šukuosena", 
+        "apkerpamas žmogus", 
+        "kirpėjas", 
+        "moteris", 
+        "apkerpama moteris"
+    ], 
+    "💇‍♂️": [
+        "apkerpamas vyras", 
+        "kirpimas", 
+        "vyras"
     ], 
     "💈": [
         "kirpėjas", 
@@ -3821,18 +5401,9 @@
         "deimantas", 
         "romantika"
     ], 
-    "💏": [
-        "pora", 
-        "bučinys"
-    ], 
     "💐": [
         "puokštė", 
         "gėlė"
-    ], 
-    "💑": [
-        "pora", 
-        "pora su širdele", 
-        "meilė"
     ], 
     "💒": [
         "koplyčia", 
@@ -3964,11 +5535,21 @@
         "komiksas"
     ], 
     "💪": [
-        "komiksas", 
+        "4 odos tipas", 
+        "6 odos tipas", 
         "paryškinti bicepsai", 
         "kūnas", 
         "bicepsai", 
-        "raumuo"
+        "paryškinti bicepsai: 6 odos tipas", 
+        "paryškinti bicepsai: 1 ir 2 odos tipai", 
+        "paryškinti bicepsai: 4 odos tipas", 
+        "3 odos tipas", 
+        "raumuo", 
+        "5 odos tipas", 
+        "paryškinti bicepsai: 5 odos tipas", 
+        "paryškinti bicepsai: 3 odos tipas", 
+        "komiksas", 
+        "1 ir 2 odos tipai"
     ], 
     "💫": [
         "komiksas", 
@@ -4448,6 +6029,13 @@
         "VHS", 
         "vaizdo įrašų kasetė"
     ], 
+    "📽️": [
+        "filmas", 
+        "projektorius", 
+        "vaizdo įrašas", 
+        "filmų projektorius", 
+        "kinas"
+    ], 
     "📿": [
         "religija", 
         "melstis", 
@@ -4813,6 +6401,17 @@
         "į apačią", 
         "mygtukas"
     ], 
+    "🕉️": [
+        "hindu", 
+        "Om", 
+        "religija"
+    ], 
+    "🕊️": [
+        "paukštis", 
+        "balandis", 
+        "skristi", 
+        "taika"
+    ], 
     "🕋": [
         "islamas", 
         "religija", 
@@ -5037,28 +6636,240 @@
         "trisdešimt", 
         "12:30"
     ], 
-    "🕺": [
-        "šokis", 
-        "šokantis vyras", 
+    "🕯️": [
+        "šviesa", 
+        "žvakė"
+    ], 
+    "🕰️": [
+        "laikrodis", 
+        "virš židinio laikomas laikrodis"
+    ], 
+    "🕳️": [
+        "duobė"
+    ], 
+    "🕴️": [
+        "kostiumas", 
+        "į orą kylantis vyras su kostiumu", 
+        "verslas", 
         "vyras"
     ], 
-    "🖕": [
-        "vidurinis pirštas", 
-        "pirštas", 
-        "ranka"
+    "🕵️‍♂️": [
+        "šnipas", 
+        "detektyvas"
     ], 
-    "🖖": [
-        "vulkanų rasės pasisveikinimo ženklas", 
+    "🕶️": [
+        "akiniai nuo saulės", 
+        "tamsūs", 
+        "akys", 
+        "akiniai"
+    ], 
+    "🕷️": [
+        "voras", 
+        "vabzdys"
+    ], 
+    "🕸️": [
+        "voratinklis", 
+        "tinklas", 
+        "voras"
+    ], 
+    "🕹️": [
+        "vaizdo žaidimas", 
+        "žaidimas", 
+        "valdymo svirtis"
+    ], 
+    "🕺": [
+        "4 odos tipas", 
+        "šokantis vyras", 
+        "šokantis vyras: 4 odos tipas", 
+        "3 odos tipas", 
+        "vyras", 
+        "5 odos tipas", 
+        "šokantis vyras: 5 odos tipas", 
+        "šokantis vyras: 1 ir 2 odos tipai", 
+        "6 odos tipas", 
+        "šokis", 
+        "1 ir 2 odos tipai", 
+        "šokantis vyras: 3 odos tipas", 
+        "šokantis vyras: 6 odos tipas"
+    ], 
+    "🖇️": [
+        "sukabintos sąvaržėlės", 
+        "sujungimas", 
+        "sąvaržėlė"
+    ], 
+    "🖊️": [
+        "tušinukas", 
+        "rašiklis"
+    ], 
+    "🖋️": [
+        "rašiklis", 
+        "automatinis plunksnakotis", 
+        "plunksnakotis"
+    ], 
+    "🖌️": [
+        "teptukas", 
+        "tapymas"
+    ], 
+    "🖍️": [
+        "kreidelė"
+    ], 
+    "🖐️": [
         "pirštas", 
         "ranka", 
+        "iškelta ranka su išskėstais pirštais", 
+        "išskėsta"
+    ], 
+    "🖕": [
+        "4 odos tipas", 
+        "pirštas", 
+        "vidurinis pirštas: 5 odos tipas", 
+        "vidurinis pirštas: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "vidurinis pirštas: 6 odos tipas", 
+        "vidurinis pirštas: 4 odos tipas", 
+        "6 odos tipas", 
+        "5 odos tipas", 
+        "vidurinis pirštas", 
+        "ranka", 
+        "1 ir 2 odos tipai", 
+        "vidurinis pirštas: 3 odos tipas"
+    ], 
+    "🖖": [
+        "4 odos tipas", 
+        "pirštas", 
         "vulkanai", 
-        "kūnas"
+        "vulkanų rasės pasisveikinimo ženklas: 4 odos tipas", 
+        "kūnas", 
+        "vulkanų rasės pasisveikinimo ženklas: 6 odos tipas", 
+        "vulkanų rasės pasisveikinimo ženklas: 3 odos tipas", 
+        "vulkanų rasės pasisveikinimo ženklas: 5 odos tipas", 
+        "3 odos tipas", 
+        "vulkanų rasės pasisveikinimo ženklas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "ranka", 
+        "1 ir 2 odos tipai", 
+        "vulkanų rasės pasisveikinimo ženklas: 1 ir 2 odos tipai"
     ], 
     "🖤": [
         "blogis", 
         "juoda širdis", 
         "širdis", 
         "juoda"
+    ], 
+    "🖥️": [
+        "stalinis kompiuteris", 
+        "kompiuteris", 
+        "stalinis"
+    ], 
+    "🖨️": [
+        "kompiuteris", 
+        "spausdintuvas"
+    ], 
+    "🖱️": [
+        "kompiuteris", 
+        "pelė", 
+        "trys", 
+        "mygtukas", 
+        "3", 
+        "kompiuterio pelė"
+    ], 
+    "🖲️": [
+        "rutulinis manipuliatorius", 
+        "kompiuteris"
+    ], 
+    "🖼️": [
+        "paveikslas", 
+        "muziejus", 
+        "rėmas su paveikslu", 
+        "rėmas", 
+        "piešinys", 
+        "menas"
+    ], 
+    "🗂️": [
+        "indeksas", 
+        "kortelė", 
+        "kortelių laikiklio skirtukai", 
+        "skirtukai"
+    ], 
+    "🗃️": [
+        "dėžė", 
+        "kortelė", 
+        "failas", 
+        "kortelių saugojimo dėžė"
+    ], 
+    "🗄️": [
+        "failas", 
+        "spintelė", 
+        "failų spintelė su stalčiais"
+    ], 
+    "🗑️": [
+        "šiukšliadėžė"
+    ], 
+    "🗒️": [
+        "spiralė", 
+        "užrašinė", 
+        "užrašinė su spirale", 
+        "užrašas"
+    ], 
+    "🗓️": [
+        "spiralė", 
+        "užrašinė", 
+        "kalendorius", 
+        "kalendorius su spirale"
+    ], 
+    "🗜️": [
+        "suspaudimas", 
+        "įrankis", 
+        "spaustuvai"
+    ], 
+    "🗝️": [
+        "spyna", 
+        "senas raktas", 
+        "sena", 
+        "raktas"
+    ], 
+    "🗞️": [
+        "susuktas", 
+        "naujienos", 
+        "popierius", 
+        "susuktas laikraštis", 
+        "laikraštis"
+    ], 
+    "🗡️": [
+        "peilis", 
+        "durklas", 
+        "ginklas"
+    ], 
+    "🗣️": [
+        "kalbėti", 
+        "siluetas", 
+        "veidas", 
+        "kalbanti galva", 
+        "galva", 
+        "kalbėjimas"
+    ], 
+    "🗨️": [
+        "dialogas", 
+        "kairysis kalbos debesėlis", 
+        "kalba"
+    ], 
+    "🗯️": [
+        "balionas", 
+        "piktas", 
+        "debesėlis", 
+        "dešinysis pykčio debesėlis", 
+        "įsiutęs"
+    ], 
+    "🗳️": [
+        "dėžutė", 
+        "balsavimas", 
+        "balsavimo dėžutė su balsavimo biuleteniu"
+    ], 
+    "🗺️": [
+        "žemėlapis", 
+        "pasaulio žemėlapis", 
+        "pasaulis"
     ], 
     "🗻": [
         "Fudžio kalnas", 
@@ -5542,22 +7353,59 @@
         "akys", 
         "veidas"
     ], 
-    "🙅": [
-        "ranka", 
+    "🙅‍♀️": [
+        "neleistina", 
+        "draudžianti moteris", 
+        "ne", 
         "draudžiama", 
         "neigiamas gestas", 
-        "ne", 
-        "gestas"
+        "negerai", 
+        "gestas", 
+        "ranka", 
+        "moteris"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "draudžiantis vyras", 
+        "neleistina", 
+        "vyras", 
+        "ne", 
+        "draudžiama", 
+        "negerai", 
+        "gestas", 
+        "ranka"
+    ], 
+    "🙆‍♀️": [
+        "teigiamas gestas", 
+        "leidžianti moteris", 
+        "gestai", 
+        "gestas", 
         "gerai", 
         "ranka", 
-        "gestai", 
-        "teigiamas gestas"
+        "moteris"
     ], 
-    "🙇": [
-        "gestas", 
+    "🙆‍♂️": [
+        "gerai", 
+        "ranka", 
+        "vyras", 
+        "leidžiantis vyras", 
+        "gestas"
+    ], 
+    "🙇‍♀️": [
+        "nusilenkianti moteris", 
+        "paslauga", 
         "nusilenkimas", 
+        "gestas", 
+        "moteris", 
+        "apgailestavimas", 
+        "atsiprašymas"
+    ], 
+    "🙇‍♂️": [
+        "nusilenkiantis vyras", 
+        "vyras", 
+        "paslauga", 
+        "nusilenkimas", 
+        "gestas", 
+        "apgailestavimas", 
         "nusilenkęs žmogus", 
         "atsiprašymas"
     ], 
@@ -5594,41 +7442,88 @@
         "gestas", 
         "užsidengusi burną beždžionė"
     ], 
-    "🙋": [
-        "iškelta", 
-        "ranka", 
+    "🙋‍♀️": [
+        "pakelta ranka", 
         "laimingas", 
+        "iškelta", 
+        "ranką iškėlusi moteris", 
         "žmogus, iškėlęs ranką", 
+        "gestas", 
+        "ranka", 
+        "moteris"
+    ], 
+    "🙋‍♂️": [
+        "pakelta ranka", 
+        "ranką pakėlęs vyras", 
+        "vyras", 
         "gestas"
     ], 
     "🙌": [
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "žmogus, iškėlęs rankas: 5 odos tipas", 
         "kūnas", 
+        "žmogus, iškėlęs rankas: 3 odos tipas", 
+        "žmogus, iškėlęs rankas: 4 odos tipas", 
+        "3 odos tipas", 
         "iškelta", 
         "valio", 
+        "5 odos tipas", 
+        "žmogus, iškėlęs rankas: 6 odos tipas", 
+        "žmogus, iškėlęs rankas: 1 ir 2 odos tipai", 
         "gestas", 
         "šventė", 
         "ranka", 
         "žmogus, iškėlęs rankas"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
+        "paniurusi", 
+        "paniurusi moteris", 
         "paniuręs žmogus", 
-        "raukytis", 
+        "gestas", 
+        "moteris", 
+        "raukytis"
+    ], 
+    "🙍‍♂️": [
+        "paniuręs vyras", 
+        "paniuręs", 
+        "vyras", 
         "gestas"
     ], 
-    "🙎": [
-        "susiraukęs žmogus", 
+    "🙎‍♀️": [
+        "susiraukusi", 
+        "susiraukusi moteris", 
         "raukymasis", 
+        "susiraukęs žmogus", 
+        "gestas", 
+        "moteris"
+    ], 
+    "🙎‍♂️": [
+        "susiraukęs vyras", 
+        "vyras", 
+        "susiraukęs", 
         "gestas"
     ], 
     "🙏": [
+        "4 odos tipas", 
+        "6 odos tipas", 
         "prašau", 
         "kūnas", 
         "suglaustos", 
+        "suglausti delnai: 4 odos tipas", 
+        "suglausti delnai: 6 odos tipas", 
+        "suglausti delnai: 5 odos tipas", 
         "nusilenkti", 
+        "3 odos tipas", 
+        "suglausti delnai: 1 ir 2 odos tipai", 
         "prašymas", 
+        "5 odos tipas", 
+        "suglausti delnai: 3 odos tipas", 
         "gestas", 
         "melstis", 
         "dėkui", 
+        "1 ir 2 odos tipai", 
         "suglausti delnai", 
         "ranka"
     ], 
@@ -5815,9 +7710,16 @@
         "keleivis", 
         "valtis"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "moteris", 
+        "valtis", 
+        "irkluotoja"
+    ], 
+    "🚣‍♂️": [
         "transporto priemonė", 
+        "irkluotojas", 
         "irkluojantis žmogus", 
+        "vyras", 
         "valtis"
     ], 
     "🚤": [
@@ -5910,21 +7812,51 @@
         "dviračiai draudžiami", 
         "transporto priemonė"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "dviratis", 
+        "dviratininkė", 
+        "moteris", 
+        "važinėjimas dviračiu"
+    ], 
+    "🚴‍♂️": [
+        "dviratis", 
+        "važinėjimas dviračiu", 
+        "dviratininkas", 
+        "vyras", 
+        "vyras dviratininkas"
+    ], 
+    "🚵‍♀️": [
+        "dviratis", 
+        "važinėjimas dviračiu", 
+        "kalnas", 
+        "dviratininkė", 
+        "moteris", 
+        "kalnų dviratininkė moteris"
+    ], 
+    "🚵‍♂️": [
+        "kalnų dviratininkas vyras", 
+        "kalnų dviratininkas", 
+        "dviratis", 
+        "vyras", 
+        "važinėjimas dviračiu", 
+        "kalnas", 
         "dviratininkas"
     ], 
-    "🚵": [
-        "dviratis", 
-        "kalnas", 
-        "dviratininkas", 
-        "kalnų dviratininkas"
+    "🚶‍♀️": [
+        "moteris", 
+        "žygiuoti", 
+        "einanti moteris", 
+        "eiti"
     ], 
-    "🚶": [
-        "vaikščioti", 
+    "🚶‍♂️": [
+        "žygiuoti", 
+        "einantis vyras", 
+        "vyras", 
         "pėstysis", 
+        "vaikščiojimas", 
+        "vaikščioti", 
         "ėjimas", 
-        "vaikščiojimas"
+        "eiti"
     ], 
     "🚷": [
         "pėstiesiems eiti draudžiama", 
@@ -5977,8 +7909,18 @@
         "dušas"
     ], 
     "🛀": [
+        "4 odos tipas", 
+        "žmogus prausiasi vonioje", 
+        "žmogus prausiasi vonioje: 3 odos tipas", 
+        "3 odos tipas", 
+        "žmogus prausiasi vonioje: 5 odos tipas", 
         "vonia", 
-        "žmogus prausiasi vonioje"
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "žmogus prausiasi vonioje: 6 odos tipas", 
+        "žmogus prausiasi vonioje: 4 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "žmogus prausiasi vonioje: 1 ir 2 odos tipai"
     ], 
     "🛁": [
         "vonia"
@@ -6002,10 +7944,42 @@
         "spintelė", 
         "lagaminas"
     ], 
+    "🛋️": [
+        "sofa ir lempa", 
+        "sofa", 
+        "lempa", 
+        "viešbutis"
+    ], 
     "🛌": [
-        "miegoti", 
+        "4 odos tipas", 
+        "žmogus lovoje: 4 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "6 odos tipas", 
+        "žmogus lovoje: 6 odos tipas", 
+        "žmogus lovoje: 5 odos tipas", 
+        "3 odos tipas", 
+        "žmogus lovoje: 1 ir 2 odos tipai", 
         "viešbutis", 
-        "žmogus lovoje"
+        "žmogus lovoje", 
+        "žmogus lovoje: 3 odos tipas", 
+        "5 odos tipas", 
+        "miegoti"
+    ], 
+    "🛍️": [
+        "pirkinių krepšeliai", 
+        "apsipirkimas", 
+        "krepšys", 
+        "viešbutis"
+    ], 
+    "🛎️": [
+        "skambutis", 
+        "viešbutis", 
+        "skambinti"
+    ], 
+    "🛏️": [
+        "lova", 
+        "miegoti", 
+        "viešbutis"
     ], 
     "🛐": [
         "garbinimo vieta", 
@@ -6024,6 +7998,38 @@
         "pirkinių vežimėlis", 
         "vežimėlis"
     ], 
+    "🛠️": [
+        "plaktukas ir veržliaraktis", 
+        "veržliaraktis", 
+        "įrankis", 
+        "plaktukas"
+    ], 
+    "🛡️": [
+        "skydas", 
+        "ginklas"
+    ], 
+    "🛢️": [
+        "degalų statinė", 
+        "statinė", 
+        "degalai"
+    ], 
+    "🛣️": [
+        "kelias", 
+        "greitkelis"
+    ], 
+    "🛤️": [
+        "geležinkelio bėgiai", 
+        "geležinkelis", 
+        "traukinys"
+    ], 
+    "🛥️": [
+        "motorinė valtis", 
+        "valtis"
+    ], 
+    "🛩️": [
+        "lėktuvas", 
+        "mažas lėktuvas"
+    ], 
     "🛫": [
         "lėktuvo pakilimas", 
         "lėktuvas", 
@@ -6037,6 +8043,15 @@
         "lėktuvo nusileidimas", 
         "lėktuvas", 
         "atvyksta"
+    ], 
+    "🛰️": [
+        "palydovas", 
+        "kosmosas"
+    ], 
+    "🛳️": [
+        "keleivinis laivas", 
+        "keleivis", 
+        "laivas"
     ], 
     "🛴": [
         "paspirtukas", 
@@ -6107,31 +8122,81 @@
         "apkabinti"
     ], 
     "🤘": [
+        "ragų ženklas: 1 ir 2 odos tipai", 
         "pirštas", 
-        "ranka", 
-        "rokas", 
+        "6 odos tipas", 
         "ragų ženklas", 
-        "ragai"
+        "ragų ženklas: 3 odos tipas", 
+        "3 odos tipas", 
+        "ragų ženklas: 6 odos tipas", 
+        "ragų ženklas: 4 odos tipas", 
+        "5 odos tipas", 
+        "4 odos tipas", 
+        "rokas", 
+        "ragų ženklas: 5 odos tipas", 
+        "ragai", 
+        "ranka", 
+        "1 ir 2 odos tipai"
     ], 
     "🤙": [
+        "4 odos tipas", 
         "gestas paskambink man", 
+        "gestas paskambink man: 3 odos tipas", 
+        "gestas paskambink man: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "skambinti", 
+        "gestas paskambink man: 5 odos tipas", 
+        "5 odos tipas", 
+        "gestas paskambink man: 6 odos tipas", 
+        "6 odos tipas", 
         "ranka", 
-        "skambinti"
+        "1 ir 2 odos tipai", 
+        "gestas paskambink man: 4 odos tipas"
     ], 
     "🤚": [
+        "4 odos tipas", 
+        "pakelta viršutinė plaštakos pusė: 5 odos tipas", 
+        "pakelta viršutinė plaštakos pusė: 4 odos tipas", 
+        "plaštaka", 
+        "pakelta viršutinė plaštakos pusė: 6 odos tipas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "pakelta viršutinė plaštakos pusė: 1 ir 2 odos tipai", 
         "pakelta", 
+        "1 ir 2 odos tipai", 
         "pakelta viršutinė plaštakos pusė", 
-        "plaštaka"
+        "pakelta viršutinė plaštakos pusė: 3 odos tipas"
     ], 
     "🤛": [
+        "4 odos tipas", 
         "kumštis", 
+        "į kairę nukreiptas kumštis: 4 odos tipas", 
+        "į kairę nukreiptas kumštis: 3 odos tipas", 
+        "į kairę nukreiptas kumštis", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "į kairę nukreiptas kumštis: 6 odos tipas", 
+        "6 odos tipas", 
         "kairėn", 
-        "į kairę nukreiptas kumštis"
+        "į kairę nukreiptas kumštis: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "į kairę nukreiptas kumštis: 1 ir 2 odos tipai"
     ], 
     "🤜": [
-        "dešinėn", 
+        "4 odos tipas", 
         "kumštis", 
-        "į dešinę nukreiptas kumštis"
+        "į dešinę nukreiptas kumštis", 
+        "į dešinę nukreiptas kumštis: 3 odos tipas", 
+        "3 odos tipas", 
+        "į dešinę nukreiptas kumštis: 5 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "dešinėn", 
+        "1 ir 2 odos tipai", 
+        "į dešinę nukreiptas kumštis: 6 odos tipas", 
+        "į dešinę nukreiptas kumštis: 1 ir 2 odos tipai", 
+        "į dešinę nukreiptas kumštis: 4 odos tipas"
     ], 
     "🤝": [
         "susitarimas", 
@@ -6141,16 +8206,36 @@
         "pasisveikinimas"
     ], 
     "🤞": [
-        "ranka", 
+        "4 odos tipas", 
+        "sukryžiuoti pirštai: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "6 odos tipas", 
         "kryžius", 
+        "3 odos tipas", 
+        "sukryžiuoti pirštai: 6 odos tipas", 
+        "sukryžiuoti pirštai: 4 odos tipas", 
+        "sukryžiuoti pirštai: 1 ir 2 odos tipai", 
+        "5 odos tipas", 
+        "ranka", 
         "pirštai", 
         "laimė", 
+        "sukryžiuoti pirštai: 3 odos tipas", 
         "sukryžiuoti pirštai"
     ], 
     "🤟": [
+        "4 odos tipas", 
+        "„myliu tave“ gestas: 6 odos tipas", 
+        "„myliu tave“ gestas: 5 odos tipas", 
+        "„myliu tave“ gestas: 4 odos tipas", 
+        "3 odos tipas", 
         "MYLIU", 
+        "5 odos tipas", 
+        "„myliu tave“ gestas: 1 ir 2 odos tipai", 
+        "6 odos tipas", 
         "„myliu tave“ gestas", 
-        "ranka"
+        "1 ir 2 odos tipai", 
+        "ranka", 
+        "„myliu tave“ gestas: 3 odos tipas"
     ], 
     "🤠": [
         "kaubojaus veidas su skrybėle", 
@@ -6184,10 +8269,32 @@
         "meluojantis veidas"
     ], 
     "🤦": [
-        "neįtikėtinumas", 
+        "4 odos tipas", 
+        "o varge: 4 odos tipas", 
         "o varge", 
+        "6 odos tipas", 
         "veidas", 
+        "o varge: 3 odos tipas", 
+        "3 odos tipas", 
+        "o varge: 1 ir 2 odos tipai", 
+        "5 odos tipas", 
+        "o varge: 5 odos tipas", 
+        "o varge: 6 odos tipas", 
         "beviltiškumas", 
+        "neįtikėtinumas", 
+        "1 ir 2 odos tipai", 
+        "susierzinimas"
+    ], 
+    "🤦‍♀️": [
+        "moteris", 
+        "susierzinusi moteris", 
+        "netikėjimas", 
+        "susierzinimas"
+    ], 
+    "🤦‍♂️": [
+        "vyras", 
+        "susierzinęs vyras", 
+        "netikėjimas", 
         "susierzinimas"
     ], 
     "🤧": [
@@ -6236,58 +8343,198 @@
         "šokiruotas"
     ], 
     "🤰": [
-        "moteris", 
+        "4 odos tipas", 
         "nėščia moteris", 
-        "neščia"
+        "nėščia moteris: 6 odos tipas", 
+        "nėščia moteris: 5 odos tipas", 
+        "3 odos tipas", 
+        "neščia", 
+        "nėščia moteris: 1 ir 2 odos tipai", 
+        "nėščia moteris: 4 odos tipas", 
+        "6 odos tipas", 
+        "5 odos tipas", 
+        "moteris", 
+        "1 ir 2 odos tipai", 
+        "nėščia moteris: 3 odos tipas"
     ], 
     "🤱": [
+        "4 odos tipas", 
+        "priežiūra", 
         "kūdikis", 
+        "maitinimas krūtimi: 6 odos tipas", 
+        "3 odos tipas", 
+        "maitinimas krūtimi: 5 odos tipas", 
+        "maitinimas krūtimi: 4 odos tipas", 
+        "maitinimas krūtimi: 3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
         "krūtinė", 
-        "maitinimas krūtimi", 
-        "priežiūra"
+        "1 ir 2 odos tipai", 
+        "maitinimas krūtimi: 1 ir 2 odos tipai", 
+        "maitinimas krūtimi"
     ], 
     "🤲": [
+        "4 odos tipas", 
+        "delnai suglausti: 3 odos tipas", 
+        "3 odos tipas", 
+        "delnai suglausti: 5 odos tipas", 
+        "delnai suglausti: 6 odos tipas", 
+        "5 odos tipas", 
+        "delnai suglausti: 4 odos tipas", 
+        "6 odos tipas", 
         "delnai suglausti", 
+        "1 ir 2 odos tipai", 
+        "delnai suglausti: 1 ir 2 odos tipai", 
         "malda"
     ], 
     "🤳": [
-        "telefonas", 
+        "4 odos tipas", 
+        "asmenukė: 3 odos tipas", 
+        "6 odos tipas", 
+        "asmenukė: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
         "asmenukė", 
+        "5 odos tipas", 
+        "telefonas", 
+        "asmenukė: 4 odos tipas", 
+        "asmenukė: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "asmenukė: 6 odos tipas", 
         "fotoaparatas"
     ], 
     "🤴": [
-        "princas"
+        "princas: 1 ir 2 odos tipai", 
+        "4 odos tipas", 
+        "princas: 3 odos tipas", 
+        "princas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "princas: 4 odos tipas", 
+        "princas: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "princas: 6 odos tipas"
     ], 
     "🤵": [
+        "4 odos tipas", 
+        "vyras su smokingu: 5 odos tipas", 
+        "vyras su smokingu: 6 odos tipas", 
+        "vyras su smokingu: 3 odos tipas", 
         "smokingas", 
+        "vyras su smokingu", 
         "vyras", 
-        "jaunikis", 
-        "vyras su smokingu"
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "vyras su smokingu: 1 ir 2 odos tipai", 
+        "vyras su smokingu: 4 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "jaunikis"
     ], 
     "🤶": [
-        "mama", 
-        "ponia Claus", 
-        "ponia", 
+        "4 odos tipas", 
+        "ponia Claus: 3 odos tipas", 
+        "ponia Claus: 1 ir 2 odos tipai", 
+        "ponia Claus: 5 odos tipas", 
+        "ponia Claus: 4 odos tipas", 
+        "3 odos tipas", 
+        "ponia Claus: 6 odos tipas", 
         "šventė", 
+        "ponia Claus", 
+        "5 odos tipas", 
+        "ponia", 
+        "6 odos tipas", 
+        "mama", 
+        "1 ir 2 odos tipai", 
         "Kalėdos"
     ], 
     "🤷": [
         "abejonė", 
+        "gūžtelėjimas pečiais: 3 odos tipas", 
+        "gūžtelėjimas pečiais: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "gūžtelėjimas pečiais: 6 odos tipas", 
+        "gūžtelėjimas pečiais: 5 odos tipas", 
+        "gūžtelėjimas pečiais: 4 odos tipas", 
         "nežinojimas", 
+        "5 odos tipas", 
         "gūžtelėjimas pečiais", 
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
         "gūžtelėjimas"
     ], 
+    "🤷‍♀️": [
+        "abejonė", 
+        "nežinojimas", 
+        "abejojanti moteris", 
+        "trūkčioti pečiais", 
+        "moteris", 
+        "abejingumas"
+    ], 
+    "🤷‍♂️": [
+        "abejonė", 
+        "vyras", 
+        "nežinojimas", 
+        "trūkčioti pečiais", 
+        "abejojantis vyras", 
+        "abejingumas"
+    ], 
     "🤸": [
+        "4 odos tipas", 
         "persivertimas", 
+        "persivertimas šonu: 3 odos tipas", 
+        "persivertimas šonu: 5 odos tipas", 
+        "persivertimas šonu: 6 odos tipas", 
+        "persivertimas šonu: 1 ir 2 odos tipai", 
+        "3 odos tipas", 
         "gimnastika", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "persivertimas šonu: 4 odos tipas", 
+        "1 ir 2 odos tipai", 
         "persivertimas šonu"
     ], 
+    "🤸‍♀️": [
+        "moteris daro suktuką", 
+        "moteris", 
+        "suktukas", 
+        "gimnastika"
+    ], 
+    "🤸‍♂️": [
+        "vyras daro suktuką", 
+        "suktukas", 
+        "gimnastika", 
+        "vyras"
+    ], 
     "🤹": [
-        "įgūdis", 
-        "žongliravimas", 
+        "4 odos tipas", 
+        "žongliruoti", 
         "reakcija", 
-        "pusiausvyra", 
-        "žongliruoti"
+        "žongliravimas: 6 odos tipas", 
+        "žongliravimas: 1 ir 2 odos tipai", 
+        "žongliravimas: 4 odos tipas", 
+        "žongliravimas", 
+        "3 odos tipas", 
+        "žongliravimas: 3 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "žongliravimas: 5 odos tipas", 
+        "įgūdis", 
+        "1 ir 2 odos tipai", 
+        "pusiausvyra"
+    ], 
+    "🤹‍♀️": [
+        "moteris", 
+        "žongliravimas", 
+        "žongliruotoja", 
+        "sudėtinga"
+    ], 
+    "🤹‍♂️": [
+        "sudėtinga", 
+        "žongliravimas", 
+        "žongliruotojas", 
+        "vyras"
     ], 
     "🤺": [
         "kardas", 
@@ -6299,13 +8546,63 @@
         "imtynininkas", 
         "imtynės"
     ], 
+    "🤼‍♀️": [
+        "moteris", 
+        "moterų imtynės", 
+        "imtynės"
+    ], 
+    "🤼‍♂️": [
+        "vyrų imtynės", 
+        "vyrai", 
+        "imtynės"
+    ], 
     "🤽": [
+        "4 odos tipas", 
+        "vandensvydis: 6 odos tipas", 
+        "vandensvydis: 1 ir 2 odos tipai", 
+        "vandensvydis: 5 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "3 odos tipas", 
+        "vandensvydis: 3 odos tipas", 
         "vandensvydis", 
-        "vanduo"
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "vanduo", 
+        "vandensvydis: 4 odos tipas"
+    ], 
+    "🤽‍♀️": [
+        "vandensvydis", 
+        "moteris", 
+        "vandensvydžio žaidėja"
+    ], 
+    "🤽‍♂️": [
+        "vandensvydis", 
+        "vyras", 
+        "vandensvydžio žaidėjas"
     ], 
     "🤾": [
+        "4 odos tipas", 
         "rankinis", 
+        "rankinis: 3 odos tipas", 
+        "3 odos tipas", 
+        "rankinis: 4 odos tipas", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "rankinis: 6 odos tipas", 
+        "rankinis: 1 ir 2 odos tipai", 
+        "1 ir 2 odos tipai", 
+        "rankinis: 5 odos tipas", 
         "kamuolys"
+    ], 
+    "🤾‍♀️": [
+        "rankininkė", 
+        "moteris", 
+        "rankinis"
+    ], 
+    "🤾‍♂️": [
+        "rankinis", 
+        "vyras", 
+        "rankininkas"
     ], 
     "🥀": [
         "gležna gėlė", 
@@ -6625,76 +8922,181 @@
         "tvankus"
     ], 
     "🧑": [
+        "4 odos tipas", 
+        "neutrali lytis", 
+        "suaugusysis: 6 odos tipas", 
+        "suaugusysis: 1 ir 2 odos tipai", 
+        "suaugusysis: 4 odos tipas", 
         "suaugusysis", 
-        "neutrali lytis"
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "suaugusysis: 5 odos tipas", 
+        "6 odos tipas", 
+        "suaugusysis: 3 odos tipas", 
+        "1 ir 2 odos tipai"
     ], 
     "🧒": [
+        "vaikas: 1 ir 2 odos tipai", 
+        "4 odos tipas", 
         "neutrali lytis", 
-        "jaunas", 
-        "vaikas"
+        "vaikas: 6 odos tipas", 
+        "vaikas: 5 odos tipas", 
+        "vaikas: 4 odos tipas", 
+        "vaikas: 3 odos tipas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "vaikas", 
+        "6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "jaunas"
     ], 
     "🧓": [
-        "senas", 
+        "4 odos tipas", 
         "neutrali lytis", 
-        "kitas suaugusysis"
+        "1 ir 2 odos tipai", 
+        "kitas suaugusysis: 4 odos tipas", 
+        "kitas suaugusysis: 1 ir 2 odos tipai", 
+        "kitas suaugusysis", 
+        "3 odos tipas", 
+        "kitas suaugusysis: 6 odos tipas", 
+        "kitas suaugusysis: 5 odos tipas", 
+        "5 odos tipas", 
+        "kitas suaugusysis: 3 odos tipas", 
+        "6 odos tipas", 
+        "senas"
     ], 
     "🧔": [
+        "4 odos tipas", 
+        "6 odos tipas", 
+        "barzdotas žmogus: 1 ir 2 odos tipai", 
+        "barzdotas žmogus: 4 odos tipas", 
+        "3 odos tipas", 
+        "5 odos tipas", 
+        "barzdotas žmogus: 5 odos tipas", 
+        "barzdotas žmogus: 6 odos tipas", 
+        "barzdotas žmogus: 3 odos tipas", 
+        "1 ir 2 odos tipai", 
         "barzda", 
         "barzdotas žmogus"
     ], 
     "🧕": [
+        "4 odos tipas", 
+        "moteris su skarele: 3 odos tipas", 
+        "moteris su skarele: 4 odos tipas", 
         "moteris su skarele", 
+        "3 odos tipas", 
+        "moteris su skarele: 1 ir 2 odos tipai", 
+        "5 odos tipas", 
+        "6 odos tipas", 
+        "moteris su skarele: 6 odos tipas", 
+        "1 ir 2 odos tipai", 
+        "moteris su skarele: 5 odos tipas", 
         "skarelė"
     ], 
-    "🧖": [
-        "asmuo garų kambaryje", 
+    "🧖‍♀️": [
         "garų kambarys", 
+        "moteris garų kambaryje", 
         "sauna"
     ], 
-    "🧗": [
-        "alpinistas", 
-        "kopiantis žmogus"
+    "🧖‍♂️": [
+        "asmuo garų kambaryje", 
+        "garų kambarys", 
+        "vyras garų kambaryje", 
+        "sauna"
     ], 
-    "🧘": [
+    "🧗‍♀️": [
+        "alpinistė", 
+        "alpinistas", 
+        "kopiantis žmogus", 
+        "kopiantis moteris"
+    ], 
+    "🧗‍♂️": [
+        "alpinistas", 
+        "kopiantis vyras"
+    ], 
+    "🧘‍♀️": [
         "joga", 
         "žmogus lotoso pozoje", 
-        "meditacija"
+        "meditacija", 
+        "moteris lotoso pozoje"
     ], 
-    "🧙": [
-        "kerėtoja", 
-        "kerėtojas", 
+    "🧘‍♂️": [
+        "joga", 
+        "meditacija", 
+        "vyras lotoso pozoje"
+    ], 
+    "🧙‍♀️": [
+        "magė", 
         "burtininkas", 
         "magas", 
+        "kerėtoja", 
+        "kerėtojas", 
         "ragana"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "vyras magas", 
+        "kerėtojas", 
+        "burtininkas"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
+        "moteris fėja", 
         "fėja", 
         "Oberon", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "burtininkas", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
         "Drakula", 
+        "vampyrė", 
         "nemirtingas", 
         "vampyras"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Drakula", 
+        "vampyras vyras", 
+        "nemirtingas"
+    ], 
+    "🧜‍♀️": [
+        "undinėlė"
+    ], 
+    "🧜‍♂️": [
+        "Tritonas", 
         "undinius", 
         "undinėlė", 
-        "undinė"
+        "undinė", 
+        "vandenis/undinius"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "elfė", 
+        "magiška"
+    ], 
+    "🧝‍♂️": [
         "elfas", 
-        "magiškas"
+        "magiškas", 
+        "elfas vyras"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "džinė"
+    ], 
+    "🧞‍♂️": [
         "džinas", 
         "dvasia"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "nemirtinga", 
+        "vaikštanti numirėlė", 
+        "zombė"
+    ], 
+    "🧟‍♂️": [
         "vaikštantis numirėlis", 
         "zombis", 
-        "nemirtingas"
+        "nemirtingas", 
+        "zombis vyras"
     ], 
     "🧠": [
         "smegenys", 

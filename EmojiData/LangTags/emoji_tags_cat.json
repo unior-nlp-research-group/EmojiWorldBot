@@ -1,4 +1,133 @@
 {
+    "#️⃣": [
+        "tecla", 
+        "tecla: #"
+    ], 
+    "*️⃣": [
+        "tecla", 
+        "tecla: *"
+    ], 
+    "0️⃣": [
+        "tecla", 
+        "tecla: 0"
+    ], 
+    "1️⃣": [
+        "tecla", 
+        "tecla: 1"
+    ], 
+    "2️⃣": [
+        "tecla", 
+        "tecla: 2"
+    ], 
+    "3️⃣": [
+        "tecla", 
+        "tecla: 3"
+    ], 
+    "4️⃣": [
+        "tecla", 
+        "tecla: 4"
+    ], 
+    "5️⃣": [
+        "tecla", 
+        "tecla: 5"
+    ], 
+    "6️⃣": [
+        "tecla", 
+        "tecla: 6"
+    ], 
+    "7️⃣": [
+        "tecla", 
+        "tecla: 7"
+    ], 
+    "8️⃣": [
+        "tecla", 
+        "tecla: 8"
+    ], 
+    "9️⃣": [
+        "tecla", 
+        "tecla: 9"
+    ], 
+    "©️": [
+        "drets d’autor", 
+        "copyright"
+    ], 
+    "®️": [
+        "marca registrada", 
+        "registrada", 
+        "marca"
+    ], 
+    "‼️": [
+        "signe", 
+        "signe d’exclamació doble", 
+        "exclamació", 
+        "doble"
+    ], 
+    "⁉️": [
+        "interrogació", 
+        "signe", 
+        "exclamació", 
+        "signe d’exclamació i d’interrogació"
+    ], 
+    "™️": [
+        "marca comercial", 
+        "comercial", 
+        "marca"
+    ], 
+    "ℹ️": [
+        "punt", 
+        "punt d’informació", 
+        "informació"
+    ], 
+    "↔️": [
+        "esquerra", 
+        "fletxa cap a l’esquerra i cap a la dreta", 
+        "fletxa", 
+        "dreta"
+    ], 
+    "↕️": [
+        "amunt", 
+        "avall", 
+        "fletxa cap amunt i cap avall", 
+        "fletxa"
+    ], 
+    "↖️": [
+        "amunt", 
+        "esquerra", 
+        "fletxa cap amunt a l’esquerra", 
+        "fletxa"
+    ], 
+    "↗️": [
+        "amunt", 
+        "fletxa cap amunt a la dreta", 
+        "fletxa", 
+        "dreta"
+    ], 
+    "↘️": [
+        "fletxa cap avall a la dreta", 
+        "avall", 
+        "fletxa", 
+        "dreta"
+    ], 
+    "↙️": [
+        "esquerra", 
+        "fletxa cap avall a l’esquerra", 
+        "avall", 
+        "fletxa"
+    ], 
+    "↩️": [
+        "fletxa dreta que gira cap a l’esquerra", 
+        "esquerre", 
+        "gir", 
+        "fletxa", 
+        "dreta"
+    ], 
+    "↪️": [
+        "esquerra", 
+        "gir", 
+        "fletxa esquerra que gira cap a la dreta", 
+        "fletxa", 
+        "dreta"
+    ], 
     "⌚": [
         "hora", 
         "rellotge"
@@ -7,6 +136,15 @@
         "rellotge de sorra", 
         "rellotge", 
         "sorra"
+    ], 
+    "⌨️": [
+        "ordinador", 
+        "teclat"
+    ], 
+    "⏏️": [
+        "expulsar", 
+        "botó", 
+        "botó d’expulsar"
     ], 
     "⏩": [
         "ràpidament", 
@@ -32,14 +170,95 @@
         "avall", 
         "botó"
     ], 
+    "⏭️": [
+        "botó de cançó següent", 
+        "cançó", 
+        "botó", 
+        "següent"
+    ], 
+    "⏮️": [
+        "anterior", 
+        "botó de cançó anterior", 
+        "botó", 
+        "cançó"
+    ], 
+    "⏯️": [
+        "botó de pausa o de reproducció", 
+        "botó", 
+        "reproducció", 
+        "pausa"
+    ], 
     "⏰": [
         "alarma", 
         "rellotge"
+    ], 
+    "⏱️": [
+        "rellotge", 
+        "cronòmetre"
+    ], 
+    "⏲️": [
+        "rellotge", 
+        "temporitzador"
     ], 
     "⏳": [
         "rellotge", 
         "sorra", 
         "rellotge amb sorra que cau"
+    ], 
+    "⏸️": [
+        "botó", 
+        "botó de pausa", 
+        "pausa"
+    ], 
+    "⏹️": [
+        "botó", 
+        "aturada", 
+        "botó d’aturada"
+    ], 
+    "⏺️": [
+        "botó", 
+        "enregistrar", 
+        "botó d’enregistrar"
+    ], 
+    "Ⓜ️": [
+        "M", 
+        "lletra M en cercle", 
+        "lletra", 
+        "cercle"
+    ], 
+    "▪️": [
+        "petit", 
+        "negre", 
+        "quadrat negre petit", 
+        "quadrat"
+    ], 
+    "▫️": [
+        "quadrat", 
+        "petit", 
+        "quadrat blanc petit", 
+        "blanc"
+    ], 
+    "▶️": [
+        "reproducció", 
+        "botó", 
+        "botó de reproducció"
+    ], 
+    "◀️": [
+        "botó de retrocedir", 
+        "retrocedir", 
+        "botó"
+    ], 
+    "◻️": [
+        "quadrat", 
+        "mitjà", 
+        "quadrat mitjà blanc", 
+        "blanc"
+    ], 
+    "◼️": [
+        "quadrat", 
+        "quadrat mitjà negre", 
+        "negre", 
+        "mitjà"
     ], 
     "◽": [
         "petit-mitjà", 
@@ -53,6 +272,40 @@
         "quadrat negre petit-mitjà", 
         "negre"
     ], 
+    "☀️": [
+        "temps", 
+        "assolellat", 
+        "sol", 
+        "solejat"
+    ], 
+    "☁️": [
+        "temps", 
+        "núvol"
+    ], 
+    "☂️": [
+        "paraigua", 
+        "pluja"
+    ], 
+    "☃️": [
+        "nevada", 
+        "ninot de neu", 
+        "neu", 
+        "temps", 
+        "ninot"
+    ], 
+    "☄️": [
+        "cometa", 
+        "espai"
+    ], 
+    "☎️": [
+        "telèfon"
+    ], 
+    "☑️": [
+        "casella", 
+        "marca", 
+        "casella amb marca de verificació", 
+        "verificació"
+    ], 
     "☔": [
         "paraigua", 
         "paraigua amb gotes de pluja", 
@@ -63,6 +316,92 @@
         "beguda calenta", 
         "beguda", 
         "calenta"
+    ], 
+    "☘️": [
+        "planta", 
+        "trèvol"
+    ], 
+    "☝️": [
+        "amunt", 
+        "índex que apunta cap amunt", 
+        "índex"
+    ], 
+    "☠️": [
+        "calavera", 
+        "ossos", 
+        "crani amb ossos", 
+        "crani", 
+        "monstre", 
+        "cara"
+    ], 
+    "☢️": [
+        "senyal", 
+        "radioactiu"
+    ], 
+    "☣️": [
+        "biològic", 
+        "risc biològic", 
+        "risc"
+    ], 
+    "☦️": [
+        "religió", 
+        "creu ortodoxa", 
+        "creu", 
+        "ortodoxa"
+    ], 
+    "☪️": [
+        "roda", 
+        "islamisme", 
+        "religió", 
+        "musulmà", 
+        "dharma", 
+        "creixent lunar i estel"
+    ], 
+    "☮️": [
+        "símbol", 
+        "pau", 
+        "símbol de la pau"
+    ], 
+    "☯️": [
+        "ying", 
+        "religió", 
+        "taoista", 
+        "yang", 
+        "taoisme", 
+        "tao", 
+        "yin-yang"
+    ], 
+    "☸️": [
+        "budisme", 
+        "religió", 
+        "roda", 
+        "roda del dharma", 
+        "budista", 
+        "dharma"
+    ], 
+    "☹️": [
+        "enfadat", 
+        "cara empipada", 
+        "cara", 
+        "emmurriat", 
+        "empipat"
+    ], 
+    "☺️": [
+        "cara", 
+        "somriure", 
+        "cara somrient"
+    ], 
+    "♀️": [
+        "dona", 
+        "femella", 
+        "femení", 
+        "símbol femení"
+    ], 
+    "♂️": [
+        "home", 
+        "símbol masculí", 
+        "masculí", 
+        "mascle"
     ], 
     "♈": [
         "zodíac", 
@@ -123,15 +462,96 @@
         "peixos", 
         "peix"
     ], 
+    "♠️": [
+        "piques", 
+        "pal", 
+        "pal de piques"
+    ], 
+    "♣️": [
+        "pal", 
+        "trèvols", 
+        "pal de trèvols"
+    ], 
+    "♥️": [
+        "pal de cors", 
+        "pal", 
+        "cors"
+    ], 
+    "♦️": [
+        "pal", 
+        "diamants", 
+        "pal de diamants"
+    ], 
+    "♨️": [
+        "aigües termals", 
+        "vapor", 
+        "ressort", 
+        "calor", 
+        "fonts termals"
+    ], 
+    "♻️": [
+        "símbol de reciclatge", 
+        "símbol", 
+        "reciclatge"
+    ], 
     "♿": [
         "cadira", 
         "símbol de cadira de rodes", 
         "rodes"
     ], 
+    "⚒️": [
+        "pic", 
+        "martell i pic", 
+        "martell"
+    ], 
     "⚓": [
         "eina", 
         "vaixell", 
         "àncora"
+    ], 
+    "⚔️": [
+        "creuades", 
+        "espases creuades", 
+        "espases"
+    ], 
+    "⚕️": [
+        "personal", 
+        "medicina", 
+        "Esculapi", 
+        "símbol mèdic"
+    ], 
+    "⚖️": [
+        "balança (aparell)", 
+        "aparell", 
+        "pes", 
+        "eina", 
+        "balança", 
+        "justícia"
+    ], 
+    "⚗️": [
+        "eina", 
+        "alambí", 
+        "química"
+    ], 
+    "⚙️": [
+        "eina", 
+        "engranatge"
+    ], 
+    "⚛️": [
+        "ateu", 
+        "símbol d’àtom", 
+        "símbol", 
+        "ateisme", 
+        "àtom"
+    ], 
+    "⚜️": [
+        "flor", 
+        "flor de lis", 
+        "lis"
+    ], 
+    "⚠️": [
+        "advertència", 
+        "avís"
     ], 
     "⚡": [
         "llamp", 
@@ -153,6 +573,16 @@
         "negre", 
         "cercle negre", 
         "cercle"
+    ], 
+    "⚰️": [
+        "taüt", 
+        "mort"
+    ], 
+    "⚱️": [
+        "funeral", 
+        "urna funerària", 
+        "urna", 
+        "mort"
     ], 
     "⚽": [
         "pilota", 
@@ -176,6 +606,13 @@
         "sol", 
         "sol darrere un núvol"
     ], 
+    "⛈️": [
+        "temps", 
+        "núvol amb llamp i pluja", 
+        "núvol", 
+        "pluja", 
+        "llamp"
+    ], 
     "⛎": [
         "zodíac", 
         "ofiuc", 
@@ -183,10 +620,33 @@
         "serp", 
         "portador"
     ], 
+    "⛏️": [
+        "mineria", 
+        "eina", 
+        "pic"
+    ], 
+    "⛑️": [
+        "urgència", 
+        "casc amb creu blanca", 
+        "emergència", 
+        "casc", 
+        "creu blanca"
+    ], 
+    "⛓️": [
+        "cadena", 
+        "cadenes"
+    ], 
     "⛔": [
         "prohibit entrar", 
         "prohibició", 
         "entrada"
+    ], 
+    "⛩️": [
+        "religió", 
+        "santuari xintoista", 
+        "santuari", 
+        "temple", 
+        "xintoista"
     ], 
     "⛪": [
         "edifici", 
@@ -194,6 +654,15 @@
         "cristià", 
         "creu", 
         "església"
+    ], 
+    "⛰️": [
+        "muntanya"
+    ], 
+    "⛱️": [
+        "sorra", 
+        "para-sol a la sorra", 
+        "sol", 
+        "para-sol"
     ], 
     "⛲": [
         "font"
@@ -203,12 +672,31 @@
         "forat", 
         "banderí al forat"
     ], 
+    "⛴️": [
+        "ferri", 
+        "vaixell"
+    ], 
     "⛵": [
         "vaixell", 
         "iot", 
         "veler", 
         "mar", 
         "vehicle"
+    ], 
+    "⛷️": [
+        "esquiar", 
+        "neu", 
+        "esquiador"
+    ], 
+    "⛸️": [
+        "patinatge", 
+        "patinatge sobre gel", 
+        "gel"
+    ], 
+    "⛹️‍♂️": [
+        "pilota", 
+        "persona", 
+        "persona amb una pilota"
     ], 
     "⛺": [
         "campament", 
@@ -222,6 +710,11 @@
         "assortidor", 
         "combustible"
     ], 
+    "✂️": [
+        "tisores", 
+        "eina", 
+        "tall"
+    ], 
     "✅": [
         "verificació", 
         "marca de verificació blanca gran", 
@@ -229,21 +722,116 @@
         "gran", 
         "verda"
     ], 
+    "✈️": [
+        "vol", 
+        "avió", 
+        "aeroplà", 
+        "vehicle"
+    ], 
+    "✉️": [
+        "mail", 
+        "correu", 
+        "sobre", 
+        "correu electrònic"
+    ], 
     "✊": [
-        "puny alçat", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "puny alçat: tipus de pell 3", 
+        "puny alçat: tipus de pell 1–2", 
+        "puny alçat: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "puny alçat: tipus de pell 5", 
+        "puny alçat: tipus de pell 4", 
         "puny", 
-        "mà"
+        "puny alçat"
     ], 
     "✋": [
+        "tipus de pell 3", 
         "cos", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "mà aixecada: tipus de pell 4", 
+        "mà aixecada: tipus de pell 5", 
+        "mà aixecada: tipus de pell 6", 
         "mà aixecada", 
+        "mà aixecada: tipus de pell 3", 
+        "mà aixecada: tipus de pell 1–2"
+    ], 
+    "✌️": [
+        "victòria", 
+        "senyal de la victòria", 
+        "senyal"
+    ], 
+    "✍️": [
+        "mà que escriu", 
+        "escriure", 
         "mà"
+    ], 
+    "✏️": [
+        "llapis"
+    ], 
+    "✒️": [
+        "negra", 
+        "ploma", 
+        "ploma negra"
+    ], 
+    "✔️": [
+        "marca de verificació gran", 
+        "marca", 
+        "gran", 
+        "verificació"
+    ], 
+    "✖️": [
+        "multiplicar", 
+        "signe de multiplicar gran", 
+        "gran", 
+        "signe"
+    ], 
+    "✝️": [
+        "llatina", 
+        "religió", 
+        "creu", 
+        "creu llatina"
+    ], 
+    "✡️": [
+        "judaisme", 
+        "religió", 
+        "estrella de David", 
+        "David", 
+        "estrella", 
+        "jueu"
     ], 
     "✨": [
         "estrella", 
         "espurna", 
         "espurnes", 
         "foc"
+    ], 
+    "✳️": [
+        "asterisc de vuit radis", 
+        "asterisc", 
+        "vuit radis"
+    ], 
+    "✴️": [
+        "estrella", 
+        "estrella de vuit puntes", 
+        "vuit puntes"
+    ], 
+    "❄️": [
+        "temps", 
+        "volva", 
+        "neu", 
+        "volva de neu"
+    ], 
+    "❇️": [
+        "espurna"
     ], 
     "❌": [
         "multiplicar", 
@@ -280,6 +868,16 @@
         "exclamació", 
         "signe d’exclamació"
     ], 
+    "❣️": [
+        "cor", 
+        "exclamació", 
+        "exclamació en forma de cor", 
+        "decoratiu"
+    ], 
+    "❤️": [
+        "cor", 
+        "cor vermell"
+    ], 
     "➕": [
         "signe", 
         "suma", 
@@ -298,6 +896,11 @@
         "signe de dividir gran", 
         "gran"
     ], 
+    "➡️": [
+        "fletxa cap a la dreta", 
+        "fletxa", 
+        "dreta"
+    ], 
     "➰": [
         "llaç", 
         "llaç arrissat", 
@@ -307,6 +910,35 @@
         "bucle doble", 
         "bucle", 
         "doble"
+    ], 
+    "⤴️": [
+        "amunt", 
+        "fletxa dreta que gira cap amunt", 
+        "gir", 
+        "fletxa", 
+        "dreta"
+    ], 
+    "⤵️": [
+        "fletxa dreta que gira cap avall", 
+        "avall", 
+        "gir", 
+        "fletxa", 
+        "dreta"
+    ], 
+    "⬅️": [
+        "esquerra", 
+        "fletxa cap a l’esquerra", 
+        "fletxa"
+    ], 
+    "⬆️": [
+        "amunt", 
+        "fletxa cap amunt", 
+        "fletxa"
+    ], 
+    "⬇️": [
+        "avall", 
+        "fletxa cap avall", 
+        "fletxa"
     ], 
     "⬛": [
         "quadrat", 
@@ -329,6 +961,28 @@
         "gran", 
         "cercle"
     ], 
+    "〰️": [
+        "guió ondulat", 
+        "ondulat", 
+        "guió"
+    ], 
+    "〽️": [
+        "signe", 
+        "alternança", 
+        "signe d’alternança"
+    ], 
+    "㊗️": [
+        "cercle amb ideograma d’enhorabona", 
+        "ideograma", 
+        "enhorabona", 
+        "cercle"
+    ], 
+    "㊙️": [
+        "secret", 
+        "ideograma", 
+        "cercle amb ideograma de secret", 
+        "cercle"
+    ], 
     "🀄": [
         "drac vermell", 
         "mahjong del drac vermell", 
@@ -338,6 +992,28 @@
     "🃏": [
         "carta", 
         "comodí"
+    ], 
+    "🅰️": [
+        "A", 
+        "botó", 
+        "botó A"
+    ], 
+    "🅱️": [
+        "botó B", 
+        "B", 
+        "botó"
+    ], 
+    "🅾️": [
+        "botó O", 
+        "botó", 
+        "O", 
+        "lletra"
+    ], 
+    "🅿️": [
+        "P", 
+        "botó", 
+        "botó P", 
+        "lletra"
     ], 
     "🆎": [
         "AB", 
@@ -1438,6 +2114,12 @@
         "katakana", 
         "quadre"
     ], 
+    "🈂️": [
+        "katakana", 
+        "quadre", 
+        "sa", 
+        "botó japonès \"no gratuït\""
+    ], 
     "🈚": [
         "quadre", 
         "negació", 
@@ -1479,6 +2161,12 @@
         "existir", 
         "quadre", 
         "ideograma"
+    ], 
+    "🈷️": [
+        "quadre", 
+        "quadre amb ideograma de lluna", 
+        "ideograma", 
+        "lluna"
     ], 
     "🈸": [
         "quadre", 
@@ -1695,6 +2383,63 @@
         "espai", 
         "estrella fugaç"
     ], 
+    "🌡️": [
+        "temperatura", 
+        "termòmetre"
+    ], 
+    "🌤️": [
+        "temps", 
+        "núvol petit", 
+        "sol", 
+        "sol darrere d’un núvol petit"
+    ], 
+    "🌥️": [
+        "temps", 
+        "sol darrere d’un núvol gran", 
+        "núvol gran", 
+        "sol"
+    ], 
+    "🌦️": [
+        "temps", 
+        "núvol", 
+        "sol", 
+        "sol darrere un núvol amb pluja", 
+        "pluja"
+    ], 
+    "🌧️": [
+        "temps", 
+        "núvol", 
+        "núvol amb pluja", 
+        "pluja"
+    ], 
+    "🌨️": [
+        "temps", 
+        "núvol", 
+        "neu", 
+        "núvol amb neu"
+    ], 
+    "🌩️": [
+        "temps", 
+        "núvol", 
+        "núvol amb llamp", 
+        "llamp"
+    ], 
+    "🌪️": [
+        "temps", 
+        "tornado", 
+        "remolí"
+    ], 
+    "🌫️": [
+        "boira", 
+        "temps", 
+        "núvol"
+    ], 
+    "🌬️": [
+        "vent", 
+        "núvol", 
+        "bufar", 
+        "cara"
+    ], 
     "🌭": [
         "hot dog", 
         "salsitxa", 
@@ -1738,6 +2483,12 @@
     "🌵": [
         "planta", 
         "cactus"
+    ], 
+    "🌶️": [
+        "pebrot", 
+        "bitxo", 
+        "picant", 
+        "planta"
     ], 
     "🌷": [
         "flor", 
@@ -2115,6 +2866,12 @@
         "ampolla", 
         "llet"
     ], 
+    "🍽️": [
+        "forquilla, ganivet i plat", 
+        "plat", 
+        "forquilla", 
+        "ganivet"
+    ], 
     "🍾": [
         "cava", 
         "tap", 
@@ -2155,10 +2912,20 @@
         "Nadal"
     ], 
     "🎅": [
+        "tipus de pell 3", 
         "pare", 
         "Nadal", 
+        "tipus de pell 6", 
+        "pare Noel: tipus de pell 3", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "pare Noel: tipus de pell 5", 
+        "pare Noel: tipus de pell 4", 
+        "pare Noel: tipus de pell 6", 
         "pare Noel", 
-        "Noel"
+        "Noel", 
+        "pare Noel: tipus de pell 1–2"
     ], 
     "🎆": [
         "focs d’artifici", 
@@ -2236,6 +3003,44 @@
         "birret", 
         "graduació", 
         "celebració"
+    ], 
+    "🎖️": [
+        "medalla militar", 
+        "medalla", 
+        "militar"
+    ], 
+    "🎗️": [
+        "recordatori", 
+        "llaç de recordatori", 
+        "cinta", 
+        "celebració"
+    ], 
+    "🎙️": [
+        "micròfon", 
+        "micròfon d’estudi", 
+        "estudi"
+    ], 
+    "🎚️": [
+        "control lliscant de nivell", 
+        "control lliscant", 
+        "nivell"
+    ], 
+    "🎛️": [
+        "control", 
+        "música", 
+        "botons", 
+        "botons de control"
+    ], 
+    "🎞️": [
+        "fotograma de pel·lícula", 
+        "pel·lícula", 
+        "fotograma", 
+        "cinema"
+    ], 
+    "🎟️": [
+        "bitllet", 
+        "bitllet d’entrada", 
+        "entrada"
     ], 
     "🎠": [
         "cavallets", 
@@ -2416,20 +3221,51 @@
         "quadres"
     ], 
     "🏂": [
+        "surfista de neu: tipus de pell 5", 
+        "tipus de pell 3", 
+        "surfista de neu: tipus de pell 6", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "surfista de neu: tipus de pell 3", 
+        "surfista de neu: tipus de pell 4", 
         "surfista", 
-        "neu", 
-        "surfista de neu"
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "surfista de neu: tipus de pell 1–2", 
+        "surfista de neu", 
+        "neu"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "dona", 
+        "córrer", 
+        "marató", 
+        "dona que corre", 
+        "cursa"
+    ], 
+    "🏃‍♂️": [
+        "marató", 
+        "cursa", 
         "persona que corre", 
+        "home que corre", 
         "corredor", 
-        "marató"
+        "córrer", 
+        "home"
     ], 
-    "🏄": [
-        "onada", 
+    "🏄‍♀️": [
+        "dona", 
+        "dona fent surf", 
+        "femení", 
+        "surf", 
+        "taula"
+    ], 
+    "🏄‍♂️": [
+        "surf", 
+        "home fent surf", 
         "persona que fa surf", 
-        "taula", 
-        "surf"
+        "masculí", 
+        "onada", 
+        "home", 
+        "taula"
     ], 
     "🏅": [
         "medalla esportiva", 
@@ -2442,9 +3278,19 @@
     ], 
     "🏇": [
         "curses de cavalls", 
-        "joquei", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "curses de cavalls: tipus de pell 1–2", 
+        "curses", 
+        "tipus de pell 1–2", 
+        "tipus de pell 5", 
+        "curses de cavalls: tipus de pell 3", 
+        "curses de cavalls: tipus de pell 5", 
         "cavalls", 
-        "curses"
+        "tipus de pell 3", 
+        "curses de cavalls: tipus de pell 6", 
+        "joquei", 
+        "curses de cavalls: tipus de pell 4"
     ], 
     "🏈": [
         "pilota", 
@@ -2456,10 +3302,45 @@
         "pilota de rugbi", 
         "rugbi"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "dona", 
         "nedar", 
+        "femení", 
+        "nedadora"
+    ], 
+    "🏊‍♂️": [
+        "nedador", 
+        "persona que neda", 
+        "masculí", 
         "natació", 
-        "persona que neda"
+        "nedar", 
+        "home"
+    ], 
+    "🏋️‍♂️": [
+        "pesa", 
+        "aixecador", 
+        "persona que aixeca peses", 
+        "halterofília", 
+        "pes"
+    ], 
+    "🏌️‍♂️": [
+        "bola", 
+        "pal", 
+        "golf", 
+        "golfista", 
+        "pilota"
+    ], 
+    "🏍️": [
+        "motocicleta", 
+        "moto", 
+        "curses"
+    ], 
+    "🏎️": [
+        "carreres", 
+        "fórmula 1", 
+        "cotxe de curses", 
+        "cotxe", 
+        "curses"
     ], 
     "🏏": [
         "bola", 
@@ -2490,6 +3371,62 @@
     "🏓": [
         "tennis de taula", 
         "ping pong"
+    ], 
+    "🏔️": [
+        "muntanya amb neu al cim", 
+        "neu", 
+        "muntanya"
+    ], 
+    "🏕️": [
+        "campament", 
+        "acampada", 
+        "càmping"
+    ], 
+    "🏖️": [
+        "platja amb para-sol", 
+        "platja", 
+        "para-sol"
+    ], 
+    "🏗️": [
+        "construcció d’edificis", 
+        "edificis", 
+        "construcció"
+    ], 
+    "🏘️": [
+        "edifici", 
+        "cases", 
+        "casa"
+    ], 
+    "🏙️": [
+        "urbà", 
+        "paisatge", 
+        "paisatge urbà"
+    ], 
+    "🏚️": [
+        "abandonada", 
+        "casa", 
+        "casa abandonada"
+    ], 
+    "🏛️": [
+        "edifici", 
+        "clàssic", 
+        "edifici clàssic"
+    ], 
+    "🏜️": [
+        "desert"
+    ], 
+    "🏝️": [
+        "illa deserta", 
+        "illa", 
+        "deserta"
+    ], 
+    "🏞️": [
+        "parc nacional", 
+        "parc", 
+        "nacional"
+    ], 
+    "🏟️": [
+        "estadi"
     ], 
     "🏠": [
         "edifici", 
@@ -2575,6 +3512,17 @@
         "castell", 
         "construcció"
     ], 
+    "🏳️": [
+        "blanca", 
+        "bandera", 
+        "oneig", 
+        "bandera blanca"
+    ], 
+    "🏳️‍🌈": [
+        "bandera", 
+        "bandera de l’arc de Sant Martí", 
+        "arc de Sant Martí"
+    ], 
     "🏴": [
         "negra", 
         "bandera", 
@@ -2592,6 +3540,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "bandera", 
         "Gal·les"
+    ], 
+    "🏵️": [
+        "planta", 
+        "roseta"
+    ], 
+    "🏷️": [
+        "etiqueta"
     ], 
     "🏸": [
         "bàdminton", 
@@ -2912,19 +3867,46 @@
         "petjades d’animal", 
         "animal"
     ], 
+    "🐿️": [
+        "esquirol"
+    ], 
     "👀": [
         "ulls", 
         "cos", 
         "cara", 
         "ull"
     ], 
-    "👂": [
+    "👁️": [
         "cos", 
-        "orella"
+        "ull"
+    ], 
+    "👂": [
+        "tipus de pell 3", 
+        "cos", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "orella", 
+        "orella: tipus de pell 6", 
+        "orella: tipus de pell 5", 
+        "orella: tipus de pell 4", 
+        "orella: tipus de pell 3", 
+        "tipus de pell 1–2", 
+        "orella: tipus de pell 1–2", 
+        "tipus de pell 5"
     ], 
     "👃": [
+        "nas: tipus de pell 5", 
+        "tipus de pell 3", 
+        "cos", 
+        "nas: tipus de pell 6", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "nas: tipus de pell 3", 
+        "nas: tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "nas", 
-        "cos"
+        "nas: tipus de pell 1–2"
     ], 
     "👄": [
         "cos", 
@@ -2936,63 +3918,173 @@
         "llengua"
     ], 
     "👆": [
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "amunt", 
+        "dit índex", 
+        "tipus de pell 1–2", 
+        "dit índex que apunta cap amunt: tipus de pell 4", 
         "dit índex que apunta cap amunt", 
-        "dit índex"
+        "dit índex que apunta cap amunt: tipus de pell 3", 
+        "dit índex que apunta cap amunt: tipus de pell 6", 
+        "dit índex que apunta cap amunt: tipus de pell 1–2", 
+        "dit índex que apunta cap amunt: tipus de pell 5"
     ], 
     "👇": [
-        "índex", 
+        "tipus de pell 3", 
         "avall", 
-        "dit índex que apunta cap avall"
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "dit índex que apunta cap avall", 
+        "dit índex que apunta cap avall: tipus de pell 1–2", 
+        "tipus de pell 1–2", 
+        "tipus de pell 5", 
+        "índex", 
+        "dit índex que apunta cap avall: tipus de pell 3", 
+        "dit índex que apunta cap avall: tipus de pell 6", 
+        "dit índex que apunta cap avall: tipus de pell 5", 
+        "dit índex que apunta cap avall: tipus de pell 4"
     ], 
     "👈": [
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "esquerra", 
-        "dit índex que apunta cap a l’esquerra", 
-        "índex"
+        "dit índex que apunta cap a l’esquerra: tipus de pell 5", 
+        "dit índex que apunta cap a l’esquerra: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "dit índex que apunta cap a l’esquerra: tipus de pell 3", 
+        "dit índex que apunta cap a l’esquerra: tipus de pell 4", 
+        "índex", 
+        "dit índex que apunta cap a l’esquerra: tipus de pell 1–2", 
+        "dit índex que apunta cap a l’esquerra"
     ], 
     "👉": [
+        "dit índex que apunta cap a la dreta: tipus de pell 1–2", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "índex", 
+        "dit índex que apunta cap a la dreta: tipus de pell 4", 
+        "dit índex que apunta cap a la dreta: tipus de pell 5", 
+        "dit índex que apunta cap a la dreta: tipus de pell 6", 
+        "dit índex que apunta cap a la dreta: tipus de pell 3", 
         "dit índex que apunta cap a la dreta", 
         "dreta"
     ], 
     "👊": [
         "cop de puny", 
         "cop", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "cop de puny: tipus de pell 3", 
+        "cop de puny: tipus de pell 6", 
+        "cop de puny: tipus de pell 1–2", 
+        "cop de puny: tipus de pell 4", 
+        "cop de puny: tipus de pell 5", 
         "a prop", 
-        "puny", 
-        "mà"
+        "puny"
     ], 
     "👋": [
-        "mà que saluda", 
+        "tipus de pell 3", 
+        "mà que saluda: tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "salutació", 
-        "mà"
+        "tipus de pell 1–2", 
+        "mà", 
+        "mà que saluda", 
+        "mà que saluda: tipus de pell 3", 
+        "mà que saluda: tipus de pell 6", 
+        "mà que saluda: tipus de pell 5", 
+        "mà que saluda: tipus de pell 4"
     ], 
     "👌": [
-        "acceptació", 
+        "tipus de pell 3", 
+        "mà d’acceptació: tipus de pell 3", 
         "ok", 
+        "mà d’acceptació: tipus de pell 4", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "acceptació", 
+        "mà d’acceptació: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "tipus de pell 6", 
         "mà d’acceptació", 
-        "mà"
+        "mà d’acceptació: tipus de pell 5", 
+        "mà d’acceptació: tipus de pell 1–2"
     ], 
     "👍": [
+        "tipus de pell 3", 
+        "polze cap amunt", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "amunt", 
+        "polze cap amunt: tipus de pell 1–2", 
+        "polze cap amunt: tipus de pell 5", 
+        "polze cap amunt: tipus de pell 3", 
+        "tipus de pell 1–2", 
+        "polze cap amunt: tipus de pell 6", 
+        "tipus de pell 6", 
         "polze", 
-        "polze cap amunt"
+        "polze cap amunt: tipus de pell 4"
     ], 
     "👎": [
-        "polze", 
+        "tipus de pell 3", 
+        "polze cap avall", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "avall", 
-        "polze cap avall"
+        "tipus de pell 1–2", 
+        "polze cap avall: tipus de pell 1–2", 
+        "polze cap avall: tipus de pell 6", 
+        "polze cap avall: tipus de pell 5", 
+        "polze cap avall: tipus de pell 4", 
+        "polze cap avall: tipus de pell 3", 
+        "polze"
     ], 
     "👏": [
         "mans que aplaudeixen", 
+        "tipus de pell 3", 
+        "mans que aplaudeixen: tipus de pell 1–2", 
+        "mans", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "aplaudiment", 
-        "mans"
+        "tipus de pell 1–2", 
+        "mans que aplaudeixen: tipus de pell 3", 
+        "mans que aplaudeixen: tipus de pell 6", 
+        "mans que aplaudeixen: tipus de pell 4", 
+        "mans que aplaudeixen: tipus de pell 5"
     ], 
     "👐": [
-        "mans obertes", 
+        "tipus de pell 3", 
         "cos", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "mans obertes", 
+        "mans obertes: tipus de pell 3", 
+        "tipus de pell 5", 
+        "mans obertes: tipus de pell 5", 
+        "mans obertes: tipus de pell 4", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "mans obertes: tipus de pell 1–2", 
         "oberta", 
-        "mà"
+        "mans obertes: tipus de pell 6"
     ], 
     "👑": [
         "reina", 
@@ -3105,67 +4197,201 @@
     ], 
     "👦": [
         "nen", 
-        "home", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "noi", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "masculí", 
-        "noi"
+        "noi: tipus de pell 1–2", 
+        "tipus de pell 1–2", 
+        "noi: tipus de pell 3", 
+        "noi: tipus de pell 5", 
+        "noi: tipus de pell 4", 
+        "noi: tipus de pell 6", 
+        "home"
     ], 
     "👧": [
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "noia: tipus de pell 4", 
+        "nena", 
+        "tipus de pell 1–2", 
         "dona", 
         "femení", 
-        "nena", 
-        "noia"
+        "noia: tipus de pell 6", 
+        "noia: tipus de pell 5", 
+        "noia", 
+        "noia: tipus de pell 3", 
+        "noia: tipus de pell 1–2"
     ], 
     "👨": [
+        "tipus de pell 3", 
+        "home: tipus de pell 3", 
+        "home: tipus de pell 5", 
+        "home: tipus de pell 4", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "home: tipus de pell 1–2", 
+        "masculí", 
+        "home: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "home"
+    ], 
+    "👨‍⚕️": [
+        "metge", 
+        "masculí", 
+        "infermer", 
+        "salut", 
+        "doctor"
+    ], 
+    "👨‍⚖️": [
+        "jutge", 
         "home", 
+        "justícia", 
+        "balança", 
         "masculí"
     ], 
-    "👨‍🌾": [
+    "👨‍✈️": [
+        "home pilot", 
         "home", 
+        "masculí", 
+        "avió", 
+        "pilot"
+    ], 
+    "👨‍❤️‍👨": [
+        "parella amb un cor: home i home", 
+        "home", 
+        "cor", 
+        "parella", 
+        "parella amb un cor"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "petó", 
+        "home", 
+        "petó: home i home", 
+        "parella"
+    ], 
+    "👨‍🌾": [
+        "tipus de pell 3", 
+        "pagès: tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "pagès: tipus de pell 1–2", 
         "agricultor", 
         "masculí", 
-        "pagès", 
-        "granger"
+        "pagès: tipus de pell 4", 
+        "pagès: tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "pagès: tipus de pell 6", 
+        "granger", 
+        "home", 
+        "pagès"
     ], 
     "👨‍🍳": [
-        "home", 
+        "tipus de pell 3", 
         "xef", 
+        "cuiner: tipus de pell 1–2", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "masculí", 
-        "cuiner"
+        "tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "cuiner: tipus de pell 5", 
+        "cuiner: tipus de pell 4", 
+        "home", 
+        "cuiner: tipus de pell 6", 
+        "cuiner", 
+        "cuiner: tipus de pell 3"
     ], 
     "👨‍🎓": [
-        "graduat", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "noi estudiant: tipus de pell 1–2", 
+        "tipus de pell 5", 
         "masculí", 
-        "noi estudiant", 
+        "tipus de pell 1–2", 
+        "noi estudiant: tipus de pell 6", 
+        "graduat", 
+        "noi estudiant: tipus de pell 4", 
+        "noi estudiant: tipus de pell 5", 
         "graduació", 
-        "home"
+        "home", 
+        "noi estudiant", 
+        "noi estudiant: tipus de pell 3"
     ], 
     "👨‍🎤": [
         "cantant masculí", 
-        "estrella", 
-        "presentador", 
+        "tipus de pell 3", 
+        "cantant masculí: tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
         "cantant", 
-        "actor"
+        "tipus de pell 5", 
+        "actor", 
+        "estrella", 
+        "cantant masculí: tipus de pell 3", 
+        "cantant masculí: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "cantant masculí: tipus de pell 4", 
+        "cantant masculí: tipus de pell 5", 
+        "presentador"
     ], 
     "👨‍🎨": [
-        "home", 
-        "paleta", 
-        "masculí", 
+        "tipus de pell 3", 
+        "artista masculí: tipus de pell 6", 
+        "tipus de pell 6", 
         "artista", 
-        "artista masculí"
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "artista masculí: tipus de pell 5", 
+        "artista masculí: tipus de pell 4", 
+        "masculí", 
+        "artista masculí: tipus de pell 1–2", 
+        "tipus de pell 1–2", 
+        "paleta", 
+        "artista masculí", 
+        "home", 
+        "artista masculí: tipus de pell 3"
     ], 
     "👨‍🏫": [
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "professor: tipus de pell 1–2", 
+        "professor: tipus de pell 5", 
+        "professor", 
+        "masculí", 
+        "tipus de pell 1–2", 
+        "professor: tipus de pell 3", 
+        "professor: tipus de pell 4", 
         "home", 
         "mestre", 
         "instructor", 
-        "professor", 
-        "masculí"
+        "professor: tipus de pell 6"
     ], 
     "👨‍🏭": [
         "fàbrica", 
-        "operari", 
-        "treballador", 
+        "tipus de pell 3", 
         "industrial", 
-        "masculí"
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "operari: tipus de pell 5", 
+        "operari: tipus de pell 4", 
+        "masculí", 
+        "tipus de pell 1–2", 
+        "operari", 
+        "operari: tipus de pell 6", 
+        "operari: tipus de pell 3", 
+        "operari: tipus de pell 1–2", 
+        "treballador"
     ], 
     "👨‍👦": [
         "mare", 
@@ -3311,96 +4537,285 @@
         "família"
     ], 
     "👨‍💻": [
-        "home", 
-        "programador", 
+        "tipus de pell 3", 
+        "tecnòleg: tipus de pell 3", 
+        "tipus de pell 6", 
         "desenvolupador", 
         "tecnòleg", 
+        "tipus de pell 5", 
+        "tecnòleg: tipus de pell 4", 
+        "tipus de pell 4", 
+        "tipus de pell 1–2", 
+        "home", 
+        "programador", 
+        "tecnòleg: tipus de pell 1–2", 
+        "tecnòleg: tipus de pell 5", 
+        "tecnòleg: tipus de pell 6", 
         "inventor"
     ], 
     "👨‍💼": [
+        "treballador d’oficina: tipus de pell 5", 
+        "tipus de pell 3", 
+        "treballador d’oficina: tipus de pell 6", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "treballador d’oficina: tipus de pell 3", 
+        "treballador d’oficina: tipus de pell 4", 
+        "treballador d’oficina", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "treballador d’oficina: tipus de pell 1–2", 
+        "oficina", 
         "home", 
         "arquitecte", 
-        "oficina", 
-        "treballador d’oficina", 
         "negoci"
     ], 
     "👨‍🔧": [
-        "electricista", 
-        "home", 
-        "masculí", 
+        "mecànic: tipus de pell 4", 
+        "mecànic: tipus de pell 1–2", 
+        "mecànic: tipus de pell 6", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
         "mecànic", 
-        "lampista"
+        "tipus de pell 3", 
+        "masculí", 
+        "tipus de pell 1–2", 
+        "lampista", 
+        "electricista", 
+        "mecànic: tipus de pell 3", 
+        "home", 
+        "mecànic: tipus de pell 5", 
+        "tipus de pell 5"
     ], 
     "👨‍🔬": [
         "químic", 
         "científic", 
+        "enginyer", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "científic: tipus de pell 5", 
+        "científic: tipus de pell 1–2", 
+        "científic: tipus de pell 6", 
+        "científic: tipus de pell 4", 
+        "científic: tipus de pell 3", 
         "biòleg", 
-        "matemàtic", 
-        "enginyer"
+        "matemàtic"
     ], 
     "👨‍🚀": [
-        "home", 
+        "home astronauta: tipus de pell 4", 
+        "tipus de pell 3", 
         "home astronauta", 
+        "home astronauta: tipus de pell 1–2", 
+        "tipus de pell 4", 
+        "home astronauta: tipus de pell 3", 
         "espai", 
-        "astronauta", 
-        "coet"
+        "home astronauta: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "tipus de pell 5", 
+        "tipus de pell 6", 
+        "coet", 
+        "home astronauta: tipus de pell 5", 
+        "home", 
+        "astronauta"
     ], 
     "👨‍🚒": [
+        "bomber: tipus de pell 3", 
+        "tipus de pell 3", 
+        "masculí", 
+        "tipus de pell 6", 
+        "bomber: tipus de pell 5", 
+        "tipus de pell 4", 
+        "bomber: tipus de pell 4", 
+        "bomber: tipus de pell 1–2", 
+        "camió de bombers", 
+        "tipus de pell 1–2", 
+        "tipus de pell 5", 
         "home", 
         "bomber", 
-        "camió de bombers", 
-        "masculí"
+        "bomber: tipus de pell 6"
     ], 
     "👩": [
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "dona: tipus de pell 4", 
+        "tipus de pell 4", 
+        "dona: tipus de pell 3", 
+        "tipus de pell 5", 
+        "dona: tipus de pell 1–2", 
+        "tipus de pell 1–2", 
         "dona", 
-        "femení"
+        "femení", 
+        "dona: tipus de pell 6", 
+        "dona: tipus de pell 5"
+    ], 
+    "👩‍⚕️": [
+        "femení", 
+        "metge", 
+        "infermera", 
+        "doctora", 
+        "salut"
+    ], 
+    "👩‍⚖️": [
+        "dona", 
+        "femení", 
+        "balança", 
+        "jutgessa", 
+        "justícia"
+    ], 
+    "👩‍✈️": [
+        "dona", 
+        "femení", 
+        "dona pilot", 
+        "avió", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "cor", 
+        "parella", 
+        "parella amb un cor", 
+        "dona", 
+        "parella amb un cor: dona i home", 
+        "home"
+    ], 
+    "👩‍❤️‍👩": [
+        "dona", 
+        "parella amb un cor: dona i dona", 
+        "cor", 
+        "parella", 
+        "parella amb un cor"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "petó", 
+        "dona", 
+        "petó: dona i home", 
+        "parella", 
+        "home"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "petó", 
+        "dona", 
+        "parella", 
+        "petó: dona i dona"
     ], 
     "👩‍🌾": [
-        "dona", 
-        "grangera", 
+        "tipus de pell 3", 
+        "pagesa: tipus de pell 5", 
+        "pagesa: tipus de pell 4", 
+        "pagesa: tipus de pell 3", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "agricultora", 
+        "pagesa: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "pagesa", 
+        "dona", 
+        "tipus de pell 6", 
         "femení", 
-        "pagesa"
+        "pagesa: tipus de pell 1–2", 
+        "grangera"
     ], 
     "👩‍🍳": [
+        "cuinera: tipus de pell 1–2", 
+        "xef", 
+        "tipus de pell 6", 
+        "tipus de pell 5", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "cuinera: tipus de pell 3", 
+        "cuinera: tipus de pell 4", 
+        "cuinera: tipus de pell 5", 
+        "cuinera", 
         "dona", 
         "femení", 
-        "xef", 
-        "cuinera"
+        "tipus de pell 1–2", 
+        "cuinera: tipus de pell 6"
     ], 
     "👩‍🎓": [
+        "tipus de pell 3", 
+        "noia estudiant: tipus de pell 1–2", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "noia estudiant: tipus de pell 4", 
+        "noia estudiant: tipus de pell 5", 
+        "noia estudiant: tipus de pell 6", 
+        "graduació", 
+        "noia estudiant: tipus de pell 3", 
         "dona", 
         "femení", 
+        "tipus de pell 1–2", 
+        "tipus de pell 6", 
         "graduada", 
-        "noia estudiant", 
-        "graduació"
+        "noia estudiant"
     ], 
     "👩‍🎤": [
-        "estrella", 
-        "actriu", 
-        "cantant femenina", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
         "cantant", 
+        "tipus de pell 5", 
+        "cantant femenina: tipus de pell 4", 
+        "cantant femenina: tipus de pell 5", 
+        "cantant femenina: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "cantant femenina: tipus de pell 3", 
+        "estrella", 
+        "cantant femenina", 
+        "cantant femenina: tipus de pell 1–2", 
+        "actriu", 
         "presentadora"
     ], 
     "👩‍🎨": [
+        "tipus de pell 3", 
+        "paleta", 
+        "tipus de pell 6", 
+        "artista", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "artista femenina: tipus de pell 6", 
+        "artista femenina: tipus de pell 5", 
+        "tipus de pell 1–2", 
         "dona", 
+        "artista femenina: tipus de pell 1–2", 
         "femení", 
         "artista femenina", 
-        "artista", 
-        "paleta"
+        "artista femenina: tipus de pell 3", 
+        "artista femenina: tipus de pell 4"
     ], 
     "👩‍🏫": [
-        "dona", 
-        "instructora", 
-        "femení", 
+        "professora: tipus de pell 1–2", 
         "professora", 
+        "professora: tipus de pell 3", 
+        "professora: tipus de pell 4", 
+        "professora: tipus de pell 5", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "dona", 
+        "tipus de pell 6", 
+        "femení", 
+        "professora: tipus de pell 6", 
+        "instructora", 
         "mestra"
     ], 
     "👩‍🏭": [
         "fàbrica", 
-        "femení", 
+        "tipus de pell 3", 
         "industrial", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "operària: tipus de pell 1–2", 
+        "operària: tipus de pell 5", 
         "operària", 
+        "tipus de pell 1–2", 
+        "operària: tipus de pell 3", 
+        "operària: tipus de pell 4", 
+        "femení", 
+        "operària: tipus de pell 6", 
         "treballadora"
     ], 
     "👩‍👦": [
@@ -3496,51 +4911,105 @@
         "família"
     ], 
     "👩‍💻": [
-        "dona", 
-        "tecnòloga", 
-        "programadora", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "tecnòloga: tipus de pell 3", 
+        "tecnòloga: tipus de pell 6", 
         "inventora", 
-        "desenvolupadora"
+        "tipus de pell 1–2", 
+        "desenvolupadora", 
+        "dona", 
+        "tecnòloga: tipus de pell 4", 
+        "tecnòloga", 
+        "tecnòloga: tipus de pell 5", 
+        "programadora", 
+        "tecnòloga: tipus de pell 1–2"
     ], 
     "👩‍💼": [
+        "treballadora d’oficina: tipus de pell 3", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 5", 
+        "tipus de pell 4", 
+        "treballadora d’oficina: tipus de pell 1–2", 
+        "treballadora d’oficina: tipus de pell 5", 
+        "treballadora d’oficina: tipus de pell 6", 
+        "treballadora d’oficina: tipus de pell 4", 
+        "tipus de pell 1–2", 
         "dona", 
-        "treballadora d’oficina", 
-        "negoci", 
         "oficina", 
-        "arquitecta"
+        "arquitecta", 
+        "negoci", 
+        "treballadora d’oficina"
     ], 
     "👩‍🔧": [
-        "dona", 
+        "mecànica: tipus de pell 1–2", 
         "electricista", 
-        "femení", 
         "mecànica", 
-        "lampista"
+        "mecànica: tipus de pell 4", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "tipus de pell 5", 
+        "mecànica: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "lampista", 
+        "dona", 
+        "mecànica: tipus de pell 5", 
+        "femení", 
+        "mecànica: tipus de pell 3", 
+        "tipus de pell 6"
     ], 
     "👩‍🔬": [
-        "matemàtica", 
-        "científica", 
+        "tipus de pell 3", 
         "biòloga", 
-        "química", 
-        "enginyera"
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "científica: tipus de pell 3", 
+        "científica", 
+        "tipus de pell 1–2", 
+        "matemàtica", 
+        "enginyera", 
+        "científica: tipus de pell 1–2", 
+        "científica: tipus de pell 6", 
+        "científica: tipus de pell 5", 
+        "científica: tipus de pell 4", 
+        "química"
     ], 
     "👩‍🚀": [
-        "dona", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "dona astronauta", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "dona astronauta: tipus de pell 5", 
         "espai", 
-        "astronauta", 
+        "dona astronauta: tipus de pell 1–2", 
+        "tipus de pell 1–2", 
+        "dona", 
         "coet", 
-        "dona astronauta"
+        "dona astronauta: tipus de pell 3", 
+        "astronauta", 
+        "dona astronauta: tipus de pell 4", 
+        "dona astronauta: tipus de pell 6"
     ], 
     "👩‍🚒": [
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "bombera: tipus de pell 5", 
+        "bombera: tipus de pell 4", 
+        "bombera: tipus de pell 6", 
+        "camió de bombers", 
+        "tipus de pell 1–2", 
         "dona", 
         "bombera", 
         "femení", 
-        "camió de bombers"
-    ], 
-    "👪": [
-        "mare", 
-        "pare", 
-        "família", 
-        "criatura"
+        "bombera: tipus de pell 3", 
+        "bombera: tipus de pell 1–2"
     ], 
     "👫": [
         "dona", 
@@ -3558,64 +5027,174 @@
         "dones que s’agafen de la mà", 
         "dones"
     ], 
-    "👮": [
-        "agent de policia", 
+    "👮‍♀️": [
+        "dona", 
         "policia", 
-        "seguretat", 
+        "femení", 
+        "agent de policia dona", 
         "agent"
     ], 
-    "👯": [
-        "dansaires", 
+    "👮‍♂️": [
+        "masculí", 
+        "agent de policia", 
+        "policia", 
+        "agent", 
+        "agent de policia home", 
+        "home", 
+        "seguretat"
+    ], 
+    "👯‍♀️": [
+        "festa", 
         "conillet", 
-        "persones que ballen disfressades", 
-        "festa"
+        "conilleta", 
+        "dona", 
+        "dansaires", 
+        "dones que ballen disfressades", 
+        "ballarina", 
+        "persones que ballen disfressades"
+    ], 
+    "👯‍♂️": [
+        "home", 
+        "conillet", 
+        "homes que ballen disfressats", 
+        "festa", 
+        "ballarí"
     ], 
     "👰": [
-        "vel", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "núvia", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "núvia amb vel: tipus de pell 4", 
         "núvia amb vel", 
-        "núvia"
+        "tipus de pell 1–2", 
+        "núvia amb vel: tipus de pell 1–2", 
+        "núvia amb vel: tipus de pell 6", 
+        "vel", 
+        "núvia amb vel: tipus de pell 5", 
+        "núvia amb vel: tipus de pell 3"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "dona", 
+        "femení", 
+        "rossa", 
+        "dona rossa"
+    ], 
+    "👱‍♂️": [
+        "persona", 
+        "home ros", 
+        "masculí", 
         "cabells rossos", 
         "persona amb els cabells rossos", 
-        "persona"
+        "home", 
+        "ros"
     ], 
     "👲": [
         "home amb barret xinès", 
-        "home", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "home amb barret xinès: tipus de pell 4", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "home amb barret xinès: tipus de pell 5", 
+        "home amb barret xinès: tipus de pell 1–2", 
+        "home amb barret xinès: tipus de pell 3", 
+        "home amb barret xinès: tipus de pell 6", 
+        "tipus de pell 1–2", 
         "gorra", 
-        "xinès"
+        "xinès", 
+        "home"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "dona", 
+        "dona amb turbant", 
+        "femení", 
+        "turbant"
+    ], 
+    "👳‍♂️": [
+        "home", 
         "persona amb turbant", 
+        "home amb turbant", 
+        "masculí", 
         "turbant"
     ], 
     "👴": [
+        "tipus de pell 3", 
+        "home gran: tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "home gran", 
+        "gran", 
+        "home gran: tipus de pell 3", 
         "home", 
-        "gran"
+        "home gran: tipus de pell 6", 
+        "home gran: tipus de pell 4", 
+        "home gran: tipus de pell 5"
     ], 
     "👵": [
+        "tipus de pell 3", 
+        "dona gran: tipus de pell 5", 
+        "dona gran: tipus de pell 4", 
+        "dona gran: tipus de pell 3", 
+        "tipus de pell 4", 
+        "dona gran", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "dona", 
+        "dona gran: tipus de pell 1–2", 
         "gran", 
-        "dona gran"
+        "tipus de pell 6", 
+        "dona gran: tipus de pell 6"
     ], 
     "👶": [
-        "nounat", 
-        "nadó", 
+        "nadó: tipus de pell 1–2", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "nadó: tipus de pell 4", 
+        "nadó: tipus de pell 5", 
+        "nadó: tipus de pell 6", 
         "bebè", 
-        "recent nascut"
+        "recent nascut", 
+        "tipus de pell 1–2", 
+        "nadó: tipus de pell 3", 
+        "nounat", 
+        "nadó"
     ], 
-    "👷": [
-        "treballador", 
-        "treballador de la construcció", 
+    "👷‍♀️": [
+        "dona", 
+        "dona paleta", 
+        "treballadora", 
+        "femení", 
         "construcció"
+    ], 
+    "👷‍♂️": [
+        "construcció", 
+        "home paleta", 
+        "masculí", 
+        "treballador de la construcció", 
+        "home", 
+        "treballador"
     ], 
     "👸": [
         "conte", 
         "fades", 
-        "fantasia", 
-        "princesa"
+        "tipus de pell 6", 
+        "tipus de pell 5", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "princesa: tipus de pell 4", 
+        "tipus de pell 1–2", 
+        "princesa", 
+        "princesa: tipus de pell 3", 
+        "princesa: tipus de pell 6", 
+        "princesa: tipus de pell 5", 
+        "princesa: tipus de pell 1–2", 
+        "fantasia"
     ], 
     "👹": [
         "conte", 
@@ -3639,11 +5218,21 @@
         "criatura"
     ], 
     "👼": [
-        "fantasia", 
-        "angelet", 
-        "àngel", 
+        "tipus de pell 3", 
+        "angelet: tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "angelet: tipus de pell 3", 
+        "angelet: tipus de pell 4", 
         "bebè", 
-        "ales"
+        "àngel", 
+        "tipus de pell 1–2", 
+        "ales", 
+        "angelet: tipus de pell 6", 
+        "angelet: tipus de pell 5", 
+        "angelet", 
+        "fantasia"
     ], 
     "👽": [
         "cara", 
@@ -3681,21 +5270,49 @@
         "monstre", 
         "cara"
     ], 
-    "💁": [
-        "persona amb mà inclinada cap amunt", 
+    "💁‍♀️": [
+        "flexió", 
+        "dona amb mà inclinada cap amunt", 
+        "ajuda", 
         "mà", 
+        "dona", 
+        "informació", 
+        "persona amb mà inclinada cap amunt"
+    ], 
+    "💁‍♂️": [
+        "home", 
+        "home amb mà inclinada cap amunt", 
         "informació", 
         "ajuda", 
-        "flexió"
+        "mà"
     ], 
-    "💂": [
+    "💂‍♀️": [
+        "dona", 
+        "femení", 
+        "dona guarda", 
         "guarda"
     ], 
+    "💂‍♂️": [
+        "home", 
+        "guarda", 
+        "masculí", 
+        "home guarda"
+    ], 
     "💃": [
+        "dona que balla: tipus de pell 5", 
+        "tipus de pell 3", 
+        "dona que balla: tipus de pell 6", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "dona que balla: tipus de pell 3", 
+        "dona que balla: tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "dona", 
+        "flamenca", 
+        "dona que balla: tipus de pell 1–2", 
         "dona que balla", 
-        "dansa", 
-        "flamenca"
+        "dansa"
     ], 
     "💄": [
         "maquillatge", 
@@ -3703,21 +5320,51 @@
         "pintallavis"
     ], 
     "💅": [
-        "esmalt d’ungles", 
+        "tipus de pell 3", 
         "cosmètics", 
         "esmalt", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "esmalt d’ungles: tipus de pell 6", 
+        "esmalt d’ungles: tipus de pell 4", 
+        "esmalt d’ungles: tipus de pell 5", 
+        "esmalt d’ungles: tipus de pell 3", 
+        "tipus de pell 1–2", 
+        "tipus de pell 6", 
         "manicura", 
+        "esmalt d’ungles", 
+        "esmalt d’ungles: tipus de pell 1–2", 
         "ungla"
     ], 
-    "💆": [
-        "massatge", 
+    "💆‍♀️": [
         "cara", 
+        "saló", 
+        "dona", 
+        "massatge facial a una dona", 
+        "femení", 
         "persona que rep un massatge facial", 
-        "saló"
+        "massatge"
     ], 
-    "💇": [
-        "tallat", 
+    "💆‍♂️": [
+        "massatge", 
+        "home", 
+        "cara", 
+        "masculí", 
+        "massatge facial a un home"
+    ], 
+    "💇‍♀️": [
+        "dona", 
         "persona a la perruqueria", 
+        "tallat", 
+        "femení", 
+        "cabells", 
+        "tallat de cabell femení"
+    ], 
+    "💇‍♂️": [
+        "tallat", 
+        "home", 
+        "tallat de cabell masculí", 
+        "masculí", 
         "cabells"
     ], 
     "💈": [
@@ -3760,19 +5407,10 @@
         "joia", 
         "diamant"
     ], 
-    "💏": [
-        "petó", 
-        "parella"
-    ], 
     "💐": [
         "flor", 
         "planta", 
         "ram de flors"
-    ], 
-    "💑": [
-        "cor", 
-        "parella", 
-        "parella amb un cor"
     ], 
     "💒": [
         "amor", 
@@ -3904,9 +5542,19 @@
         "monstre"
     ], 
     "💪": [
-        "bíceps flexionat", 
+        "tipus de pell 3", 
+        "bíceps flexionat: tipus de pell 3", 
+        "bíceps flexionat: tipus de pell 1–2", 
+        "bíceps flexionat: tipus de pell 5", 
+        "tipus de pell 4", 
+        "flexió", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "tipus de pell 6", 
         "bíceps", 
-        "flexió"
+        "bíceps flexionat: tipus de pell 4", 
+        "bíceps flexionat: tipus de pell 6", 
+        "bíceps flexionat"
     ], 
     "💫": [
         "estrella", 
@@ -4330,6 +5978,11 @@
         "vhs", 
         "cinta"
     ], 
+    "📽️": [
+        "projector cinematogràfic", 
+        "projector", 
+        "cinema"
+    ], 
     "📿": [
         "collaret", 
         "oració", 
@@ -4674,6 +6327,18 @@
         "botó", 
         "botó d’anar avall"
     ], 
+    "🕉️": [
+        "símbol d’om", 
+        "hindú", 
+        "símbol", 
+        "om"
+    ], 
+    "🕊️": [
+        "volar", 
+        "au", 
+        "pau", 
+        "colom"
+    ], 
     "🕋": [
         "religió", 
         "kaaba", 
@@ -4975,31 +6640,243 @@
         "12:30", 
         "dos quarts d’una"
     ], 
+    "🕯️": [
+        "flama", 
+        "llum", 
+        "espelma", 
+        "cera"
+    ], 
+    "🕰️": [
+        "rellotge de taula", 
+        "rellotge", 
+        "taula"
+    ], 
+    "🕳️": [
+        "forat"
+    ], 
+    "🕴️": [
+        "home", 
+        "levitar", 
+        "home de negocis que levita", 
+        "negocis"
+    ], 
+    "🕵️‍♂️": [
+        "investigador", 
+        "espia", 
+        "detectiu"
+    ], 
+    "🕶️": [
+        "ulleres de sol", 
+        "ulleres", 
+        "fosques", 
+        "ull", 
+        "sol"
+    ], 
+    "🕷️": [
+        "aranya", 
+        "insecte"
+    ], 
+    "🕸️": [
+        "teranyina", 
+        "aranya"
+    ], 
+    "🕹️": [
+        "control", 
+        "palanca", 
+        "joystick", 
+        "palanca de control"
+    ], 
     "🕺": [
         "home que balla", 
         "música", 
         "ball", 
+        "tipus de pell 6", 
         "ballant", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "home que balla: tipus de pell 5", 
+        "home que balla: tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "disco", 
+        "home que balla: tipus de pell 6", 
+        "home que balla: tipus de pell 3", 
+        "home que balla: tipus de pell 1–2", 
         "home"
     ], 
+    "🖇️": [
+        "clips", 
+        "clips enganxats", 
+        "enganxats"
+    ], 
+    "🖊️": [
+        "bolígraf"
+    ], 
+    "🖋️": [
+        "ploma", 
+        "estilogràfica", 
+        "ploma estilogràfica"
+    ], 
+    "🖌️": [
+        "pintura", 
+        "pintar", 
+        "pinzell"
+    ], 
+    "🖍️": [
+        "color", 
+        "llapis de color", 
+        "llapis"
+    ], 
+    "🖐️": [
+        "mà alçada", 
+        "mà alçada que ensenya els dits", 
+        "dits"
+    ], 
     "🖕": [
-        "dit", 
+        "tipus de pell 3", 
         "cos", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "dit del mig: tipus de pell 4", 
         "dit del mig", 
-        "mà"
+        "dit", 
+        "dit del mig: tipus de pell 5", 
+        "dit del mig: tipus de pell 6", 
+        "dit del mig: tipus de pell 1–2", 
+        "dit del mig: tipus de pell 3"
     ], 
     "🖖": [
-        "dit", 
-        "spock", 
-        "vulcanià", 
+        "salutació vulcaniana: tipus de pell 3", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
         "salutació vulcaniana", 
-        "mà"
+        "tipus de pell 4", 
+        "salutació vulcaniana: tipus de pell 4", 
+        "vulcanià", 
+        "tipus de pell 5", 
+        "salutació vulcaniana: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "spock", 
+        "salutació vulcaniana: tipus de pell 5", 
+        "dit", 
+        "salutació vulcaniana: tipus de pell 1–2"
     ], 
     "🖤": [
         "cor negre", 
         "cor", 
         "negre"
+    ], 
+    "🖥️": [
+        "sobretaula", 
+        "equip", 
+        "escriptori", 
+        "ordinador d’escriptori"
+    ], 
+    "🖨️": [
+        "impressora", 
+        "ordinador"
+    ], 
+    "🖱️": [
+        "ratolí", 
+        "ratolí d’ordinador", 
+        "ordinador"
+    ], 
+    "🖲️": [
+        "ratolí de bola", 
+        "ordinador"
+    ], 
+    "🖼️": [
+        "art", 
+        "marc", 
+        "quadre", 
+        "museu", 
+        "marc amb quadre", 
+        "pintura"
+    ], 
+    "🗂️": [
+        "targetes", 
+        "separadors", 
+        "organitzador", 
+        "separadors per a organitzador de targetes"
+    ], 
+    "🗃️": [
+        "arxiu", 
+        "dossier", 
+        "carta", 
+        "caixa"
+    ], 
+    "🗄️": [
+        "dossier", 
+        "arxivador", 
+        "moble"
+    ], 
+    "🗑️": [
+        "cubell", 
+        "paperera", 
+        "escombraries"
+    ], 
+    "🗒️": [
+        "bloc de notes d’espiral", 
+        "espiral", 
+        "notes", 
+        "bloc"
+    ], 
+    "🗓️": [
+        "calendari d’espiral", 
+        "calendari", 
+        "espiral"
+    ], 
+    "🗜️": [
+        "pressió", 
+        "eina", 
+        "compressió"
+    ], 
+    "🗝️": [
+        "antiga", 
+        "clau", 
+        "clau antiga"
+    ], 
+    "🗞️": [
+        "diari", 
+        "diari cargolat", 
+        "cargolat"
+    ], 
+    "🗡️": [
+        "ganivet", 
+        "daga", 
+        "arma"
+    ], 
+    "🗣️": [
+        "parlar", 
+        "persona", 
+        "persona que parla"
+    ], 
+    "🗨️": [
+        "esquerra", 
+        "parlar", 
+        "bafarada", 
+        "bafarada de parlar cap a l’esquerra"
+    ], 
+    "🗯️": [
+        "parlar", 
+        "bafarada", 
+        "bafarada de parlar cap a la dreta", 
+        "dreta"
+    ], 
+    "🗳️": [
+        "vot", 
+        "votació", 
+        "urna amb vot", 
+        "urna"
+    ], 
+    "🗺️": [
+        "mapa", 
+        "mapa del món", 
+        "món"
     ], 
     "🗻": [
         "Fuji", 
@@ -5434,24 +7311,53 @@
         "cara amb els ulls en blanc", 
         "ulls en blanc"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "prohibit", 
         "no", 
         "gest de negació", 
         "mà", 
+        "dona", 
         "negació", 
         "prohibició", 
-        "gest"
-    ], 
-    "🙆": [
         "gest", 
+        "dona amb gest de negació"
+    ], 
+    "🙅‍♂️": [
+        "prohibit", 
+        "gest", 
+        "mà", 
+        "home amb gest de negació", 
+        "home"
+    ], 
+    "🙆‍♀️": [
+        "aprovació", 
         "gest d’aprovació", 
-        "aprovació"
-    ], 
-    "🙇": [
-        "persona capcota", 
+        "dona amb gest d’acceptació", 
+        "mà", 
+        "femení", 
         "gest", 
+        "acord"
+    ], 
+    "🙆‍♂️": [
+        "gest", 
+        "masculí", 
+        "acord", 
+        "home amb gest d’acceptació", 
+        "mà"
+    ], 
+    "🙇‍♀️": [
+        "dona", 
+        "gest", 
+        "dona capcota", 
         "disculpa", 
+        "reverència"
+    ], 
+    "🙇‍♂️": [
+        "persona capcota", 
+        "disculpa", 
+        "home capcot", 
+        "home", 
+        "gest", 
         "reverència"
     ], 
     "🙈": [
@@ -5469,30 +7375,85 @@
         "boca tapada", 
         "mona"
     ], 
-    "🙋": [
-        "persona contenta que aixeca la mà", 
+    "🙋‍♀️": [
         "persona", 
+        "mà aixecada", 
+        "dona amb mà aixecada", 
+        "mà", 
+        "dona", 
+        "femení", 
         "somriure", 
-        "mà aixecada"
+        "gest", 
+        "persona contenta que aixeca la mà"
+    ], 
+    "🙋‍♂️": [
+        "home amb mà aixecada", 
+        "gest", 
+        "mà", 
+        "masculí", 
+        "home"
     ], 
     "🙌": [
+        "tipus de pell 3", 
+        "mans aixecades", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "mans enlaire", 
-        "mans aixecades"
+        "mans enlaire: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "mans enlaire: tipus de pell 3", 
+        "mans enlaire: tipus de pell 5", 
+        "mans enlaire: tipus de pell 4", 
+        "mans enlaire: tipus de pell 1–2", 
+        "tipus de pell 6"
     ], 
-    "🙍": [
-        "persona emmurriada", 
+    "🙍‍♀️": [
         "persona", 
-        "emmurriament"
+        "femení", 
+        "arrufar", 
+        "dona emmurriada", 
+        "emmurriament", 
+        "gest", 
+        "persona emmurriada", 
+        "celles"
     ], 
-    "🙎": [
-        "persona enutjada", 
+    "🙍‍♂️": [
+        "gest", 
+        "arrufar", 
+        "masculí", 
+        "celles", 
+        "home emmurriat"
+    ], 
+    "🙎‍♀️": [
+        "dona", 
         "enuig", 
-        "persona"
+        "persona enutjada", 
+        "femení", 
+        "persona", 
+        "gest", 
+        "dona enutjada"
+    ], 
+    "🙎‍♂️": [
+        "gest", 
+        "enuig", 
+        "masculí", 
+        "home enutjat", 
+        "home"
     ], 
     "🙏": [
+        "mans en oració: tipus de pell 5", 
+        "tipus de pell 3", 
         "mans", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "mans en oració: tipus de pell 3", 
+        "mans en oració: tipus de pell 4", 
         "mans en oració", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "plegades", 
+        "mans en oració: tipus de pell 1–2", 
+        "mans en oració: tipus de pell 6", 
         "si us plau", 
         "pregar", 
         "gest", 
@@ -5682,10 +7643,22 @@
         "passatgers", 
         "vehicle"
     ], 
-    "🚣": [
-        "persona que rema en una barca", 
+    "🚣‍♀️": [
+        "dona", 
+        "dona remant", 
+        "femení", 
+        "vaixell", 
+        "rem"
+    ], 
+    "🚣‍♂️": [
         "rems", 
-        "bot"
+        "vaixell", 
+        "masculí", 
+        "bot", 
+        "rem", 
+        "home remant", 
+        "home", 
+        "persona que rema en una barca"
     ], 
     "🚤": [
         "llanxa ràpida", 
@@ -5767,20 +7740,53 @@
         "prohibició", 
         "bicicletes"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "ciclista dona", 
         "ciclisme", 
         "ciclista", 
-        "bicicleta"
+        "bicicleta", 
+        "dona", 
+        "femení"
     ], 
-    "🚵": [
-        "ciclista de muntanya", 
+    "🚴‍♂️": [
+        "ciclisme", 
         "ciclista", 
-        "muntanya"
+        "masculí", 
+        "ciclista home", 
+        "bicicleta", 
+        "home"
     ], 
-    "🚶": [
+    "🚵‍♀️": [
+        "ciclista", 
+        "bicicleta", 
+        "dona", 
+        "femení", 
+        "muntanya", 
+        "ciclista de muntanya dona"
+    ], 
+    "🚵‍♂️": [
+        "masculí", 
+        "ciclista", 
+        "bicicleta", 
+        "ciclista de muntanya home", 
+        "muntanya", 
+        "ciclista de muntanya", 
+        "home"
+    ], 
+    "🚶‍♀️": [
         "caminada", 
-        "persona que camina", 
+        "dona", 
+        "femení", 
+        "dona caminant", 
         "passejada"
+    ], 
+    "🚶‍♂️": [
+        "caminada", 
+        "masculí", 
+        "home caminant", 
+        "persona que camina", 
+        "passejada", 
+        "home"
     ], 
     "🚷": [
         "prohibits els vianants", 
@@ -5831,10 +7837,20 @@
         "aigua"
     ], 
     "🛀": [
+        "tipus de pell 3", 
+        "persona", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "persona a la banyera", 
         "banyera", 
-        "persona", 
-        "bany"
+        "persona a la banyera: tipus de pell 1–2", 
+        "bany", 
+        "tipus de pell 1–2", 
+        "persona a la banyera: tipus de pell 5", 
+        "persona a la banyera: tipus de pell 4", 
+        "persona a la banyera: tipus de pell 3", 
+        "persona a la banyera: tipus de pell 6"
     ], 
     "🛁": [
         "banyera", 
@@ -5859,12 +7875,44 @@
         "equipatge", 
         "armari"
     ], 
+    "🛋️": [
+        "sofà", 
+        "sofà i làmpada", 
+        "làmpada"
+    ], 
     "🛌": [
+        "tipus de pell 3", 
+        "persona al llit: tipus de pell 3", 
+        "llit", 
+        "persona al llit: tipus de pell 5", 
+        "persona al llit: tipus de pell 4", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "hotel", 
+        "persona al llit", 
+        "persona", 
+        "dormir", 
+        "tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "persona al llit: tipus de pell 6", 
+        "persona al llit: tipus de pell 1–2"
+    ], 
+    "🛍️": [
+        "compra", 
+        "bosses", 
+        "bosses de la compra"
+    ], 
+    "🛎️": [
+        "grum", 
+        "recepció", 
+        "hotel", 
+        "timbre del grum", 
+        "timbre"
+    ], 
+    "🛏️": [
         "llit", 
         "hotel", 
-        "dormir", 
-        "persona al llit", 
-        "persona"
+        "dormir"
     ], 
     "🛐": [
         "religió", 
@@ -5884,6 +7932,44 @@
         "compra", 
         "carretó"
     ], 
+    "🛠️": [
+        "martell i clau anglesa", 
+        "clau", 
+        "martell", 
+        "anglesa"
+    ], 
+    "🛡️": [
+        "escut", 
+        "arma"
+    ], 
+    "🛢️": [
+        "bidó de petroli", 
+        "petroli", 
+        "bidó"
+    ], 
+    "🛣️": [
+        "autovia", 
+        "autopista", 
+        "carretera"
+    ], 
+    "🛤️": [
+        "via de tren", 
+        "via", 
+        "tren"
+    ], 
+    "🛥️": [
+        "llanxa de motor", 
+        "llanxa", 
+        "vaixell", 
+        "motor"
+    ], 
+    "🛩️": [
+        "vol", 
+        "avioneta", 
+        "avió", 
+        "aeroplà", 
+        "vehicle"
+    ], 
     "🛫": [
         "vehicle", 
         "enlairament d’avió", 
@@ -5897,6 +7983,17 @@
         "avió", 
         "aterratge", 
         "vehicle"
+    ], 
+    "🛰️": [
+        "espai", 
+        "satèl·lit", 
+        "espacial", 
+        "vehicle"
+    ], 
+    "🛳️": [
+        "vaixell", 
+        "passatgers", 
+        "vaixell de passatgers"
     ], 
     "🛴": [
         "patinet", 
@@ -5971,35 +8068,85 @@
         "abraçada"
     ], 
     "🤘": [
-        "dits en forma de banyes", 
+        "tipus de pell 3", 
         "banyes", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
         "dits", 
-        "rock"
+        "tipus de pell 5", 
+        "dits en forma de banyes: tipus de pell 3", 
+        "dits en forma de banyes: tipus de pell 6", 
+        "dits en forma de banyes: tipus de pell 1–2", 
+        "dits en forma de banyes: tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "rock", 
+        "dits en forma de banyes", 
+        "dits en forma de banyes: tipus de pell 4"
     ], 
     "🤙": [
-        "trucada", 
+        "tipus de pell 3", 
         "mà que representa una trucada", 
-        "mà"
+        "mà que representa una trucada: tipus de pell 3", 
+        "mà que representa una trucada: tipus de pell 4", 
+        "mà que representa una trucada: tipus de pell 5", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "mà que representa una trucada: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "mà", 
+        "mà que representa una trucada: tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "trucada"
     ], 
     "🤚": [
+        "tipus de pell 3", 
         "alçada", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "mà alçada", 
+        "mà alçada: tipus de pell 1–2", 
         "stop", 
+        "tipus de pell 1–2", 
         "mà", 
+        "mà alçada: tipus de pell 6", 
+        "mà alçada: tipus de pell 4", 
+        "mà alçada: tipus de pell 5", 
+        "mà alçada: tipus de pell 3", 
         "estop", 
+        "tipus de pell 6", 
         "aturar-se"
     ], 
     "🤛": [
-        "puny dret", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "salutació", 
         "dret", 
-        "puny"
+        "tipus de pell 1–2", 
+        "puny dret: tipus de pell 4", 
+        "puny dret: tipus de pell 1–2", 
+        "puny dret: tipus de pell 5", 
+        "puny dret", 
+        "puny dret: tipus de pell 6", 
+        "puny", 
+        "puny dret: tipus de pell 3"
     ], 
     "🤜": [
-        "salutació", 
+        "puny esquerre: tipus de pell 3", 
+        "tipus de pell 3", 
         "puny esquerre", 
+        "tipus de pell 6", 
+        "puny esquerre: tipus de pell 5", 
+        "tipus de pell 4", 
+        "puny esquerre: tipus de pell 4", 
         "esquerre", 
-        "puny"
+        "tipus de pell 5", 
+        "salutació", 
+        "tipus de pell 1–2", 
+        "puny esquerre: tipus de pell 1–2", 
+        "puny", 
+        "puny esquerre: tipus de pell 6"
     ], 
     "🤝": [
         "salutació", 
@@ -6010,15 +8157,35 @@
     ], 
     "🤞": [
         "sort", 
-        "creuats", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
         "dits", 
-        "dits creuats"
+        "dits creuats", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "dits creuats: tipus de pell 1–2", 
+        "dits creuats: tipus de pell 3", 
+        "dits creuats: tipus de pell 6", 
+        "dits creuats: tipus de pell 5", 
+        "dits creuats: tipus de pell 4", 
+        "creuats"
     ], 
     "🤟": [
+        "gest de t’estimo: tipus de pell 1–2", 
+        "gest de t’estimo: tipus de pell 3", 
+        "gest de t’estimo: tipus de pell 4", 
+        "tipus de pell 4", 
+        "dits", 
+        "tipus de pell 3", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "mà", 
         "t’estimo", 
         "gest de t’estimo", 
-        "dits", 
-        "mà"
+        "gest de t’estimo: tipus de pell 6", 
+        "tipus de pell 6", 
+        "gest de t’estimo: tipus de pell 5"
     ], 
     "🤠": [
         "vaquer", 
@@ -6066,15 +8233,39 @@
         "mentider"
     ], 
     "🤦": [
+        "tipus de pell 3", 
         "vergonya", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "exasperació", 
+        "tipus de pell 1–2", 
         "mà", 
+        "persona amb cara de frustració: tipus de pell 6", 
         "palmell", 
+        "persona amb cara de frustració: tipus de pell 5", 
+        "persona amb cara de frustració: tipus de pell 4", 
         "indignació", 
         "incredulitat", 
         "cara", 
+        "persona amb cara de frustració: tipus de pell 1–2", 
         "persona amb cara de frustració", 
-        "frustració"
+        "frustració", 
+        "persona amb cara de frustració: tipus de pell 3"
+    ], 
+    "🤦‍♀️": [
+        "dona", 
+        "incredulitat", 
+        "exasperació", 
+        "dona amb la mà al front", 
+        "mà"
+    ], 
+    "🤦‍♂️": [
+        "home", 
+        "incredulitat", 
+        "exasperació", 
+        "home amb la mà al front", 
+        "mà"
     ], 
     "🤧": [
         "esternudant", 
@@ -6130,61 +8321,207 @@
         "estupefacta"
     ], 
     "🤰": [
-        "dona", 
-        "prenyada", 
+        "embarassada: tipus de pell 3", 
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "tipus de pell 5", 
+        "tipus de pell 4", 
         "embarassada", 
-        "embaràs"
+        "prenyada", 
+        "embaràs", 
+        "embarassada: tipus de pell 4", 
+        "tipus de pell 1–2", 
+        "embarassada: tipus de pell 5", 
+        "dona", 
+        "embarassada: tipus de pell 1–2", 
+        "embarassada: tipus de pell 6"
     ], 
     "🤱": [
+        "dona que alleta: tipus de pell 5", 
+        "tipus de pell 3", 
+        "dona que alleta: tipus de pell 6", 
+        "tipus de pell 6", 
+        "lactància", 
+        "dona que alleta: tipus de pell 3", 
+        "dona que alleta: tipus de pell 4", 
         "dona que alleta", 
-        "nadó", 
+        "tipus de pell 5", 
         "alletar", 
-        "lactància"
+        "tipus de pell 4", 
+        "tipus de pell 1–2", 
+        "dona que alleta: tipus de pell 1–2", 
+        "nadó"
     ], 
     "🤲": [
+        "tipus de pell 3", 
+        "palmells de les mans junts", 
+        "palmells de les mans junts: tipus de pell 3", 
+        "palmells de les mans junts: tipus de pell 4", 
+        "palmells de les mans junts: tipus de pell 5", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "pregària", 
-        "palmells de les mans junts"
+        "tipus de pell 1–2", 
+        "palmells de les mans junts: tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "palmells de les mans junts: tipus de pell 6"
     ], 
     "🤳": [
+        "tipus de pell 3", 
         "foto", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "autofoto: tipus de pell 3", 
         "selfie", 
-        "autofoto"
+        "autofoto: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "autofoto: tipus de pell 1–2", 
+        "autofoto: tipus de pell 5", 
+        "autofoto", 
+        "autofoto: tipus de pell 4"
     ], 
     "🤴": [
-        "príncep"
+        "príncep: tipus de pell 6", 
+        "tipus de pell 3", 
+        "príncep: tipus de pell 4", 
+        "príncep: tipus de pell 5", 
+        "príncep", 
+        "príncep: tipus de pell 3", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "príncep: tipus de pell 1–2", 
+        "tipus de pell 1–2", 
+        "tipus de pell 6"
     ], 
     "🤵": [
-        "elegant", 
-        "esmòquing", 
+        "tipus de pell 3", 
         "home elegant", 
-        "home"
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "esmòquing", 
+        "tipus de pell 1–2", 
+        "elegant", 
+        "home elegant: tipus de pell 1–2", 
+        "home elegant: tipus de pell 6", 
+        "home", 
+        "home elegant: tipus de pell 5", 
+        "home elegant: tipus de pell 4", 
+        "home elegant: tipus de pell 3"
     ], 
     "🤶": [
         "mare Noel", 
         "mare", 
         "Nadal", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "mare Noel: tipus de pell 3", 
         "còfia", 
+        "tipus de pell 5", 
+        "mare Noel: tipus de pell 6", 
         "àvia", 
+        "mare Noel: tipus de pell 5", 
+        "mare Noel: tipus de pell 1–2", 
+        "mare Noel: tipus de pell 4", 
+        "tipus de pell 1–2", 
         "Noel"
     ], 
     "🤷": [
+        "persona que arronsa les espatlles: tipus de pell 3", 
+        "tipus de pell 3", 
+        "persona que arronsa les espatlles: tipus de pell 6", 
+        "tipus de pell 6", 
+        "persona que arronsa les espatlles: tipus de pell 5", 
+        "tipus de pell 4", 
+        "persona que arronsa les espatlles: tipus de pell 4", 
         "arronsar", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
         "persona que arronsa les espatlles", 
         "espatlles", 
+        "persona que arronsa les espatlles: tipus de pell 1–2", 
         "ni idea"
     ], 
+    "🤷‍♀️": [
+        "dona", 
+        "indiferència", 
+        "dona amb les espatlles arronsades", 
+        "ignorància", 
+        "dubte"
+    ], 
+    "🤷‍♂️": [
+        "home", 
+        "indiferència", 
+        "ignorància", 
+        "dubte", 
+        "home amb les espatlles arronsades"
+    ], 
     "🤸": [
+        "tipus de pell 3", 
+        "esport", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
         "roda", 
+        "persona que fa una roda: tipus de pell 6", 
+        "tipus de pell 1–2", 
+        "persona que fa una roda: tipus de pell 4", 
+        "persona que fa una roda: tipus de pell 3", 
+        "gimnàstica", 
+        "persona que fa una roda: tipus de pell 5", 
+        "persona que fa una roda", 
+        "persona que fa una roda: tipus de pell 1–2"
+    ], 
+    "🤸‍♀️": [
+        "esport", 
+        "dona fent la roda", 
+        "dona", 
+        "femení", 
+        "persona", 
+        "gimnàstica", 
+        "tombarella"
+    ], 
+    "🤸‍♂️": [
+        "persona", 
+        "masculí", 
         "esport", 
         "gimnàstica", 
-        "persona que fa una roda"
+        "tombarella", 
+        "home fent la roda", 
+        "home"
     ], 
     "🤹": [
-        "malabarista", 
+        "persona que fa malabars: tipus de pell 6", 
+        "joc malabar", 
+        "persona que fa malabars: tipus de pell 1–2", 
+        "persona que fa malabars: tipus de pell 5", 
+        "tipus de pell 6", 
+        "persona que fa malabars: tipus de pell 3", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "tipus de pell 5", 
+        "persona que fa malabars: tipus de pell 4", 
+        "tipus de pell 1–2", 
         "circ", 
         "malabarisme", 
-        "persona que fa malabars", 
-        "joc malabar"
+        "malabarista", 
+        "persona que fa malabars"
+    ], 
+    "🤹‍♀️": [
+        "dona", 
+        "malabarista dona", 
+        "femení", 
+        "malabars", 
+        "multitasca"
+    ], 
+    "🤹‍♂️": [
+        "malabarista home", 
+        "home", 
+        "masculí", 
+        "malabars", 
+        "multitasca"
     ], 
     "🤺": [
         "esport", 
@@ -6202,17 +8539,80 @@
         "persones que lluiten", 
         "lluitadors"
     ], 
-    "🤽": [
-        "waterpolo", 
-        "persona que juga a waterpolo", 
+    "🤼‍♀️": [
         "esport", 
+        "dona", 
+        "jugadores de lluita", 
+        "femení", 
+        "persona", 
+        "lluita"
+    ], 
+    "🤼‍♂️": [
+        "esport", 
+        "lluitar", 
+        "lluita", 
+        "masculí", 
+        "jugadors de lluita"
+    ], 
+    "🤽": [
+        "tipus de pell 3", 
+        "esport", 
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "persona que juga a waterpolo", 
+        "tipus de pell 1–2", 
+        "persona que juga a waterpolo: tipus de pell 1–2", 
+        "persona que juga a waterpolo: tipus de pell 6", 
+        "waterpolo", 
+        "persona que juga a waterpolo: tipus de pell 3", 
+        "persona que juga a waterpolo: tipus de pell 4", 
+        "persona que juga a waterpolo: tipus de pell 5", 
         "aigua"
     ], 
-    "🤾": [
-        "handbol", 
+    "🤽‍♀️": [
+        "dona", 
+        "jugadora de waterpolo", 
+        "femení", 
         "esport", 
+        "waterpolo"
+    ], 
+    "🤽‍♂️": [
+        "waterpolo", 
+        "home", 
+        "jugador de waterpolo", 
+        "esport", 
+        "masculí"
+    ], 
+    "🤾": [
+        "tipus de pell 3", 
+        "persona que juga a handbol: tipus de pell 5", 
+        "esport", 
+        "persona que juga a handbol: tipus de pell 3", 
+        "tipus de pell 4", 
+        "persona que juga a handbol: tipus de pell 1–2", 
         "pilota", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "tipus de pell 6", 
+        "persona que juga a handbol: tipus de pell 4", 
+        "handbol", 
+        "persona que juga a handbol: tipus de pell 6", 
         "persona que juga a handbol"
+    ], 
+    "🤾‍♀️": [
+        "dona", 
+        "handbol", 
+        "femení", 
+        "esport", 
+        "jugadora d’handbol"
+    ], 
+    "🤾‍♂️": [
+        "handbol", 
+        "jugador d’handbol", 
+        "esport", 
+        "masculí", 
+        "home"
     ], 
     "🥀": [
         "pansida", 
@@ -6606,78 +9006,190 @@
         "estirada"
     ], 
     "🧑": [
+        "adult: tipus de pell 5", 
+        "tipus de pell 3", 
         "persona", 
-        "adult"
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "adult: tipus de pell 3", 
+        "adult: tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "adult: tipus de pell 6", 
+        "adult", 
+        "adult: tipus de pell 1–2"
     ], 
     "🧒": [
+        "tipus de pell 3", 
         "infant", 
-        "criatura"
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "criatura", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "criatura: tipus de pell 3", 
+        "criatura: tipus de pell 4", 
+        "criatura: tipus de pell 6", 
+        "criatura: tipus de pell 5", 
+        "criatura: tipus de pell 1–2"
     ], 
     "🧓": [
-        "persona gran", 
+        "tipus de pell 3", 
         "persona", 
+        "tipus de pell 6", 
+        "persona gran: tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "persona gran", 
+        "persona gran: tipus de pell 3", 
+        "persona gran: tipus de pell 4", 
         "adult", 
-        "gran"
+        "gran", 
+        "persona gran: tipus de pell 1–2", 
+        "persona gran: tipus de pell 5"
     ], 
     "🧔": [
         "barba", 
-        "persona amb barba"
+        "tipus de pell 6", 
+        "tipus de pell 4", 
+        "tipus de pell 3", 
+        "persona amb barba: tipus de pell 1–2", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "persona amb barba", 
+        "persona amb barba: tipus de pell 3", 
+        "persona amb barba: tipus de pell 5", 
+        "persona amb barba: tipus de pell 4", 
+        "persona amb barba: tipus de pell 6"
     ], 
     "🧕": [
+        "tipus de pell 3", 
+        "tipus de pell 6", 
+        "dona amb el cap cobert: tipus de pell 4", 
+        "tipus de pell 4", 
+        "dona amb el cap cobert: tipus de pell 3", 
+        "dona amb el cap cobert: tipus de pell 5", 
+        "tipus de pell 5", 
+        "tipus de pell 1–2", 
+        "dona amb el cap cobert: tipus de pell 6", 
         "dona amb el cap cobert", 
         "cap cobert", 
-        "mantellina", 
         "mocador de cap", 
-        "hijab"
+        "hijab", 
+        "dona amb el cap cobert: tipus de pell 1–2", 
+        "mantellina"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "dona a la sauna", 
         "vapor", 
+        "sauna"
+    ], 
+    "🧖‍♂️": [
+        "vapor", 
+        "home a la sauna", 
         "persona a la sauna", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "escalada", 
         "escalador", 
         "persona que escala", 
         "escaladora"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "escalada", 
+        "escalador", 
+        "escaladora"
+    ], 
+    "🧘‍♀️": [
         "lotus", 
+        "dona en la posició de lotus", 
         "meditació", 
         "ioga", 
         "persona en la posició de lotus"
     ], 
-    "🧙": [
-        "fetillera", 
-        "fetiller", 
-        "bruixot", 
-        "bruixa", 
-        "mag"
+    "🧘‍♂️": [
+        "home en la posició de lotus", 
+        "lotus", 
+        "meditació", 
+        "ioga"
     ], 
-    "🧚": [
+    "🧙‍♀️": [
+        "fetillera", 
+        "dona maga", 
+        "fetiller", 
+        "bruixa", 
+        "mag", 
+        "bruixot"
+    ], 
+    "🧙‍♂️": [
+        "home mag", 
+        "fetiller", 
+        "bruixot"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
         "fada", 
         "Oberon", 
-        "Titània"
+        "Titània", 
+        "dona fada"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "Oberon", 
+        "home fada"
+    ], 
+    "🧛‍♀️": [
         "morta vivent", 
+        "dona vampir", 
         "mort vivent", 
         "vampir", 
         "Dràcula"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "morta vivent", 
+        "mort vivent", 
+        "home vampir", 
+        "Dràcula"
+    ], 
+    "🧜‍♀️": [
         "sirena", 
+        "dona sirena"
+    ], 
+    "🧜‍♂️": [
+        "Tritó", 
+        "sirena", 
+        "home sirena", 
         "persona sirena"
     ], 
-    "🧝": [
-        "elf", 
-        "màgic"
+    "🧝‍♀️": [
+        "dona elfa", 
+        "màgic", 
+        "màgica"
     ], 
-    "🧞": [
+    "🧝‍♂️": [
+        "home elf", 
+        "elf", 
+        "màgic", 
+        "màgica"
+    ], 
+    "🧞‍♀️": [
+        "dona gènia", 
         "geni"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "home geni", 
+        "geni"
+    ], 
+    "🧟‍♀️": [
+        "morta vivent", 
+        "mort vivent", 
+        "dona zombi"
+    ], 
+    "🧟‍♂️": [
+        "morta vivent", 
+        "home zombi", 
         "mort vivent", 
         "zombi"
     ], 

@@ -1,4 +1,126 @@
 {
+    "#️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: #"
+    ], 
+    "*️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: *"
+    ], 
+    "0️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 0"
+    ], 
+    "1️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 1"
+    ], 
+    "2️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 2"
+    ], 
+    "3️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 3"
+    ], 
+    "4️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 4"
+    ], 
+    "5️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 5"
+    ], 
+    "6️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 6"
+    ], 
+    "7️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 7"
+    ], 
+    "8️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 8"
+    ], 
+    "9️⃣": [
+        "Kapica za tipku", 
+        "Kapica za tipku: 9"
+    ], 
+    "©️": [
+        "autorska prava", 
+        "autorsko pravo"
+    ], 
+    "®️": [
+        "registracija", 
+        "registriran"
+    ], 
+    "‼️": [
+        "interpunkcija", 
+        "uzvik", 
+        "dupli uzvičnik", 
+        "oznaka", 
+        "bum bum"
+    ], 
+    "⁉️": [
+        "interpunkcija", 
+        "oznaka", 
+        "uzvik", 
+        "upit", 
+        "pitanje", 
+        "čuđenje", 
+        "uzvičnik upitnik"
+    ], 
+    "™️": [
+        "tm", 
+        "oznaka", 
+        "zaštitni znak"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informacija", 
+        "izvor informacija"
+    ], 
+    "↔️": [
+        "strjelica", 
+        "strjelica lijevo-desno"
+    ], 
+    "↕️": [
+        "strjelica", 
+        "strjelica gore-dolje"
+    ], 
+    "↖️": [
+        "sjeverozapad", 
+        "smjer", 
+        "strjelica gore-lijevo", 
+        "strjelica"
+    ], 
+    "↗️": [
+        "smjer", 
+        "sjeveroistok", 
+        "strjelica", 
+        "strjelica gore-desno"
+    ], 
+    "↘️": [
+        "smjer", 
+        "jugoistok", 
+        "strjelica", 
+        "strjelica dolje-desno"
+    ], 
+    "↙️": [
+        "jugozapad", 
+        "smjer", 
+        "strjelica", 
+        "strjelica dolje-lijevo"
+    ], 
+    "↩️": [
+        "strjelica", 
+        "strjelica desno zakrivljena nalijevo"
+    ], 
+    "↪️": [
+        "strjelica lijevo zakrivljena nadesno", 
+        "strjelica"
+    ], 
     "⌚": [
         "ručni sat", 
         "sat"
@@ -7,6 +129,14 @@
         "pijesak", 
         "pješčani sat", 
         "tajmer"
+    ], 
+    "⌨️": [
+        "računar", 
+        "tastatura"
+    ], 
+    "⏏️": [
+        "dugme izbaci", 
+        "izbaci"
     ], 
     "⏩": [
         "strjelica", 
@@ -33,9 +163,40 @@
         "dugme brzo dolje", 
         "dolje"
     ], 
+    "⏭️": [
+        "trokut", 
+        "strjelica", 
+        "dugme za sljedeći zapis", 
+        "sljedeća scena", 
+        "sljedeći zapis"
+    ], 
+    "⏮️": [
+        "trokut", 
+        "strjelica", 
+        "prethodni zapis", 
+        "prethodna scena", 
+        "dugme za vraćanje"
+    ], 
+    "⏯️": [
+        "strjelica", 
+        "dugme za pauziranje ili nastavak", 
+        "desno", 
+        "dugme za pauziranje ili nastavak reprodukcije", 
+        "reproduciraj", 
+        "trokut", 
+        "pauza"
+    ], 
     "⏰": [
         "alarm", 
         "budilnik", 
+        "sat"
+    ], 
+    "⏱️": [
+        "štoperica", 
+        "sat"
+    ], 
+    "⏲️": [
+        "tajmer", 
         "sat"
     ], 
     "⏳": [
@@ -43,6 +204,61 @@
         "pješčani sat", 
         "pješčani sat sa tekućim pijeskom", 
         "tajmer"
+    ], 
+    "⏸️": [
+        "pauza", 
+        "vertikalne", 
+        "dugme pauziraj", 
+        "duple"
+    ], 
+    "⏹️": [
+        "stop", 
+        "dugme zaustavi", 
+        "kvadrat"
+    ], 
+    "⏺️": [
+        "snimi", 
+        "dugme snimi", 
+        "krug"
+    ], 
+    "Ⓜ️": [
+        "slovo m u krugu", 
+        "m", 
+        "krug"
+    ], 
+    "▪️": [
+        "crni kvadratić", 
+        "geometrija", 
+        "kvadrat"
+    ], 
+    "▫️": [
+        "geometrija", 
+        "kvadrat", 
+        "bijeli kvadratić"
+    ], 
+    "▶️": [
+        "desno", 
+        "trokut", 
+        "strjelica", 
+        "reproduciraj", 
+        "dugme za reprodukciju"
+    ], 
+    "◀️": [
+        "premotaj", 
+        "lijevo", 
+        "strjelica", 
+        "dugme za premotavanje", 
+        "trokut"
+    ], 
+    "◻️": [
+        "bijeli kvadrat", 
+        "geometrija", 
+        "kvadrat"
+    ], 
+    "◼️": [
+        "crni kvadrat", 
+        "geometrija", 
+        "kvadrat"
     ], 
     "◽": [
         "bijeli srednje mali kvadrat", 
@@ -53,6 +269,43 @@
         "crni srednje mali kvadrat", 
         "geometrija", 
         "kvadrat"
+    ], 
+    "☀️": [
+        "prognoza", 
+        "vrijeme", 
+        "sunčano", 
+        "sunce"
+    ], 
+    "☁️": [
+        "oblaci", 
+        "oblačno", 
+        "prognoza", 
+        "vrijeme"
+    ], 
+    "☂️": [
+        "vrijeme", 
+        "asesoar", 
+        "kiša", 
+        "kišobran"
+    ], 
+    "☃️": [
+        "vrijeme", 
+        "hladnoća", 
+        "snijeg", 
+        "snješko bijelić"
+    ], 
+    "☄️": [
+        "kometa", 
+        "svemir"
+    ], 
+    "☎️": [
+        "telefon"
+    ], 
+    "☑️": [
+        "kutija", 
+        "glasačka", 
+        "glasačka kutija za ispunjene listiće", 
+        "kvačica"
     ], 
     "☔": [
         "kišobran", 
@@ -69,6 +322,85 @@
         "kafa", 
         "piće", 
         "topli napitak"
+    ], 
+    "☘️": [
+        "djetelina", 
+        "biljka"
+    ], 
+    "☝️": [
+        "dlan", 
+        "pokazivanje", 
+        "kažiprst", 
+        "gore", 
+        "pokazivanje kažiprstom gore s okrenutim dlanom"
+    ], 
+    "☠️": [
+        "čudovište", 
+        "tijelo", 
+        "kosti", 
+        "lobanja i ukrštene kosti", 
+        "smrt", 
+        "lobanja", 
+        "ukrštene"
+    ], 
+    "☢️": [
+        "znak", 
+        "radioaktivno"
+    ], 
+    "☣️": [
+        "biološka opasnost", 
+        "znak", 
+        "opasnost", 
+        "biološka"
+    ], 
+    "☦️": [
+        "pravoslavni krst", 
+        "pravoslavlje", 
+        "krst", 
+        "religija"
+    ], 
+    "☪️": [
+        "religija", 
+        "polumjesec i zvijezda", 
+        "musliman", 
+        "islam"
+    ], 
+    "☮️": [
+        "mir", 
+        "simbol za mir"
+    ], 
+    "☯️": [
+        "religija", 
+        "jin", 
+        "jin jang", 
+        "taoizam", 
+        "jang", 
+        "tao"
+    ], 
+    "☸️": [
+        "točak", 
+        "budizam", 
+        "religija", 
+        "točak dharme", 
+        "dharma"
+    ], 
+    "☹️": [
+        "lice", 
+        "mrštenje", 
+        "namrštenost"
+    ], 
+    "☺️": [
+        "osmijeh", 
+        "lice", 
+        "opušten"
+    ], 
+    "♀️": [
+        "žena", 
+        "žensko"
+    ], 
+    "♂️": [
+        "muško", 
+        "muškarac"
     ], 
     "♈": [
         "horoskop", 
@@ -142,14 +474,94 @@
         "ribe", 
         "zodijak"
     ], 
+    "♠️": [
+        "pik", 
+        "znak", 
+        "karte", 
+        "igra"
+    ], 
+    "♣️": [
+        "tref", 
+        "znak", 
+        "karte", 
+        "igra"
+    ], 
+    "♥️": [
+        "srce", 
+        "znak", 
+        "karte", 
+        "igra"
+    ], 
+    "♦️": [
+        "znak", 
+        "karo", 
+        "karte", 
+        "igra"
+    ], 
+    "♨️": [
+        "izvori vruće vode", 
+        "vruć", 
+        "vrućina", 
+        "para", 
+        "izvor"
+    ], 
+    "♻️": [
+        "simbol za reciklažu", 
+        "reciklaža"
+    ], 
     "♿": [
         "prilaz", 
         "invalidska kolica"
+    ], 
+    "⚒️": [
+        "čekić i krampa", 
+        "alat", 
+        "rudarstvo", 
+        "čekić"
     ], 
     "⚓": [
         "sidro", 
         "brod", 
         "alat"
+    ], 
+    "⚔️": [
+        "ukršteni mačevi", 
+        "oružje", 
+        "ukršteni", 
+        "mačevi"
+    ], 
+    "⚕️": [
+        "aesculapius", 
+        "osoblje", 
+        "medicina", 
+        "medicinski simbol"
+    ], 
+    "⚖️": [
+        "pravda", 
+        "vaga", 
+        "jednakost", 
+        "zodijak", 
+        "uteg"
+    ], 
+    "⚗️": [
+        "hemija", 
+        "alat", 
+        "alembik"
+    ], 
+    "⚙️": [
+        "zupčanik", 
+        "alat"
+    ], 
+    "⚛️": [
+        "simbol atoma", 
+        "ateista", 
+        "atom"
+    ], 
+    "⚜️": [
+        "ljiljan"
+    ], 
+    "⚠️": [
+        "upozorenje"
     ], 
     "⚡": [
         "munja", 
@@ -167,6 +579,15 @@
         "geometrija", 
         "crni krug", 
         "krug"
+    ], 
+    "⚰️": [
+        "smrt", 
+        "tabut"
+    ], 
+    "⚱️": [
+        "smrt", 
+        "urna", 
+        "sahrana"
     ], 
     "⚽": [
         "lopta", 
@@ -191,6 +612,14 @@
         "umjereno oblačno", 
         "sunce"
     ], 
+    "⛈️": [
+        "oblaci", 
+        "prognoza", 
+        "kiša", 
+        "oblačno s grmljavinom i kišom", 
+        "grmljavina", 
+        "vrijeme"
+    ], 
     "⛎": [
         "zmija", 
         "zmijonosac", 
@@ -198,6 +627,22 @@
         "nosač", 
         "guja", 
         "zodijak"
+    ], 
+    "⛏️": [
+        "krampa", 
+        "alat", 
+        "rudarstvo"
+    ], 
+    "⛑️": [
+        "šljem", 
+        "pomoć", 
+        "prva pomoć", 
+        "šljem s bijelim krstom", 
+        "krst"
+    ], 
+    "⛓️": [
+        "lanac", 
+        "lanci"
     ], 
     "⛔": [
         "zabranjen ulaz", 
@@ -208,12 +653,29 @@
         "ulaz", 
         "zabranjen"
     ], 
+    "⛩️": [
+        "religija", 
+        "oltar", 
+        "shinto", 
+        "shinto oltar"
+    ], 
     "⛪": [
         "katolicizam", 
         "križ", 
         "crkva", 
         "zgrada", 
         "religija"
+    ], 
+    "⛰️": [
+        "planina"
+    ], 
+    "⛱️": [
+        "kišobran", 
+        "kišobran na zemlji", 
+        "kiša", 
+        "asesoar", 
+        "sunce", 
+        "vrijeme"
     ], 
     "⛲": [
         "fontana"
@@ -223,6 +685,11 @@
         "golf", 
         "igra"
     ], 
+    "⛴️": [
+        "brod", 
+        "čamac", 
+        "trajekt"
+    ], 
     "⛵": [
         "čamac", 
         "vozilo", 
@@ -230,6 +697,21 @@
         "odmaralište", 
         "jedrilica", 
         "more"
+    ], 
+    "⛷️": [
+        "skijanje", 
+        "sport", 
+        "snijeg", 
+        "skijaš"
+    ], 
+    "⛸️": [
+        "klizanje", 
+        "led", 
+        "klizaljke"
+    ], 
+    "⛹️‍♂️": [
+        "lopta", 
+        "osoba s loptom"
     ], 
     "⛺": [
         "kampovanje", 
@@ -242,26 +724,121 @@
         "benzinska pumpa", 
         "pumpa"
     ], 
+    "✂️": [
+        "pribor", 
+        "makaze"
+    ], 
     "✅": [
         "kvačica", 
         "podebljana bijela kvačica", 
         "oznaka"
     ], 
+    "✈️": [
+        "vozilo", 
+        "avion"
+    ], 
+    "✉️": [
+        "e-mail", 
+        "e-pošta", 
+        "koverta", 
+        "pošta"
+    ], 
     "✊": [
         "ruka", 
+        "podignuta pesnica: umjereno svijetla boja kože", 
+        "svijetla boja kože", 
+        "podignuta pesnica: umjereno tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "podignuta pesnica: umjerena boja kože", 
         "pesnica", 
-        "podignuta pesnica"
+        "podignuta pesnica: svijetla boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "podignuta pesnica: tamna boja kože", 
+        "podignuta pesnica", 
+        "umjerena boja kože"
     ], 
     "✋": [
         "ruka", 
-        "podignuta šaka", 
+        "svijetla boja kože", 
+        "podignuta šaka: umjereno svijetla boja kože", 
+        "podignuta šaka: umjereno tamna boja kože", 
+        "podignuta šaka: umjerena boja kože", 
         "prsti", 
-        "pokazivanje"
+        "pokazivanje", 
+        "umjereno tamna boja kože", 
+        "podignuta šaka", 
+        "podignuta šaka: svijetla boja kože", 
+        "podignuta šaka: tamna boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
+    ], 
+    "✌️": [
+        "ruka", 
+        "dva prsta", 
+        "pokazivanje", 
+        "pobjeda", 
+        "dva prsta u znaku pobjede"
+    ], 
+    "✍️": [
+        "ruka", 
+        "pisanje", 
+        "ruka koja piše"
+    ], 
+    "✏️": [
+        "olovka"
+    ], 
+    "✒️": [
+        "olovka", 
+        "pero", 
+        "crno pero"
+    ], 
+    "✔️": [
+        "kvačica", 
+        "podebljana kvačica", 
+        "oznaka"
+    ], 
+    "✖️": [
+        "umnoži", 
+        "podebljan križić", 
+        "otkaži", 
+        "prekriži", 
+        "puta", 
+        "x"
+    ], 
+    "✝️": [
+        "katolicizam", 
+        "križ", 
+        "latinski križ", 
+        "religija"
+    ], 
+    "✡️": [
+        "religija", 
+        "židov", 
+        "zvijezda", 
+        "davidova zvijezda", 
+        "david"
     ], 
     "✨": [
         "iskre", 
         "iskrice", 
         "zvjezdice"
+    ], 
+    "✳️": [
+        "asterisk"
+    ], 
+    "✴️": [
+        "zvjezdica"
+    ], 
+    "❄️": [
+        "pahuljica snijega", 
+        "hladnoća", 
+        "snijeg", 
+        "vrijeme"
+    ], 
+    "❇️": [
+        "iskra"
     ], 
     "❌": [
         "križić", 
@@ -303,6 +880,17 @@
         "uzvičnik", 
         "oznaka"
     ], 
+    "❣️": [
+        "znak", 
+        "simbol", 
+        "uzvičnik u obliku srca", 
+        "uzvičnik", 
+        "srce"
+    ], 
+    "❤️": [
+        "srce", 
+        "crveno srce"
+    ], 
     "➕": [
         "podebljani znak plus", 
         "plus", 
@@ -318,6 +906,12 @@
         "podebljani znak dijeljenja", 
         "matematika"
     ], 
+    "➡️": [
+        "strjelica desno", 
+        "smjer", 
+        "strjelica", 
+        "istok"
+    ], 
     "➰": [
         "petlja", 
         "rotor", 
@@ -328,6 +922,32 @@
         "rotor", 
         "dupla", 
         "dupla uvrnuta petlja"
+    ], 
+    "⤴️": [
+        "strjelica", 
+        "strjelica desno zakrivljena prema gore"
+    ], 
+    "⤵️": [
+        "strjelica desno zakrivljena prema dolje", 
+        "strjelica"
+    ], 
+    "⬅️": [
+        "smjer", 
+        "zapad", 
+        "strjelica", 
+        "strjelica lijevo"
+    ], 
+    "⬆️": [
+        "smjer", 
+        "strjelica gore", 
+        "sjever", 
+        "strjelica"
+    ], 
+    "⬇️": [
+        "smjer", 
+        "jug", 
+        "strjelica dolje", 
+        "strjelica"
     ], 
     "⬛": [
         "crni veliki kvadrat", 
@@ -348,6 +968,27 @@
         "o", 
         "krug"
     ], 
+    "〰️": [
+        "crtice", 
+        "interpunkcija", 
+        "talasasta crta", 
+        "talas"
+    ], 
+    "〽️": [
+        "dio", 
+        "oznaka djelimične alteracije", 
+        "oznaka"
+    ], 
+    "㊗️": [
+        "japanski", 
+        "Dugme sa tekstom \"čestitamo\" na japanskom", 
+        "Dugme \"čestitamo\" na jap."
+    ], 
+    "㊙️": [
+        "Dugme \"tajna\" na jap.", 
+        "Dugme sa tekstom \"tajna\" na japanskom", 
+        "japanski"
+    ], 
     "🀄": [
         "mahjong", 
         "mahjong crveni zmaj", 
@@ -357,6 +998,25 @@
         "džoker", 
         "karte", 
         "igra"
+    ], 
+    "🅰️": [
+        "a", 
+        "a tipka", 
+        "krvna grupa"
+    ], 
+    "🅱️": [
+        "krvna grupa", 
+        "b", 
+        "b tipka"
+    ], 
+    "🅾️": [
+        "krvna grupa", 
+        "o", 
+        "dugme o"
+    ], 
+    "🅿️": [
+        "dugme p", 
+        "parking"
     ], 
     "🆎": [
         "krvna grupa", 
@@ -1445,6 +2105,11 @@
         "japanski", 
         "Dugme sa tekstom \"ovdje\" na japanskom"
     ], 
+    "🈂️": [
+        "Dugme sa tekstom \"usluga se naplaćuje\" na japanskom", 
+        "japanski", 
+        "Dugme \"usluga se naplaćuje\" na jap."
+    ], 
     "🈚": [
         "Dugme sa tekstom \"besplatno\" na japanskom", 
         "Dugme \"besplatno\" na jap.", 
@@ -1479,6 +2144,11 @@
         "Dugme \"nije besplatno\" na jap.", 
         "Dugme sa tekstom \"nije besplatno\" na japanskom", 
         "japanski"
+    ], 
+    "🈷️": [
+        "Dugme sa tekstom \"mjesečni iznos\" na japanskom", 
+        "japanski", 
+        "Dugme \"mjesečni iznos\" na jap."
     ], 
     "🈸": [
         "Dugme sa tekstom \"prijava\" na japanskom", 
@@ -1719,6 +2389,72 @@
         "zvijezda", 
         "svemir"
     ], 
+    "🌡️": [
+        "termometar", 
+        "vrijeme"
+    ], 
+    "🌤️": [
+        "oblaci", 
+        "prognoza", 
+        "vrijeme", 
+        "pretežno sunčano", 
+        "sunce"
+    ], 
+    "🌥️": [
+        "oblaci", 
+        "prognoza", 
+        "pretežno oblačno", 
+        "vrijeme"
+    ], 
+    "🌦️": [
+        "oblaci", 
+        "prognoza", 
+        "kiša", 
+        "umjereno oblačno s kišom", 
+        "sunce", 
+        "vrijeme"
+    ], 
+    "🌧️": [
+        "oblaci", 
+        "oblačno s kišom", 
+        "prognoza", 
+        "kiša", 
+        "vrijeme"
+    ], 
+    "🌨️": [
+        "oblaci", 
+        "snijeg", 
+        "prognoza", 
+        "oblačno sa snijegom", 
+        "vrijeme"
+    ], 
+    "🌩️": [
+        "oblaci", 
+        "prognoza", 
+        "vrijeme", 
+        "grmljavina", 
+        "oblačno s grmljavinom"
+    ], 
+    "🌪️": [
+        "oblaci", 
+        "tornado", 
+        "prognoza", 
+        "vihor", 
+        "vrijeme"
+    ], 
+    "🌫️": [
+        "oblaci", 
+        "prognoza", 
+        "magla", 
+        "vrijeme"
+    ], 
+    "🌬️": [
+        "prognoza", 
+        "vrijeme", 
+        "vjetar", 
+        "lice", 
+        "lice u vjetru"
+    ], 
     "🌭": [
         "hot dog", 
         "hrenovka", 
@@ -1761,6 +2497,13 @@
     ], 
     "🌵": [
         "kaktus", 
+        "biljka"
+    ], 
+    "🌶️": [
+        "paprika", 
+        "ljuti feferon", 
+        "ljuta", 
+        "feferon", 
         "biljka"
     ], 
     "🌷": [
@@ -2173,6 +2916,13 @@
         "mlijeko", 
         "flašica za bebu"
     ], 
+    "🍽️": [
+        "kuhanje", 
+        "tanjir", 
+        "nož", 
+        "viljuška i nož uz tanjir", 
+        "viljuška"
+    ], 
     "🍾": [
         "šank", 
         "čep", 
@@ -2217,10 +2967,20 @@
         "drvo"
     ], 
     "🎅": [
-        "praznici", 
+        "djed mraz: umjerena boja kože", 
         "božić", 
         "djed mraz", 
-        "nova godina"
+        "svijetla boja kože", 
+        "praznici", 
+        "umjereno tamna boja kože", 
+        "djed mraz: tamna boja kože", 
+        "nova godina", 
+        "djed mraz: umjereno svijetla boja kože", 
+        "djed mraz: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "djed mraz: svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "🎆": [
         "zabava", 
@@ -2306,6 +3066,44 @@
         "asesoar", 
         "maturska kapa", 
         "diploma"
+    ], 
+    "🎖️": [
+        "proslava", 
+        "vojska", 
+        "medalja", 
+        "vojna medalja"
+    ], 
+    "🎗️": [
+        "simbolična traka", 
+        "proslava", 
+        "počast"
+    ], 
+    "🎙️": [
+        "pjevanje", 
+        "studio", 
+        "mikrofon", 
+        "studijski mikrofon"
+    ], 
+    "🎚️": [
+        "muzika", 
+        "klizni potenciometar", 
+        "nivo", 
+        "klizač"
+    ], 
+    "🎛️": [
+        "kontrola", 
+        "muzika", 
+        "dugmad", 
+        "potenciometar"
+    ], 
+    "🎞️": [
+        "kadar", 
+        "kino", 
+        "film"
+    ], 
+    "🎟️": [
+        "ulaznica", 
+        "karta"
     ], 
     "🎠": [
         "vrteška", 
@@ -2489,20 +3287,46 @@
         "utrke"
     ], 
     "🏂": [
-        "snijeg", 
         "daska", 
+        "svijetla boja kože", 
+        "daskanje na snijegu: umjereno tamna boja kože", 
+        "daskanje na snijegu: umjereno svijetla boja kože", 
         "daskanje na snijegu", 
-        "daskanje"
+        "snijeg", 
+        "umjereno tamna boja kože", 
+        "daskanje na snijegu: svijetla boja kože", 
+        "daskanje na snijegu: umjerena boja kože", 
+        "daskanje", 
+        "umjereno svijetla boja kože", 
+        "daskanje na snijegu: tamna boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "žena", 
         "trčanje", 
-        "osoba trči", 
+        "žena trči", 
         "trka", 
         "maraton"
     ], 
-    "🏄": [
-        "osoba surfa", 
+    "🏃‍♂️": [
+        "trka", 
+        "maraton", 
+        "muškarac trči", 
+        "muškarac", 
+        "trčanje", 
+        "osoba trči"
+    ], 
+    "🏄‍♀️": [
+        "žena", 
+        "surferka", 
         "surfanje"
+    ], 
+    "🏄‍♂️": [
+        "surfer", 
+        "osoba surfa", 
+        "surfanje", 
+        "muškarac"
     ], 
     "🏅": [
         "medalja", 
@@ -2516,8 +3340,18 @@
         "jahanje", 
         "jahanje konja", 
         "konj", 
+        "svijetla boja kože", 
+        "trka", 
         "trkaći konj", 
-        "trka"
+        "umjereno tamna boja kože", 
+        "jahanje konja: umjereno svijetla boja kože", 
+        "jahanje konja: svijetla boja kože", 
+        "jahanje konja: umjereno tamna boja kože", 
+        "jahanje konja: umjerena boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "jahanje konja: tamna boja kože", 
+        "umjerena boja kože"
     ], 
     "🏈": [
         "fudbal", 
@@ -2531,9 +3365,35 @@
         "lopta", 
         "sport"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "žena", 
+        "plivačica", 
+        "plivanje"
+    ], 
+    "🏊‍♂️": [
         "plivanje", 
+        "plivač", 
+        "muškarac", 
         "osoba pliva"
+    ], 
+    "🏋️‍♂️": [
+        "dizač tegova", 
+        "tegovi", 
+        "osoba diže tegove", 
+        "težina"
+    ], 
+    "🏌️‍♂️": [
+        "osoba igra golf", 
+        "golf"
+    ], 
+    "🏍️": [
+        "utrka", 
+        "motor"
+    ], 
+    "🏎️": [
+        "auto", 
+        "utrka", 
+        "trkaći automobil"
     ], 
     "🏏": [
         "bat", 
@@ -2569,6 +3429,61 @@
         "sto", 
         "stoni tenis", 
         "sport"
+    ], 
+    "🏔️": [
+        "hladan", 
+        "snijeg", 
+        "sniježni planinski vrh", 
+        "planina"
+    ], 
+    "🏕️": [
+        "kampovanje", 
+        "kamp"
+    ], 
+    "🏖️": [
+        "suncobran", 
+        "plaža sa suncobranom", 
+        "plaža"
+    ], 
+    "🏗️": [
+        "građevina", 
+        "zgrada"
+    ], 
+    "🏘️": [
+        "kuća", 
+        "kuće", 
+        "zgrada"
+    ], 
+    "🏙️": [
+        "zgrada", 
+        "grad", 
+        "pogled na grad"
+    ], 
+    "🏚️": [
+        "napuštena", 
+        "kuća", 
+        "napuštena kuća", 
+        "zgrada"
+    ], 
+    "🏛️": [
+        "klasika", 
+        "klasična zgrada", 
+        "zgrada"
+    ], 
+    "🏜️": [
+        "pustinja"
+    ], 
+    "🏝️": [
+        "otok", 
+        "pustinja", 
+        "pusti otok"
+    ], 
+    "🏞️": [
+        "park", 
+        "nacionalni park"
+    ], 
+    "🏟️": [
+        "stadion"
     ], 
     "🏠": [
         "kuća", 
@@ -2663,9 +3578,25 @@
         "zgrada", 
         "dvorac"
     ], 
+    "🏳️": [
+        "mahanje", 
+        "bijela zastava"
+    ], 
+    "🏳️‍🌈": [
+        "zastava duginih boja", 
+        "duga", 
+        "zastava"
+    ], 
     "🏴": [
         "mahanje", 
         "crna zastava"
+    ], 
+    "🏵️": [
+        "rozeta", 
+        "biljka"
+    ], 
+    "🏷️": [
+        "etiketa"
     ], 
     "🏸": [
         "reket", 
@@ -2984,16 +3915,43 @@
         "šapa", 
         "otisak"
     ], 
+    "🐿️": [
+        "vjeverica"
+    ], 
     "👀": [
         "lice", 
         "oči"
     ], 
+    "👁️": [
+        "oko", 
+        "tijelo"
+    ], 
     "👂": [
+        "uho: tamna boja kože", 
+        "svijetla boja kože", 
+        "uho: umjereno svijetla boja kože", 
         "uho", 
-        "dio tijela"
+        "uho: svijetla boja kože", 
+        "dio tijela", 
+        "umjereno tamna boja kože", 
+        "uho: umjereno tamna boja kože", 
+        "uho: umjerena boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👃": [
+        "svijetla boja kože", 
+        "nos: umjereno tamna boja kože", 
         "dio tijela", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "nos: svijetla boja kože", 
+        "umjereno svijetla boja kože", 
+        "nos: umjereno svijetla boja kože", 
+        "nos: umjerena boja kože", 
+        "nos: tamna boja kože", 
+        "umjerena boja kože", 
         "nos"
     ], 
     "👄": [
@@ -3005,72 +3963,182 @@
         "tijelo"
     ], 
     "👆": [
-        "pokazivanje kažiprstom gore", 
+        "tamna boja kože", 
         "pokazivanje", 
-        "kažiprst", 
+        "svijetla boja kože", 
+        "pokazivanje kažiprstom gore", 
+        "pokazivanje kažiprstom gore: umjereno tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "nadlanica", 
+        "pokazivanje kažiprstom gore: tamna boja kože", 
+        "pokazivanje kažiprstom gore: umjerena boja kože", 
         "gore", 
-        "nadlanica"
+        "pokazivanje kažiprstom gore: umjereno svijetla boja kože", 
+        "umjereno svijetla boja kože", 
+        "kažiprst", 
+        "umjerena boja kože", 
+        "pokazivanje kažiprstom gore: svijetla boja kože"
     ], 
     "👇": [
-        "kažiprst dolje", 
         "pokazivanje", 
-        "kažiprst", 
+        "kažiprst dolje: tamna boja kože", 
+        "svijetla boja kože", 
+        "kažiprst dolje: umjereno svijetla boja kože", 
+        "kažiprst dolje: umjerena boja kože", 
+        "umjereno tamna boja kože", 
         "nadlanica", 
-        "dolje"
+        "dolje", 
+        "kažiprst dolje: svijetla boja kože", 
+        "kažiprst dolje", 
+        "kažiprst dolje: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "kažiprst", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👈": [
+        "tamna boja kože", 
+        "pokazivanje", 
+        "svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "nadlanica", 
+        "pokazivanje kažiprstom ulijevo: tamna boja kože", 
+        "pokazivanje kažiprstom ulijevo: svijetla boja kože", 
+        "pokazivanje kažiprstom ulijevo: umjerena boja kože", 
+        "umjereno svijetla boja kože", 
         "pokazivanje kažiprstom ulijevo", 
         "lijevo", 
-        "pokazivanje", 
         "kažiprst", 
-        "nadlanica"
+        "pokazivanje kažiprstom ulijevo: umjereno tamna boja kože", 
+        "umjerena boja kože", 
+        "pokazivanje kažiprstom ulijevo: umjereno svijetla boja kože"
     ], 
     "👉": [
-        "desno", 
-        "pokazivanje kažiprstom udesno", 
+        "pokazivanje kažiprstom udesno: svijetla boja kože", 
         "pokazivanje", 
+        "svijetla boja kože", 
+        "pokazivanje kažiprstom udesno: umjerena boja kože", 
+        "desno", 
+        "umjereno tamna boja kože", 
+        "nadlanica", 
+        "pokazivanje kažiprstom udesno: umjereno svijetla boja kože", 
+        "pokazivanje kažiprstom udesno: tamna boja kože", 
+        "tamna boja kože", 
+        "pokazivanje kažiprstom udesno: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "pokazivanje kažiprstom udesno", 
         "kažiprst", 
-        "nadlanica"
+        "umjerena boja kože"
     ], 
     "👊": [
+        "nabacivanje pesnicom: umjereno svijetla boja kože", 
         "ruka", 
+        "svijetla boja kože", 
+        "nabacivanje pesnicom: svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "nabacivanje pesnicom", 
+        "nabacivanje pesnicom: tamna boja kože", 
         "pesnica", 
-        "nabacivanje pesnicom"
+        "nabacivanje pesnicom: umjereno tamna boja kože", 
+        "nabacivanje pesnicom: umjerena boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👋": [
-        "mahanje", 
+        "mahanje rukom: svijetla boja kože", 
         "ruka", 
-        "mahanje rukom"
+        "svijetla boja kože", 
+        "mahanje", 
+        "umjereno tamna boja kože", 
+        "mahanje rukom: umjereno tamna boja kože", 
+        "mahanje rukom: umjereno svijetla boja kože", 
+        "mahanje rukom: umjerena boja kože", 
+        "mahanje rukom", 
+        "umjereno svijetla boja kože", 
+        "mahanje rukom: tamna boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👌": [
         "ruka", 
-        "prsti pokazuju ok", 
-        "pokazivanje", 
         "ok", 
-        "prsti"
+        "svijetla boja kože", 
+        "prsti pokazuju ok: tamna boja kože", 
+        "prsti pokazuju ok: svijetla boja kože", 
+        "prsti", 
+        "umjereno tamna boja kože", 
+        "pokazivanje", 
+        "tamna boja kože", 
+        "prsti pokazuju ok: umjerena boja kože", 
+        "umjereno svijetla boja kože", 
+        "prsti pokazuju ok", 
+        "prsti pokazuju ok: umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "prsti pokazuju ok: umjereno tamna boja kože"
     ], 
     "👍": [
-        "palac", 
         "ruka", 
+        "svijetla boja kože", 
+        "palac gore: umjereno tamna boja kože", 
         "palac gore", 
-        "gore"
+        "umjereno tamna boja kože", 
+        "palac gore: umjereno svijetla boja kože", 
+        "palac", 
+        "gore", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "palac gore: svijetla boja kože", 
+        "palac gore: umjerena boja kože", 
+        "umjerena boja kože", 
+        "palac gore: tamna boja kože"
     ], 
     "👎": [
-        "palac", 
         "ruka", 
+        "svijetla boja kože", 
         "palac dolje", 
-        "dolje"
+        "palac dolje: umjereno svijetla boja kože", 
+        "palac dolje: tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "dolje", 
+        "palac", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "palac dolje: svijetla boja kože", 
+        "palac dolje: umjerena boja kože", 
+        "umjerena boja kože", 
+        "palac dolje: umjereno tamna boja kože"
     ], 
     "👏": [
-        "aplauz", 
-        "aplaudiranje", 
         "dlanovi", 
-        "ruke"
+        "svijetla boja kože", 
+        "aplaudiranje: umjerena boja kože", 
+        "ruke", 
+        "aplaudiranje: umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "aplaudiranje: svijetla boja kože", 
+        "aplauz", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "aplaudiranje", 
+        "aplaudiranje: umjereno tamna boja kože", 
+        "umjerena boja kože", 
+        "aplaudiranje: tamna boja kože"
     ], 
     "👐": [
-        "ruke", 
         "dlanovi", 
-        "otvoreni dlanovi"
+        "svijetla boja kože", 
+        "ruke", 
+        "umjereno tamna boja kože", 
+        "otvoreni dlanovi: umjereno svijetla boja kože", 
+        "otvoreni dlanovi", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "otvoreni dlanovi: tamna boja kože", 
+        "otvoreni dlanovi: svijetla boja kože", 
+        "otvoreni dlanovi: umjereno tamna boja kože", 
+        "umjerena boja kože", 
+        "otvoreni dlanovi: umjerena boja kože"
     ], 
     "👑": [
         "kruna", 
@@ -3191,59 +4259,193 @@
     ], 
     "👦": [
         "mladić", 
-        "dječak"
+        "svijetla boja kože", 
+        "dječak: tamna boja kože", 
+        "dječak: umjereno tamna boja kože", 
+        "dječak: umjereno svijetla boja kože", 
+        "dječak", 
+        "dječak: svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "dječak: umjerena boja kože", 
+        "umjerena boja kože"
     ], 
     "👧": [
+        "djevojčica: umjereno tamna boja kože", 
+        "djevojčica: tamna boja kože", 
+        "djevojčica", 
+        "djevojčica: svijetla boja kože", 
+        "umjereno tamna boja kože", 
         "djevojka", 
-        "djevojčica"
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "djevojčica: umjereno svijetla boja kože", 
+        "djevojčica: umjerena boja kože", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
     ], 
     "👨": [
         "muško", 
+        "muškarac: umjereno svijetla boja kože", 
+        "svijetla boja kože", 
+        "muškarac: svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "muškarac: umjereno tamna boja kože", 
+        "muškarac: tamna boja kože", 
+        "muškarac: umjerena boja kože", 
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
+    ], 
+    "👨‍⚕️": [
+        "zdravstvena njega", 
+        "zdravstveni radnik", 
+        "ljekar", 
+        "liječnik", 
+        "medicinski tehničar", 
+        "muškarac", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "pravda", 
+        "muškarac sudija", 
+        "sudija", 
+        "muškarac"
+    ], 
+    "👨‍✈️": [
+        "pilot", 
+        "avion", 
+        "muškarac"
+    ], 
+    "👨‍❤️‍👨": [
+        "par", 
+        "par i srce: muškarac i muškarac", 
+        "ljubav", 
+        "srce", 
+        "par i srce", 
+        "muškarac"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "poljubac", 
+        "par", 
+        "poljubac: muškarac i muškarac", 
         "muškarac"
     ], 
     "👨‍🌾": [
-        "poljoprivrednik", 
-        "muškarac", 
+        "poljoprivrednik: umjereno svijetla boja kože", 
+        "poljoprivrednik: umjerena boja kože", 
         "selo", 
-        "farmer"
+        "svijetla boja kože", 
+        "poljoprivrednik: svijetla boja kože", 
+        "farmer", 
+        "umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "poljoprivrednik: tamna boja kože", 
+        "poljoprivrednik: umjereno tamna boja kože", 
+        "muškarac", 
+        "poljoprivrednik", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👨‍🍳": [
         "kuhar", 
+        "kuhar: umjereno tamna boja kože", 
+        "svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "kuhar: svijetla boja kože", 
         "šef kuhinje", 
+        "kuhar: umjerena boja kože", 
         "kuhinja", 
-        "muškarac"
+        "kuhar: tamna boja kože", 
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "kuhar: umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👨‍🎓": [
+        "svijetla boja kože", 
+        "student: umjereno svijetla boja kože", 
         "diploma", 
+        "umjereno tamna boja kože", 
+        "student: svijetla boja kože", 
+        "student: umjerena boja kože", 
         "student", 
-        "muškarac"
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "student: tamna boja kože", 
+        "student: umjereno tamna boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👨‍🎤": [
+        "tamna boja kože", 
+        "pjevač: umjereno svijetla boja kože", 
         "zvijezda", 
         "izvođač", 
+        "pjevač: tamna boja kože", 
+        "umjereno tamna boja kože", 
         "zabavljač", 
+        "pjevač: umjerena boja kože", 
         "pjevač", 
+        "pjevač: umjereno tamna boja kože", 
         "muškarac", 
-        "roker"
+        "roker", 
+        "umjereno svijetla boja kože", 
+        "pjevač: svijetla boja kože", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
     ], 
     "👨‍🎨": [
-        "slikar", 
-        "muškarac", 
+        "umjetnik: svijetla boja kože", 
+        "umjetnik: umjerena boja kože", 
+        "svijetla boja kože", 
+        "artist", 
         "umjetnik", 
-        "artist"
+        "umjereno tamna boja kože", 
+        "umjetnik: tamna boja kože", 
+        "muškarac", 
+        "umjetnik: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "slikar", 
+        "umjetnik: umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👨‍🏫": [
+        "profesor: umjereno tamna boja kože", 
+        "svijetla boja kože", 
+        "profesor: tamna boja kože", 
+        "profesor: svijetla boja kože", 
+        "profesor: umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "profesor: umjerena boja kože", 
+        "nastavnik", 
+        "muškarac", 
+        "umjereno svijetla boja kože", 
         "profesor", 
         "učitelj", 
-        "nastavnik", 
-        "muškarac"
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👨‍🏭": [
         "mašine", 
         "radnik u fabrici", 
+        "svijetla boja kože", 
+        "radnik u fabrici: tamna boja kože", 
         "radnik", 
         "fabrika", 
+        "radnik u fabrici: umjereno svijetla boja kože", 
+        "tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "radnik u fabrici: umjereno tamna boja kože", 
         "muškarac", 
+        "umjereno svijetla boja kože", 
+        "radnik u fabrici: umjerena boja kože", 
+        "radnik u fabrici: svijetla boja kože", 
+        "umjerena boja kože", 
         "industrijska proizvodnja"
     ], 
     "👨‍👦": [
@@ -3390,99 +4592,290 @@
         "dijete"
     ], 
     "👨‍💻": [
-        "programer", 
-        "softver", 
         "pronalazač", 
+        "svijetla boja kože", 
+        "softver", 
+        "tehnolog: tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "tehnolog: umjereno svijetla boja kože", 
+        "programer", 
         "tehnolog", 
-        "muškarac"
+        "tehnolog: umjereno tamna boja kože", 
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "tehnolog: umjerena boja kože", 
+        "tehnolog: svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👨‍💼": [
+        "muškarac u kancelariji: umjerena boja kože", 
         "zaposlenik", 
+        "svijetla boja kože", 
         "posao", 
         "kancelarija", 
+        "umjereno tamna boja kože", 
         "muškarac u kancelariji", 
+        "muškarac u kancelariji: svijetla boja kože", 
+        "muškarac u kancelariji: tamna boja kože", 
+        "umjerena boja kože", 
         "muškarac", 
+        "muškarac u kancelariji: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
         "poslovno odijelo", 
-        "menadžer"
+        "muškarac u kancelariji: umjereno svijetla boja kože", 
+        "menadžer", 
+        "tamna boja kože"
     ], 
     "👨‍🔧": [
         "mehaničar", 
+        "svijetla boja kože", 
+        "mehaničar: umjerena boja kože", 
+        "mehaničar: umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "mehaničar: tamna boja kože", 
+        "mehaničar: svijetla boja kože", 
         "alat", 
-        "muškarac"
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "mehaničar: umjereno tamna boja kože"
     ], 
     "👨‍🔬": [
+        "naučnik: tamna boja kože", 
         "fizičar", 
         "inžinjer", 
         "hemičar", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "naučnik: umjereno tamna boja kože", 
         "biolog", 
+        "umjerena boja kože", 
         "muškarac", 
-        "naučnik"
+        "naučnik: umjereno svijetla boja kože", 
+        "umjereno svijetla boja kože", 
+        "naučnik: umjerena boja kože", 
+        "naučnik", 
+        "naučnik: svijetla boja kože", 
+        "svijetla boja kože"
     ], 
     "👨‍🚀": [
-        "raketa", 
+        "svijetla boja kože", 
         "mjesec", 
+        "raketa", 
+        "umjereno tamna boja kože", 
+        "astronaut: umjereno tamna boja kože", 
+        "astronaut: umjereno svijetla boja kože", 
+        "astronaut: umjerena boja kože", 
         "astronaut", 
+        "astronaut: svijetla boja kože", 
         "svemir", 
-        "muškarac"
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "astronaut: tamna boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👨‍🚒": [
-        "vatrogasna kola", 
+        "vatrogasac: umjereno tamna boja kože", 
+        "svijetla boja kože", 
         "vatrogasac", 
-        "muškarac"
+        "umjereno tamna boja kože", 
+        "vatrogasac: umjereno svijetla boja kože", 
+        "vatrogasna kola", 
+        "umjerena boja kože", 
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "vatrogasac: tamna boja kože", 
+        "vatrogasac: umjerena boja kože", 
+        "vatrogasac: svijetla boja kože", 
+        "tamna boja kože"
     ], 
     "👩": [
         "žena", 
-        "žensko"
+        "žena: umjereno tamna boja kože", 
+        "žensko", 
+        "svijetla boja kože", 
+        "žena: svijetla boja kože", 
+        "žena: umjereno svijetla boja kože", 
+        "žena: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "žena: tamna boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
+    ], 
+    "👩‍⚕️": [
+        "žena", 
+        "zdravstvena njega", 
+        "liječnica", 
+        "doktorica", 
+        "medicinska sestra", 
+        "ljekarka", 
+        "zdravstvena radnica"
+    ], 
+    "👩‍⚖️": [
+        "pravda", 
+        "žena", 
+        "sudija", 
+        "žena sudija"
+    ], 
+    "👩‍✈️": [
+        "žena", 
+        "žena pilot", 
+        "avion", 
+        "pilot"
+    ], 
+    "👩‍❤️‍👨": [
+        "žena", 
+        "par", 
+        "ljubav", 
+        "srce", 
+        "par i srce", 
+        "par i srce: žena i muškarac", 
+        "muškarac"
+    ], 
+    "👩‍❤️‍👩": [
+        "žena", 
+        "par", 
+        "ljubav", 
+        "srce", 
+        "par i srce", 
+        "par i srce: žena i žena"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "poljubac", 
+        "žena", 
+        "par", 
+        "poljubac: žena i muškarac", 
+        "muškarac"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "poljubac", 
+        "žena", 
+        "par", 
+        "poljubac: žena i žena"
     ], 
     "👩‍🌾": [
         "žena", 
-        "poljoprivrednik", 
-        "poljoprivrednica", 
         "selo", 
-        "farmer"
+        "svijetla boja kože", 
+        "poljoprivrednica: tamna boja kože", 
+        "poljoprivrednica: umjereno tamna boja kože", 
+        "poljoprivrednica: umjereno svijetla boja kože", 
+        "poljoprivrednica", 
+        "umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "poljoprivrednica: svijetla boja kože", 
+        "poljoprivrednica: umjerena boja kože", 
+        "farmer", 
+        "poljoprivrednik", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👩‍🍳": [
         "kuhar", 
         "žena", 
-        "kuharica", 
+        "kuharica: umjereno tamna boja kože", 
+        "svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "kuharica: svijetla boja kože", 
+        "kuharica: tamna boja kože", 
+        "kuharica: umjereno svijetla boja kože", 
         "kuhinja", 
-        "šef kuhinje"
+        "šef kuhinje", 
+        "kuharica: umjerena boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "kuharica", 
+        "umjerena boja kože"
     ], 
     "👩‍🎓": [
         "žena", 
+        "studentica: svijetla boja kože", 
+        "svijetla boja kože", 
+        "studentica: umjereno tamna boja kože", 
+        "studentica: umjerena boja kože", 
         "studentica", 
         "diploma", 
-        "student"
+        "umjereno tamna boja kože", 
+        "studentica: tamna boja kože", 
+        "studentica: umjereno svijetla boja kože", 
+        "student", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "👩‍🎤": [
         "žena", 
+        "pjevačica: umjereno tamna boja kože", 
         "zvijezda", 
         "izvođač", 
+        "pjevačica: tamna boja kože", 
         "pjevačica", 
+        "tamna boja kože", 
+        "umjereno tamna boja kože", 
         "zabavljač", 
+        "pjevačica: umjerena boja kože", 
         "pjevač", 
-        "roker"
+        "pjevačica: svijetla boja kože", 
+        "pjevačica: umjereno svijetla boja kože", 
+        "roker", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
     ], 
     "👩‍🎨": [
         "žena", 
+        "umjetnica: umjereno svijetla boja kože", 
+        "svijetla boja kože", 
+        "umjetnica: umjereno tamna boja kože", 
+        "artist", 
         "umjetnica", 
-        "slikar", 
         "umjetnik", 
-        "artist"
+        "umjereno tamna boja kože", 
+        "umjetnica: umjerena boja kože", 
+        "tamna boja kože", 
+        "umjetnica: tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "slikar", 
+        "umjetnica: svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "👩‍🏫": [
-        "profesorica", 
         "žena", 
+        "profesorica: tamna boja kože", 
+        "svijetla boja kože", 
+        "profesorica: umjereno svijetla boja kože", 
+        "profesorica: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "profesorica", 
+        "profesorica: svijetla boja kože", 
+        "nastavnik", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
         "profesor", 
         "učitelj", 
-        "nastavnik"
+        "umjerena boja kože", 
+        "profesorica: umjereno tamna boja kože"
     ], 
     "👩‍🏭": [
         "žena", 
         "mašine", 
+        "svijetla boja kože", 
         "radnica u fabrici", 
         "radnik", 
+        "radnica u fabrici: umjereno svijetla boja kože", 
         "fabrika", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "radnica u fabrici: tamna boja kože", 
+        "radnica u fabrici: umjerena boja kože", 
+        "radnica u fabrici: svijetla boja kože", 
+        "umjereno svijetla boja kože", 
+        "radnica u fabrici: umjereno tamna boja kože", 
+        "umjerena boja kože", 
         "industrijska proizvodnja"
     ], 
     "👩‍👦": [
@@ -3578,55 +4971,109 @@
         "dijete"
     ], 
     "👩‍💻": [
-        "programer", 
-        "softver", 
-        "pronalazač", 
         "žena", 
-        "žena tehnolog"
+        "pronalazač", 
+        "žena tehnolog: tamna boja kože", 
+        "svijetla boja kože", 
+        "softver", 
+        "žena tehnolog: umjereno tamna boja kože", 
+        "žena tehnolog: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "programer", 
+        "žena tehnolog: umjereno svijetla boja kože", 
+        "žena tehnolog", 
+        "žena tehnolog: svijetla boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "👩‍💼": [
         "žena", 
         "zaposlenik", 
+        "svijetla boja kože", 
+        "žena u kancelariji: svijetla boja kože", 
+        "žena u kancelariji: umjerena boja kože", 
         "posao", 
         "kancelarija", 
+        "umjereno tamna boja kože", 
+        "žena u kancelariji: tamna boja kože", 
         "žena u kancelariji", 
+        "umjerena boja kože", 
+        "žena u kancelariji: umjereno svijetla boja kože", 
+        "umjereno svijetla boja kože", 
         "poslovno odijelo", 
-        "menadžer"
+        "žena u kancelariji: umjereno tamna boja kože", 
+        "menadžer", 
+        "tamna boja kože"
     ], 
     "👩‍🔧": [
         "žena", 
-        "mehaničarka", 
         "mehaničar", 
-        "alat"
+        "svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "mehaničarka: umjereno tamna boja kože", 
+        "mehaničarka: tamna boja kože", 
+        "mehaničarka", 
+        "umjereno svijetla boja kože", 
+        "alat", 
+        "mehaničarka: umjerena boja kože", 
+        "mehaničarka: svijetla boja kože", 
+        "umjerena boja kože", 
+        "mehaničarka: umjereno svijetla boja kože"
     ], 
     "👩‍🔬": [
         "žena", 
         "fizičar", 
         "inžinjer", 
+        "naučnica: umjereno svijetla boja kože", 
         "hemičar", 
+        "umjereno tamna boja kože", 
+        "naučnica: svijetla boja kože", 
         "biolog", 
+        "svijetla boja kože", 
+        "tamna boja kože", 
+        "naučnica: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "naučnica: tamna boja kože", 
+        "naučnica: umjerena boja kože", 
         "naučnik", 
+        "umjerena boja kože", 
         "naučnica"
     ], 
     "👩‍🚀": [
         "žena", 
+        "svijetla boja kože", 
         "raketa", 
+        "astronautkinja: umjereno tamna boja kože", 
         "mjesec", 
         "astronautkinja", 
+        "umjereno tamna boja kože", 
+        "astronautkinja: tamna boja kože", 
         "astronaut", 
-        "svemir"
+        "svemir", 
+        "astronautkinja: svijetla boja kože", 
+        "umjereno svijetla boja kože", 
+        "astronautkinja: umjerena boja kože", 
+        "astronautkinja: umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👩‍🚒": [
         "žena", 
-        "žena vatrogasac", 
+        "svijetla boja kože", 
+        "žena vatrogasac: umjereno tamna boja kože", 
+        "žena vatrogasac: svijetla boja kože", 
+        "vatrogasac", 
+        "žena vatrogasac: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "žena vatrogasac: umjereno svijetla boja kože", 
         "vatrogasna kola", 
-        "vatrogasac"
-    ], 
-    "👪": [
-        "otac", 
-        "porodica", 
-        "dijete", 
-        "majka"
+        "tamna boja kože", 
+        "žena vatrogasac", 
+        "umjereno svijetla boja kože", 
+        "žena vatrogasac: tamna boja kože", 
+        "umjerena boja kože"
     ], 
     "👫": [
         "žena", 
@@ -3646,65 +5093,163 @@
         "par", 
         "blizanci"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "žena", 
+        "policajac", 
+        "žena policajac", 
+        "policija"
+    ], 
+    "👮‍♂️": [
         "policajac", 
         "policijski službenik", 
         "policija", 
         "muškarac"
     ], 
-    "👯": [
+    "👯‍♀️": [
+        "žena", 
+        "ples", 
         "osobe u provodu", 
-        "provod", 
         "grupa", 
-        "ples"
+        "žena u provodu", 
+        "provod"
+    ], 
+    "👯‍♂️": [
+        "muškarac u provodu", 
+        "provod", 
+        "ples", 
+        "muškarac"
     ], 
     "👰": [
+        "svijetla boja kože", 
+        "mlada s velom: umjereno tamna boja kože", 
         "mlada", 
-        "veo", 
+        "mlada s velom: tamna boja kože", 
+        "mlada s velom: umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "vjenčanje", 
         "mlada s velom", 
-        "vjenčanje"
+        "umjereno svijetla boja kože", 
+        "mlada s velom: umjerena boja kože", 
+        "veo", 
+        "mlada s velom: svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "žena", 
+        "plavuša", 
+        "plava kosa"
+    ], 
+    "👱‍♂️": [
+        "plavušan", 
+        "muškarac", 
         "plava kosa", 
         "osoba sa plavom kosom"
     ], 
     "👲": [
-        "gua pi mao", 
-        "muškarac s kineskom kapom", 
+        "muškarac s kineskom kapom: svijetla boja kože", 
         "kačket", 
-        "muškarac"
+        "svijetla boja kože", 
+        "muškarac s kineskom kapom: umjereno tamna boja kože", 
+        "muškarac s kineskom kapom: umjerena boja kože", 
+        "muškarac s kineskom kapom", 
+        "umjereno tamna boja kože", 
+        "muškarac s kineskom kapom: tamna boja kože", 
+        "gua pi mao", 
+        "muškarac s kineskom kapom: umjereno svijetla boja kože", 
+        "muškarac", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
-    "👳": [
-        "osoba sa turbanom", 
+    "👳‍♀️": [
+        "žena", 
+        "žena sa turbanom", 
         "turban"
     ], 
+    "👳‍♂️": [
+        "osoba sa turbanom", 
+        "čovjek sa turbanom", 
+        "turban", 
+        "muškarac"
+    ], 
     "👴": [
-        "muškarac", 
+        "starac: umjereno svijetla boja kože", 
         "star", 
+        "svijetla boja kože", 
         "starac", 
-        "čovjek"
+        "starac: tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "starac: umjereno tamna boja kože", 
+        "muškarac", 
+        "starac: umjerena boja kože", 
+        "umjereno svijetla boja kože", 
+        "čovjek", 
+        "umjerena boja kože", 
+        "starac: svijetla boja kože"
     ], 
     "👵": [
         "žena", 
+        "starica: tamna boja kože", 
         "stara", 
-        "starica"
+        "svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "starica", 
+        "starica: umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "starica: svijetla boja kože", 
+        "starica: umjerena boja kože", 
+        "umjerena boja kože", 
+        "starica: umjereno svijetla boja kože"
     ], 
     "👶": [
         "beba", 
-        "mlado"
+        "beba: umjereno svijetla boja kože", 
+        "mlado", 
+        "umjereno tamna boja kože", 
+        "beba: umjereno tamna boja kože", 
+        "beba: tamna boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "beba: umjerena boja kože", 
+        "beba: svijetla boja kože", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "građevina", 
+        "žena", 
+        "zemljište", 
+        "radnik", 
+        "građevinski radovi", 
+        "šljem", 
+        "građevinska radnica"
+    ], 
+    "👷‍♂️": [
         "građevina", 
         "zemljište", 
         "radnik", 
         "građevinski radovi", 
+        "građevinski radnik muško", 
         "šljem", 
         "građevinski radnik", 
         "muškarac"
     ], 
     "👸": [
+        "princeza: umjereno svijetla boja kože", 
+        "svijetla boja kože", 
+        "bajka", 
+        "princeza: umjereno tamna boja kože", 
         "princeza", 
-        "bajka"
+        "umjereno tamna boja kože", 
+        "princeza: tamna boja kože", 
+        "princeza: umjerena boja kože", 
+        "umjereno svijetla boja kože", 
+        "princeza: svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "👹": [
         "čudovište", 
@@ -3735,10 +5280,20 @@
     "👼": [
         "anđelak", 
         "beba", 
+        "svijetla boja kože", 
         "bajka", 
+        "umjereno tamna boja kože", 
         "lice", 
         "anđeo", 
-        "fantazija"
+        "fantazija", 
+        "anđelak: umjereno tamna boja kože", 
+        "anđelak: umjereno svijetla boja kože", 
+        "anđelak: umjerena boja kože", 
+        "anđelak: tamna boja kože", 
+        "tamna boja kože", 
+        "anđelak: svijetla boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "👽": [
         "vanzemaljac", 
@@ -3776,21 +5331,47 @@
         "smrt", 
         "lobanja"
     ], 
-    "💁": [
-        "informacija", 
-        "gestikulacija", 
+    "💁‍♀️": [
+        "žena", 
         "ruke", 
+        "gestikulacija", 
+        "informacija", 
+        "žena otkriva namjere", 
         "osoba otkriva namjere"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "informacija", 
+        "gestikulacija", 
+        "muškarac otkriva namjere", 
+        "ruke", 
+        "muškarac"
+    ], 
+    "💂‍♀️": [
+        "žena", 
+        "stražarka", 
+        "straža"
+    ], 
+    "💂‍♂️": [
         "stražar", 
+        "muškarac", 
+        "muškarac stražar", 
         "straža"
     ], 
     "💃": [
         "žena", 
-        "plesanje", 
         "ples", 
-        "žena pleše"
+        "svijetla boja kože", 
+        "plesanje", 
+        "žena pleše: umjereno tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "žena pleše: umjereno svijetla boja kože", 
+        "žena pleše: umjerena boja kože", 
+        "žena pleše: svijetla boja kože", 
+        "žena pleše", 
+        "umjereno svijetla boja kože", 
+        "žena pleše: tamna boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "💄": [
         "karmin", 
@@ -3798,24 +5379,53 @@
         "kozmetika"
     ], 
     "💅": [
-        "lakiranje noktiju", 
-        "uljepšavanje", 
-        "kozmetika", 
+        "lakiranje noktiju: umjereno tamna boja kože", 
         "nokti", 
-        "lak za nokte"
+        "svijetla boja kože", 
+        "lakiranje noktiju: tamna boja kože", 
+        "lakiranje noktiju", 
+        "umjereno tamna boja kože", 
+        "lakiranje noktiju: svijetla boja kože", 
+        "umjerena boja kože", 
+        "lakiranje noktiju: umjerena boja kože", 
+        "tamna boja kože", 
+        "uljepšavanje", 
+        "umjereno svijetla boja kože", 
+        "kozmetika", 
+        "lak za nokte", 
+        "lakiranje noktiju: umjereno svijetla boja kože"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "žena", 
         "salon", 
         "masaža", 
         "osoba prima masažu", 
-        "lice"
+        "lice", 
+        "žena prima masažu lica"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "salon", 
+        "masaža", 
+        "muškarac prima masažu lica", 
+        "lice", 
+        "muškarac"
+    ], 
+    "💇‍♀️": [
         "berber", 
-        "uljepšavanje", 
+        "žena", 
+        "frizer", 
+        "šišanje žene", 
         "šišanje osobe", 
         "frizura", 
-        "frizer"
+        "uljepšavanje"
+    ], 
+    "💇‍♂️": [
+        "berber", 
+        "frizura", 
+        "frizer", 
+        "šišanje muškarca", 
+        "muškarac", 
+        "uljepšavanje"
     ], 
     "💈": [
         "oznaka berbernice", 
@@ -3858,20 +5468,10 @@
         "dijamant", 
         "nakit"
     ], 
-    "💏": [
-        "poljubac", 
-        "par"
-    ], 
     "💐": [
         "buket", 
         "cvijet", 
         "biljka"
-    ], 
-    "💑": [
-        "par i srce", 
-        "par", 
-        "ljubav", 
-        "srce"
     ], 
     "💒": [
         "vjenčanje", 
@@ -4008,9 +5608,19 @@
     ], 
     "💪": [
         "bicepsi", 
+        "pokazivanje bicepsa: tamna boja kože", 
+        "pokazivanje bicepsa", 
         "mišići", 
+        "umjereno tamna boja kože", 
+        "pokazivanje bicepsa: umjereno svijetla boja kože", 
         "stripovi", 
-        "pokazivanje bicepsa"
+        "tamna boja kože", 
+        "pokazivanje bicepsa: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "pokazivanje bicepsa: svijetla boja kože", 
+        "pokazivanje bicepsa: umjerena boja kože", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
     ], 
     "💫": [
         "ošamućen", 
@@ -4500,6 +6110,12 @@
         "vhs", 
         "kaseta"
     ], 
+    "📽️": [
+        "kino", 
+        "video", 
+        "projektor", 
+        "film"
+    ], 
     "📿": [
         "perle", 
         "molitva", 
@@ -4859,6 +6475,17 @@
         "tipka", 
         "dolje"
     ], 
+    "🕉️": [
+        "hindu", 
+        "simbol om", 
+        "religija"
+    ], 
+    "🕊️": [
+        "golubica", 
+        "ptica", 
+        "mir", 
+        "let"
+    ], 
     "🕋": [
         "religija", 
         "kaba", 
@@ -5051,29 +6678,240 @@
         "12:30", 
         "sat"
     ], 
+    "🕯️": [
+        "svjetlo", 
+        "svijeća"
+    ], 
+    "🕰️": [
+        "drveni sat", 
+        "sat"
+    ], 
+    "🕳️": [
+        "rupa"
+    ], 
+    "🕴️": [
+        "muškarac u odijelu levitira", 
+        "posao", 
+        "odijelo", 
+        "muškarac"
+    ], 
+    "🕵️‍♂️": [
+        "špijun", 
+        "detektiv", 
+        "muškarac"
+    ], 
+    "🕶️": [
+        "sunčane naočale", 
+        "predmet", 
+        "oči", 
+        "asesoar", 
+        "naočale"
+    ], 
+    "🕷️": [
+        "insekt", 
+        "pauk"
+    ], 
+    "🕸️": [
+        "mreža", 
+        "paukova mreža", 
+        "pauk"
+    ], 
+    "🕹️": [
+        "džojstik", 
+        "igre", 
+        "video igre"
+    ], 
     "🕺": [
+        "plesanje: umjerena boja kože", 
+        "svijetla boja kože", 
         "plesanje", 
+        "plesanje: umjereno svijetla boja kože", 
+        "plesanje: tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "plesanje: umjereno tamna boja kože", 
+        "plesanje: svijetla boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
         "čovjek"
+    ], 
+    "🖇️": [
+        "spojene spajalice", 
+        "spajalice", 
+        "spojeno"
+    ], 
+    "🖊️": [
+        "olovka", 
+        "hemijska"
+    ], 
+    "🖋️": [
+        "naliv", 
+        "pero", 
+        "nalivpero"
+    ], 
+    "🖌️": [
+        "crtanje", 
+        "četka", 
+        "farbanje", 
+        "četkica"
+    ], 
+    "🖍️": [
+        "voštana", 
+        "voštana olovka"
+    ], 
+    "🖐️": [
+        "podignuta šaka s raširenim prstima", 
+        "rašireno", 
+        "pokazivanje", 
+        "prsti", 
+        "ruka"
     ], 
     "🖕": [
         "srednji prst", 
+        "srednji prst: umjereno svijetla boja kože", 
         "pokazivanje", 
+        "svijetla boja kože", 
+        "srednji prst: umjereno tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "nadlanica", 
+        "srednji prst: svijetla boja kože", 
         "gore", 
-        "nadlanica"
+        "srednji prst: umjerena boja kože", 
+        "tamna boja kože", 
+        "srednji prst: tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "🖖": [
+        "vulkanski pozdrav: umjereno tamna boja kože", 
         "ruka", 
+        "svijetla boja kože", 
         "vulkanac", 
+        "vulkanski pozdrav: umjerena boja kože", 
         "prsti", 
+        "vulkanski pozdrav: svijetla boja kože", 
+        "umjereno tamna boja kože", 
         "spock", 
+        "vulkanski pozdrav: tamna boja kože", 
         "vulkanski pozdrav", 
-        "pozdrav"
+        "pozdrav", 
+        "umjereno svijetla boja kože", 
+        "vulkanski pozdrav: umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "🖤": [
         "zlo", 
         "srce", 
         "crno", 
         "iskvareno"
+    ], 
+    "🖥️": [
+        "računar", 
+        "sto"
+    ], 
+    "🖨️": [
+        "računar", 
+        "printer", 
+        "štampač"
+    ], 
+    "🖱️": [
+        "miš", 
+        "računar", 
+        "miš za računar"
+    ], 
+    "🖲️": [
+        "računar", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "uramljena slika", 
+        "pozorište", 
+        "izvedba", 
+        "maska", 
+        "umjetnost"
+    ], 
+    "🗂️": [
+        "odjeljci", 
+        "dokumenti", 
+        "fascikla", 
+        "fascikla s odjeljcima"
+    ], 
+    "🗃️": [
+        "fascikle", 
+        "kartonska kutija za fascikle", 
+        "kutija"
+    ], 
+    "🗄️": [
+        "fascikle", 
+        "kartoteka", 
+        "ormar"
+    ], 
+    "🗑️": [
+        "korpa za otpatke"
+    ], 
+    "🗒️": [
+        "blokčić", 
+        "spiralni uvez", 
+        "notes", 
+        "spiralni blokčić"
+    ], 
+    "🗓️": [
+        "spiralni uvez", 
+        "kalendar", 
+        "spiralni kalendar"
+    ], 
+    "🗜️": [
+        "kompresija", 
+        "alat", 
+        "stega"
+    ], 
+    "🗝️": [
+        "trag", 
+        "stari ključ", 
+        "katanac", 
+        "star", 
+        "ključ"
+    ], 
+    "🗞️": [
+        "smotano", 
+        "novine", 
+        "smotane novine", 
+        "novosti", 
+        "papir"
+    ], 
+    "🗡️": [
+        "oružje", 
+        "nož", 
+        "bodež"
+    ], 
+    "🗣️": [
+        "silueta", 
+        "govor", 
+        "glava", 
+        "silueta glave koja govori"
+    ], 
+    "🗨️": [
+        "oblačić razgovora okrenut nalijevo", 
+        "razgovor", 
+        "dijalog"
+    ], 
+    "🗯️": [
+        "ljutnja", 
+        "oblačić", 
+        "oblačić ljutitog razgovora okrenut nadesno", 
+        "razgovor", 
+        "dijalog"
+    ], 
+    "🗳️": [
+        "glasačka", 
+        "glasačka kutija sa glasačkim listićem", 
+        "kutija"
+    ], 
+    "🗺️": [
+        "karta svijeta", 
+        "karta", 
+        "svijet"
     ], 
     "🗻": [
         "fudži planina", 
@@ -5546,7 +7384,9 @@
         "lice", 
         "oči"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
+        "žena", 
+        "žena pokazuje ne", 
         "ruke", 
         "gestikulacija", 
         "prekriženo", 
@@ -5554,18 +7394,47 @@
         "neslaganje", 
         "zabranjeno"
     ], 
-    "🙆": [
-        "osoba pokazuje ok", 
+    "🙅‍♂️": [
+        "ruke", 
+        "gestikulacija", 
+        "muškarac", 
+        "muškarac pokazuje ne", 
+        "prekriženo", 
+        "neslaganje", 
+        "zabranjeno"
+    ], 
+    "🙆‍♀️": [
+        "žena", 
+        "žena pokazuje ok", 
+        "odobravanje", 
+        "slaganje", 
+        "gestikulacija", 
+        "ruke", 
+        "osoba pokazuje ok"
+    ], 
+    "🙆‍♂️": [
+        "odobravanje", 
+        "ruke", 
         "gestikulacija", 
         "slaganje", 
-        "odobravanje", 
-        "ruke"
+        "muškarac", 
+        "muškarac pokazuje ok"
     ], 
-    "🙇": [
-        "poniznost", 
-        "gestikulacija", 
+    "🙇‍♀️": [
+        "žena", 
         "naklon", 
         "izvinjenje", 
+        "gestikulacija", 
+        "poniznost", 
+        "žena se duboko naklanja"
+    ], 
+    "🙇‍♂️": [
+        "naklon", 
+        "izvinjenje", 
+        "gestikulacija", 
+        "muškarac", 
+        "muškarac se duboko naklanja", 
+        "poniznost", 
         "osoba se naklanja"
     ], 
     "🙈": [
@@ -5596,37 +7465,85 @@
         "šutim", 
         "govorim"
     ], 
-    "🙋": [
-        "gestikulacija", 
-        "učestvovanje", 
+    "🙋‍♀️": [
+        "žena", 
+        "žena podiže ruku", 
         "ruke", 
-        "informacije", 
-        "osoba podiže ruku"
+        "gestikulacija", 
+        "osoba podiže ruku", 
+        "učestvovanje", 
+        "informacije"
+    ], 
+    "🙋‍♂️": [
+        "ruke", 
+        "gestikulacija", 
+        "muškarac podiže ruku", 
+        "muškarac", 
+        "učestvovanje", 
+        "informacije"
     ], 
     "🙌": [
+        "dlanovi", 
+        "svijetla boja kože", 
+        "ruke", 
         "gestikulacija", 
         "ruke podignute u zrak", 
-        "dlanovi", 
         "radovanje", 
-        "ruke"
+        "umjereno tamna boja kože", 
+        "ruke podignute u zrak: umjerena boja kože", 
+        "ruke podignute u zrak: umjereno svijetla boja kože", 
+        "ruke podignute u zrak: svijetla boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "ruke podignute u zrak: tamna boja kože", 
+        "umjerena boja kože", 
+        "ruke podignute u zrak: umjereno tamna boja kože"
     ], 
-    "🙍": [
-        "namrštena osoba", 
-        "gestikulacija", 
+    "🙍‍♀️": [
+        "žena", 
         "izraz lica", 
+        "gestikulacija", 
+        "namrštena žena", 
+        "namrštena osoba", 
         "mrštenje"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "gestikulacija", 
+        "izraz lica", 
+        "namršten muškarac", 
+        "mrštenje", 
+        "muškarac"
+    ], 
+    "🙎‍♀️": [
+        "žena", 
+        "izraz lica", 
+        "nadurena žena", 
+        "gestikulacija", 
+        "durenje", 
+        "nadurena osoba"
+    ], 
+    "🙎‍♂️": [
         "durenje", 
         "gestikulacija", 
-        "nadurena osoba", 
-        "izraz lica"
+        "naduren muškarac", 
+        "izraz lica", 
+        "muškarac"
     ], 
     "🙏": [
-        "gestikulacija", 
+        "sastavljeni dlanovi: tamna boja kože", 
         "molitva", 
         "sastavljeni dlanovi", 
-        "molba"
+        "svijetla boja kože", 
+        "gestikulacija", 
+        "umjereno tamna boja kože", 
+        "sastavljeni dlanovi: umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "umjereno svijetla boja kože", 
+        "sastavljeni dlanovi: svijetla boja kože", 
+        "sastavljeni dlanovi: umjerena boja kože", 
+        "sastavljeni dlanovi: umjereno tamna boja kože", 
+        "molba", 
+        "tamna boja kože"
     ], 
     "🚀": [
         "vozilo", 
@@ -5831,10 +7748,18 @@
         "brod", 
         "vozilo"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
         "veslanje", 
-        "osoba vesla", 
+        "veslačica", 
+        "žena", 
         "čamac"
+    ], 
+    "🚣‍♂️": [
+        "veslanje", 
+        "veslač", 
+        "osoba vesla", 
+        "čamac", 
+        "muškarac"
     ], 
     "🚤": [
         "gliser", 
@@ -5930,21 +7855,48 @@
         "biciklo", 
         "zabranjeno"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "žena", 
+        "biciklistkinja", 
+        "biciklizam", 
+        "bicikl"
+    ], 
+    "🚴‍♂️": [
+        "biciklista", 
         "osoba na biciklu", 
         "biciklizam", 
-        "bicikl"
+        "bicikl", 
+        "muškarac"
     ], 
-    "🚵": [
-        "osoba u brdskom biciklizmu", 
+    "🚵‍♀️": [
+        "žena", 
         "brdski", 
-        "biciklizam", 
-        "bicikl"
+        "planina", 
+        "bicikl", 
+        "brdska bicklistkinja", 
+        "biciklizam"
     ], 
-    "🚶": [
+    "🚵‍♂️": [
+        "brdski", 
+        "planina", 
+        "osoba u brdskom biciklizmu", 
+        "brdski bicklista", 
+        "bicikl", 
+        "biciklizam", 
+        "muškarac"
+    ], 
+    "🚶‍♀️": [
+        "žena", 
+        "šetanje", 
+        "hodanje", 
+        "žena hoda"
+    ], 
+    "🚶‍♂️": [
         "osoba hoda", 
         "šetanje", 
-        "hodanje"
+        "hodanje", 
+        "muškarac hoda", 
+        "muškarac"
     ], 
     "🚷": [
         "zabranjeno za pješake", 
@@ -6002,8 +7954,18 @@
         "tuš"
     ], 
     "🛀": [
+        "kupanje: umjereno svijetla boja kože", 
+        "svijetla boja kože", 
         "kada", 
-        "kupanje"
+        "kupanje: svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "kupanje: tamna boja kože", 
+        "kupanje: umjerena boja kože", 
+        "kupanje: umjereno tamna boja kože", 
+        "kupanje", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "🛁": [
         "kada", 
@@ -6027,10 +7989,42 @@
         "garderoba", 
         "prtljag"
     ], 
+    "🛋️": [
+        "kauč", 
+        "hotel", 
+        "lampa", 
+        "kauč i lampa"
+    ], 
     "🛌": [
+        "osoba u krevetu: svijetla boja kože", 
+        "svijetla boja kože", 
+        "hotel", 
+        "osoba u krevetu: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "spavanje", 
+        "umjerena boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "osoba u krevetu: umjereno tamna boja kože", 
+        "osoba u krevetu: tamna boja kože", 
+        "osoba u krevetu", 
+        "osoba u krevetu: umjereno svijetla boja kože"
+    ], 
+    "🛍️": [
+        "vrećica", 
+        "vrećice za kupovinu", 
+        "šoping", 
+        "kupovina"
+    ], 
+    "🛎️": [
+        "zvono", 
+        "hotel", 
+        "ručno zvono"
+    ], 
+    "🛏️": [
         "spavanje", 
         "hotel", 
-        "osoba u krevetu"
+        "krevet"
     ], 
     "🛐": [
         "religija", 
@@ -6048,6 +8042,41 @@
         "šoping", 
         "kupovina"
     ], 
+    "🛠️": [
+        "čekić i ključ", 
+        "alat", 
+        "ključ", 
+        "čekić"
+    ], 
+    "🛡️": [
+        "štit", 
+        "oružje"
+    ], 
+    "🛢️": [
+        "bure", 
+        "ulje", 
+        "bačva"
+    ], 
+    "🛣️": [
+        "autoput", 
+        "cesta"
+    ], 
+    "🛤️": [
+        "voz", 
+        "pruga", 
+        "željeznica"
+    ], 
+    "🛥️": [
+        "motorni čamac", 
+        "vozilo", 
+        "čamac", 
+        "motor"
+    ], 
+    "🛩️": [
+        "mali avion", 
+        "vozilo", 
+        "avion"
+    ], 
     "🛫": [
         "uzlijetanje", 
         "vozilo", 
@@ -6060,6 +8089,17 @@
         "slijetanje", 
         "avion", 
         "dolazak"
+    ], 
+    "🛰️": [
+        "vozilo", 
+        "svemir", 
+        "satelit"
+    ], 
+    "🛳️": [
+        "brod", 
+        "vozilo", 
+        "putnički brod", 
+        "putnik"
     ], 
     "🛴": [
         "romobil", 
@@ -6127,34 +8167,84 @@
         "zagrljaj"
     ], 
     "🤘": [
+        "znak rogova: svijetla boja kože", 
         "ruka", 
+        "svijetla boja kože", 
+        "znak rogova: tamna boja kože", 
+        "znak rogova: umjerena boja kože", 
         "rogovi", 
         "znak", 
         "prsti", 
+        "umjereno tamna boja kože", 
+        "znak rogova: umjereno tamna boja kože", 
+        "znak rogova: umjereno svijetla boja kože", 
         "pokazivanje", 
-        "znak rogova"
+        "znak rogova", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "🤙": [
-        "nazovi", 
+        "nazovi: svijetla boja kože", 
+        "nazovi: umjereno svijetla boja kože", 
         "ruka", 
-        "poziv"
+        "svijetla boja kože", 
+        "poziv", 
+        "nazovi: umjerena boja kože", 
+        "nazovi", 
+        "umjereno tamna boja kože", 
+        "nazovi: tamna boja kože", 
+        "tamna boja kože", 
+        "nazovi: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "🤚": [
         "podignuto", 
-        "dlan", 
         "ruka", 
+        "svijetla boja kože", 
         "uspravno", 
-        "ruka gore"
+        "ruka gore: tamna boja kože", 
+        "dlan", 
+        "ruka gore: svijetla boja kože", 
+        "ruka gore: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "ruka gore: umjereno svijetla boja kože", 
+        "ruka gore: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "ruka gore", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "🤛": [
+        "svijetla boja kože", 
+        "šaka ulijevo: tamna boja kože", 
         "šaka ulijevo", 
+        "šaka ulijevo: umjereno tamna boja kože", 
+        "ulijevo", 
+        "umjereno tamna boja kože", 
+        "šaka ulijevo: svijetla boja kože", 
+        "šaka ulijevo: umjerena boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
         "šaka", 
-        "ulijevo"
+        "umjerena boja kože", 
+        "šaka ulijevo: umjereno svijetla boja kože"
     ], 
     "🤜": [
         "udesno", 
+        "šaka udesno", 
+        "svijetla boja kože", 
+        "šaka udesno: svijetla boja kože", 
+        "šaka udesno: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "šaka udesno: tamna boja kože", 
+        "tamna boja kože", 
+        "šaka udesno: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
         "šaka", 
-        "šaka udesno"
+        "šaka udesno: umjereno svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "🤝": [
         "dogovor", 
@@ -6164,17 +8254,37 @@
         "stisak"
     ], 
     "🤞": [
-        "držanje palčeva", 
         "fige", 
-        "držati", 
+        "svijetla boja kože", 
+        "držanje palčeva: tamna boja kože", 
+        "držanje palčeva: umjerena boja kože", 
+        "držanje palčeva", 
+        "držanje palčeva: umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "držanje palčeva: umjereno tamna boja kože", 
+        "palac", 
+        "držanje palčeva: svijetla boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
         "sreća", 
-        "palac"
+        "držati", 
+        "umjerena boja kože"
     ], 
     "🤟": [
-        "volim", 
+        "volim te: umjerena boja kože", 
+        "volim te: tamna boja kože", 
         "ruka", 
+        "svijetla boja kože", 
+        "volim te: svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "volim", 
+        "volim te: umjereno svijetla boja kože", 
         "VT", 
-        "volim te"
+        "volim te", 
+        "volim te: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "🤠": [
         "šešir", 
@@ -6209,10 +8319,36 @@
         "lice"
     ], 
     "🤦": [
-        "dlan", 
+        "očaj: tamna boja kože", 
+        "svijetla boja kože", 
         "očaj", 
+        "očaj: svijetla boja kože", 
+        "dlan", 
+        "očaj: umjerena boja kože", 
         "lice", 
-        "nevjerica"
+        "umjereno tamna boja kože", 
+        "nevjerica", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "očaj: umjereno tamna boja kože", 
+        "umjerena boja kože", 
+        "očaj: umjereno svijetla boja kože"
+    ], 
+    "🤦‍♀️": [
+        "žena", 
+        "gestikulacija", 
+        "žena s rukom na čelu", 
+        "nevjerica", 
+        "razočaranje", 
+        "ogorčenje"
+    ], 
+    "🤦‍♂️": [
+        "gestikulacija", 
+        "muškarac s rukom na čelu", 
+        "nevjerica", 
+        "muškarac", 
+        "razočaranje", 
+        "ogorčenje"
     ], 
     "🤧": [
         "nazdravlje", 
@@ -6262,56 +8398,194 @@
     ], 
     "🤰": [
         "žena", 
-        "trudnica"
+        "trudnica: tamna boja kože", 
+        "trudnica: umjereno tamna boja kože", 
+        "svijetla boja kože", 
+        "trudnica: umjereno svijetla boja kože", 
+        "trudnica: svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "trudnica: umjerena boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "trudnica", 
+        "umjerena boja kože"
     ], 
     "🤱": [
         "hranjenje", 
+        "dojenje: tamna boja kože", 
         "dojenče", 
+        "svijetla boja kože", 
+        "dojenje: svijetla boja kože", 
+        "dojenje: umjerena boja kože", 
+        "umjereno tamna boja kože", 
+        "dojenje: umjereno svijetla boja kože", 
+        "umjerena boja kože", 
+        "umjereno svijetla boja kože", 
         "beba", 
-        "dojenje"
+        "dojenje: umjereno tamna boja kože", 
+        "dojenje", 
+        "tamna boja kože"
     ], 
     "🤲": [
+        "dlanovi spojeni prema gore: tamna boja kože", 
+        "molitva", 
+        "dlanovi spojeni prema gore: umjereno svijetla boja kože", 
+        "svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "dlanovi spojeni prema gore: umjereno tamna boja kože", 
+        "dlanovi spojeni prema gore: svijetla boja kože", 
+        "umjereno svijetla boja kože", 
         "dlanovi spojeni prema gore", 
-        "molitva"
+        "dlanovi spojeni prema gore: umjerena boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože"
     ], 
     "🤳": [
         "fotoaparat", 
-        "slikanje", 
+        "selfi: tamna boja kože", 
+        "svijetla boja kože", 
+        "selfi", 
+        "selfi: svijetla boja kože", 
+        "selfi: umjerena boja kože", 
+        "umjereno tamna boja kože", 
         "telefon", 
-        "selfi"
+        "slikanje", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "selfi: umjereno tamna boja kože", 
+        "umjerena boja kože", 
+        "selfi: umjereno svijetla boja kože"
     ], 
     "🤴": [
-        "princ"
+        "princ: tamna boja kože", 
+        "svijetla boja kože", 
+        "princ: svijetla boja kože", 
+        "princ: umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "princ", 
+        "princ: umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "princ: umjerena boja kože", 
+        "umjerena boja kože"
     ], 
     "🤵": [
-        "smoking", 
-        "mladoženja", 
+        "tamna boja kože", 
+        "odijelo: umjereno tamna boja kože", 
+        "odijelo: tamna boja kože", 
+        "odijelo: umjereno svijetla boja kože", 
+        "svijetla boja kože", 
+        "odijelo: svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "odijelo: umjerena boja kože", 
         "odijelo", 
-        "čovjek"
+        "umjereno svijetla boja kože", 
+        "smoking", 
+        "čovjek", 
+        "umjerena boja kože", 
+        "mladoženja"
     ], 
     "🤶": [
-        "Baka Mraz", 
-        "Božić", 
         "žena", 
-        "Djeda Mraz"
+        "Božić", 
+        "svijetla boja kože", 
+        "Baka Mraz: umjereno tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "Baka Mraz: tamna boja kože", 
+        "Baka Mraz: svijetla boja kože", 
+        "Djeda Mraz", 
+        "Baka Mraz: umjereno svijetla boja kože", 
+        "Baka Mraz: umjerena boja kože", 
+        "tamna boja kože", 
+        "Baka Mraz", 
+        "umjereno svijetla boja kože", 
+        "umjerena boja kože"
     ], 
     "🤷": [
-        "sumnja", 
+        "slijeganje ramenima: tamna boja kože", 
+        "svijetla boja kože", 
+        "slijeganje ramenima: svijetla boja kože", 
+        "umjereno tamna boja kože", 
         "neznanje", 
+        "slijeganje ramenima: umjerena boja kože", 
+        "slijeganje ramenima: umjereno tamna boja kože", 
+        "umjerena boja kože", 
+        "tamna boja kože", 
+        "sumnja", 
+        "umjereno svijetla boja kože", 
+        "slijeganje ramenima: umjereno svijetla boja kože", 
         "nezainteresiranost", 
         "slijeganje ramenima"
     ], 
+    "🤷‍♀️": [
+        "žena", 
+        "gestikulacija", 
+        "ravnodušnost", 
+        "neznanje", 
+        "žena sliježe ramenima"
+    ], 
+    "🤷‍♂️": [
+        "gestikulacija", 
+        "muškarac sliježe ramenima", 
+        "ravnodušnost", 
+        "neznanje", 
+        "muškarac"
+    ], 
     "🤸": [
-        "osoba", 
-        "sport", 
+        "zvijezda: umjereno svijetla boja kože", 
+        "zvijezda: umjerena boja kože", 
         "zvijezda", 
+        "zvijezda: svijetla boja kože", 
+        "zvijezda: tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "gimnastika", 
+        "osoba", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "zvijezda: umjereno tamna boja kože", 
+        "sport", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
+    ], 
+    "🤸‍♀️": [
+        "žena", 
+        "premet", 
+        "žena pravi premet", 
         "gimnastika"
     ], 
+    "🤸‍♂️": [
+        "premet", 
+        "muškarac pravi premet", 
+        "gimnastika", 
+        "muškarac"
+    ], 
     "🤹": [
+        "svijetla boja kože", 
         "balansiranje", 
-        "multitasking", 
+        "umjereno tamna boja kože", 
+        "žongliranje: umjereno tamna boja kože", 
+        "vještina", 
         "žongliranje", 
-        "vještina"
+        "tamna boja kože", 
+        "multitasking", 
+        "umjereno svijetla boja kože", 
+        "žongliranje: umjerena boja kože", 
+        "žongliranje: tamna boja kože", 
+        "žongliranje: svijetla boja kože", 
+        "umjerena boja kože", 
+        "žongliranje: umjereno svijetla boja kože"
+    ], 
+    "🤹‍♀️": [
+        "žena", 
+        "žongliranje", 
+        "cirkus", 
+        "žonglerka"
+    ], 
+    "🤹‍♂️": [
+        "žongler", 
+        "cirkus", 
+        "žongliranje", 
+        "muškarac"
     ], 
     "🤺": [
         "mačevalac", 
@@ -6326,19 +8600,75 @@
         "hrvanje", 
         "hrvač"
     ], 
+    "🤼‍♀️": [
+        "hrvačica", 
+        "žena", 
+        "hrvanje"
+    ], 
+    "🤼‍♂️": [
+        "hrvanje", 
+        "hrvač", 
+        "muškarac"
+    ], 
     "🤽": [
-        "polo", 
+        "vaterpolo: tamna boja kože", 
+        "vaterpolo: svijetla boja kože", 
+        "svijetla boja kože", 
+        "vaterpolo: umjereno svijetla boja kože", 
+        "voda", 
+        "umjereno tamna boja kože", 
+        "vaterpolo: umjereno tamna boja kože", 
         "vaterpolo", 
         "osoba", 
+        "tamna boja kože", 
+        "polo", 
+        "umjereno svijetla boja kože", 
         "sport", 
-        "voda"
+        "umjerena boja kože", 
+        "vaterpolo: umjerena boja kože"
+    ], 
+    "🤽‍♀️": [
+        "žena", 
+        "lopta", 
+        "vaterpolistkinja", 
+        "voda", 
+        "vaterpolo"
+    ], 
+    "🤽‍♂️": [
+        "vaterpolista", 
+        "lopta", 
+        "vaterpolo", 
+        "voda", 
+        "muškarac"
     ], 
     "🤾": [
+        "osoba igra rukomet: umjereno svijetla boja kože", 
+        "osoba igra rukomet: tamna boja kože", 
+        "svijetla boja kože", 
+        "rukomet", 
+        "osoba igra rukomet: umjereno tamna boja kože", 
+        "umjereno tamna boja kože", 
+        "osoba igra rukomet: umjerena boja kože", 
         "lopta", 
         "osoba", 
+        "umjerena boja kože", 
+        "osoba igra rukomet: svijetla boja kože", 
+        "umjereno svijetla boja kože", 
         "sport", 
+        "osoba igra rukomet", 
+        "tamna boja kože"
+    ], 
+    "🤾‍♀️": [
+        "žena", 
+        "lopta", 
+        "žena igra rukomet", 
+        "rukomet"
+    ], 
+    "🤾‍♂️": [
+        "lopta", 
+        "muškarac igra rukomet", 
         "rukomet", 
-        "osoba igra rukomet"
+        "muškarac"
     ], 
     "🥀": [
         "uvelo", 
@@ -6678,76 +9008,184 @@
         "monokl"
     ], 
     "🧑": [
+        "odrasla osoba: umjereno tamna boja kože", 
+        "srednji rod", 
         "odrasla osoba", 
-        "srednji rod"
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "odrasla osoba: tamna boja kože", 
+        "odrasla osoba: umjereno svijetla boja kože", 
+        "odrasla osoba: umjerena boja kože", 
+        "umjereno svijetla boja kože", 
+        "odrasla osoba: svijetla boja kože", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
     ], 
     "🧒": [
-        "dijete", 
+        "dijete: umjereno svijetla boja kože", 
+        "dijete: umjereno tamna boja kože", 
+        "svijetla boja kože", 
         "mlado", 
+        "umjereno tamna boja kože", 
+        "dijete: svijetla boja kože", 
+        "dijete: umjerena boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "dijete: tamna boja kože", 
+        "dijete", 
+        "umjerena boja kože", 
         "srednji rod"
     ], 
     "🧓": [
-        "starija odrasla osoba", 
+        "srednji rod", 
         "staro", 
-        "srednji rod"
+        "umjereno tamna boja kože", 
+        "tamna boja kože", 
+        "starija odrasla osoba: tamna boja kože", 
+        "starija odrasla osoba: umjereno tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "starija odrasla osoba: umjereno svijetla boja kože", 
+        "starija odrasla osoba", 
+        "starija odrasla osoba: svijetla boja kože", 
+        "starija odrasla osoba: umjerena boja kože", 
+        "umjerena boja kože", 
+        "svijetla boja kože"
     ], 
     "🧔": [
+        "osoba s bradom: umjerena boja kože", 
+        "osoba s bradom: umjereno tamna boja kože", 
+        "svijetla boja kože", 
+        "osoba s bradom: svijetla boja kože", 
+        "osoba s bradom: umjereno svijetla boja kože", 
+        "umjereno tamna boja kože", 
+        "osoba s bradom", 
+        "osoba s bradom: tamna boja kože", 
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
         "brada", 
-        "osoba s bradom"
+        "umjerena boja kože"
     ], 
     "🧕": [
+        "pokrivena žena: umjereno tamna boja kože", 
+        "pokrivena žena: umjerena boja kože", 
+        "svijetla boja kože", 
+        "pokrivena žena: tamna boja kože", 
+        "šal", 
         "pokrivalo", 
-        "pokrivena žena", 
+        "umjereno tamna boja kože", 
+        "pokrivena žena: umjereno svijetla boja kože", 
         "hidžab", 
-        "šal"
+        "tamna boja kože", 
+        "umjereno svijetla boja kože", 
+        "pokrivena žena", 
+        "pokrivena žena: svijetla boja kože", 
+        "umjerena boja kože"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "žena u prostoriji sa parom", 
+        "para", 
+        "sauna"
+    ], 
+    "🧖‍♂️": [
+        "muškarac u prostoriji sa parom", 
         "osoba u prostoriji sa parom", 
         "para", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "penjač", 
+        "žena koja se penje", 
         "osoba koja se penje"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "muškarac koji se penje", 
+        "penjač"
+    ], 
+    "🧘‍♀️": [
         "joga", 
         "meditacija", 
+        "žena u položaju lotosa", 
         "osoba u položaju lotosa"
     ], 
-    "🧙": [
-        "vrač", 
+    "🧘‍♂️": [
+        "joga", 
+        "muškarac u položaju lotosa", 
+        "meditacija"
+    ], 
+    "🧙‍♀️": [
+        "žena čarobnjak", 
         "čarobnjakinja", 
+        "vrač", 
         "čarobnjak", 
         "mag", 
         "vještica"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "čarobnjak", 
+        "mag", 
+        "muškarac čarobnjak"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
         "vila", 
         "Oberon", 
+        "žena vila", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "Oberon", 
+        "vilenjak"
+    ], 
+    "🧛‍♀️": [
         "živi mrtvac", 
         "Drakula", 
-        "vampir"
+        "vampir", 
+        "vampirica"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "živi mrtvac", 
+        "Drakula", 
+        "muškarac vampir"
+    ], 
+    "🧜‍♀️": [
         "žena", 
         "sirena", 
+        "žena sirena"
+    ], 
+    "🧜‍♂️": [
+        "žena", 
+        "Triton", 
+        "sirena", 
+        "muškarac sirena", 
         "muškarac"
     ], 
-    "🧝": [
-        "patuljak", 
+    "🧝‍♀️": [
+        "žena patuljak", 
         "magija"
     ], 
-    "🧞": [
-        "džin", 
-        "duh iz boce"
+    "🧝‍♂️": [
+        "patuljak", 
+        "muškarac patuljak", 
+        "magija"
     ], 
-    "🧟": [
+    "🧞‍♀️": [
+        "džin", 
+        "žena duh iz boce"
+    ], 
+    "🧞‍♂️": [
+        "džin", 
+        "duh iz boce", 
+        "muškarac duh iz boce"
+    ], 
+    "🧟‍♀️": [
         "živi mrtvac", 
+        "hodajući mrtvac", 
+        "žena zombi"
+    ], 
+    "🧟‍♂️": [
+        "živi mrtvac", 
+        "muškarac zombi", 
         "hodajući mrtvac", 
         "zombi"
     ], 

@@ -1,4 +1,130 @@
 {
+    "#️⃣": [
+        "kitufe", 
+        "kitufe: #"
+    ], 
+    "*️⃣": [
+        "kitufe", 
+        "kitufe: *"
+    ], 
+    "0️⃣": [
+        "kitufe", 
+        "kitufe: 0"
+    ], 
+    "1️⃣": [
+        "kitufe: 1", 
+        "kitufe"
+    ], 
+    "2️⃣": [
+        "kitufe", 
+        "kitufe: 2"
+    ], 
+    "3️⃣": [
+        "kitufe", 
+        "kitufe: 3"
+    ], 
+    "4️⃣": [
+        "kitufe: 4", 
+        "kitufe"
+    ], 
+    "5️⃣": [
+        "kitufe: 5", 
+        "kitufe"
+    ], 
+    "6️⃣": [
+        "kitufe: 6", 
+        "kitufe"
+    ], 
+    "7️⃣": [
+        "kitufe: 7", 
+        "kitufe"
+    ], 
+    "8️⃣": [
+        "kitufe", 
+        "kitufe: 8"
+    ], 
+    "9️⃣": [
+        "kitufe: 9", 
+        "kitufe"
+    ], 
+    "©️": [
+        "hakimiliki", 
+        "ishara", 
+        "ishara ya hakimiliki"
+    ], 
+    "®️": [
+        "kusajiliwa", 
+        "iliyosajiliwa"
+    ], 
+    "‼️": [
+        "mshangao", 
+        "mlio mkubwa", 
+        "uakifishaji", 
+        "alama mbili za mshangao", 
+        "alama"
+    ], 
+    "⁉️": [
+        "uakifishaji", 
+        "mlio wa kushtua", 
+        "alama ya mshangao na kuuliza", 
+        "swali", 
+        "mshangao", 
+        "alama"
+    ], 
+    "™️": [
+        "alama ya biashara", 
+        "chapa ya biashara", 
+        "alama"
+    ], 
+    "ℹ️": [
+        "i", 
+        "maelezo", 
+        "kitufe cha maelezo"
+    ], 
+    "↔️": [
+        "mshale", 
+        "mshale unaoeleza kushoto na kulia"
+    ], 
+    "↕️": [
+        "mshale", 
+        "mshale unaoelekeza chini na juu"
+    ], 
+    "↖️": [
+        "uelekeo", 
+        "mshale unaoelekeza juu kushoto", 
+        "mshale", 
+        "kaskazini magharibi", 
+        "kati ya sehemu kuu ya dira"
+    ], 
+    "↗️": [
+        "uelekeo", 
+        "mshale", 
+        "kati ya sehemu kuu ya dira", 
+        "mshale unaoelekeza juu kulia", 
+        "kaskazini mashariki"
+    ], 
+    "↘️": [
+        "uelekeo", 
+        "mshale", 
+        "kati ya sehemu kuu ya dira", 
+        "mshale unaoelekeza chini kulia", 
+        "kaskazini kusini mashariki"
+    ], 
+    "↙️": [
+        "uelekeo", 
+        "mshale", 
+        "kusini magharibi", 
+        "mshale unaoelekeza chini kushoto", 
+        "kati ya sehemu kuu ya dira"
+    ], 
+    "↩️": [
+        "mshale", 
+        "mshale wa kulia unaopinda kushoto"
+    ], 
+    "↪️": [
+        "mshale", 
+        "mshale wa kushoto unaopinda kulia"
+    ], 
     "⌚": [
         "saa"
     ], 
@@ -6,6 +132,14 @@
         "kipima muda", 
         "mchanga", 
         "shisha"
+    ], 
+    "⌨️": [
+        "kibodi", 
+        "kompyuta"
+    ], 
+    "⏏️": [
+        "ondoa", 
+        "kitufe cha kutoa"
     ], 
     "⏩": [
         "mbili", 
@@ -31,15 +165,102 @@
         "mbili", 
         "kitufe cha chini kwa kasi"
     ], 
+    "⏭️": [
+        "kitufe cha kwenda kwenye wimbo unaofuata", 
+        "mshale", 
+        "pembetatu", 
+        "wimbo unaofuata", 
+        "tukio linalofuata"
+    ], 
+    "⏮️": [
+        "wimbo uliotangulia", 
+        "mshale", 
+        "pembetatu", 
+        "tukio lililotangulia", 
+        "kitufe cha kurudia wimbo uliopita"
+    ], 
+    "⏯️": [
+        "cheza", 
+        "sitisha", 
+        "kulia", 
+        "mshale", 
+        "kitufe cha kucheza au kusitisha", 
+        "pembetatu"
+    ], 
     "⏰": [
         "kipima muda", 
         "saa"
+    ], 
+    "⏱️": [
+        "saa", 
+        "saa ya michezo"
+    ], 
+    "⏲️": [
+        "kipima muda", 
+        "saa", 
+        "saa ya kupima muda"
     ], 
     "⏳": [
         "kipima muda", 
         "mchanga", 
         "shisha inayotiririsha mchanga", 
         "shisha"
+    ], 
+    "⏸️": [
+        "sitisha", 
+        "wima", 
+        "kitufe cha kusitisha", 
+        "mbili", 
+        "upau"
+    ], 
+    "⏹️": [
+        "mraba", 
+        "sitisha", 
+        "kitufe cha kusimamisha"
+    ], 
+    "⏺️": [
+        "mduara", 
+        "rekodi", 
+        "kitufe cha kurekodi"
+    ], 
+    "Ⓜ️": [
+        "mduara", 
+        "m", 
+        "herufi M kwenye mduara"
+    ], 
+    "▪️": [
+        "mraba mdogo mweusi", 
+        "mraba", 
+        "jiometri"
+    ], 
+    "▫️": [
+        "mraba", 
+        "mraba mdogo mweupe", 
+        "jiometri"
+    ], 
+    "▶️": [
+        "pembetatu", 
+        "mshale", 
+        "kulia", 
+        "cheza", 
+        "kitufe cha kucheza"
+    ], 
+    "◀️": [
+        "kurudi nyuma", 
+        "mshale", 
+        "kitufe cha kurudisha nyuma", 
+        "kushoto", 
+        "pembetatu"
+    ], 
+    "◻️": [
+        "mraba wa wastani mweupe", 
+        "mraba", 
+        "jiometri"
+    ], 
+    "◼️": [
+        "mraba wa wastani mweusi", 
+        "mraba", 
+        "jiometri"
     ], 
     "◽": [
         "mraba", 
@@ -50,6 +271,42 @@
         "mraba wastani mdogo mweusi", 
         "mraba", 
         "jiometri"
+    ], 
+    "☀️": [
+        "miali", 
+        "jua", 
+        "hali ya hewa", 
+        "anga", 
+        "kung’aa"
+    ], 
+    "☁️": [
+        "wingu", 
+        "hali ya hewa"
+    ], 
+    "☂️": [
+        "mavazi", 
+        "mwavuli", 
+        "hali ya hewa", 
+        "mvua"
+    ], 
+    "☃️": [
+        "theluji", 
+        "hali ya hewa", 
+        "sanamu ya mtu ya theluji", 
+        "baridi"
+    ], 
+    "☄️": [
+        "kimondo", 
+        "anga"
+    ], 
+    "☎️": [
+        "simu"
+    ], 
+    "☑️": [
+        "sanduku", 
+        "tiki", 
+        "sanduku la kura lenye alama ya tiki", 
+        "kura"
     ], 
     "☔": [
         "tone", 
@@ -65,6 +322,89 @@
         "kahawa", 
         "kinywaji moto", 
         "moto"
+    ], 
+    "☘️": [
+        "shamroki", 
+        "mmea"
+    ], 
+    "☝️": [
+        "elekeza", 
+        "mkono", 
+        "cha kwanza", 
+        "kidole", 
+        "juu", 
+        "mwili", 
+        "kidole cha kwanza kinachoelekeza juu"
+    ], 
+    "☠️": [
+        "zimwi", 
+        "uso", 
+        "fuvu na mifupa", 
+        "mifupa", 
+        "kifo", 
+        "fuvu"
+    ], 
+    "☢️": [
+        "mnunurisho", 
+        "ishara"
+    ], 
+    "☣️": [
+        "tahadhari ya kibayalojia", 
+        "tahadhari ya kibayolojia"
+    ], 
+    "☦️": [
+        "msalaba", 
+        "mkristo", 
+        "dini"
+    ], 
+    "☪️": [
+        "muislamu", 
+        "nyota na mwezi mwandamo", 
+        "dini", 
+        "uislamu"
+    ], 
+    "☮️": [
+        "amani", 
+        "alama ya amani"
+    ], 
+    "☯️": [
+        "yin yang", 
+        "yin", 
+        "dini", 
+        "yang", 
+        "mfuasi wa tao", 
+        "tao"
+    ], 
+    "☸️": [
+        "dharma", 
+        "mfuasi wa budha", 
+        "gurudumu", 
+        "gurudumu la dharma", 
+        "dini"
+    ], 
+    "☹️": [
+        "uso", 
+        "kununa", 
+        "uso ulionuna"
+    ], 
+    "☺️": [
+        "uso", 
+        "tabasamu", 
+        "uso unaotabasamu", 
+        "iliyobainishwa", 
+        "tulivu"
+    ], 
+    "♀️": [
+        "ishara ya jinsi ya kike", 
+        "mke", 
+        "ishara", 
+        "jinsia"
+    ], 
+    "♂️": [
+        "ishara ya jinsi ya kiume", 
+        "mume", 
+        "jinsia", 
+        "ishara"
     ], 
     "♈": [
         "zodiaki", 
@@ -123,14 +463,98 @@
         "zodiaki", 
         "nyota ya samaki"
     ], 
+    "♠️": [
+        "kadi", 
+        "mchezo", 
+        "shupaza", 
+        "karata"
+    ], 
+    "♣️": [
+        "maua", 
+        "kadi", 
+        "mchezo", 
+        "karata"
+    ], 
+    "♥️": [
+        "kadi", 
+        "mchezo", 
+        "kopa", 
+        "karata"
+    ], 
+    "♦️": [
+        "kisu", 
+        "kadi", 
+        "mchezo", 
+        "karata", 
+        "visu"
+    ], 
+    "♨️": [
+        "mvuke", 
+        "moto", 
+        "chemchemi", 
+        "chemcheni za maji moto", 
+        "chemichemi za maji ya moto"
+    ], 
+    "♻️": [
+        "tumia tena", 
+        "alama ya kutumia tena"
+    ], 
     "♿": [
         "kiti cha magurudumu", 
         "ufikiaji"
+    ], 
+    "⚒️": [
+        "nyundo na sululu", 
+        "sululu", 
+        "zana", 
+        "nyundo"
     ], 
     "⚓": [
         "nanga", 
         "meli", 
         "zana"
+    ], 
+    "⚔️": [
+        "kupishanishwa", 
+        "panga zilizopishanishwa", 
+        "silaha", 
+        "sime"
+    ], 
+    "⚕️": [
+        "tiba", 
+        "ishara", 
+        "dawa", 
+        "ishara ya taaluma ya matibabu"
+    ], 
+    "⚖️": [
+        "mzani", 
+        "zana", 
+        "haki", 
+        "uzito", 
+        "zodiaki", 
+        "pima", 
+        "mizani"
+    ], 
+    "⚗️": [
+        "alembiki", 
+        "zana", 
+        "kemia"
+    ], 
+    "⚙️": [
+        "zana", 
+        "gia"
+    ], 
+    "⚛️": [
+        "atomu", 
+        "alama ya atomu", 
+        "asiyemwamini Mungu"
+    ], 
+    "⚜️": [
+        "ua la yungi", 
+        "yungiyungi"
+    ], 
+    "⚠️": [
+        "onyo"
     ], 
     "⚡": [
         "volteji", 
@@ -149,6 +573,15 @@
         "mduara", 
         "mduara mweusi", 
         "jiometri"
+    ], 
+    "⚰️": [
+        "jeneza", 
+        "kifo"
+    ], 
+    "⚱️": [
+        "kifo", 
+        "msiba", 
+        "chombo cha kutia majivu ya maiti aliyechomwa"
     ], 
     "⚽": [
         "mpira wa miguu", 
@@ -171,12 +604,36 @@
         "hali ya hewa", 
         "jua nyuma ya wingu"
     ], 
+    "⛈️": [
+        "wingu", 
+        "wingu pamoja na radi na mvua", 
+        "ngurumo", 
+        "hali ya hewa", 
+        "mvua"
+    ], 
     "⛎": [
         "hamali", 
         "opichasi", 
         "zodiaki", 
         "joka", 
         "nyoka"
+    ], 
+    "⛏️": [
+        "kuchimba mgodi", 
+        "sululu", 
+        "zana"
+    ], 
+    "⛑️": [
+        "kofia", 
+        "uso", 
+        "msalaba", 
+        "msaada", 
+        "helmeti iliyo na msalaba mweupe", 
+        "helmeti"
+    ], 
+    "⛓️": [
+        "minyororo", 
+        "mnyororo"
     ], 
     "⛔": [
         "marufuku", 
@@ -187,12 +644,28 @@
         "kuingia", 
         "hapana"
     ], 
+    "⛩️": [
+        "madhabahu", 
+        "shinto", 
+        "dini", 
+        "madhabahu ya shinto"
+    ], 
     "⛪": [
         "msalaba", 
         "kanisa", 
         "jengo", 
         "ukristo", 
         "dini"
+    ], 
+    "⛰️": [
+        "mlima"
+    ], 
+    "⛱️": [
+        "mwavuli", 
+        "jua", 
+        "hali ya hewa", 
+        "mwavuli ulio kwenye ardhi", 
+        "mvua"
     ], 
     "⛲": [
         "mlizamu"
@@ -202,6 +675,10 @@
         "gofu", 
         "shimo"
     ], 
+    "⛴️": [
+        "boti", 
+        "kivuko"
+    ], 
     "⛵": [
         "boti", 
         "gari", 
@@ -209,6 +686,20 @@
         "mashura", 
         "mashua", 
         "bahari"
+    ], 
+    "⛷️": [
+        "mtu anayecheza mchezo wa kuskii", 
+        "theluji", 
+        "ski"
+    ], 
+    "⛸️": [
+        "theluji", 
+        "kuteleza", 
+        "viatu vya kuteleza kwenye theluji"
+    ], 
+    "⛹️‍♂️": [
+        "mtu na mpira", 
+        "mpira"
     ], 
     "⛺": [
         "kupiga kambi", 
@@ -220,28 +711,126 @@
         "pampu ya mafuta", 
         "pampu"
     ], 
+    "✂️": [
+        "makasi", 
+        "zana"
+    ], 
     "✅": [
         "alama nyeupe ya tiki iliyokolea", 
         "tiki", 
         "alama"
     ], 
+    "✈️": [
+        "eropleni", 
+        "gari"
+    ], 
+    "✉️": [
+        "barua pepe", 
+        "bahasha"
+    ], 
     "✊": [
+        "ngozi aina ya-1-2", 
         "kunja ngumi", 
+        "ngumi iliyoinuliwa: ngozi aina ya-1-2", 
         "mkono", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
         "ngumi iliyoinuliwa", 
+        "ngozi aina ya-4", 
+        "ngumi iliyoinuliwa: ngozi aina ya-4", 
         "konde", 
         "mwili", 
-        "ngumi"
+        "ngumi iliyoinuliwa: ngozi aina ya-3", 
+        "ngozi aina ya-5", 
+        "ngumi iliyoinuliwa: ngozi aina ya-5", 
+        "ngumi", 
+        "ngumi iliyoinuliwa: ngozi aina ya-6"
     ], 
     "✋": [
-        "mwili", 
+        "ngozi aina ya-1-2", 
+        "mkono", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
         "mkono ulioinuliwa", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mkono ulioinuliwa: ngozi aina ya-1-2", 
+        "mkono ulioinuliwa: ngozi aina ya-4", 
+        "mkono ulioinuliwa: ngozi aina ya-5", 
+        "mwili", 
+        "mkono ulioinuliwa: ngozi aina ya-6", 
+        "mkono ulioinuliwa: ngozi aina ya-3"
+    ], 
+    "✌️": [
+        "mwili", 
+        "mkono wa ushindi", 
+        "ushindi", 
+        "v", 
         "mkono"
+    ], 
+    "✍️": [
+        "mwili", 
+        "mkono unaoandika", 
+        "andika", 
+        "mkono"
+    ], 
+    "✏️": [
+        "penseli"
+    ], 
+    "✒️": [
+        "nibu", 
+        "kalamu", 
+        "nibu nyeusi"
+    ], 
+    "✔️": [
+        "tiki", 
+        "alama ya tiki iliyokolea", 
+        "alama"
+    ], 
+    "✖️": [
+        "alama ya x iliyokolea", 
+        "zidisha", 
+        "x", 
+        "ghairi", 
+        "kuzidisha"
+    ], 
+    "✝️": [
+        "msalaba", 
+        "msalaba wa kilatini", 
+        "mkristo", 
+        "dini"
+    ], 
+    "✡️": [
+        "nyota ya daudi", 
+        "nyota", 
+        "uyahudi", 
+        "dini", 
+        "myahudi", 
+        "daudi"
     ], 
     "✨": [
         "metameta", 
         "nyota", 
         "kumetameta"
+    ], 
+    "✳️": [
+        "kinyota", 
+        "kinyota chenye ncha nane"
+    ], 
+    "✴️": [
+        "nyota yenye ncha nane", 
+        "nyota"
+    ], 
+    "❄️": [
+        "theluji", 
+        "hali ya hewa", 
+        "chembe ya theluji", 
+        "baridi"
+    ], 
+    "❇️": [
+        "metameta", 
+        "memetuka", 
+        "memeta"
     ], 
     "❌": [
         "alama ya kuzidisha", 
@@ -282,6 +871,17 @@
         "uakifishaji", 
         "alama"
     ], 
+    "❣️": [
+        "moyo", 
+        "mshangao", 
+        "pambo la moyo ulio na alama ya mshangao", 
+        "uakifishaji", 
+        "alama"
+    ], 
+    "❤️": [
+        "moyo", 
+        "moyo mwekundu"
+    ], 
     "➕": [
         "alama ya kuongeza iliyokolea", 
         "kuongeza", 
@@ -297,6 +897,13 @@
         "alama ya kugawanya iliyokolea", 
         "hisabati"
     ], 
+    "➡️": [
+        "sehemu kuu ya dira", 
+        "uelekeo", 
+        "mashariki", 
+        "mshale unaoelekeza kulia", 
+        "mshale"
+    ], 
     "➰": [
         "pinda", 
         "kitanzi", 
@@ -307,6 +914,37 @@
         "kitanzi kilichopinda mara mbili", 
         "kitanzi", 
         "pinda"
+    ], 
+    "⤴️": [
+        "mshale", 
+        "mshale wa kulia unaopinda juu"
+    ], 
+    "⤵️": [
+        "mshale", 
+        "mshale wa kulia unaopinda chini", 
+        "chini"
+    ], 
+    "⬅️": [
+        "sehemu kuu ya dira", 
+        "magharibi", 
+        "mshale", 
+        "uelekeo", 
+        "mshale unaoelekeza kushoto"
+    ], 
+    "⬆️": [
+        "sehemu kuu ya dira", 
+        "uelekeo", 
+        "mshale", 
+        "mshale unaoelekeza juu", 
+        "kaskazini"
+    ], 
+    "⬇️": [
+        "uelekeo", 
+        "kusini", 
+        "sehemu kuu ya dira", 
+        "mshale", 
+        "chini", 
+        "mshale unaoelekea chini"
     ], 
     "⬛": [
         "mraba mkubwa mweusi", 
@@ -327,6 +965,30 @@
         "o", 
         "mduara mkubwa"
     ], 
+    "〰️": [
+        "dashi", 
+        "uakifishaji", 
+        "dashi iliyopinda", 
+        "kupinda"
+    ], 
+    "〽️": [
+        "alama ya mbadala ya sehemu", 
+        "sehemu", 
+        "alama"
+    ], 
+    "㊗️": [
+        "hongera", 
+        "idiografu", 
+        "pongezi", 
+        "kichina", 
+        "idiografu ya pongezi kwenye mduara"
+    ], 
+    "㊙️": [
+        "siri", 
+        "idiografu ya siri kwenye mduara", 
+        "idiografu", 
+        "kichina"
+    ], 
     "🀄": [
         "mchezo", 
         "nyekundu", 
@@ -338,6 +1000,25 @@
         "kucheza", 
         "jokari", 
         "mchezo"
+    ], 
+    "🅰️": [
+        "a", 
+        "kitufe chenye herufi A", 
+        "damu"
+    ], 
+    "🅱️": [
+        "b", 
+        "kitufe chenye herufi B", 
+        "damu"
+    ], 
+    "🅾️": [
+        "kitufe cha O", 
+        "o", 
+        "damu"
+    ], 
+    "🅿️": [
+        "kitufe cha P", 
+        "maegesho"
     ], 
     "🆎": [
         "ab", 
@@ -1424,6 +2105,10 @@
         "katakana koko kwenye mraba", 
         "kijapani"
     ], 
+    "🈂️": [
+        "kijapani", 
+        "katakana sa kwenye mraba"
+    ], 
     "🈚": [
         "kijapani", 
         "idiografu ya kutoa kwenye mraba"
@@ -1450,6 +2135,10 @@
     ], 
     "🈶": [
         "idiografu ya kuwepo kwenye mraba", 
+        "kijapani"
+    ], 
+    "🈷️": [
+        "idiografu ya mwezi kwenye mraba", 
         "kijapani"
     ], 
     "🈸": [
@@ -1704,6 +2393,66 @@
         "anga", 
         "nyota"
     ], 
+    "🌡️": [
+        "hali ya hewa", 
+        "pima joto"
+    ], 
+    "🌤️": [
+        "wingu", 
+        "jua", 
+        "hali ya hewa", 
+        "jua nyuma ya wingu dogo"
+    ], 
+    "🌥️": [
+        "jua nyuma ya wingu kubwa", 
+        "jua", 
+        "hali ya hewa", 
+        "wingu"
+    ], 
+    "🌦️": [
+        "hali ya jewa", 
+        "wingu", 
+        "jua", 
+        "jua nyuma ya wingu lenye mvua", 
+        "mvua"
+    ], 
+    "🌧️": [
+        "wingu lenye mvua", 
+        "wingu", 
+        "hali ya hewa", 
+        "mvua"
+    ], 
+    "🌨️": [
+        "theluji", 
+        "wingu lenye theluji", 
+        "wingu", 
+        "hali ya hewa", 
+        "baridi"
+    ], 
+    "🌩️": [
+        "wingu", 
+        "hali ya hewa", 
+        "wingu lenye radi", 
+        "radi"
+    ], 
+    "🌪️": [
+        "wingu", 
+        "hali ya hewa", 
+        "kimbunga"
+    ], 
+    "🌫️": [
+        "wingu", 
+        "hali ya hewa", 
+        "ukungu"
+    ], 
+    "🌬️": [
+        "uso unaopuliza upepo", 
+        "uso", 
+        "puliza", 
+        "hali ya hewa", 
+        "upepo", 
+        "wingu"
+    ], 
     "🌭": [
         "soseji", 
         "soseji katika mkate", 
@@ -1745,6 +2494,12 @@
     "🌵": [
         "mmea", 
         "dungusi kakati"
+    ], 
+    "🌶️": [
+        "pilipili", 
+        "pilipili kali", 
+        "mmea", 
+        "moto"
     ], 
     "🌷": [
         "ua", 
@@ -2152,6 +2907,13 @@
         "chupa ya maziwa ya mtoto", 
         "maziwa"
     ], 
+    "🍽️": [
+        "kisu", 
+        "sahani", 
+        "kupika", 
+        "uma", 
+        "uma na kisu na sahani"
+    ], 
     "🍾": [
         "kifuniko", 
         "chupa yenye kifuniko kilichofunguliwa", 
@@ -2198,10 +2960,20 @@
     ], 
     "🎅": [
         "baba", 
+        "ngozi aina ya-1-2", 
         "sherehe", 
         "njozi", 
+        "baba krismasi: ngozi aina ya-6", 
+        "ngozi aina ya-6", 
+        "baba krismasi: ngozi aina ya-5", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "baba krismasi: ngozi aina ya-1-2", 
+        "baba krismasi: ngozi aina ya-4", 
         "kichimbakazi", 
         "baba krismasi", 
+        "baba krismasi: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
         "krismasi"
     ], 
     "🎆": [
@@ -2291,6 +3063,47 @@
         "kofia", 
         "kusherehekea", 
         "kofia inayovaliwa kwenye sherehe za kuhitimu masomo"
+    ], 
+    "🎖️": [
+        "tuzo ya kijeshi", 
+        "medali", 
+        "kusherehekea", 
+        "jeshi"
+    ], 
+    "🎗️": [
+        "utepe", 
+        "kikumbusho", 
+        "kusherehekea", 
+        "utepe wa ukumbusho"
+    ], 
+    "🎙️": [
+        "maikrofoni ya studio", 
+        "maikrofoni", 
+        "studio", 
+        "muziki"
+    ], 
+    "🎚️": [
+        "kiwango", 
+        "kitelezi cha kurekebisha sauti", 
+        "muziki", 
+        "kitelezi"
+    ], 
+    "🎛️": [
+        "vitufe vya kudhibiti", 
+        "muziki", 
+        "vitufe", 
+        "vidhibiti"
+    ], 
+    "🎞️": [
+        "fremu za utepe wa filamu", 
+        "fremu", 
+        "filamu", 
+        "sinema"
+    ], 
+    "🎟️": [
+        "tiketi za kuingia", 
+        "kuingia", 
+        "tiketi"
     ], 
     "🎠": [
         "farasi inayozunguka", 
@@ -2474,18 +3287,43 @@
         "mashindano ya mbio"
     ], 
     "🏂": [
-        "theluji", 
-        "mtu anayeteleza kwenye theluji", 
+        "ngozi aina ya-1-2", 
         "ubao wa kuteleza kwenye theluji", 
+        "mtu anayeteleza kwenye theluji: ngozi aina ya-5", 
+        "ngozi aina ya-3", 
+        "mtu anayeteleza kwenye theluji: ngozi aina ya-6", 
+        "ngozi aina ya-6", 
+        "mtu anayeteleza kwenye theluji: ngozi aina ya-3", 
+        "mtu anayeteleza kwenye theluji: ngozi aina ya-1-2", 
+        "theluji", 
+        "ngozi aina ya-4", 
+        "mtu anayeteleza kwenye theluji: ngozi aina ya-4", 
+        "mtu anayeteleza kwenye theluji", 
+        "ngozi aina ya-5", 
         "ski"
     ], 
-    "🏃": [
-        "mkimbiaji", 
+    "🏃‍♀️": [
+        "mwanamke anayekimbia", 
+        "mwanamume", 
         "mbio za masafa marefu", 
         "kukimbia"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "mkimbiaji", 
+        "mwanamume anayekimbia", 
+        "mwanamume", 
+        "mbio za masafa marefu", 
+        "kukimbia"
+    ], 
+    "🏄‍♀️": [
+        "mchezo", 
+        "mwanamke anayeteleza kwenye mawimbi", 
+        "kuteleza kwenye mawimbi"
+    ], 
+    "🏄‍♂️": [
         "mtu anayeteleza kwenye mawimbi", 
+        "mchezo", 
+        "mwanamume anayeteleza kwenye mawimbi", 
         "kuteleza kwenye mawimbi"
     ], 
     "🏅": [
@@ -2498,10 +3336,20 @@
     ], 
     "🏇": [
         "mashindano", 
-        "mbio za farasi", 
-        "farasi ya mashindano", 
+        "ngozi aina ya-1-2", 
         "mwendesha farasi", 
-        "farasi"
+        "mbio za farasi: ngozi aina ya-3", 
+        "mbio za farasi: ngozi aina ya-4", 
+        "mbio za farasi: ngozi aina ya-1-2", 
+        "mbio za farasi: ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "farasi ya mashindano", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "ngozi aina ya-6", 
+        "mbio za farasi", 
+        "farasi", 
+        "mbio za farasi: ngozi aina ya-5"
     ], 
     "🏈": [
         "mpira wa marekani", 
@@ -2515,9 +3363,34 @@
         "mpira wa raga", 
         "mpira"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "mwanamke anayeogelea", 
         "kuogelea", 
         "mwogeleaji"
+    ], 
+    "🏊‍♂️": [
+        "mwanaume anayeogelea", 
+        "kuogelea", 
+        "mwogeleaji"
+    ], 
+    "🏋️‍♂️": [
+        "uzito", 
+        "mbeba vyuma vizito", 
+        "mbeba vyuma"
+    ], 
+    "🏌️‍♂️": [
+        "gofu", 
+        "mcheza gofu", 
+        "mpira"
+    ], 
+    "🏍️": [
+        "mashindano", 
+        "pikipiki"
+    ], 
+    "🏎️": [
+        "mashindano", 
+        "gari la mashindano", 
+        "gari"
     ], 
     "🏏": [
         "mchezo", 
@@ -2551,6 +3424,62 @@
         "tenisi ya mezani", 
         "mpira", 
         "gongo"
+    ], 
+    "🏔️": [
+        "theluji", 
+        "mlima", 
+        "mlima wenye theluji", 
+        "baridi"
+    ], 
+    "🏕️": [
+        "kupiga kambi"
+    ], 
+    "🏖️": [
+        "mwavuli", 
+        "ufuo", 
+        "ufuo na mwavuli"
+    ], 
+    "🏗️": [
+        "ujenzi", 
+        "ujenzi wa jengo", 
+        "jengo"
+    ], 
+    "🏘️": [
+        "nyumba", 
+        "majengo ya nyumba", 
+        "jengo"
+    ], 
+    "🏙️": [
+        "jiji", 
+        "mwonekano wa jiji", 
+        "jengo"
+    ], 
+    "🏚️": [
+        "jengo la nyumba lililochakaa", 
+        "nyumba", 
+        "jengo", 
+        "chakaa"
+    ], 
+    "🏛️": [
+        "zamani", 
+        "jengo", 
+        "jengo la zamani"
+    ], 
+    "🏜️": [
+        "jangwa"
+    ], 
+    "🏝️": [
+        "jangwa", 
+        "kisiwa cha jangwa", 
+        "kisiwa"
+    ], 
+    "🏞️": [
+        "mbuga ya taifa ya wanyama", 
+        "mbuga"
+    ], 
+    "🏟️": [
+        "uga", 
+        "uwanja wa michezo"
     ], 
     "🏠": [
         "nyumba", 
@@ -2644,6 +3573,14 @@
         "kasri", 
         "ulaya"
     ], 
+    "🏳️": [
+        "kupeperusha bendera nyeupe", 
+        "kupeperusha"
+    ], 
+    "🏳️‍🌈": [
+        "upinde wa mvua", 
+        "bendera ya upinde wa mvua"
+    ], 
     "🏴": [
         "kupeperusha", 
         "kupeperusha bendera nyeusi"
@@ -2659,6 +3596,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Wales", 
         "bendera"
+    ], 
+    "🏵️": [
+        "waridi", 
+        "mmea"
+    ], 
+    "🏷️": [
+        "lebo"
     ], 
     "🏸": [
         "mpira wa vinyoya", 
@@ -3001,19 +3945,47 @@
         "nyayo zenye makucha", 
         "alama"
     ], 
+    "🐿️": [
+        "kindi milia", 
+        "kindimilia"
+    ], 
     "👀": [
         "uso", 
         "mwili", 
         "macho", 
         "jicho"
     ], 
-    "👂": [
+    "👁️": [
         "mwili", 
-        "sikio"
+        "jicho"
+    ], 
+    "👂": [
+        "ngozi aina ya-1-2", 
+        "sikio", 
+        "sikio: ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "sikio: ngozi aina ya-4", 
+        "sikio: ngozi aina ya-5", 
+        "sikio: ngozi aina ya-6", 
+        "sikio: ngozi aina ya-3", 
+        "mwili"
     ], 
     "👃": [
-        "mwili", 
-        "pua"
+        "ngozi aina ya-1-2", 
+        "pua: ngozi aina ya-3", 
+        "pua: ngozi aina ya-5", 
+        "pua: ngozi aina ya-4", 
+        "pua: ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "pua", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "pua: ngozi aina ya-1-2", 
+        "mwili"
     ], 
     "👄": [
         "mwili", 
@@ -3026,89 +3998,199 @@
     ], 
     "👆": [
         "elekeza", 
+        "ngozi aina ya-1-2", 
+        "kidole cha kwanza kinachoelekeza juu kwa nyuma: ngozi aina ya-6", 
         "nyuma ya mkono", 
         "mkono", 
+        "kidole cha kwanza kinachoelekeza juu kwa nyuma: ngozi aina ya-1-2", 
+        "kidole cha kwanza kinachoelekeza juu kwa nyuma: ngozi aina ya-5", 
+        "kidole cha kwanza kinachoelekeza juu kwa nyuma: ngozi aina ya-4", 
+        "kidole cha kwanza kinachoelekeza juu kwa nyuma: ngozi aina ya-3", 
+        "ngozi aina ya-4", 
         "kidole cha kwanza kinachoelekeza juu kwa nyuma", 
         "cha kwanza", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-3", 
         "kidole", 
         "juu", 
-        "mwili"
+        "mwili", 
+        "ngozi aina ya-5"
     ], 
     "👇": [
         "elekeza", 
+        "ngozi aina ya-1-2", 
         "kidole cha kwanza kinachoelekeza chini kwa nyuma", 
+        "kidole cha kwanza kinachoelekeza chini kwa nyuma: ngozi aina ya-6", 
         "mkono", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "cha kwanza", 
+        "kidole cha kwanza kinachoelekeza chini kwa nyuma: ngozi aina ya-4", 
+        "kidole cha kwanza kinachoelekeza chini kwa nyuma: ngozi aina ya-5", 
         "kidole", 
+        "kidole cha kwanza kinachoelekeza chini kwa nyuma: ngozi aina ya-3", 
         "mwili", 
+        "kidole cha kwanza kinachoelekeza chini kwa nyuma: ngozi aina ya-1-2", 
         "nyuma ya mkono"
     ], 
     "👈": [
         "elekeza", 
+        "ngozi aina ya-1-2", 
         "nyuma ya mkono", 
         "mkono", 
+        "kidole cha kwanza kinachoelekeza kushoto: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "kidole cha kwanza kinachoelekeza kushoto: ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "kidole cha kwanza kinachoelekeza kushoto: ngozi aina ya-4", 
         "cha kwanza", 
         "kidole", 
+        "kidole cha kwanza kinachoelekeza kushoto: ngozi aina ya-1-2", 
+        "kidole cha kwanza kinachoelekeza kushoto: ngozi aina ya-5", 
         "mwili", 
+        "ngozi aina ya-5", 
         "kidole cha kwanza kinachoelekeza kushoto"
     ], 
     "👉": [
         "elekeza", 
+        "ngozi aina ya-1-2", 
         "nyuma ya mkono", 
         "mkono", 
+        "kidole cha kwanza kinachoelekeza kulia: ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "kidole cha kwanza kinachoelekeza kulia: ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "cha kwanza", 
+        "kidole cha kwanza kinachoelekeza kulia: ngozi aina ya-3", 
         "kidole", 
+        "kidole cha kwanza kinachoelekeza kulia: ngozi aina ya-4", 
+        "kidole cha kwanza kinachoelekeza kulia: ngozi aina ya-5", 
         "kidole cha kwanza kinachoelekeza kulia", 
         "mwili"
     ], 
     "👊": [
+        "ngozi aina ya-1-2", 
+        "ngumi uliyonyooshewa: ngozi aina ya-4", 
         "kunja ngumi", 
+        "ngumi uliyonyooshewa: ngozi aina ya-6", 
         "ngumi uliyonyooshewa", 
+        "ngumi uliyonyooshewa: ngozi aina ya-3", 
         "mkono", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "konde", 
         "mwili", 
-        "ngumi"
+        "ngumi uliyonyooshewa: ngozi aina ya-5", 
+        "ngumi", 
+        "ngumi uliyonyooshewa: ngozi aina ya-1-2"
     ], 
     "👋": [
-        "punga", 
-        "mwili", 
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
         "mkono unaopunga", 
+        "mkono unaopunga: ngozi aina ya-1-2", 
+        "mkono", 
+        "punga", 
+        "ngozi aina ya-3", 
+        "mkono unaopunga: ngozi aina ya-5", 
+        "mkono unaopunga: ngozi aina ya-4", 
+        "mkono unaopunga: ngozi aina ya-3", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "kupunga", 
-        "mkono"
+        "mkono unaopunga: ngozi aina ya-6", 
+        "mwili"
     ], 
     "👌": [
-        "sawa", 
-        "mwili", 
+        "ngozi aina ya-1-2", 
+        "mkono wa kuonyesha mambo yako shwari: ngozi aina ya-6", 
+        "mkono wa kuonyesha mambo yako shwari: ngozi aina ya-5", 
+        "mkono wa kuonyesha mambo yako shwari: ngozi aina ya-4", 
+        "mkono wa kuonyesha mambo yako shwari: ngozi aina ya-3", 
+        "mkono", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "mkono wa kuonyesha mambo yako shwari", 
-        "mkono"
+        "mkono wa kuonyesha mambo yako shwari: ngozi aina ya-1-2", 
+        "sawa", 
+        "mwili"
     ], 
     "👍": [
+        "ngozi aina ya-1-2", 
         "dole gumba juu", 
+        "dole gumba juu: ngozi aina ya-1-2", 
         "mkono", 
+        "ngozi aina ya-3", 
         "gumba", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "1", 
+        "dole gumba juu: ngozi aina ya-3", 
+        "dole gumba juu: ngozi aina ya-4", 
+        "dole gumba juu: ngozi aina ya-5", 
+        "dole gumba juu: ngozi aina ya-6", 
         "juu", 
         "mwili"
     ], 
     "👎": [
+        "ngozi aina ya-1-2", 
+        "dole gumba chini: ngozi aina ya-5", 
+        "dole gumba chini: ngozi aina ya-1-2", 
         "mkono", 
+        "ngozi aina ya-3", 
         "gumba", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "dole gumba chini", 
+        "dole gumba chini: ngozi aina ya-3", 
         "-1", 
+        "dole gumba chini: ngozi aina ya-4", 
+        "dole gumba chini: ngozi aina ya-6", 
         "mwili", 
         "chini"
     ], 
     "👏": [
-        "mwili", 
+        "ngozi aina ya-1-2", 
         "mikono inayopiga makofi", 
+        "mkono", 
+        "mikono inayopiga makofi: ngozi aina ya-4", 
+        "ngozi aina ya-3", 
+        "mikono inayopiga makofi: ngozi aina ya-6", 
         "piga makofi", 
-        "mkono"
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "mikono inayopiga makofi: ngozi aina ya-3", 
+        "mikono inayopiga makofi: ngozi aina ya-5", 
+        "mwili", 
+        "ngozi aina ya-5", 
+        "mikono inayopiga makofi: ngozi aina ya-1-2"
     ], 
     "👐": [
+        "ngozi aina ya-1-2", 
+        "mikono iliyowazi: ngozi aina ya-3", 
+        "mikono iliyowazi: ngozi aina ya-4", 
+        "mikono iliyowazi: ngozi aina ya-5", 
+        "mikono iliyowazi: ngozi aina ya-6", 
+        "mkono", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "wazi", 
+        "mikono iliyowazi: ngozi aina ya-1-2", 
         "mwili", 
         "mikono iliyowazi", 
-        "wazi", 
-        "mkono"
+        "ngozi aina ya-5"
     ], 
     "👑": [
         "mavazi", 
@@ -3226,64 +4308,198 @@
         "sanamu za kichwa na mabega ya mtu katika kivuli"
     ], 
     "👦": [
+        "ngozi aina ya-1-2", 
+        "mvulana: ngozi aina ya-6", 
+        "mvulana: ngozi aina ya-5", 
+        "mvulana: ngozi aina ya-4", 
+        "mvulana: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "mvulana: ngozi aina ya-1-2", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "mvulana"
     ], 
     "👧": [
-        "mwali", 
-        "msichana", 
-        "zodiaki", 
+        "ngozi aina ya-1-2", 
+        "msichana: ngozi aina ya-6", 
+        "mashuke", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
         "bikira", 
-        "mashuke"
+        "ngozi aina ya-5", 
+        "mwali", 
+        "zodiaki", 
+        "msichana: ngozi aina ya-3", 
+        "msichana: ngozi aina ya-4", 
+        "ngozi aina ya-4", 
+        "msichana: ngozi aina ya-1-2", 
+        "msichana", 
+        "msichana: ngozi aina ya-5"
     ], 
     "👨": [
-        "mwanamume"
+        "ngozi aina ya-1-2", 
+        "mwanamume", 
+        "mwanamume: ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "ngozi aina ya-3", 
+        "mwanamume: ngozi aina ya-3", 
+        "mwanamume: ngozi aina ya-6", 
+        "mwanamume: ngozi aina ya-5", 
+        "mwanamume: ngozi aina ya-4"
+    ], 
+    "👨‍⚕️": [
+        "muuguzi", 
+        "mhudumu wa afya wa kiume", 
+        "daktari", 
+        "tabibu", 
+        "mganga"
+    ], 
+    "👨‍⚖️": [
+        "jaji", 
+        "hakimu", 
+        "jaji wa kiume"
+    ], 
+    "👨‍✈️": [
+        "rubani wa kiume", 
+        "mwanamume", 
+        "rubani", 
+        "ndege"
+    ], 
+    "👨‍❤️‍👨": [
+        "mapenzi", 
+        "moyo", 
+        "mume na muke na ishara ya moyo: mwanamume na mwanamume", 
+        "mume na mke", 
+        "mwanamume", 
+        "upendo", 
+        "mume na muke na ishara ya moyo"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "mume na mke", 
+        "busu: mwanamume na mwanamume", 
+        "mapenzi", 
+        "mwanamume", 
+        "busu"
     ], 
     "👨‍🌾": [
-        "mpunga", 
+        "ngozi aina ya-1-2", 
         "kofia", 
-        "mkulima", 
         "mchele", 
-        "mkulima wa kiume"
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mpunga", 
+        "mkulima", 
+        "mkulima wa kiume: ngozi aina ya-5", 
+        "mkulima wa kiume: ngozi aina ya-4", 
+        "mkulima wa kiume: ngozi aina ya-6", 
+        "mkulima wa kiume", 
+        "mkulima wa kiume: ngozi aina ya-3", 
+        "mkulima wa kiume: ngozi aina ya-1-2"
     ], 
     "👨‍🍳": [
+        "ngozi aina ya-1-2", 
         "mpishi", 
-        "sufuria", 
+        "ngozi aina ya-3", 
+        "mpishi wa kiume: ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
         "mpishi wa kiume", 
-        "kikaango"
+        "kikaango", 
+        "mpishi wa kiume: ngozi aina ya-3", 
+        "mpishi wa kiume: ngozi aina ya-4", 
+        "ngozi aina ya-4", 
+        "mpishi wa kiume: ngozi aina ya-6", 
+        "ngozi aina ya-5", 
+        "sufuria", 
+        "mpishi wa kiume: ngozi aina ya-5"
     ], 
     "👨‍🎓": [
-        "hitumu", 
+        "ngozi aina ya-1-2", 
         "kofia", 
-        "fuzu", 
         "mahafali", 
-        "mwanafunzi na kofia ya kufuzu"
+        "mwanafunzi na kofia ya kufuzu", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanafunzi na kofia ya kufuzu: ngozi aina ya-6", 
+        "hitumu", 
+        "ngozi aina ya-3", 
+        "mwanafunzi na kofia ya kufuzu: ngozi aina ya-1-2", 
+        "mwanafunzi na kofia ya kufuzu: ngozi aina ya-4", 
+        "mwanafunzi na kofia ya kufuzu: ngozi aina ya-5", 
+        "fuzu", 
+        "mwanafunzi na kofia ya kufuzu: ngozi aina ya-3"
     ], 
     "👨‍🎤": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "mwanamume", 
+        "mwimbaji wa kiume: ngozi aina ya-1-2", 
         "msanii", 
         "mwimbaji", 
+        "mwimbaji wa kiume: ngozi aina ya-5", 
+        "mwimbaji wa kiume", 
+        "mwimbaji wa kiume: ngozi aina ya-3", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwimbaji wa kiume: ngozi aina ya-6", 
         "maikrofoni", 
-        "mwanamume", 
-        "mwimbaji wa kiume"
+        "ngozi aina ya-3", 
+        "mwimbaji wa kiume: ngozi aina ya-4"
     ], 
     "👨‍🎨": [
-        "paleti", 
+        "ngozi aina ya-1-2", 
+        "mwanamume na kibao cha kuchanganyia rangi: ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "mwanamume na kibao cha kuchanganyia rangi: ngozi aina ya-5", 
+        "ngozi aina ya-4", 
+        "mchoraji", 
+        "mwanamume na kibao cha kuchanganyia rangi: ngozi aina ya-1-2", 
+        "mwanamume na kibao cha kuchanganyia rangi: ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "mwanamume na kibao cha kuchanganyia rangi", 
+        "mwanamume na kibao cha kuchanganyia rangi: ngozi aina ya-3", 
+        "paleti", 
         "sanaa", 
-        "rangi", 
-        "mchoraji"
+        "rangi"
     ], 
     "👨‍🏫": [
+        "ngozi aina ya-1-2", 
         "mwalimu", 
+        "mwalimu na ubao: ngozi aina ya-1-2", 
+        "mwalimu na ubao", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwalimu na ubao: ngozi aina ya-5", 
+        "mwalimu na ubao: ngozi aina ya-4", 
+        "mwalimu na ubao: ngozi aina ya-6", 
+        "mwalimu na ubao: ngozi aina ya-3", 
         "shule", 
-        "darasa", 
-        "mwalimu na ubao"
+        "darasa"
     ], 
     "👨‍🏭": [
-        "mfanyakazi", 
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "mwanamume na gesi ya kuchoma: ngozi aina ya-1-2", 
+        "mwanamume na gesi ya kuchoma: ngozi aina ya-6", 
+        "jua kali", 
         "mwanamume na gesi ya kuchoma", 
         "kuchomelea", 
+        "mwanamume na gesi ya kuchoma: ngozi aina ya-5", 
+        "mwanamume na gesi ya kuchoma: ngozi aina ya-4", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "fundi", 
-        "jua kali"
+        "ngozi aina ya-3", 
+        "mfanyakazi", 
+        "mwanamume na gesi ya kuchoma: ngozi aina ya-3"
     ], 
     "👨‍👦": [
         "baba", 
@@ -3429,94 +4645,287 @@
         "mwanamke"
     ], 
     "👨‍💻": [
-        "tehama", 
-        "mwanateknolojia wa kiume", 
+        "ngozi aina ya-1-2", 
+        "mwanateknolojia wa kiume: ngozi aina ya-3", 
+        "mwanateknolojia wa kiume: ngozi aina ya-5", 
+        "mwanateknolojia wa kiume: ngozi aina ya-4", 
         "tarakilishi", 
+        "mwanateknolojia wa kiume: ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "mwanateknolojia wa kiume", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "tehama", 
+        "mwanateknolojia wa kiume: ngozi aina ya-1-2", 
         "kompyuta ndogo"
     ], 
     "👨‍💼": [
-        "tai", 
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "mtu", 
+        "ngozi aina ya-3", 
+        "mwanamume aliyevaa nadhifu: ngozi aina ya-3", 
+        "ngozi aina ya-5", 
+        "mwanamume aliyevaa nadhifu: ngozi aina ya-5", 
+        "mwanamume aliyevaa nadhifu: ngozi aina ya-4", 
+        "ngozi aina ya-4", 
         "suti", 
+        "mwanamume aliyevaa nadhifu: ngozi aina ya-1-2", 
         "mwanamume aliyevaa nadhifu", 
-        "mtu"
+        "tai", 
+        "mwanamume aliyevaa nadhifu: ngozi aina ya-6"
     ], 
     "👨‍🔧": [
-        "fundi mitambo wa kiume", 
+        "ngozi aina ya-1-2", 
+        "fundi mitambo wa kiume: ngozi aina ya-1-2", 
         "mwanamume", 
         "spana", 
+        "fundi mitambo wa kiume: ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "fundi mitambo wa kiume", 
+        "fundi mitambo wa kiume: ngozi aina ya-4", 
+        "fundi mitambo wa kiume: ngozi aina ya-3", 
+        "fundi mitambo wa kiume: ngozi aina ya-5", 
         "mekanika", 
         "fundi gari"
     ], 
     "👨‍🔬": [
         "hadubini", 
+        "ngozi aina ya-1-2", 
         "mwanasayansi", 
+        "ngozi aina ya-3", 
         "miwani", 
-        "mwanasayansi wa kiume"
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanasayansi wa kiume: ngozi aina ya-6", 
+        "mwanasayansi wa kiume: ngozi aina ya-4", 
+        "mwanasayansi wa kiume: ngozi aina ya-5", 
+        "mwanasayansi wa kiume", 
+        "mwanasayansi wa kiume: ngozi aina ya-3", 
+        "mwanasayansi wa kiume: ngozi aina ya-1-2"
     ], 
     "👨‍🚀": [
-        "mwanaanga wa kiume", 
+        "ngozi aina ya-1-2", 
         "mwanamume", 
         "anga", 
-        "roketi"
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanaanga wa kiume", 
+        "mwanaanga wa kiume: ngozi aina ya-4", 
+        "mwanaanga wa kiume: ngozi aina ya-1-2", 
+        "mwanaanga wa kiume: ngozi aina ya-3", 
+        "mwanaanga wa kiume: ngozi aina ya-6", 
+        "roketi", 
+        "mwanaanga wa kiume: ngozi aina ya-5"
     ], 
     "👨‍🚒": [
-        "mzimamoto wa kiume", 
+        "ngozi aina ya-1-2", 
+        "mzimamoto wa kiume: ngozi aina ya-3", 
         "mwanamume", 
+        "mzimamoto wa kiume: ngozi aina ya-6", 
+        "mzimamoto wa kiume: ngozi aina ya-4", 
+        "mzimamoto wa kiume: ngozi aina ya-5", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "moto", 
+        "mzimamoto wa kiume: ngozi aina ya-1-2", 
         "lori", 
-        "zimamoto", 
-        "moto"
+        "mzimamoto wa kiume", 
+        "ngozi aina ya-5", 
+        "zimamoto"
     ], 
     "👩": [
+        "ngozi aina ya-1-2", 
+        "mwanamke: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "mwanamke: ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "mwanamke: ngozi aina ya-4", 
+        "mwanamke: ngozi aina ya-1-2", 
         "msichana", 
+        "ngozi aina ya-5", 
+        "mwanamke: ngozi aina ya-5", 
         "mwanamke"
     ], 
+    "👩‍⚕️": [
+        "muuguzi", 
+        "mhudumu wa afya wa kike", 
+        "daktari", 
+        "tabibu", 
+        "mganga"
+    ], 
+    "👩‍⚖️": [
+        "jaji", 
+        "hakimu", 
+        "jaji wa kike", 
+        "haki"
+    ], 
+    "👩‍✈️": [
+        "rubani wa kike", 
+        "rubani", 
+        "ndege", 
+        "mwanamke"
+    ], 
+    "👩‍❤️‍👨": [
+        "mume na muke na ishara ya moyo: mwanamke na mwanamume", 
+        "mapenzi", 
+        "moyo", 
+        "mume na mke", 
+        "mwanamume", 
+        "upendo", 
+        "mume na muke na ishara ya moyo", 
+        "mwanamke"
+    ], 
+    "👩‍❤️‍👩": [
+        "mapenzi", 
+        "moyo", 
+        "mume na mke", 
+        "mume na muke na ishara ya moyo: mwanamke na mwanamke", 
+        "upendo", 
+        "mume na muke na ishara ya moyo", 
+        "mwanamke"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "mapenzi", 
+        "busu", 
+        "busu: mwanamke na mwanamume", 
+        "mume na mke", 
+        "mwanamume", 
+        "mwanamke"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "mwanamke", 
+        "mume na mke", 
+        "mapenzi", 
+        "busu: mwanamke na mwanamke", 
+        "busu"
+    ], 
     "👩‍🌾": [
-        "mpunga", 
+        "ngozi aina ya-1-2", 
         "mkulima wa kike", 
+        "mkulima wa kike: ngozi aina ya-6", 
         "kofia", 
+        "mchele", 
+        "mkulima wa kike: ngozi aina ya-5", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mpunga", 
+        "mkulima wa kike: ngozi aina ya-4", 
+        "mkulima wa kike: ngozi aina ya-1-2", 
         "mkulima", 
-        "mchele"
+        "mkulima wa kike: ngozi aina ya-3"
     ], 
     "👩‍🍳": [
+        "ngozi aina ya-1-2", 
+        "mpishi wa kike: ngozi aina ya-1-2", 
         "mpishi", 
-        "mwanamke", 
+        "ngozi aina ya-3", 
+        "mpishi wa kike: ngozi aina ya-4", 
+        "mpishi wa kike: ngozi aina ya-5", 
+        "ngozi aina ya-6", 
+        "mpishi wa kike: ngozi aina ya-3", 
+        "ngozi aina ya-4", 
+        "kikaango", 
+        "mpishi wa kike: ngozi aina ya-6", 
         "mpishi wa kike", 
+        "ngozi aina ya-5", 
         "sufuria", 
-        "kikaango"
+        "mwanamke"
     ], 
     "👩‍🎓": [
-        "mwanafunzi wa kike na kofia ya kufuzu", 
-        "hitumu", 
+        "ngozi aina ya-1-2", 
         "kofia", 
-        "fuzu", 
-        "mahafali"
+        "mwanafunzi wa kike na kofia ya kufuzu: ngozi aina ya-1-2", 
+        "mahafali", 
+        "mwanafunzi wa kike na kofia ya kufuzu: ngozi aina ya-6", 
+        "mwanafunzi wa kike na kofia ya kufuzu", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "hitumu", 
+        "mwanafunzi wa kike na kofia ya kufuzu: ngozi aina ya-4", 
+        "mwanafunzi wa kike na kofia ya kufuzu: ngozi aina ya-3", 
+        "mwanafunzi wa kike na kofia ya kufuzu: ngozi aina ya-5", 
+        "fuzu"
     ], 
     "👩‍🎤": [
+        "ngozi aina ya-1-2", 
+        "mwimbaji wa kike: ngozi aina ya-4", 
+        "mwimbaji wa kike: ngozi aina ya-6", 
+        "mwimbaji wa kike: ngozi aina ya-3", 
         "msanii", 
         "mwimbaji", 
-        "maikrofoni", 
+        "ngozi aina ya-6", 
         "mwimbaji wa kike", 
+        "ngozi aina ya-5", 
+        "mwimbaji wa kike: ngozi aina ya-1-2", 
+        "maikrofoni", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-3", 
+        "mwimbaji wa kike: ngozi aina ya-5", 
         "mwanamke"
     ], 
     "👩‍🎨": [
-        "paleti", 
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "mwanamke na kibao cha kuchanganyia rangi: ngozi aina ya-5", 
+        "ngozi aina ya-3", 
         "mwanamke na kibao cha kuchanganyia rangi", 
+        "ngozi aina ya-4", 
+        "mchoraji", 
+        "ngozi aina ya-5", 
+        "mwanamke na kibao cha kuchanganyia rangi: ngozi aina ya-1-2", 
+        "mwanamke na kibao cha kuchanganyia rangi: ngozi aina ya-3", 
+        "mwanamke na kibao cha kuchanganyia rangi: ngozi aina ya-6", 
+        "mwanamke na kibao cha kuchanganyia rangi: ngozi aina ya-4", 
+        "paleti", 
         "sanaa", 
-        "rangi", 
-        "mchoraji"
+        "rangi"
     ], 
     "👩‍🏫": [
+        "ngozi aina ya-1-2", 
         "mwalimu", 
+        "ngozi aina ya-3", 
+        "mwalimu wa kike na ubao: ngozi aina ya-6", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwalimu wa kike na ubao: ngozi aina ya-3", 
+        "mwalimu wa kike na ubao: ngozi aina ya-5", 
+        "mwalimu wa kike na ubao", 
+        "mwalimu wa kike na ubao: ngozi aina ya-1-2", 
         "shule", 
         "darasa", 
-        "mwalimu wa kike na ubao"
+        "mwalimu wa kike na ubao: ngozi aina ya-4"
     ], 
     "👩‍🏭": [
-        "mfanyakazi", 
+        "ngozi aina ya-1-2", 
+        "mwanamke na gesi ya kuchoma: ngozi aina ya-4", 
+        "mwanamke na gesi ya kuchoma: ngozi aina ya-1-2", 
+        "jua kali", 
+        "mwanamke na gesi ya kuchoma: ngozi aina ya-3", 
         "mwanamke na gesi ya kuchoma", 
         "kuchomelea", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanamke na gesi ya kuchoma: ngozi aina ya-5", 
         "fundi", 
-        "jua kali"
+        "ngozi aina ya-3", 
+        "mfanyakazi", 
+        "mwanamke na gesi ya kuchoma: ngozi aina ya-6"
     ], 
     "👩‍👦": [
         "baba", 
@@ -3611,48 +5020,102 @@
         "mwanamke"
     ], 
     "👩‍💻": [
-        "tehama", 
-        "mwanateknolojia wa kike", 
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
         "tarakilishi", 
+        "mwanateknolojia wa kike: ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "mwanateknolojia wa kike: ngozi aina ya-5", 
+        "mwanateknolojia wa kike: ngozi aina ya-4", 
+        "mwanateknolojia wa kike: ngozi aina ya-3", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanateknolojia wa kike", 
+        "mwanateknolojia wa kike: ngozi aina ya-6", 
+        "tehama", 
         "kompyuta ndogo"
     ], 
     "👩‍💼": [
-        "tai", 
-        "mwanamke aliyevaa nadhifu", 
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "mwanamke aliyevaa nadhifu: ngozi aina ya-6", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
         "suti", 
+        "mwanamke aliyevaa nadhifu", 
+        "mwanamke aliyevaa nadhifu: ngozi aina ya-3", 
+        "mwanamke aliyevaa nadhifu: ngozi aina ya-5", 
+        "mwanamke aliyevaa nadhifu: ngozi aina ya-4", 
+        "mwanamke aliyevaa nadhifu: ngozi aina ya-1-2", 
+        "ngozi aina ya-5", 
+        "tai", 
         "mwanamke"
     ], 
     "👩‍🔧": [
         "fundi bomba", 
+        "ngozi aina ya-1-2", 
+        "fundi mitambo wa kike: ngozi aina ya-3", 
         "spana", 
+        "fundi mitambo wa kike: ngozi aina ya-5", 
+        "fundi mitambo wa kike: ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "fundi mitambo wa kike: ngozi aina ya-1-2", 
+        "fundi mitambo wa kike: ngozi aina ya-4", 
         "mekanika", 
         "fundi mitambo wa kike", 
         "mwanamke"
     ], 
     "👩‍🔬": [
         "hadubini", 
+        "ngozi aina ya-1-2", 
         "mwanasayansi", 
+        "ngozi aina ya-3", 
         "miwani", 
-        "mwanasayansi wa kike"
+        "ngozi aina ya-6", 
+        "mwanasayansi wa kike: ngozi aina ya-1-2", 
+        "mwanasayansi wa kike", 
+        "ngozi aina ya-5", 
+        "mwanasayansi wa kike: ngozi aina ya-4", 
+        "mwanasayansi wa kike: ngozi aina ya-5", 
+        "mwanasayansi wa kike: ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "mwanasayansi wa kike: ngozi aina ya-3"
     ], 
     "👩‍🚀": [
-        "roketi", 
+        "ngozi aina ya-1-2", 
+        "mwanaanga wa kike: ngozi aina ya-1-2", 
         "anga", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
         "mwanaanga wa kike", 
+        "ngozi aina ya-5", 
+        "mwanaanga wa kike: ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "mwanaanga wa kike: ngozi aina ya-3", 
+        "mwanaanga wa kike: ngozi aina ya-4", 
+        "mwanaanga wa kike: ngozi aina ya-5", 
+        "roketi", 
         "mwanamke"
     ], 
     "👩‍🚒": [
-        "mwanamke", 
-        "lori", 
-        "zimamoto", 
+        "ngozi aina ya-1-2", 
         "mzimamoto wa kike", 
-        "moto"
-    ], 
-    "👪": [
-        "baba", 
-        "mama", 
-        "familia", 
-        "mtoto"
+        "ngozi aina ya-3", 
+        "mzimamoto wa kike: ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "moto", 
+        "mzimamoto wa kike: ngozi aina ya-3", 
+        "lori", 
+        "mzimamoto wa kike: ngozi aina ya-5", 
+        "mzimamoto wa kike: ngozi aina ya-6", 
+        "mzimamoto wa kike: ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "zimamoto", 
+        "mwanamke"
     ], 
     "👫": [
         "mwanamume", 
@@ -3678,64 +5141,166 @@
         "mwanamke", 
         "mkono"
     ], 
-    "👮": [
+    "👮‍♀️": [
         "polisi", 
+        "askari", 
+        "polisi wa kike"
+    ], 
+    "👮‍♂️": [
+        "polisi", 
+        "askari", 
+        "polisi wa kiume", 
         "askari polisi", 
         "afisa"
     ], 
-    "👯": [
+    "👯‍♀️": [
+        "wanawake wanaosherehekea", 
         "sikio", 
+        "mcheza densi", 
+        "sherehe", 
         "watu wanaosherehekea", 
+        "wanawake", 
         "mcheza dansi", 
         "msichana", 
         "sungura", 
         "mwanamke"
     ], 
-    "👰": [
-        "bi harusi aliyevaa shela", 
-        "bi harusi", 
-        "harusi", 
-        "shela"
+    "👯‍♂️": [
+        "wanaume wanaosherehekea", 
+        "mcheza densi", 
+        "wanaume", 
+        "sungura", 
+        "sherehe"
     ], 
-    "👱": [
-        "mtu mwenye nywele za rangi ya shaba au kimanjano", 
-        "rangi ya shaba au kimanjano"
+    "👰": [
+        "ngozi aina ya-1-2", 
+        "bi harusi", 
+        "bi harusi aliyevaa shela: ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "shela", 
+        "ngozi aina ya-5", 
+        "harusi", 
+        "ngozi aina ya-4", 
+        "bi harusi aliyevaa shela", 
+        "bi harusi aliyevaa shela: ngozi aina ya-3", 
+        "bi harusi aliyevaa shela: ngozi aina ya-6", 
+        "bi harusi aliyevaa shela: ngozi aina ya-4", 
+        "bi harusi aliyevaa shela: ngozi aina ya-5"
+    ], 
+    "👱‍♀️": [
+        "nywele", 
+        "piko", 
+        "manjano", 
+        "mwanamke mwenye nywele ya kimanjano"
+    ], 
+    "👱‍♂️": [
+        "nywele", 
+        "piko", 
+        "rangi ya shaba au kimanjano", 
+        "mwanamume mwenye nywele ya kimanjano", 
+        "manjano", 
+        "mtu mwenye nywele za rangi ya shaba au kimanjano"
     ], 
     "👲": [
-        "gua pi mao", 
+        "ngozi aina ya-1-2", 
+        "mwanamume aliyevaa kofia ya kichina: ngozi aina ya-4", 
         "mwanamume aliyevaa kofia ya kichina", 
         "kofia", 
-        "mwanamume"
+        "mwanamume aliyevaa kofia ya kichina: ngozi aina ya-3", 
+        "mwanamume aliyevaa kofia ya kichina: ngozi aina ya-5", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "mwanamume aliyevaa kofia ya kichina: ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "gua pi mao", 
+        "mwanamume", 
+        "mwanamume aliyevaa kofia ya kichina: ngozi aina ya-1-2"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "mwanamke aliyefunga kilemba", 
+        "kilemba", 
+        "mwanamke"
+    ], 
+    "👳‍♂️": [
         "mwanamume", 
         "mwanaume aliyefunga kilemba", 
+        "mwanamume aliyefunga kilemba", 
         "kilemba"
     ], 
     "👴": [
+        "ngozi aina ya-1-2", 
         "mwanamume", 
+        "babu: ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "babu: ngozi aina ya-6", 
+        "babu: ngozi aina ya-4", 
+        "babu: ngozi aina ya-5", 
         "babu", 
+        "babu: ngozi aina ya-3", 
         "mzee"
     ], 
     "👵": [
         "bibi", 
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "bibi: ngozi aina ya-5", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "bibi: ngozi aina ya-3", 
+        "bibi: ngozi aina ya-6", 
+        "bibi: ngozi aina ya-4", 
         "mzee", 
+        "bibi: ngozi aina ya-1-2", 
         "mwanamke"
     ], 
     "👶": [
+        "ngozi aina ya-1-2", 
+        "mtoto: ngozi aina ya-1-2", 
         "mtoto", 
-        "mchanga"
+        "mtoto: ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mchanga", 
+        "mtoto: ngozi aina ya-4", 
+        "ngozi aina ya-3", 
+        "mtoto: ngozi aina ya-6", 
+        "mtoto: ngozi aina ya-5"
     ], 
-    "👷": [
-        "mfanyakazi", 
+    "👷‍♀️": [
+        "ujenzi", 
+        "mjenzi", 
+        "kofia", 
+        "mjenzi wa kike"
+    ], 
+    "👷‍♂️": [
         "ujenzi", 
         "kofia", 
-        "mfanyakazi wa ujenzi"
+        "mjenzi mwanamume", 
+        "mjenzi", 
+        "mfanyakazi wa ujenzi", 
+        "mfanyakazi"
     ], 
     "👸": [
+        "ngozi aina ya-1-2", 
+        "binti mfalme: ngozi aina ya-5", 
+        "binti mfalme: ngozi aina ya-4", 
         "njozi", 
+        "binti mfalme: ngozi aina ya-6", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "binti mfalme: ngozi aina ya-3", 
         "kichimbakazi", 
-        "binti mfalme"
+        "binti mfalme", 
+        "ngozi aina ya-3", 
+        "binti mfalme: ngozi aina ya-1-2", 
+        "ngozi aina ya-5"
     ], 
     "👹": [
         "uso", 
@@ -3764,11 +5329,21 @@
     ], 
     "👼": [
         "mtoto malaika", 
+        "ngozi aina ya-1-2", 
+        "mtoto malaika: ngozi aina ya-6", 
+        "mtoto malaika: ngozi aina ya-4", 
+        "mtoto malaika: ngozi aina ya-3", 
         "mtoto", 
         "njozi", 
+        "mtoto malaika: ngozi aina ya-5", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
         "malaika", 
         "uso", 
-        "kichimbakazi"
+        "kichimbakazi", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-5", 
+        "mtoto malaika: ngozi aina ya-1-2"
     ], 
     "👽": [
         "jitu geni", 
@@ -3807,21 +5382,48 @@
         "zimwi", 
         "uso"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "mkono", 
         "maelezo", 
-        "anayejiamini", 
-        "mhudumu anayetoa maelezo", 
+        "mwanamke anayetoa maelezo", 
         "usaidizi", 
+        "mhudumu anayetoa maelezo", 
+        "anayejiamini", 
+        "mwanamke"
+    ], 
+    "💁‍♂️": [
+        "mwanamume anayetoa maelezo", 
+        "usaidizi", 
+        "mwanamume", 
         "mkono"
     ], 
-    "💂": [
+    "💂‍♀️": [
+        "askari", 
+        "mlinzi wa kike", 
+        "bawabu", 
+        "mlinzi"
+    ], 
+    "💂‍♂️": [
+        "askari", 
+        "mlinzi mwanamume", 
+        "bawabu", 
         "mlinzi"
     ], 
     "💃": [
+        "ngozi aina ya-1-2", 
+        "ngoma", 
+        "mwanamke anayecheza: ngozi aina ya-4", 
         "densi", 
+        "ngozi aina ya-3", 
+        "mwanamke anayecheza: ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanamke anayecheza: ngozi aina ya-6", 
+        "mwanamke anayecheza: ngozi aina ya-5", 
         "mwanamke anayecheza", 
         "cheza", 
-        "ngoma"
+        "mwanamke anayecheza: ngozi aina ya-1-2"
     ], 
     "💄": [
         "urembo", 
@@ -3829,24 +5431,48 @@
         "vipodozi"
     ], 
     "💅": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
         "rangi ya kupaka kwenye kucha", 
+        "rangi ya kupaka kwenye kucha: ngozi aina ya-1-2", 
         "tunza", 
         "tengeneza kucha", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "rangi ya kupaka kwenye kucha: ngozi aina ya-6", 
+        "rangi ya kupaka kwenye kucha: ngozi aina ya-5", 
+        "rangi ya kupaka kwenye kucha: ngozi aina ya-4", 
         "vipodozi", 
+        "ngozi aina ya-3", 
         "mwili", 
         "kucha", 
-        "rangi"
+        "rangi", 
+        "rangi ya kupaka kwenye kucha: ngozi aina ya-3"
     ], 
-    "💆": [
+    "💆‍♀️": [
         "kukanda", 
         "mahali panapotoa huduma zinazohusiana na mitindo", 
-        "kukanda uso"
+        "kukanda uso", 
+        "mitindo", 
+        "mwanamke anayekandwa uso"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "kukanda", 
+        "mitindo", 
+        "mwanamume anayekandwa uso"
+    ], 
+    "💇‍♀️": [
         "kukata nywele", 
         "urembo", 
+        "mwanamke anayenyolewa nywele", 
         "kinyozi", 
         "ukumbi"
+    ], 
+    "💇‍♂️": [
+        "kukata nywele", 
+        "mwanamume anayenyolewa nywele", 
+        "kinyozi", 
+        "urembo"
     ], 
     "💈": [
         "nguzo ya kinyozi", 
@@ -3894,23 +5520,11 @@
         "kito", 
         "almasi"
     ], 
-    "💏": [
-        "mume na mke", 
-        "mapenzi", 
-        "busu"
-    ], 
     "💐": [
         "shada la maua", 
         "ua", 
         "mapenzi", 
         "mmea"
-    ], 
-    "💑": [
-        "moyo", 
-        "mume na mke", 
-        "upendo", 
-        "mapenzi", 
-        "mume na muke na ishara ya moyo"
     ], 
     "💒": [
         "kanisa", 
@@ -4050,11 +5664,21 @@
         "kibonzo"
     ], 
     "💪": [
+        "ngozi aina ya-1-2", 
+        "misuli iliyotunishwa: ngozi aina ya-1-2", 
+        "misuli iliyotunishwa: ngozi aina ya-3", 
         "misuli za mikono", 
         "musuli", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-3", 
+        "misuli iliyotunishwa: ngozi aina ya-5", 
+        "misuli iliyotunishwa: ngozi aina ya-4", 
         "tunisha", 
         "misuli iliyotunishwa", 
         "mwili", 
+        "ngozi aina ya-5", 
+        "misuli iliyotunishwa: ngozi aina ya-6", 
         "kibonzo"
     ], 
     "💫": [
@@ -4538,6 +6162,13 @@
         "kanda", 
         "kaseti ya video"
     ], 
+    "📽️": [
+        "projekta ya filamu", 
+        "video", 
+        "projekta", 
+        "filamu", 
+        "sinema"
+    ], 
     "📿": [
         "shanga za maombi", 
         "shanga", 
@@ -4918,6 +6549,17 @@
         "chini", 
         "kitufe cha chini"
     ], 
+    "🕉️": [
+        "omu", 
+        "dini", 
+        "kihindi"
+    ], 
+    "🕊️": [
+        "njiwa", 
+        "amani", 
+        "ndege", 
+        "paa"
+    ], 
     "🕋": [
         "muislamu", 
         "uislamu", 
@@ -5147,26 +6789,237 @@
         "nusu", 
         "12:30"
     ], 
+    "🕯️": [
+        "mwanga", 
+        "mshumaa"
+    ], 
+    "🕰️": [
+        "saa", 
+        "saa ya mezani"
+    ], 
+    "🕳️": [
+        "shimo"
+    ], 
+    "🕴️": [
+        "mwanaume aliyevaa suti anayeelea hewani", 
+        "biashara", 
+        "mwanamume", 
+        "suti"
+    ], 
+    "🕵️‍♂️": [
+        "jasusi", 
+        "mpelelezi"
+    ], 
+    "🕶️": [
+        "miwani ya macho", 
+        "miwani ya jua", 
+        "miwani", 
+        "jicho", 
+        "nyeusi"
+    ], 
+    "🕷️": [
+        "mdudu", 
+        "buibui"
+    ], 
+    "🕸️": [
+        "tandabui", 
+        "buibui"
+    ], 
+    "🕹️": [
+        "usukani", 
+        "mchezo", 
+        "mchezo wa video"
+    ], 
     "🕺": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "kusakata rumba: ngozi aina ya-1-2", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "kusakata rumba: ngozi aina ya-6", 
+        "kusakata rumba: ngozi aina ya-4", 
+        "kusakata rumba: ngozi aina ya-5", 
+        "kusakata rumba: ngozi aina ya-3", 
         "kusakata rumba"
     ], 
-    "🖕": [
-        "mwili", 
-        "kidole cha kati", 
+    "🖇️": [
+        "klipu za karatasi zilizounganishwa", 
+        "klipu ya karatasi", 
+        "unganisha"
+    ], 
+    "🖊️": [
+        "kalamu"
+    ], 
+    "🖋️": [
+        "kalamu", 
+        "kalamu ya wino"
+    ], 
+    "🖌️": [
+        "kuchora", 
+        "brashi ya kupaka rangi"
+    ], 
+    "🖍️": [
+        "penseli laini"
+    ], 
+    "🖐️": [
+        "mkono ulioinuliwa wenye vidole vilivyotanuliwa", 
+        "tanuliwa", 
         "kidole", 
+        "mwili", 
         "mkono"
     ], 
-    "🖖": [
+    "🖕": [
+        "ngozi aina ya-1-2", 
+        "kidole cha kati: ngozi aina ya-4", 
+        "kidole cha kati: ngozi aina ya-6", 
         "mkono", 
+        "ngozi aina ya-3", 
+        "kidole cha kati: ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "kidole cha kati: ngozi aina ya-5", 
+        "kidole", 
+        "kidole cha kati: ngozi aina ya-1-2", 
+        "mwili", 
+        "kidole cha kati"
+    ], 
+    "🖖": [
+        "ngozi aina ya-1-2", 
+        "ishara ya vulkani: ngozi aina ya-6", 
+        "ishara ya vulkani: ngozi aina ya-5", 
+        "ishara ya vulkani: ngozi aina ya-4", 
+        "ishara ya vulkani: ngozi aina ya-3", 
+        "mkono", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
         "ishara ya vulkani", 
         "kidole", 
         "spoku", 
         "mwili", 
-        "vulkani"
+        "vulkani", 
+        "ngozi aina ya-5", 
+        "ishara ya vulkani: ngozi aina ya-1-2"
     ], 
     "🖤": [
         "moyo", 
         "moyo mweusi"
+    ], 
+    "🖥️": [
+        "kompyuta ya mezani", 
+        "kompyuta"
+    ], 
+    "🖨️": [
+        "printa", 
+        "kompyuta"
+    ], 
+    "🖱️": [
+        "kipanya cha kompyuta", 
+        "kipanya", 
+        "3", 
+        "tatu", 
+        "kompyuta", 
+        "kitufe"
+    ], 
+    "🖲️": [
+        "kompyuta", 
+        "kitufe cha kompyuta kinachoendesha kishale"
+    ], 
+    "🖼️": [
+        "kuchora", 
+        "fremu", 
+        "picha", 
+        "fremu yenye picha", 
+        "makumbusho", 
+        "sanaa"
+    ], 
+    "🗂️": [
+        "farahasa", 
+        "vigawanishi vya kadi", 
+        "vigawanishi", 
+        "kadi"
+    ], 
+    "🗃️": [
+        "faili", 
+        "kadi", 
+        "sanduku la faili", 
+        "sanduku"
+    ], 
+    "🗄️": [
+        "faili", 
+        "kabati la hati", 
+        "kabati"
+    ], 
+    "🗑️": [
+        "ndoo la taka"
+    ], 
+    "🗒️": [
+        "dokezo", 
+        "daftari", 
+        "mzunguko", 
+        "daftari lililobanwa kwa waya wa mzunguko"
+    ], 
+    "🗓️": [
+        "kalenda iliyofungwa kwa waya wa mzunguko", 
+        "daftari", 
+        "mzunguko", 
+        "kalenda"
+    ], 
+    "🗜️": [
+        "kubana", 
+        "zana", 
+        "jiliwa ya seremala"
+    ], 
+    "🗝️": [
+        "kufuli", 
+        "ufunguo wa zamani", 
+        "dalili", 
+        "ufunguo", 
+        "nzee"
+    ], 
+    "🗞️": [
+        "kukunjwa", 
+        "gazeti lililokunjwa", 
+        "habari", 
+        "gazeti", 
+        "karatasi"
+    ], 
+    "🗡️": [
+        "kisu", 
+        "silaha", 
+        "sime"
+    ], 
+    "🗣️": [
+        "zungumza", 
+        "uso", 
+        "kichwa kinachozugumza", 
+        "kuzungumza", 
+        "kichwa", 
+        "kivuli"
+    ], 
+    "🗨️": [
+        "kitufe cha usemi cha kushoto", 
+        "mazungumzo", 
+        "usemi"
+    ], 
+    "🗯️": [
+        "ghadhabu", 
+        "ishara", 
+        "puto", 
+        "hasira", 
+        "kitufe cha usemi wa hasira cha kulia"
+    ], 
+    "🗳️": [
+        "sanduku", 
+        "sanduku la kupiga kura na kura", 
+        "kura"
+    ], 
+    "🗺️": [
+        "ramani", 
+        "ramani ya dunia", 
+        "dunia"
     ], 
     "🗻": [
         "fuji", 
@@ -5659,27 +7512,54 @@
         "usio wenye macho yanayorembua", 
         "macho"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "ishara", 
         "mkono", 
+        "mwanamke anayeonyesha ishara ya kukataa", 
         "marufuku", 
         "hapana", 
         "siyo", 
+        "kataa", 
         "katazwa", 
         "mtu anayeonyesha ishara ya kukataa"
     ], 
-    "🙆": [
-        "sawa", 
+    "🙅‍♂️": [
+        "mwanamume anayeonyesha ishara ya kukataa", 
+        "kataa", 
         "ishara", 
-        "mtu anayeonyesha ishara ya kukubali", 
+        "hapana", 
         "mkono"
     ], 
-    "🙇": [
+    "🙆‍♀️": [
+        "ishara", 
+        "mtu anayeonyesha ishara ya kukubali", 
+        "mkono", 
+        "mwanamke anayeonyesha ishara ya kukubali", 
+        "sawa", 
+        "kukubali", 
+        "ndiyo"
+    ], 
+    "🙆‍♂️": [
+        "sawa", 
+        "kukubali", 
+        "ishara", 
+        "ndiyo", 
+        "mwanamume anayeonyesha ishara ya kukubali"
+    ], 
+    "🙇‍♀️": [
         "samahani", 
         "inama", 
+        "mwanamke aliyeinama", 
+        "omba msamaha"
+    ], 
+    "🙇‍♂️": [
+        "inama", 
         "ishara", 
+        "msamaha", 
+        "samahani", 
+        "omba msamaha", 
         "mtu aliyeinama", 
-        "msamaha"
+        "mwanamume aliyeinama"
     ], 
     "🙈": [
         "uovu", 
@@ -5716,43 +7596,85 @@
         "uso wenye mdomo uliofunikwa kwa mikono", 
         "hapana"
     ], 
-    "🙋": [
-        "inuliwa", 
+    "🙋‍♀️": [
         "mtu mwenye furaha aliyeinua mkono", 
-        "furaha", 
         "ishara", 
-        "mkono"
+        "mkono", 
+        "inua mkono", 
+        "inuliwa", 
+        "furaha", 
+        "mwanamke mwenye furaha aliyeinua mnoko"
+    ], 
+    "🙋‍♂️": [
+        "mkono", 
+        "mwanamume mwenye furaha aliyeinua mkono", 
+        "furaha", 
+        "inua mkono"
     ], 
     "🙌": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "mikono iliyoinuliwa: ngozi aina ya-5", 
         "mikono iliyoinuliwa", 
         "ishara", 
         "mkono", 
+        "ngozi aina ya-3", 
         "shangwe", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mikono iliyoinuliwa: ngozi aina ya-3", 
+        "mikono iliyoinuliwa: ngozi aina ya-4", 
+        "mikono iliyoinuliwa: ngozi aina ya-1-2", 
+        "mikono iliyoinuliwa: ngozi aina ya-6", 
         "inuliwa", 
         "mwili", 
         "kusherehekea"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
         "chukizwa", 
+        "mwanamke anayekunja kipaji cha uso", 
+        "mwanamume", 
         "ishara", 
         "mtu anayekunja kipaji cha uso"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "chukizwa", 
+        "mwanamume anayekunja kipaji cha uso", 
+        "mwanamume", 
+        "ishara"
+    ], 
+    "🙎‍♀️": [
+        "mwanamke anayebibidua midomo", 
         "ishara", 
         "bibidua midomo", 
         "mtu aliyebibidua midomo"
     ], 
+    "🙎‍♂️": [
+        "mwanamume anayebibidua midomo", 
+        "ishara", 
+        "bibidua midomo"
+    ], 
     "🙏": [
+        "ngozi aina ya-1-2", 
         "inama", 
         "omba", 
         "ishara", 
+        "mikono iliyokunjwa: ngozi aina ya-1-2", 
         "mkono", 
+        "ngozi aina ya-3", 
         "asante", 
+        "ngozi aina ya-6", 
         "kunjwa", 
+        "ngozi aina ya-5", 
+        "ngozi aina ya-4", 
         "tafadhali", 
+        "mikono iliyokunjwa: ngozi aina ya-3", 
         "mwili", 
         "uliza", 
-        "mikono iliyokunjwa"
+        "mikono iliyokunjwa", 
+        "mikono iliyokunjwa: ngozi aina ya-6", 
+        "mikono iliyokunjwa: ngozi aina ya-5", 
+        "mikono iliyokunjwa: ngozi aina ya-4"
     ], 
     "🚀": [
         "anga", 
@@ -5956,9 +7878,17 @@
         "meli", 
         "gari"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
         "boti", 
+        "mwanamke anayeendesha ngalawa", 
+        "mtumbwi", 
+        "ngalawa"
+    ], 
+    "🚣‍♂️": [
+        "boti", 
+        "mtumbwi", 
         "ngalawa", 
+        "mwanamume anayeendesha ngalawa", 
         "gari"
     ], 
     "🚤": [
@@ -6058,21 +7988,47 @@
         "baisikeli haziruhusiwi", 
         "hapana"
     ], 
-    "🚴": [
-        "mwendesha baisikeli", 
-        "baisikeli"
+    "🚴‍♀️": [
+        "baiskeli", 
+        "mwanamke anayeendesha baisikeli", 
+        "mwendesha baiskeli"
     ], 
-    "🚵": [
-        "mtu anayeendesha baisikeli mlimani", 
+    "🚴‍♂️": [
         "mwendesha baisikeli", 
+        "baiskeli", 
+        "mwanaume anayeendesha baisikeli", 
+        "baisikeli", 
+        "mwendesha baiskeli"
+    ], 
+    "🚵‍♀️": [
+        "mwanamke anayeendesha baiskeli mlimani", 
+        "baiskeli", 
         "mlima", 
-        "baisikeli"
+        "mwendesha baiskeli"
     ], 
-    "🚶": [
-        "tembea", 
-        "mtu anayetembea", 
+    "🚵‍♂️": [
+        "mwendesha baisikeli", 
+        "baisikeli", 
+        "mtu anayeendesha baisikeli mlimani", 
+        "baiskeli", 
+        "mwanamume anayeendesha baiskeli mlimani", 
+        "mwendesha baiskeli", 
+        "mlima"
+    ], 
+    "🚶‍♀️": [
         "kutembea", 
-        "kutembea umbali mrefu"
+        "kuondoka", 
+        "mwanamke anayetembea", 
+        "mwanamke"
+    ], 
+    "🚶‍♂️": [
+        "kutembea umbali mrefu", 
+        "mwanamume", 
+        "kuondoka", 
+        "mwanamume anayetembea", 
+        "kutembea", 
+        "mtu anayetembea", 
+        "tembea"
     ], 
     "🚷": [
         "watembea kwa miguu hawaruhusiwi", 
@@ -6123,9 +8079,19 @@
         "maji"
     ], 
     "🛀": [
+        "ngozi aina ya-1-2", 
+        "mtu anayeoga: ngozi aina ya-6", 
+        "mtu anayeoga: ngozi aina ya-5", 
+        "mtu anayeoga: ngozi aina ya-4", 
+        "mtu anayeoga: ngozi aina ya-3", 
         "bafu", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "hodhi", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "mtu anayeoga", 
-        "hodhi"
+        "mtu anayeoga: ngozi aina ya-1-2"
     ], 
     "🛁": [
         "bafu", 
@@ -6150,10 +8116,43 @@
         "mahali pa kuhifadhi mizigo", 
         "mzigo"
     ], 
-    "🛌": [
-        "lala", 
+    "🛋️": [
+        "taa", 
+        "kochi na taa", 
         "hoteli", 
-        "mtu aliyelala kitandani"
+        "kochi"
+    ], 
+    "🛌": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "mtu aliyelala kitandani: ngozi aina ya-3", 
+        "mtu aliyelala kitandani: ngozi aina ya-4", 
+        "hoteli", 
+        "mtu aliyelala kitandani: ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "lala", 
+        "mtu aliyelala kitandani", 
+        "ngozi aina ya-5", 
+        "ngozi aina ya-4", 
+        "mtu aliyelala kitandani: ngozi aina ya-1-2", 
+        "mtu aliyelala kitandani: ngozi aina ya-5"
+    ], 
+    "🛍️": [
+        "mifuko ya kubeba bidhaa baada ya kununua", 
+        "ununuzi", 
+        "hoteli", 
+        "mkoba"
+    ], 
+    "🛎️": [
+        "kengele", 
+        "kengele ya mwandazi", 
+        "hoteli", 
+        "mwandazi"
+    ], 
+    "🛏️": [
+        "kitanda", 
+        "lala", 
+        "hoteli"
     ], 
     "🛐": [
         "mahali pa kuabudu", 
@@ -6169,6 +8168,40 @@
         "toroli", 
         "ununuzi"
     ], 
+    "🛠️": [
+        "nyundo na spana malaya", 
+        "nyungo", 
+        "zana", 
+        "spana malaya"
+    ], 
+    "🛡️": [
+        "ngao", 
+        "silaha"
+    ], 
+    "🛢️": [
+        "pipa la mafuta", 
+        "mafuta", 
+        "ngoma"
+    ], 
+    "🛣️": [
+        "barabara", 
+        "barabara kuu"
+    ], 
+    "🛤️": [
+        "njia ya reli", 
+        "reli", 
+        "treni"
+    ], 
+    "🛥️": [
+        "boti", 
+        "motaboti", 
+        "gari"
+    ], 
+    "🛩️": [
+        "ndege ndogo", 
+        "ndege", 
+        "gari"
+    ], 
     "🛫": [
         "ndege inayoondoka", 
         "kuingia", 
@@ -6183,6 +8216,17 @@
         "ndege inayowasili", 
         "kuwasili", 
         "ndege"
+    ], 
+    "🛰️": [
+        "setilaiti", 
+        "anga", 
+        "gari"
+    ], 
+    "🛳️": [
+        "abiria", 
+        "meli", 
+        "meli ya abiria", 
+        "gari"
     ], 
     "🛴": [
         "skuta"
@@ -6253,27 +8297,77 @@
         "kumbatia"
     ], 
     "🤘": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
         "mkono", 
         "cheza", 
+        "ishara ya pembe: ngozi aina ya-3", 
+        "ishara ya pembe: ngozi aina ya-4", 
+        "ishara ya pembe: ngozi aina ya-5", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "ishara ya pembe: ngozi aina ya-1-2", 
         "kidole", 
+        "ishara ya pembe: ngozi aina ya-6", 
         "ishara ya pembe", 
+        "ngozi aina ya-3", 
         "mwili", 
         "pembe"
     ], 
     "🤙": [
+        "ngozi aina ya-1-2", 
+        "mkono", 
         "ishara ya “nipigie simu”", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "ishara ya “nipigie simu”: ngozi aina ya-1-2", 
+        "ishara ya “nipigie simu”: ngozi aina ya-3", 
         "nipigie simu", 
-        "mkono"
+        "ishara ya “nipigie simu”: ngozi aina ya-6", 
+        "ishara ya “nipigie simu”: ngozi aina ya-4", 
+        "ishara ya “nipigie simu”: ngozi aina ya-5"
     ], 
     "🤚": [
+        "ngozi aina ya-1-2", 
+        "kuinua mkono: ngozi aina ya-4", 
+        "kuinua mkono: ngozi aina ya-5", 
+        "kuinua mkono: ngozi aina ya-6", 
+        "kuinua mkono", 
+        "kuinua mkono: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
         "mkono juu", 
-        "kuinua mkono"
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "kuinua mkono: ngozi aina ya-1-2"
     ], 
     "🤛": [
-        "ngumi ya kulia"
+        "ngozi aina ya-1-2", 
+        "ngumi ya kulia: ngozi aina ya-1-2", 
+        "ngumi ya kulia: ngozi aina ya-4", 
+        "ngozi aina ya-3", 
+        "ngumi ya kulia: ngozi aina ya-6", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngumi ya kulia: ngozi aina ya-3", 
+        "ngumi ya kulia", 
+        "ngumi ya kulia: ngozi aina ya-5", 
+        "ngozi aina ya-5"
     ], 
     "🤜": [
-        "ngumi ya kushoto"
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "ngumi ya kushoto: ngozi aina ya-5", 
+        "ngumi ya kushoto: ngozi aina ya-4", 
+        "ngumi ya kushoto: ngozi aina ya-6", 
+        "ngumi ya kushoto", 
+        "ngumi ya kushoto: ngozi aina ya-3", 
+        "ngumi ya kushoto: ngozi aina ya-1-2"
     ], 
     "🤝": [
         "kusalimiana", 
@@ -6282,14 +8376,34 @@
         "makubaliano"
     ], 
     "🤞": [
+        "ngozi aina ya-1-2", 
+        "mkono", 
+        "ngozi aina ya-3", 
         "ishara ya kubahatisha", 
+        "ngozi aina ya-6", 
+        "ishara ya kubahatisha: ngozi aina ya-1-2", 
+        "ngozi aina ya-5", 
         "kubahatisha", 
-        "mkono"
+        "ngozi aina ya-4", 
+        "ishara ya kubahatisha: ngozi aina ya-4", 
+        "ishara ya kubahatisha: ngozi aina ya-5", 
+        "ishara ya kubahatisha: ngozi aina ya-6", 
+        "ishara ya kubahatisha: ngozi aina ya-3"
     ], 
     "🤟": [
+        "ngozi aina ya-1-2", 
+        "ishara ya \"nakupenda\": ngozi aina ya-1-2", 
+        "mkono", 
         "nakupenda", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
         "ishara ya \"nakupenda\"", 
-        "mkono"
+        "ngozi aina ya-5", 
+        "ishara ya \"nakupenda\": ngozi aina ya-3", 
+        "ishara ya \"nakupenda\": ngozi aina ya-4", 
+        "ngozi aina ya-4", 
+        "ishara ya \"nakupenda\": ngozi aina ya-6", 
+        "ishara ya \"nakupenda\": ngozi aina ya-5"
     ], 
     "🤠": [
         "uso wenye kofia"
@@ -6321,7 +8435,27 @@
         "pinocchio"
     ], 
     "🤦": [
-        "ishara ya kutoamini"
+        "ngozi aina ya-1-2", 
+        "ishara ya kutoamini: ngozi aina ya-4", 
+        "ngozi aina ya-3", 
+        "ishara ya kutoamini", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ishara ya kutoamini: ngozi aina ya-3", 
+        "ishara ya kutoamini: ngozi aina ya-1-2", 
+        "ishara ya kutoamini: ngozi aina ya-5", 
+        "ngozi aina ya-5", 
+        "ishara ya kutoamini: ngozi aina ya-6"
+    ], 
+    "🤦‍♀️": [
+        "kutoamini", 
+        "ishara", 
+        "mwanamke anayueashiria kutoamini"
+    ], 
+    "🤦‍♂️": [
+        "kutoamini", 
+        "mwanamume anayeashiria kutoamini", 
+        "ishara"
     ], 
     "🤧": [
         "kupiga chafya", 
@@ -6369,46 +8503,178 @@
         "kichwa kinacholipuka"
     ], 
     "🤰": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-3", 
+        "mwanamke mjamzito: ngozi aina ya-5", 
+        "mwanamke mjamzito: ngozi aina ya-4", 
+        "mwanamke mjamzito: ngozi aina ya-3", 
+        "mwanamke mjamzito: ngozi aina ya-1-2", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanamke mjamzito: ngozi aina ya-6", 
         "mwanamke mjamzito"
     ], 
     "🤱": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
         "mtoto", 
-        "kunyonyesha mtoto", 
+        "ngozi aina ya-3", 
         "kunyonyesha", 
-        "titi"
+        "titi", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "kunyonyesha mtoto: ngozi aina ya-6", 
+        "kunyonyesha mtoto: ngozi aina ya-1-2", 
+        "kunyonyesha mtoto: ngozi aina ya-4", 
+        "kunyonyesha mtoto: ngozi aina ya-5", 
+        "kunyonyesha mtoto", 
+        "kunyonyesha mtoto: ngozi aina ya-3"
     ], 
     "🤲": [
+        "ngozi aina ya-1-2", 
+        "viganja vilivyoshikana: ngozi aina ya-6", 
+        "viganja vilivyoshikana: ngozi aina ya-5", 
+        "viganja vilivyoshikana: ngozi aina ya-4", 
+        "viganja vilivyoshikana: ngozi aina ya-3", 
+        "viganja vilivyoshikana", 
+        "ngozi aina ya-3", 
         "maombi", 
-        "viganja vilivyoshikana"
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "viganja vilivyoshikana: ngozi aina ya-1-2"
     ], 
     "🤳": [
+        "ngozi aina ya-1-2", 
+        "selfie: ngozi aina ya-3", 
+        "simu", 
+        "ngozi aina ya-3", 
         "selfie", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "selfie: ngozi aina ya-6", 
         "kamera", 
-        "simu"
+        "selfie: ngozi aina ya-4", 
+        "selfie: ngozi aina ya-5", 
+        "selfie: ngozi aina ya-1-2"
     ], 
     "🤴": [
-        "mwana wa mfalme"
+        "ngozi aina ya-1-2", 
+        "mwana wa mfalme: ngozi aina ya-4", 
+        "mwana wa mfalme: ngozi aina ya-6", 
+        "mwana wa mfalme: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwana wa mfalme", 
+        "mwana wa mfalme: ngozi aina ya-1-2", 
+        "mwana wa mfalme: ngozi aina ya-5"
     ], 
     "🤵": [
-        "tuxedo", 
+        "ngozi aina ya-1-2", 
         "mwanamume mwenye tuxedo", 
-        "bwana harusi"
+        "bwana harusi", 
+        "tuxedo", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mwanamume mwenye tuxedo: ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "mwanamume mwenye tuxedo: ngozi aina ya-6", 
+        "mwanamume mwenye tuxedo: ngozi aina ya-5", 
+        "mwanamume mwenye tuxedo: ngozi aina ya-4", 
+        "mwanamume mwenye tuxedo: ngozi aina ya-3"
     ], 
     "🤶": [
         "bibi", 
+        "ngozi aina ya-1-2", 
+        "nyanya", 
+        "ngozi aina ya-3", 
+        "mkongwe: ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mkongwe: ngozi aina ya-4", 
+        "mkongwe: ngozi aina ya-5", 
         "mkongwe", 
-        "nyanya"
+        "mkongwe: ngozi aina ya-6", 
+        "mkongwe: ngozi aina ya-3"
     ], 
     "🤷": [
+        "ngozi aina ya-1-2", 
+        "ishara ya kutojali: ngozi aina ya-3", 
         "ishara ya kutojali", 
-        "sijali"
+        "ishara ya kutojali: ngozi aina ya-6", 
+        "ishara ya kutojali: ngozi aina ya-5", 
+        "ishara ya kutojali: ngozi aina ya-4", 
+        "ngozi aina ya-3", 
+        "sijali", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "ngozi aina ya-6", 
+        "ishara ya kutojali: ngozi aina ya-1-2"
+    ], 
+    "🤷‍♀️": [
+        "kutojali", 
+        "sijali", 
+        "kutikisa bega", 
+        "mwanamke anayeashiria kutojali"
+    ], 
+    "🤷‍♂️": [
+        "kutojali", 
+        "sijali", 
+        "kutikisa bega", 
+        "mwanamume anayeashiria kutojali"
     ], 
     "🤸": [
+        "ngozi aina ya-1-2", 
+        "sarakasi: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "sarakasi: ngozi aina ya-5", 
+        "ngozi aina ya-4", 
+        "sarakasi: ngozi aina ya-4", 
         "mwanasarakasi", 
+        "sarakasi: ngozi aina ya-1-2", 
+        "ngozi aina ya-5", 
+        "sarakasi: ngozi aina ya-6", 
         "sarakasi"
     ], 
+    "🤸‍♀️": [
+        "mwanasarakasi", 
+        "mwanamke anayefanya sarakasi", 
+        "sarakasi"
+    ], 
+    "🤸‍♂️": [
+        "mwanasarakasi", 
+        "sarakasi", 
+        "mwanamume anayefanya sarakasi"
+    ], 
     "🤹": [
+        "ngozi aina ya-1-2", 
+        "shughuli nyingi: ngozi aina ya-1-2", 
+        "shughuli nyingi", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "shughuli nyingi: ngozi aina ya-3", 
+        "shughuli nyingi: ngozi aina ya-4", 
+        "shughuli nyingi: ngozi aina ya-5", 
+        "shughuli nyingi: ngozi aina ya-6"
+    ], 
+    "🤹‍♀️": [
+        "mwanamke anayechezea mipira mingi mikononi", 
+        "kiinimacho", 
         "shughuli nyingi"
+    ], 
+    "🤹‍♂️": [
+        "kiinimacho", 
+        "shughuli nyingi", 
+        "mwanamume anayechezea mipira mingi mkononi"
     ], 
     "🤺": [
         "upanga", 
@@ -6421,16 +8687,72 @@
         "spoti", 
         "bondia"
     ], 
+    "🤼‍♀️": [
+        "wanawake wanaomenyana miereka", 
+        "ndondi", 
+        "miereka", 
+        "bondia"
+    ], 
+    "🤼‍♂️": [
+        "ndondi", 
+        "miereka", 
+        "wanaume wanaomenyana miereka", 
+        "bondia"
+    ], 
     "🤽": [
+        "ngozi aina ya-1-2", 
+        "maji", 
+        "michezo kwenye bwawa la kuogelea: ngozi aina ya-5", 
         "michezo kwenye bwawa la kuogelea", 
-        "bwawa la kuogelea", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "michezo kwenye bwawa la kuogelea: ngozi aina ya-1-2", 
         "spoti", 
-        "maji"
+        "michezo kwenye bwawa la kuogelea: ngozi aina ya-4", 
+        "michezo kwenye bwawa la kuogelea: ngozi aina ya-3", 
+        "michezo kwenye bwawa la kuogelea: ngozi aina ya-6", 
+        "bwawa la kuogelea"
+    ], 
+    "🤽‍♀️": [
+        "mpira wa mikono", 
+        "mwanamke anayecheza mpira wa mikono majini", 
+        "bwawa la kuogelea", 
+        "spoti"
+    ], 
+    "🤽‍♂️": [
+        "mpira wa mikono", 
+        "mwanamume anayecheza mpira wa mikono majini", 
+        "bwawa la kuogelea", 
+        "spoti"
     ], 
     "🤾": [
+        "ngozi aina ya-1-2", 
+        "mpira wa mikono: ngozi aina ya-6", 
+        "mpira", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "spoti", 
+        "mpira wa mikono: ngozi aina ya-4", 
+        "mpira wa mikono: ngozi aina ya-5", 
+        "mpira wa mikono", 
+        "mpira wa mikono: ngozi aina ya-1-2", 
+        "mpira wa mikono: ngozi aina ya-3"
+    ], 
+    "🤾‍♀️": [
         "mpira wa mikono", 
         "spoti", 
+        "mwanamke anayecheza mpira wa mikono", 
         "mpira"
+    ], 
+    "🤾‍♂️": [
+        "mpira wa mikono", 
+        "spoti", 
+        "mpira", 
+        "mwanamume anayecheza mpira wa mikono"
     ], 
     "🥀": [
         "ua lililonyauka", 
@@ -6744,75 +9066,185 @@
         "uso wenye miwani kwenye jicho moja"
     ], 
     "🧑": [
+        "ngozi aina ya-1-2", 
+        "ngozi aina ya-6", 
         "mtu mzima", 
-        "asiyejitambulisha na jinsia yoyote"
+        "mtu mzima: ngozi aina ya-3", 
+        "mtu mzima: ngozi aina ya-5", 
+        "mtu mzima: ngozi aina ya-4", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "asiyejitambulisha na jinsia yoyote", 
+        "ngozi aina ya-3", 
+        "mtu mzima: ngozi aina ya-6", 
+        "mtu mzima: ngozi aina ya-1-2"
     ], 
     "🧒": [
+        "ngozi aina ya-1-2", 
+        "kijana: ngozi aina ya-4", 
+        "kijana: ngozi aina ya-6", 
+        "kijana: ngozi aina ya-5", 
         "kijana", 
-        "asiyejitambulisha na jinsia yoyote"
+        "kijana: ngozi aina ya-3", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "asiyejitambulisha na jinsia yoyote", 
+        "kijana: ngozi aina ya-1-2"
     ], 
     "🧓": [
+        "ngozi aina ya-1-2", 
+        "mzee: ngozi aina ya-1-2", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
         "asiyejitambulisha na jinsia yoyote", 
-        "mzee"
+        "mzee", 
+        "mzee: ngozi aina ya-3", 
+        "mzee: ngozi aina ya-6", 
+        "mzee: ngozi aina ya-5", 
+        "mzee: ngozi aina ya-4"
     ], 
     "🧔": [
+        "ngozi aina ya-1-2", 
         "ndevu", 
-        "mtu mwenye ndevu"
+        "mtu mwenye ndevu", 
+        "ngozi aina ya-3", 
+        "ngozi aina ya-6", 
+        "mtu mwenye ndevu: ngozi aina ya-1-2", 
+        "ngozi aina ya-4", 
+        "ngozi aina ya-5", 
+        "mtu mwenye ndevu: ngozi aina ya-3", 
+        "mtu mwenye ndevu: ngozi aina ya-6", 
+        "mtu mwenye ndevu: ngozi aina ya-5", 
+        "mtu mwenye ndevu: ngozi aina ya-4"
     ], 
     "🧕": [
-        "hijab", 
-        "neti ya kichwani", 
+        "ngozi aina ya-1-2", 
+        "mwanamke aliyejifunga kitambaa kichwani: ngozi aina ya-1-2", 
         "kitambaa cha kichwani", 
+        "ngozi aina ya-3", 
+        "neti ya kichwani", 
+        "ngozi aina ya-6", 
+        "kitambaa", 
+        "ngozi aina ya-5", 
+        "ngozi aina ya-4", 
         "mwanamke aliyejifunga kitambaa kichwani", 
-        "kitambaa"
+        "hijab", 
+        "mwanamke aliyejifunga kitambaa kichwani: ngozi aina ya-3", 
+        "mwanamke aliyejifunga kitambaa kichwani: ngozi aina ya-4", 
+        "mwanamke aliyejifunga kitambaa kichwani: ngozi aina ya-5", 
+        "mwanamke aliyejifunga kitambaa kichwani: ngozi aina ya-6"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "mwanamke katika bafu la mvuke", 
+        "bafu la mvuke", 
+        "sauna"
+    ], 
+    "🧖‍♂️": [
+        "mwanamume katika bafu la mvuke", 
         "chumba cha mvuke", 
+        "bafu la mvuke", 
         "mtu katika bafu la mvuke", 
         "sauna"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "mtu anayekwea", 
-        "mkwezi"
+        "mkwezi", 
+        "mwanamke anayekwea", 
+        "mkwezi wa kike"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "mkwezi wa kiume", 
+        "mwanamume anayekwea"
+    ], 
+    "🧘‍♀️": [
         "mtu anayetaamali", 
+        "taamuli", 
         "yoga", 
-        "tafakuri"
+        "tafakuri", 
+        "mwanamke anayetaamali"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "mwanamume anayetaamali", 
+        "taamuli", 
+        "yoga"
+    ], 
+    "🧙‍♀️": [
+        "mlozi wa kike", 
         "mchawi wa kike", 
         "mlozi", 
         "mlozi mwanamke", 
         "mchawi"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "mlozi wa kiume", 
+        "mchawi wa kiume"
+    ], 
+    "🧚‍♀️": [
         "kichimbakazi malkia", 
         "kichimbakazi", 
         "jini", 
-        "kichimbakazi mfalme"
+        "kichimbakazi mfalme", 
+        "kichimbakazi wa kike"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "jini", 
+        "kichimbakazi mfalme", 
+        "kichimbakazi wa kiume"
+    ], 
+    "🧛‍♀️": [
         "Dracula", 
         "mnyonya damu", 
+        "mnyonya damu wa kike", 
         "zimwi"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "Dracula", 
+        "mnyonya damu wa kiume", 
+        "zimwi"
+    ], 
+    "🧜‍♀️": [
+        "nguva", 
+        "nguva kike"
+    ], 
+    "🧜‍♂️": [
         "nguva mtu", 
         "nguva", 
         "nguva kike", 
-        "nguva dume"
+        "nguva dume", 
+        "nguva Triton"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "kibwengo cha kike", 
+        "uganga"
+    ], 
+    "🧝‍♂️": [
+        "kiinimacho", 
+        "kibwengo dume", 
         "kibwengo", 
         "uchawi"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "mazimwi", 
+        "jini la kike"
+    ], 
+    "🧞‍♂️": [
         "jini", 
+        "mazimwi dume", 
+        "jini dume", 
         "pepo jini"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "dubwana jike", 
+        "zimwi", 
+        "mazimwi"
+    ], 
+    "🧟‍♂️": [
         "mazimwi", 
+        "dubwana dume", 
         "dubwana", 
         "zimwi"
     ], 

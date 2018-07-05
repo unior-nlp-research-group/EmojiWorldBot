@@ -15,6 +15,7 @@ class Person(ndb.Model):
     enabled = ndb.BooleanProperty(default=True)
     lang_code = ndb.StringProperty(default='eng')  # language code
     last_seen = ndb.DateTimeProperty(auto_now=True)
+    show_alpha_names = ndb.BooleanProperty(default=False)
 
     def getFirstName(self):
         return self.name.encode('utf-8') if self.name else None

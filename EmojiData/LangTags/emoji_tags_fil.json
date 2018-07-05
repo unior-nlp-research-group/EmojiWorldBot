@@ -1,4 +1,132 @@
 {
+    "#️⃣": [
+        "keycap", 
+        "keycap: #"
+    ], 
+    "*️⃣": [
+        "keycap", 
+        "keycap: *"
+    ], 
+    "0️⃣": [
+        "keycap", 
+        "keycap: 0"
+    ], 
+    "1️⃣": [
+        "keycap", 
+        "keycap: 1"
+    ], 
+    "2️⃣": [
+        "keycap", 
+        "keycap: 2"
+    ], 
+    "3️⃣": [
+        "keycap", 
+        "keycap: 3"
+    ], 
+    "4️⃣": [
+        "keycap", 
+        "keycap: 4"
+    ], 
+    "5️⃣": [
+        "keycap", 
+        "keycap: 5"
+    ], 
+    "6️⃣": [
+        "keycap: 6", 
+        "keycap"
+    ], 
+    "7️⃣": [
+        "keycap", 
+        "keycap: 7"
+    ], 
+    "8️⃣": [
+        "keycap", 
+        "keycap: 8"
+    ], 
+    "9️⃣": [
+        "keycap", 
+        "keycap: 9"
+    ], 
+    "©️": [
+        "karapatang-ari", 
+        "copyright"
+    ], 
+    "®️": [
+        "rehistrado"
+    ], 
+    "‼️": [
+        "pananda", 
+        "doble", 
+        "bangbang", 
+        "dobleng tandang padamdam", 
+        "padamdam", 
+        "bantas"
+    ], 
+    "⁉️": [
+        "pananong", 
+        "pananda", 
+        "tanong", 
+        "padamdam", 
+        "interrobang", 
+        "tandang padamdam at pananong", 
+        "bantas"
+    ], 
+    "™️": [
+        "tm", 
+        "marka", 
+        "trade mark"
+    ], 
+    "ℹ️": [
+        "i", 
+        "pinagmulan ng impormasyon", 
+        "impormasyon"
+    ], 
+    "↔️": [
+        "pakaliwa-pakanang arrow", 
+        "arrow"
+    ], 
+    "↕️": [
+        "pataas-pababang arrow", 
+        "arrow"
+    ], 
+    "↖️": [
+        "pataas na pakaliwang arrow", 
+        "intercardinal", 
+        "hilagang-kanluran", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "↗️": [
+        "pataas na pakanan na arrow", 
+        "hilagang-silangan", 
+        "intercardinal", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "↘️": [
+        "pababang pakanan na arrow", 
+        "intercardinal", 
+        "timog-silangan", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "↙️": [
+        "timog-kanluran", 
+        "pababang pakaliwang arrow", 
+        "intercardinal", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "↩️": [
+        "pakanang arrow na kumurba pakaliwa", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "↪️": [
+        "pakaliwang arrow na kumurba pakanan", 
+        "arrow", 
+        "direksyon"
+    ], 
     "⌚": [
         "relo", 
         "wristwatch", 
@@ -10,6 +138,15 @@
         "orasan", 
         "timer", 
         "hourglass"
+    ], 
+    "⌨️": [
+        "hardware", 
+        "computer", 
+        "keyboard"
+    ], 
+    "⏏️": [
+        "i-eject", 
+        "button na i-eject"
     ], 
     "⏩": [
         "i-fast forward", 
@@ -37,10 +174,41 @@
         "arrow", 
         "doble"
     ], 
+    "⏭️": [
+        "susunod na eksena", 
+        "tatsulok", 
+        "button na susunod na track", 
+        "arrow", 
+        "susunod na track"
+    ], 
+    "⏮️": [
+        "tatsulok", 
+        "nakaraang eksena", 
+        "nakaraang track", 
+        "arrow", 
+        "button na huling track"
+    ], 
+    "⏯️": [
+        "i-pause", 
+        "kanan", 
+        "tatsulok", 
+        "i-play", 
+        "button na i-play o i-pause", 
+        "arrow"
+    ], 
     "⏰": [
         "alarm", 
         "orasan", 
         "alarm clock"
+    ], 
+    "⏱️": [
+        "stopwatch", 
+        "orasan", 
+        "timer"
+    ], 
+    "⏲️": [
+        "orasan", 
+        "timer"
     ], 
     "⏳": [
         "buhangin", 
@@ -48,6 +216,67 @@
         "hourglass na may bumabagsak na buhangin", 
         "timer", 
         "hourglass"
+    ], 
+    "⏸️": [
+        "i-pause", 
+        "bar", 
+        "patayo", 
+        "button na i-pause", 
+        "doble"
+    ], 
+    "⏹️": [
+        "itigil", 
+        "button na itigil", 
+        "parisukat"
+    ], 
+    "⏺️": [
+        "button na i-record", 
+        "bilog", 
+        "i-record"
+    ], 
+    "Ⓜ️": [
+        "m", 
+        "binilugang M", 
+        "bilog"
+    ], 
+    "▪️": [
+        "maliit na itim na parisukat", 
+        "parisukat", 
+        "hugis", 
+        "itim"
+    ], 
+    "▫️": [
+        "maliit na puting parisukat", 
+        "puti", 
+        "hugis", 
+        "parisukat"
+    ], 
+    "▶️": [
+        "button na i-play", 
+        "i-play", 
+        "tatsulok", 
+        "kanan", 
+        "arrow"
+    ], 
+    "◀️": [
+        "tatsulok", 
+        "button na i-reverse", 
+        "i-reverse", 
+        "arrow", 
+        "kaliwa", 
+        "i-rewind"
+    ], 
+    "◻️": [
+        "parisukat", 
+        "puti", 
+        "hugis", 
+        "katamtamang puting parisukat"
+    ], 
+    "◼️": [
+        "parisukat", 
+        "katamtamang itim na parisukat", 
+        "hugis", 
+        "itim"
     ], 
     "◽": [
         "medyo maliit na puting parisukat", 
@@ -60,6 +289,49 @@
         "hugis", 
         "medyo maliit na itim na parisukat", 
         "itim"
+    ], 
+    "☀️": [
+        "maliwanag", 
+        "sinag", 
+        "kalawakan", 
+        "araw", 
+        "panahon"
+    ], 
+    "☁️": [
+        "lagay ng panahon", 
+        "ulap", 
+        "panahon"
+    ], 
+    "☂️": [
+        "ulan", 
+        "kagamitan", 
+        "lagay ng panahon", 
+        "mainit", 
+        "payong", 
+        "panahon"
+    ], 
+    "☃️": [
+        "snowman", 
+        "lagay ng panahon", 
+        "snow", 
+        "taglamig", 
+        "niyebe", 
+        "malamig", 
+        "panahon"
+    ], 
+    "☄️": [
+        "comet", 
+        "bulalakaw", 
+        "kalawakan"
+    ], 
+    "☎️": [
+        "telephone", 
+        "telepono"
+    ], 
+    "☑️": [
+        "tsek", 
+        "balotang may tsek", 
+        "balota"
     ], 
     "☔": [
         "lagay ng panahon", 
@@ -79,6 +351,100 @@
         "kape", 
         "inumin", 
         "mainit na inumin"
+    ], 
+    "☘️": [
+        "shamrock", 
+        "dahon", 
+        "halaman"
+    ], 
+    "☝️": [
+        "hintuturo", 
+        "kamay", 
+        "nakaturo", 
+        "hintuturo na nakaturo sa itaas", 
+        "daliri", 
+        "index finger", 
+        "gesture"
+    ], 
+    "☠️": [
+        "kamatayan", 
+        "bungo", 
+        "katawan", 
+        "buto", 
+        "fantasy", 
+        "bungo at crossbones", 
+        "fairy tale", 
+        "pirata", 
+        "mukha", 
+        "lason", 
+        "alamat"
+    ], 
+    "☢️": [
+        "simbolo", 
+        "radioactive"
+    ], 
+    "☣️": [
+        "biohazard", 
+        "simbolo"
+    ], 
+    "☦️": [
+        "orthodox na krus", 
+        "kristiyanismo", 
+        "krus", 
+        "relihiyon", 
+        "orthodox"
+    ], 
+    "☪️": [
+        "star and crescent", 
+        "buwan", 
+        "muslim", 
+        "bituin", 
+        "crescent", 
+        "relihiyon", 
+        "islam"
+    ], 
+    "☮️": [
+        "simbolo ng kapayapaan", 
+        "peace", 
+        "simbolo", 
+        "kapayapaan"
+    ], 
+    "☯️": [
+        "pilosopiya", 
+        "yin yang", 
+        "yin", 
+        "yang", 
+        "china", 
+        "relihiyon"
+    ], 
+    "☸️": [
+        "dharma", 
+        "india", 
+        "gulong", 
+        "relihiyon", 
+        "gulong ng dharma"
+    ], 
+    "☹️": [
+        "malungkot", 
+        "simangot", 
+        "nakasimangot", 
+        "mukha"
+    ], 
+    "☺️": [
+        "mukha", 
+        "blush", 
+        "ngiti", 
+        "nakangiti"
+    ], 
+    "♀️": [
+        "simbolo", 
+        "babae", 
+        "simbolo ng babae"
+    ], 
+    "♂️": [
+        "simbolo ng lalaki", 
+        "simbolo", 
+        "lalaki"
     ], 
     "♈": [
         "zodiac", 
@@ -146,10 +512,50 @@
         "zodiac", 
         "pisces"
     ], 
+    "♠️": [
+        "sugal", 
+        "baraha", 
+        "spade"
+    ], 
+    "♣️": [
+        "club", 
+        "sugal", 
+        "baraha"
+    ], 
+    "♥️": [
+        "heart", 
+        "baraha", 
+        "sugal"
+    ], 
+    "♦️": [
+        "sugal", 
+        "diamond", 
+        "baraha"
+    ], 
+    "♨️": [
+        "umuusok", 
+        "relax", 
+        "onsen", 
+        "japanese", 
+        "mainit", 
+        "hot springs"
+    ], 
+    "♻️": [
+        "recycle", 
+        "simbolo ng pag-recycle", 
+        "simbolo"
+    ], 
     "♿": [
         "access", 
         "wheelchair", 
         "may kapansanan"
+    ], 
+    "⚒️": [
+        "martilyo at piko", 
+        "kagamitan", 
+        "piko", 
+        "pagmimina", 
+        "martilyo"
     ], 
     "⚓": [
         "angkla", 
@@ -157,6 +563,48 @@
         "kagamitan", 
         "bangka", 
         "anchor"
+    ], 
+    "⚔️": [
+        "magkakrus na espada", 
+        "sandata", 
+        "espada", 
+        "armas"
+    ], 
+    "⚕️": [
+        "aesculapius", 
+        "medisina", 
+        "simbolong pang-medikal"
+    ], 
+    "⚖️": [
+        "hustisya", 
+        "timbang", 
+        "timbangan", 
+        "balanse", 
+        "libra", 
+        "zodiac"
+    ], 
+    "⚗️": [
+        "kemikal", 
+        "kagamitan", 
+        "chemistry", 
+        "alembic"
+    ], 
+    "⚙️": [
+        "kagamitan", 
+        "gear", 
+        "makinarya"
+    ], 
+    "⚛️": [
+        "atom", 
+        "siyensya", 
+        "agham"
+    ], 
+    "⚜️": [
+        "flordelis", 
+        "fleur-de-lis"
+    ], 
+    "⚠️": [
+        "babala"
     ], 
     "⚡": [
         "panganib", 
@@ -176,6 +624,17 @@
         "hugis", 
         "bilog", 
         "itim"
+    ], 
+    "⚰️": [
+        "kabaong", 
+        "kamatayan", 
+        "himlayan"
+    ], 
+    "⚱️": [
+        "sisidlan ng abo", 
+        "kamatayan", 
+        "sisidlan", 
+        "abo"
     ], 
     "⚽": [
         "bola", 
@@ -204,11 +663,37 @@
         "panahon", 
         "araw"
     ], 
+    "⛈️": [
+        "lagay ng panahon", 
+        "bagyo", 
+        "kidlat", 
+        "ulan", 
+        "ulap na may kidlat at ulan", 
+        "panahon", 
+        "ulap"
+    ], 
     "⛎": [
         "zodiac", 
         "ophiuchus", 
         "serpiyente", 
         "ahas"
+    ], 
+    "⛏️": [
+        "kagamitan", 
+        "piko", 
+        "pagmimina"
+    ], 
+    "⛑️": [
+        "helmet", 
+        "helmet ng rescue worker", 
+        "sombrero", 
+        "tulong", 
+        "krus", 
+        "hard hat", 
+        "aid"
+    ], 
+    "⛓️": [
+        "kadena"
     ], 
     "⛔": [
         "hindi pwede", 
@@ -219,6 +704,14 @@
         "bawal", 
         "ipinagbabawal"
     ], 
+    "⛩️": [
+        "japanese", 
+        "shinto shrine", 
+        "shrine", 
+        "shinto", 
+        "relihiyon", 
+        "templo"
+    ], 
     "⛪": [
         "gusali", 
         "simbahan", 
@@ -227,6 +720,19 @@
         "relihiyon", 
         "katoliko", 
         "krus"
+    ], 
+    "⛰️": [
+        "bundok", 
+        "tuktok"
+    ], 
+    "⛱️": [
+        "ulan", 
+        "araw", 
+        "beach", 
+        "kagamitan", 
+        "mainit", 
+        "payong", 
+        "payong na nakabaon"
     ], 
     "⛲": [
         "fountain"
@@ -237,6 +743,14 @@
         "butas", 
         "flag sa butas"
     ], 
+    "⛴️": [
+        "pampasahero", 
+        "sasakyang pandagat", 
+        "sasakyan", 
+        "barko", 
+        "ferry", 
+        "bangka"
+    ], 
     "⛵": [
         "bangkang may layag", 
         "sailboat", 
@@ -244,6 +758,26 @@
         "layag", 
         "sasakyan", 
         "bangka"
+    ], 
+    "⛷️": [
+        "ski", 
+        "niyebe", 
+        "snow", 
+        "skier"
+    ], 
+    "⛸️": [
+        "skating", 
+        "yelo", 
+        "ice skate", 
+        "snow", 
+        "ice"
+    ], 
+    "⛹️‍♂️": [
+        "bola", 
+        "basketball", 
+        "laro", 
+        "taong naglalaro ng bola", 
+        "bata"
     ], 
     "⛺": [
         "scout", 
@@ -257,49 +791,166 @@
         "diesel", 
         "gasolinahan"
     ], 
+    "✂️": [
+        "kagamitan", 
+        "gunting", 
+        "panggupit"
+    ], 
     "✅": [
         "tsek", 
         "puting tsek"
     ], 
+    "✈️": [
+        "eroplano", 
+        "sasakyan", 
+        "sasakyang panghimpapawid"
+    ], 
+    "✉️": [
+        "liham", 
+        "e-mail", 
+        "sobre", 
+        "mail", 
+        "sulat", 
+        "email"
+    ], 
     "✊": [
-        "nakataas na kamao", 
-        "komunista", 
-        "suntok", 
+        "nakataas", 
+        "nakataas na kamao: katamtamang light na kulay ng balat", 
         "aktibismo", 
+        "welga", 
+        "nakataas na kamao: katamtamang kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "aktibista", 
         "kamay", 
-        "komunismo", 
         "nakasara", 
-        "welga", 
-        "rebolusyon", 
-        "nakataas", 
+        "katamtamang dark na kulay ng balat", 
         "kamao", 
+        "light na kulay ng balat", 
+        "taas-kamao", 
+        "dark na kulay ng balat", 
+        "nakataas na kamao", 
+        "komunista", 
+        "nakataas na kamao: light na kulay ng balat", 
+        "komunismo", 
+        "katamtamang light na kulay ng balat", 
+        "rebolusyon", 
+        "nakataas na kamao: katamtamang dark na kulay ng balat", 
+        "nakataas na kamao: dark na kulay ng balat", 
         "gesture", 
-        "taas-kamao"
+        "suntok"
     ], 
     "✋": [
-        "hinto", 
+        "nakataas na kamay: light na kulay ng balat", 
         "jan-ken-pon", 
-        "apir", 
-        "high five", 
-        "kamay", 
         "papel", 
         "daliri", 
-        "nakataas na kamay", 
-        "jack-en-poy", 
+        "nakataas na kamay: katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "kamay", 
         "palad", 
         "nakataas", 
-        "bato-bato-pick", 
         "tumigil", 
+        "light na kulay ng balat", 
+        "nakataas na kamay: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "hinto", 
+        "katamtamang dark na kulay ng balat", 
+        "apir", 
+        "high five", 
+        "katamtamang light na kulay ng balat", 
+        "nakataas na kamay", 
+        "bato-bato-pick", 
         "jak-en-poy", 
-        "gesture", 
-        "rock-paper-scissors"
+        "nakataas na kamay: katamtamang dark na kulay ng balat", 
+        "nakataas na kamay: katamtamang kulay ng balat", 
+        "jack-en-poy", 
+        "rock-paper-scissors", 
+        "gesture"
+    ], 
+    "✌️": [
+        "peace sign", 
+        "v sign", 
+        "peace", 
+        "kamay", 
+        "daliri", 
+        "victory hand", 
+        "v", 
+        "tagumpay", 
+        "kapayapaan", 
+        "gesture"
+    ], 
+    "✍️": [
+        "nagsusulat na kamay", 
+        "kamay", 
+        "nagsusulat"
+    ], 
+    "✏️": [
+        "pencil", 
+        "lapis", 
+        "panulat"
+    ], 
+    "✒️": [
+        "nib", 
+        "pen", 
+        "itim na nib", 
+        "panulat"
+    ], 
+    "✔️": [
+        "malaking tsek", 
+        "tsek"
+    ], 
+    "✖️": [
+        "kanselahin", 
+        "i-multiply", 
+        "multiplication", 
+        "malaking multiplication x", 
+        "ekis", 
+        "x"
+    ], 
+    "✝️": [
+        "relihiyon", 
+        "kristiyanismo", 
+        "krus", 
+        "latin", 
+        "latin na krus"
+    ], 
+    "✡️": [
+        "judaism", 
+        "jew", 
+        "jewish", 
+        "star of david", 
+        "judaismo", 
+        "david", 
+        "bituin", 
+        "relihiyon", 
+        "hudyo"
     ], 
     "✨": [
         "bituin", 
         "kislap", 
         "kumikislap", 
         "kumikinang"
+    ], 
+    "✳️": [
+        "asterisk na may walong sulok", 
+        "asterisk"
+    ], 
+    "✴️": [
+        "bituin", 
+        "bituin na may walong sulok"
+    ], 
+    "❄️": [
+        "lagay ng panahon", 
+        "snow", 
+        "taglamig", 
+        "niyebe", 
+        "malamig", 
+        "panahon", 
+        "snowflake"
+    ], 
+    "❇️": [
+        "kislap", 
+        "kinang"
     ], 
     "❌": [
         "ekis", 
@@ -344,6 +995,18 @@
         "pananda", 
         "bantas"
     ], 
+    "❣️": [
+        "malaking tandang padamdam na hugis-puso", 
+        "tandang padamdam", 
+        "puso", 
+        "pananda", 
+        "bantas"
+    ], 
+    "❤️": [
+        "pag-ibig", 
+        "pulang puso", 
+        "puso"
+    ], 
     "➕": [
         "malaking plus sign", 
         "plus", 
@@ -362,6 +1025,13 @@
         "math", 
         "matematika"
     ], 
+    "➡️": [
+        "silangan", 
+        "cardinal", 
+        "pakanang arrow", 
+        "arrow", 
+        "direksyon"
+    ], 
     "➰": [
         "curly loop", 
         "curl", 
@@ -372,6 +1042,37 @@
         "dobleng curly loop", 
         "loop", 
         "doble"
+    ], 
+    "⤴️": [
+        "pakanang arrow na kumurba pataas", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "⤵️": [
+        "pakanang arrow na kumurba pababa", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "⬅️": [
+        "kanluran", 
+        "cardinal", 
+        "pakaliwang arrow", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "⬆️": [
+        "pataas na arrow", 
+        "cardinal", 
+        "hilaga", 
+        "arrow", 
+        "direksyon"
+    ], 
+    "⬇️": [
+        "pababang arrow", 
+        "cardinal", 
+        "timog", 
+        "arrow", 
+        "direksyon"
     ], 
     "⬛": [
         "malaking itim na parisukat", 
@@ -395,6 +1096,28 @@
         "o", 
         "bilog"
     ], 
+    "〰️": [
+        "maalon", 
+        "gitling", 
+        "maalon na gitling", 
+        "bantas"
+    ], 
+    "〽️": [
+        "bahagi", 
+        "part alternation mark", 
+        "marka", 
+        "simula"
+    ], 
+    "㊗️": [
+        "ideograph", 
+        "nakabilog na ideograph ng pagbati", 
+        "chinese"
+    ], 
+    "㊙️": [
+        "ideograph", 
+        "chinese", 
+        "nakabilog na ideograph ng lihim"
+    ], 
     "🀄": [
         "sugal", 
         "pula", 
@@ -405,6 +1128,29 @@
         "joker", 
         "sugal", 
         "baraha"
+    ], 
+    "🅰️": [
+        "a", 
+        "blood type", 
+        "button na A", 
+        "dugo"
+    ], 
+    "🅱️": [
+        "blood type", 
+        "b", 
+        "button na B", 
+        "dugo"
+    ], 
+    "🅾️": [
+        "blood type", 
+        "button na O", 
+        "o", 
+        "dugo"
+    ], 
+    "🅿️": [
+        "button na P", 
+        "paradahan", 
+        "parking"
     ], 
     "🆎": [
         "blood type", 
@@ -1495,6 +2241,11 @@
         "nakaparisukat na katakana na koko", 
         "japanese"
     ], 
+    "🈂️": [
+        "katakana", 
+        "japanese", 
+        "nakaparisukat na katakana na sa"
+    ], 
     "🈚": [
         "ideograph", 
         "japanese", 
@@ -1527,6 +2278,11 @@
     ], 
     "🈶": [
         "nakaparisukat na ideograph ng pag-iral", 
+        "ideograph", 
+        "japanese"
+    ], 
+    "🈷️": [
+        "nakaparisukat na ideograph ng buwan", 
         "ideograph", 
         "japanese"
     ], 
@@ -1800,6 +2556,78 @@
         "bulalakaw", 
         "kalawakan"
     ], 
+    "🌡️": [
+        "lagay ng panahon", 
+        "panahon", 
+        "thermometer"
+    ], 
+    "🌤️": [
+        "ulap", 
+        "lagay ng panahon", 
+        "araw sa likod ng maliit na ulap", 
+        "panahon", 
+        "araw"
+    ], 
+    "🌥️": [
+        "ulap", 
+        "lagay ng panahon", 
+        "panahon", 
+        "araw", 
+        "araw sa likod ng malaking ulap"
+    ], 
+    "🌦️": [
+        "lagay ng panahon", 
+        "araw", 
+        "ulan", 
+        "araw sa likod ng ulap na may ulan", 
+        "panahon", 
+        "ulap"
+    ], 
+    "🌧️": [
+        "lagay ng panahon", 
+        "ulan", 
+        "ulap", 
+        "panahon", 
+        "ulap na may ulan"
+    ], 
+    "🌨️": [
+        "lagay ng panahon", 
+        "snow", 
+        "ulap na may niyebe", 
+        "taglamig", 
+        "niyebe", 
+        "panahon", 
+        "ulap"
+    ], 
+    "🌩️": [
+        "kidlat", 
+        "lagay ng panahon", 
+        "ulap", 
+        "panahon", 
+        "ulap na may kidlat"
+    ], 
+    "🌪️": [
+        "ipu-ipo", 
+        "unos", 
+        "buhawi", 
+        "lagay ng panahon", 
+        "panahon"
+    ], 
+    "🌫️": [
+        "ulap", 
+        "lagay ng panahon", 
+        "fog", 
+        "panahon", 
+        "hamog"
+    ], 
+    "🌬️": [
+        "lagay ng panahon", 
+        "umiihip", 
+        "mukha ng hangin", 
+        "mukha", 
+        "panahon", 
+        "hangin"
+    ], 
     "🌭": [
         "sausage", 
         "pagkain", 
@@ -1853,6 +2681,12 @@
         "halaman", 
         "cactus", 
         "disyerto"
+    ], 
+    "🌶️": [
+        "sili", 
+        "bunga", 
+        "maanghang", 
+        "halaman"
     ], 
     "🌷": [
         "tulip", 
@@ -2351,6 +3185,14 @@
         "gatas", 
         "sanggol"
     ], 
+    "🍽️": [
+        "tinidor", 
+        "kutsilyo", 
+        "plato", 
+        "hapag-kainan", 
+        "tinidor, kutsilyo at pinggan", 
+        "pinggan"
+    ], 
     "🍾": [
         "boteng naalis ang takip", 
         "bar", 
@@ -2404,11 +3246,21 @@
         "christmas"
     ], 
     "🎅": [
+        "santa claus: katamtamang dark na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "santa claus: katamtamang light na kulay ng balat", 
         "pasko", 
+        "santa claus: dark na kulay ng balat", 
+        "santa claus: light na kulay ng balat", 
         "fantasy", 
         "fairy tale", 
         "saint nicholas", 
         "santa", 
+        "santa claus: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "holiday", 
         "christmas", 
         "santa claus"
@@ -2513,6 +3365,53 @@
         "pagtatapos", 
         "graduation hat", 
         "kasuotan"
+    ], 
+    "🎖️": [
+        "medalya", 
+        "militar", 
+        "karangalan", 
+        "medalyang pangmilitar"
+    ], 
+    "🎗️": [
+        "nagpapaalalang ribbon", 
+        "ribbon", 
+        "paalala", 
+        "reminder ribbon", 
+        "laso"
+    ], 
+    "🎙️": [
+        "radyo", 
+        "mikroponong pang-studio", 
+        "announcer", 
+        "mic", 
+        "musika", 
+        "awitin", 
+        "mikropono", 
+        "studio"
+    ], 
+    "🎚️": [
+        "slider", 
+        "musika", 
+        "level slider", 
+        "level"
+    ], 
+    "🎛️": [
+        "control", 
+        "knob", 
+        "musika", 
+        "mga control knob"
+    ], 
+    "🎞️": [
+        "cinema", 
+        "pelikula", 
+        "frame", 
+        "frame ng film", 
+        "movie", 
+        "film"
+    ], 
+    "🎟️": [
+        "mga admission ticket", 
+        "ticket"
     ], 
     "🎠": [
         "merry-go-round", 
@@ -2720,22 +3619,48 @@
         "checkered na bandila"
     ], 
     "🏂": [
-        "ski", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "snowboarder", 
+        "snowboarder: dark na kulay ng balat", 
+        "snowboarder: katamtamang dark na kulay ng balat", 
+        "snowboarder: katamtamang light na kulay ng balat", 
+        "snow", 
+        "snowboarder: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "snowboard", 
         "niyebe", 
-        "snow", 
-        "snowboarder"
+        "katamtamang dark na kulay ng balat", 
+        "snowboarder: light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "ski"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
         "takbo", 
-        "tao", 
-        "tumatakbo", 
+        "babae", 
+        "babaeng tumatakbo", 
         "marathon"
     ], 
-    "🏄": [
+    "🏃‍♂️": [
+        "takbo", 
+        "tumatakbo", 
+        "lalaking tumatakbo", 
+        "lalaki", 
+        "tao", 
+        "marathon"
+    ], 
+    "🏄‍♀️": [
+        "babaeng nagsu-surf", 
+        "babae", 
+        "nagsu-surf"
+    ], 
+    "🏄‍♂️": [
         "surf", 
-        "dagat", 
         "surfing", 
+        "lalaking nagsu-surf", 
+        "nagsu-surf", 
+        "dagat", 
+        "lalaki", 
         "surfer"
     ], 
     "🏅": [
@@ -2749,11 +3674,21 @@
         "premyo"
     ], 
     "🏇": [
+        "karerahan ng kabayo: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
         "jockey", 
-        "karerahan ng kabayo", 
+        "karera", 
+        "karerahan ng kabayo: dark na kulay ng balat", 
         "horse racing", 
         "kabayo", 
-        "karera"
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "karerahan ng kabayo: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "karerahan ng kabayo: light na kulay ng balat", 
+        "karerahan ng kabayo", 
+        "light na kulay ng balat", 
+        "karerahan ng kabayo: katamtamang kulay ng balat"
     ], 
     "🏈": [
         "bola", 
@@ -2767,10 +3702,42 @@
         "football", 
         "rugby"
     ], 
-    "🏊": [
-        "pool", 
+    "🏊‍♀️": [
+        "babaeng lumalangoy", 
+        "babae", 
+        "manlalangoy", 
         "langoy", 
-        "swimmer"
+        "lumalangoy"
+    ], 
+    "🏊‍♂️": [
+        "lumalangoy", 
+        "langoy", 
+        "swimmer", 
+        "manlalangoy", 
+        "lalaki", 
+        "lalaking lumalangoy", 
+        "pool"
+    ], 
+    "🏋️‍♂️": [
+        "weights", 
+        "lifter", 
+        "weight lifter"
+    ], 
+    "🏌️‍♂️": [
+        "bola", 
+        "golfer", 
+        "golf"
+    ], 
+    "🏍️": [
+        "motorsiklo", 
+        "motor", 
+        "karera", 
+        "motorcycle"
+    ], 
+    "🏎️": [
+        "kotse", 
+        "racing car", 
+        "karera"
     ], 
     "🏏": [
         "bola", 
@@ -2801,6 +3768,73 @@
         "table tennis", 
         "paddle", 
         "ping pong"
+    ], 
+    "🏔️": [
+        "tuktok", 
+        "bundok", 
+        "snow", 
+        "taglamig", 
+        "niyebe", 
+        "malamig", 
+        "bundok na may niyebe sa tuktok"
+    ], 
+    "🏕️": [
+        "scout", 
+        "camping", 
+        "tent"
+    ], 
+    "🏖️": [
+        "summer", 
+        "tag-init", 
+        "dagat", 
+        "payong", 
+        "beach", 
+        "beach na may payong"
+    ], 
+    "🏗️": [
+        "construction", 
+        "gusali", 
+        "construction ng gusali"
+    ], 
+    "🏘️": [
+        "gusali", 
+        "bahay", 
+        "mga bahay"
+    ], 
+    "🏙️": [
+        "cityscape", 
+        "lungsod", 
+        "gusali"
+    ], 
+    "🏚️": [
+        "guguho", 
+        "gusali", 
+        "napabayaan", 
+        "bahay", 
+        "napabayaang bahay"
+    ], 
+    "🏛️": [
+        "klasikong gusali", 
+        "gusali", 
+        "classical"
+    ], 
+    "🏜️": [
+        "cactus", 
+        "mainit", 
+        "disyerto"
+    ], 
+    "🏝️": [
+        "isla", 
+        "walang nakatira", 
+        "desert island", 
+        "islang walang nakatira"
+    ], 
+    "🏞️": [
+        "parke", 
+        "national park"
+    ], 
+    "🏟️": [
+        "istadyum"
     ], 
     "🏠": [
         "gusali", 
@@ -2904,6 +3938,19 @@
         "kastilyo", 
         "european"
     ], 
+    "🏳️": [
+        "iwinawagayway", 
+        "flag", 
+        "puting bandila", 
+        "karera"
+    ], 
+    "🏳️‍🌈": [
+        "watawat", 
+        "bahaghari", 
+        "bandila", 
+        "bandera", 
+        "bahagharing bandila"
+    ], 
     "🏴": [
         "itim na bandila", 
         "iwinawagayway", 
@@ -2921,6 +3968,17 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "Wales", 
         "bandila"
+    ], 
+    "🏵️": [
+        "disenyo", 
+        "halaman", 
+        "rosette", 
+        "bulaklak"
+    ], 
+    "🏷️": [
+        "tatak", 
+        "etiketa", 
+        "label"
     ], 
     "🏸": [
         "racket", 
@@ -3361,19 +4419,47 @@
         "hayop", 
         "bakas"
     ], 
+    "🐿️": [
+        "chipmunk", 
+        "hayop"
+    ], 
     "👀": [
         "mga mata", 
         "katawan", 
         "mata"
     ], 
-    "👂": [
+    "👁️": [
         "katawan", 
-        "tenga", 
-        "tainga"
+        "mata"
+    ], 
+    "👂": [
+        "tainga: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "tainga: katamtamang dark na kulay ng balat", 
+        "tainga: katamtamang light na kulay ng balat", 
+        "katawan", 
+        "katamtamang light na kulay ng balat", 
+        "tainga: dark na kulay ng balat", 
+        "tainga", 
+        "tainga: light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "tenga"
     ], 
     "👃": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katawan", 
+        "ilong: katamtamang dark na kulay ng balat", 
+        "ilong: light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "ilong", 
-        "katawan"
+        "ilong: katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "ilong: katamtamang kulay ng balat", 
+        "light na kulay ng balat", 
+        "ilong: dark na kulay ng balat"
     ], 
     "👄": [
         "labi", 
@@ -3386,102 +4472,212 @@
     ], 
     "👆": [
         "hintuturo", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa itaas: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa itaas: katamtamang light na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa itaas: dark na kulay ng balat", 
         "kamay", 
         "nakaturo", 
         "daliri", 
+        "backhand ng hintuturo na nakaturo sa itaas: katamtamang kulay ng balat", 
         "index finger", 
         "backhand", 
+        "katamtamang light na kulay ng balat", 
         "backhand ng hintuturo na nakaturo sa itaas", 
-        "gesture"
+        "light na kulay ng balat", 
+        "gesture", 
+        "backhand ng hintuturo na nakaturo sa itaas: katamtamang dark na kulay ng balat"
     ], 
     "👇": [
         "backhand ng hintuturo na nakaturo sa ibaba", 
         "hintuturo", 
+        "dark na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa ibaba: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa ibaba: katamtamang dark na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa ibaba: katamtamang kulay ng balat", 
         "kamay", 
         "nakaturo", 
         "daliri", 
+        "backhand ng hintuturo na nakaturo sa ibaba: dark na kulay ng balat", 
         "index finger", 
         "backhand", 
-        "gesture"
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "light na kulay ng balat", 
+        "gesture", 
+        "backhand ng hintuturo na nakaturo sa ibaba: katamtamang light na kulay ng balat"
     ], 
     "👈": [
         "hintuturo", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa kaliwa: light na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa kaliwa: dark na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa kaliwa: katamtamang light na kulay ng balat", 
         "kamay", 
         "nakaturo", 
+        "backhand ng hintuturo na nakaturo sa kaliwa: katamtamang kulay ng balat", 
         "daliri", 
         "index finger", 
         "backhand", 
+        "katamtamang light na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa kaliwa: katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "gesture", 
         "backhand ng hintuturo na nakaturo sa kaliwa"
     ], 
     "👉": [
         "hintuturo", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa kanan: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa kanan: katamtamang kulay ng balat", 
         "kamay", 
         "nakaturo", 
         "daliri", 
         "backhand ng hintuturo na nakaturo sa kanan", 
         "index finger", 
+        "backhand ng hintuturo na nakaturo sa kanan: dark na kulay ng balat", 
         "backhand", 
-        "gesture"
+        "katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "backhand ng hintuturo na nakaturo sa kanan: light na kulay ng balat", 
+        "gesture", 
+        "backhand ng hintuturo na nakaturo sa kanan: katamtamang light na kulay ng balat"
     ], 
     "👊": [
         "palaban", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "pasuntok na kamao", 
         "suntok", 
+        "pasuntok na kamao: dark na kulay ng balat", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
         "nakasara", 
+        "pasuntok na kamao: light na kulay ng balat", 
         "sapak", 
+        "katamtamang dark na kulay ng balat", 
         "kamao", 
+        "pasuntok na kamao: katamtamang kulay ng balat", 
+        "pasuntok na kamao: katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "pasuntok na kamao: katamtamang dark na kulay ng balat", 
         "gesture"
     ], 
     "👋": [
+        "kumakaway na kamay: katamtamang kulay ng balat", 
+        "kumakaway na kamay: light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "kumakaway na kamay: katamtamang dark na kulay ng balat", 
         "kumakaway", 
         "bumabati", 
+        "dark na kulay ng balat", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
         "kaway", 
         "nagpapaalam", 
+        "kumakaway na kamay: katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
         "kumakaway na kamay", 
-        "gesture"
+        "light na kulay ng balat", 
+        "gesture", 
+        "kumakaway na kamay: dark na kulay ng balat"
     ], 
     "👌": [
         "pera", 
+        "light na kulay ng balat", 
         "ok", 
+        "kamay na nagpapahiwatig ng ok: katamtamang light na kulay ng balat", 
+        "kamay na nagpapahiwatig ng ok: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
         "marijuana", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
+        "kamay na nagpapahiwatig ng ok: light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "sigarilyo", 
+        "katamtamang dark na kulay ng balat", 
+        "kamay na nagpapahiwatig ng ok: katamtamang kulay ng balat", 
         "kamay na nagpapahiwatig ng ok", 
+        "kamay na nagpapahiwatig ng ok: katamtamang dark na kulay ng balat", 
         "gesture"
     ], 
     "👍": [
+        "thumbs up: light na kulay ng balat", 
         "thumbs up", 
         "ok", 
+        "thumbs up: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
+        "thumbs up: katamtamang kulay ng balat", 
         "daliri", 
         "+1", 
+        "katamtamang kulay ng balat", 
+        "thumbs up: katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "hinlalaki", 
+        "thumbs up: katamtamang dark na kulay ng balat", 
         "gesture"
     ], 
     "👎": [
+        "thumbs down: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "thumbs down: katamtamang kulay ng balat", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
         "daliri", 
         "-1", 
         "gesture", 
         "thumbs down", 
         "boo", 
+        "thumbs down: katamtamang dark na kulay ng balat", 
+        "thumbs down: dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "hinlalaki", 
-        "hindi ok"
+        "hindi ok", 
+        "thumbs down: light na kulay ng balat"
     ], 
     "👏": [
-        "palakpak", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "pumapalakpak: katamtamang dark na kulay ng balat", 
+        "pumapalakpak: katamtamang light na kulay ng balat", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
+        "palakpak", 
+        "pumapalakpak", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "pumapalakpak: dark na kulay ng balat", 
+        "pumapalakpak: light na kulay ng balat", 
         "gesture", 
-        "pumapalakpak"
+        "pumapalakpak: katamtamang kulay ng balat"
     ], 
     "👐": [
-        "palad", 
-        "gesture", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "kamay", 
+        "bukas-palad: katamtamang kulay ng balat", 
+        "bukas-palad: light na kulay ng balat", 
         "bukas-palad", 
-        "kamay"
+        "katamtamang light na kulay ng balat", 
+        "bukas-palad: katamtamang dark na kulay ng balat", 
+        "palad", 
+        "katamtamang dark na kulay ng balat", 
+        "bukas-palad: katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "bukas-palad: dark na kulay ng balat", 
+        "gesture"
     ], 
     "👑": [
         "hari", 
@@ -3626,66 +4822,211 @@
         "bust"
     ], 
     "👦": [
-        "batang lalaki", 
-        "binatilyo", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
         "bata", 
-        "lalaki"
+        "batang lalaki: dark na kulay ng balat", 
+        "batang lalaki: katamtamang light na kulay ng balat", 
+        "binatilyo", 
+        "katamtamang light na kulay ng balat", 
+        "lalaki", 
+        "batang lalaki: katamtamang kulay ng balat", 
+        "batang lalaki", 
+        "light na kulay ng balat", 
+        "batang lalaki: katamtamang dark na kulay ng balat", 
+        "batang lalaki: light na kulay ng balat"
     ], 
     "👧": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "batang babae: katamtamang dark na kulay ng balat", 
+        "bata", 
         "dalagita", 
-        "batang babae", 
         "babae", 
-        "bata"
+        "katamtamang light na kulay ng balat", 
+        "batang babae: dark na kulay ng balat", 
+        "batang babae: katamtamang kulay ng balat", 
+        "batang babae", 
+        "katamtamang dark na kulay ng balat", 
+        "batang babae: light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "batang babae: katamtamang light na kulay ng balat"
     ], 
     "👨": [
+        "lalaki: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "bigote", 
+        "lalaki: katamtamang dark na kulay ng balat", 
+        "lalaki: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "lalaki: dark na kulay ng balat", 
         "lalaki", 
-        "bigote"
+        "lalaki: light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat"
+    ], 
+    "👨‍⚕️": [
+        "health worker", 
+        "lalaking health worker", 
+        "nars", 
+        "lalaki", 
+        "doktor"
+    ], 
+    "👨‍⚖️": [
+        "hukom", 
+        "hustisya", 
+        "lalaking hukom", 
+        "lalaki", 
+        "huwes"
+    ], 
+    "👨‍✈️": [
+        "lalaking piloto", 
+        "eroplano", 
+        "lalaki", 
+        "piloto"
+    ], 
+    "👨‍❤️‍👨": [
+        "magkasintahan", 
+        "magkapareha", 
+        "pag-ibig", 
+        "couple", 
+        "romance", 
+        "magkapareha na may puso", 
+        "magkapareha na may puso: lalaki, lalaki", 
+        "lalaki", 
+        "romansa", 
+        "puso"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "maghahalikan: lalaki, lalaki", 
+        "magkasintahan", 
+        "magkapareha", 
+        "pag-ibig", 
+        "couple", 
+        "romance", 
+        "lalaki", 
+        "romansa", 
+        "halik", 
+        "maghahalikan", 
+        "puso"
     ], 
     "👨‍🌾": [
-        "rantsero", 
-        "magsasaka", 
+        "lalaking magsasaka: dark na kulay ng balat", 
+        "lalaking magsasaka: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "lalaking magsasaka: katamtamang kulay ng balat", 
+        "lalaking magsasaka: katamtamang dark na kulay ng balat", 
         "lalaking magsasaka", 
+        "katamtamang light na kulay ng balat", 
+        "lalaking magsasaka: light na kulay ng balat", 
+        "rantsero", 
         "lalaki", 
-        "hardinero"
+        "hardinero", 
+        "magsasaka", 
+        "light na kulay ng balat"
     ], 
     "👨‍🍳": [
+        "kusinero: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "kusinero", 
+        "kusinero: light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "chef", 
-        "cook", 
+        "kusinero: katamtamang dark na kulay ng balat", 
+        "kusinero: dark na kulay ng balat", 
         "lalaki", 
-        "kusinero"
+        "cook", 
+        "light na kulay ng balat", 
+        "kusinero: katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat"
     ], 
     "👨‍🎓": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "lalaking mag-aaral: dark na kulay ng balat", 
+        "lalaking mag-aaral: katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
         "lalaking mag-aaral", 
+        "lalaking mag-aaral: katamtamang light na kulay ng balat", 
+        "graduate", 
         "mag-aaral", 
+        "lalaking mag-aaral: light na kulay ng balat", 
         "lalaki", 
-        "estudyante", 
-        "graduate"
+        "katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "lalaking mag-aaral: katamtamang dark na kulay ng balat", 
+        "estudyante"
     ], 
     "👨‍🎤": [
+        "lalaking mang-aawit: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "lalaki", 
+        "lalaking mang-aawit: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "lalaking mang-aawit: katamtamang light na kulay ng balat", 
         "manganganta", 
-        "mang-aawit", 
+        "lalaking mang-aawit: dark na kulay ng balat", 
         "lalaking mang-aawit", 
-        "lalaki"
+        "light na kulay ng balat", 
+        "mang-aawit", 
+        "katamtamang dark na kulay ng balat", 
+        "lalaking mang-aawit: light na kulay ng balat"
     ], 
     "👨‍🎨": [
         "lalaking pintor", 
+        "lalaking pintor: katamtamang kulay ng balat", 
         "paleta", 
+        "katamtamang kulay ng balat", 
         "lakaki", 
-        "pintor"
+        "dark na kulay ng balat", 
+        "pintor", 
+        "katamtamang light na kulay ng balat", 
+        "lalaking pintor: light na kulay ng balat", 
+        "lalaking pintor: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "lalaking pintor: katamtamang light na kulay ng balat", 
+        "lalaking pintor: dark na kulay ng balat"
     ], 
     "👨‍🏫": [
+        "lalaking guro: katamtamang kulay ng balat", 
+        "lalaking guro: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
         "lalaking guro", 
+        "katamtamang dark na kulay ng balat", 
         "propesor", 
-        "guro", 
+        "titser", 
+        "lalaking guro: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "lalaking guro: katamtamang dark na kulay ng balat", 
         "lalaki", 
-        "titser"
+        "lalaking guro: light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "guro"
     ], 
     "👨‍🏭": [
-        "manggagawa", 
-        "lalaking manggagawa sa pabrika", 
-        "pabrika", 
+        "lalaking manggagawa sa pabrika: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "lalaking manggagawa sa pabrika: katamtamang light na kulay ng balat", 
+        "lalaking manggagawa sa pabrika: dark na kulay ng balat", 
         "trabahador", 
-        "obrero"
+        "obrero", 
+        "katamtamang light na kulay ng balat", 
+        "manggagawa", 
+        "lalaking manggagawa sa pabrika: katamtamang dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "lalaking manggagawa sa pabrika", 
+        "katamtamang dark na kulay ng balat", 
+        "lalaking manggagawa sa pabrika: light na kulay ng balat", 
+        "pabrika", 
+        "light na kulay ng balat"
     ], 
     "👨‍👦": [
         "ama", 
@@ -3831,85 +5172,297 @@
         "anak"
     ], 
     "👨‍💻": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "lalaking teknologo: light na kulay ng balat", 
+        "lalaking teknologo: dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "lalaking teknologo: katamtamang dark na kulay ng balat", 
+        "lalaking teknologo: katamtamang light na kulay ng balat", 
+        "lalaking teknologo: katamtamang kulay ng balat", 
+        "light na kulay ng balat", 
         "lalaking teknologo"
     ], 
     "👨‍💼": [
         "kaopisina", 
+        "empleyado sa opisina: light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "empleyedo", 
+        "dark na kulay ng balat", 
         "opisina", 
+        "katamtamang light na kulay ng balat", 
+        "empleyado sa opisina: katamtamang dark na kulay ng balat", 
+        "empleyado sa opisina: katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "empleyado sa opisina: dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "empleyado sa opisina: katamtamang kulay ng balat", 
         "empleyado sa opisina"
     ], 
     "👨‍🔧": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "lalaking mekaniko: katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "lalaking mekaniko: katamtamang dark na kulay ng balat", 
+        "lalaking mekaniko: light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "lalaking mekaniko", 
         "mekaniko", 
-        "elektrisyan", 
         "makinista", 
-        "lalaki"
+        "lalaki", 
+        "lalaking mekaniko: dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "elektrisyan", 
+        "lalaking mekaniko: katamtamang kulay ng balat"
     ], 
     "👨‍🔬": [
-        "lalaking siyentipiko"
+        "lalaking siyentipiko: katamtamang dark na kulay ng balat", 
+        "lalaking siyentipiko: katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "lalaking siyentipiko: dark na kulay ng balat", 
+        "lalaking siyentipiko: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "lalaking siyentipiko: light na kulay ng balat", 
+        "lalaking siyentipiko", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "👨‍🚀": [
+        "lalaking astronawta: katamtamang dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "lalaking astronawta: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "astronawta", 
+        "lalaking astronawta: light na kulay ng balat", 
         "lalaking astronawta", 
-        "kalawakan", 
+        "katamtamang light na kulay ng balat", 
         "lalaki", 
-        "astronawta"
+        "lalaking astronawta: katamtamang light na kulay ng balat", 
+        "kalawakan", 
+        "lalaking astronawta: dark na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "👨‍🚒": [
-        "trak", 
-        "sunog", 
-        "lalaking bumbero", 
+        "lalaking bumbero: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "bumbero", 
-        "lalaki"
+        "lalaking bumbero: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "trak", 
+        "katamtamang light na kulay ng balat", 
+        "sunog", 
+        "katamtamang kulay ng balat", 
+        "lalaking bumbero: dark na kulay ng balat", 
+        "lalaki", 
+        "lalaking bumbero", 
+        "lalaking bumbero: katamtamang dark na kulay ng balat", 
+        "lalaking bumbero: katamtamang light na kulay ng balat"
     ], 
     "👩": [
-        "babae"
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babae: katamtamang dark na kulay ng balat", 
+        "babae: light na kulay ng balat", 
+        "babae", 
+        "katamtamang light na kulay ng balat", 
+        "babae: katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "babae: dark na kulay ng balat", 
+        "babae: katamtamang light na kulay ng balat"
+    ], 
+    "👩‍⚕️": [
+        "babaeng health worker", 
+        "health worker", 
+        "babae", 
+        "nars", 
+        "doktor"
+    ], 
+    "👩‍⚖️": [
+        "huwes", 
+        "babaeng hukom", 
+        "hustisya", 
+        "babae", 
+        "hukom"
+    ], 
+    "👩‍✈️": [
+        "eroplano", 
+        "piloto", 
+        "babae", 
+        "babaeng piloto"
+    ], 
+    "👩‍❤️‍👨": [
+        "magkasintahan", 
+        "magkapareha", 
+        "pag-ibig", 
+        "couple", 
+        "babae", 
+        "magkapareha na may puso: babae, lalaki", 
+        "romance", 
+        "magkapareha na may puso", 
+        "lalaki", 
+        "romansa", 
+        "puso"
+    ], 
+    "👩‍❤️‍👩": [
+        "magkasintahan", 
+        "magkapareha", 
+        "pag-ibig", 
+        "couple", 
+        "babae", 
+        "romance", 
+        "magkapareha na may puso", 
+        "magkapareha na may puso: babae, babae", 
+        "romansa", 
+        "puso"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "magkasintahan", 
+        "magkapareha", 
+        "pag-ibig", 
+        "couple", 
+        "babae", 
+        "maghahalikan: babae, lalaki", 
+        "romance", 
+        "lalaki", 
+        "romansa", 
+        "halik", 
+        "maghahalikan", 
+        "puso"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "maghahalikan: babae, babae", 
+        "magkasintahan", 
+        "magkapareha", 
+        "pag-ibig", 
+        "couple", 
+        "babae", 
+        "romance", 
+        "romansa", 
+        "halik", 
+        "maghahalikan", 
+        "puso"
     ], 
     "👩‍🌾": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "babaeng magsasaka", 
+        "babaeng magsasaka: dark na kulay ng balat", 
         "babae", 
+        "katamtamang light na kulay ng balat", 
+        "babaeng magsasaka: light na kulay ng balat", 
         "rantsero", 
+        "babaeng magsasaka: katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "hardinera", 
         "magsasaka", 
-        "hardinera"
+        "babaeng magsasaka: katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "babaeng magsasaka: katamtamang light na kulay ng balat"
     ], 
     "👩‍🍳": [
-        "chef", 
-        "cook", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "kusinera: light na kulay ng balat", 
+        "kusinera: katamtamang light na kulay ng balat", 
+        "kusinera: katamtamang kulay ng balat", 
         "babae", 
-        "kusinera"
+        "kusinera: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "chef", 
+        "kusinera", 
+        "kusinera: dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "cook", 
+        "light na kulay ng balat"
     ], 
     "👩‍🎓": [
-        "mag-aaral", 
-        "babaeng mag-aaral", 
+        "babaeng mag-aaral: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "babaeng mag-aaral: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng mag-aaral: katamtamang dark na kulay ng balat", 
         "babae", 
+        "graduate", 
+        "babaeng mag-aaral: dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "mag-aaral", 
+        "katamtamang light na kulay ng balat", 
+        "babaeng mag-aaral", 
+        "light na kulay ng balat", 
         "estudyante", 
-        "graduate"
+        "babaeng mag-aaral: katamtamang light na kulay ng balat"
     ], 
     "👩‍🎤": [
-        "babaeng mang-aawit", 
-        "manganganta", 
+        "babaeng mang-aawit: katamtamang dark na kulay ng balat", 
+        "babaeng mang-aawit: katamtamang light na kulay ng balat", 
+        "babaeng mang-aawit: light na kulay ng balat", 
         "babae", 
-        "mang-aawit"
+        "babaeng mang-aawit", 
+        "dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "manganganta", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng mang-aawit: katamtamang kulay ng balat", 
+        "light na kulay ng balat", 
+        "mang-aawit", 
+        "babaeng mang-aawit: dark na kulay ng balat"
     ], 
     "👩‍🎨": [
-        "paleta", 
+        "babaeng pintor: katamtamang dark na kulay ng balat", 
+        "babaeng pintor: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "babae", 
         "pintor", 
-        "babaeng pintor"
+        "katamtamang light na kulay ng balat", 
+        "babaeng pintor: light na kulay ng balat", 
+        "paleta", 
+        "babaeng pintor", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng pintor: dark na kulay ng balat", 
+        "babaeng pintor: katamtamang kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "👩‍🏫": [
+        "babaeng guro: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng guro: light na kulay ng balat", 
+        "babae", 
+        "babaeng guro: katamtamang dark na kulay ng balat", 
         "propesor", 
         "titser", 
-        "babae", 
-        "babaeng guro", 
-        "guro"
+        "guro", 
+        "babaeng guro: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "babaeng guro: katamtamang light na kulay ng balat", 
+        "babaeng guro"
     ], 
     "👩‍🏭": [
-        "manggagawa", 
-        "babaeng manggagawa sa pabrika", 
-        "pabrika", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babaeng manggagawa sa pabrika: dark na kulay ng balat", 
+        "obrero", 
+        "babaeng manggagawa sa pabrika: katamtamang light na kulay ng balat", 
         "trabahadora", 
-        "obrero"
+        "katamtamang light na kulay ng balat", 
+        "manggagawa", 
+        "babaeng manggagawa sa pabrika: katamtamang dark na kulay ng balat", 
+        "babaeng manggagawa sa pabrika: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "pabrika", 
+        "babaeng manggagawa sa pabrika", 
+        "light na kulay ng balat", 
+        "babaeng manggagawa sa pabrika: katamtamang kulay ng balat"
     ], 
     "👩‍👦": [
         "ama", 
@@ -4004,42 +5557,96 @@
         "anak"
     ], 
     "👩‍💻": [
-        "babaeng teknologo"
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babaeng teknologo: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng teknologo: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "babaeng teknologo: dark na kulay ng balat", 
+        "babaeng teknologo: katamtamang kulay ng balat", 
+        "babaeng teknologo", 
+        "light na kulay ng balat", 
+        "babaeng teknologo: katamtamang light na kulay ng balat"
     ], 
     "👩‍💼": [
         "kaopisina", 
-        "empleyada sa opisina", 
+        "empleyada sa opisina: katamtamang kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "empleyeda", 
+        "empleyada sa opisina: dark na kulay ng balat", 
+        "empleyada sa opisina: katamtamang dark na kulay ng balat", 
+        "empleyada sa opisina: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
         "opisina", 
-        "empleyeda"
+        "katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "empleyada sa opisina: light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "empleyada sa opisina"
     ], 
     "👩‍🔧": [
-        "mekaniko", 
-        "elektrisyan", 
-        "babaeng mekaniko", 
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "babaeng mekaniko: dark na kulay ng balat", 
+        "babaeng mekaniko: katamtamang light na kulay ng balat", 
+        "babaeng mekaniko: katamtamang kulay ng balat", 
         "babae", 
-        "makinista"
+        "katamtamang light na kulay ng balat", 
+        "mekaniko", 
+        "makinista", 
+        "babaeng mekaniko: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babaeng mekaniko", 
+        "elektrisyan", 
+        "babaeng mekaniko: light na kulay ng balat"
     ], 
     "👩‍🔬": [
-        "babaeng siyentipiko"
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babaeng siyentipiko", 
+        "babaeng siyentipiko: dark na kulay ng balat", 
+        "babaeng siyentipiko: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng siyentipiko: light na kulay ng balat", 
+        "babaeng siyentipiko: katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "babaeng siyentipiko: katamtamang kulay ng balat"
     ], 
     "👩‍🚀": [
-        "kalawakan", 
+        "babaeng astronawta: light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babaeng astronawta: katamtamang kulay ng balat", 
         "babae", 
-        "babaeng astronawta", 
-        "astronawta"
+        "astronawta", 
+        "katamtamang light na kulay ng balat", 
+        "babaeng astronawta: dark na kulay ng balat", 
+        "babaeng astronawta: katamtamang light na kulay ng balat", 
+        "kalawakan", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng astronawta: katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "babaeng astronawta"
     ], 
     "👩‍🚒": [
-        "sunog", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babaeng bumbero: katamtamang light na kulay ng balat", 
+        "bumbero", 
+        "babaeng bumbero: dark na kulay ng balat", 
+        "babaeng bumbero: katamtamang kulay ng balat", 
         "babae", 
-        "babaeng bumbero", 
         "trak", 
-        "bumbero"
-    ], 
-    "👪": [
-        "ama", 
-        "pamilya", 
-        "anak", 
-        "ina"
+        "katamtamang light na kulay ng balat", 
+        "sunog", 
+        "babaeng bumbero: katamtamang dark na kulay ng balat", 
+        "babaeng bumbero", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng bumbero: light na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "👫": [
         "magkasintahan", 
@@ -4086,11 +5693,19 @@
         "dalawang babaeng magkahawak-kamay", 
         "pda"
     ], 
-    "👮": [
+    "👮‍♀️": [
+        "pulisya", 
+        "babae", 
+        "pulis", 
+        "babaeng pulis"
+    ], 
+    "👮‍♂️": [
+        "lalaki", 
+        "lalaking pulis", 
         "pulisya", 
         "pulis"
     ], 
-    "👯": [
+    "👯‍♀️": [
         "playboy", 
         "kuneho", 
         "babae", 
@@ -4099,62 +5714,155 @@
         "tainga", 
         "party", 
         "mga babaeng nagpa-party", 
-        "mananayaw"
+        "babaeng nagpa-party", 
+        "mananayaw", 
+        "nagpa-party"
+    ], 
+    "👯‍♂️": [
+        "lalaking nagpa-party", 
+        "mananayaw", 
+        "playboy", 
+        "lalaki", 
+        "nagpa-party"
     ], 
     "👰": [
         "kasal", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "belo", 
+        "katamtamang dark na kulay ng balat", 
+        "babaeng ikakasal na may suot na belo: dark na kulay ng balat", 
+        "babaeng ikakasal na may suot na belo: katamtamang light na kulay ng balat", 
         "babae", 
         "ikakasal", 
         "bride", 
-        "babaeng ikakasal na may suot na belo"
+        "babaeng ikakasal na may suot na belo: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "babaeng ikakasal na may suot na belo", 
+        "babaeng ikakasal na may suot na belo: katamtamang dark na kulay ng balat", 
+        "babaeng ikakasal na may suot na belo: light na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "buhok", 
+        "babaeng blonde", 
+        "babae", 
+        "blonde"
+    ], 
+    "👱‍♂️": [
+        "taong may blond na buhok", 
+        "blond", 
+        "lalaking blonde", 
+        "lalaki", 
         "buhok", 
         "tao", 
-        "lalaki", 
-        "blond", 
-        "taong may blond na buhok"
+        "blonde"
     ], 
     "👲": [
-        "lalaking may suot na sombrerong chinese", 
-        "gua pi mao", 
-        "lalaki", 
+        "dark na kulay ng balat", 
+        "lalaking may suot na sombrerong chinese: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
         "chinese", 
-        "sombrero"
+        "lalaking may suot na sombrerong chinese: katamtamang kulay ng balat", 
+        "lalaking may suot na sombrerong chinese", 
+        "sombrero", 
+        "lalaking may suot na sombrerong chinese: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "gua pi mao", 
+        "katamtamang kulay ng balat", 
+        "lalaki", 
+        "light na kulay ng balat", 
+        "lalaking may suot na sombrerong chinese: dark na kulay ng balat", 
+        "lalaking may suot na sombrerong chinese: katamtamang dark na kulay ng balat"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "babaeng may turban", 
+        "babae", 
+        "turban"
+    ], 
+    "👳‍♂️": [
+        "lalaking may turban", 
         "turban", 
         "lalaking may suot na turban", 
         "lalaki"
     ], 
     "👴": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "matanda", 
+        "matandang lalaki: katamtamang dark na kulay ng balat", 
+        "matandang lalaki: dark na kulay ng balat", 
+        "matandang lalaki: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "matandang lalaki: light na kulay ng balat", 
+        "matandang lalaki: katamtamang kulay ng balat", 
         "lalaki", 
+        "light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
         "matandang lalaki"
     ], 
     "👵": [
-        "matandang babae", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "matandang babae: light na kulay ng balat", 
+        "matanda", 
+        "matandang babae: katamtamang dark na kulay ng balat", 
         "babae", 
-        "matanda"
+        "katamtamang light na kulay ng balat", 
+        "matandang babae", 
+        "matandang babae: katamtamang kulay ng balat", 
+        "matandang babae: dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "matandang babae: katamtamang light na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "👶": [
+        "sanggol: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "sanggol: light na kulay ng balat", 
+        "sanggol: katamtamang light na kulay ng balat", 
+        "sanggol: dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "sanggol: katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "sanggol"
     ], 
-    "👷": [
+    "👷‍♀️": [
+        "babaeng trabahador sa konstruksyon", 
+        "babae", 
+        "trabahador", 
+        "konstruksyon"
+    ], 
+    "👷‍♂️": [
         "helmet", 
+        "trabahador", 
         "sombrero", 
         "manggagawa", 
         "construction", 
         "construction worker", 
-        "hard hat"
+        "lalaking trabahador sa konstruksyon", 
+        "lalaki", 
+        "hard hat", 
+        "konstruksyon"
     ], 
     "👸": [
+        "prinsesa: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "prinsesa: katamtamang kulay ng balat", 
         "babae", 
+        "prinsesa: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "fantasy", 
+        "prinsesa: light na kulay ng balat", 
         "fairy tale", 
         "dugong-bughaw", 
         "korona", 
+        "prinsesa: katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "alamat", 
         "prinsesa"
     ], 
@@ -4190,13 +5898,23 @@
         "kaluluwa"
     ], 
     "👼": [
+        "sanggol na anghel: dark na kulay ng balat", 
+        "sanggol na anghel: light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "angel", 
+        "sanggol na anghel: katamtamang light na kulay ng balat", 
+        "sanggol na anghel: katamtamang kulay ng balat", 
         "sanggol na anghel", 
+        "katamtamang light na kulay ng balat", 
         "fantasy", 
+        "katamtamang dark na kulay ng balat", 
         "baby", 
         "mukha", 
+        "light na kulay ng balat", 
         "anghel", 
-        "sanggol"
+        "sanggol", 
+        "sanggol na anghel: katamtamang dark na kulay ng balat"
     ], 
     "👽": [
         "fantasy", 
@@ -4243,28 +5961,56 @@
         "lason", 
         "alamat"
     ], 
-    "💁": [
-        "tulong", 
+    "💁‍♀️": [
         "impormasyon", 
+        "babae", 
+        "kamay", 
+        "tulong", 
+        "nakakumpas", 
         "tao sa information desk", 
-        "kamay"
+        "nakatikwas", 
+        "babaeng nakatikwas ang kamay"
     ], 
-    "💂": [
+    "💁‍♂️": [
+        "lalaking nakatikwas ang kamay", 
+        "nakakumpas", 
+        "nakatikwas", 
+        "lalaki"
+    ], 
+    "💂‍♀️": [
+        "babaeng guwardya", 
+        "guwardya", 
+        "babae"
+    ], 
+    "💂‍♂️": [
+        "guwardya", 
         "bodyguard", 
         "kabalyero", 
         "king’s guard", 
         "british", 
         "queen’s guard", 
         "fairy tale", 
-        "gwardya"
+        "lalaki", 
+        "gwardya", 
+        "lalaking guwardya"
     ], 
     "💃": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "sayaw", 
+        "mananayaw: light na kulay ng balat", 
+        "mananayaw: dark na kulay ng balat", 
         "babae", 
+        "mananayaw: katamtamang light na kulay ng balat", 
         "sumasayaw", 
+        "katamtamang light na kulay ng balat", 
+        "mananayaw: katamtamang kulay ng balat", 
         "dancer", 
+        "katamtamang dark na kulay ng balat", 
         "salsa", 
-        "mananayaw"
+        "mananayaw", 
+        "light na kulay ng balat", 
+        "mananayaw: katamtamang dark na kulay ng balat"
     ], 
     "💄": [
         "kolorete", 
@@ -4274,27 +6020,56 @@
     ], 
     "💅": [
         "nail polish", 
+        "dark na kulay ng balat", 
+        "nail polish: katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "nail polish: katamtamang dark na kulay ng balat", 
         "kamay", 
+        "nail polish: light na kulay ng balat", 
         "kuko", 
+        "katamtamang light na kulay ng balat", 
         "daliri", 
+        "katamtamang kulay ng balat", 
         "cosmetics", 
         "manicure", 
-        "polish"
+        "polish", 
+        "light na kulay ng balat", 
+        "nail polish: katamtamang kulay ng balat", 
+        "nail polish: dark na kulay ng balat"
     ], 
-    "💆": [
+    "💆‍♀️": [
+        "salon", 
+        "babaeng nagpapamasahe ng mukha", 
         "masahe", 
         "pagpapamasahe ng mukha", 
-        "salon", 
         "parlor", 
-        "mukha"
+        "spa", 
+        "mukha", 
+        "masahe sa mukha"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "masahe sa mukha", 
+        "salon", 
+        "barberya", 
+        "parlor", 
+        "lalaking nagpapamasahe ng mukha"
+    ], 
+    "💇‍♀️": [
         "salon", 
         "pagpapagupit ng buhok", 
         "parlor", 
+        "gupit ng buhok", 
+        "babaeng nagpapagupit", 
         "buhok", 
         "gupit", 
         "barbero"
+    ], 
+    "💇‍♂️": [
+        "parlor", 
+        "salon", 
+        "barberya", 
+        "gupit ng buhok", 
+        "lalaking nagpapagupit"
     ], 
     "💈": [
         "pagpapagupit ng buhok", 
@@ -4364,17 +6139,6 @@
         "gem stone", 
         "alahas"
     ], 
-    "💏": [
-        "magkasintahan", 
-        "magkapareha", 
-        "pag-ibig", 
-        "couple", 
-        "romance", 
-        "romansa", 
-        "halik", 
-        "maghahalikan", 
-        "puso"
-    ], 
     "💐": [
         "romansa", 
         "bouquet", 
@@ -4384,16 +6148,6 @@
         "bulaklak", 
         "bungkos ng mga bulaklak", 
         "halaman"
-    ], 
-    "💑": [
-        "magkasintahan", 
-        "magkapareha", 
-        "pag-ibig", 
-        "couple", 
-        "romance", 
-        "magkapareha na may puso", 
-        "romansa", 
-        "puso"
     ], 
     "💒": [
         "kasal", 
@@ -4560,8 +6314,18 @@
     "💪": [
         "biceps", 
         "pinalaking biceps", 
+        "light na kulay ng balat", 
         "braso", 
         "katawan", 
+        "dark na kulay ng balat", 
+        "pinalaking biceps: katamtamang dark na kulay ng balat", 
+        "pinalaking biceps: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "pinalaking biceps: katamtamang kulay ng balat", 
+        "pinalaking biceps: dark na kulay ng balat", 
+        "pinalaking biceps: light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
         "sexy", 
         "macho", 
         "muscle"
@@ -5125,6 +6889,15 @@
         "videocassette", 
         "vhs"
     ], 
+    "📽️": [
+        "film projector", 
+        "projector", 
+        "cinema", 
+        "pelikula", 
+        "video", 
+        "movie", 
+        "film"
+    ], 
     "📿": [
         "beads", 
         "pagdarasal", 
@@ -5513,6 +7286,19 @@
         "button na ibaba", 
         "arrow"
     ], 
+    "🕉️": [
+        "sanskrit", 
+        "om", 
+        "india", 
+        "relihiyon"
+    ], 
+    "🕊️": [
+        "lumilipad", 
+        "kalapati", 
+        "ibon", 
+        "hayop", 
+        "kapayapaan"
+    ], 
     "🕋": [
         "cube", 
         "kaaba", 
@@ -5765,26 +7551,154 @@
         "a las dose y medya", 
         "12:30"
     ], 
-    "🕺": [
-        "lalaking sumasayaw", 
-        "sayaw", 
+    "🕯️": [
+        "kandila", 
+        "ilaw", 
+        "apoy"
+    ], 
+    "🕰️": [
+        "mantel clock", 
+        "orasan"
+    ], 
+    "🕳️": [
+        "butas", 
+        "manhole"
+    ], 
+    "🕴️": [
+        "lumulutang", 
+        "lumulutang na lalaking nakapormal", 
+        "levitation", 
+        "nakapormal", 
         "lalaki"
     ], 
-    "🖕": [
-        "daliri", 
-        "middle finger", 
+    "🕵️‍♂️": [
+        "detective", 
+        "imbestigador", 
+        "espiya"
+    ], 
+    "🕶️": [
+        "sunglasses", 
+        "araw", 
+        "shades", 
+        "salamin", 
+        "eyewear", 
+        "tirik ang araw", 
+        "maaraw", 
+        "mata", 
+        "mataas ang araw", 
+        "cool"
+    ], 
+    "🕷️": [
+        "gagamba", 
+        "insekto"
+    ], 
+    "🕸️": [
+        "gagamba", 
+        "insekto", 
+        "sapot"
+    ], 
+    "🕹️": [
+        "controller", 
+        "video game", 
+        "laro", 
+        "joystick"
+    ], 
+    "🕺": [
+        "lalaking sumasayaw: katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "lalaking sumasayaw: light na kulay ng balat", 
+        "sayaw", 
+        "katamtamang dark na kulay ng balat", 
+        "lalaking sumasayaw: dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "lalaking sumasayaw", 
+        "katamtamang kulay ng balat", 
+        "lalaki", 
+        "light na kulay ng balat", 
+        "lalaking sumasayaw: katamtamang dark na kulay ng balat", 
+        "lalaking sumasayaw: katamtamang light na kulay ng balat"
+    ], 
+    "🖇️": [
+        "magkakawing na paperclip", 
+        "paperclip", 
+        "kawing"
+    ], 
+    "🖊️": [
+        "ballpoint", 
+        "panulat", 
+        "ball pen", 
+        "ballpoint pen"
+    ], 
+    "🖋️": [
+        "fountain pen", 
+        "pen", 
+        "panulat"
+    ], 
+    "🖌️": [
+        "pangpinta", 
+        "brush", 
+        "paintbrush"
+    ], 
+    "🖍️": [
+        "pangkulay", 
+        "crayon", 
+        "krayola"
+    ], 
+    "🖐️": [
+        "hinto", 
+        "jan-ken-pon", 
+        "apir", 
+        "high five", 
         "kamay", 
+        "papel", 
+        "daliri", 
+        "nakabukas", 
+        "jack-en-poy", 
+        "palad", 
+        "nakataas", 
+        "bato-bato-pick", 
+        "nakataas na nakabukas na kamay", 
+        "kumpleto", 
+        "tumigil", 
+        "jak-en-poy", 
         "gesture", 
-        "hinlalato"
+        "rock-paper-scissors"
+    ], 
+    "🖕": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "hinlalato: dark na kulay ng balat", 
+        "middle finger", 
+        "hinlalato: katamtamang dark na kulay ng balat", 
+        "hinlalato", 
+        "hinlalato: katamtamang kulay ng balat", 
+        "kamay", 
+        "katamtamang light na kulay ng balat", 
+        "daliri", 
+        "hinlalato: katamtamang light na kulay ng balat", 
+        "hinlalato: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "gesture"
     ], 
     "🖖": [
+        "vulcan salute: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "saludo", 
+        "katamtamang dark na kulay ng balat", 
+        "vulcan salute: light na kulay ng balat", 
+        "vulcan salute: dark na kulay ng balat", 
         "vulcan", 
+        "vulcan salute: katamtamang kulay ng balat", 
         "kamay", 
         "star trek", 
+        "vulcan salute: katamtamang dark na kulay ng balat", 
         "daliri", 
         "spock", 
         "vulcan salute", 
+        "katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
         "gesture"
     ], 
     "🖤": [
@@ -5793,6 +7707,127 @@
         "itim", 
         "masama", 
         "puso"
+    ], 
+    "🖥️": [
+        "desktop computer", 
+        "monitor", 
+        "personal", 
+        "desktop", 
+        "pc", 
+        "computer"
+    ], 
+    "🖨️": [
+        "device", 
+        "hardware", 
+        "computer", 
+        "printer"
+    ], 
+    "🖱️": [
+        "hardware", 
+        "computer mouse", 
+        "computer", 
+        "mouse"
+    ], 
+    "🖲️": [
+        "hardware", 
+        "computer", 
+        "trackball"
+    ], 
+    "🖼️": [
+        "sining", 
+        "frame", 
+        "museo", 
+        "larawan", 
+        "litrato", 
+        "frame na may larawan", 
+        "painting"
+    ], 
+    "🗂️": [
+        "index", 
+        "mga divider ng card index", 
+        "divider", 
+        "card"
+    ], 
+    "🗃️": [
+        "kahon ng cardfile", 
+        "kahon", 
+        "file", 
+        "card"
+    ], 
+    "🗄️": [
+        "file cabinet", 
+        "file", 
+        "cabinet"
+    ], 
+    "🗑️": [
+        "basurahan", 
+        "basura"
+    ], 
+    "🗒️": [
+        "pad", 
+        "spiral notepad", 
+        "notepad", 
+        "spiral", 
+        "sulatan"
+    ], 
+    "🗓️": [
+        "kalendaryo", 
+        "spiral na kalendaryo", 
+        "spiral"
+    ], 
+    "🗜️": [
+        "kagamitan", 
+        "gato", 
+        "compression"
+    ], 
+    "🗝️": [
+        "susi", 
+        "lumang susi", 
+        "password", 
+        "naka-lock", 
+        "naka-encrypt"
+    ], 
+    "🗞️": [
+        "balita", 
+        "dyaryo", 
+        "nakarolyo", 
+        "nakarolyong dyaryo"
+    ], 
+    "🗡️": [
+        "sandata", 
+        "patalim", 
+        "armas"
+    ], 
+    "🗣️": [
+        "ulong nagsasalita", 
+        "silhouette", 
+        "nagsasalita", 
+        "ulo"
+    ], 
+    "🗨️": [
+        "komiks", 
+        "balloon", 
+        "usapan", 
+        "kaliwang speech bubble", 
+        "dialog"
+    ], 
+    "🗯️": [
+        "komiks", 
+        "balloon", 
+        "kanang anger bubble", 
+        "dialog", 
+        "galit", 
+        "usapan"
+    ], 
+    "🗳️": [
+        "balota", 
+        "ballot box na may balota", 
+        "ballot box"
+    ], 
+    "🗺️": [
+        "mapa ng mundo", 
+        "mapa", 
+        "mundo"
     ], 
     "🗻": [
         "bundok", 
@@ -6372,27 +8407,58 @@
         "umiikot", 
         "mata"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "nagpapahiwatig na hindi pwede", 
         "hindi pwede", 
+        "babaeng kumukumpas na hindi ok", 
+        "hindi", 
         "kamay", 
         "huwag", 
+        "ayaw", 
         "bawal", 
         "gesture", 
         "ipinagbabawal"
     ], 
-    "🙆": [
-        "nagpapahiwatig na ok", 
-        "pwede", 
+    "🙅‍♂️": [
+        "hindi pwede", 
+        "lalaking kumukumpas na hindi ok", 
+        "bawal", 
+        "hindi", 
+        "ayaw"
+    ], 
+    "🙆‍♀️": [
+        "oo", 
         "ok", 
+        "babae", 
+        "nagpapahiwatig na ok", 
+        "babaeng kumukumpas na ok", 
         "kamay", 
+        "okay", 
+        "pwede", 
         "gesture"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "lalaking kumukumpas na ok", 
+        "oo", 
+        "pwede", 
+        "okay", 
+        "lalaki"
+    ], 
+    "🙇‍♀️": [
+        "nakayuko", 
+        "yumuyuko", 
+        "paggalang", 
+        "paumanhin", 
+        "babaeng nakayuko"
+    ], 
+    "🙇‍♂️": [
         "paghingi ng paumanhin", 
         "yumuyukong tao", 
         "yumuyuko", 
+        "nakayuko", 
+        "lalaking nakayuko", 
         "humihiling", 
+        "paumanhin", 
         "yuko", 
         "sorry", 
         "tao", 
@@ -6438,44 +8504,91 @@
         "gesture", 
         "ipinagbabawal"
     ], 
-    "🙋": [
-        "masaya", 
+    "🙋‍♀️": [
         "nakataas ang kamay", 
+        "babaeng nakataas ang kamay", 
+        "babae", 
         "kamay", 
-        "gesture", 
-        "masayang tao na nakataas ang kamay"
-    ], 
-    "🙌": [
-        "nakataas ang mga kamay", 
-        "kamay", 
-        "hooray", 
-        "nakataas na mga kamay", 
-        "wagayway", 
-        "nagdiriwang", 
+        "masayang tao na nakataas ang kamay", 
+        "masaya", 
         "gesture"
     ], 
-    "🙍": [
+    "🙋‍♂️": [
+        "lalaking nakataas ang kamay", 
+        "lalaki", 
+        "nakataas ang kamay"
+    ], 
+    "🙌": [
+        "nakataas na mga kamay: light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "nakataas ang mga kamay", 
+        "nakataas na mga kamay: katamtamang dark na kulay ng balat", 
+        "kamay", 
+        "katamtamang light na kulay ng balat", 
+        "hooray", 
+        "nakataas na mga kamay: katamtamang light na kulay ng balat", 
+        "nakataas na mga kamay", 
+        "wagayway", 
+        "nakataas na mga kamay: dark na kulay ng balat", 
+        "nagdiriwang", 
+        "light na kulay ng balat", 
+        "nakataas na mga kamay: katamtamang kulay ng balat", 
+        "gesture"
+    ], 
+    "🙍‍♀️": [
+        "nakakunot-noo", 
         "nakasimangot", 
         "ekspresyon", 
+        "babae", 
+        "simangot", 
+        "babaeng nakasimangot", 
         "expression", 
-        "taong nakasimangot", 
-        "simangot"
+        "taong nakasimangot"
     ], 
-    "🙎": [
-        "pout", 
-        "taong naka-pout", 
+    "🙍‍♂️": [
+        "nakakunot-noo", 
+        "nakasimangot", 
         "ekspresyon", 
+        "lalaki", 
+        "lalaking nakasimangot"
+    ], 
+    "🙎‍♀️": [
+        "taong naka-pout", 
+        "pout", 
+        "babaeng nakanguso", 
+        "ekspresyon", 
+        "babae", 
+        "naka-pout", 
+        "nakanguso", 
         "expression", 
-        "naka-pout"
+        "nakalabi"
+    ], 
+    "🙎‍♂️": [
+        "lalaking nakanguso", 
+        "nakanguso", 
+        "nakalabi", 
+        "lalaki"
     ], 
     "🙏": [
         "magkalapat na mga palad", 
+        "magkalapat na mga palad: katamtamang kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "yumuyuko", 
+        "magkalapat na mga palad: katamtamang light na kulay ng balat", 
+        "magkalapat na mga palad: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
         "humihiling", 
         "nagpapasalamat", 
+        "magkalapat na mga palad: light na kulay ng balat", 
         "gesture", 
+        "katamtamang dark na kulay ng balat", 
         "yuko", 
+        "magkalapat na mga palad: katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "nakikisuyo", 
         "nagdarasal"
     ], 
@@ -6687,12 +8800,22 @@
         "pampasahero", 
         "sasakyan"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "bangka", 
+        "babae", 
+        "nagsasagwan", 
+        "babaeng nagsasagwan", 
+        "sagwan"
+    ], 
+    "🚣‍♂️": [
         "rowboat", 
+        "lalaking nagsasagwan", 
         "sagwan", 
+        "nagsasagwan", 
         "sasakyang pandagat", 
         "bangkang de-sagwan", 
         "sasakyan", 
+        "lalaki", 
         "bangka"
     ], 
     "🚤": [
@@ -6802,26 +8925,53 @@
         "bawal", 
         "ipinagbabawal"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "babaeng nagbibisikleta", 
+        "babae", 
+        "nagbibisikleta", 
+        "bisikleta"
+    ], 
+    "🚴‍♂️": [
         "cyclist", 
         "nagbibisikleta", 
         "bicycle", 
         "bicyclist", 
+        "lalaking nagbibisikleta", 
         "bike", 
+        "lalaki", 
         "bisikleta"
     ], 
-    "🚵": [
+    "🚵‍♀️": [
+        "babaeng nagma-mountain bike", 
+        "mountain bike", 
+        "nagbibisikleta", 
+        "babae", 
+        "bisikleta"
+    ], 
+    "🚵‍♂️": [
         "cyclist", 
         "mountain biker", 
+        "nagbibisikleta", 
         "bicycle", 
         "bicyclist", 
         "bundok", 
+        "lalaking nagma-mountain bike", 
         "bike", 
-        "bisikleta"
+        "lalaki", 
+        "bisikleta", 
+        "mountain bike"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "babaeng naglalakad", 
+        "babae", 
+        "lakad"
+    ], 
+    "🚶‍♂️": [
         "naglalakad", 
+        "lalaking naglalakad", 
+        "lakad", 
         "pedestrian", 
+        "lalaki", 
         "tao", 
         "taong naglalakad"
     ], 
@@ -6890,10 +9040,20 @@
         "tubig"
     ], 
     "🛀": [
-        "taong naliligo", 
-        "bathtub", 
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "tubig", 
+        "taong naliligo: katamtamang kulay ng balat", 
+        "taong naliligo: dark na kulay ng balat", 
         "ligo", 
-        "tubig"
+        "katamtamang light na kulay ng balat", 
+        "taong naliligo: katamtamang dark na kulay ng balat", 
+        "taong naliligo: katamtamang light na kulay ng balat", 
+        "taong naliligo", 
+        "katamtamang dark na kulay ng balat", 
+        "taong naliligo: light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "bathtub"
     ], 
     "🛁": [
         "tubig", 
@@ -6922,9 +9082,44 @@
         "bagahe", 
         "naiwang bagahe"
     ], 
-    "🛌": [
+    "🛋️": [
+        "sofa", 
         "hotel", 
+        "couch", 
+        "upuan", 
+        "lamp", 
+        "sofa at ilaw"
+    ], 
+    "🛌": [
+        "dark na kulay ng balat", 
         "taong nakahiga", 
+        "taong nakahiga: katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "hotel", 
+        "taong nakahiga: katamtamang dark na kulay ng balat", 
+        "taong nakahiga: light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "natutulog", 
+        "taong nakahiga: dark na kulay ng balat", 
+        "taong nakahiga: katamtamang light na kulay ng balat", 
+        "light na kulay ng balat"
+    ], 
+    "🛍️": [
+        "bag", 
+        "shopping", 
+        "paper bag", 
+        "mga shopping bag"
+    ], 
+    "🛎️": [
+        "hotel", 
+        "bellhop", 
+        "bellhop bell", 
+        "bell"
+    ], 
+    "🛏️": [
+        "higaan", 
+        "hotel", 
         "natutulog"
     ], 
     "🛐": [
@@ -6946,6 +9141,46 @@
         "shopping", 
         "cart"
     ], 
+    "🛠️": [
+        "martilyo at liyabe", 
+        "kagamitan", 
+        "liyabe", 
+        "martilyo"
+    ], 
+    "🛡️": [
+        "sandata", 
+        "pananggalang", 
+        "kalasag"
+    ], 
+    "🛢️": [
+        "drum ng langis", 
+        "langis", 
+        "drum"
+    ], 
+    "🛣️": [
+        "expressway", 
+        "kalsada", 
+        "highway"
+    ], 
+    "🛤️": [
+        "riles ng tren", 
+        "riles", 
+        "tren"
+    ], 
+    "🛥️": [
+        "bangkang de-motor", 
+        "sasakyang pandagat", 
+        "motorboat", 
+        "sasakyan", 
+        "de-motor", 
+        "bangka"
+    ], 
+    "🛩️": [
+        "maliit na eroplano", 
+        "eroplano", 
+        "sasakyan", 
+        "sasakyang panghimpapawid"
+    ], 
     "🛫": [
         "pag-check in", 
         "paglipad", 
@@ -6966,6 +9201,18 @@
         "paglapag", 
         "eroplano", 
         "pagbaba"
+    ], 
+    "🛰️": [
+        "satellite", 
+        "kalawakan", 
+        "sasakyan"
+    ], 
+    "🛳️": [
+        "barko", 
+        "pampasaherong barko", 
+        "sasakyang pandagat", 
+        "pampasahero", 
+        "sasakyan"
     ], 
     "🛴": [
         "scooter", 
@@ -7044,39 +9291,89 @@
     ], 
     "🤘": [
         "rocker", 
-        "sungay", 
-        "rock on", 
+        "rock ’n’ roll: katamtamang kulay ng balat", 
+        "rock ’n’ roll: light na kulay ng balat", 
+        "daliri", 
+        "rock ’n’ roll: katamtamang light na kulay ng balat", 
+        "heavy metal", 
+        "katamtamang kulay ng balat", 
         "rakista", 
-        "rakenrol", 
-        "rock", 
+        "kamay", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "rock ’n’ roll: dark na kulay ng balat", 
+        "sungay", 
+        "dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "demonyo", 
+        "rock ’n’ roll", 
+        "rock on", 
+        "rock ’n’ roll: katamtamang dark na kulay ng balat", 
         "pamahiin", 
         "metal", 
-        "kamay", 
-        "daliri", 
-        "demonyo", 
-        "heavy metal", 
-        "rock ’n’ roll", 
-        "gesture"
+        "gesture", 
+        "rock", 
+        "rakenrol"
     ], 
     "🤙": [
         "tawag", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "tawagan mo ko: katamtamang dark na kulay ng balat", 
+        "tawagan mo ko: light na kulay ng balat", 
+        "tawagan mo ko: katamtamang kulay ng balat", 
         "tawagan mo ko", 
-        "kamay"
+        "kamay", 
+        "katamtamang light na kulay ng balat", 
+        "tawagan mo ko: dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "tawagan mo ko: katamtamang light na kulay ng balat"
     ], 
     "🤚": [
-        "nakataas na baliktad na kamay", 
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
         "baliktad", 
-        "nakataas"
+        "katamtamang dark na kulay ng balat", 
+        "nakataas na baliktad na kamay: katamtamang dark na kulay ng balat", 
+        "nakataas na baliktad na kamay", 
+        "nakataas na baliktad na kamay: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "nakataas", 
+        "nakataas na baliktad na kamay: light na kulay ng balat", 
+        "nakataas na baliktad na kamay: katamtamang light na kulay ng balat", 
+        "nakataas na baliktad na kamay: dark na kulay ng balat"
     ], 
     "🤛": [
-        "kamao", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "pakaliwang kamao: light na kulay ng balat", 
+        "pakaliwang kamao: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "pakaliwa", 
-        "pakaliwang kamao"
+        "pakaliwang kamao", 
+        "pakaliwang kamao: dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "pakaliwang kamao: katamtamang kulay ng balat", 
+        "kamao", 
+        "light na kulay ng balat", 
+        "pakaliwang kamao: katamtamang light na kulay ng balat"
     ], 
     "🤜": [
-        "kamao", 
+        "dark na kulay ng balat", 
+        "pakanang kamao: light na kulay ng balat", 
         "pakanang kamao", 
-        "pakanan"
+        "pakanang kamao: katamtamang kulay ng balat", 
+        "pakanang kamao: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "pakanan", 
+        "katamtamang dark na kulay ng balat", 
+        "pakanang kamao: katamtamang light na kulay ng balat", 
+        "kamao", 
+        "katamtamang kulay ng balat", 
+        "pakanang kamao: dark na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "🤝": [
         "meeting", 
@@ -7085,15 +9382,35 @@
         "kasunduan"
     ], 
     "🤞": [
-        "swerte", 
-        "daliri", 
+        "naka-cross na mga daliri: katamtamang kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "naka-cross na mga daliri: katamtamang dark na kulay ng balat", 
+        "dark na kulay ng balat", 
         "cross", 
         "kamay", 
-        "naka-cross na mga daliri"
+        "katamtamang light na kulay ng balat", 
+        "naka-cross na mga daliri: light na kulay ng balat", 
+        "daliri", 
+        "naka-cross na mga daliri", 
+        "katamtamang dark na kulay ng balat", 
+        "naka-cross na mga daliri: dark na kulay ng balat", 
+        "swerte", 
+        "light na kulay ng balat", 
+        "naka-cross na mga daliri: katamtamang light na kulay ng balat"
     ], 
     "🤟": [
-        "love-you gesture", 
+        "love-you gesture: dark na kulay ng balat", 
+        "love-you gesture: light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "love-you gesture: katamtamang kulay ng balat", 
+        "love-you gesture: katamtamang light na kulay ng balat", 
         "kamay", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "love-you gesture: katamtamang dark na kulay ng balat", 
+        "love-you gesture", 
         "ILY"
     ], 
     "🤠": [
@@ -7131,10 +9448,32 @@
         "nagsisinungaling"
     ], 
     "🤦": [
+        "naka-facepalm: katamtamang dark na kulay ng balat", 
+        "naka-facepalm: light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "di makapaniwala", 
+        "katamtamang light na kulay ng balat", 
+        "naka-facepalm: katamtamang light na kulay ng balat", 
         "palad", 
-        "naka-facepalm", 
-        "mukha"
+        "katamtamang dark na kulay ng balat", 
+        "naka-facepalm: dark na kulay ng balat", 
+        "mukha", 
+        "light na kulay ng balat", 
+        "naka-facepalm: katamtamang kulay ng balat", 
+        "naka-facepalm"
+    ], 
+    "🤦‍♀️": [
+        "facepalm", 
+        "babae", 
+        "palad", 
+        "babaeng naka-facepalm"
+    ], 
+    "🤦‍♂️": [
+        "facepalm", 
+        "lalaking naka-facepalm", 
+        "palad", 
+        "lalaki"
     ], 
     "🤧": [
         "mukha", 
@@ -7183,60 +9522,200 @@
         "nabigla"
     ], 
     "🤰": [
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "buntis: katamtamang kulay ng balat", 
+        "buntis: dark na kulay ng balat", 
+        "babae", 
+        "buntis: light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "buntis: katamtamang light na kulay ng balat", 
         "buntis", 
-        "babae"
+        "buntis: katamtamang dark na kulay ng balat"
     ], 
     "🤱": [
-        "sanggol", 
+        "breast-feeding: light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "breast-feeding: dark na kulay ng balat", 
+        "breast-feeding: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "breast-feeding: katamtamang dark na kulay ng balat", 
+        "breast-feeding: katamtamang light na kulay ng balat", 
         "breast", 
         "breast-feeding", 
+        "light na kulay ng balat", 
+        "sanggol", 
         "nagpapadede"
     ], 
     "🤲": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "nakataas na magkadikit na palad: light na kulay ng balat", 
+        "nakataas na magkadikit na palad: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "nakataas na magkadikit na palad", 
+        "nakataas na magkadikit na palad: katamtamang kulay ng balat", 
+        "nakataas na magkadikit na palad: dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "nakataas na magkadikit na palad: katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
         "dasal"
     ], 
     "🤳": [
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "selfie: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "selfie: katamtamang kulay ng balat", 
         "selfie", 
-        "camera", 
+        "selfie: katamtamang light na kulay ng balat", 
         "telepono", 
-        "mobile phone"
+        "katamtamang light na kulay ng balat", 
+        "camera", 
+        "selfie: light na kulay ng balat", 
+        "mobile phone", 
+        "selfie: dark na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "🤴": [
-        "prinsipe"
+        "prinsipe: light na kulay ng balat", 
+        "prinsipe", 
+        "katamtamang kulay ng balat", 
+        "dark na kulay ng balat", 
+        "prinsipe: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "prinsipe: dark na kulay ng balat", 
+        "prinsipe: katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "prinsipe: katamtamang dark na kulay ng balat"
     ], 
     "🤵": [
+        "naka-tuxedo: katamtamang dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "naka-tuxedo: katamtamang light na kulay ng balat", 
         "tuxedo", 
+        "naka-tuxedo: dark na kulay ng balat", 
         "groom", 
+        "dark na kulay ng balat", 
+        "naka-tuxedo: katamtamang kulay ng balat", 
+        "naka-tuxedo: light na kulay ng balat", 
         "naka-tuxedo", 
-        "lalaki"
+        "lalaki", 
+        "katamtamang light na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "🤶": [
-        "nanay", 
         "Mrs. Claus", 
+        "katamtamang kulay ng balat", 
+        "mother christmas: katamtamang light na kulay ng balat", 
+        "mother christmas: katamtamang kulay ng balat", 
         "pasko", 
-        "mother christmas"
+        "dark na kulay ng balat", 
+        "mother christmas", 
+        "katamtamang light na kulay ng balat", 
+        "mother christmas: light na kulay ng balat", 
+        "mother christmas: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "nanay", 
+        "light na kulay ng balat", 
+        "mother christmas: dark na kulay ng balat"
     ], 
     "🤷": [
         "shrug", 
-        "nagkikibit-balikat", 
+        "nagkikibit-balikat: katamtamang dark na kulay ng balat", 
         "nagtataka", 
+        "nagkikibit-balikat: light na kulay ng balat", 
+        "nagkikibit-balikat", 
+        "dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "di-alam", 
+        "nagkikibit-balikat: katamtamang light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "nagkikibit-balikat: katamtamang kulay ng balat", 
+        "light na kulay ng balat", 
+        "nagkikibit-balikat: dark na kulay ng balat", 
+        "walang pakialam"
+    ], 
+    "🤷‍♀️": [
+        "duda", 
+        "di-alam", 
+        "babaeng nagkikibit-balikat", 
+        "kibit-balikat", 
+        "walang pakialam"
+    ], 
+    "🤷‍♂️": [
+        "duda", 
+        "lalaking nagkikibit-balikat", 
+        "di-alam", 
+        "kibit-balikat", 
         "walang pakialam"
     ], 
     "🤸": [
+        "dark na kulay ng balat", 
         "sport", 
-        "gymnastics", 
+        "taong nagka-cartwheel: katamtamang kulay ng balat", 
         "taong nagka-cartwheel", 
+        "taong nagka-cartwheel: katamtamang dark na kulay ng balat", 
+        "taong nagka-cartwheel: light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "taong nagka-cartwheel: dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "gymnastics", 
         "cartwheel", 
-        "tao"
+        "taong nagka-cartwheel: katamtamang light na kulay ng balat", 
+        "light na kulay ng balat", 
+        "tao", 
+        "katamtamang dark na kulay ng balat"
+    ], 
+    "🤸‍♀️": [
+        "babaeng nagka-cartwheel", 
+        "gymnastics", 
+        "babae", 
+        "cartwheel", 
+        "isports"
+    ], 
+    "🤸‍♂️": [
+        "lalaking nagka-cartwheel", 
+        "gymnastics", 
+        "lalaki", 
+        "cartwheel", 
+        "isports"
     ], 
     "🤹": [
-        "skill", 
-        "juggle", 
+        "taong nagja-juggle: dark na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "taong nagja-juggle", 
+        "katamtamang dark na kulay ng balat", 
+        "taong nagja-juggle: light na kulay ng balat", 
         "balanse", 
         "multitask", 
-        "taong nagja-juggle"
+        "taong nagja-juggle: katamtamang dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "taong nagja-juggle: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "taong nagja-juggle: katamtamang kulay ng balat", 
+        "skill", 
+        "light na kulay ng balat", 
+        "juggle"
+    ], 
+    "🤹‍♀️": [
+        "nagja-juggle", 
+        "babaeng nagja-juggle", 
+        "babae", 
+        "multitask"
+    ], 
+    "🤹‍♂️": [
+        "nagja-juggle", 
+        "lalaking nagja-juggle", 
+        "multitask", 
+        "lalaki"
     ], 
     "🤺": [
         "fencing", 
@@ -7252,19 +9731,77 @@
         "mga wrestler", 
         "wrestler"
     ], 
+    "🤼‍♀️": [
+        "wrestler", 
+        "babae", 
+        "nakikipagbuno", 
+        "babaeng nakikipagbuno", 
+        "isports"
+    ], 
+    "🤼‍♂️": [
+        "lalaking nakikipagbuno", 
+        "wrestler", 
+        "nakikipagbuno", 
+        "lalaki", 
+        "isports"
+    ], 
     "🤽": [
-        "polo", 
-        "taong naglalaro ng water polo", 
-        "sport", 
+        "taong naglalaro ng water polo: light na kulay ng balat", 
         "tao", 
-        "water"
+        "light na kulay ng balat", 
+        "taong naglalaro ng water polo: katamtamang kulay ng balat", 
+        "taong naglalaro ng water polo", 
+        "dark na kulay ng balat", 
+        "taong naglalaro ng water polo: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "water", 
+        "katamtamang kulay ng balat", 
+        "taong naglalaro ng water polo: katamtamang light na kulay ng balat", 
+        "polo", 
+        "taong naglalaro ng water polo: dark na kulay ng balat", 
+        "sport", 
+        "katamtamang dark na kulay ng balat"
+    ], 
+    "🤽‍♀️": [
+        "babaeng naglalaro ng water polo", 
+        "water polo", 
+        "babae", 
+        "isports"
+    ], 
+    "🤽‍♂️": [
+        "water polo", 
+        "lalaking naglalaro ng water polo", 
+        "lalaki", 
+        "isports"
     ], 
     "🤾": [
         "bola", 
-        "handball", 
+        "dark na kulay ng balat", 
+        "tao", 
+        "light na kulay ng balat", 
+        "taong naglalaro ng handball: katamtamang kulay ng balat", 
         "taong naglalaro ng handball", 
-        "sport", 
-        "tao"
+        "taong naglalaro ng handball: katamtamang light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "taong naglalaro ng handball: dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "taong naglalaro ng handball: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "handball", 
+        "taong naglalaro ng handball: light na kulay ng balat", 
+        "sport"
+    ], 
+    "🤾‍♀️": [
+        "handball", 
+        "babaeng naglalaro ng handball", 
+        "babae", 
+        "isports"
+    ], 
+    "🤾‍♂️": [
+        "handball", 
+        "lalaking naglalaro ng handball", 
+        "lalaki", 
+        "isports"
     ], 
     "🥀": [
         "lanta", 
@@ -7627,75 +10164,180 @@
         "stuffy"
     ], 
     "🧑": [
+        "adult: katamtamang kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "adult: katamtamang light na kulay ng balat", 
+        "gender-neurtal", 
+        "adult: katamtamang dark na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "adult: dark na kulay ng balat", 
         "adult", 
-        "gender-neurtal"
+        "katamtamang dark na kulay ng balat", 
+        "adult: light na kulay ng balat", 
+        "light na kulay ng balat"
     ], 
     "🧒": [
-        "gender-neutral", 
-        "bata"
+        "bata: katamtamang dark na kulay ng balat", 
+        "bata: katamtamang light na kulay ng balat", 
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "bata", 
+        "bata: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "bata: dark na kulay ng balat", 
+        "bata: light na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "gender-neutral"
     ], 
     "🧓": [
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "matanda", 
         "mas matanda", 
+        "mas matanda: katamtamang kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "mas matanda: light na kulay ng balat", 
+        "mas matanda: katamtamang dark na kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
         "gender-neutral", 
-        "matanda"
+        "mas matanda: dark na kulay ng balat", 
+        "mas matanda: katamtamang light na kulay ng balat"
     ], 
     "🧔": [
+        "dark na kulay ng balat", 
+        "light na kulay ng balat", 
+        "taong may balbas: katamtamang dark na kulay ng balat", 
+        "taong may balbas: light na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
+        "taong may balbas: dark na kulay ng balat", 
+        "taong may balbas: katamtamang light na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "katamtamang dark na kulay ng balat", 
         "balbas", 
+        "taong may balbas: katamtamang kulay ng balat", 
         "taong may balbas"
     ], 
     "🧕": [
-        "headscarf", 
+        "dark na kulay ng balat", 
+        "katamtamang kulay ng balat", 
+        "babae na may headscarf: dark na kulay ng balat", 
+        "babae na may headscarf: light na kulay ng balat", 
+        "babae na may headscarf: katamtamang dark na kulay ng balat", 
+        "katamtamang light na kulay ng balat", 
         "mantilla", 
-        "tichel", 
+        "babae na may headscarf: katamtamang light na kulay ng balat", 
         "babae na may headscarf", 
-        "hijab"
+        "katamtamang dark na kulay ng balat", 
+        "hijab", 
+        "tichel", 
+        "light na kulay ng balat", 
+        "headscarf", 
+        "babae na may headscarf: katamtamang kulay ng balat"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
         "steam room", 
-        "tao na nasa sauna", 
+        "babae na nasa sauna", 
         "sauna"
     ], 
-    "🧗": [
+    "🧖‍♂️": [
+        "steam room", 
+        "tao na nasa sauna", 
+        "lalaki sa sauna", 
+        "sauna"
+    ], 
+    "🧗‍♀️": [
         "tao na umaakyat", 
+        "climber", 
+        "babae na umaakyat"
+    ], 
+    "🧗‍♂️": [
+        "lalaki na umaakyat", 
         "climber"
     ], 
-    "🧘": [
+    "🧘‍♀️": [
         "meditation", 
         "tao na naka-lotus position", 
-        "yoga"
+        "yoga", 
+        "babae na naka-lotus position"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "yoga", 
+        "meditation", 
+        "lalaki na naka-lotus position"
+    ], 
+    "🧙‍♀️": [
         "wizard", 
         "salamangkero", 
-        "mangkukulam"
+        "mangkukulam", 
+        "babaeng salamangkero"
     ], 
-    "🧚": [
+    "🧙‍♂️": [
+        "wizard", 
+        "lalaking salamangkero"
+    ], 
+    "🧚‍♀️": [
         "Puck", 
         "diwata", 
         "Oberon", 
+        "babaeng diwata", 
         "Titania"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "lalaking diwata", 
+        "Puck", 
+        "Oberon"
+    ], 
+    "🧛‍♀️": [
         "buhay na patay", 
+        "babaeng bampira", 
         "bampira", 
         "Drakula"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "buhay na patay", 
+        "lalaking bampira", 
+        "Drakula"
+    ], 
+    "🧜‍♀️": [
+        "babaeng sirena", 
+        "sirena"
+    ], 
+    "🧜‍♂️": [
         "lalaking sirena", 
+        "Triton", 
         "merperson", 
         "sirena"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "babaeng duwende", 
+        "mahiwaga"
+    ], 
+    "🧝‍♂️": [
+        "lalaking duwende", 
         "duwende", 
         "mahiwaga"
     ], 
-    "🧞": [
-        "genie", 
+    "🧞‍♀️": [
+        "babaeng genie", 
         "djinn"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "genie", 
+        "djinn", 
+        "lalaking genie"
+    ], 
+    "🧟‍♀️": [
+        "babaeng zombie", 
+        "buhay na patay", 
+        "walking dead"
+    ], 
+    "🧟‍♂️": [
         "zombie", 
         "buhay na patay", 
+        "lalaking zombie", 
         "walking dead"
     ], 
     "🧠": [

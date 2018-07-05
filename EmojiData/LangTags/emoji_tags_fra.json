@@ -1,4 +1,109 @@
 {
+    "#️⃣": [
+        "keycap", 
+        "keycap : #"
+    ], 
+    "*️⃣": [
+        "keycap", 
+        "keycap : *"
+    ], 
+    "0️⃣": [
+        "keycap", 
+        "keycap : 0"
+    ], 
+    "1️⃣": [
+        "keycap", 
+        "keycap : 1"
+    ], 
+    "2️⃣": [
+        "keycap", 
+        "keycap : 2"
+    ], 
+    "3️⃣": [
+        "keycap", 
+        "keycap : 3"
+    ], 
+    "4️⃣": [
+        "keycap", 
+        "keycap : 4"
+    ], 
+    "5️⃣": [
+        "keycap", 
+        "keycap : 5"
+    ], 
+    "6️⃣": [
+        "keycap", 
+        "keycap : 6"
+    ], 
+    "7️⃣": [
+        "keycap : 7", 
+        "keycap"
+    ], 
+    "8️⃣": [
+        "keycap", 
+        "keycap : 8"
+    ], 
+    "9️⃣": [
+        "keycap", 
+        "keycap : 9"
+    ], 
+    "©️": [
+        "copyright", 
+        "symbole Copyright"
+    ], 
+    "®️": [
+        "marque déposée"
+    ], 
+    "‼️": [
+        "exclamation", 
+        "double point d’exclamation"
+    ], 
+    "⁉️": [
+        "exclamation", 
+        "question", 
+        "point d’exclamation et d’interrogation"
+    ], 
+    "™️": [
+        "marque déposée", 
+        "marque commerciale déposée"
+    ], 
+    "ℹ️": [
+        "i", 
+        "informations", 
+        "source d’informations"
+    ], 
+    "↔️": [
+        "flèche", 
+        "flèche gauche droite"
+    ], 
+    "↕️": [
+        "flèche", 
+        "flèche haut bas"
+    ], 
+    "↖️": [
+        "flèche", 
+        "flèche haut gauche"
+    ], 
+    "↗️": [
+        "flèche", 
+        "flèche haut droite"
+    ], 
+    "↘️": [
+        "flèche", 
+        "flèche bas droite"
+    ], 
+    "↙️": [
+        "flèche", 
+        "flèche bas gauche"
+    ], 
+    "↩️": [
+        "flèche", 
+        "flèche courbe gauche"
+    ], 
+    "↪️": [
+        "flèche", 
+        "flèche courbe droite"
+    ], 
     "⌚": [
         "montre", 
         "heure"
@@ -7,6 +112,14 @@
         "minuteur", 
         "sable", 
         "sablier"
+    ], 
+    "⌨️": [
+        "clavier", 
+        "ordinateur"
+    ], 
+    "⏏️": [
+        "bouton éjecter", 
+        "éjecter"
     ], 
     "⏩": [
         "avance rapide", 
@@ -26,14 +139,81 @@
         "bas", 
         "flèche vers le bas"
     ], 
+    "⏭️": [
+        "bouton piste suivante", 
+        "suivant"
+    ], 
+    "⏮️": [
+        "bouton piste précédente", 
+        "précédent"
+    ], 
+    "⏯️": [
+        "lecture", 
+        "pause", 
+        "bouton lecture/pause"
+    ], 
     "⏰": [
         "heure", 
         "réveil", 
         "alarme"
     ], 
+    "⏱️": [
+        "heure", 
+        "chronomètre"
+    ], 
+    "⏲️": [
+        "horloge", 
+        "heure", 
+        "minuteur"
+    ], 
     "⏳": [
         "sablier", 
         "sablier avec sable qui coule"
+    ], 
+    "⏸️": [
+        "pause", 
+        "bouton pause"
+    ], 
+    "⏹️": [
+        "bouton stop", 
+        "stop"
+    ], 
+    "⏺️": [
+        "bouton enregistrer", 
+        "enregistrer"
+    ], 
+    "Ⓜ️": [
+        "m", 
+        "m encerclé", 
+        "cercle"
+    ], 
+    "▪️": [
+        "petit carré noir", 
+        "géométrie", 
+        "forme"
+    ], 
+    "▫️": [
+        "petit carré blanc", 
+        "géométrie", 
+        "forme"
+    ], 
+    "▶️": [
+        "bouton lecture", 
+        "lecture"
+    ], 
+    "◀️": [
+        "bouton marche arrière", 
+        "retour"
+    ], 
+    "◻️": [
+        "carré moyen blanc", 
+        "géométrie", 
+        "forme"
+    ], 
+    "◼️": [
+        "carré moyen noir", 
+        "géométrie", 
+        "forme"
     ], 
     "◽": [
         "géométrie", 
@@ -45,6 +225,35 @@
         "géométrie", 
         "forme"
     ], 
+    "☀️": [
+        "brillant", 
+        "rayons", 
+        "météo", 
+        "soleil"
+    ], 
+    "☁️": [
+        "nuage", 
+        "météo"
+    ], 
+    "☂️": [
+        "parapluie", 
+        "parapluie ouvert"
+    ], 
+    "☃️": [
+        "neige", 
+        "bonhomme de neige"
+    ], 
+    "☄️": [
+        "comète", 
+        "espace"
+    ], 
+    "☎️": [
+        "téléphone"
+    ], 
+    "☑️": [
+        "case cochée", 
+        "coche"
+    ], 
     "☔": [
         "parapluie", 
         "parapluie avec gouttes de pluie"
@@ -52,6 +261,70 @@
     "☕": [
         "boisson", 
         "boisson chaude"
+    ], 
+    "☘️": [
+        "trèfle", 
+        "plante"
+    ], 
+    "☝️": [
+        "index", 
+        "index pointant vers le haut"
+    ], 
+    "☠️": [
+        "tête", 
+        "os", 
+        "crâne", 
+        "mort", 
+        "tête de mort"
+    ], 
+    "☢️": [
+        "radioactif", 
+        "symbole"
+    ], 
+    "☣️": [
+        "danger biologique", 
+        "danger"
+    ], 
+    "☦️": [
+        "croix orthodoxe", 
+        "croix"
+    ], 
+    "☪️": [
+        "lune et étoile", 
+        "lune", 
+        "étoile"
+    ], 
+    "☮️": [
+        "paix", 
+        "symbole de paix"
+    ], 
+    "☯️": [
+        "yin", 
+        "religion", 
+        "tao", 
+        "yin yang", 
+        "yang"
+    ], 
+    "☸️": [
+        "roue", 
+        "roue de dharma"
+    ], 
+    "☹️": [
+        "mécontent", 
+        "visage mécontent", 
+        "visage"
+    ], 
+    "☺️": [
+        "sourire", 
+        "visage souriant"
+    ], 
+    "♀️": [
+        "symbole de la femme", 
+        "femme"
+    ], 
+    "♂️": [
+        "symbole de l’homme", 
+        "homme"
     ], 
     "♈": [
         "zodiaque", 
@@ -101,14 +374,82 @@
         "poissons", 
         "zodiaque"
     ], 
+    "♠️": [
+        "couleur", 
+        "pique", 
+        "carte", 
+        "jeu"
+    ], 
+    "♣️": [
+        "trèfle", 
+        "trèfle cartes"
+    ], 
+    "♥️": [
+        "cœur cartes", 
+        "cœur"
+    ], 
+    "♦️": [
+        "couleur", 
+        "carreaux", 
+        "carreau", 
+        "carte", 
+        "jeu"
+    ], 
+    "♨️": [
+        "source", 
+        "sources chaudes"
+    ], 
+    "♻️": [
+        "recyclage", 
+        "symbole Recyclage"
+    ], 
     "♿": [
         "accès handicapés", 
         "symbole Accès handicapés"
+    ], 
+    "⚒️": [
+        "marteau et burin", 
+        "marteau"
     ], 
     "⚓": [
         "ancre", 
         "bateau", 
         "outil"
+    ], 
+    "⚔️": [
+        "épées", 
+        "arme", 
+        "épées croisées", 
+        "croisées"
+    ], 
+    "⚕️": [
+        "personnel", 
+        "médecine", 
+        "caducée"
+    ], 
+    "⚖️": [
+        "balance", 
+        "balance à poids"
+    ], 
+    "⚗️": [
+        "alambic", 
+        "outil"
+    ], 
+    "⚙️": [
+        "roue dentée", 
+        "outil"
+    ], 
+    "⚛️": [
+        "atome", 
+        "symbole de l’atome", 
+        "athée"
+    ], 
+    "⚜️": [
+        "fleur de lys"
+    ], 
+    "⚠️": [
+        "avertissement", 
+        "symbole d’avertissement"
     ], 
     "⚡": [
         "symbole de haute tension", 
@@ -122,6 +463,14 @@
     "⚫": [
         "cercle noir", 
         "cercle"
+    ], 
+    "⚰️": [
+        "cercueil", 
+        "mort"
+    ], 
+    "⚱️": [
+        "urne", 
+        "urne funéraire"
     ], 
     "⚽": [
         "football", 
@@ -140,13 +489,36 @@
         "nuageux", 
         "soleil"
     ], 
+    "⛈️": [
+        "nuage", 
+        "nuage avec éclair et pluie"
+    ], 
     "⛎": [
         "zodiaque", 
         "serpentaire"
     ], 
+    "⛏️": [
+        "pioche", 
+        "mine", 
+        "outil"
+    ], 
+    "⛑️": [
+        "blanche", 
+        "croix", 
+        "casque de secouriste", 
+        "casque"
+    ], 
+    "⛓️": [
+        "chaîne", 
+        "chaînes"
+    ], 
     "⛔": [
         "sens interdit", 
         "interdit"
+    ], 
+    "⛩️": [
+        "sanctuaire shinto", 
+        "shinto"
     ], 
     "⛪": [
         "croix", 
@@ -154,6 +526,16 @@
         "chrétien", 
         "bâtiment", 
         "église"
+    ], 
+    "⛰️": [
+        "montagne"
+    ], 
+    "⛱️": [
+        "parapluie", 
+        "soleil", 
+        "météo", 
+        "pluie", 
+        "parasol sur le sol"
     ], 
     "⛲": [
         "fontaine"
@@ -163,9 +545,26 @@
         "drapeau de golf", 
         "trou"
     ], 
+    "⛴️": [
+        "ferry", 
+        "bateau"
+    ], 
     "⛵": [
         "voilier", 
         "bateau"
+    ], 
+    "⛷️": [
+        "skieur", 
+        "sport"
+    ], 
+    "⛸️": [
+        "patin à glace", 
+        "patin", 
+        "glace"
+    ], 
+    "⛹️‍♂️": [
+        "sport", 
+        "personne avec ballon"
     ], 
     "⛺": [
         "tente", 
@@ -176,24 +575,107 @@
         "essence", 
         "station"
     ], 
+    "✂️": [
+        "ciseaux", 
+        "fournitures"
+    ], 
     "✅": [
         "marque", 
         "sélection", 
         "coche blanche"
     ], 
+    "✈️": [
+        "véhicule", 
+        "avion"
+    ], 
+    "✉️": [
+        "e-mail", 
+        "courrier électronique", 
+        "enveloppe"
+    ], 
     "✊": [
+        "poing levé : peau 1", 
+        "poing levé : peau 3", 
         "poing levé", 
+        "poing levé : peau 5", 
+        "poing levé : peau 4", 
+        "pierre", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
         "poing", 
-        "pierre"
+        "poing levé : peau 2", 
+        "peau 5", 
+        "peau 4"
     ], 
     "✋": [
+        "main levée : peau 4", 
         "feuille", 
-        "main", 
-        "main levée"
+        "main levée : peau 1", 
+        "main levée : peau 2", 
+        "main levée : peau 3", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "main levée", 
+        "peau 4", 
+        "main levée : peau 5", 
+        "peau 5", 
+        "main"
+    ], 
+    "✌️": [
+        "ciseaux", 
+        "V de la victoire", 
+        "victoire"
+    ], 
+    "✍️": [
+        "écrire", 
+        "main qui écrit"
+    ], 
+    "✏️": [
+        "crayon"
+    ], 
+    "✒️": [
+        "stylo", 
+        "stylo plume noir"
+    ], 
+    "✔️": [
+        "coche", 
+        "coche noire"
+    ], 
+    "✖️": [
+        "annuler", 
+        "multiplication", 
+        "croix noire", 
+        "x", 
+        "multiplier"
+    ], 
+    "✝️": [
+        "croix latine", 
+        "croix"
+    ], 
+    "✡️": [
+        "étoile de david", 
+        "étoile"
     ], 
     "✨": [
         "étoiles", 
         "étoile"
+    ], 
+    "✳️": [
+        "astérique", 
+        "astérique huit branches"
+    ], 
+    "✴️": [
+        "étoile huit branches", 
+        "étoile"
+    ], 
+    "❄️": [
+        "flocon", 
+        "neige"
+    ], 
+    "❇️": [
+        "éclat"
     ], 
     "❌": [
         "annuler", 
@@ -222,6 +704,14 @@
         "exclamation", 
         "point d’exclamation"
     ], 
+    "❣️": [
+        "cœur point d’exclamation", 
+        "cœur"
+    ], 
+    "❤️": [
+        "cœur rouge", 
+        "cœur"
+    ], 
     "➕": [
         "plus", 
         "signe Plus"
@@ -234,6 +724,10 @@
         "division", 
         "signe Diviser"
     ], 
+    "➡️": [
+        "flèche", 
+        "flèche droite"
+    ], 
     "➰": [
         "bouclette", 
         "boucle"
@@ -241,6 +735,26 @@
     "➿": [
         "double boucle", 
         "boucle"
+    ], 
+    "⤴️": [
+        "flèche", 
+        "flèche courbe haut"
+    ], 
+    "⤵️": [
+        "flèche", 
+        "flèche courbe bas"
+    ], 
+    "⬅️": [
+        "flèche", 
+        "flèche gauche"
+    ], 
+    "⬆️": [
+        "flèche", 
+        "flèche haut"
+    ], 
+    "⬇️": [
+        "flèche", 
+        "flèche bas"
     ], 
     "⬛": [
         "grand carré noir", 
@@ -259,6 +773,22 @@
         "gros cercle", 
         "cercle"
     ], 
+    "〰️": [
+        "ligne ondulée", 
+        "vague"
+    ], 
+    "〽️": [
+        "alternance", 
+        "symbole"
+    ], 
+    "㊗️": [
+        "chinois", 
+        "bouton félicitations en japonais"
+    ], 
+    "㊙️": [
+        "chinois", 
+        "bouton secret en japonais"
+    ], 
     "🀄": [
         "rouge", 
         "mahjong", 
@@ -268,6 +798,25 @@
     "🃏": [
         "Joker", 
         "carte Joker"
+    ], 
+    "🅰️": [
+        "A", 
+        "groupe sanguin A", 
+        "groupe sanguin"
+    ], 
+    "🅱️": [
+        "B", 
+        "groupe sanguin B", 
+        "groupe sanguin"
+    ], 
+    "🅾️": [
+        "O", 
+        "groupe sanguin O", 
+        "groupe sanguin"
+    ], 
+    "🅿️": [
+        "bouton P", 
+        "parking"
     ], 
     "🆎": [
         "AB", 
@@ -1352,6 +1901,10 @@
         "japonais", 
         "bouton ici en japonais"
     ], 
+    "🈂️": [
+        "japonais", 
+        "bouton frais de service en japonais"
+    ], 
     "🈚": [
         "bouton gratuit en japonais", 
         "japonais"
@@ -1379,6 +1932,10 @@
     "🈶": [
         "bouton pas gratuit en japonais", 
         "japonais"
+    ], 
+    "🈷️": [
+        "japonais", 
+        "bouton montant mensuel en japonais"
     ], 
     "🈸": [
         "chinois", 
@@ -1537,6 +2094,52 @@
         "étoile filante", 
         "étoile"
     ], 
+    "🌡️": [
+        "thermomètre", 
+        "météo"
+    ], 
+    "🌤️": [
+        "nuage", 
+        "soleil derrière un petit nuage"
+    ], 
+    "🌥️": [
+        "nuage", 
+        "soleil derrière un gros nuage"
+    ], 
+    "🌦️": [
+        "nuage", 
+        "soleil derrière un nuage de pluie"
+    ], 
+    "🌧️": [
+        "nuage", 
+        "nuage avec pluie"
+    ], 
+    "🌨️": [
+        "nuage", 
+        "nuage avec neige"
+    ], 
+    "🌩️": [
+        "nuage avec éclair", 
+        "nuage"
+    ], 
+    "🌪️": [
+        "tourbillon", 
+        "nuage", 
+        "tornade", 
+        "météo"
+    ], 
+    "🌫️": [
+        "nuage", 
+        "météo", 
+        "brouillard"
+    ], 
+    "🌬️": [
+        "visage", 
+        "souffle", 
+        "vent avec visage", 
+        "météo", 
+        "vent"
+    ], 
     "🌭": [
         "hot dog", 
         "saucisse", 
@@ -1576,6 +2179,10 @@
     "🌵": [
         "cactus", 
         "plante"
+    ], 
+    "🌶️": [
+        "piment", 
+        "piment rouge"
     ], 
     "🌷": [
         "tulipe", 
@@ -1890,6 +2497,13 @@
         "lait", 
         "bébé"
     ], 
+    "🍽️": [
+        "cuisine", 
+        "assiette", 
+        "couteau", 
+        "assiette et couverts", 
+        "fourchette"
+    ], 
     "🍾": [
         "boisson", 
         "bouteille", 
@@ -1921,9 +2535,19 @@
         "noël"
     ], 
     "🎅": [
-        "père Noël", 
+        "père Noël : peau 4", 
+        "père Noël : peau 5", 
         "père", 
-        "noël"
+        "noël", 
+        "père Noël : peau 1", 
+        "père Noël : peau 2", 
+        "père Noël : peau 3", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "père Noël"
     ], 
     "🎆": [
         "feu d’artifice", 
@@ -1989,6 +2613,38 @@
     "🎓": [
         "chapeau", 
         "toque universitaire"
+    ], 
+    "🎖️": [
+        "médaille militaire", 
+        "médaille"
+    ], 
+    "🎗️": [
+        "ruban", 
+        "ruban de mémoire"
+    ], 
+    "🎙️": [
+        "micro", 
+        "micro de studio"
+    ], 
+    "🎚️": [
+        "curseur", 
+        "niveau", 
+        "curseur de niveau", 
+        "musique"
+    ], 
+    "🎛️": [
+        "boutons de contrôle", 
+        "boutons"
+    ], 
+    "🎞️": [
+        "cinéma", 
+        "pellicule", 
+        "film", 
+        "bande"
+    ], 
+    "🎟️": [
+        "billet d’entrée", 
+        "spectacle"
     ], 
     "🎠": [
         "manège", 
@@ -2144,16 +2800,46 @@
         "drapeau à damiers"
     ], 
     "🏂": [
+        "snowboardeur : peau 4", 
+        "snowboardeur", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "snowboardeur : peau 5", 
         "sport", 
-        "snowboardeur"
+        "snowboardeur : peau 3", 
+        "snowboardeur : peau 2", 
+        "snowboardeur : peau 1"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "jogging", 
+        "femme qui court", 
+        "course à pied", 
+        "marathon", 
+        "femme"
+    ], 
+    "🏃‍♂️": [
+        "course à pied", 
+        "personne qui court", 
+        "homme qui court", 
+        "jogging", 
         "coureur", 
-        "personne qui court"
+        "marathon", 
+        "homme"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "surf", 
+        "surfeuse", 
+        "femme"
+    ], 
+    "🏄‍♂️": [
+        "surf", 
         "sport", 
-        "personne faisant du surf"
+        "surfeur", 
+        "personne faisant du surf", 
+        "homme"
     ], 
     "🏅": [
         "médaille sportive", 
@@ -2164,6 +2850,16 @@
         "trophée"
     ], 
     "🏇": [
+        "course hippique : peau 5", 
+        "course hippique : peau 4", 
+        "course hippique : peau 1", 
+        "course hippique : peau 3", 
+        "course hippique : peau 2", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "sport", 
         "course hippique"
     ], 
@@ -2175,9 +2871,35 @@
         "sport", 
         "rugby"
     ], 
-    "🏊": [
+    "🏊‍♀️": [
+        "nageuse", 
+        "nage", 
+        "femme"
+    ], 
+    "🏊‍♂️": [
+        "nage", 
         "sport", 
-        "personne nageant"
+        "nageur", 
+        "personne nageant", 
+        "homme"
+    ], 
+    "🏋️‍♂️": [
+        "haltérophile", 
+        "sport"
+    ], 
+    "🏌️‍♂️": [
+        "joueur de golf", 
+        "golf", 
+        "balle"
+    ], 
+    "🏍️": [
+        "course", 
+        "moto"
+    ], 
+    "🏎️": [
+        "course", 
+        "voiture de course", 
+        "voiture"
     ], 
     "🏏": [
         "cricket", 
@@ -2203,6 +2925,53 @@
         "raquette", 
         "ping-pong", 
         "jeu"
+    ], 
+    "🏔️": [
+        "montagne enneigée", 
+        "montagne"
+    ], 
+    "🏕️": [
+        "camping"
+    ], 
+    "🏖️": [
+        "plage", 
+        "plage avec parasol", 
+        "parasol"
+    ], 
+    "🏗️": [
+        "construction", 
+        "construction d’un bâtiment"
+    ], 
+    "🏘️": [
+        "maisons", 
+        "maison", 
+        "bâtiment"
+    ], 
+    "🏙️": [
+        "ville", 
+        "bâtiment"
+    ], 
+    "🏚️": [
+        "maison", 
+        "maison abandonnée"
+    ], 
+    "🏛️": [
+        "monument classique", 
+        "monument"
+    ], 
+    "🏜️": [
+        "désert"
+    ], 
+    "🏝️": [
+        "île", 
+        "île déserte"
+    ], 
+    "🏞️": [
+        "parc national", 
+        "nature"
+    ], 
+    "🏟️": [
+        "stade"
     ], 
     "🏠": [
         "pavillon", 
@@ -2281,6 +3050,15 @@
         "bâtiment", 
         "château"
     ], 
+    "🏳️": [
+        "drapeau blanc", 
+        "drapeau"
+    ], 
+    "🏳️‍🌈": [
+        "arc-en-ciel", 
+        "drapeau", 
+        "drapeau arc-en-ciel"
+    ], 
     "🏴": [
         "drapeau noir", 
         "drapeau"
@@ -2296,6 +3074,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "drapeau", 
         "Pays de Galles"
+    ], 
+    "🏵️": [
+        "rosette", 
+        "plante"
+    ], 
+    "🏷️": [
+        "étiquette"
     ], 
     "🏸": [
         "volant", 
@@ -2601,19 +3386,47 @@
         "empreintes", 
         "pattes"
     ], 
+    "🐿️": [
+        "écureuil", 
+        "animal"
+    ], 
     "👀": [
         "yeux", 
         "visage", 
         "corps", 
         "œil"
     ], 
+    "👁️": [
+        "corps", 
+        "œil"
+    ], 
     "👂": [
         "oreille", 
-        "corps"
+        "corps", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "oreille : peau 3", 
+        "oreille : peau 2", 
+        "oreille : peau 1", 
+        "oreille : peau 5", 
+        "oreille : peau 4"
     ], 
     "👃": [
+        "corps", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
         "nez", 
-        "corps"
+        "peau 4", 
+        "nez : peau 5", 
+        "nez : peau 4", 
+        "peau 5", 
+        "nez : peau 1", 
+        "nez : peau 2", 
+        "nez : peau 3"
     ], 
     "👄": [
         "bouche", 
@@ -2626,57 +3439,167 @@
     ], 
     "👆": [
         "index", 
-        "main avec index pointant vers le haut"
+        "peau 3", 
+        "peau 1", 
+        "main avec index pointant vers le haut : peau 2", 
+        "main avec index pointant vers le haut : peau 1", 
+        "peau 2", 
+        "peau 5", 
+        "main avec index pointant vers le haut", 
+        "main avec index pointant vers le haut : peau 5", 
+        "main avec index pointant vers le haut : peau 4", 
+        "main avec index pointant vers le haut : peau 3", 
+        "peau 4"
     ], 
     "👇": [
-        "main avec index pointant vers le bas", 
         "index", 
+        "bas", 
+        "peau 1", 
+        "main avec index pointant vers le bas : peau 4", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "main avec index pointant vers le bas", 
+        "main avec index pointant vers le bas : peau 5", 
         "main", 
-        "bas"
+        "main avec index pointant vers le bas : peau 1", 
+        "main avec index pointant vers le bas : peau 2", 
+        "main avec index pointant vers le bas : peau 3"
     ], 
     "👈": [
-        "main", 
+        "main avec index pointant à gauche : peau 3", 
         "index", 
         "gauche", 
+        "peau 3", 
+        "peau 1", 
+        "main avec index pointant à gauche : peau 2", 
+        "main avec index pointant à gauche : peau 1", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "main avec index pointant à gauche : peau 5", 
+        "main avec index pointant à gauche : peau 4", 
+        "main", 
         "main avec index pointant à gauche"
     ], 
     "👉": [
-        "main avec index pointant à droite", 
         "droite", 
-        "main", 
-        "index"
+        "main avec index pointant à droite", 
+        "index", 
+        "main avec index pointant à droite : peau 1", 
+        "main avec index pointant à droite : peau 3", 
+        "main avec index pointant à droite : peau 2", 
+        "main avec index pointant à droite : peau 5", 
+        "main avec index pointant à droite : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "main"
     ], 
     "👊": [
         "poing de face", 
-        "main", 
+        "coup de poing", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
         "poing", 
-        "coup de poing"
+        "peau 4", 
+        "poing de face : peau 5", 
+        "poing de face : peau 4", 
+        "peau 5", 
+        "main", 
+        "poing de face : peau 1", 
+        "poing de face : peau 2", 
+        "poing de face : peau 3"
     ], 
     "👋": [
+        "signe de la main : peau 3", 
+        "signe de la main : peau 2", 
+        "signe de la main : peau 1", 
+        "signe de la main : peau 5", 
+        "signe de la main : peau 4", 
         "signe de la main", 
-        "main", 
-        "coucou"
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "coucou", 
+        "peau 4", 
+        "peau 5", 
+        "main"
     ], 
     "👌": [
-        "main", 
+        "ok : peau 1", 
+        "ok : peau 2", 
+        "ok : peau 3", 
         "ok", 
-        "geste"
+        "ok : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "geste", 
+        "ok : peau 4", 
+        "main"
     ], 
     "👍": [
-        "super", 
-        "pouce vers le haut"
+        "pouce vers le haut", 
+        "pouce vers le haut : peau 3", 
+        "pouce vers le haut : peau 2", 
+        "pouce vers le haut : peau 1", 
+        "pouce vers le haut : peau 5", 
+        "pouce vers le haut : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "super"
     ], 
     "👎": [
+        "peau 3", 
+        "pouce vers le bas : peau 3", 
+        "pouce vers le bas : peau 2", 
+        "peau 1", 
+        "pouce vers le bas : peau 1", 
+        "nul", 
+        "peau 2", 
+        "pouce vers le bas : peau 4", 
+        "peau 4", 
         "pouce vers le bas", 
-        "nul"
+        "peau 5", 
+        "pouce vers le bas : peau 5"
     ], 
     "👏": [
+        "applaudissements : peau 2", 
+        "applaudissements : peau 3", 
+        "applaudissements : peau 1", 
+        "applaudissements : peau 4", 
+        "applaudissements", 
+        "applaudissements : peau 5", 
         "bravo", 
-        "applaudissements"
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4"
     ], 
     "👐": [
-        "main", 
         "mains ouvertes", 
+        "mains ouvertes : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "mains ouvertes : peau 3", 
+        "mains ouvertes : peau 2", 
+        "mains ouvertes : peau 1", 
+        "main", 
+        "mains ouvertes : peau 5", 
         "ouvert"
     ], 
     "👑": [
@@ -2773,57 +3696,190 @@
         "bustes"
     ], 
     "👦": [
-        "garçon", 
-        "masculin"
+        "garçon : peau 1", 
+        "garçon : peau 2", 
+        "garçon : peau 3", 
+        "garçon : peau 4", 
+        "garçon : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "masculin", 
+        "garçon"
     ], 
     "👧": [
+        "peau 1", 
+        "fille : peau 5", 
+        "fille : peau 4", 
+        "fille : peau 3", 
+        "fille : peau 2", 
+        "fille : peau 1", 
         "zodiaque", 
         "fille", 
-        "vierge"
+        "peau 3", 
+        "peau 2", 
+        "vierge", 
+        "peau 4", 
+        "peau 5"
     ], 
     "👨": [
+        "homme : peau 1", 
+        "homme : peau 3", 
+        "homme : peau 2", 
+        "homme : peau 5", 
+        "homme : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "homme"
     ], 
+    "👨‍⚕️": [
+        "docteur", 
+        "infirmier", 
+        "homme profession médicale", 
+        "santé", 
+        "homme"
+    ], 
+    "👨‍⚖️": [
+        "justice", 
+        "balance", 
+        "juge homme", 
+        "homme"
+    ], 
+    "👨‍✈️": [
+        "pilote homme", 
+        "avion", 
+        "pilote", 
+        "homme"
+    ], 
+    "👨‍❤️‍👨": [
+        "cœur", 
+        "couple", 
+        "couple avec cœur : homme et homme", 
+        "amour", 
+        "couple avec cœur", 
+        "homme"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "bisou : homme et homme", 
+        "couple", 
+        "homme", 
+        "bisou"
+    ], 
     "👨‍🌾": [
+        "fermier : peau 5", 
         "jardinier", 
         "agriculteur", 
-        "homme", 
-        "fermier"
+        "fermier : peau 4", 
+        "fermier : peau 1", 
+        "fermier : peau 3", 
+        "fermier : peau 2", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "fermier", 
+        "homme"
     ], 
     "👨‍🍳": [
-        "chef", 
+        "peau 1", 
         "cuisinier", 
+        "cuisinier : peau 4", 
+        "chef", 
+        "peau 3", 
+        "peau 2", 
+        "cuisinier : peau 2", 
+        "cuisinier : peau 3", 
+        "cuisinier : peau 1", 
+        "peau 5", 
+        "cuisinier : peau 5", 
+        "peau 4", 
         "homme"
     ], 
     "👨‍🎓": [
         "diplômé", 
+        "étudiant : peau 2", 
+        "étudiant : peau 3", 
+        "étudiant : peau 1", 
+        "étudiant : peau 4", 
+        "étudiant : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "étudiant", 
         "homme"
     ], 
     "👨‍🎤": [
-        "chanteur", 
         "artiste", 
         "star", 
-        "rock"
+        "chanteur : peau 4", 
+        "chanteur : peau 5", 
+        "chanteur : peau 1", 
+        "chanteur : peau 2", 
+        "chanteur : peau 3", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "rock", 
+        "chanteur"
     ], 
     "👨‍🎨": [
         "artiste", 
         "palette", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "artiste homme", 
+        "artiste homme : peau 5", 
+        "artiste homme : peau 4", 
+        "artiste homme : peau 3", 
+        "artiste homme : peau 2", 
+        "artiste homme : peau 1", 
         "homme"
     ], 
     "👨‍🏫": [
-        "professeur", 
-        "instituteur", 
+        "enseignant : peau 2", 
+        "peau 2", 
         "instructeur", 
         "enseignant", 
+        "professeur", 
+        "peau 1", 
+        "enseignant : peau 3", 
+        "peau 3", 
+        "enseignant : peau 1", 
+        "peau 5", 
+        "peau 4", 
+        "enseignant : peau 4", 
+        "enseignant : peau 5", 
+        "instituteur", 
         "homme"
     ], 
     "👨‍🏭": [
+        "ouvrier : peau 5", 
+        "ouvrier : peau 4", 
+        "ouvrier : peau 1", 
+        "ouvrier : peau 3", 
+        "ouvrier : peau 2", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "ouvrier", 
         "industrie", 
         "usine", 
-        "assemblage", 
-        "ouvrier"
+        "assemblage"
     ], 
     "👨‍👦": [
         "famille : homme et garçon", 
@@ -2969,88 +4025,277 @@
         "femme"
     ], 
     "👨‍💻": [
+        "informaticien : peau 3", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "logiciels", 
         "développeur", 
         "informaticien", 
+        "informaticien : peau 5", 
+        "informaticien : peau 4", 
         "technologie", 
-        "logiciels", 
+        "informaticien : peau 2", 
+        "informaticien : peau 1", 
         "homme"
     ], 
     "👨‍💼": [
-        "architecte", 
         "employé de bureau", 
+        "employé de bureau : peau 4", 
+        "employé de bureau : peau 5", 
         "affaires", 
+        "employé de bureau : peau 3", 
+        "employé de bureau : peau 2", 
+        "employé de bureau : peau 1", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
         "bureau", 
+        "peau 4", 
+        "architecte", 
+        "peau 5", 
         "homme"
     ], 
     "👨‍🔧": [
-        "mécanicien", 
+        "mécanicien : peau 1", 
         "électricien", 
+        "mécanicien : peau 3", 
+        "mécanicien : peau 4", 
+        "mécanicien : peau 5", 
         "mécanique", 
+        "mécanicien : peau 2", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "plombier", 
+        "mécanicien", 
         "homme"
     ], 
     "👨‍🔬": [
-        "chimiste", 
+        "scientifique homme : peau 5", 
+        "scientifique homme : peau 2", 
         "scientifique", 
+        "peau 1", 
+        "scientifique homme : peau 4", 
+        "peau 3", 
+        "peau 2", 
+        "scientifique homme : peau 1", 
+        "peau 4", 
+        "scientifique homme : peau 3", 
         "scientifique homme", 
+        "peau 5", 
+        "chimiste", 
         "homme"
     ], 
     "👨‍🚀": [
-        "astronaute", 
-        "astronaute homme", 
-        "homme", 
+        "peau 1", 
+        "astronaute homme : peau 4", 
         "fusée", 
-        "espace"
+        "espace", 
+        "astronaute homme", 
+        "astronaute homme : peau 5", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "astronaute homme : peau 1", 
+        "astronaute homme : peau 2", 
+        "astronaute homme : peau 3", 
+        "astronaute", 
+        "peau 4", 
+        "homme"
     ], 
     "👨‍🚒": [
+        "pompier homme : peau 2", 
+        "camion de pompiers", 
         "pompier homme", 
-        "homme", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "pompier homme : peau 1", 
+        "pompier homme : peau 3", 
         "pompier", 
-        "camion de pompiers"
+        "pompier homme : peau 5", 
+        "pompier homme : peau 4", 
+        "homme"
     ], 
     "👩": [
+        "femme : peau 1", 
+        "femme : peau 3", 
+        "femme : peau 2", 
+        "femme : peau 5", 
+        "femme : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "femme"
+    ], 
+    "👩‍⚕️": [
+        "docteur", 
+        "femme profession médicale", 
+        "santé", 
+        "infirmière", 
+        "femme"
+    ], 
+    "👩‍⚖️": [
+        "juge", 
+        "balance", 
+        "juge femme", 
+        "femme"
+    ], 
+    "👩‍✈️": [
+        "pilote femme", 
+        "avion", 
+        "pilote", 
+        "femme"
+    ], 
+    "👩‍❤️‍👨": [
+        "cœur", 
+        "couple", 
+        "couple avec cœur : femme et homme", 
+        "amour", 
+        "couple avec cœur", 
+        "homme", 
+        "femme"
+    ], 
+    "👩‍❤️‍👩": [
+        "cœur", 
+        "couple", 
+        "couple avec cœur : femme et femme", 
+        "amour", 
+        "couple avec cœur", 
+        "femme"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "bisou : femme et homme", 
+        "couple", 
+        "femme", 
+        "homme", 
+        "bisou"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "couple", 
+        "femme", 
+        "bisou : femme et femme", 
+        "bisou"
     ], 
     "👩‍🌾": [
+        "peau 1", 
+        "fermière", 
+        "fermière : peau 5", 
         "agricultrice", 
         "jardinière", 
-        "fermière", 
-        "femme"
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "fermière : peau 4", 
+        "femme", 
+        "fermière : peau 2", 
+        "fermière : peau 3", 
+        "fermière : peau 1"
     ], 
     "👩‍🍳": [
-        "chef", 
+        "cuisinière : peau 1", 
+        "peau 1", 
+        "cuisinière : peau 3", 
         "cuisinière", 
+        "cuisinière : peau 5", 
+        "cuisinière : peau 4", 
+        "cuisinière : peau 2", 
+        "chef", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "femme"
     ], 
     "👩‍🎓": [
+        "peau 5", 
+        "étudiante : peau 5", 
+        "peau 3", 
+        "étudiante : peau 4", 
+        "peau 1", 
         "étudiante", 
+        "peau 2", 
         "diplômée", 
+        "étudiante : peau 3", 
+        "étudiante : peau 1", 
+        "étudiante : peau 2", 
+        "peau 4", 
         "femme"
     ], 
     "👩‍🎤": [
         "artiste", 
-        "rock", 
         "star", 
+        "chanteuse : peau 1", 
+        "chanteuse : peau 3", 
+        "chanteuse : peau 2", 
+        "chanteuse : peau 5", 
+        "chanteuse : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "rock", 
         "chanteuse"
     ], 
     "👩‍🎨": [
         "artiste", 
         "palette", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "artiste femme", 
+        "artiste femme : peau 5", 
+        "artiste femme : peau 4", 
+        "artiste femme : peau 3", 
+        "artiste femme : peau 2", 
+        "artiste femme : peau 1", 
         "femme"
     ], 
     "👩‍🏫": [
+        "enseignante : peau 5", 
         "enseignante", 
-        "institutrice", 
-        "instructrice", 
+        "enseignante : peau 3", 
+        "enseignante : peau 4", 
         "professeure", 
+        "institutrice", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "enseignante : peau 2", 
+        "instructrice", 
+        "enseignante : peau 1", 
+        "peau 5", 
+        "peau 4", 
         "femme"
     ], 
     "👩‍🏭": [
+        "ouvrière", 
+        "ouvrière : peau 5", 
+        "ouvrière : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "industrie", 
         "usine", 
-        "ouvrière", 
-        "assemblage"
+        "ouvrière : peau 2", 
+        "ouvrière : peau 3", 
+        "assemblage", 
+        "ouvrière : peau 1"
     ], 
     "👩‍👦": [
         "famille : femme et garçon", 
@@ -3145,50 +4390,104 @@
         "femme"
     ], 
     "👩‍💻": [
-        "technologie", 
-        "femme", 
+        "informaticienne : peau 4", 
         "informaticienne", 
+        "informaticienne : peau 1", 
+        "informaticienne : peau 2", 
+        "informaticienne : peau 3", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "logiciels", 
-        "développeuse"
+        "développeuse", 
+        "informaticienne : peau 5", 
+        "technologie", 
+        "femme"
     ], 
     "👩‍💼": [
-        "architecte", 
+        "employée de bureau : peau 3", 
         "employée de bureau", 
+        "employée de bureau : peau 1", 
+        "employée de bureau : peau 5", 
+        "employée de bureau : peau 2", 
         "affaires", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
         "bureau", 
+        "peau 4", 
+        "architecte", 
+        "peau 5", 
+        "employée de bureau : peau 4", 
         "femme"
     ], 
     "👩‍🔧": [
         "mécanique", 
-        "femme", 
+        "électricienne", 
         "mécanicienne", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "plombier", 
-        "électricienne"
+        "mécanicienne : peau 3", 
+        "mécanicienne : peau 2", 
+        "mécanicienne : peau 1", 
+        "mécanicienne : peau 4", 
+        "mécanicienne : peau 5", 
+        "femme"
     ], 
     "👩‍🔬": [
-        "chimiste", 
-        "scientifique", 
         "scientifique femme", 
+        "scientifique femme : peau 1", 
+        "scientifique femme : peau 3", 
+        "scientifique femme : peau 2", 
+        "scientifique femme : peau 5", 
+        "scientifique femme : peau 4", 
+        "scientifique", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "chimiste", 
         "femme"
     ], 
     "👩‍🚀": [
-        "astronaute", 
-        "astronaute femme", 
-        "femme", 
+        "astronaute femme : peau 1", 
+        "astronaute femme : peau 5", 
+        "astronaute femme : peau 4", 
         "fusée", 
-        "espace"
+        "astronaute femme : peau 2", 
+        "espace", 
+        "peau 1", 
+        "astronaute femme", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "astronaute", 
+        "astronaute femme : peau 3", 
+        "femme"
     ], 
     "👩‍🚒": [
-        "femme", 
+        "pompier femme : peau 2", 
+        "camion de pompiers", 
         "pompier", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "pompier femme : peau 1", 
+        "pompier femme : peau 3", 
         "pompier femme", 
-        "camion de pompiers"
-    ], 
-    "👪": [
-        "mère", 
-        "père", 
-        "famille", 
-        "enfant"
+        "pompier femme : peau 5", 
+        "pompier femme : peau 4", 
+        "femme"
     ], 
     "👫": [
         "homme et femme se tenant la main", 
@@ -3206,61 +4505,162 @@
         "couple", 
         "deux femmes se tenant la main"
     ], 
-    "👮": [
+    "👮‍♀️": [
         "officier", 
-        "officier de police", 
         "police", 
-        "flic"
+        "policière", 
+        "flic", 
+        "femme"
     ], 
-    "👯": [
+    "👮‍♂️": [
+        "police", 
+        "officier de police", 
+        "policier", 
+        "officier", 
+        "flic", 
+        "homme"
+    ], 
+    "👯‍♀️": [
+        "oreilles de lapin", 
+        "personnes avec des oreilles de lapin", 
+        "femmes avec des oreilles de lapin", 
         "oreilles", 
         "fille", 
         "danseuse", 
-        "personnes avec des oreilles de lapin", 
+        "fête", 
         "femme"
     ], 
-    "👰": [
-        "mariage", 
-        "voile", 
-        "mariée avec voile", 
-        "mariée"
+    "👯‍♂️": [
+        "hommes avec des oreilles de lapin", 
+        "danseur", 
+        "oreilles de lapin", 
+        "fête", 
+        "homme"
     ], 
-    "👱": [
+    "👰": [
+        "mariée", 
+        "peau 3", 
+        "peau 1", 
+        "voile", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "mariée avec voile : peau 3", 
+        "mariée avec voile : peau 2", 
+        "mariage", 
+        "mariée avec voile : peau 1", 
+        "mariée avec voile : peau 4", 
+        "mariée avec voile", 
+        "mariée avec voile : peau 5"
+    ], 
+    "👱‍♀️": [
+        "femme blonde", 
+        "blond", 
+        "femme"
+    ], 
+    "👱‍♂️": [
+        "homme blond", 
+        "homme", 
         "blond", 
         "personne blonde"
     ], 
     "👲": [
-        "casquette mao", 
-        "homme avec casquette chinoise", 
+        "peau 2", 
+        "homme avec casquette chinoise : peau 3", 
+        "homme avec casquette chinoise : peau 2", 
+        "homme avec casquette chinoise : peau 1", 
         "chapeau", 
+        "homme avec casquette chinoise : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "casquette mao", 
+        "peau 5", 
+        "peau 4", 
+        "homme avec casquette chinoise", 
+        "homme avec casquette chinoise : peau 5", 
         "homme"
     ], 
-    "👳": [
+    "👳‍♀️": [
+        "turban", 
+        "femme en turban", 
+        "femme"
+    ], 
+    "👳‍♂️": [
         "personne en turban", 
-        "turban"
+        "homme en turban", 
+        "turban", 
+        "homme"
     ], 
     "👴": [
-        "homme", 
+        "homme âgé : peau 5", 
+        "homme âgé : peau 4", 
+        "homme âgé : peau 1", 
+        "homme âgé : peau 3", 
+        "homme âgé : peau 2", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "homme âgé", 
-        "âgé"
+        "âgé", 
+        "homme"
     ], 
     "👵": [
+        "femme âgée : peau 5", 
+        "femme âgée : peau 4", 
+        "femme âgée : peau 3", 
+        "femme âgée : peau 2", 
+        "femme âgée : peau 1", 
         "âgée", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "femme âgée", 
         "femme"
     ], 
     "👶": [
-        "bébé"
+        "bébé : peau 2", 
+        "bébé : peau 1", 
+        "bébé : peau 4", 
+        "peau 1", 
+        "bébé : peau 3", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "bébé", 
+        "bébé : peau 5"
     ], 
-    "👷": [
-        "personnel du bâtiment", 
-        "casque", 
+    "👷‍♀️": [
+        "ouvrière du bâtiment", 
+        "ouvrière", 
         "bâtiment", 
-        "ouvrier"
+        "femme"
+    ], 
+    "👷‍♂️": [
+        "ouvrier du bâtiment", 
+        "casque", 
+        "personnel du bâtiment", 
+        "bâtiment", 
+        "ouvrier", 
+        "homme"
     ], 
     "👸": [
-        "princesse", 
-        "fantastique"
+        "peau 5", 
+        "princesse : peau 5", 
+        "peau 1", 
+        "princesse : peau 4", 
+        "peau 3", 
+        "peau 2", 
+        "princesse : peau 1", 
+        "peau 4", 
+        "princesse : peau 3", 
+        "princesse : peau 2", 
+        "fantastique", 
+        "princesse"
     ], 
     "👹": [
         "japonais", 
@@ -3279,11 +4679,21 @@
         "monstre"
     ], 
     "👼": [
-        "bébé ange", 
         "ange", 
-        "fantastique", 
         "visage", 
-        "bébé"
+        "bébé ange : peau 2", 
+        "bébé ange : peau 3", 
+        "bébé ange : peau 1", 
+        "bébé ange : peau 4", 
+        "bébé ange : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "fantastique", 
+        "peau 4", 
+        "bébé", 
+        "peau 5", 
+        "bébé ange"
     ], 
     "👽": [
         "alien", 
@@ -3308,16 +4718,41 @@
         "corps", 
         "visage"
     ], 
-    "💁": [
+    "💁‍♀️": [
+        "paume vers le haut", 
         "personne paume vers le haut", 
-        "ok"
+        "ok", 
+        "femme paume vers le haut", 
+        "femme"
     ], 
-    "💂": [
-        "garde"
+    "💁‍♂️": [
+        "paume vers le haut", 
+        "homme paume vers le haut", 
+        "homme"
+    ], 
+    "💂‍♀️": [
+        "garde", 
+        "garde femme", 
+        "femme"
+    ], 
+    "💂‍♂️": [
+        "garde", 
+        "garde homme", 
+        "homme"
     ], 
     "💃": [
-        "danse", 
+        "peau 3", 
+        "danseuse : peau 5", 
+        "peau 1", 
         "danseuse", 
+        "peau 2", 
+        "danseuse : peau 2", 
+        "danseuse : peau 3", 
+        "danseuse : peau 1", 
+        "danse", 
+        "peau 5", 
+        "danseuse : peau 4", 
+        "peau 4", 
         "femme"
     ], 
     "💄": [
@@ -3326,19 +4761,44 @@
     ], 
     "💅": [
         "maquillage", 
-        "vernis à ongles"
+        "vernis à ongles : peau 2", 
+        "vernis à ongles : peau 1", 
+        "vernis à ongles : peau 4", 
+        "peau 1", 
+        "vernis à ongles : peau 3", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "vernis à ongles", 
+        "vernis à ongles : peau 5"
     ], 
-    "💆": [
+    "💆‍♀️": [
         "salon", 
         "visage", 
+        "femme qui se fait masser", 
+        "personne qui se fait masser", 
         "massage", 
-        "personne qui se fait masser"
+        "femme"
     ], 
-    "💇": [
+    "💆‍♂️": [
+        "homme qui se fait masser", 
+        "visage", 
+        "massage", 
+        "homme"
+    ], 
+    "💇‍♀️": [
         "beauté", 
         "salon", 
         "personne qui se fait couper les cheveux", 
+        "femme qui se fait couper les cheveux", 
         "barbier", 
+        "coiffure", 
+        "femme"
+    ], 
+    "💇‍♂️": [
+        "homme qui se fait couper les cheveux", 
+        "homme", 
         "coiffure"
     ], 
     "💈": [
@@ -3379,20 +4839,10 @@
         "bijou", 
         "joyau"
     ], 
-    "💏": [
-        "couple", 
-        "bisou"
-    ], 
     "💐": [
         "bouquet", 
         "plante", 
         "fleur"
-    ], 
-    "💑": [
-        "amour", 
-        "couple", 
-        "couple avec cœur", 
-        "cœur"
     ], 
     "💒": [
         "amour", 
@@ -3504,9 +4954,19 @@
     "💪": [
         "biceps", 
         "muscles", 
-        "biceps contractés", 
         "corps", 
-        "contractés"
+        "biceps contractés : peau 1", 
+        "biceps contractés : peau 3", 
+        "biceps contractés : peau 2", 
+        "biceps contractés : peau 5", 
+        "biceps contractés : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "biceps contractés", 
+        "peau 5", 
+        "peau 4", 
+        "contractés", 
+        "peau 2"
     ], 
     "💫": [
         "tournis", 
@@ -3848,6 +5308,10 @@
         "cassette vidéo", 
         "vhs"
     ], 
+    "📽️": [
+        "projecteur cinématographique", 
+        "projecteur"
+    ], 
     "📿": [
         "religion", 
         "prière", 
@@ -4112,6 +5576,15 @@
         "flèche", 
         "petit triangle bas"
     ], 
+    "🕉️": [
+        "hindou", 
+        "om", 
+        "religion"
+    ], 
+    "🕊️": [
+        "oiseau", 
+        "colombe"
+    ], 
     "🕋": [
         "religion", 
         "kaaba", 
@@ -4255,16 +5728,109 @@
         "00 h 30", 
         "midi/minuit et demie"
     ], 
-    "🕺": [
-        "danse", 
-        "danseur", 
+    "🕯️": [
+        "bougie", 
+        "lumière"
+    ], 
+    "🕰️": [
+        "horloge", 
+        "pendule"
+    ], 
+    "🕳️": [
+        "trou"
+    ], 
+    "🕴️": [
+        "affaires", 
+        "homme d’affaires en lévitation", 
         "homme"
     ], 
+    "🕵️‍♂️": [
+        "détective", 
+        "espion", 
+        "enquêteur"
+    ], 
+    "🕶️": [
+        "lunettes", 
+        "lunettes de soleil", 
+        "soleil"
+    ], 
+    "🕷️": [
+        "araignée", 
+        "animal"
+    ], 
+    "🕸️": [
+        "toile", 
+        "toile d’araignée", 
+        "araignée"
+    ], 
+    "🕹️": [
+        "manette de jeu", 
+        "jeu vidéo", 
+        "jeu"
+    ], 
+    "🕺": [
+        "peau 1", 
+        "danseur : peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "danseur", 
+        "peau 4", 
+        "danse", 
+        "peau 5", 
+        "danseur : peau 3", 
+        "danseur : peau 2", 
+        "danseur : peau 5", 
+        "danseur : peau 4", 
+        "homme"
+    ], 
+    "🖇️": [
+        "trombones", 
+        "fournitures"
+    ], 
+    "🖊️": [
+        "stylo", 
+        "stylo-bille"
+    ], 
+    "🖋️": [
+        "stylo", 
+        "stylo plume"
+    ], 
+    "🖌️": [
+        "peinture", 
+        "pinceau"
+    ], 
+    "🖍️": [
+        "crayon pastel"
+    ], 
+    "🖐️": [
+        "main levée doigts écartés", 
+        "main"
+    ], 
     "🖕": [
+        "doigt d’honneur : peau 1", 
+        "majeur", 
+        "doigt d’honneur : peau 3", 
+        "doigt d’honneur : peau 4", 
+        "doigt d’honneur : peau 5", 
         "doigt d’honneur", 
-        "majeur"
+        "doigt d’honneur : peau 2", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4"
     ], 
     "🖖": [
+        "salut vulcain : peau 2", 
+        "salut vulcain : peau 3", 
+        "salut vulcain : peau 1", 
+        "salut vulcain : peau 4", 
+        "salut vulcain : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "salut vulcain", 
         "vulcain"
     ], 
@@ -4272,6 +5838,95 @@
         "cœur noir", 
         "noir", 
         "cœur"
+    ], 
+    "🖥️": [
+        "ordinateur de bureau", 
+        "ordinateur"
+    ], 
+    "🖨️": [
+        "imprimante", 
+        "ordinateur"
+    ], 
+    "🖱️": [
+        "souris", 
+        "souris d’ordinateur"
+    ], 
+    "🖲️": [
+        "souris à boule", 
+        "ordinateur"
+    ], 
+    "🖼️": [
+        "musée", 
+        "image", 
+        "art", 
+        "peinture", 
+        "cadre avec image"
+    ], 
+    "🗂️": [
+        "index", 
+        "intercalaires", 
+        "classement", 
+        "intercalaire"
+    ], 
+    "🗃️": [
+        "boîte à dossiers", 
+        "dossier"
+    ], 
+    "🗄️": [
+        "dossier", 
+        "meuble à dossiers"
+    ], 
+    "🗑️": [
+        "corbeille à papiers", 
+        "corbeille"
+    ], 
+    "🗒️": [
+        "bloc-notes à spirales", 
+        "notes"
+    ], 
+    "🗓️": [
+        "calendrier à spirales", 
+        "calendrier"
+    ], 
+    "🗜️": [
+        "serre-joints", 
+        "outil"
+    ], 
+    "🗝️": [
+        "clé", 
+        "clé ancienne"
+    ], 
+    "🗞️": [
+        "journal", 
+        "journal roulé"
+    ], 
+    "🗡️": [
+        "couteau", 
+        "arme", 
+        "dague"
+    ], 
+    "🗣️": [
+        "tête qui parle", 
+        "parler"
+    ], 
+    "🗨️": [
+        "bulle", 
+        "gauche", 
+        "bulle gauche"
+    ], 
+    "🗯️": [
+        "bulle", 
+        "colère", 
+        "bulle colère droite", 
+        "droite"
+    ], 
+    "🗳️": [
+        "urne", 
+        "urne électorale"
+    ], 
+    "🗺️": [
+        "carte du monde", 
+        "carte"
     ], 
     "🗻": [
         "montagne", 
@@ -4658,17 +6313,51 @@
         "yeux", 
         "roulement"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "interdit", 
-        "personne faisant un geste d’interdiction"
+        "femme faisant un geste d’interdiction", 
+        "personne faisant un geste d’interdiction", 
+        "geste", 
+        "main", 
+        "femme"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "interdit", 
+        "main", 
+        "homme", 
+        "homme faisant un geste d’interdiction", 
+        "geste"
+    ], 
+    "🙆‍♀️": [
         "non", 
-        "personne faisant un geste d’acceptation"
+        "ok", 
+        "geste d’accord", 
+        "femme faisant un geste d’acceptation", 
+        "personne faisant un geste d’acceptation", 
+        "main", 
+        "femme"
     ], 
-    "🙇": [
+    "🙆‍♂️": [
+        "main", 
+        "homme faisant un geste d’acceptation", 
+        "ok", 
+        "geste d’accord", 
+        "homme"
+    ], 
+    "🙇‍♀️": [
+        "inclinée", 
+        "geste", 
+        "femme qui s’incline", 
+        "désolée", 
+        "femme"
+    ], 
+    "🙇‍♂️": [
+        "désolé", 
+        "personne qui s’incline", 
         "incliné", 
-        "personne qui s’incline"
+        "homme qui s’incline", 
+        "geste", 
+        "homme"
     ], 
     "🙈": [
         "aveugle", 
@@ -4685,31 +6374,80 @@
         "singe ne rien dire", 
         "singe"
     ], 
-    "🙋": [
+    "🙋‍♀️": [
+        "femme qui lève la main", 
         "content", 
-        "personne qui lève la main", 
-        "main", 
         "levée", 
+        "geste", 
+        "femme", 
+        "main levée", 
+        "main", 
+        "personne qui lève la main"
+    ], 
+    "🙋‍♂️": [
+        "homme qui lève la main", 
+        "homme", 
+        "main levée", 
         "geste"
     ], 
     "🙌": [
-        "mains levées", 
+        "mains levées : peau 4", 
+        "mains levées : peau 5", 
+        "mains levées : peau 2", 
+        "mains levées : peau 3", 
+        "mains levées : peau 1", 
         "mains", 
-        "air"
+        "air", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "mains levées"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
+        "froncer", 
+        "femme fronçant les sourcils", 
+        "froncement", 
         "sourcils", 
         "personne fronçant les sourcils", 
-        "froncer"
+        "geste", 
+        "femme"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "froncement", 
+        "homme", 
+        "homme fronçant les sourcils", 
+        "geste"
+    ], 
+    "🙎‍♀️": [
+        "moue", 
+        "boude", 
+        "geste", 
         "bouder", 
+        "femme qui boude", 
         "personne qui boude", 
-        "moue"
+        "femme"
+    ], 
+    "🙎‍♂️": [
+        "boude", 
+        "homme", 
+        "homme qui boude", 
+        "geste"
     ], 
     "🙏": [
+        "pirère", 
         "mains en prière", 
-        "pirère"
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "mains en prière : peau 4", 
+        "mains en prière : peau 5", 
+        "mains en prière : peau 2", 
+        "mains en prière : peau 3", 
+        "mains en prière : peau 1"
     ], 
     "🚀": [
         "fusée", 
@@ -4857,9 +6595,18 @@
         "navire", 
         "bateau"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
+        "barque", 
+        "rameuse dans une barque", 
         "bateau", 
-        "personne ramant dans une barque"
+        "femme"
+    ], 
+    "🚣‍♂️": [
+        "barque", 
+        "bateau", 
+        "personne ramant dans une barque", 
+        "rameur dans une barque", 
+        "homme"
     ], 
     "🚤": [
         "hors-bord", 
@@ -4928,17 +6675,46 @@
         "vélos interdits", 
         "vélo"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
         "cycliste", 
-        "vélo"
+        "cycliste femme", 
+        "femme", 
+        "vélo", 
+        "cyclisme"
     ], 
-    "🚵": [
+    "🚴‍♂️": [
+        "cycliste", 
+        "cycliste homme", 
+        "homme", 
+        "vélo", 
+        "cyclisme"
+    ], 
+    "🚵‍♀️": [
+        "cycliste", 
+        "femme en VTT", 
+        "vélo", 
+        "VTT", 
+        "femme"
+    ], 
+    "🚵‍♂️": [
         "montagne", 
+        "homme en VTT", 
         "personne en VTT", 
-        "vélo"
+        "VTT", 
+        "cycliste", 
+        "vélo", 
+        "homme"
     ], 
-    "🚶": [
+    "🚶‍♀️": [
+        "marche", 
+        "femme qui marche", 
+        "femme"
+    ], 
+    "🚶‍♂️": [
         "personne qui marche", 
+        "marche", 
+        "homme", 
+        "homme qui marche", 
         "piéton"
     ], 
     "🚷": [
@@ -4979,8 +6755,18 @@
         "douche"
     ], 
     "🛀": [
-        "bain", 
-        "personne prenant un bain"
+        "personne prenant un bain", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "personne prenant un bain : peau 1", 
+        "personne prenant un bain : peau 3", 
+        "personne prenant un bain : peau 2", 
+        "personne prenant un bain : peau 5", 
+        "personne prenant un bain : peau 4", 
+        "bain"
     ], 
     "🛁": [
         "baignoire", 
@@ -5001,9 +6787,37 @@
         "consigne", 
         "bagages"
     ], 
+    "🛋️": [
+        "canapé", 
+        "canapé et lampe"
+    ], 
     "🛌": [
+        "peau 1", 
+        "personne au lit", 
+        "personne au lit : peau 4", 
+        "personne au lit : peau 5", 
         "lit", 
-        "personne au lit"
+        "peau 3", 
+        "peau 2", 
+        "personne au lit : peau 2", 
+        "personne au lit : peau 3", 
+        "personne au lit : peau 1", 
+        "peau 5", 
+        "peau 4"
+    ], 
+    "🛍️": [
+        "shopping", 
+        "sacs de shopping"
+    ], 
+    "🛎️": [
+        "cloche", 
+        "cloche de comptoir", 
+        "hôtel"
+    ], 
+    "🛏️": [
+        "lit", 
+        "dormir", 
+        "hôtel"
     ], 
     "🛐": [
         "lieu de culte", 
@@ -5018,6 +6832,34 @@
         "chariot", 
         "shopping"
     ], 
+    "🛠️": [
+        "marteau et clé à molette", 
+        "marteau"
+    ], 
+    "🛡️": [
+        "bouclier", 
+        "arme"
+    ], 
+    "🛢️": [
+        "baril de pétrole", 
+        "pétrole"
+    ], 
+    "🛣️": [
+        "route", 
+        "autoroute"
+    ], 
+    "🛤️": [
+        "train", 
+        "voie ferrée"
+    ], 
+    "🛥️": [
+        "bateau", 
+        "bateau à moteur"
+    ], 
+    "🛩️": [
+        "avion", 
+        "petit avion"
+    ], 
     "🛫": [
         "avion", 
         "avion au décollage"
@@ -5025,6 +6867,14 @@
     "🛬": [
         "avion", 
         "avion à l’atterrissage"
+    ], 
+    "🛰️": [
+        "satellite", 
+        "espace"
+    ], 
+    "🛳️": [
+        "bateau", 
+        "paquebot"
     ], 
     "🛴": [
         "trottinette"
@@ -5093,29 +6943,79 @@
         "visage"
     ], 
     "🤘": [
-        "cornes", 
-        "cornes avec les doigts"
+        "cornes avec les doigts", 
+        "cornes avec les doigts : peau 5", 
+        "cornes avec les doigts : peau 4", 
+        "cornes avec les doigts : peau 1", 
+        "cornes avec les doigts : peau 3", 
+        "cornes avec les doigts : peau 2", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "cornes"
     ], 
     "🤙": [
-        "main", 
-        "appel", 
-        "signe appel téléphonique avec les doigts", 
+        "signe", 
+        "peau 2", 
+        "signe appel téléphonique avec les doigts : peau 1", 
+        "signe appel téléphonique avec les doigts : peau 2", 
+        "signe appel téléphonique avec les doigts : peau 3", 
+        "signe appel téléphonique avec les doigts : peau 4", 
+        "signe appel téléphonique avec les doigts : peau 5", 
         "téléphone", 
-        "signe"
+        "peau 1", 
+        "peau 3", 
+        "appel", 
+        "peau 5", 
+        "peau 4", 
+        "main", 
+        "signe appel téléphonique avec les doigts"
     ], 
     "🤚": [
+        "dos de main levée : peau 5", 
         "dos de main levée", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "levée", 
+        "peau 4", 
+        "peau 5", 
+        "dos de main levée : peau 4", 
         "main", 
-        "levée"
+        "dos de main levée : peau 2", 
+        "dos de main levée : peau 3", 
+        "dos de main levée : peau 1"
     ], 
     "🤛": [
         "poing à gauche", 
+        "poing à gauche : peau 5", 
         "gauche", 
-        "poing"
+        "peau 5", 
+        "peau 3", 
+        "peau 1", 
+        "poing à gauche : peau 1", 
+        "poing à gauche : peau 2", 
+        "peau 2", 
+        "poing", 
+        "poing à gauche : peau 3", 
+        "poing à gauche : peau 4", 
+        "peau 4"
     ], 
     "🤜": [
         "droite", 
+        "poing à droite : peau 2", 
+        "poing à droite : peau 3", 
+        "poing à droite : peau 1", 
+        "poing à droite : peau 4", 
+        "poing à droite : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
         "poing", 
+        "peau 4", 
+        "peau 5", 
         "poing à droite"
     ], 
     "🤝": [
@@ -5126,14 +7026,34 @@
         "poignée"
     ], 
     "🤞": [
+        "doigts croisés : peau 2", 
         "croisés", 
-        "doigts croisés", 
-        "doigts"
+        "doigts croisés : peau 1", 
+        "doigts", 
+        "doigts croisés : peau 4", 
+        "doigts croisés : peau 3", 
+        "doigts croisés : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "doigts croisés"
     ], 
     "🤟": [
+        "signe je t’aime : peau 1", 
+        "signe je t’aime : peau 3", 
+        "signe je t’aime : peau 2", 
+        "signe je t’aime : peau 5", 
+        "signe je t’aime : peau 4", 
+        "signe je t’aime", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "amour", 
-        "main", 
-        "signe je t’aime"
+        "main"
     ], 
     "🤠": [
         "visage avec chapeau de cowboy", 
@@ -5171,10 +7091,34 @@
         "menteur"
     ], 
     "🤦": [
-        "exaspération", 
-        "personne avec la paume sur le visage", 
         "visage", 
-        "paume de main"
+        "exaspération", 
+        "personne avec la paume sur le visage : peau 2", 
+        "personne avec la paume sur le visage : peau 3", 
+        "personne avec la paume sur le visage : peau 4", 
+        "personne avec la paume sur le visage : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "personne avec la paume sur le visage : peau 1", 
+        "paume de main", 
+        "personne avec la paume sur le visage"
+    ], 
+    "🤦‍♀️": [
+        "incrédulité", 
+        "exaspération", 
+        "femme avec la paume sur le visage", 
+        "paume", 
+        "femme"
+    ], 
+    "🤦‍♂️": [
+        "incrédulité", 
+        "exaspération", 
+        "homme avec la paume sur le visage", 
+        "paume", 
+        "homme"
     ], 
     "🤧": [
         "rhume", 
@@ -5226,58 +7170,196 @@
         "tête qui explose"
     ], 
     "🤰": [
-        "femme enceinte", 
+        "femme enceinte : peau 5", 
+        "femme enceinte : peau 4", 
+        "femme enceinte : peau 3", 
+        "femme enceinte : peau 2", 
+        "femme enceinte : peau 1", 
         "enceinte", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "femme enceinte", 
         "femme"
     ], 
     "🤱": [
-        "soins", 
+        "allaitement : peau 5", 
+        "allaitement : peau 4", 
+        "allaitement : peau 3", 
         "allaitement", 
+        "allaitement : peau 1", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "bébé", 
-        "sein"
+        "soins", 
+        "sein", 
+        "allaitement : peau 2"
     ], 
     "🤲": [
+        "paume contre paume doigts vers le haut : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "paume contre paume doigts vers le haut", 
-        "prière"
+        "paume contre paume doigts vers le haut : peau 5", 
+        "paume contre paume doigts vers le haut : peau 2", 
+        "paume contre paume doigts vers le haut : peau 3", 
+        "prière", 
+        "paume contre paume doigts vers le haut : peau 1"
     ], 
     "🤳": [
-        "appareil photo", 
+        "peau 1", 
         "selfie", 
-        "téléphone"
+        "selfie : peau 5", 
+        "selfie : peau 2", 
+        "selfie : peau 3", 
+        "selfie : peau 1", 
+        "appareil photo", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "téléphone", 
+        "selfie : peau 4"
     ], 
     "🤴": [
+        "prince : peau 3", 
+        "peau 3", 
+        "peau 1", 
+        "prince : peau 2", 
+        "prince : peau 1", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "prince : peau 5", 
+        "prince : peau 4", 
         "prince"
     ], 
     "🤵": [
-        "smoking", 
+        "homme en smoking : peau 5", 
+        "homme en smoking : peau 2", 
+        "homme en smoking : peau 3", 
         "homme en smoking", 
+        "homme en smoking : peau 1", 
+        "homme en smoking : peau 4", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "smoking", 
         "homme"
     ], 
     "🤶": [
-        "mère", 
+        "mère Noël : peau 4", 
         "Noël", 
-        "mère Noël"
+        "mère Noël : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "mère Noël : peau 3", 
+        "mère Noël", 
+        "mère Noël : peau 1", 
+        "peau 5", 
+        "mère", 
+        "peau 4", 
+        "mère Noël : peau 2"
     ], 
     "🤷": [
         "doute", 
+        "personne qui hausse les épaules : peau 4", 
+        "peau 2", 
+        "peau 3", 
         "épaules", 
+        "personne qui hausse les épaules : peau 5", 
         "ignorance", 
         "indifférence", 
+        "peau 1", 
         "personne qui hausse les épaules", 
-        "haussement"
+        "haussement", 
+        "personne qui hausse les épaules : peau 2", 
+        "personne qui hausse les épaules : peau 3", 
+        "personne qui hausse les épaules : peau 1", 
+        "peau 5", 
+        "peau 4"
+    ], 
+    "🤷‍♀️": [
+        "femme qui hausse les épaules", 
+        "haussement", 
+        "ignorance", 
+        "indifférence", 
+        "femme"
+    ], 
+    "🤷‍♂️": [
+        "homme qui hausse les épaules", 
+        "haussement", 
+        "ignorance", 
+        "indifférence", 
+        "homme"
     ], 
     "🤸": [
+        "personne faisant la roue : peau 1", 
+        "sport", 
         "gymnastique", 
-        "roue", 
         "personne", 
         "personne faisant la roue", 
-        "sport"
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "personne faisant la roue : peau 2", 
+        "personne faisant la roue : peau 3", 
+        "roue", 
+        "personne faisant la roue : peau 4", 
+        "personne faisant la roue : peau 5"
+    ], 
+    "🤸‍♀️": [
+        "gymnastique", 
+        "roue", 
+        "femme faisant la roue", 
+        "femme"
+    ], 
+    "🤸‍♂️": [
+        "gymnastique", 
+        "roue", 
+        "homme faisant la roue", 
+        "homme"
     ], 
     "🤹": [
+        "personne qui jongle : peau 5", 
+        "personne qui jongle : peau 4", 
+        "personne qui jongle : peau 1", 
+        "personne qui jongle : peau 3", 
+        "jongler", 
+        "personne qui jongle : peau 2", 
+        "jongleur", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "personne qui jongle", 
+        "multitâche"
+    ], 
+    "🤹‍♀️": [
+        "multitâche", 
+        "jongleuse", 
+        "jonglage", 
+        "femme"
+    ], 
+    "🤹‍♂️": [
         "jongleur", 
         "multitâche", 
-        "jongler", 
-        "personne qui jongle"
+        "jonglage", 
+        "homme"
     ], 
     "🤺": [
         "sport", 
@@ -5293,16 +7375,74 @@
         "sport", 
         "personnes"
     ], 
-    "🤽": [
+    "🤼‍♀️": [
         "sport", 
+        "femmes", 
+        "personne", 
+        "lutteuses", 
+        "lutte"
+    ], 
+    "🤼‍♂️": [
+        "sport", 
+        "hommes", 
+        "personne", 
+        "lutteurs", 
+        "lutte"
+    ], 
+    "🤽": [
+        "peau 5", 
+        "sport", 
+        "personnes jouant au water-polo", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
         "water-polo", 
-        "personnes jouant au water-polo"
+        "peau 4", 
+        "personnes jouant au water-polo : peau 2", 
+        "personnes jouant au water-polo : peau 3", 
+        "personnes jouant au water-polo : peau 1", 
+        "personnes jouant au water-polo : peau 4", 
+        "personnes jouant au water-polo : peau 5"
+    ], 
+    "🤽‍♀️": [
+        "water-polo", 
+        "sport", 
+        "joueuse de water-polo", 
+        "femme"
+    ], 
+    "🤽‍♂️": [
+        "water-polo", 
+        "joueur de water-polo", 
+        "sport", 
+        "homme"
     ], 
     "🤾": [
-        "handball", 
+        "personne jouant au handball : peau 4", 
+        "peau 1", 
+        "personne jouant au handball : peau 1", 
+        "personne jouant au handball : peau 2", 
+        "personne jouant au handball : peau 3", 
+        "personne", 
+        "personne jouant au handball : peau 5", 
         "personne jouant au handball", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
+        "handball", 
+        "sport"
+    ], 
+    "🤾‍♀️": [
+        "handball", 
         "sport", 
-        "personne"
+        "handballeuse", 
+        "femme"
+    ], 
+    "🤾‍♂️": [
+        "handball", 
+        "homme", 
+        "sport", 
+        "handballeur"
     ], 
     "🥀": [
         "fanée", 
@@ -5628,76 +7768,184 @@
         "vieux jeu"
     ], 
     "🧑": [
+        "adulte : peau 1", 
+        "adulte : peau 5", 
+        "genre neutre", 
+        "peau 3", 
+        "peau 1", 
+        "adulte : peau 2", 
+        "peau 2", 
+        "adulte : peau 3", 
+        "peau 4", 
+        "peau 5", 
         "adulte", 
-        "genre neutre"
+        "adulte : peau 4"
     ], 
     "🧒": [
         "jeune", 
+        "enfant : peau 2", 
+        "enfant : peau 3", 
+        "enfant : peau 1", 
+        "enfant : peau 4", 
+        "enfant : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "enfant"
     ], 
     "🧓": [
+        "adulte plus âgé : peau 4", 
+        "peau 1", 
+        "adulte plus âgé : peau 5", 
+        "peau 3", 
+        "peau 2", 
+        "adulte plus âgé", 
+        "adulte plus âgé : peau 1", 
+        "adulte plus âgé : peau 2", 
+        "adulte plus âgé : peau 3", 
         "personne âgée", 
-        "adulte plus âgé"
+        "peau 5", 
+        "peau 4"
     ], 
     "🧔": [
         "barbe", 
+        "personne barbue : peau 2", 
+        "personne barbue : peau 3", 
+        "personne barbue : peau 1", 
+        "personne barbue : peau 4", 
+        "personne barbue : peau 5", 
+        "peau 1", 
+        "peau 3", 
+        "peau 2", 
+        "peau 5", 
+        "peau 4", 
         "personne barbue"
     ], 
     "🧕": [
-        "femme avec foulard", 
-        "hijab", 
-        "mantilla", 
+        "peau 1", 
+        "femme avec foulard : peau 4", 
+        "femme avec foulard : peau 3", 
+        "peau 3", 
         "foulard", 
-        "tichel"
+        "femme avec foulard", 
+        "femme avec foulard : peau 5", 
+        "mantilla", 
+        "peau 2", 
+        "peau 5", 
+        "femme avec foulard : peau 1", 
+        "femme avec foulard : peau 2", 
+        "tichel", 
+        "hijab", 
+        "peau 4"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "femme au hammam", 
+        "sauna", 
+        "hammam"
+    ], 
+    "🧖‍♂️": [
+        "homme au hammam", 
         "sauna", 
         "personne au hammam", 
         "hammam"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
+        "grimpeuse", 
         "grimpeur", 
         "alpiniste", 
-        "personne qui grimpe"
+        "personne qui grimpe", 
+        "femme qui grimpe"
     ], 
-    "🧘": [
+    "🧗‍♂️": [
+        "grimpeur", 
+        "alpiniste", 
+        "homme qui grimpe"
+    ], 
+    "🧘‍♀️": [
         "méditation", 
         "personne dans la posture du lotus", 
-        "yoga"
+        "yoga", 
+        "femme dans la posture du lotus"
     ], 
-    "🧙": [
+    "🧘‍♂️": [
+        "méditation", 
+        "yoga", 
+        "homme dans la posture du lotus"
+    ], 
+    "🧙‍♀️": [
         "sorcier", 
-        "sorcière", 
         "ensorceleur", 
-        "mage", 
+        "sorcière", 
+        "magicien", 
+        "mage femme", 
+        "ensorceleuse", 
+        "mage"
+    ], 
+    "🧙‍♂️": [
+        "mage homme", 
+        "sorcier", 
         "magicien"
     ], 
-    "🧚": [
+    "🧚‍♀️": [
         "personnage féérique", 
+        "fée", 
         "Oberon", 
         "Titania", 
         "Puck"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "Puck", 
+        "Oberon", 
+        "lutin"
+    ], 
+    "🧛‍♀️": [
         "Dracula", 
+        "morte-vivante", 
         "vampire", 
+        "mort-vivant", 
+        "vampire femme"
+    ], 
+    "🧛‍♂️": [
+        "Dracula", 
+        "vampire homme", 
         "mort-vivant"
     ], 
-    "🧜": [
-        "triton", 
-        "créature aquatique", 
+    "🧜‍♀️": [
         "sirène"
     ], 
-    "🧝": [
+    "🧜‍♂️": [
+        "triton", 
+        "créature aquatique", 
+        "Triton", 
+        "sirène"
+    ], 
+    "🧝‍♀️": [
+        "elfe femme", 
+        "magique"
+    ], 
+    "🧝‍♂️": [
+        "elfe homme", 
         "elfe", 
         "magique"
     ], 
-    "🧞": [
+    "🧞‍♀️": [
+        "djinn", 
+        "génie femme"
+    ], 
+    "🧞‍♂️": [
+        "génie homme", 
         "djinn", 
         "génie"
     ], 
-    "🧟": [
+    "🧟‍♀️": [
+        "zombie femme", 
+        "morte-vivante"
+    ], 
+    "🧟‍♂️": [
         "zombie", 
+        "zombie homme", 
         "mort-vivant"
     ], 
     "🧠": [

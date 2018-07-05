@@ -1,4 +1,121 @@
 {
+    "#️⃣": [
+        "i-keycap", 
+        "i-keycap: #"
+    ], 
+    "*️⃣": [
+        "i-keycap: *", 
+        "i-keycap"
+    ], 
+    "0️⃣": [
+        "i-keycap", 
+        "i-keycap: 0"
+    ], 
+    "1️⃣": [
+        "i-keycap", 
+        "i-keycap: 1"
+    ], 
+    "2️⃣": [
+        "i-keycap: 2", 
+        "i-keycap"
+    ], 
+    "3️⃣": [
+        "i-keycap", 
+        "i-keycap: 3"
+    ], 
+    "4️⃣": [
+        "i-keycap: 4", 
+        "i-keycap"
+    ], 
+    "5️⃣": [
+        "i-keycap: 5", 
+        "i-keycap"
+    ], 
+    "6️⃣": [
+        "i-keycap: 6", 
+        "i-keycap"
+    ], 
+    "7️⃣": [
+        "i-keycap: 7", 
+        "i-keycap"
+    ], 
+    "8️⃣": [
+        "i-keycap", 
+        "i-keycap: 8"
+    ], 
+    "9️⃣": [
+        "i-keycap", 
+        "i-keycap: 9"
+    ], 
+    "©️": [
+        "ilungelo lokukopisha"
+    ], 
+    "®️": [
+        "okubhalisiwe"
+    ], 
+    "‼️": [
+        "uphawu lwesibabazi oluphindekile", 
+        "uphawu", 
+        "isibabazi"
+    ], 
+    "⁉️": [
+        "umbuzo", 
+        "uphawu lombuzo oluyisibabazi", 
+        "uphawu", 
+        "isibabazi"
+    ], 
+    "™️": [
+        "uphawu lokuhweba", 
+        "uphawu"
+    ], 
+    "ℹ️": [
+        "i", 
+        "umthombo wolwazi", 
+        "ulwazi"
+    ], 
+    "↔️": [
+        "umcibisholo okwesokunxele nesokudla", 
+        "umcibisholo"
+    ], 
+    "↕️": [
+        "umcibisholo ophansi phezulu", 
+        "umcibisholo"
+    ], 
+    "↖️": [
+        "inyakathontshonalanga", 
+        "inkombakuhlanganisa", 
+        "inkomba", 
+        "umcibisholo obheke phezulu kwesokunxele", 
+        "umcibisholo"
+    ], 
+    "↗️": [
+        "Inkomba phezulu-kwesokudla", 
+        "enyakathompumalanga", 
+        "inkomba", 
+        "inkombakuhlanganisa", 
+        "umcibisholo"
+    ], 
+    "↘️": [
+        "inkombakuhlanganisa", 
+        "umcibisholo", 
+        "inkomba", 
+        "inkombaphansi ngqo", 
+        "eningizimunempumalanga"
+    ], 
+    "↙️": [
+        "ningizimuntshonalanga", 
+        "umcibisholo obheke phansi kwesokunxele", 
+        "inkomba", 
+        "umcibisholo"
+    ], 
+    "↩️": [
+        "umcibisholo okhombe kwesokudla ogobe kwesokunxele", 
+        "umcibisholo"
+    ], 
+    "↪️": [
+        "umcibisholo okhombe kwesokunxele ogobe kwesokudla", 
+        "umcibisholo"
+    ], 
     "⌚": [
         "iwashi"
     ], 
@@ -6,6 +123,14 @@
         "isiklali sikhathi", 
         "isihlabathi", 
         "hourglass"
+    ], 
+    "⌨️": [
+        "ikhibhodi", 
+        "ikhompytha"
+    ], 
+    "⏏️": [
+        "inkinobho yokukhipha", 
+        "ukukhipha"
     ], 
     "⏩": [
         "ukushesha", 
@@ -31,16 +156,102 @@
         "ukuphinda", 
         "umcibisholo"
     ], 
+    "⏭️": [
+        "unxantathu", 
+        "umcibisholo", 
+        "okulandelayo", 
+        "inkinobho yokudlala okulandelayo"
+    ], 
+    "⏮️": [
+        "obekudlala", 
+        "umcibisholo", 
+        "unxantathu", 
+        "inkinobho yeculo lokugcina", 
+        "iculo ebelidlala"
+    ], 
+    "⏯️": [
+        "phumuza", 
+        "dlala", 
+        "unxantathu", 
+        "inkinobho yokudlala noma ukumisa", 
+        "okwesokudla", 
+        "umcibisholo"
+    ], 
     "⏰": [
         "iwashi le-alamu", 
         "iwashi", 
         "i-alamu"
+    ], 
+    "⏱️": [
+        "i-stop washi", 
+        "iwashi"
+    ], 
+    "⏲️": [
+        "isiklalisikhathi", 
+        "iwashi", 
+        "timer clock"
     ], 
     "⏳": [
         "isiklali sikhathi", 
         "i-hourglass egeleza isihlabathi", 
         "isihlabathi", 
         "i-hourglass"
+    ], 
+    "⏸️": [
+        "inkinobho yokuphumuza", 
+        "okuqondile", 
+        "ukuphinda", 
+        "ibha", 
+        "ukuphumuza"
+    ], 
+    "⏹️": [
+        "isikwele", 
+        "inkinobho yokumisa", 
+        "misa"
+    ], 
+    "⏺️": [
+        "inkinobho yokuqopha", 
+        "ukuqopha", 
+        "indingilizi"
+    ], 
+    "Ⓜ️": [
+        "uhlamvu m olusendingilizini", 
+        "indingilizi", 
+        "m"
+    ], 
+    "▪️": [
+        "iskwele", 
+        "jiyometrikhi", 
+        "iskwele esincane esimnyama"
+    ], 
+    "▫️": [
+        "isikwele esimhlophe esincane", 
+        "jiyometrikhi", 
+        "iskwele"
+    ], 
+    "▶️": [
+        "kwesokudla", 
+        "dlala", 
+        "inkinobho yokudlala", 
+        "unxantathu", 
+        "umcibisholo"
+    ], 
+    "◀️": [
+        "umxantathu", 
+        "inkinobho yokubuyela emuva", 
+        "ukuhlehla", 
+        "kwesokunxele", 
+        "umcibisholo"
+    ], 
+    "◻️": [
+        "isikwele esimhlophe esimaphakathi", 
+        "jiyometrikhi", 
+        "iskwele"
+    ], 
+    "◼️": [
+        "iskwele esimnyama esimaphakathi", 
+        "iskwele", 
+        "jiyometrikhi"
     ], 
     "◽": [
         "iskwele", 
@@ -51,6 +262,44 @@
         "iskwele", 
         "jiyometrikhi", 
         "iskwele esimnyama esimaphakathi esincane"
+    ], 
+    "☀️": [
+        "isikhala", 
+        "isimo sezulu", 
+        "imisebe", 
+        "kunelanga", 
+        "ilanga", 
+        "ukukhanya"
+    ], 
+    "☁️": [
+        "ifu", 
+        "isimo sezulu"
+    ], 
+    "☂️": [
+        "impahla egqokwayo", 
+        "isambulela", 
+        "imvula", 
+        "isimo sezulu"
+    ], 
+    "☃️": [
+        "isithwathwa", 
+        "indoda yesithwathwa", 
+        "isimo sezulu", 
+        "ukubanda"
+    ], 
+    "☄️": [
+        "ikhomethi", 
+        "ukhathi"
+    ], 
+    "☎️": [
+        "ucingo", 
+        "ifoni"
+    ], 
+    "☑️": [
+        "ukuhlola", 
+        "ibhalothi", 
+        "ibhokisi", 
+        "ibhokisi lebhalothi elinokuhlola"
     ], 
     "☔": [
         "imvula", 
@@ -68,6 +317,79 @@
         "ikhofi", 
         "itiye", 
         "isiphuzo esishisayo"
+    ], 
+    "☘️": [
+        "i-shamrock", 
+        "isitshalo"
+    ], 
+    "☝️": [
+        "isandla", 
+        "umunwe wokukhomba", 
+        "umunwe", 
+        "umzimba", 
+        "ukukhomba", 
+        "umunwe wokukhomba okhombe phezulu"
+    ], 
+    "☠️": [
+        "ugebhezi namathambo", 
+        "amathambo aphambene"
+    ], 
+    "☢️": [
+        "kusebenza ngowaya", 
+        "uphawu"
+    ], 
+    "☣️": [
+        "uphawu", 
+        "okungaba nobungozi kumvelo"
+    ], 
+    "☦️": [
+        "isiphambano senkolo", 
+        "isiphambano", 
+        "inkolo", 
+        "ubukristu"
+    ], 
+    "☪️": [
+        "inkanyezi nocezu lwenyanga", 
+        "isulumane", 
+        "ubusulumane", 
+        "inkolo"
+    ], 
+    "☮️": [
+        "uphawu lokuthula", 
+        "ukuthula"
+    ], 
+    "☯️": [
+        "yin yang", 
+        "tao", 
+        "ying", 
+        "inkolo", 
+        "yang"
+    ], 
+    "☸️": [
+        "dharma", 
+        "isondo likadharma", 
+        "isondo", 
+        "inkolo", 
+        "umbhuda"
+    ], 
+    "☹️": [
+        "bipha", 
+        "ubuso", 
+        "ubuso obubiphile"
+    ], 
+    "☺️": [
+        "ubuso obumoyizelayo", 
+        "moyizela", 
+        "ubuso", 
+        "ukuphumula"
+    ], 
+    "♀️": [
+        "uphawu lowesifazane", 
+        "owesifazane"
+    ], 
+    "♂️": [
+        "indoda", 
+        "upahwu lwendoda"
     ], 
     "♈": [
         "inkanyezi", 
@@ -132,14 +454,97 @@
         "inkanyezi", 
         "inhlanzi"
     ], 
+    "♠️": [
+        "ikhadi", 
+        "umdlalo", 
+        "uspeyidi", 
+        "ispeyidi"
+    ], 
+    "♣️": [
+        "umpukane", 
+        "ikhadi", 
+        "umdlalo", 
+        "izimpukane"
+    ], 
+    "♥️": [
+        "unhliziyo", 
+        "ikhadi", 
+        "umdlalo", 
+        "inhliziyo", 
+        "izinhliziyo"
+    ], 
+    "♦️": [
+        "ikhadi", 
+        "amadayimane", 
+        "okumise okwedayimane", 
+        "idayimane", 
+        "umdlalo"
+    ], 
+    "♨️": [
+        "iziphethu", 
+        "kuyathunya", 
+        "iziphethu ezinamanzi ashisayo", 
+        "kuyashisa"
+    ], 
+    "♻️": [
+        "vuselela", 
+        "uphawu lokuvuselela"
+    ], 
     "♿": [
         "isihlalo esinamasondo sabantu abaphila nokukhubazeka", 
         "ukungena"
+    ], 
+    "⚒️": [
+        "isando", 
+        "ithuluzi", 
+        "ipiki", 
+        "isando ipiki"
     ], 
     "⚓": [
         "ithuluzi", 
         "ihange", 
         "umkhumbi"
+    ], 
+    "⚔️": [
+        "izikhali", 
+        "imikhonto ephambene", 
+        "imikhonto", 
+        "okuphambene"
+    ], 
+    "⚕️": [
+        "umuthi", 
+        "abasebenzi", 
+        "uphawu losizo lwezempilo"
+    ], 
+    "⚖️": [
+        "ithuluzi", 
+        "inkanyezi", 
+        "iziklali", 
+        "okokulinganisa", 
+        "libra", 
+        "ubulungiswa", 
+        "isisindo", 
+        "ukulingana"
+    ], 
+    "⚗️": [
+        "ithuluzi", 
+        "khemistri", 
+        "i-alambic"
+    ], 
+    "⚙️": [
+        "ithuluzi", 
+        "igiya"
+    ], 
+    "⚛️": [
+        "uphawu lokungakhonzi", 
+        "ongakholwa", 
+        "ukungakhonzi"
+    ], 
+    "⚜️": [
+        "i-fleur-de-lis"
+    ], 
+    "⚠️": [
+        "isexwayiso"
     ], 
     "⚡": [
         "amandla kagesi", 
@@ -158,6 +563,16 @@
         "jiyometrikhi", 
         "indingilizi", 
         "indingilizi emnyama"
+    ], 
+    "⚰️": [
+        "ibhokisi lomngcwabo", 
+        "ukufa"
+    ], 
+    "⚱️": [
+        "isitsha somgcwabo", 
+        "ukufa", 
+        "umngcwabo", 
+        "isitsha somngcwabo"
     ], 
     "⚽": [
         "unobhujuzwayo", 
@@ -181,11 +596,33 @@
         "isimo sezulu", 
         "ilanga elingemuva kwefu"
     ], 
+    "⛈️": [
+        "ifu", 
+        "ifu elinombani kanye nemvula", 
+        "ukuduma", 
+        "imvula", 
+        "isimo sezulu"
+    ], 
     "⛎": [
         "isithiyi", 
         "inkanyezi", 
         "inyoka", 
         "ophiuchus"
+    ], 
+    "⛏️": [
+        "ithuluzi", 
+        "imayini", 
+        "ipiki"
+    ], 
+    "⛑️": [
+        "isigqoko esiqinile esinesiphambano esimhlophe", 
+        "usizo", 
+        "isiphambano", 
+        "isigqoko", 
+        "ubuso"
+    ], 
+    "⛓️": [
+        "amaketango"
     ], 
     "⛔": [
         "cha", 
@@ -195,12 +632,28 @@
         "ukungena", 
         "kunqatshelwe"
     ], 
+    "⛩️": [
+        "shinto shrine", 
+        "shrine", 
+        "shinto", 
+        "inkolo"
+    ], 
     "⛪": [
         "umzalwane", 
         "isakhiwo", 
         "isonto", 
         "isiphambano", 
         "inkolo"
+    ], 
+    "⛰️": [
+        "intaba"
+    ], 
+    "⛱️": [
+        "imvula", 
+        "isambulela", 
+        "ilanga", 
+        "isambulela esiphansi", 
+        "isimo sezulu"
     ], 
     "⛲": [
         "umthombo"
@@ -210,12 +663,30 @@
         "ifulegi elisembobeni", 
         "ifalfu"
     ], 
+    "⛴️": [
+        "isikebhe", 
+        "isikebhe sokuwelisa"
+    ], 
     "⛵": [
         "isikebhe", 
         "ulwandle", 
         "isithuthi", 
         "isikebhe sasolwandle", 
         "indawo yokuvakasha"
+    ], 
+    "⛷️": [
+        "odlala iski", 
+        "isithwatha", 
+        "ski"
+    ], 
+    "⛸️": [
+        "skate", 
+        "ice skate", 
+        "iqhwa"
+    ], 
+    "⛹️‍♂️": [
+        "umuntu onebhola", 
+        "ibhola"
     ], 
     "⛺": [
         "itende", 
@@ -228,27 +699,119 @@
         "isifutho", 
         "isifutho sesiphehlamandla"
     ], 
+    "✂️": [
+        "ithuluzi", 
+        "isikelo"
+    ], 
     "✅": [
         "uphawu lokuhlola okukhulu", 
         "uphawu", 
         "ukuhlola"
     ], 
+    "✈️": [
+        "isithuthi", 
+        "ibhanoyi"
+    ], 
+    "✉️": [
+        "imvalaphu", 
+        "i-imeyli"
+    ], 
     "✊": [
         "isandla", 
+        "iqupha elimisiwe: uhlobo-6", 
+        "iqupha", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "iqupha elimisiwe: uhlobo-1-2", 
+        "uhlobo-1-2", 
+        "iqupha elimisiwe: uhlobo-5", 
         "umzimba", 
         "ukufumbatha isibhakela", 
         "iqupha elimisiwe", 
-        "iqupha"
+        "iqupha elimisiwe: uhlobo-3", 
+        "iqupha elimisiwe: uhlobo-4"
     ], 
     "✋": [
+        "isandla esiphanyisiwe: uhlobo-3", 
+        "isandla", 
+        "uhlobo-5", 
+        "isandla esiphanyisiwe: uhlobo-6", 
+        "isandla esiphanyisiwe: uhlobo-5", 
+        "isandla esiphanyisiwe", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "isandla esiphanyisiwe: uhlobo-4", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umzimba", 
+        "isandla esiphanyisiwe: uhlobo-1-2"
+    ], 
+    "✌️": [
         "isandla", 
         "umzimba", 
-        "isandla esiphanyisiwe"
+        "isandla sokunqoba", 
+        "ukunqoba"
+    ], 
+    "✍️": [
+        "isandla", 
+        "umzimba", 
+        "isandla esibhalayo", 
+        "ukubhala"
+    ], 
+    "✏️": [
+        "ipenseli"
+    ], 
+    "✒️": [
+        "omnyama", 
+        "umsizi omnyama", 
+        "umsizi"
+    ], 
+    "✔️": [
+        "uphawu lokuhlola oluwugqinsi", 
+        "uphawu", 
+        "ukuhlola"
+    ], 
+    "✖️": [
+        "uphawu lokuphindaphinda oluwugqinsi", 
+        "ukuphindaphinda", 
+        "ukukhansela"
+    ], 
+    "✝️": [
+        "ubukristu", 
+        "isiphambano", 
+        "inkolo", 
+        "isiphambano sobulatini"
+    ], 
+    "✡️": [
+        "inkanyezi", 
+        "umjuda", 
+        "udavide", 
+        "inkolo", 
+        "inkanyezi kadavide"
     ], 
     "✨": [
         "inkanyezi", 
         "ukukhazimula", 
         "okukhazimulayo"
+    ], 
+    "✳️": [
+        "inkanyezi", 
+        "inkanyezi enemigxa eyisishiyagalombili"
+    ], 
+    "✴️": [
+        "inkanyezi", 
+        "inkanyezi ecije kayisishayagalombili"
+    ], 
+    "❄️": [
+        "ikhekheba leqha", 
+        "isimo sezulu", 
+        "isithwathwa", 
+        "ukubanda"
+    ], 
+    "❇️": [
+        "ukubhanyaza"
     ], 
     "❌": [
         "khansela", 
@@ -283,6 +846,16 @@
         "uphawu", 
         "isibabazi"
     ], 
+    "❣️": [
+        "isibabazi senhliziyo edangele", 
+        "uphawu", 
+        "inhliziyo", 
+        "isibabazi"
+    ], 
+    "❤️": [
+        "inhliziyo ebomvu", 
+        "inhliiziyo"
+    ], 
     "➕": [
         "ukubala", 
         "ukuhlanganisa", 
@@ -298,6 +871,12 @@
         "uphawu lokwahlukanisa oluwugqinsi", 
         "ukwahlukanisa"
     ], 
+    "➡️": [
+        "empumalanga", 
+        "umcibisholo", 
+        "inkomba", 
+        "Inkomba kwesokudla"
+    ], 
     "➰": [
         "iluphu egobile", 
         "iluphu", 
@@ -308,6 +887,33 @@
         "impinda", 
         "iluphu", 
         "ukugoba"
+    ], 
+    "⤴️": [
+        "umcibisholo wakwesokudla ogobele phezulu", 
+        "umcibisholo"
+    ], 
+    "⤵️": [
+        "phansi", 
+        "umcibisholo wakwesokudla ogobele phansi", 
+        "umcibisholo"
+    ], 
+    "⬅️": [
+        "inkombasinxele", 
+        "ntshonalanga", 
+        "inkomba"
+    ], 
+    "⬆️": [
+        "enyakatho", 
+        "inkomba", 
+        "inkomba phezulu", 
+        "umcibisholo"
+    ], 
+    "⬇️": [
+        "umcibisholo opheke phansi", 
+        "umcibisholo", 
+        "phansi", 
+        "inkomba", 
+        "ningizimu"
     ], 
     "⬛": [
         "iskwele esikhulu esimnyama", 
@@ -327,6 +933,26 @@
         "indingili", 
         "indingilizi enkulu oluwugqinsi"
     ], 
+    "〰️": [
+        "udeshi", 
+        "udeshi osagagasi", 
+        "okusagagasi"
+    ], 
+    "〽️": [
+        "upahwu lokulungisa ingxenye", 
+        "ingxenye", 
+        "uphawu"
+    ], 
+    "㊗️": [
+        "halalisa", 
+        "uphawu lokuzungeleziwe kokuhalalisa", 
+        "ama-chinese"
+    ], 
+    "㊙️": [
+        "imfihlo", 
+        "uphawu lobumfihlo ezungeziwe", 
+        "ama-chinese"
+    ], 
     "🀄": [
         "imajongi", 
         "okubomvu", 
@@ -338,6 +964,25 @@
         "umdlalo", 
         "ujokha", 
         "ukudlala"
+    ], 
+    "🅰️": [
+        "a", 
+        "igazi", 
+        "inkinobho ka-a"
+    ], 
+    "🅱️": [
+        "uhlobo lwegazi", 
+        "b", 
+        "inkinobho ka-b"
+    ], 
+    "🅾️": [
+        "igazi", 
+        "inkinobho o", 
+        "o"
+    ], 
+    "🅿️": [
+        "inkinobho yokupaka", 
+        "ukupaka"
     ], 
     "🆎": [
         "ab", 
@@ -1424,6 +2069,10 @@
         "uphawu lokuthi lapha oluyiskwele", 
         "lapha"
     ], 
+    "🈂️": [
+        "uphawu lokumahhala oluyiskwele", 
+        "mahhala"
+    ], 
     "🈚": [
         "uphawu lokuphela komkhiqizo eliyiskwele", 
         "ukuphela komkhiqizo"
@@ -1451,6 +2100,10 @@
     "🈶": [
         "uphawu lokungabibikho oluyiskwele", 
         "ukungabibikho"
+    ], 
+    "🈷️": [
+        "inyanga", 
+        "uphawu lwenyanga oluyiskwele"
     ], 
     "🈸": [
         "uphawu lokufakiwe oluyiskwele", 
@@ -1685,6 +2338,67 @@
         "umkhathi", 
         "inkanyezi edubulayo"
     ], 
+    "🌡️": [
+        "ithemomitha", 
+        "isimo sezulu"
+    ], 
+    "🌤️": [
+        "ifu", 
+        "ilanga", 
+        "isimo sezulu", 
+        "ilanga elingemuva kwefu elincane"
+    ], 
+    "🌥️": [
+        "ifu", 
+        "ilanga", 
+        "isimo sezulu", 
+        "ilanga elingemuva kwef elikhul"
+    ], 
+    "🌦️": [
+        "ifu", 
+        "imvula", 
+        "ilanga", 
+        "isimo sezulu", 
+        "ilanga elingemuva kwefu elinemvula"
+    ], 
+    "🌧️": [
+        "ifu", 
+        "imvula", 
+        "isimo sezulu", 
+        "ifu elinemvula"
+    ], 
+    "🌨️": [
+        "ifu", 
+        "isithwathwa", 
+        "isimo sezulu", 
+        "ifu elinesithwathwa", 
+        "ukubanda"
+    ], 
+    "🌩️": [
+        "ifu", 
+        "umbani", 
+        "isimo sezulu", 
+        "ifu elinombani"
+    ], 
+    "🌪️": [
+        "umoya ovunguzayo", 
+        "ifu", 
+        "inkanyamba", 
+        "isimo sezulu"
+    ], 
+    "🌫️": [
+        "ifu", 
+        "inkungu", 
+        "isimo sezulu"
+    ], 
+    "🌬️": [
+        "ifu", 
+        "ubuso bomoya", 
+        "phephetha", 
+        "isimo sezulu", 
+        "umoya", 
+        "ubuso"
+    ], 
     "🌭": [
         "isoseji", 
         "ihot dog"
@@ -1724,6 +2438,12 @@
     "🌵": [
         "isitshalo", 
         "i-cactus"
+    ], 
+    "🌶️": [
+        "ukubaba", 
+        "upelepele", 
+        "isitshalo", 
+        "upelepele obabayo"
     ], 
     "🌷": [
         "i-tulip", 
@@ -2119,6 +2839,13 @@
         "ingane", 
         "isiphuzo"
     ], 
+    "🍽️": [
+        "ipleti", 
+        "ukupheka", 
+        "ummese", 
+        "imfoloko", 
+        "imfoloko nommese nepleti"
+    ], 
     "🍾": [
         "ibhodlela elinokuputshuka phezulu", 
         "ibhodlela", 
@@ -2164,10 +2891,20 @@
         "isihlahla sikhakhisimusi"
     ], 
     "🎅": [
-        "ubaba ukhisimusi", 
-        "umbungazo", 
         "ubaba", 
+        "umbungazo", 
+        "ubaba ukhisimusi: uhlobo-1-2", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "ubaba ukhisimusi", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "ukhisimusi", 
+        "ubaba ukhisimusi: uhlobo-6", 
+        "ubaba ukhisimusi: uhlobo-4", 
+        "ubaba ukhisimusi: uhlobo-5", 
+        "ubaba ukhisimusi: uhlobo-3", 
         "insumansumane"
     ], 
     "🎆": [
@@ -2255,6 +2992,49 @@
         "ukuthweswa imiyezane", 
         "impahla yokugqoka", 
         "isigqoko"
+    ], 
+    "🎖️": [
+        "imedali", 
+        "imedali yamasosha", 
+        "umbungazo", 
+        "okwamasosha"
+    ], 
+    "🎗️": [
+        "iribhini yesikhumbuzo", 
+        "iribhini", 
+        "umbungazo", 
+        "isikhumbuzo"
+    ], 
+    "🎙️": [
+        "istudiyo", 
+        "imayikhi", 
+        "umculo", 
+        "imakhrofoni", 
+        "imakhrofoni yasestudiyo"
+    ], 
+    "🎚️": [
+        "izinga", 
+        "izinga lesilawuli", 
+        "okokulawula", 
+        "umculo"
+    ], 
+    "🎛️": [
+        "ukulawula", 
+        "izinkinobho", 
+        "izinkinobho zezilawuli", 
+        "umculo"
+    ], 
+    "🎞️": [
+        "isinema", 
+        "amafreymi amafilimu", 
+        "ifilimu", 
+        "amafreymu", 
+        "imuvi"
+    ], 
+    "🎟️": [
+        "amathikithi", 
+        "amathikithi okungena", 
+        "ukungena"
     ], 
     "🎠": [
         "ihhashi lekharaseli", 
@@ -2441,18 +3221,46 @@
     ], 
     "🏂": [
         "umgibeli webhodi lesithwathwa", 
-        "ski", 
+        "uhlobo-6", 
+        "umgibeli webhodi lesithwathwa: uhlobo-1-2", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "isithwatha", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umgibeli webhodi lesithwathwa: uhlobo-3", 
+        "umgibeli webhodi lesithwathwa: uhlobo-6", 
+        "umgibeli webhodi lesithwathwa: uhlobo-4", 
+        "umgibeli webhodi lesithwathwa: uhlobo-5", 
         "ibhodi lesithwathwa", 
-        "isithwatha"
+        "ski"
     ], 
-    "🏃": [
+    "🏃‍♀️": [
+        "umncintiswane", 
+        "umjaho", 
+        "owesimame ogijimayo", 
+        "owesimame", 
+        "ukugijima"
+    ], 
+    "🏃‍♂️": [
         "umjaho", 
         "ukugijima", 
+        "indoda egijimayo", 
+        "umncintiswano", 
+        "indoda", 
         "umunto ogijimayo"
     ], 
-    "🏄": [
+    "🏄‍♀️": [
+        "owesimame odlala isurfing", 
+        "owesimame", 
+        "isurfing"
+    ], 
+    "🏄‍♂️": [
+        "indoda edlala isurfing", 
         "ukudlala isurfing", 
-        "umuntu ogibele isurf board"
+        "umuntu ogibele isurf board", 
+        "indoda", 
+        "isurfing"
     ], 
     "🏅": [
         "imedali", 
@@ -2463,11 +3271,21 @@
         "umklomelo"
     ], 
     "🏇": [
-        "umqhudelwano", 
-        "umjaho wamahhashi", 
-        "ihhashi", 
+        "umjaho wamahhashi: uhlobo-5", 
         "ujokhi", 
-        "ihhashi lomjaho"
+        "uhlobo-6", 
+        "umjaho wamahhashi", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "umjaho wamahhashi: uhlobo-1-2", 
+        "uhlobo-3", 
+        "ihhashi lomjaho", 
+        "uhlobo-1-2", 
+        "umjaho wamahhashi: uhlobo-6", 
+        "umjaho wamahhashi: uhlobo-4", 
+        "ihhashi", 
+        "umqhudelwano", 
+        "umjaho wamahhashi: uhlobo-3"
     ], 
     "🏈": [
         "ibhola likanobhujuzwayo", 
@@ -2481,9 +3299,35 @@
         "umbhoxo", 
         "ibhola lomboxo"
     ], 
-    "🏊": [
-        "umuntu obhukudayo", 
+    "🏊‍♀️": [
+        "owesimame obhukudayo", 
+        "owesimame", 
         "ukubhukuda"
+    ], 
+    "🏊‍♂️": [
+        "indoda ebhukudayo", 
+        "umuntu obhukudayo", 
+        "indoda", 
+        "ukubhukuda"
+    ], 
+    "🏋️‍♂️": [
+        "ukuphakamisa", 
+        "umuntu ophakamisa izinsimbi", 
+        "izinsimbi"
+    ], 
+    "🏌️‍♂️": [
+        "umuntu odlala igalofu", 
+        "ibhola", 
+        "igalofu"
+    ], 
+    "🏍️": [
+        "isithuthuthu esigijimayo", 
+        "umjaho"
+    ], 
+    "🏎️": [
+        "imoto yomjaho", 
+        "imoto", 
+        "umjaho"
     ], 
     "🏏": [
         "umdlalo", 
@@ -2516,6 +3360,57 @@
         "ibhola", 
         "ibhethi", 
         "ping pong"
+    ], 
+    "🏔️": [
+        "intaba", 
+        "intaba embethe iqhwa", 
+        "iqhwa", 
+        "ukubanda"
+    ], 
+    "🏕️": [
+        "ukukhempa"
+    ], 
+    "🏖️": [
+        "ibhishi nesambulela", 
+        "isambulela", 
+        "ibhishi"
+    ], 
+    "🏗️": [
+        "ukwakha isakhiwo", 
+        "ukwakha"
+    ], 
+    "🏘️": [
+        "izindlu", 
+        "izakhiwo zezindlu"
+    ], 
+    "🏙️": [
+        "idolobha", 
+        "ukubukeka kwedolobha"
+    ], 
+    "🏚️": [
+        "isakhiwo sendlu esinganakiwe", 
+        "indlu"
+    ], 
+    "🏛️": [
+        "isakhiwo", 
+        "isakhiwo sakudala"
+    ], 
+    "🏜️": [
+        "ugwadule", 
+        "isiqhingi"
+    ], 
+    "🏝️": [
+        "isiqhingi sasogwadule", 
+        "ugwadule", 
+        "isiqhingi"
+    ], 
+    "🏞️": [
+        "ipaki likazwelonke", 
+        "ipaki"
+    ], 
+    "🏟️": [
+        "inkundla yezemidlalo", 
+        "inkundla"
     ], 
     "🏠": [
         "isakhiwo sendlu", 
@@ -2609,6 +3504,15 @@
         "japanese", 
         "isigodlo"
     ], 
+    "🏳️": [
+        "ukundizisa", 
+        "ukundizisa ifulegi elimhlophe"
+    ], 
+    "🏳️‍🌈": [
+        "Ifulegi elimibalabala", 
+        "okumbalabala", 
+        "ifulegi"
+    ], 
     "🏴": [
         "ukundizisa", 
         "ukundizisa ifulegi elimnyama"
@@ -2624,6 +3528,13 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "I-Wales", 
         "ifulegi"
+    ], 
+    "🏵️": [
+        "irosette", 
+        "isitshalo"
+    ], 
+    "🏷️": [
+        "ilebula"
     ], 
     "🏸": [
         "irekhethi", 
@@ -2950,19 +3861,46 @@
         "izinyawo", 
         "izidladla"
     ], 
+    "🐿️": [
+        "i-chipmunk"
+    ], 
     "👀": [
         "amehlo", 
         "umzimba", 
         "ihlo", 
         "ubuso"
     ], 
-    "👂": [
+    "👁️": [
         "umzimba", 
+        "ihlo"
+    ], 
+    "👂": [
+        "uhlobo-5", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "indlebe: uhlobo-3", 
+        "indlebe: uhlobo-4", 
+        "uhlobo-3", 
+        "indlebe: uhlobo-1-2", 
+        "indlebe: uhlobo-5", 
+        "uhlobo-1-2", 
+        "umzimba", 
+        "indlebe: uhlobo-6", 
         "indlebe"
     ], 
     "👃": [
         "ikhala", 
-        "umzimba"
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umzimba", 
+        "ikhala: uhlobo-4", 
+        "ikhala: uhlobo-5", 
+        "ikhala: uhlobo-6", 
+        "ikhala: uhlobo-1-2", 
+        "ikhala: uhlobo-3"
     ], 
     "👄": [
         "umzimba", 
@@ -2977,26 +3915,56 @@
         "isandla", 
         "umunwe wokukhomba", 
         "umunwe", 
+        "uhlobo-6", 
+        "ukukhomba phezulu ngengemuva lesandla ngomunwe wokukhomba: uhlobo-1-2", 
+        "uhlobo-4", 
+        "uhlobo-5", 
         "phezulu", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "umzimba", 
         "ukukhomba", 
-        "ukukhomba phezulu ngengemuva lesandla ngomunwe wokukhomba"
+        "ukukhomba phezulu ngengemuva lesandla ngomunwe wokukhomba: uhlobo-6", 
+        "ukukhomba phezulu ngengemuva lesandla ngomunwe wokukhomba: uhlobo-4", 
+        "ukukhomba phezulu ngengemuva lesandla ngomunwe wokukhomba: uhlobo-5", 
+        "ukukhomba phezulu ngengemuva lesandla ngomunwe wokukhomba", 
+        "ukukhomba phezulu ngengemuva lesandla ngomunwe wokukhomba: uhlobo-3"
     ], 
     "👇": [
+        "ukukhomba phansi ngengemuva lesandla ngomunwe wokukhomba: uhlobo-3", 
         "isandla", 
+        "uhlobo-5", 
         "umunwe wokukhomba", 
         "umunwe", 
+        "ukukhomba phansi ngengemuva lesandla ngomunwe wokukhomba: uhlobo-5", 
+        "ukukhomba phansi ngengemuva lesandla ngomunwe wokukhomba: uhlobo-4", 
+        "uhlobo-6", 
+        "uhlobo-4", 
         "phansi", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "ukukhomba phansi ngengemuva lesandla ngomunwe wokukhomba: uhlobo-1-2", 
         "umzimba", 
         "ukukhomba", 
-        "ukukhomba phansi ngengemuva lesandla ngomunwe wokukhomba"
+        "ukukhomba phansi ngengemuva lesandla ngomunwe wokukhomba", 
+        "ukukhomba phansi ngengemuva lesandla ngomunwe wokukhomba: uhlobo-6"
     ], 
     "👈": [
         "isandla", 
         "umunwe wokukhomba", 
         "umunwe", 
+        "ukukhomba ngengemuva lesandla sokunxele ngomunwe wokukhomba: uhlobo-3", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ukukhomba ngengemuva lesandla sokunxele ngomunwe wokukhomba: uhlobo-5", 
+        "ukukhomba ngengemuva lesandla sokunxele ngomunwe wokukhomba: uhlobo-4", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "umzimba", 
+        "ukukhomba ngengemuva lesandla sokunxele ngomunwe wokukhomba: uhlobo-1-2", 
         "ukukhomba", 
+        "ukukhomba ngengemuva lesandla sokunxele ngomunwe wokukhomba: uhlobo-6", 
         "ukukhomba ngengemuva lesandla sokunxele ngomunwe wokukhomba"
     ], 
     "👉": [
@@ -3004,52 +3972,132 @@
         "isandla", 
         "umunwe wokukhomba", 
         "umunwe", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "umzimba", 
-        "ukukhomba"
+        "ukukhomba", 
+        "ukukhomba ngengemuva lesandla sokudla ngomunwe wokukhomba: uhlobo-1-2", 
+        "ukukhomba ngengemuva lesandla sokudla ngomunwe wokukhomba: uhlobo-3", 
+        "ukukhomba ngengemuva lesandla sokudla ngomunwe wokukhomba: uhlobo-6", 
+        "ukukhomba ngengemuva lesandla sokudla ngomunwe wokukhomba: uhlobo-4", 
+        "ukukhomba ngengemuva lesandla sokudla ngomunwe wokukhomba: uhlobo-5"
     ], 
     "👊": [
         "isandla", 
+        "iqupha elizayo: uhlobo-5", 
+        "iqupha elizayo: uhlobo-3", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "iqupha elizayo", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "iqupha elizayo: uhlobo-1-2", 
         "umzimba", 
         "ukufumbatha isibhakela", 
-        "iqupha elizayo", 
-        "iqupha"
+        "iqupha elizayo: uhlobo-6", 
+        "iqupha", 
+        "iqupha elizayo: uhlobo-4"
     ], 
     "👋": [
         "isandla", 
+        "ukuphakamisa isandla", 
+        "ukuphakamisa isandla: uhlobo-4", 
+        "ukuphakamisa isandla: uhlobo-5", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ukuphakamisa isandla: uhlobo-1-2", 
+        "ukuphakamisa isandla: uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "umzimba", 
-        "ukuphakamisa isandla"
+        "ukuphakamisa isandla: uhlobo-6"
     ], 
     "👌": [
         "isandla", 
-        "umzimba", 
+        "kulungile", 
+        "uhlobo-6", 
         "isandla sokuthi kulungile", 
-        "kulungile"
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umzimba", 
+        "isandla sokuthi kulungile: uhlobo-6", 
+        "isandla sokuthi kulungile: uhlobo-4", 
+        "isandla sokuthi kulungile: uhlobo-5", 
+        "isandla sokuthi kulungile: uhlobo-1-2", 
+        "isandla sokuthi kulungile: uhlobo-3"
     ], 
     "👍": [
         "isandla", 
-        "+1", 
+        "ukumisa isithupha: uhlobo-6", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
         "phezulu", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "ukumisa isithupha: uhlobo-1-2", 
+        "+1", 
+        "ukumisa isithupha: uhlobo-4", 
+        "ukumisa isithupha: uhlobo-3", 
         "ukumisa isithupha", 
-        "isithupha"
+        "isithupha", 
+        "ukumisa isithupha: uhlobo-5"
     ], 
     "👎": [
         "isandla", 
+        "ukubhekisa phansi isithupha: uhlobo-5", 
+        "ukubhekisa phansi isithupha: uhlobo-4", 
+        "ukubhekisa phansi isithupha: uhlobo-3", 
+        "ukubhekisa phansi isithupha: uhlobo-6", 
+        "uhlobo-6", 
+        "uhlobo-4", 
         "phansi", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "umzimba", 
         "-1", 
         "isithupha", 
-        "ukubhekisa phansi isithupha"
+        "ukubhekisa phansi isithupha: uhlobo-1-2", 
+        "ukubhekisa phansi isithupha", 
+        "uhlobo-5"
     ], 
     "👏": [
+        "izindla", 
+        "ukushaya izandla: uhlobo-4", 
+        "ukushaya izandla: uhlobo-5", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ukushaya izandla: uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "umzimba", 
-        "ukushaya izandla", 
-        "izindla"
+        "ukushaya izandla: uhlobo-1-2", 
+        "ukushaya izandla: uhlobo-6", 
+        "ukushaya izandla"
     ], 
     "👐": [
-        "ukuvula", 
         "isandla", 
+        "izandla ezivuliwe", 
+        "ukuvula", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "umzimba", 
-        "izandla ezivuliwe"
+        "izandla ezivuliwe: uhlobo-5", 
+        "izandla ezivuliwe: uhlobo-1-2", 
+        "izandla ezivuliwe: uhlobo-3", 
+        "izandla ezivuliwe: uhlobo-4", 
+        "izandla ezivuliwe: uhlobo-6"
     ], 
     "👑": [
         "inkosi", 
@@ -3166,59 +4214,190 @@
         "abantu"
     ], 
     "👦": [
-        "umfana"
+        "uhlobo-1-2", 
+        "umfana: uhlobo-5", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "umfana: uhlobo-3", 
+        "umfana", 
+        "umfana: uhlobo-6", 
+        "umfana: uhlobo-1-2", 
+        "umfana: uhlobo-4"
     ], 
     "👧": [
-        "intombi", 
+        "intombazane: uhlobo-5", 
         "indombazane", 
-        "intombazane"
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "intombi", 
+        "uhlobo-3", 
+        "intombazane: uhlobo-1-2", 
+        "uhlobo-1-2", 
+        "intombazane: uhlobo-4", 
+        "intombazane: uhlobo-6", 
+        "intombazane: uhlobo-3", 
+        "intombazane", 
+        "uhlobo-5"
     ], 
     "👨": [
+        "indoda: uhlobo-1-2", 
+        "uhlobo-5", 
         "ubaba", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "indoda: uhlobo-4", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "indoda: uhlobo-6", 
+        "indoda: uhlobo-5", 
+        "indoda: uhlobo-3", 
         "indoda", 
         "owesilisa"
     ], 
-    "👨‍🌾": [
-        "umlimi wesilisa", 
+    "👨‍⚕️": [
+        "udokotela", 
+        "unesi wendoda", 
         "indoda", 
-        "umlimi"
+        "unesi"
+    ], 
+    "👨‍⚖️": [
+        "owesilisa", 
+        "ubulungiswa", 
+        "ijaji lesilisa", 
+        "indoda"
+    ], 
+    "👨‍✈️": [
+        "ibhanoyi", 
+        "umqhubi webhanoyi wesilisa", 
+        "indoda"
+    ], 
+    "👨‍❤️‍👨": [
+        "uthando", 
+        "izithandani", 
+        "izithandani ezinenhliziyo", 
+        "izithandani ezinenhliziyo: indoda, indoda", 
+        "inhliziyo", 
+        "indoda"
+    ], 
+    "👨‍❤️‍💋‍👨": [
+        "izithandani", 
+        "ukuqabula: indoda, indoda", 
+        "ukuqabula", 
+        "indoda"
+    ], 
+    "👨‍🌾": [
+        "umlimi wesilisa: uhlobo-6", 
+        "umlimi wesilisa: uhlobo-1-2", 
+        "umlimi", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "umlimi wesilisa", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umlimi wesilisa: uhlobo-3", 
+        "indoda", 
+        "umlimi wesilisa: uhlobo-5", 
+        "umlimi wesilisa: uhlobo-4"
     ], 
     "👨‍🍳": [
+        "uhlobo-1-2", 
+        "umpheki wesilisa: uhlobo-6", 
+        "umpheki wesilisa: uhlobo-4", 
+        "umpheki wesilisa: uhlobo-3", 
+        "uhlobo-6", 
+        "umpheki wesilisa: uhlobo-5", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "umpheki", 
         "umpheki wesilisa", 
+        "umpheki wesilisa: uhlobo-1-2", 
         "indoda"
     ], 
     "👨‍🎓": [
+        "umfundi wesilisa: uhlobo-3", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umfundi wesilisa: uhlobo-1-2", 
+        "isifundiswa", 
+        "umfundi wesilisa: uhlobo-6", 
+        "umfundi wesilisa: uhlobo-5", 
+        "umfundi wesilisa: uhlobo-4", 
         "umfundi wesilisa", 
         "umfundi", 
-        "isifundiswa", 
         "indoda"
     ], 
     "👨‍🎤": [
-        "isilomo", 
-        "umculi wesilisa", 
+        "umculi wesilisa: uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umculi wesilisa: uhlobo-6", 
         "umlingisi", 
         "umculi", 
-        "owesilisa"
+        "isilomo", 
+        "umculi wesilisa: uhlobo-3", 
+        "owesilisa", 
+        "umculi wesilisa: uhlobo-5", 
+        "umculi wesilisa: uhlobo-4", 
+        "umculi wesilisa"
     ], 
     "👨‍🎨": [
+        "umdwebi wesilisa: uhlobo-3", 
+        "umdwebi wesilisa: uhlobo-4", 
+        "umdwebi wesilisa: uhlobo-5", 
+        "umdwebi wesilisa: uhlobo-6", 
+        "uhlobo-6", 
         "umdwebi wesilisa", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-4", 
+        "umdwebi wesilisa: uhlobo-1-2", 
         "indoda", 
         "umdwebi", 
         "owesilisa"
     ], 
     "👨‍🏫": [
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "uthisha wesilisa: uhlobo-1-2", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uthisha wesilisa: uhlobo-6", 
         "umyaleli", 
         "uthisha wesilisa", 
-        "usolwazi", 
         "uthisha", 
-        "indoda"
+        "uthisha wesilisa: uhlobo-3", 
+        "usolwazi", 
+        "indoda", 
+        "uthisha wesilisa: uhlobo-5", 
+        "uthisha wesilisa: uhlobo-4"
     ], 
     "👨‍🏭": [
-        "ukuhlangana", 
-        "ifemu", 
-        "umsebenzi", 
         "umsebenzi wasefemini wesilisa", 
+        "ifemu", 
+        "uhlobo-6", 
+        "uhlobo-5", 
+        "umsebenzi", 
+        "umsebenzi wasefemini wesilisa: uhlobo-1-2", 
+        "uhlobo-4", 
+        "uhlobo-1-2", 
+        "uhlobo-3", 
+        "ukuhlangana", 
+        "umsebenzi wasefemini wesilisa: uhlobo-3", 
+        "umsebenzi wasefemini wesilisa: uhlobo-6", 
+        "umsebenzi wasefemini wesilisa: uhlobo-4", 
+        "umsebenzi wasefemini wesilisa: uhlobo-5", 
         "owesilisa"
     ], 
     "👨‍👦": [
@@ -3360,94 +4539,280 @@
         "indoda"
     ], 
     "👨‍💻": [
-        "isoftiwe", 
-        "usochwepheshe wendoda", 
         "umsunguli", 
+        "usochwepheshe wendoda: uhlobo-1-2", 
+        "uhlobo-6", 
+        "isoftiwe", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uchwepheshe", 
         "indoda", 
-        "uchwepheshe"
+        "uhlobo-1-2", 
+        "usochwepheshe wendoda: uhlobo-3", 
+        "usochwepheshe wendoda: uhlobo-4", 
+        "usochwepheshe wendoda: uhlobo-5", 
+        "usochwepheshe wendoda: uhlobo-6", 
+        "usochwepheshe wendoda", 
+        "uhlobo-4"
     ], 
     "👨‍💼": [
+        "uhlobo-5", 
+        "umsebenzi wasehhovisi wesilisa: uhlobo-1-2", 
         "umphathi", 
         "umsebenzi wasehhovisi wesilisa", 
+        "uhlobo-4", 
+        "umsebenzi wasehhovisi wesilisa: uhlobo-4", 
+        "umsebenzi wasehhovisi wesilisa: uhlobo-3", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "osebenza kahle", 
+        "umsebenzi wasehhovisi wesilisa: uhlobo-5", 
+        "umsebenzi wasehhovisi wesilisa: uhlobo-6", 
         "usomabhizinisi", 
         "ihhovisi", 
         "indoda"
     ], 
     "👨‍🔧": [
+        "umakhenikha wesilisa: uhlobo-5", 
+        "uhlobo-5", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "umakhenikha wesilisa: uhlobo-1-2", 
+        "uhlobo-3", 
         "uplamba", 
+        "uhlobo-1-2", 
+        "umakhenikha wesilisa: uhlobo-4", 
         "umkhandi kagesi", 
+        "umakhenikha wesilisa: uhlobo-6", 
         "umakhenikha", 
+        "umakhenikha wesilisa: uhlobo-3", 
         "umakhenikha wesilisa", 
         "odayisayo", 
         "indoda"
     ], 
     "👨‍🔬": [
+        "usosayensi wesilisa: uhlobo-3", 
+        "usosayensi wesilisa", 
+        "usosayensi wesilisa: uhlobo-5", 
+        "usosayensi wesilisa: uhlobo-4", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "usosayensi", 
+        "uhlobo-1-2", 
+        "usosayensi wesilisa: uhlobo-6", 
+        "usosayensi wesilisa: uhlobo-1-2", 
         "unjiniyela", 
         "indoda", 
-        "usosayensi wesilisa", 
         "usokhemesi"
     ], 
     "👨‍🚀": [
+        "i-astronaut yesilisa: uhlobo-4", 
+        "i-astronaut yesilisa: uhlobo-5", 
+        "i-astronaut yesilisa: uhlobo-6", 
+        "i-astronaut yesilisa: uhlobo-1-2", 
+        "i-astronaut yesilisa: uhlobo-3", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "i-astronaut yesilisa", 
+        "uhlobo-1-2", 
         "omunye umhlaba", 
         "irokhethi", 
         "i-astronaut", 
-        "indoda", 
-        "i-astronaut yesilisa"
+        "indoda"
     ], 
     "👨‍🚒": [
+        "isicishamlilo sesilisa: uhlobo-4", 
+        "isicishamlilo sesilisa: uhlobo-3", 
+        "uhlobo-5", 
+        "isicishamlilo sesilisa: uhlobo-5", 
+        "uhlobo-3", 
+        "isicishamlilo sesilisa: uhlobo-1-2", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "iloli lezicishamlilo", 
-        "isicishamlilo sesilisa", 
+        "isicishamlilo", 
+        "isicishamlilo sesilisa: uhlobo-6", 
         "indoda", 
-        "isicishamlilo"
+        "uhlobo-4", 
+        "isicishamlilo sesilisa"
     ], 
     "👩": [
+        "umama: uhlobo-6", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "umama: uhlobo-1-2", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umama: uhlobo-4", 
+        "umama: uhlobo-5", 
+        "umama: uhlobo-3", 
+        "owesimame", 
+        "umama"
+    ], 
+    "👩‍⚕️": [
+        "udokotela", 
+        "unesi wesifazane", 
+        "iowesimame", 
+        "unesi"
+    ], 
+    "👩‍⚖️": [
+        "ijaji", 
+        "owesmame", 
+        "ijaji lesifazane"
+    ], 
+    "👩‍✈️": [
+        "umqhubi webhanoyi wesifazane", 
+        "ibhanoyi", 
+        "owesifazane"
+    ], 
+    "👩‍❤️‍👨": [
+        "uthando", 
+        "inhliziyo", 
+        "izithandani", 
+        "izithandani ezinenhliziyo: umama, indoda", 
+        "izithandani ezinenhliziyo", 
         "umama", 
-        "owesimame"
+        "indoda"
+    ], 
+    "👩‍❤️‍👩": [
+        "uthando", 
+        "inhliziyo", 
+        "izithandani", 
+        "izithandani ezinenhliziyo: umama, umama", 
+        "izithandani ezinenhliziyo", 
+        "umama"
+    ], 
+    "👩‍❤️‍💋‍👨": [
+        "umama", 
+        "izithandani", 
+        "ukuqabula: umama, indoda", 
+        "ukuqabula", 
+        "indoda"
+    ], 
+    "👩‍❤️‍💋‍👩": [
+        "umama", 
+        "izithandani", 
+        "ukuqabula", 
+        "ukuqabula: umama, umama"
     ], 
     "👩‍🌾": [
+        "umlimi", 
+        "umlimi wesimame: uhlobo-1-2", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "umlimi wesimame", 
         "owesimame", 
-        "umlimi"
+        "umlimi wesimame: uhlobo-3", 
+        "umlimi wesimame: uhlobo-6", 
+        "umlimi wesimame: uhlobo-4", 
+        "umlimi wesimame: uhlobo-5"
     ], 
     "👩‍🍳": [
-        "umpheki", 
+        "uhlobo-1-2", 
+        "uhlobo-5", 
+        "uhlobo-6", 
+        "umpheki wesimame: uhlobo-6", 
+        "uhlobo-4", 
+        "umpheki wesimame: uhlobo-4", 
+        "umpheki wesimame: uhlobo-3", 
+        "uhlobo-3", 
+        "umpheki wesimame: uhlobo-5", 
         "umpheki wesimame", 
-        "owesimame"
+        "umpheki", 
+        "owesimame", 
+        "umpheki wesimame: uhlobo-1-2"
     ], 
     "👩‍🎓": [
+        "umfundi wesifazane: uhlobo-4", 
+        "umfundi wesifazane: uhlobo-6", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "umfundi wesifazane", 
-        "umfundi", 
+        "umfundi wesifazane: uhlobo-5", 
         "isifundiswa", 
-        "owesimame"
+        "umfundi wesifazane: uhlobo-3", 
+        "umfundi wesifazane: uhlobo-1-2", 
+        "owesimame", 
+        "umfundi"
     ], 
     "👩‍🎤": [
-        "isilomo", 
+        "umculi wesimame: uhlobo-4", 
+        "umculi wesimame: uhlobo-5", 
+        "umculi wesimame: uhlobo-1-2", 
+        "uhlobo-5", 
+        "umculi wesimame: uhlobo-6", 
+        "umculi wesimame: uhlobo-3", 
+        "uhlobo-6", 
         "umculi wesimame", 
+        "owesifazane", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "umlingisi", 
         "umculi", 
-        "owesifazane"
+        "isilomo", 
+        "uhlobo-4"
     ], 
     "👩‍🎨": [
+        "umdwebi wesimame: uhlobo-3", 
         "umdwebi wesimame", 
+        "umdwebi wesimame: uhlobo-5", 
+        "umdwebi wesimame: uhlobo-4", 
+        "umdwebi wesimame: uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "owesimame", 
         "umama", 
         "umdwebi", 
-        "owesimame"
+        "umdwebi wesimame: uhlobo-6"
     ], 
     "👩‍🏫": [
-        "umyaleli", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "uthisha wesifazane", 
-        "usolwazi", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uthisha wesifazane: uhlobo-1-2", 
+        "uhlobo-3", 
+        "umyaleli", 
         "uthisha", 
-        "owesimame"
+        "owesimame", 
+        "uthisha wesifazane: uhlobo-6", 
+        "usolwazi", 
+        "uthisha wesifazane: uhlobo-4", 
+        "uthisha wesifazane: uhlobo-3", 
+        "uthisha wesifazane: uhlobo-5"
     ], 
     "👩‍🏭": [
-        "ukuhlangana", 
+        "uhlobo-1-2", 
         "ifemu", 
         "umsebenzi", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ukuhlangana", 
+        "umsebenzi wasefemini wesifazane: uhlobo-6", 
+        "umsebenzi wasefemini wesifazane: uhlobo-1-2", 
+        "owesifazane", 
         "umsebenzi wasefemini wesifazane", 
-        "owesifazane"
+        "umsebenzi wasefemini wesifazane: uhlobo-4", 
+        "umsebenzi wasefemini wesifazane: uhlobo-5", 
+        "umsebenzi wasefemini wesifazane: uhlobo-3"
     ], 
     "👩‍👦": [
         "ubaba", 
@@ -3532,53 +4897,107 @@
         "ingane"
     ], 
     "👩‍💻": [
-        "isoftiwe", 
         "umsunguli", 
-        "usochwepheshe wesifazane", 
+        "usochwepheshe wesifazane: uhlobo-6", 
+        "usochwepheshe wesifazane: uhlobo-4", 
+        "usochwepheshe wesifazane: uhlobo-5", 
+        "isoftiwe", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "uchwepheshe", 
-        "owesifazane"
+        "usochwepheshe wesifazane: uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "usochwepheshe wesifazane: uhlobo-1-2", 
+        "owesifazane", 
+        "uhlobo-4", 
+        "usochwepheshe wesifazane"
     ], 
     "👩‍💼": [
+        "umsebenzi wasehhovisi wesifazane: uhlobo-3", 
+        "umsebenzi wasehhovisi wesifazane: uhlobo-1-2", 
+        "umsebenzi wasehhovisi wesifazane: uhlobo-6", 
+        "umsebenzi wasehhovisi wesifazane: uhlobo-5", 
+        "umsebenzi wasehhovisi wesifazane: uhlobo-4", 
         "umphathi", 
         "umsebenzi wasehhovisi wesifazane", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "osebenza kahle", 
         "owesifazane", 
         "usomabhizinisi", 
         "ihhovisi"
     ], 
     "👩‍🔧": [
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "uplamba", 
+        "uhlobo-1-2", 
         "umkhandi kagesi", 
+        "umakhenikha wesimame: uhlobo-5", 
         "umakhenikha", 
         "umakhenikha wesimame", 
         "owesifazane", 
-        "odayisayo"
+        "umakhenikha wesimame: uhlobo-4", 
+        "odayisayo", 
+        "umakhenikha wesimame: uhlobo-6", 
+        "umakhenikha wesimame: uhlobo-1-2", 
+        "umakhenikha wesimame: uhlobo-3"
     ], 
     "👩‍🔬": [
+        "uhlobo-6", 
         "usosayensi wesifazane", 
-        "usokhemesi", 
-        "unjiniyela", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "usosayensi", 
-        "owesifazane"
+        "uhlobo-1-2", 
+        "usosayensi wesifazane: uhlobo-1-2", 
+        "owesifazane", 
+        "usosayensi wesifazane: uhlobo-3", 
+        "usosayensi wesifazane: uhlobo-4", 
+        "unjiniyela", 
+        "usosayensi wesifazane: uhlobo-6", 
+        "usosayensi wesifazane: uhlobo-5", 
+        "usokhemesi"
     ], 
     "👩‍🚀": [
+        "i-astronaut yesifazane: uhlobo-3", 
+        "i-astronaut yesifazane: uhlobo-4", 
+        "i-astronaut yesifazane: uhlobo-5", 
+        "i-astronaut yesifazane", 
+        "i-astronaut yesifazane: uhlobo-6", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "omunye umhlaba", 
+        "owesifazane", 
         "irokhethi", 
         "i-astronaut", 
-        "i-astronaut yesifazane", 
-        "owesifazane"
+        "i-astronaut yesifazane: uhlobo-1-2"
     ], 
     "👩‍🚒": [
-        "iloli lezicishamlilo", 
+        "isicishamlilo sowesifazane: uhlobo-5", 
+        "isicishamlilo sowesifazane: uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
         "isicishamlilo sowesifazane", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "isicishamlilo sowesifazane: uhlobo-4", 
+        "iloli lezicishamlilo", 
+        "isicishamlilo sowesifazane: uhlobo-6", 
         "isicishamlilo", 
-        "owesifazane"
-    ], 
-    "👪": [
-        "ubaba", 
-        "ingane", 
-        "umama", 
-        "umndeni"
+        "isicishamlilo sowesifazane: uhlobo-3", 
+        "owesifazane", 
+        "uhlobo-5"
     ], 
     "👫": [
         "isandla", 
@@ -3605,57 +5024,157 @@
         "izithandani", 
         "abasimame ababambene ngesandla"
     ], 
-    "👮": [
-        "iphoyisa"
+    "👮‍♀️": [
+        "iphoyisa", 
+        "iphoyisa lesifazane", 
+        "owesifazane"
     ], 
-    "👯": [
-        "ukudansa", 
+    "👮‍♂️": [
+        "iphoyisa", 
+        "iphoyisa lesilisa", 
+        "indoda"
+    ], 
+    "👯‍♀️": [
+        "abasemame abasemcimbini", 
+        "ukuthokozela umcimbi", 
         "abantu abasemcimbini", 
-        "intombazane", 
+        "indlebe", 
         "owesimame", 
-        "indlebe"
+        "umdansi", 
+        "intombazane", 
+        "ukudansa"
+    ], 
+    "👯‍♂️": [
+        "ukuthokozela umcimbi", 
+        "amadoda asemcimbini", 
+        "indoda", 
+        "indlebe", 
+        "umdansi"
     ], 
     "👰": [
-        "umakoti ofake iveyili", 
         "umshado", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "umakoti ofake iveyili: uhlobo-1-2", 
+        "umakoti ofake iveyili: uhlobo-4", 
+        "umakoti ofake iveyili", 
+        "umakoti ofake iveyili: uhlobo-3", 
+        "umakoti ofake iveyili: uhlobo-5", 
+        "umakoti ofake iveyili: uhlobo-6", 
         "iveyili", 
         "umakoti"
     ], 
-    "👱": [
+    "👱‍♀️": [
+        "ibhlondi", 
+        "owesimame obhlondi", 
+        "owesifazane"
+    ], 
+    "👱‍♂️": [
         "obhlondi", 
-        "umuntu obhlondi"
+        "umuntu obhlondi", 
+        "indoda ebhlondi", 
+        "owesimame obhlondi"
     ], 
     "👲": [
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "indoda efake ikepishi lechinese: uhlobo-3", 
+        "uhlobo-1-2", 
+        "indoda efake ikepishi lechinese: uhlobo-6", 
+        "indoda efake ikepishi lechinese: uhlobo-1-2", 
         "indoda efake ikepishi lechinese", 
+        "indoda efake ikepishi lechinese: uhlobo-4", 
+        "indoda efake ikepishi lechinese: uhlobo-5", 
         "indoda", 
         "isigqoko"
     ], 
-    "👳": [
+    "👳‍♀️": [
         "ithalibhani", 
-        "umuntu ogqoke ithalibhani"
-    ], 
-    "👴": [
-        "owesilisa", 
-        "ikhehla", 
-        "ogugile"
-    ], 
-    "👵": [
-        "ugogo", 
-        "ogugile", 
-        "owesimame"
-    ], 
-    "👶": [
-        "ingane", 
-        "usana"
-    ], 
-    "👷": [
-        "umsebenzi wenkontileka", 
-        "inkontileka", 
-        "isigqoko", 
+        "owesimame ogqoke ithalibhani", 
         "owesifazane"
     ], 
+    "👳‍♂️": [
+        "ithalibhani", 
+        "umuntu ogqoke ithalibhani", 
+        "indoda", 
+        "indoda egqoke ithalibhani"
+    ], 
+    "👴": [
+        "ikhehla: uhlobo-3", 
+        "ikhehla", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "ikhehla: uhlobo-1-2", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "ogugile", 
+        "ikhehla: uhlobo-5", 
+        "ikhehla: uhlobo-4", 
+        "ikhehla: uhlobo-6", 
+        "owesilisa"
+    ], 
+    "👵": [
+        "ugogo: uhlobo-6", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "ugogo: uhlobo-1-2", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "ugogo: uhlobo-4", 
+        "ugogo: uhlobo-5", 
+        "ogugile", 
+        "owesimame", 
+        "ugogo", 
+        "ugogo: uhlobo-3"
+    ], 
+    "👶": [
+        "usana: uhlobo-6", 
+        "usana", 
+        "usana: uhlobo-5", 
+        "usana: uhlobo-4", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "usana: uhlobo-3", 
+        "usana: uhlobo-1-2", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "ingane"
+    ], 
+    "👷‍♀️": [
+        "umsebenzi wenkontileka wesifazane", 
+        "umsebenzi", 
+        "inkontileka", 
+        "owesifazane"
+    ], 
+    "👷‍♂️": [
+        "umsebenzi wenkontileka wesilisa", 
+        "umsebenzi", 
+        "inkontileka", 
+        "owesifazane", 
+        "umsebenzi wenkontileka", 
+        "indoda", 
+        "isigqoko"
+    ], 
     "👸": [
+        "uhlobo-5", 
+        "uhlobo-6", 
+        "inkosazane: uhlobo-6", 
+        "uhlobo-4", 
+        "inkosazane: uhlobo-4", 
+        "inkosazane: uhlobo-3", 
+        "uhlobo-3", 
+        "inkosazane: uhlobo-1-2", 
+        "uhlobo-1-2", 
         "inkosazane", 
+        "inkosazane: uhlobo-5", 
         "insumansumane"
     ], 
     "👹": [
@@ -3672,10 +5191,20 @@
         "insumansumane"
     ], 
     "👼": [
+        "ingelosi eyingane: uhlobo-5", 
+        "uhlobo-6", 
         "ingelosi", 
-        "ingane", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ingelosi eyingane: uhlobo-1-2", 
+        "uhlobo-1-2", 
+        "ingelosi eyingane: uhlobo-4", 
+        "ingelosi eyingane: uhlobo-6", 
         "ubuso", 
-        "ingelosi eyingane"
+        "ingelosi eyingane: uhlobo-3", 
+        "ingelosi eyingane", 
+        "ingane", 
+        "uhlobo-4"
     ], 
     "👽": [
         "alien", 
@@ -3698,19 +5227,45 @@
         "ukufa", 
         "ugebhezi"
     ], 
-    "💁": [
-        "umuntu ocela ngesandla", 
+    "💁‍♀️": [
         "isandla", 
         "imali", 
+        "owesimame imali", 
+        "owesimame ocela ngesandla", 
+        "umuntu ocela ngesandla", 
         "usizo", 
         "ulwazi"
     ], 
-    "💂": [
-        "unogada"
+    "💁‍♂️": [
+        "isandla", 
+        "imali", 
+        "indoda ecela ngesandla", 
+        "indoda", 
+        "usizo"
+    ], 
+    "💂‍♀️": [
+        "unogada", 
+        "unogada wesifazane", 
+        "owesifazane"
+    ], 
+    "💂‍♂️": [
+        "unogada", 
+        "indoda", 
+        "unogada wesilisa"
     ], 
     "💃": [
-        "owesimane", 
         "owesimame odansayo", 
+        "owesimame odansayo: uhlobo-5", 
+        "owesimame odansayo: uhlobo-4", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "owesimame odansayo: uhlobo-3", 
+        "owesimame odansayo: uhlobo-1-2", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "owesimame odansayo: uhlobo-6", 
+        "owesimane", 
         "ukudansa"
     ], 
     "💄": [
@@ -3719,25 +5274,51 @@
         "iruji"
     ], 
     "💅": [
+        "ikhyutheksi: uhlobo-3", 
         "uzipho", 
         "ikhyutheksi", 
+        "ikhyutheksi: uhlobo-5", 
+        "ikhyutheksi: uhlobo-4", 
         "ukunakekela", 
+        "uhlobo-4", 
         "amakhozimetiksi", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "umzimba", 
-        "ukucwala izinzipho"
+        "ukucwala izinzipho", 
+        "uhlobo-5", 
+        "ikhyutheksi: uhlobo-1-2", 
+        "ikhyutheksi: uhlobo-6"
     ], 
-    "💆": [
-        "umuntu othola imasaji", 
-        "imasaji", 
+    "💆‍♀️": [
+        "owesimame othola imasaji ebusweni", 
         "isaluni", 
+        "umuntu othola imasaji", 
+        "ubuso", 
+        "owesimame", 
+        "imasaji"
+    ], 
+    "💆‍♂️": [
+        "imasaji", 
+        "indoda ethola imasaji ebusweni", 
+        "indoda", 
         "ubuso"
     ], 
-    "💇": [
-        "ubuhle", 
+    "💇‍♀️": [
         "umuntu ogundayo", 
         "isaluni", 
+        "ukugunda izinwele", 
+        "owesimame ogundayo", 
+        "ubuhle", 
+        "owesimame", 
         "umgundi", 
         "ukugunda izimwele"
+    ], 
+    "💇‍♂️": [
+        "ukugunda izinwele", 
+        "indoda egundayo", 
+        "indoda"
     ], 
     "💈": [
         "ipholi yomgundi wezinwele", 
@@ -3779,20 +5360,10 @@
         "ijemu", 
         "ubucwebe"
     ], 
-    "💏": [
-        "izithandani", 
-        "ukuqabula"
-    ], 
     "💐": [
         "imbali", 
         "isixha sezimbali", 
         "isitshalo"
-    ], 
-    "💑": [
-        "izithandani ezinenhliziyo", 
-        "izithandani", 
-        "inhliziyo", 
-        "uthando"
     ], 
     "💒": [
         "umshado", 
@@ -3927,8 +5498,18 @@
     ], 
     "💪": [
         "izinkonyane", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umzimba", 
         "amamasela", 
-        "umzimba"
+        "izinkonyane: uhlobo-4", 
+        "izinkonyane: uhlobo-5", 
+        "izinkonyane: uhlobo-1-2", 
+        "izinkonyane: uhlobo-6", 
+        "izinkonyane: uhlobo-3"
     ], 
     "💫": [
         "opopayi", 
@@ -4401,6 +5982,13 @@
         "vhs", 
         "ividiyo khasethi"
     ], 
+    "📽️": [
+        "isinema", 
+        "ibhayisikobho", 
+        "ifilimu", 
+        "amafreymu", 
+        "imuvi"
+    ], 
     "📿": [
         "ubuhlalu", 
         "impahla yokugqoka", 
@@ -4772,6 +6360,17 @@
         "inkinobo", 
         "umcibisholo"
     ], 
+    "🕉️": [
+        "hindu", 
+        "om", 
+        "inkolo"
+    ], 
+    "🕊️": [
+        "inyoni", 
+        "ijuba", 
+        "ndiza", 
+        "ukuthula"
+    ], 
     "🕋": [
         "i-kaaba", 
         "amasulumane", 
@@ -5010,23 +6609,124 @@
         "30", 
         "12:30"
     ], 
+    "🕯️": [
+        "ukukhanya", 
+        "ikhandlela"
+    ], 
+    "🕰️": [
+        "iwashi", 
+        "mantelpiece clock"
+    ], 
+    "🕳️": [
+        "imbobo"
+    ], 
+    "🕴️": [
+        "isudu", 
+        "ibhizinisi", 
+        "indoda", 
+        "indoda egqoke isudu"
+    ], 
+    "🕵️‍♂️": [
+        "umseshi", 
+        "umpheyi", 
+        "impimpi"
+    ], 
+    "🕶️": [
+        "izibuko", 
+        "izibuko zamehlo", 
+        "izibuko zelanga", 
+        "ubumnyana", 
+        "ihlo"
+    ], 
+    "🕷️": [
+        "isicabucabu", 
+        "isilokozane"
+    ], 
+    "🕸️": [
+        "isicabucabu", 
+        "ulwembu", 
+        "ulwembu lwesicabucabu"
+    ], 
+    "🕹️": [
+        "ijoystiki", 
+        "umdlalo wevidiyo", 
+        "umdlalo"
+    ], 
     "🕺": [
+        "ukudansa: uhlobo-4", 
+        "ukudansa: uhlobo-5", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ukudansa: uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "ukudansa: uhlobo-6", 
+        "ukudansa: uhlobo-1-2", 
         "dansa", 
         "indoda", 
         "ukudansa"
     ], 
+    "🖇️": [
+        "okokubamba amaphepha okuhlangene", 
+        "okokuhlanganisa amaphepha okuhlangene"
+    ], 
+    "🖊️": [
+        "ipeni", 
+        "ukucija", 
+        "ipeni elicijile"
+    ], 
+    "🖋️": [
+        "ifountain pen", 
+        "ipeni", 
+        "fountain"
+    ], 
+    "🖌️": [
+        "ibhulashi lokupeda", 
+        "ukupenda"
+    ], 
+    "🖍️": [
+        "ikhrayoni"
+    ], 
+    "🖐️": [
+        "isandla", 
+        "isandla esiphakanyisiwe esivuliwe", 
+        "umunwe", 
+        "esivuliwe", 
+        "umzimba"
+    ], 
     "🖕": [
         "isandla", 
-        "umzimba", 
         "umunwe", 
-        "umunwe omaphakathi"
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "umunwe omaphakathi: uhlobo-1-2", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umzimba", 
+        "umunwe omaphakathi: uhlobo-3", 
+        "umunwe omaphakathi: uhlobo-4", 
+        "umunwe omaphakathi: uhlobo-5", 
+        "umunwe omaphakathi", 
+        "umunwe omaphakathi: uhlobo-6"
     ], 
     "🖖": [
         "isandla", 
-        "i-vulcan salute", 
-        "vulcan", 
+        "uhlobo-5", 
         "umunwe", 
-        "umzimba"
+        "i-vulcan salute: uhlobo-6", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "i-vulcan salute: uhlobo-4", 
+        "i-vulcan salute: uhlobo-1-2", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "i-vulcan salute: uhlobo-5", 
+        "umzimba", 
+        "vulcan", 
+        "i-vulcan salute: uhlobo-3", 
+        "i-vulcan salute"
     ], 
     "🖤": [
         "inhliziyo embi", 
@@ -5034,6 +6734,112 @@
         "inhliziyo", 
         "khohlakele", 
         "mnyama"
+    ], 
+    "🖥️": [
+        "ikhompyutha", 
+        "ideskhithophu", 
+        "ikhompyutha yedeskhithophu"
+    ], 
+    "🖨️": [
+        "ikhompyutha", 
+        "iphrinta"
+    ], 
+    "🖱️": [
+        "inkinobho", 
+        "isilawuli", 
+        "3", 
+        "ikhompyutha", 
+        "isilawuli sekhompyutha"
+    ], 
+    "🖲️": [
+        "itrackball", 
+        "ikhompyutha"
+    ], 
+    "🖼️": [
+        "imyuziyemu", 
+        "ifulemu enesithombe", 
+        "ubuciko", 
+        "isithombe", 
+        "ifulemu"
+    ], 
+    "🗂️": [
+        "okwahlukanisa amakhadi", 
+        "ikhadi", 
+        "okwahlukanisayo"
+    ], 
+    "🗃️": [
+        "ikhadi", 
+        "ifayela", 
+        "ibhodi lokugcina amakhadi", 
+        "ibhokisi"
+    ], 
+    "🗄️": [
+        "ikhabethe", 
+        "ikhabethei lamafayela", 
+        "fayela"
+    ], 
+    "🗑️": [
+        "ubhasikidi wezibi"
+    ], 
+    "🗒️": [
+        "izipringi", 
+        "okokubhala okunezipringi", 
+        "okokubhala"
+    ], 
+    "🗓️": [
+        "izipringi", 
+        "ikhalenda", 
+        "ikhalenda lezipringi"
+    ], 
+    "🗜️": [
+        "ithuluzi", 
+        "uvaysi", 
+        "isicindezeli"
+    ], 
+    "🗝️": [
+        "okudala", 
+        "khiya", 
+        "okukukhanyiselayo", 
+        "ukhiye omdala", 
+        "ukhiye"
+    ], 
+    "🗞️": [
+        "iphephandaba", 
+        "iphephandaba eligoqiwe", 
+        "iphepha", 
+        "eligoqiwe", 
+        "izindaba"
+    ], 
+    "🗡️": [
+        "isikhali", 
+        "ummese"
+    ], 
+    "🗣️": [
+        "ukukhuluma", 
+        "isithombe", 
+        "ikhanda elikhulumayo", 
+        "ubuso", 
+        "ikhanda"
+    ], 
+    "🗨️": [
+        "inkulumo", 
+        "ibhaluni lenkulumo lakwesokunxele"
+    ], 
+    "🗯️": [
+        "ibhaluni lenkulumo lakwesokudla lolaka", 
+        "ukucasuka", 
+        "ulaka", 
+        "ibhaluni"
+    ], 
+    "🗳️": [
+        "ibhalothi", 
+        "ibhokisi", 
+        "ibhokisi lebhalothi elinebhalothi"
+    ], 
+    "🗺️": [
+        "ibalazwe lomhlaba", 
+        "ibalazwe", 
+        "umhlaba"
     ], 
     "🗻": [
         "ifuji", 
@@ -5505,26 +7311,56 @@
         "pheqa amehlo", 
         "ubuso"
     ], 
-    "🙅": [
+    "🙅‍♀️": [
         "cha", 
         "uphawu", 
+        "owesimame", 
         "isandla", 
         "umuntu oveza ukuthi akulungile", 
         "enqaba", 
         "okungavumelekile", 
+        "owesimame oveza ukuthi akulungile", 
         "okunqantshiwe"
     ], 
-    "🙆": [
+    "🙅‍♂️": [
+        "cha", 
+        "uphawu", 
+        "isandla", 
+        "okunqantshiwe", 
+        "indoda eveza ukuthi akulungile", 
+        "enqaba", 
+        "okungavumelekile", 
+        "indoda"
+    ], 
+    "🙆‍♀️": [
         "umuntu oveza ukuthi kulungile", 
         "isandla", 
         "uphawu", 
+        "kulungile", 
+        "owesimame oveza ukuthi kulungile", 
+        "owesmame"
+    ], 
+    "🙆‍♂️": [
+        "owesilisa oveza ukuthi kulungile", 
+        "isandla", 
+        "uphawu", 
+        "indoda", 
         "kulungile"
     ], 
-    "🙇": [
-        "umuntu othobile", 
+    "🙇‍♀️": [
+        "owesimame othobe kakhulu", 
         "uphawu", 
         "ukuxolisa", 
+        "owesimame", 
         "ukuthoba"
+    ], 
+    "🙇‍♂️": [
+        "uphawu", 
+        "indoda ethobe kakhulu", 
+        "umuntu othobile", 
+        "ukuthoba", 
+        "ukuxolisa", 
+        "indoda"
     ], 
     "🙈": [
         "ububi", 
@@ -5553,41 +7389,86 @@
         "ubuso", 
         "okungavumelekile"
     ], 
-    "🙋": [
-        "ukuphakamisa", 
+    "🙋‍♀️": [
         "isandla", 
-        "umuntu ophakamisa isandla", 
         "uphawu", 
-        "ukujabula"
+        "owesimame ophakamise isandla", 
+        "umuntu ophakamisa isandla", 
+        "ukujabula", 
+        "owesimame", 
+        "ukuphakamisa"
+    ], 
+    "🙋‍♂️": [
+        "isandla", 
+        "uphawu", 
+        "indoda ephakamise isandla", 
+        "ukujabula", 
+        "ukuphakamisa", 
+        "indoda"
     ], 
     "🙌": [
         "umuntu ophakamise izandla", 
         "isandla", 
         "uphawu", 
         "umbungazo", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umuntu ophakamise izandla: uhlobo-1-2", 
         "umzimba", 
         "halala", 
-        "ukuphakamisa"
+        "ukuphakamisa", 
+        "umuntu ophakamise izandla: uhlobo-3", 
+        "umuntu ophakamise izandla: uhlobo-6", 
+        "umuntu ophakamise izandla: uhlobo-4", 
+        "umuntu ophakamise izandla: uhlobo-5"
     ], 
-    "🙍": [
+    "🙍‍♀️": [
+        "owesimame ohwaqabele", 
         "ukuhwaqabala", 
+        "owesimame", 
         "umuntu ohwaqabele"
     ], 
-    "🙎": [
+    "🙍‍♂️": [
+        "ukuhwaqabala", 
+        "indoda", 
+        "indoda ehwaqabele"
+    ], 
+    "🙎‍♀️": [
         "umuntu odangele", 
-        "ukudangala"
+        "odangele", 
+        "owesimame odangele", 
+        "ukudangala", 
+        "owesimame"
+    ], 
+    "🙎‍♂️": [
+        "ukudangala", 
+        "indoda", 
+        "indoda edangele"
     ], 
     "🙏": [
         "isandla", 
+        "izandla ezigoqiwe: uhlobo-1-2", 
+        "izandla ezigoqiwe: uhlobo-6", 
         "uphawu", 
+        "izandla ezigoqiwe: uhlobo-4", 
+        "izandla ezigoqiwe: uhlobo-5", 
         "ukubonga", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "izandla ezigoqiwe: uhlobo-3", 
+        "uhlobo-1-2", 
         "ukuncenga", 
         "umzimba", 
         "thoba", 
         "izandla ezigoqiwe", 
         "goqa", 
         "ukuthandaza", 
-        "cela"
+        "uhlobo-6", 
+        "cela", 
+        "uhlobo-4"
     ], 
     "🚀": [
         "umkhathi", 
@@ -5785,9 +7666,17 @@
         "isithuthi", 
         "umkhumbi"
     ], 
-    "🚣": [
+    "🚣‍♀️": [
         "isikebhe", 
+        "owesimame ogwedla isikebhe", 
+        "ukugwedla isikebhe", 
+        "owesimame"
+    ], 
+    "🚣‍♂️": [
+        "indoda egwedla isikebhe", 
+        "indoda", 
         "umuntu ogwedla isikebhe", 
+        "isikebhe", 
         "isithuthi", 
         "ukugwedla isikebhe"
     ], 
@@ -5883,18 +7772,41 @@
         "isithuthi", 
         "akuvumelekile"
     ], 
-    "🚴": [
+    "🚴‍♀️": [
+        "ibhayisikili", 
+        "owesimame", 
+        "owesimeme ogibele ibhayisikili"
+    ], 
+    "🚴‍♂️": [
+        "indoda egibele ibhayisikili", 
         "ibhayisikili", 
         "umuntu ogibele ibhayisikili", 
-        "umgibeli webhayisikili"
+        "umgibeli webhayisikili", 
+        "indoda"
     ], 
-    "🚵": [
+    "🚵‍♀️": [
+        "intaba", 
         "ibhayisikili", 
-        "umuntu ogibele ibhayisikili lezintaba", 
-        "izintaba"
+        "owesimame", 
+        "owesimame ogibele ibhayisikili lezintaba"
     ], 
-    "🚶": [
+    "🚵‍♂️": [
+        "intaba", 
+        "umuntu ogibele ibhayisikili lezintaba", 
+        "izintaba", 
+        "ibhayisikili", 
+        "indoda egibele ibhayisikili lezintaba", 
+        "indoda"
+    ], 
+    "🚶‍♀️": [
+        "owesimame ohambayo", 
+        "ukuhamba", 
+        "owesimame"
+    ], 
+    "🚶‍♂️": [
         "umuntu ohambayo", 
+        "indoda ehambayo", 
+        "indoda", 
         "ukuhamba"
     ], 
     "🚷": [
@@ -5944,7 +7856,17 @@
     ], 
     "🛀": [
         "umuntu ogezayo", 
+        "uhlobo-6", 
         "ubhavu wokugezela", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "umuntu ogezayo: uhlobo-1-2", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umuntu ogezayo: uhlobo-3", 
+        "umuntu ogezayo: uhlobo-6", 
+        "umuntu ogezayo: uhlobo-4", 
+        "umuntu ogezayo: uhlobo-5", 
         "ukugeza"
     ], 
     "🛁": [
@@ -5970,10 +7892,41 @@
         "impahla esele", 
         "impahla"
     ], 
+    "🛋️": [
+        "ihhotela", 
+        "ilambu", 
+        "usofa ilambu", 
+        "usofa"
+    ], 
     "🛌": [
         "ihhotela", 
+        "ukulala", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "umuntu olele", 
-        "ukulala"
+        "uhlobo-1-2", 
+        "umuntu olele: uhlobo-6", 
+        "umuntu olele: uhlobo-5", 
+        "umuntu olele: uhlobo-4", 
+        "umuntu olele: uhlobo-3", 
+        "umuntu olele: uhlobo-1-2"
+    ], 
+    "🛍️": [
+        "ihhotela", 
+        "izikhwama zokuthenga", 
+        "isikhwama", 
+        "ukuthenga"
+    ], 
+    "🛎️": [
+        "ihhotela", 
+        "insimbi"
+    ], 
+    "🛏️": [
+        "ihhotela", 
+        "ukulala", 
+        "umbhede"
     ], 
     "🛐": [
         "ukukhonza", 
@@ -5992,6 +7945,41 @@
         "ikalishi", 
         "ukuthenga"
     ], 
+    "🛠️": [
+        "isando", 
+        "ispanelo", 
+        "ipiki", 
+        "isando nespanelo"
+    ], 
+    "🛡️": [
+        "isikhali", 
+        "ihawu"
+    ], 
+    "🛢️": [
+        "idramu", 
+        "idramu lamafutha", 
+        "amafutha"
+    ], 
+    "🛣️": [
+        "umgwaqo", 
+        "umgwaqo womphakathi", 
+        "umgwaqo onguthelawayeka"
+    ], 
+    "🛤️": [
+        "isitimela", 
+        "ujantshi", 
+        "ujantshi wesitimela"
+    ], 
+    "🛥️": [
+        "isikebhe", 
+        "isithuthi", 
+        "isikebhe esinenjini"
+    ], 
+    "🛩️": [
+        "ibhanoyi elincane", 
+        "isithuthi", 
+        "ibhanoyi"
+    ], 
     "🛫": [
         "ukukhipa ithikithi", 
         "isithuthi", 
@@ -6005,6 +7993,17 @@
         "ukuhlala phansi kwebhanoyi", 
         "ukufika", 
         "isthuthi"
+    ], 
+    "🛰️": [
+        "umkhathi", 
+        "isithuthi", 
+        "isethalayithi"
+    ], 
+    "🛳️": [
+        "isithuthi", 
+        "umgibeli", 
+        "umkhumbi othwala abagbeli", 
+        "umkhumbi"
     ], 
     "🛴": [
         "isikuta esikhahlelwayo", 
@@ -6074,31 +8073,81 @@
         "ubuso"
     ], 
     "🤘": [
-        "izimpondo", 
+        "uhlobo-1-2", 
         "isandla", 
-        "umzimba", 
         "umunwe", 
-        "uphawu lwezimpondo"
+        "uphawu lwezimpondo: uhlobo-1-2", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "izimpondo", 
+        "uhlobo-6", 
+        "umzimba", 
+        "uphawu lwezimpondo: uhlobo-5", 
+        "uphawu lwezimpondo: uhlobo-3", 
+        "uphawu lwezimpondo", 
+        "uphawu lwezimpondo: uhlobo-4", 
+        "uphawu lwezimpondo: uhlobo-6"
     ], 
     "🤙": [
-        "ngifonele", 
+        "uhlobo-1-2", 
         "isandla", 
-        "fona"
+        "ngifonele: uhlobo-1-2", 
+        "ngifonele: uhlobo-3", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "ngifonele: uhlobo-6", 
+        "uhlobo-3", 
+        "fona", 
+        "ngifonele: uhlobo-5", 
+        "ngifonele", 
+        "uhlobo-6", 
+        "ngifonele: uhlobo-4"
     ], 
     "🤚": [
+        "thula: uhlobo-3", 
         "thula", 
         "ingemuva lesandla", 
-        "siphakamisiwe"
+        "thula: uhlobo-6", 
+        "thula: uhlobo-5", 
+        "thula: uhlobo-4", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "siphakamisiwe", 
+        "uhlobo-1-2", 
+        "thula: uhlobo-1-2"
     ], 
     "🤛": [
+        "inqindi ebheke kwesokunxele: uhlobo-1-2", 
+        "kwesokunxele", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "inqindi ebheke kwesokunxele", 
+        "inqindi ebheke kwesokunxele: uhlobo-3", 
+        "inqindi ebheke kwesokunxele: uhlobo-6", 
         "inqindi", 
-        "kwesokunxele"
+        "inqindi ebheke kwesokunxele: uhlobo-4", 
+        "inqindi ebheke kwesokunxele: uhlobo-5"
     ], 
     "🤜": [
         "kwesokudla", 
-        "inqindi", 
-        "inqindi ebheke kwesokudla"
+        "uhlobo-5", 
+        "uhlobo-6", 
+        "inqindi ebheke kwesokudla: uhlobo-1-2", 
+        "uhlobo-4", 
+        "inqindi ebheke kwesokudla: uhlobo-4", 
+        "inqindi ebheke kwesokudla: uhlobo-3", 
+        "uhlobo-3", 
+        "inqindi ebheke kwesokudla", 
+        "uhlobo-1-2", 
+        "inqindi ebheke kwesokudla: uhlobo-6", 
+        "inqindi ebheke kwesokudla: uhlobo-5", 
+        "inqindi"
     ], 
     "🤝": [
         "isandla", 
@@ -6110,14 +8159,34 @@
     ], 
     "🤞": [
         "isandla", 
+        "iminwe ebhanqiwe: uhlobo-5", 
+        "umunwe", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "iminwe ebhanqiwe", 
+        "uhlobo-1-2", 
+        "iminwe ebhanqiwe: uhlobo-4", 
         "bhanqa", 
         "inhlanhla", 
-        "umunwe", 
-        "iminwe ebhanqiwe"
+        "iminwe ebhanqiwe: uhlobo-3", 
+        "iminwe ebhanqiwe: uhlobo-1-2", 
+        "iminwe ebhanqiwe: uhlobo-6"
     ], 
     "🤟": [
         "isandla", 
+        "ukukhombisa uthando: uhlobo-6", 
+        "ukukhombisa uthando: uhlobo-5", 
+        "ukukhombisa uthando: uhlobo-4", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ukukhombisa uthando: uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
         "ukukhombisa uthando", 
+        "ukukhombisa uthando: uhlobo-1-2", 
         "ILY"
     ], 
     "🤠": [
@@ -6153,9 +8222,33 @@
         "upopayi"
     ], 
     "🤦": [
+        "uhlobo-1-2", 
+        "ukuzifihla: uhlobo-1-2", 
+        "uhlobo-6", 
+        "ukuzifihla: uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "ukuzifihla", 
+        "uhlobo-3", 
+        "intende yesandla", 
+        "ubuso", 
+        "ukuzifihla: uhlobo-3", 
+        "ukungakholwa", 
+        "ukucikeka", 
+        "ukuzifihla: uhlobo-4", 
+        "ukuzifihla: uhlobo-5"
+    ], 
+    "🤦‍♀️": [
         "intende yesandla", 
         "ukungakholwa", 
-        "ukuzifihla", 
+        "ukucikeka", 
+        "ubuso", 
+        "ukuzifihla kowesimame"
+    ], 
+    "🤦‍♂️": [
+        "intende yesandla", 
+        "ukungakholwa", 
+        "ukuzifihla kowesilisa", 
         "ukucikeka", 
         "ubuso"
     ], 
@@ -6206,60 +8299,204 @@
         "thukile"
     ], 
     "🤰": [
+        "okhulelwe: uhlobo-5", 
+        "okhulelwe: uhlobo-4", 
+        "okhulelwe: uhlobo-6", 
+        "okhulelwe: uhlobo-3", 
+        "okhulelwe", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "owesifazane", 
         "ukukhulelwa", 
-        "okhulelwe"
+        "okhulelwe: uhlobo-1-2"
     ], 
     "🤱": [
+        "ukuncelisa: uhlobo-6", 
+        "ukuncelisa: uhlobo-3", 
+        "ukuncelisa: uhlobo-4", 
+        "ukuncelisa: uhlobo-5", 
+        "ukuncelisa", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "ukuncelisa: uhlobo-1-2", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "ukunesa", 
         "ibele", 
-        "ingane", 
-        "ukuncelisa"
+        "ingane"
     ], 
     "🤲": [
+        "uhlobo-5", 
+        "izandla zombili phezulu: uhlobo-1-2", 
+        "uhlobo-6", 
+        "izandla zombili phezulu: uhlobo-6", 
+        "uhlobo-4", 
+        "izandla zombili phezulu: uhlobo-4", 
+        "izandla zombili phezulu: uhlobo-3", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "izandla zombili phezulu", 
-        "umthandazo"
+        "umthandazo", 
+        "izandla zombili phezulu: uhlobo-5"
     ], 
     "🤳": [
         "ikhamela", 
+        "uhlobo-6", 
         "uzishuthe", 
-        "ukuzishutha", 
-        "ifoni"
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "ifoni", 
+        "uzishuthe: uhlobo-6", 
+        "uzishuthe: uhlobo-4", 
+        "uzishuthe: uhlobo-5", 
+        "uzishuthe: uhlobo-1-2", 
+        "uzishuthe: uhlobo-3", 
+        "ukuzishutha"
     ], 
     "🤴": [
-        "inkosana"
+        "uhlobo-1-2", 
+        "inkosana: uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "inkosana", 
+        "inkosana: uhlobo-3", 
+        "inkosana: uhlobo-6", 
+        "inkosana: uhlobo-4", 
+        "inkosana: uhlobo-5"
     ], 
     "🤵": [
+        "indoda kwisudu: uhlobo-6", 
+        "uhlobo-6", 
+        "indoda kwisudu: uhlobo-3", 
+        "uhlobo-5", 
+        "indoda kwisudu: uhlobo-5", 
+        "uhlobo-3", 
+        "indoda kwisudu: uhlobo-4", 
+        "uhlobo-1-2", 
         "umkhwenyana", 
         "isudu", 
+        "indoda kwisudu", 
         "indoda", 
-        "indoda kwisudu"
+        "uhlobo-4", 
+        "indoda kwisudu: uhlobo-1-2"
     ], 
     "🤶": [
-        "umama kakhisimusi", 
+        "umama kakhisimusi: uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
+        "umama kakhisimusi: uhlobo-3", 
         "ukhisimuzi", 
-        "umama", 
-        "uNkosikazi Claus"
+        "umama kakhisimusi: uhlobo-6", 
+        "umama kakhisimusi: uhlobo-4", 
+        "umama kakhisimusi: uhlobo-5", 
+        "umama kakhisimusi", 
+        "uNkosikazi Claus", 
+        "umama"
     ], 
     "🤷": [
+        "uhlobo-1-2", 
+        "shukuza amahlombe: uhlobo-5", 
+        "ukungabaza", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "shukuza amahlombe", 
+        "uhlobo-3", 
+        "shukuza amahlombe: uhlobo-3", 
+        "ukunganaki", 
+        "shukuza amahlombe: uhlobo-6", 
+        "ukungabi nandaba", 
+        "shukuza amahlombe: uhlobo-1-2", 
+        "shukuza amahlombe: uhlobo-4", 
+        "ukunyakazisa amahlombe"
+    ], 
+    "🤷‍♀️": [
         "ukunganaki", 
         "ukungabi nandaba", 
-        "shukuza amahlombe", 
+        "ukushukuza amahlombe kowesimame", 
+        "ukunyakazisa amahlombe", 
+        "ukungabaza"
+    ], 
+    "🤷‍♂️": [
+        "ukunganaki", 
+        "ukushukuza amahlombe kowesilisa", 
+        "ukungabi nandaba", 
         "ukunyakazisa amahlombe", 
         "ukungabaza"
     ], 
     "🤸": [
+        "uhlobo-1-2", 
+        "uhlobo-5", 
+        "isondo lekalishi: uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "umdlalo", 
+        "uhlobo-3", 
+        "isondo lekalishi", 
+        "umuntu", 
+        "bhakela", 
+        "isondo lekalishi: uhlobo-4", 
+        "isondo lekalishi: uhlobo-5", 
+        "isondo lekalishi: uhlobo-6", 
+        "isondo lekalishi: uhlobo-3"
+    ], 
+    "🤸‍♀️": [
         "umuntu", 
         "bhakela", 
         "umdlalo", 
+        "owesimame enza isondo lekalishi", 
+        "isondo lekalishi"
+    ], 
+    "🤸‍♂️": [
+        "umuntu", 
+        "bhakela", 
+        "umdlalo", 
+        "owesilisa enza isondo lekalishi", 
         "isondo lekalishi"
     ], 
     "🤹": [
-        "ikhono", 
+        "ukudlala: uhlobo-1-2", 
+        "ukudlala", 
+        "ukudlala: uhlobo-5", 
         "dlala", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "ukudlala: uhlobo-3", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "ukudlala: uhlobo-6", 
+        "ukudlala: uhlobo-4", 
+        "ikhono", 
+        "sikhathi sodwa", 
+        "bhalansa"
+    ], 
+    "🤹‍♀️": [
+        "dlala", 
+        "owesimame odlala ngamabhola", 
+        "owesimame", 
+        "ikhono", 
+        "sikhathi sodwa", 
+        "bhalansa"
+    ], 
+    "🤹‍♂️": [
+        "dlala", 
+        "indoda edlala ngamabhola", 
+        "ikhono", 
         "sikhathi sodwa", 
         "bhalansa", 
-        "ukudlala"
+        "indoda"
     ], 
     "🤺": [
         "ukufensa", 
@@ -6275,15 +8512,77 @@
         "abashayi-sibhakela", 
         "umshayi-sibhakela"
     ], 
+    "🤼‍♀️": [
+        "umuntu", 
+        "abashayisibhakela besimame", 
+        "umdlalo", 
+        "umshayi-sibhakela", 
+        "bhakela"
+    ], 
+    "🤼‍♂️": [
+        "abashayisibhakela besilisa", 
+        "bhakela", 
+        "umdlalo", 
+        "umuntu", 
+        "umshayi-sibhakela"
+    ], 
     "🤽": [
+        "uhlobo-1-2", 
+        "uhlobo-5", 
+        "ukubhukuda: uhlobo-6", 
+        "uhlobo-6", 
+        "amanzi", 
+        "umdlalo", 
+        "uhlobo-3", 
+        "ukubhukuda: uhlobo-4", 
+        "umuntu", 
+        "ipholo", 
+        "ukubhukuda: uhlobo-3", 
+        "ukubhukuda: uhlobo-1-2", 
+        "ukubhukuda: uhlobo-5", 
+        "uhlobo-4", 
+        "ukubhukuda"
+    ], 
+    "🤽‍♀️": [
         "umuntu", 
         "ipholo", 
         "amanzi", 
         "umdlalo", 
-        "ukubhukuda"
+        "umdlalo webhola lasemanzini wowesimame"
+    ], 
+    "🤽‍♂️": [
+        "umuntu", 
+        "ipholo", 
+        "amanzi", 
+        "umdlalo", 
+        "umdlalo webhola lasemanzini wowesilisa"
     ], 
     "🤾": [
+        "uhlobo-1-2", 
+        "uhlobo-5", 
+        "ibhola lesandla: uhlobo-1-2", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "umdlalo", 
+        "ibhola lesandla", 
+        "uhlobo-3", 
         "umuntu", 
+        "ibhola lesandla: uhlobo-3", 
+        "ibhola lesandla: uhlobo-6", 
+        "ibhola lesandla: uhlobo-4", 
+        "ibhola lesandla: uhlobo-5", 
+        "ibhola"
+    ], 
+    "🤾‍♀️": [
+        "ibhola lesandla lowesimame", 
+        "umuntu", 
+        "umdlalo", 
+        "ibhola lesandla", 
+        "ibhola"
+    ], 
+    "🤾‍♂️": [
+        "umuntu", 
+        "ibhola lesandla lowesilisa", 
         "umdlalo", 
         "ibhola lesandla", 
         "ibhola"
@@ -6631,77 +8930,183 @@
         "nuka"
     ], 
     "🧑": [
+        "mdala: uhlobo-1-2", 
+        "ubulili-phakathi", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
+        "uhlobo-1-2", 
         "mdala", 
-        "ubulili-phakathi"
+        "mdala: uhlobo-3", 
+        "mdala: uhlobo-6", 
+        "mdala: uhlobo-4", 
+        "mdala: uhlobo-5"
     ], 
     "🧒": [
-        "mncane", 
+        "uhlobo-6", 
         "ingane", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "ingane: uhlobo-6", 
+        "uhlobo-3", 
+        "ingane: uhlobo-4", 
+        "ingane: uhlobo-5", 
+        "uhlobo-1-2", 
+        "ingane: uhlobo-1-2", 
+        "ingane: uhlobo-3", 
+        "mncane", 
         "ubulili obuphakathi"
     ], 
     "🧓": [
-        "mdala", 
+        "omdala omdala: uhlobo-6", 
+        "omdala omdala: uhlobo-5", 
+        "omdala omdala: uhlobo-4", 
+        "omdala omdala: uhlobo-3", 
+        "ubulili-phakathi", 
+        "uhlobo-6", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "omdala omdala", 
-        "ubulili-phakathi"
+        "uhlobo-1-2", 
+        "omdala omdala: uhlobo-1-2", 
+        "mdala"
     ], 
     "🧔": [
+        "umuntu onentshebe", 
+        "uhlobo-1-2", 
+        "uhlobo-6", 
+        "umuntu onentshebe: uhlobo-3", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "umuntu onentshebe: uhlobo-6", 
+        "uhlobo-3", 
+        "umuntu onentshebe: uhlobo-4", 
+        "umuntu onentshebe: uhlobo-5", 
         "intshebe", 
-        "umuntu onentshebe"
+        "umuntu onentshebe: uhlobo-1-2"
     ], 
     "🧕": [
-        "iduku", 
         "i-hijab", 
+        "owesifazane oneduku: uhlobo-6", 
         "owesifazane oneduku", 
+        "uhlobo-6", 
+        "iduku", 
+        "uhlobo-4", 
+        "uhlobo-5", 
+        "uhlobo-3", 
         "i-mantilla", 
+        "uhlobo-1-2", 
+        "owesifazane oneduku: uhlobo-3", 
+        "owesifazane oneduku: uhlobo-4", 
+        "owesifazane oneduku: uhlobo-5", 
+        "owesifazane oneduku: uhlobo-1-2", 
         "i-tichel"
     ], 
-    "🧖": [
+    "🧖‍♀️": [
+        "owesifazane egunjini lestimu", 
+        "igumbi lestimu", 
+        "isona"
+    ], 
+    "🧖‍♂️": [
+        "owesilisa egunjini lestimu", 
         "umuntu egumbini elinestimu", 
         "igumbi lestimu", 
         "isona"
     ], 
-    "🧗": [
+    "🧗‍♀️": [
         "umuntu ogibelayo", 
+        "umqwali", 
+        "owesifazane oqwalayo"
+    ], 
+    "🧗‍♂️": [
+        "owesilisa oqwalayo", 
         "umqwali"
     ], 
-    "🧘": [
+    "🧘‍♀️": [
         "iyoga", 
+        "owesifazane esikhundleni se-lotus", 
         "ukucabanga", 
         "umuntu esikhundleni se-lotus"
     ], 
-    "🧙": [
-        "izangoma", 
-        "isangoma", 
-        "i-mage", 
-        "iwizadi", 
-        "umthakathi"
+    "🧘‍♂️": [
+        "iyoga", 
+        "owesilisa esikhundleni se-lotus", 
+        "ukucabanga"
     ], 
-    "🧚": [
+    "🧙‍♀️": [
+        "i-mage", 
+        "isangoma", 
+        "i-mage yowesifazane", 
+        "izangoma", 
+        "umthakathi", 
+        "iwizadi"
+    ], 
+    "🧙‍♂️": [
+        "isangoma", 
+        "iwizadi", 
+        "i-mage yowesilisa"
+    ], 
+    "🧚‍♀️": [
         "nganekwane", 
         "i-Puck", 
+        "ngelosi yesifazane", 
         "i-Titania", 
         "i-Oberon"
     ], 
-    "🧛": [
+    "🧚‍♂️": [
+        "ngelosi yesilisa", 
+        "i-Puck", 
+        "i-Oberon"
+    ], 
+    "🧛‍♀️": [
+        "ngafile", 
         "ivemphaya", 
+        "ivemphaya lesifazane", 
         "ongafile", 
         "u-Dracula"
     ], 
-    "🧜": [
+    "🧛‍♂️": [
+        "udracula ongafile", 
+        "ivemphaya lendoda"
+    ], 
+    "🧜‍♀️": [
         "i-merwoman", 
+        "i-mermaid"
+    ], 
+    "🧜‍♂️": [
+        "i-merwoman", 
+        "i-Triton", 
         "i-merperson", 
         "i-merman", 
         "i-mermaid"
     ], 
-    "🧝": [
+    "🧝‍♀️": [
+        "i-elf yesifazane", 
+        "okomlingo"
+    ], 
+    "🧝‍♂️": [
         "i-elf", 
+        "i-elf yesilisa", 
         "mlingo"
     ], 
-    "🧞": [
-        "ijeni", 
+    "🧞‍♀️": [
+        "ijeni yesifazane", 
         "i-djinn"
     ], 
-    "🧟": [
+    "🧞‍♂️": [
+        "ijeni", 
+        "ijeni yesilisa", 
+        "i-djinn"
+    ], 
+    "🧟‍♀️": [
+        "isilwane sowesifazane", 
+        "ngafile", 
+        "hamba efile"
+    ], 
+    "🧟‍♂️": [
+        "isipoki sowesilisa", 
         "ngafile", 
         "isilwane", 
         "hamba efile"
