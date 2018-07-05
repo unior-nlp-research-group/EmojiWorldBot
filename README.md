@@ -1,7 +1,7 @@
 # EmojiWorldBot
-Code behind the Bot (EmojiWorldBot)[https://t.me/emojiworldbot] on Telegram
+Code behind the Bot [EmojiWorldBot](https://t.me/emojiworldbot) on Telegram
 
-EmojiWorldBot version 1.0
+*EmojiWorldBot version 1.0*
 
 EmojiWorldBot is a multilingual emoji dictionary that uses
 emojis as a pivot for contributors among dozens of diverse languages.
