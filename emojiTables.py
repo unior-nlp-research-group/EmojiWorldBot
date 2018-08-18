@@ -134,7 +134,8 @@ def getEmojiList(lang_code, tag, show_alpha_names):
     result = list(set(result))
     if show_alpha_names:
         from emojiUtil import getAlphaName
-        return ["{} [{}]".format(x,getAlphaName(x)) for x in result]
+        #return ["{} :{}:".format(x,utility.escapeMarkdown(getAlphaName(x))) for x in result]
+        return ["{} :{}:".format(x, getAlphaName(x)) for x in result]
     return result
 
 def addUserDefinedTag(lang_code, emoji, proposedTag):

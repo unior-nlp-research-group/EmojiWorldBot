@@ -122,7 +122,8 @@ INFO = utility.unindent(
     or the creation of new ones for any additional language.
 
     @EmojiWorldBot is a free public service produced by \
-    Federico Sangati (Netherlands), Martin Benjamin and Sina Mansour \
+    Federico Sangati at University of Naples “L’Orientale” (Italy), \ 
+    Martin Benjamin and Sina Mansour \
     at Kamusi Project International and EPFL (Switzerland), \
     Francesca Chiusaroli at University of Macerata (Italy), \
     and Johanna Monti at University of Naples “L’Orientale” (Italy). \
@@ -581,9 +582,9 @@ def dealWithInputTagOrEmoji(p, input):
         # input is an emoji
         tagList = emojiTables.getTagList(lang_code, emoji_norm)
         if len(tagList)>0:
-            emoji_info = '{} [{}]'.format(input, utility.escapeMarkdown(emojiUtil.getAlphaName(input))) if p.show_alpha_names else input
+            emoji_info = '{} :{}:'.format(input, utility.escapeMarkdown(emojiUtil.getAlphaName(input))) if p.show_alpha_names else input
             tagsStr = ", ".join(tagList)
-            tell(p.chat_id, "Found the following tags for {0}: \n *{1}*".format(
+            tell(p.chat_id, "Found the following tags for {0}\n*{1}*".format(
                 emoji_info, tagsStr), markdown=utility.markdownSafe(tagsStr))
             # logging.info(str(p.chat_id) + " searching emoji " + input_norm + " and getting tags " + tags)
             search.addSearch(p.chat_id, lang_code, emoji_norm, is_searched_emoji=True, inline_query=False,
@@ -599,7 +600,7 @@ def dealWithInputTagOrEmoji(p, input):
         emojiList = emojiTables.getEmojiList(lang_code, input, p.show_alpha_names)
         if len(emojiList)>0:
             emojis = " ".join(emojiList)
-            tell(p.chat_id, "Found the following emojis for *{0}*:\n{1}".format(
+            tell(p.chat_id, "Found the following emojis for *{0}*\n{1}".format(
                 input, emojis), markdown=utility.markdownSafeList([input, emojis]))
             # logging.info(str(p.chat_id) + " searching tag '" + input + "' and getting emojis " + emojis)
             search.addSearch(p.chat_id, lang_code, input, is_searched_emoji=False, inline_query=False,
